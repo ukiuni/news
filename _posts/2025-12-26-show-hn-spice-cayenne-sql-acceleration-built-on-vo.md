@@ -42,4 +42,3 @@ Spice Cayenneは、Vortex列指向フォーマットと軽量メタデータ層�
 - URL: https://spice.ai/blog/introducing-spice-cayenne-data-accelerator  
 
 ---
-*この記事はHacker Newsで話題の記事を日本語で解説したものです。*

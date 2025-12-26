@@ -38,6 +38,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/what-the-linux-desktop-really-needs-to-challenge-w/' | relative_url }}">what the linux desktop really needs to challenge w</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/we-solved-c10k-years-ago-yet-we-keep-reinventing-i/' | relative_url }}">we solved c10k years ago yet we keep reinventing i</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -51,6 +57,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/ultimate-linux-userspace-for-linux-in-pure-javascr/' | relative_url }}">ultimate linux userspace for linux in pure javascr</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/turbodiffusion-100200-acceleration-for-video-diffu/' | relative_url }}">turbodiffusion 100200 acceleration for video diffu</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -134,6 +146,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/scraping-on-the-edge-how-i-built-a-lightning-fast/' | relative_url }}">scraping on the edge how i built a lightning fast</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/schwarzschild-geodesic-visualization-in-cwebassemb/' | relative_url }}">schwarzschild geodesic visualization in cwebassemb</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -147,6 +165,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/ruby-400-released-ruby/' | relative_url }}">ruby 400 released ruby</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/rob-pike-goes-nuclear-over-genai/' | relative_url }}">rob pike goes nuclear over genai</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
