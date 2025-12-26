@@ -170,6 +170,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/the-best-things-and-stuff-of-2025/' | relative_url }}">the best things and stuff of 2025</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/the-algebra-of-loans-in-rust/' | relative_url }}">the algebra of loans in rust</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -231,6 +237,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/show-hn-xcc700-self-hosting-mini-c-compiler-for-es/' | relative_url }}">show hn xcc700 self hosting mini c compiler for es</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/show-hn-witr-explain-why-a-process-is-running-on-y/' | relative_url }}">show hn witr explain why a process is running on y</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -596,6 +608,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/drawing-with-zero-width-characters/' | relative_url }}">drawing with zero width characters</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/dji-drone-ban-has-started-in-the-us-but-it-wont-ha/' | relative_url }}">dji drone ban has started in the us but it wont ha</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -645,6 +663,18 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/code-mode-doesnt-replace-mcp-heres-what-it-actuall/' | relative_url }}">code mode doesnt replace mcp heres what it actuall</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/clair-obscur-expedition-33-director-guillaume-brio/' | relative_url }}">clair obscur expedition 33 director guillaume brio</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/china-debuts-worlds-first-million-ton-hydrogen-ele/' | relative_url }}">china debuts worlds first million ton hydrogen ele</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
