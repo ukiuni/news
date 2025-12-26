@@ -1,0 +1,30 @@
+# GitHub Pages Configuration
+title: HN Japan - 日本向けテックニュース
+description: Hacker Newsで話題の記事を日本語で解説
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+# Exclude from build
+exclude:
+  - node_modules
+  - .hn-generator
+  - "*.ts"
+  - "*.js"
+  - package.json
+  - package-lock.json
+  - tsconfig.json
