@@ -14,6 +14,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/writing-an-nes-emulator-in-haskell/' | relative_url }}">writing an nes emulator in haskell</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/wifi-densepose-wifi-based-dense-human-pose-estimat/' | relative_url }}">wifi densepose wifi based dense human pose estimat</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -314,7 +320,19 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/building-an-ai-agent-inside-a-7-year-old-rails-mon/' | relative_url }}">building an ai agent inside a 7 year old rails mon</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/are-two-heads-better-than-one/' | relative_url }}">are two heads better than one</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/animating-quines-for-larva-labs/' | relative_url }}">animating quines for larva labs</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
