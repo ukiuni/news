@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Microsoft Is Finally Killing RC4"
+date: 2025-12-26T04:06:25.435Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html"
+source_title: "Microsoft Is Finally Killing RC4"
+source_id: 1697350332
+---
+
+# ついに終焉へ：MicrosoftがRC4を廃止 — 日本の現場が今すぐ確認すべき理由
+
+## 要約
+Microsoftが長年残っていたRC4対応をようやく廃止すると発表した。RC4フォールバックはKerberoastingなどのオフライン攻撃で悪用され、企業ネットワーク侵害の原因になってきた。
+
+## この記事を読むべき理由
+日本の多くの企業はWindows Active Directory（AD）に依存しており、RC4関連の弱点は病院や重要インフラを含む現場に深刻なインパクトを与える可能性がある。対応手順を知らないと、今回の変更で逆に運用トラブルや未然防止の機会損失が生じる。
+
+## 詳細解説
+- 背景：RC4は1990年代以来使われてきたストリーム暗号だが、バイアスや鍵再利用などの脆弱性が指摘されている。これに対してAESは設計上強固で、Kerberosのサービスチケット暗号化でもAESが推奨される。
+- 問題点：AD環境ではサーバ／サービスアカウントがRC4を「許容」していると、攻撃者は正規ユーザー権限で任意のサービスのチケット（TGS）を取得し、それをオフラインで総当たり解析できる（Kerberoasting）。オフライン攻撃なのでアカウントロックアウトが働かず、専用ハードで短時間に平文を得られる危険がある。
+- 実被害の事例：報告されている大規模侵害（例：Ascension事件）ではRC4フォールバックが侵入の一因とされ、病院運用に直接的な影響が出た。
+- Microsoftの動き：長年の互換性維持のためRC4対応を残していたが、やっと非推奨・削除の方向へ。これはKerberoasting対策として重要な一歩だが、移行中の運用管理が鍵になる。
+
+## 実践ポイント
+- まず監査：AD内でRC4を許可しているアカウントや端末を洗い出す。
+  - 例：PowerShellでサービスアカウントの暗号化タイプ属性を確認する
+    ```powershell
+    # 環境に応じて実行（ActiveDirectoryモジュールが必要）
+    Get-ADUser -Filter * -Properties msDS-SupportedEncryptionTypes |
+      Where-Object { $_.msDS-SupportedEncryptionTypes -ne $null } |
+      Select Name, msDS-SupportedEncryptionTypes
+    ```
+  - 注意：属性値のビットマスクや設定値は環境・OSバージョンで異なるため、設定変更前に公式ドキュメントで値を確認してテストを行うこと。
+- 方針：AESのみを許可する（GPOやアカウント属性でRC4を無効化）→ ただし段階的に実施し、古いクライアント互換性を確認する。
+- サービスアカウント管理：長く使われている高特権サービスアカウントは強力なパスワードへ更新し、パスワード管理・自動ローテーションを導入する。可能ならManaged Service AccountやGroup Managed Service Accountを利用する。
+- ログ監視／検出：
+  - Kerberos関連イベント（例：イベントID 4768/4769）をSIEMで監視し、短時間に大量のTGS要求が出ていないか検知するルールを作る。
+  - 「大量のTGS取得」や「サービスアカウント用のチケット要求が多い」挙動はKerberoastingの兆候。
+- 運用対応：ドメインコントローラー・クライアントのパッチ適用、暗号ポリシーの明確化、変更時の影響テストを必ず行う。
+- 外部確認：サードパーティのセキュリティ診断やレッドチーム演習で、Kerberoasting耐性と移行の妥当性を確かめる。
+
+## 引用元
+- タイトル: Microsoft Is Finally Killing RC4
+- URL: https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html

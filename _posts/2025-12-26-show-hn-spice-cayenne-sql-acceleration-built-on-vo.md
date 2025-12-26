@@ -40,7 +40,6 @@ Spice Cayenneは、Vortex列指向フォーマットと軽量メタデータ層�
 ## 引用元
 - タイトル: Show HN: Spice Cayenne – SQL acceleration built on Vortex  
 - URL: https://spice.ai/blog/introducing-spice-cayenne-data-accelerator  
-- Hacker Newsでの反響: スコア 41, コメント数 4
 
 ---
 *この記事はHacker Newsで話題の記事を日本語で解説したものです。*

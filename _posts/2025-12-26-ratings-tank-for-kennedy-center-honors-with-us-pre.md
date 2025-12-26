@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Ratings Tank For Kennedy Center Honors With US President as Host"
+date: 2025-12-26T03:49:22.502Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://www.tmz.com/2025/12/25/trump-hosted-kennedy-center-honors-tanks-in-ratings/"
+source_title: "Ratings Tank For Kennedy Center Honors With US President as Host"
+source_id: 438202109
+---
+
+# トランプ司会で視聴率が激減──「政治×エンタメ」が示すメディア計測の盲点と実務的教訓
+
+## 要約
+米CBSで放送されたKennedy Center Honorsが、前大統領をホストに迎えた回で視聴率が大幅に落ち、Nielsenの予備集計で約2.65百万視聴者（前年比約35%減）を記録した。単なる話題性だけでは視聴数は確保できないことを示すケースだ。
+
+## この記事を読むべき理由
+放送・配信の現場で働く技術者やプロダクト担当者にとって、イベント番組の「計測方法」「配信タイミング」「プロモーション戦略」が視聴成果に直結することが改めて示されたため。米市場で起きた実例は、日本の放送・OTT運用にも直接的に応用できる知見を含む。
+
+## 詳細解説
+- 視聴データの中身：Nielsenの「予備データ」でCBSの同番組が約2.65M（前年4.1M）と報告されている。主要要因としてはホストの人選だけでなく、収録日と放送日のズレ（テープ収録→放送はクリスマス直前の火曜）、およびホリデーシーズンの視聴行動変化が考えられる。  
+- 計測指標の差異：ライブ視聴（Live）、同日録画含む（Live+Same Day）、3日/7日延長（Live+3/Live+7）など指標によって結果が大きく変わる。テープ遅延や録画・配信視聴をどう統合するかが肝。  
+- サンプルとバイアス：伝統的なテレビ視聴率はパネル調査依存で、ストリーミングや若年層の「二次スクリーン」行動を完全には捕捉しない。SNSの拡散やプラットフォーム側のサーバーログは別計測源として重要。  
+- ブランドリスクと政治的要素：政治色の強いホストは一部視聴者を呼び込む反面、離反を生む。データは単純な“関心＝視聴”を保証しないことを示唆している。
+
+## 実践ポイント
+- 計測の多面化：Linear TV（Nielsen類）だけでなく、OTTサーバーの再生ログ・CDNデータ・SNSエンゲージメントを統合してKPIを設計する。  
+- 指標選定の明確化：Live、Live+Same Day、Live+7など用途に応じて指標を事前合意し、広告取引や評価に使う指標をブレさせない。  
+- 配信タイミング最適化：イベント性が高いものはライブ性を担保。テープ遅延は“話題化＝即時の視聴”を阻害する可能性あり。  
+- プロモーションABテスト：ホスト起用や告知文案は事前に複数案で反応を試し、ターゲット層別の配信チャネルを最適化する。  
+- リスク管理：政治色のあるキャスティングはブランド影響を定量化するモデル（視聴減少のシミュレーションや広告価値下落の推定）を用意する。
+
+## 引用元
+- タイトル: Ratings Tank For Kennedy Center Honors With President Trump as Host
+- URL: https://www.tmz.com/2025/12/25/trump-hosted-kennedy-center-honors-tanks-in-ratings/

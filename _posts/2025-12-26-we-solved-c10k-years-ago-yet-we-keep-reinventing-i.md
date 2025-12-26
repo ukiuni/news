@@ -1,0 +1,48 @@
+---
+layout: post
+title: "We “solved” C10K years ago yet we keep reinventing it"
+date: 2025-12-26T03:53:31.778Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://www.kegel.com/c10k.html"
+source_title: "We “solved” C10K years ago yet we keep reinventing it"
+source_id: 439824831
+---
+
+# C10Kは本当に「解決」されたのか？──10,000接続を本気で支える現代的ロードマップ
+
+## 要約
+C10K問題（1台のサーバで10,000同時接続を扱う課題）はハードウェアの進化で現実的になったが、OSのI/Oモデルや設計選択を誤ると今でも壁にぶつかる。適切なイベント駆動設計・OS機能の活用で数万接続は実現可能だ。
+
+## この記事を読むべき理由
+日本のWebサービスやIoT/モバイル系バックエンドは「多数の同時接続」を低コストでさばく必要がある。C10Kの歴史と解決策を知れば、無駄なスケール対策や誤ったスレッド設計を避けられる。
+
+## 詳細解説
+- 背景：1990年代末〜2000年代初頭に提起されたC10K問題は、「CPUやメモリは足りるが、従来のI/Oモデルで多数接続を効率的に扱えない」ことを指す。ネット帯域や安価なハードはあるが、select()/poll()のような古い待ち受けは接続数増加に対して非効率。
+- I/Oモデルの進化：
+  - select()/poll(): ファイルディスクリプタ全体を走査するためスケールしにくい（O(n)）。多数接続ではコスト増大。
+  - /dev/poll, kqueue (BSD系): イベント通知の効率化を提供。カーネルが変化点のみ通知する設計で高速化。
+  - epoll (Linux): 大規模同時接続向けに設計された高効率API。レベル/エッジトリガの扱いで実装注意点あり。
+  - 非同期AIOやリアルタイムシグナル: 完了通知型のモデルでCPU/スレッドの有効活用を狙えるが、移植性や複雑さが増す。
+- スレッドモデル：1接続＝1スレッドはスケールしない（スレッド管理コスト・メモリ）。イベントループで多数接続を1スレッド/少数スレッドで扱うのが現実的（Reactor/Proactor設計）。
+- ボトルネックと実用技術：
+  - 「スレッドやFD数の上限」──ulimitやカーネル設定のチューニングが必要。
+  - 「スロークライアントでの資源浪費」──非ブロッキングI/Oとイベント通知で解決。
+  - 「スレッド競合（thundering herd）」──accept周りの設計やSO_REUSEPORTで緩和。
+  - Zero-Copy：sendfile()などでユーザ空間コピーを減らしCPU負荷を下げる。
+  - 小さなTCPフレームを避ける：writevやTCP_CORK/TCP_NOPUSHを利用して効率化。
+- 実装とライブラリ：libevent、ASIO（Boost.Asio）、ACEなどがOS差を吸収し、kqueue/epollを内部で使える。nginxやlighttpdはイベント駆動設計の成功例。
+- 計測と検証：実装前後で実負荷・プロファイラ・ネットワークベンチマークを必ず取り、どこがボトルネックかを確認する。カーネルバージョン差やドライバ差も性能に影響する。
+
+## 実践ポイント
+- OSレベル：ターゲット環境のカーネルがepoll/kqueueを持つことを前提に設計する（Linuxならepoll）。
+- イベント設計：接続ごとにスレッドを割り当てない。イベントループ＋ワーカープール（コア数に対するワーカー）でCPUを効率利用する。
+- I/O最適化：sendfile、writev、TCP_CORK/TCP_NOPUSHを活用してコピーと小パケットを減らす。
+- ライブラリ活用：libevent／Boost.Asio等を使えばOS差を吸収できる。新たに低レベルから実装するのはコスト高。
+- カーネル/プロセス設定：ulimit -n（最大FD数）、net.core.somaxconn、backlogサイズ、SO_REUSEPORTなどを適切に調整する。
+- テスト：実トラフィックに近い負荷で必ずベンチマーク。接続数だけでなく接続のライフサイクル（短命/長期）も想定する。
+- 監視：FD使用量、accept待ち、コンテキストスイッチ、ネットワーク待ちを常時監視し、サチュレーションを早期検出する。
+
+## 引用元
+- タイトル: We “solved” C10K years ago yet we keep reinventing it
+- URL: https://www.kegel.com/c10k.html
