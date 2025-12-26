@@ -116,6 +116,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/tachyon-high-frequency-statistical-sampling-profil/' | relative_url }}">tachyon high frequency statistical sampling profil</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/ssh-tinychristmas/' | relative_url }}">ssh tinychristmas</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -129,6 +135,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/show-hn-spice-cayenne-sql-acceleration-built-on-vo/' | relative_url }}">show hn spice cayenne sql acceleration built on vo</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/show-hn-geneguessr-a-daily-biology-web-puzzle/' | relative_url }}">show hn geneguessr a daily biology web puzzle</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
