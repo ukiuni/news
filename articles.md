@@ -20,6 +20,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/wpfmvvm-lottery-analytics-project-charts-tables-an/' | relative_url }}">wpfmvvm lottery analytics project charts tables an</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/wifi-densepose-wifi-based-dense-human-pose-estimat/' | relative_url }}">wifi densepose wifi based dense human pose estimat</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -416,7 +422,19 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/beautiful-reprs/' | relative_url }}">beautiful reprs</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/automating-what-backblaze-lifecycle-rules-dont-do/' | relative_url }}">automating what backblaze lifecycle rules dont do</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/asus-rog-laptops-are-broken-by-design-a-forensic-d/' | relative_url }}">asus rog laptops are broken by design a forensic d</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -429,6 +447,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/animating-quines-for-larva-labs/' | relative_url }}">animating quines for larva labs</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/ancient-greek-geometry/' | relative_url }}">ancient greek geometry</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
