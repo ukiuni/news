@@ -1,0 +1,68 @@
+---
+layout: post
+title: "I Think about Kubernetes"
+date: 2025-12-26T21:07:05.035Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://garnaudov.com/writings/how-i-think-about-kubernetes/"
+source_title: "I Think about Kubernetes"
+source_id: 46396043
+excerpt: "Kubernetesを「宣言的ランタイム」として再定義し、運用・デバッグとGitOps導入を劇的に速める視点"
+---
+
+# Kubernetesを「オーケストレータ」だけで片付けていませんか？ 宣言的ランタイムとして再定義する思考法
+
+## 要約
+Kubernetesは単なるコンテナオーケストレータではなく、「型（type）を持つ宣言的インフラのランタイム」だと捉えると全体像と運用の振る舞いが腑に落ちる。
+
+## この記事を読むべき理由
+Kubernetes運用でよく起きる「なぜ勝手に戻るのか／手直しが効かないのか」を理屈で解けるようになり、デバッグ・設計・GitOps導入の判断が格段に速くなるため。日本のSRE/プラットフォームエンジニアやクラウド移行検討者に直接役立つ視点です。
+
+## 詳細解説
+- 型（Type System）としてのKubernetes  
+  マニフェストで定義するPod/Deployment/Serviceなどは「ただの設定」ではなく、それぞれ明確な意味・有効なフィールド・振る舞い（セマンティクス）を持つ“型”です。CRDはこの型を拡張する仕組みで、オペレーターがその型の意味を実装します。プログラミング言語の型システムに例えると理解しやすく、型の理解が設計を左右します。
+
+- 宣言的ランタイム（Runtime）としての挙動  
+  kubectl applyで送るのは「命令」ではなく「望ましい状態（spec）」の登録です。APIサーバーに記録され、コントローラ群がcontinuous reconciliationを続けて実際の状態（status）を望ましい状態に近づけます。キーになるワークフローは「declare → persist → reconcile → place → execute（を繰り返す）」です。重要なのはcontinuous（継続的）に差分を解消する点で、これが「手で直しても戻される」原因です。
+
+- spec と status の役割  
+  spec が意図、status がランタイムの観測値。障害時はまず status を見て「ランタイムがなぜ進んでいないか」を確認することが最短のデバッグパスになります。イベント、コントローラのオーナーシップ、レプリカの期待値などを追いましょう。
+
+- GitOpsとの親和性  
+  クラスタ内のdesired stateをGitに置いて、Gitとクラスタを巡回するコントローラが差分を埋める構成は非常に自然です。Kubernetes自体が「望ましい状態を永続化しておくランタイム」なので、真のソースオブトゥルース（SoT）をGitに置く設計が整合します。
+
+- 小さな例（Podの宣言）
+```yaml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: nginx
+spec:
+  containers:
+    - name: nginx
+      image: nginx:stable
+      ports:
+        - containerPort: 80
+```
+
+## 実践ポイント
+- デバッグ手順を定着させる  
+  1) kubectl get/describe で status と Events を確認  
+  2) どのコントローラがオーナーかを特定（ownerReferences）  
+  3) コントローラのログ/リソース条件を確認して差分の原因を突き止める
+
+- リソース設計は「型」で考える  
+  Deployment/StatefulSet/Service など各リソースのセマンティクスを理解して使い分ける。CRDを使うなら、そのオペレーターが何を保証するかを明文化する。
+
+- GitOpsを導入する前に想定運用フローを設計する  
+  誰が直接kubectlを叩けるか、CI→Git→クラスタのパイプライン、緊急時のフロー（手動vsGit同期）を定義しておく。
+
+- 観測性とテストを強化する  
+  spec/status を追いやすくするためにリソースレベルのメトリクス・イベント集約、差分検出のCIテストを用意する。クラスタの「意図」と「実際」を定期的に比較する習慣を作る。
+
+- 日本市場向けの注意点  
+  マネージドKubernetes（EKS/GKE/AKS）を使うケースが多い日本企業では、クラウド固有の制約やネットワーク設計、運用責任の切り分け（クラウド側か自社か）を踏まえて型設計とGitOps権限を決めることが重要。
+
+## 引用元
+- タイトル: I Think about Kubernetes  
+- URL: https://garnaudov.com/writings/how-i-think-about-kubernetes/

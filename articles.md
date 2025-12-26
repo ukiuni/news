@@ -224,6 +224,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/show-twine-a-tool-to-dynamically-trace-calls-in-pr/' | relative_url }}">show twine a tool to dynamically trace calls in pr</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/show-hn-xcc700-self-hosting-mini-c-compiler-for-es/' | relative_url }}">show hn xcc700 self hosting mini c compiler for es</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -291,6 +297,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/ruby-400-released-ruby/' | relative_url }}">ruby 400 released ruby</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/robocop-breaking-the-law-h0ffman-cracks-robocop-ar/' | relative_url }}">robocop breaking the law h0ffman cracks robocop ar</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -446,7 +458,19 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/kara-swisher-were-in-an-eat-the-rich-moment/' | relative_url }}">kara swisher were in an eat the rich moment</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/joan-didion-and-kurt-vonnegut-had-something-to-say/' | relative_url }}">joan didion and kurt vonnegut had something to say</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/i-think-about-kubernetes/' | relative_url }}">i think about kubernetes</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -501,6 +525,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/gleam-v114-the-happy-holidays-release-2025/' | relative_url }}">gleam v114 the happy holidays release 2025</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/gibberish-a-new-style-of-parser-combinator-with-ro/' | relative_url }}">gibberish a new style of parser combinator with ro</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
