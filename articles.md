@@ -182,6 +182,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/steve-wants-us-to-make-the-macintosh-boot-faster/' | relative_url }}">steve wants us to make the macintosh boot faster</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/ssh-tinychristmas/' | relative_url }}">ssh tinychristmas</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -200,6 +206,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/show-hn-private-blogging-and-journaling-with-a-sim/' | relative_url }}">show hn private blogging and journaling with a sim</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/show-hn-geneguessr-a-daily-biology-web-puzzle/' | relative_url }}">show hn geneguessr a daily biology web puzzle</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -207,6 +219,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/show-hn-gaming-couch-a-local-multiplayer-party-gam/' | relative_url }}">show hn gaming couch a local multiplayer party gam</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/show-hn-autolisp-interpreter-in-rustwasm-a-cad-wor/' | relative_url }}">show hn autolisp interpreter in rustwasm a cad wor</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
