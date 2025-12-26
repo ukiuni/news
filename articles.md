@@ -86,6 +86,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/the-internet-just-made-a-300tb-copy-of-spotify-upd/' | relative_url }}">the internet just made a 300tb copy of spotify upd</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/the-html-elements-time-forgot/' | relative_url }}">the html elements time forgot</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -260,6 +266,18 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/marsha-blackburn-bundles-every-bad-tech-bill-into/' | relative_url }}">marsha blackburn bundles every bad tech bill into</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/manitoba-premier-uses-ai-to-make-homemade-ojibwa-t/' | relative_url }}">manitoba premier uses ai to make homemade ojibwa t</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/make-your-pr-process-resilient-to-ai-slop/' | relative_url }}">make your pr process resilient to ai slop</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -308,6 +326,36 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/electronic-arts-shareholders-approve-55-billion-sa/' | relative_url }}">electronic arts shareholders approve 55 billion sa</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/dji-drone-ban-has-started-in-the-us-but-it-wont-ha/' | relative_url }}">dji drone ban has started in the us but it wont ha</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/dell-top-sales-exec-doubles-down-on-40-hour-rto-fo/' | relative_url }}">dell top sales exec doubles down on 40 hour rto fo</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/dating-in-the-age-of-the-algorithm-dating-apps-hav/' | relative_url }}">dating in the age of the algorithm dating apps hav</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/data-centres-the-new-tech-stopping-chips-from-over/' | relative_url }}">data centres the new tech stopping chips from over</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/cuda-tile-open-sourced/' | relative_url }}">cuda tile open sourced</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -320,7 +368,19 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/china-aims-for-15-gigawatts-of-solar-thermal-power/' | relative_url }}">china aims for 15 gigawatts of solar thermal power</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/building-an-ai-agent-inside-a-7-year-old-rails-mon/' | relative_url }}">building an ai agent inside a 7 year old rails mon</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/automating-what-backblaze-lifecycle-rules-dont-do/' | relative_url }}">automating what backblaze lifecycle rules dont do</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -345,6 +405,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/ai-data-centers-may-soon-be-powered-by-retired-nav/' | relative_url }}">ai data centers may soon be powered by retired nav</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/activist-group-says-it-has-scraped-86m-music-files/' | relative_url }}">activist group says it has scraped 86m music files</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
