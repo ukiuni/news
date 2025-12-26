@@ -122,6 +122,18 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/til-serdes-borrowing-can-be-treacherous/' | relative_url }}">til serdes borrowing can be treacherous</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/the-seepage-of-ai-into-christian-practice-is-distu/' | relative_url }}">the seepage of ai into christian practice is distu</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/the-internet-just-made-a-300tb-copy-of-spotify-upd/' | relative_url }}">the internet just made a 300tb copy of spotify upd</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -471,6 +483,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/dji-drone-ban-has-started-in-the-us-but-it-wont-ha/' | relative_url }}">dji drone ban has started in the us but it wont ha</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/developed-using-reactvite/' | relative_url }}">developed using reactvite</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
