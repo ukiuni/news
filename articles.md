@@ -182,6 +182,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/tesla-opens-engineering-investigation-into-cybertr/' | relative_url }}">tesla opens engineering investigation into cybertr</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/technical-debt-is-a-myth-created-by-bad-managers/' | relative_url }}">technical debt is a myth created by bad managers</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -207,6 +213,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/south-park-writer-toby-morton-purchases-president/' | relative_url }}">south park writer toby morton purchases president</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/simplifying-the-build-process-for-vst3-rs/' | relative_url }}">simplifying the build process for vst3 rs</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -284,6 +296,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/rob-pike-got-spammed-with-an-ai-slop-act-of-kindne/' | relative_url }}">rob pike got spammed with an ai slop act of kindne</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/rob-pike-goes-nuclear-over-genai/' | relative_url }}">rob pike goes nuclear over genai</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -344,6 +362,18 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/new-york-to-require-social-media-platforms-to-disp/' | relative_url }}">new york to require social media platforms to disp</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/my-insulin-pump-controller-uses-the-linux-kernel-i/' | relative_url }}">my insulin pump controller uses the linux kernel i</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/minimax-m21-built-for-real-world-complex-tasks-mul/' | relative_url }}">minimax m21 built for real world complex tasks mul</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -393,6 +423,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/logging-sucks-and-heres-how-to-make-it-better/' | relative_url }}">logging sucks and heres how to make it better</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/lewis-carroll-computed-determinants/' | relative_url }}">lewis carroll computed determinants</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -476,6 +512,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/gaussian-splatting-3-ways/' | relative_url }}">gaussian splatting 3 ways</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/from-idea-to-launch-how-developers-can-build-succe/' | relative_url }}">from idea to launch how developers can build succe</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -489,6 +531,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/free-streaming-service-tubi-is-rivaling-major-play/' | relative_url }}">free streaming service tubi is rivaling major play</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/ffmpeg-has-issued-a-dmca-takedown-on-github/' | relative_url }}">ffmpeg has issued a dmca takedown on github</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
