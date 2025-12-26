@@ -50,6 +50,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/we-solved-c10k-years-ago-yet-we-keep-reinventing-i/' | relative_url }}">we solved c10k years ago yet we keep reinventing i</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -122,6 +128,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/the-algebra-of-loans-in-rust/' | relative_url }}">the algebra of loans in rust</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/technical-debt-is-a-myth-created-by-bad-managers/' | relative_url }}">technical debt is a myth created by bad managers</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -170,6 +182,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/sendspin-music-experience-protocol/' | relative_url }}">sendspin music experience protocol</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/scraping-on-the-edge-how-i-built-a-lightning-fast/' | relative_url }}">scraping on the edge how i built a lightning fast</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -213,6 +231,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/python-315s-interpreter-for-windows-x86-64-should/' | relative_url }}">python 315s interpreter for windows x86 64 should</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/plant-identifier-amp-health-scan-app/' | relative_url }}">plant identifier amp health scan app</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -308,7 +332,19 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/geometric-algorithms-for-translucency-sorting-in-m/' | relative_url }}">geometric algorithms for translucency sorting in m</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/from-idea-to-launch-how-developers-can-build-succe/' | relative_url }}">from idea to launch how developers can build succe</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/from-genin-to-kage-understanding-the-test-pyramid/' | relative_url }}">from genin to kage understanding the test pyramid</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
