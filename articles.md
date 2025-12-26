@@ -386,6 +386,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/mongobleed/' | relative_url }}">mongobleed</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/minimax-m21-built-for-real-world-complex-tasks-mul/' | relative_url }}">minimax m21 built for real world complex tasks mul</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
