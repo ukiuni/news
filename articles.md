@@ -74,6 +74,18 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/understanding-the-northern-lights/' | relative_url }}">understanding the northern lights</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/undefinable-yet-indispensable/' | relative_url }}">undefinable yet indispensable</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/ultimate-linux-userspace-for-linux-in-pure-javascr/' | relative_url }}">ultimate linux userspace for linux in pure javascr</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -135,6 +147,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/the-algebra-of-loans-in-rust/' | relative_url }}">the algebra of loans in rust</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/teslas-european-sales-plunge/' | relative_url }}">teslas european sales plunge</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -314,7 +332,19 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/maestro-desktop-ai-agent-command-center-freeoss/' | relative_url }}">maestro desktop ai agent command center freeoss</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/logging-sucks-and-heres-how-to-make-it-better/' | relative_url }}">logging sucks and heres how to make it better</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/joan-didion-and-kurt-vonnegut-had-something-to-say/' | relative_url }}">joan didion and kurt vonnegut had something to say</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -410,6 +440,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/codex-vs-claude-code-today/' | relative_url }}">codex vs claude code today</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/china-aims-for-15-gigawatts-of-solar-thermal-power/' | relative_url }}">china aims for 15 gigawatts of solar thermal power</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -453,6 +489,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/ancient-greek-geometry/' | relative_url }}">ancient greek geometry</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/all-brakes-are-off-russias-attempt-to-rein-in-illi/' | relative_url }}">all brakes are off russias attempt to rein in illi</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
