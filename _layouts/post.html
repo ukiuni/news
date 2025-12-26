@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<article class="post-content">
+  <div class="post-header">
+    <p class="post-date">📅 {{ page.date | date: "%Y年%m月%d日 %H:%M" }}</p>
+  </div>
+  
+  {{ content }}
+  
+  <div class="source-info">
+    <strong>📌 引用元:</strong><br>
+    <a href="{{ page.source_url }}" target="_blank" rel="noopener">{{ page.source_title }}</a><br>
+    <small>Hacker News Score: {{ page.hn_score }} | Comments: {{ page.hn_comments }}</small>
+  </div>
+</article>

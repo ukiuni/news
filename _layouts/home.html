@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<h2 class="section-title">📰 最新記事</h2>
+
+<div class="articles-grid">
+  {% for post in site.posts limit:20 %}
+  <article class="article-card">
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <div class="article-meta">
+      <span class="article-date">📅 {{ post.date | date: "%Y年%m月%d日" }}</span>
+      {% if post.hn_score %}
+      <span class="article-score">🔥 {{ post.hn_score }} points</span>
+      {% endif %}
+    </div>
+  </article>
+  {% endfor %}
+</div>
