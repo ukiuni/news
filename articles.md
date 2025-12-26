@@ -344,6 +344,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/learnixos/' | relative_url }}">learnixos</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/joan-didion-and-kurt-vonnegut-had-something-to-say/' | relative_url }}">joan didion and kurt vonnegut had something to say</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -356,7 +362,25 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/how-the-internet-left-4chan-behind-the-anonymous-f/' | relative_url }}">how the internet left 4chan behind the anonymous f</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/google-is-rolling-out-a-new-feature-allowing-users/' | relative_url }}">google is rolling out a new feature allowing users</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/google-is-allowing-users-to-change-their-gmail-add/' | relative_url }}">google is allowing users to change their gmail add</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/gnu-mes-and-the-module-system/' | relative_url }}">gnu mes and the module system</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -452,6 +476,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/chatgpt-conversations-still-lack-timestamps-after/' | relative_url }}">chatgpt conversations still lack timestamps after</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/building-an-ai-agent-inside-a-7-year-old-rails-mon/' | relative_url }}">building an ai agent inside a 7 year old rails mon</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -489,6 +519,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/ancient-greek-geometry/' | relative_url }}">ancient greek geometry</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/an-11-qubit-atom-processor-in-silicon-with-all-fid/' | relative_url }}">an 11 qubit atom processor in silicon with all fid</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
