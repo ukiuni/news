@@ -212,6 +212,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/show-hn-xcc700-self-hosting-mini-c-compiler-for-es/' | relative_url }}">show hn xcc700 self hosting mini c compiler for es</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/show-hn-spice-cayenne-sql-acceleration-built-on-vo/' | relative_url }}">show hn spice cayenne sql acceleration built on vo</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -297,6 +303,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/python-315s-interpreter-for-windows-x86-64-should/' | relative_url }}">python 315s interpreter for windows x86 64 should</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/play-the-monty-hall-game/' | relative_url }}">play the monty hall game</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -392,6 +404,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/leaker-who-apple-is-suing-says-screw-it-heres-the/' | relative_url }}">leaker who apple is suing says screw it heres the</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/joan-didion-and-kurt-vonnegut-had-something-to-say/' | relative_url }}">joan didion and kurt vonnegut had something to say</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -399,6 +417,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/how-versioned-cache-keys-can-save-you-during-rolli/' | relative_url }}">how versioned cache keys can save you during rolli</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/how-uv-got-so-fast/' | relative_url }}">how uv got so fast</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -471,6 +495,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/fahrplan-39c3/' | relative_url }}">fahrplan 39c3</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/experts-explore-new-mushroom-which-causes-fairytal/' | relative_url }}">experts explore new mushroom which causes fairytal</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
