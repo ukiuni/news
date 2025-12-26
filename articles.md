@@ -56,6 +56,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/what-happened-to-all-the-gold-spain-got-from-the-n/' | relative_url }}">what happened to all the gold spain got from the n</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -69,6 +75,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/us-disrupts-multimillion-dollar-bank-account-takeo/' | relative_url }}">us disrupts multimillion dollar bank account takeo</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/unix-find-expressions-compiled-to-bytecode/' | relative_url }}">unix find expressions compiled to bytecode</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -368,6 +380,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/high-school-student-discovers-15m-potential-new-as/' | relative_url }}">high school student discovers 15m potential new as</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/google-is-rolling-out-a-new-feature-allowing-users/' | relative_url }}">google is rolling out a new feature allowing users</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -381,6 +399,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/gnu-mes-and-the-module-system/' | relative_url }}">gnu mes and the module system</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/global-memory-shortage-could-disrupt-smartphone-an/' | relative_url }}">global memory shortage could disrupt smartphone an</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
@@ -465,6 +489,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/codex-vs-claude-code-today/' | relative_url }}">codex vs claude code today</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/code-mode-doesnt-replace-mcp-heres-what-it-actuall/' | relative_url }}">code mode doesnt replace mcp heres what it actuall</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>

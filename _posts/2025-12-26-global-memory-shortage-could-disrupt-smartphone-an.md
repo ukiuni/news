@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Global memory shortage could disrupt smartphone and PC markets in 2026: IDC |"
+date: 2025-12-26T15:26:43.191Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://www.91mobiles.com/updates/global-memory-shortage-disrupt-smartphone-pc-markets-2026-idc/"
+source_title: "Global memory shortage could disrupt smartphone and PC markets in 2026: IDC |"
+source_id: 439058681
+excerpt: "AI需要でメモリ逼迫、2026年にスマホ・PCで価格上昇と仕様抑制"
+---
+
+# 2026年、スマホとPCが「メモリ不足」で変わる：IDCの警告が日本にも突きつける現実
+
+## 要約
+IDCは、AIインフラ需要の急拡大でDRAM／NANDの供給が逼迫し、2026年にスマホ・PC市場で価格上昇と仕様抑制が起きる可能性を指摘している。中〜下位モデルや小規模メーカーが特に痛手を受ける見込みだ。
+
+## この記事を読むべき理由
+日本のメーカー、SIer、調達担当、そして技術系読者は、部材コストと製品ロードマップの影響を事前に把握しておく必要がある。AI推進の波は国内のサプライチェーンや消費者向け製品にも直撃するからだ。
+
+## 詳細解説
+- 要因：データセンターやAIサーバーが1システム当たり必要とするメモリ量が急増。高帯域幅メモリ（HBM）や大容量向けDDR5など高付加価値品へ生産をシフトするため、従来の汎用DRAM/NANDのウェハ供給が削られている。  
+- 市場動向（IDCの主な数値）：DRAM供給成長は2026年に約16%（前年比）、NANDは約17%で、歴史的な伸びに届かない予測。DRAM／NAND価格は2025年末から上昇。  
+- スマホへの影響：メモリはコスト構成で大きな比重を占めるため、メーカーは「価格上昇」「メモリ構成のダウングレード」「世代交代の先送り」のいずれかを選ぶ必要がある。特に薄利多売のXiaomi／Realme／OPPO／Vivo／Transsion等が圧力を受けやすい。AppleやSamsungは長期契約で有利だが、2026年はRAM増量を抑える可能性がある。IDCはスマホ出荷が中程度シナリオで−2.9%、悪化すると−5.2%とも試算。  
+- PCへの影響：Windowsのリフレッシュと「AI PC」需要が重なる時期に供給制約が発生。メーカーは価格上昇（H2 2026に15〜20%の示唆）を通知済み。大手ベンダーが有利で、中小や地域プレーヤーがシェアを失うリスク。AI対応PCの16GB以上構成の採用が鈍る可能性。  
+- 構造的変化：IDCは短期的サイクルではなく構造的シフトと評価。2026〜2027年を通じて高値・仕様停滞・買い替えサイクル延長が続く見込み。  
+- 日本との関連ポイント：Kioxia（旧東芝メモリ）、国内組み込み系メーカー、AI研究投資やクラウド需要の増加が国内でもメモリ需要を押し上げる。消費者市場ではApple/Samsungのシェアが高い一方、国内BTO/中小メーカーや廉価Android機を扱う販売業者は影響を受けやすい。
+
+## 実践ポイント
+- 製品企画／PM：メモリ構成を複数案で検討（低容量＋最適化版 vs 高容量＋プレミアム）とし、価格・UXトレードオフを明確に。  
+- 調達／購買：長期契約・先物的な買い付け交渉やサプライヤーの多角化（例：Kioxia、Micron、SK Hynix等）を早めに進める。  
+- 開発／AIエンジニア：モデル圧縮、量子化、メモリ効率化（メモリフットプリント削減、オンデマンドロード）でメモリ要求を抑える。クラウドのVRAM/ストレージ活用も検討。  
+- エンドユーザー／法人購入者：買い替えを予定しているなら2026年前半の購入・発注を検討。重要ならメモリ増設オプション付きモデルを選ぶ。  
+- 小売／チャネル：低価格帯商品の在庫戦略を見直し、マージン圧縮に備えた価格再設計を行う。
+
+## 引用元
+- タイトル: Global memory shortage could disrupt smartphone and PC markets in 2026: IDC  
+- URL: https://www.91mobiles.com/updates/global-memory-shortage-disrupt-smartphone-pc-markets-2026-idc/

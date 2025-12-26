@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Code Mode Doesn't Replace MCP (Here's What It Actually Does)"
+date: 2025-12-26T15:28:49.264Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://dev.to/blockopensource/code-mode-doesnt-replace-mcp-heres-what-it-actually-does-3hga"
+source_title: "Code Mode Doesn't Replace MCP (Here's What It Actually Does)"
+source_id: 3119535
+excerpt: "Code Modeはローカル編集に特化、MCPで安全な外部連携と拡張を実現"
+---
+
+# Code ModeはMCPを奪わない — 「何を任せ、何を繋ぐか」がこれからのエージェント設計を決める
+
+## 要約
+Code Modeはローカルなコード操作で高速に働く一方、MCP（Model Context Protocol）が担う外部アプリ連携や拡張性を置き換えるものではない。適材適所で使い分けることが実務での生産性と安定性を保つ鍵だ、というのが元記事の主張です。
+
+## この記事を読むべき理由
+日本の開発現場では社内システムやオンプレ資産、セキュリティ制約が多く、単に「モデルに任せる」だけでは実運用で問題が出やすい。MCPとCode Modeの違いと使い分けを理解すれば、実装・運用での失敗を避けられます。
+
+## 詳細解説
+- MCP（Model Context Protocol）の役割  
+  MCPはエージェントを既存アプリやサービス（GitHub、Slack、DBなど）に接続するための仕組みで、各接続は「拡張（extension）」としてモデルの文脈に取り込まれます。これによりエージェントは外部の状態や操作を直接扱えるようになります。
+
+- 「ツール過剰（tool bloat）」問題  
+  一度に多くの拡張を有効化すると、モデルのコンテキストウィンドウに大量のツール定義が流れ込みます。結果としてレスポンスが遅くなり、誤情報（hallucination）が増え、エラーが起きやすくなります。元記事は初回ユーザーが興奮して多数の拡張をオンにし、体験が悪化する事例を指摘しています。
+
+- 動的拡張（dynamic extensions）の解決策  
+  gooseなどの実装では、拡張を「眠らせておき、必要になったときだけ読み込む」方式を導入しています。これにより常時のコンテキスト負荷を下げ、性能と精度を改善できますが、ユーザーが気づかずフルロードしてしまうと恩恵は得られません。
+
+- Code Modeの位置づけ  
+  Code Modeはコード編集やソース解析の場面で効率的に働くモードで、ローカルなファイル操作やリファクタに強みがあります。しかし、外部サービスとの連携・認証・状態管理といったMCPの責務までは担えないため、置き換えではなく補完関係にあると元記事は結論づけています。
+
+## 実践ポイント
+- 流行りに飛びつかない：最初から全拡張をオンにしない。必要最小限で始める。  
+- 動的読込を有効にする：プラットフォームが動的拡張を提供しているなら必ず利用する。  
+- Code Modeはローカル作業用の高速チャンネルとして使う：小さなリファクタやパッチはCode Modeで。外部操作やCI連携はMCP経由で。  
+- 拡張を粒度良く設計する：大きな「全部入り」拡張より、役割ごとに分けた小さな拡張群のほうが管理しやすい。  
+- トークンとコンテキストを監視する：セッション中のトークン消費をログ化して、どの拡張が負荷を作るか可視化する。  
+- セキュリティとコンプライアンスを優先：日本市場ではオンプレ・閉域環境が多い。MCPサーバーの配置や認可設計を早めに決める。  
+- 開発環境での再現性を確保：外部API呼び出しはモック化して、実運用時のツール読み込み挙動を事前検証する。
+
+## 引用元
+- タイトル: Code Mode Doesn't Replace MCP (Here's What It Actually Does)  
+- URL: https://dev.to/blockopensource/code-mode-doesnt-replace-mcp-heres-what-it-actually-does-3hga
