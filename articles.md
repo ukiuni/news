@@ -14,6 +14,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/26/wifi-densepose-wifi-based-dense-human-pose-estimat/' | relative_url }}">wifi densepose wifi based dense human pose estimat</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/where-were-going-we-dont-need-chatbots-introducing/' | relative_url }}">where were going we dont need chatbots introducing</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
@@ -105,6 +111,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/26/show-hn-spice-cayenne-sql-acceleration-built-on-vo/' | relative_url }}">show hn spice cayenne sql acceleration built on vo</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-26</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/26/show-hn-gaming-couch-a-local-multiplayer-party-gam/' | relative_url }}">show hn gaming couch a local multiplayer party gam</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
   </div>
