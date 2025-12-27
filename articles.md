@@ -14,6 +14,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/why-is-calling-my-asm-function-from-rust-slower-th/' | relative_url }}">why is calling my asm function from rust slower th</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/why-ios-app-monetization-iap-is-hard-to-learn-as-a/' | relative_url }}">why ios app monetization iap is hard to learn as a</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
@@ -176,6 +182,18 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/eertree-an-interactive-guide/' | relative_url }}">eertree an interactive guide</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/detect-memory-leaks-of-c-extensions-with-psutil-an/' | relative_url }}">detect memory leaks of c extensions with psutil an</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/deepfakes-hit-a-whole-new-level-in-2025-the-2026-f/' | relative_url }}">deepfakes hit a whole new level in 2025 the 2026 f</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
@@ -200,7 +218,19 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/commandry-a-command-line-parser-for-standard-ml/' | relative_url }}">commandry a command line parser for standard ml</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/c-header-only-library-for-parsing-mepg-tsdvb-hls-l/' | relative_url }}">c header only library for parsing mepg tsdvb hls l</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/at-the-edges-of-the-ai-data-center-boom-rural-amer/' | relative_url }}">at the edges of the ai data center boom rural amer</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
