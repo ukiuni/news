@@ -182,6 +182,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/how-we-lost-communication-to-entertainment/' | relative_url }}">how we lost communication to entertainment</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/how-to-train-ultralytics-yolov8-models-on-your-cus/' | relative_url }}">how to train ultralytics yolov8 models on your cus</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
@@ -201,6 +207,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/how-reality-crushed-nsect-the-french-startup-that/' | relative_url }}">how reality crushed nsect the french startup that</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/how-data-really-travels-over-the-network-json-vs-a/' | relative_url }}">how data really travels over the network json vs a</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
