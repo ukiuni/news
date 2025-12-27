@@ -14,6 +14,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/windows-2-for-the-apricot-pcxi/' | relative_url }}">windows 2 for the apricot pcxi</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/why-is-calling-my-asm-function-from-rust-slower-th/' | relative_url }}">why is calling my asm function from rust slower th</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
@@ -21,6 +27,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/why-ios-app-monetization-iap-is-hard-to-learn-as-a/' | relative_url }}">why ios app monetization iap is hard to learn as a</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/us-man-uses-phones-parental-controls-to-track-resc/' | relative_url }}">us man uses phones parental controls to track resc</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
@@ -122,6 +134,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/nvidias-20b-antitrust-loophole-not-an-acquisition/' | relative_url }}">nvidias 20b antitrust loophole not an acquisition</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/nvidia-just-paid-20b-for-a-company-that-missed-its/' | relative_url }}">nvidia just paid 20b for a company that missed its</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
@@ -129,6 +147,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/nmh-basic/' | relative_url }}">nmh basic</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/more-than-20-of-videos-shown-to-new-youtube-users/' | relative_url }}">more than 20 of videos shown to new youtube users</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
