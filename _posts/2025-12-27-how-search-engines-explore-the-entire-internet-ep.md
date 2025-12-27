@@ -1,0 +1,62 @@
+---
+layout: post
+title: "How Search Engines Explore the Entire Internet? EP: 2 Behind The Screen"
+date: 2025-12-27T08:40:13.688Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://sushantdhiman.substack.com/p/how-search-engines-explore-the-entire"
+source_title: "How Search Engines Explore the Entire Internet? EP: 2 Behind The Screen"
+source_id: 437058795
+excerpt: "クローラーが世界中のページを発見・解析し検索結果を作る仕組みを実務視点で解説"
+---
+
+# ウェブ全体を「巡回」する仕組みの裏側 — 検索エンジンのクローラー入門
+
+## 要約
+検索エンジンの「クローラー（スパイダー）」がどのように世界中のページを発見・取得・解析してインデックスを作るかを、主要コンポーネントと設計上の工夫を交えて平易に解説します。
+
+## この記事を読むべき理由
+クローリングの原理を理解すると、自社サイトの発見性やSEO対策、サーバー負荷対策、また日本語・多言語コンテンツの扱いで有利になります。開発者・サイト運営者は「なぜ検索結果に出ないのか」を技術的に突き止められます。
+
+## 詳細解説
+検索クローラーの高レベルな流れは大きく分けて「発見→検証→取得→解析→保存」です。代表的なコンポーネントと要点は以下の通りです。
+
+- Crawl Manager（全体制御）
+  - クローリングジョブを管理し、スケジューリングや優先度付けを行う。分散クローラーではノード管理や失敗時のリトライ戦略もここで決定。
+
+- URL Frontier（URL選別）
+  - 「このURLを処理すべきか」を判断する場所。既処理チェック、ブラックリスト、レート制限、robots.txtの確認、重複排除などを行う。
+  - 既処理確認にはBloomフィルタのような確率的データ構造が使われる。トリリオン規模のURLを効率的に扱うため、厳密なDBクエリより高速で省メモリ。
+
+- robots.txt と robots メタタグ
+  - サイト側がクローラーに対して巡回を許可／拒否するための「礼儀」。強制力は技術的には無いが、一般的なクローラーは尊重する。日本の多くのCMSやプラットフォームでも必須のファイル。
+
+- HTML Downloader（取得）
+  - HTTPリクエストでページを取るフェーズ。帯域やレスポンス制御、リトライ、タイムアウト、User-Agent の管理、HTTP ヘッダー（キャッシュ制御等）の扱いが重要。
+
+- Content Parser（解析）
+  - 取得したHTMLをDOMツリーとして解析し、タイトル、メタ情報、本文、リンク、構造化データ（schema.org）などを抽出。JSでレンダリングされるコンテンツはヘッドレスブラウザ等でレンダリング後に解析する必要がある。
+  - 正規化（canonical）、重複検出、URL正規化、文字エンコーディング（UTF-8 / 日本語の扱い）もここで処理。
+
+- インデクサ／ストレージ
+  - 抽出データを検索用に格納。インバースインデックスやランキング用のメタデータを作成し、検索クエリに高速応答できる形に変換する。
+
+- スケーラビリティとポリシー
+  - 同時接続数、同一ホストへのレート制限、フェイルオーバー、優先度アルゴリズム（新着優先、更新頻度推定）、クロール予算（crawl budget）管理などが実運用では重要。
+
+技術的工夫の例
+- Bloomフィルタで高速な既訪問チェック（誤陽性はあるが許容範囲で省メモリ）
+- サイト固有のpoliteness（短時間で大量アクセスしない設定）
+- Sitemap と RSS を優先的に参照して効率よく新規URLを発見
+- JavaScript依存サイトはレンダリングキューを別途持ち、レンダリングコストを考慮してスケジュール
+
+## 実践ポイント
+- robots.txt と sitemap.xml を公開し、主要クローラーに対する制御を明示する（日本語サイトでも必須）。
+- ページの文字エンコーディングはUTF-8に統一。Server-side rendering または Prerender を検討し、JS依存ページのインデックス漏れを防ぐ。
+- canonical と hreflang を正しく設定して重複・多言語問題を回避する（特にドメイン/サブディレクトリ運用の際）。
+- サーバー側でアクセスログを監視し、クローラーが過剰アクセスしていないかを確認。必要ならrobots.txtやIPブロックで調整を。
+- テスト: Search Console（Fetch as Google）やサイトローカルのクローラーモードで実際の取得状態を検証。
+
+## 引用元
+- タイトル: How Search Engines Explore the Entire Internet? EP: 2 Behind The Screen
+- URL: https://sushantdhiman.substack.com/p/how-search-engines-explore-the-entire

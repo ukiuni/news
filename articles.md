@@ -62,7 +62,19 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/langjam-gamejam-devlog-making-a-language-compiler/' | relative_url }}">langjam gamejam devlog making a language compiler</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/how-to-make-a-markdown-viewer-in-java/' | relative_url }}">how to make a markdown viewer in java</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/how-search-engines-explore-the-entire-internet-ep/' | relative_url }}">how search engines explore the entire internet ep</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
