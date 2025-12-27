@@ -26,6 +26,18 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/exedev/' | relative_url }}">exedev</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/always-bet-on-text/' | relative_url }}">always bet on text</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/-tucky/' | relative_url }}"> tucky</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
