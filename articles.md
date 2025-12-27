@@ -8,7 +8,19 @@ permalink: /articles/
 
 <div class="articles-grid">
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/t-ruby-is-ruby-with-syntax-for-types/' | relative_url }}">t ruby is ruby with syntax for types</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/product-engineering-teams-must-own-supply-chain-ri/' | relative_url }}">product engineering teams must own supply chain ri</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/one-million-small-web-screenshots/' | relative_url }}">one million small web screenshots</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
@@ -27,6 +39,18 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/exedev/' | relative_url }}">exedev</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/contractmd-the-naughty-list-for-ai-coding-agents/' | relative_url }}">contractmd the naughty list for ai coding agents</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/c-header-only-library-for-parsing-mepg-tsdvb-hls-l/' | relative_url }}">c header only library for parsing mepg tsdvb hls l</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
