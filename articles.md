@@ -14,6 +14,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/qnx-self-hosted-developer-desktop/' | relative_url }}">qnx self hosted developer desktop</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/product-engineering-teams-must-own-supply-chain-ri/' | relative_url }}">product engineering teams must own supply chain ri</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
