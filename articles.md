@@ -8,6 +8,30 @@ permalink: /articles/
 
 <div class="articles-grid">
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/product-engineering-teams-must-own-supply-chain-ri/' | relative_url }}">product engineering teams must own supply chain ri</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/how-to-make-a-markdown-viewer-in-java/' | relative_url }}">how to make a markdown viewer in java</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/german-minister-sees-merit-to-social-media-ban-for/' | relative_url }}">german minister sees merit to social media ban for</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/-tucky/' | relative_url }}"> tucky</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/26/x-payments-incentivised-misinformation-in-wake-of/' | relative_url }}">x payments incentivised misinformation in wake of</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-26</span>
