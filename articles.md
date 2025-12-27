@@ -116,6 +116,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/nvidia-just-paid-20b-for-a-company-that-missed-its/' | relative_url }}">nvidia just paid 20b for a company that missed its</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/more-dynamic-cronjobs/' | relative_url }}">more dynamic cronjobs</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
@@ -128,7 +134,19 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/janet-jackson-had-the-power-to-crash-laptop-comput/' | relative_url }}">janet jackson had the power to crash laptop comput</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/intertapes-collection-of-found-cassette-tapes-from/' | relative_url }}">intertapes collection of found cassette tapes from</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/how-to-train-ultralytics-yolov8-models-on-your-cus/' | relative_url }}">how to train ultralytics yolov8 models on your cus</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
@@ -153,6 +171,18 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/how-ai-could-cause-social-security-to-run-out-of-m/' | relative_url }}">how ai could cause social security to run out of m</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/hollywood-cozied-up-to-ai-in-2025-and-had-nothing/' | relative_url }}">hollywood cozied up to ai in 2025 and had nothing</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/gpgfail/' | relative_url }}">gpgfail</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
@@ -183,6 +213,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/eertree-an-interactive-guide/' | relative_url }}">eertree an interactive guide</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/easel-turns-one-one-year-of-building-my-own-ide-in/' | relative_url }}">easel turns one one year of building my own ide in</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
@@ -279,6 +315,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/ai-data-centers-are-forcing-dirty-peaker-power-pla/' | relative_url }}">ai data centers are forcing dirty peaker power pla</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/after-60000-miles-of-charging-to-100-every-night-a/' | relative_url }}">after 60000 miles of charging to 100 every night a</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
