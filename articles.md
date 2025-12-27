@@ -32,6 +32,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/the-production-bug-that-made-me-care-about-undefin/' | relative_url }}">the production bug that made me care about undefin</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/the-battle-to-stop-clever-people-betting/' | relative_url }}">the battle to stop clever people betting</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
@@ -117,6 +123,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/nvidia-just-paid-20b-for-a-company-that-missed-its/' | relative_url }}">nvidia just paid 20b for a company that missed its</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/nmh-basic/' | relative_url }}">nmh basic</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
@@ -267,6 +279,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/c-header-only-library-for-parsing-mepg-tsdvb-hls-l/' | relative_url }}">c header only library for parsing mepg tsdvb hls l</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/austrias-top-court-rules-metas-ad-model-illegal-or/' | relative_url }}">austrias top court rules metas ad model illegal or</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
