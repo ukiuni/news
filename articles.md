@@ -74,8 +74,8 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
-  <h3><a href="{{ '/2025/12/27/how-search-engines-explore-the-entire-internet-ep/' | relative_url }}">how search engines explore the entire internet ep</a></h3>
-  <div class="article-meta">
+  <h3><a href="{{ '/2025/12/27/how-ai-could-cause-social-security-to-run-out-of-m/' | relative_url }}">how ai could cause social security to run out of m</a></h3>
+s  <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
 </article>
