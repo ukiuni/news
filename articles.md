@@ -56,6 +56,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/more-dynamic-cronjobs/' | relative_url }}">more dynamic cronjobs</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/how-to-make-a-markdown-viewer-in-java/' | relative_url }}">how to make a markdown viewer in java</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
@@ -74,7 +80,25 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/deepfakes-hit-a-whole-new-level-in-2025-the-2026-f/' | relative_url }}">deepfakes hit a whole new level in 2025 the 2026 f</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/copy-of-grand-theft-auto-that-runs-in-a-web-browse/' | relative_url }}">copy of grand theft auto that runs in a web browse</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/contractmd-the-naughty-list-for-ai-coding-agents/' | relative_url }}">contractmd the naughty list for ai coding agents</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/concurrent-hash-map-designs-synchronized-sharding/' | relative_url }}">concurrent hash map designs synchronized sharding</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
