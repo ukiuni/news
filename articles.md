@@ -224,6 +224,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/chasing-an-economic-boom-white-house-dismisses-ris/' | relative_url }}">chasing an economic boom white house dismisses ris</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/c-header-only-library-for-parsing-mepg-tsdvb-hls-l/' | relative_url }}">c header only library for parsing mepg tsdvb hls l</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
