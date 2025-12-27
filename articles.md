@@ -20,6 +20,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/some-junk-theorems-in-lean/' | relative_url }}">some junk theorems in lean</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/simd-city-auto-vectorisation/' | relative_url }}">simd city auto vectorisation</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
@@ -87,6 +93,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/langjam-gamejam-devlog-making-a-language-compiler/' | relative_url }}">langjam gamejam devlog making a language compiler</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/intertapes-collection-of-found-cassette-tapes-from/' | relative_url }}">intertapes collection of found cassette tapes from</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
@@ -171,6 +183,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/always-bet-on-text/' | relative_url }}">always bet on text</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/airtight-seal-think-of-seal-like-a-digital-notary/' | relative_url }}">airtight seal think of seal like a digital notary</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
