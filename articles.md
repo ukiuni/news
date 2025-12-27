@@ -20,6 +20,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/publishing-your-work-increases-your-luck/' | relative_url }}">publishing your work increases your luck</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/product-engineering-teams-must-own-supply-chain-ri/' | relative_url }}">product engineering teams must own supply chain ri</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
@@ -33,6 +39,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/how-to-make-a-markdown-viewer-in-java/' | relative_url }}">how to make a markdown viewer in java</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/how-ai-could-cause-social-security-to-run-out-of-m/' | relative_url }}">how ai could cause social security to run out of m</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
