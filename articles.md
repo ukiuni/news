@@ -8,6 +8,12 @@ permalink: /articles/
 
 <div class="articles-grid">
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/understanding-database-transactions-and-isolation/' | relative_url }}">understanding database transactions and isolation</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/t-ruby-is-ruby-with-syntax-for-types/' | relative_url }}">t ruby is ruby with syntax for types</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
@@ -32,7 +38,19 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/qnx-self-hosted-developer-desktop-brings-qnx-80-to/' | relative_url }}">qnx self hosted developer desktop brings qnx 80 to</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/publishing-your-work-increases-your-luck/' | relative_url }}">publishing your work increases your luck</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/prompt-injection-isnt-a-prompting-problem-its-an-a/' | relative_url }}">prompt injection isnt a prompting problem its an a</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
@@ -135,6 +153,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/c-header-only-library-for-parsing-mepg-tsdvb-hls-l/' | relative_url }}">c header only library for parsing mepg tsdvb hls l</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/arcan-071-minutes-to-midnight/' | relative_url }}">arcan 071 minutes to midnight</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
