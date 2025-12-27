@@ -1,4 +1,4 @@
-/* HN Japan Custom Styles */
+/* Tech News Japan Custom Styles */
 :root {
   --primary-color: #ff6600;
   --secondary-color: #1a1a2e;
@@ -94,7 +94,7 @@ body {
 }
 
 .article-card h3 {
-  margin: 0 0 0.75rem 0;
+  margin: 0 0 0.5rem 0;
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -107,6 +107,17 @@ body {
 
 .article-card h3 a:hover {
   color: var(--primary-color);
+}
+
+.article-excerpt {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0 0 0.75rem 0;
+  line-height: 1.6;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .article-meta {

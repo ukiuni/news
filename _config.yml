@@ -1,12 +1,14 @@
 # GitHub Pages Configuration
-title: HN Japan - 日本向けテックニュース
-description: 世界で話題の記事を日本語で解説
+title: Tech News Japan - 日本向けテックニュース
+description: 世界のテック記事を日本語で解説
 baseurl: ""
-url: ""
+url: "https://news.ukiuni.com"
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+# Excerpt settings - extract first paragraph as excerpt
+excerpt_separator: "## この記事を読むべき理由"
 
 # Plugins
 plugins:
@@ -22,7 +24,7 @@ collections:
 # Exclude from build
 exclude:
   - node_modules
-  - .hn-generator
+  - .tech-news-generator
   - "*.ts"
   - "*.js"
   - package.json
