@@ -8,7 +8,25 @@ permalink: /articles/
 
 <div class="articles-grid">
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/you-cant-design-software-you-dont-work-on/' | relative_url }}">you cant design software you dont work on</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/why-ios-app-monetization-iap-is-hard-to-learn-as-a/' | relative_url }}">why ios app monetization iap is hard to learn as a</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/understanding-database-transactions-and-isolation/' | relative_url }}">understanding database transactions and isolation</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/the-battle-to-stop-clever-people-betting/' | relative_url }}">the battle to stop clever people betting</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
@@ -33,6 +51,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/show-hn-ez-ffmpeg-video-editing-in-plain-english/' | relative_url }}">show hn ez ffmpeg video editing in plain english</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/sdsl-a-newold-shader-programming-language/' | relative_url }}">sdsl a newold shader programming language</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
@@ -129,6 +153,18 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/german-minister-sees-merit-to-social-media-ban-for/' | relative_url }}">german minister sees merit to social media ban for</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/garmin-autopilot-lands-small-aircraft-without-huma/' | relative_url }}">garmin autopilot lands small aircraft without huma</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/faster-practical-modular-inversion/' | relative_url }}">faster practical modular inversion</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
