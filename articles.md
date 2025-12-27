@@ -14,6 +14,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/27/simd-city-auto-vectorisation/' | relative_url }}">simd city auto vectorisation</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/qnx-self-hosted-developer-desktop/' | relative_url }}">qnx self hosted developer desktop</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
@@ -33,6 +39,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/pre-commit-hooks-are-fundamentally-broken/' | relative_url }}">pre commit hooks are fundamentally broken</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/oracle-shares-on-pace-for-worst-quarter-since-2001/' | relative_url }}">oracle shares on pace for worst quarter since 2001</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
@@ -69,6 +81,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/27/c-header-only-library-for-parsing-mepg-tsdvb-hls-l/' | relative_url }}">c header only library for parsing mepg tsdvb hls l</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-27</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/27/any-programming-youtube-channels-similar-to-these/' | relative_url }}">any programming youtube channels similar to these</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
   </div>
