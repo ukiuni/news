@@ -32,6 +32,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/the-origins-of-apl-1974-video/' | relative_url }}">the origins of apl 1974 video</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/text-rendering-hates-you/' | relative_url }}">text rendering hates you</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
@@ -45,6 +51,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/28/salesforce-executives-say-trust-in-large-language/' | relative_url }}">salesforce executives say trust in large language</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/rust-errors-without-dependencies/' | relative_url }}">rust errors without dependencies</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
   </div>
