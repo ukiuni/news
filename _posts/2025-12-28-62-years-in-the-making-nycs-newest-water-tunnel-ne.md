@@ -33,6 +33,3 @@ excerpt: "62年かけ完成間近のNYC新水トンネル、都市防災と長�
 - デジタル化を併用：センサー、遠隔監視、デジタルツインで掘削・運用の可視化を進めれば、保守計画と緊急対応の精度が上がる。  
 - 市民向け広報の重要性：NYC同様、長期工事では「いつ・なぜ必要か」を継続的に説明することが合意形成の鍵。
 
-## 引用元
-- タイトル: 62 years in the making: NYC's newest water tunnel nears the finish line  
-- URL: https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-
