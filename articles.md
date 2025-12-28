@@ -146,6 +146,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/i-stayed-in-a-40-capsule-hotel-london/' | relative_url }}">i stayed in a 40 capsule hotel london</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/i-built-an-offline-semantic-search-engine-in-js-no/' | relative_url }}">i built an offline semantic search engine in js no</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
