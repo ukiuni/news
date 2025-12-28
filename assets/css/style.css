@@ -163,7 +163,10 @@ body {
 }
 
 .article-card .article-excerpt {
-  display: none;
+  font-size: 0.85rem;
+  color: #666;
+  margin: 0.2rem 0 0 0;
+  line-height: 1.5;
 }
 
 .article-meta {

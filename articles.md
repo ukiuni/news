@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/why-object-of-arrays-soa-pattern-beat-interleaved/' | relative_url }}">why object of arrays soa pattern beat interleaved</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/when-not-to-use-pydantic/' | relative_url }}">when not to use pydantic</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/i-built-a-free-tool-to-compare-inference-costs-acr/' | relative_url }}">i built a free tool to compare inference costs acr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/hungry-fat-cells-could-someday-starve-cancer-to-de/' | relative_url }}">hungry fat cells could someday starve cancer to de</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
