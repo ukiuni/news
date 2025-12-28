@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/self-balancing-kafka-clusters-with-cruise-control/' | relative_url }}">self balancing kafka clusters with cruise control</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/salesforce-executives-say-trust-in-large-language/' | relative_url }}">salesforce executives say trust in large language</a></h3>
 </div>
 <div class="article-row">
@@ -113,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/openai-ceo-sam-altman-just-publicly-admitted-that/' | relative_url }}">openai ceo sam altman just publicly admitted that</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/one-year-of-keeping-a-tada-list/' | relative_url }}">one year of keeping a tada list</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are/' | relative_url }}">nvidia insists it isnt enron but its ai deals are</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/never-use-pixelation-to-hide-sensitive-text-2014/' | relative_url }}">never use pixelation to hide sensitive text 2014</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
@@ -230,6 +242,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/building-a-git-native-tool-to-reduce-manual-task-u/' | relative_url }}">building a git native tool to reduce manual task u</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/a-prime-view-of-hn/' | relative_url }}">a prime view of hn</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
