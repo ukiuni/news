@@ -6,14 +6,14 @@ layout: default
 
 <h2 class="section-title">📰 最新記事</h2>
 
-<div class="articles-grid">
-  {% for post in site.posts limit:20 %}
-  <article class="article-card">
-    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-    <p class="article-excerpt">{{ post.excerpt | strip_html | truncate: 100 }}</p>
-    <div class="article-meta">
-      <span class="article-date">📅 {{ post.date | date: "%Y年%m月%d日" }}</span>
+<div class="articles-list">
+  {% for post in site.posts limit:30 %}
+  <div class="article-row">
+    <div class="article-header">
+      <span class="article-date">{{ post.date | date: "%m/%d" }}</span>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
     </div>
-  </article>
+    <p class="article-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>
+  </div>
   {% endfor %}
 </div>

@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Las Vegas Police Touted New “Bulletproof” Cybertrucks. The Only Problem? They Aren’t Bulletproof"
+date: 2025-12-28T14:26:17.209Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://fuelarc.com/cars/las-vegas-police-force-touted-new-bulletproof-cybertrucks-the-only-problem-they-arent-bulletproof/"
+source_title: "Las Vegas Police Touted New “Bulletproof” Cybertrucks. The Only Problem? They Aren’t Bulletproof"
+source_id: 436188790
+excerpt: "防弾とされたラスベガスのCybertruck、窓やドアは実弾で貫通され安全性は宣伝と乖離"
+---
+
+# ラスベガス警察の「防弾サイバートラック」は本当に安全か？――宣伝と実態のギャップを掘る
+
+## 要約
+ラスベガス警察が導入を発表した「防弾」とされたTesla Cybertruck、だが工場出荷状態のドアやガラスは銃弾に対して脆弱で、実験映像や流出事例がそれを裏付ける。宣伝と実際の防護性能の差を検証する必要がある。
+
+## この記事を読むべき理由
+日本でもEVの導入や警察・自治体の特殊装備調達が進む中、メーカーや寄贈者の“安全アピール”を鵜呑みにすると実務上の重大リスクになる。技術的検証と調達判断のポイントを日本の現場視点で整理する。
+
+## 詳細解説
+- 何が起きたか  
+  ラスベガス警察はテック億万長者から寄贈された10台のCybertruckを「TACTICAL VEHICLE」として発表し、幹部が「防弾（bulletproof）」を理由に安全性を強調した。しかし、改造を担当した業者の創業者は、少なくともドアは工場出荷状態（追加の弾道強化なし）だと公言している。
+
+- 技術的ポイント（なぜ“防弾”は成立しないか）  
+  1) 車体パネル・ドア：市販の金属パネルはライフル弾や小口径弾に対して貫通を許すことが多い。YouTube等での実射検証では、AR-15系や標準ライフル弾でドアを貫通する映像が確認されている。  
+  2) ガラス：多層の弾道ガラス（防弾ガラス）に比べ、標準のフロント/サイドガラスは極めて脆弱で、頭部付近への貫通例もある。  
+  3) 重量・構造の問題：真の防弾化はパネルの強化、弾道ガラスへの置換、シャーシ補強など大掛かりな改造を必要とし、車体重量と運動性能に大きな影響を与える。  
+  4) 整備・認証：法的・運用上の「防弾」表記には、どの弾種・距離に対して有効かという明確な試験データ（NIJ基準等）が必要だが、今回のケースではその提示がない。
+
+- 発生源としての情報拡散  
+  イーロン・マスク氏の発言（「未来の戦車、bullet-proof」的表現）が誤解を助長し、メディアや関係者の期待を膨らませた。メーカーや著名人の口頭表現と実機の性能は別物である点が問題を生んだ。
+
+## 実践ポイント
+- 調達担当者へ：装備を「防弾」と呼ぶ場合、どの弾種・距離での試験に合格したか（試験レポートの開示）を必ず要求する。  
+- 現場運用者へ：見た目の装備やラベリングだけで安全性を判断しない。運用前に実弾や代替試験による検証を行うこと。  
+- 技術者・エンジニアへ：EVでの重装甲化はバッテリー・シャシー設計に影響するため、改造はメーカーと協業し全体安全性（衝突・熱暴走）を評価すること。  
+- 市民・メディアへ：メーカー発言や寄贈のニュースをそのまま信じず、スペックと検証データを求める習慣を持つ。
+
+## 引用元
+- タイトル: Las Vegas Police Touted New “Bulletproof” Cybertrucks. The Only Problem? They Aren’t Bulletproof
+- URL: https://fuelarc.com/cars/las-vegas-police-force-touted-new-bulletproof-cybertrucks-the-only-problem-they-arent-bulletproof/
