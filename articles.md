@@ -29,7 +29,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/what-an-unprocessed-photo-looks-like/' | relative_url }}">what an unprocessed photo looks like</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/we-have-to-reject-that-with-every-fiber-of-our-bei/' | relative_url }}">we have to reject that with every fiber of our bei</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/unitys-mono-problem-why-your-c-code-runs-slower-th/' | relative_url }}">unitys mono problem why your c code runs slower th</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
@@ -38,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/tiny-types-first-schema-validation-for-typescript/' | relative_url }}">tiny types first schema validation for typescript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/the-tricky-parts-of-building-a-reliable-job-schedu/' | relative_url }}">the tricky parts of building a reliable job schedu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
