@@ -45,6 +45,3 @@ Nvidiaの動向は世界のAIインフラの中心であり、日本のクラウ
   - 国産・多国籍の供給網を強化し、重要インフラでの単一ベンダー依存を回避する方針が重要。  
   - 政府発注や産学連携での契約設計に透明性とリスク分配の明文化を求めるべき。
 
-## 引用元
-- タイトル: Nvidia insists it isn’t Enron, but its AI deals are testing investor faith  
-- URL: https://www.theguardian.com/technology/2025/dec/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are-testing-investor-faith

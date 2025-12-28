@@ -45,6 +45,3 @@ ProDoc+（Play ストア掲載）は以下の主要機能を備えます。
 - 日本語UI／OCRが必要なら、現状はローカライズや日本語OCR非搭載の可能性が高いので代替のワークフローを検討する（例：Google Drive連携→日本語OCR）。
 - 開発者へフィードバックするポイント：日本語対応、クラウド保存先の選択肢（国内リージョン/GDPR相当の説明）、署名の信頼性向上、使い勝手（自動トリミング・一括処理）の改善。
 
-## 引用元
-- タイトル: Built a PDF editor &amp; scanner app after 6 months of practice — looking for feedback  
-- URL: https://play.google.com/store/apps/details?id=com.mobile.pablo.proscan

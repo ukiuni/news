@@ -36,6 +36,3 @@ Googleがユーザーの既存@ gmail.comアドレスを新しいアドレスに
 - アカウント回復情報を整備：電話番号・代替メールを最新にしておく。変更後の不可逆性（12か月の制約や削除不可）を意識する。
 - 企業はポリシー検討を：Workspace管理者はポリシー変更の要否、社員への周知計画、SAML/OAuth連携の影響確認を早めに検討する。
 
-## 引用元
-- タイトル: Google is rolling out a new feature allowing users to change their Gmail address  
-- URL: https://www.cnbc.com/2025/12/26/google-gmail-change-email-address-without-new-account-india-hindi-support.html

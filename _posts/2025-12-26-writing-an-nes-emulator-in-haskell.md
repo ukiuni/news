@@ -43,6 +43,3 @@ Haskellで書かれたNESエミュレータ「FuNes」の試みは、関数型�
 - 既存リソースを活用：nesdev.orgや「Writing an NES Emulator in Rust」などの解説はアーキテクチャ理解に有用。Haskell側は既存のライブラリ（SDL2で出力・音声）を組み合わせると実装工数を削減できる。  
 - 小さく始めて繰り返す：100%互換を最初から目指さず、動くものを早く作ってから互換性や最適化を段階的に追加する。
 
-## 引用元
-- タイトル: Writing an NES emulator in Haskell  
-- URL: https://arthi-chaud.github.io/posts/funes/

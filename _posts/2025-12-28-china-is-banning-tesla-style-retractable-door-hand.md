@@ -39,6 +39,3 @@ excerpt: "中国が安全性問題でテスラ式格納ドアハンドルを禁�
 - エンジニア／デザイナー向け：外観優先の機能は必ず冗長性・機械的バックアップを設計に組み込む。ソフトが動く前提の機構は、電源断や外力での故障を想定した試験（環境耐性、衝突後のアクセス性）を実施する。
 - 企業戦略：中国市場向け車両設計は規制リスクが高いことを念頭に、設計変更コストや法規対応の戦略を早めに立てる。
 
-## 引用元
-- タイトル: China Is Banning Tesla-Style Retractable Door Handles Over Safety Concerns
-- URL: https://www.autoblog.com/news/china-is-banning-tesla-style-retractable-door-handles-over-safety-concerns

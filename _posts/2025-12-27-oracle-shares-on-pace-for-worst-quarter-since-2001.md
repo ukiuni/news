@@ -44,6 +44,3 @@ Oracle株が四半期で約30%下落し、2001年以来最大の下落ペース�
   - Oracleの財務指標（フリーCF、負債比率、CDSスプレッド）を定期チェックし、パートナーリスクシナリオを作成する。
   - Oracleが調整に入った場合、国内SIやクラウド事業者（NTTコミュニケーションズ、KDDI、Fujitsu等）にとって顧客奪取のチャンスになる可能性を探る。
 
-## 引用元
-- タイトル: Oracle shares on pace for worst quarter since 2001 as new CEOs face concerns about AI build-out
-- URL: https://www.cnbc.com/2025/12/26/oracle-stock-on-pace-for-worst-quarter-since-2001-ai-concerns.html

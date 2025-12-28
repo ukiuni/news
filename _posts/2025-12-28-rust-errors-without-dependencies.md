@@ -83,6 +83,3 @@ unwrap/expectに関しては「完全に禁止」する立場もありますが�
 - テストでエラー経路も必ずカバーする（異常系のインテグレーションテスト含む）。
 - 企業や組み込み環境では依存を減らすことで監査負荷やバイナリサイズ、攻撃面を減らせる。
 
-## 引用元
-- タイトル: Rust Errors Without Dependencies
-- URL: https://vincents.dev/blog/rust-errors-without-dependencies/

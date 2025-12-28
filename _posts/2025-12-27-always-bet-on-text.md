@@ -50,6 +50,3 @@ excerpt: "エンジニアが実務で活かせる、検索性と互換性で勝�
 - 大量データ転送は差分（rsync/git）、圧縮（gzip/brotli）を活用。  
 - 設計段階で「テキストで代替できるか」を最初に問う。多くはまずテキストで要件を満たせる。
 
-## 引用元
-- タイトル: Always Bet on Text  
-- URL: https://graydon2.dreamwidth.org/193447.html

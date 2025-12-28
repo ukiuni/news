@@ -74,6 +74,3 @@ void integrateNullGeodesic(Vec4 x, Vec4 k, double M) {
 - 数値的安定性: 事象の地平線近傍は座標特異性が出るので、座標系変換（例: Eddington–Finkelstein）や適応ステップ幅を検討する。
 - 再現してみたい人はC++で書かれた積分ルーチンをEmscriptenでビルドしてブラウザへ持ち込むのが最も手早い。実装のキーは「初期光線の作り方（スクリーン座標→球面上の発射角）」と「終了判定（r<=2M / r>R_ESC / 周回検出）」です。
 
-## 引用元
-- タイトル: Schwarzschild Geodesic Visualization in C++/WebAssembly
-- URL: https://schwarzschild-vercel.vercel.app/

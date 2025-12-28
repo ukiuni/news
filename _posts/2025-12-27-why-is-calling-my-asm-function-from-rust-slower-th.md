@@ -52,6 +52,3 @@ excerpt: "同じASMなのにRust呼出しで命令1つ分遅延、原因と即�
 - 小さな差も無視しない  
   命令単位での差は全体の数%や実行時間で顕在化することがあるため、ホットパスは細かく見る。
 
-## 引用元
-- タイトル: Why is calling my asm function from Rust slower than calling it from C?  
-- URL: https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/

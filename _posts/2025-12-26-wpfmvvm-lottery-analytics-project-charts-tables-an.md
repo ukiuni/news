@@ -48,6 +48,3 @@ WPFでのデータ可視化やMVVMアーキテクチャを実務で使う日本�
 - パフォーマンス診断：Visual StudioのCPU/メモリプロファイラで実測し、ボトルネックに応じてアルゴリズムかレンダリングのどちらを改善するか決める。  
 - UX配慮：テーマ切替、フォントサイズ、結果のエクスポート（CSV/JSON）を早期に用意する。
 
-## 引用元
-- タイトル: WPF/MVVM lottery analytics project : charts, tables, and performance notes (screenshots gallery)  
-- URL: https://lottoanalyzer.fr/Screenshots

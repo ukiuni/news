@@ -46,6 +46,3 @@ Rexは、eBPFの代わりに「安全なRustサブセット」を使ってカー
   - 性能向上が運用コスト削減や機能実現に直結するか？  
   - セキュリティレビューとフォールバック手段（eBPF等）を確保できるか？
 
-## 引用元
-- タイトル: Rex is a safe kernel extension framework that allows Rust in the place of eBPF  
-- URL: https://github.com/rex-rs/rex

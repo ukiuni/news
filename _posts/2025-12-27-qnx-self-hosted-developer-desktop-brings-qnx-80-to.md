@@ -32,6 +32,3 @@ QNXが「Self‑Hosted Developer Desktop」を初公開。QNX 8.0 上に Wayland
 - Raspberry Pi のネイティブイメージを注視：手元の低コストなボードでの実機検証が可能になれば、プロトタイプの迅速化につながるため、日本の中小開発チームや教育利用でも価値が高い。
 - ライセンス確認は必須：学習や社内PoCはパーソナルライセンスで可能だが、商用製品に組み込む場合はQNXの商用ライセンス条件を確認する。
 
-## 引用元
-- タイトル: QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop
-- URL: https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop

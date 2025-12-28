@@ -51,6 +51,3 @@ AIが生成する大量/低品質コード（いわゆる“slop”）は問題�
 - 教育と文化作り  
   「AIが出したからOK」ではなく、説明責任とレビューを重視する文化を促進する（事例共有・レビュー訓練）。
 
-## 引用元
-- タイトル: Make your PR process resilient to AI slop  
-- URL: https://www.pcloadletter.dev/blog/pr-review-ai-slop-resilience/

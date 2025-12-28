@@ -62,6 +62,3 @@ excerpt: "SMS/OTPコストや過負荷を防ぐ、実践的レートリミッタ
 - モニタリングとアラート：レート制御ヒット率、拒否率、異常な短時間バーストの検出ルールを設ける。  
 - テストする：負荷テストで窓端や補充直後の挙動を検証する。運用中は本番トラフィックの一部でカナリア運用する。
 
-## 引用元
-- タイトル: How Rate Limiter protect your system from abuse!  
-- URL: https://sushantdhiman.substack.com/p/how-rate-limiter-protect-your-system

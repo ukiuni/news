@@ -36,6 +36,3 @@ excerpt: "ジョブズが起動を10秒短縮させた実話と、企業で使�
 - CIにブート回帰テストを組み込む：起動時間の基準を設け、ビルドで遅くなったらアラートを出す。
 - 日本の現場での応用：大企業のクライアントPC一斉起動、POS端末、キオスク、IoT機器など「日次で多数が起動する」環境で効果が大きい。節約される「合計時間」は運用工数や電力にも直結する。
 
-## 引用元
-- タイトル: Steve wants us to make the Macintosh boot faster  
-- URL: https://www.folklore.org/Saving_Lives.html

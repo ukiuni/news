@@ -52,6 +52,3 @@ excerpt: "ディディオンとヴォネガットの録音が示す保存・解�
   - 日本語話者の音声モデルは訓練データの差で誤認識が出やすい。固有名詞や外来語の辞書カスタマイズ、形態素解析（MeCab等）との組合せが有効。
   - 国立国会図書館やNHKのアーカイブ運用を参照して、国内の法・慣習に合わせた公開方針を策定すること。
 
-## 引用元
-- タイトル: Joan Didion and Kurt Vonnegut had something to say. We have it on tape
-- URL: https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html

@@ -62,6 +62,3 @@ class TestLeaks(MemoryLeakTestCase):
 - CI に psleak ベースのテストを組み込み、リリース前にネイティブリークの回帰を検出する。
 - Windows は heap_count 等の特殊フィールドがあり挙動が異なる点に注意する。
 
-## 引用元
-- タイトル: Detect memory leaks of C extensions with psutil and psleak
-- URL: https://gmpy.dev/blog/2025/psutil-heap-introspection-apis

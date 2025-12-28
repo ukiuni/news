@@ -40,6 +40,3 @@ Electronic Arts（EA）の株主が総額550億ドルのサウジ側による買
 - ビジネス戦略上の観点
   - 提携の可能性を探る：資本力強化で新規IPや共同開発のチャンスが増える反面、競争も激化するため差別化戦略を明確化する。
 
-## 引用元
-- タイトル: Electronic Arts Shareholders Approve $55 Billion Sale to Saudis
-- URL: https://www.bloomberg.com/news/articles/2025-12-22/electronic-arts-shareholders-approve-55-billion-sale-to-saudis

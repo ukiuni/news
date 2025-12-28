@@ -33,6 +33,3 @@ Discordは低遅延の音声・映像・テキストを組み合わせた「遊�
 4. イベント運用：初回はオンライン勉強会＋カジュアルな雑談セッションを分け、交流の“段階”を作る。合同ハッカソンやライトニングトークで信頼を育てる。
 5. 法的・安全配慮：利用規約とプライバシーポリシーに「出会い／個人情報の取り扱い」項目を明記。トラブル対応窓口を設ける。
 
-## 引用元
-- タイトル: A Discord server that combines an IT community with a dating/social element. Thoughts?
-- URL: https://discord.com/

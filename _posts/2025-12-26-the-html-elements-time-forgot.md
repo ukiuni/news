@@ -50,6 +50,3 @@ source_id: 1124897989
   - 既存ユーザーに影響が出ないよう段階的にリファクタリング
 - ポリシー化：新規機能で使ってはいけない要素をコーディング規約に明記し、CIで検出する。
 
-## 引用元
-- タイトル: The HTML Elements Time Forgot
-- URL: https://htmhell.dev/adventcalendar/2025/22/

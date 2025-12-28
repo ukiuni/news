@@ -68,6 +68,3 @@ V8やNodeの実装により微妙に挙動が変わる可能性があるため�
 - nextTickの多用は避け、PromiseとsetImmediateの組合せで公平なスケジューリングを実現。
 - 本番前に使用環境の Node バージョンで動作とパフォーマンスを測定する。
 
-## 引用元
-- タイトル: The Hidden Power of nextTick + setImmediate in Node.js
-- URL: https://medium.com/@unclexo/the-hidden-power-of-nexttick-setimmediate-in-node-js-2bd5b5fb7e28

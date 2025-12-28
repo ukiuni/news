@@ -63,6 +63,3 @@ spec:
 - 日本市場向けの注意点  
   マネージドKubernetes（EKS/GKE/AKS）を使うケースが多い日本企業では、クラウド固有の制約やネットワーク設計、運用責任の切り分け（クラウド側か自社か）を踏まえて型設計とGitOps権限を決めることが重要。
 
-## 引用元
-- タイトル: I Think about Kubernetes  
-- URL: https://garnaudov.com/writings/how-i-think-about-kubernetes/

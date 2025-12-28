@@ -60,6 +60,3 @@ rclone cleanup b2:your-bucket-name
 5. 運用設計：頻繁に上書きする大容量ファイルは差分やスナップショット方式に変える、あるいはバックアップ間隔を見直すことで根本的に課金を抑えられる。
 6. サポート活用：Backblazeサポートは有用。ポリシーや挙動確認で疑問があれば問い合わせる。
 
-## 引用元
-- タイトル: Automating What Backblaze Lifecycle Rules Don't Do Instantly
-- URL: https://blog.tymscar.com/posts/backblazeb2cleanup/

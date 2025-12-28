@@ -42,6 +42,3 @@ source_id: 438438603
   - 異なる環境からのログイン成功率や自動化試行を探知するシグネチャを作成。
   - 広告や検索結果でブランドを模倣されるケースを想定したインシデント対応計画（広告プラットフォームとの連携手順含む）を作る。
 
-## 引用元
-- タイトル: US disrupts multimillion-dollar bank account takeover operation targeting Americans
-- URL: https://therecord.media/us-disrupts-bank-account-takeover-operation-web3adspanels

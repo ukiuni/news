@@ -55,6 +55,3 @@ RocksDBは多くの日本企業で採用実績がある一方、SSDや大容量�
 - 多数の国産・外資系SaaSがRocksDBを採用しているため、互換性・移行手順を確立すれば短期的にパフォーマンス改善を達成できるケースがある。  
 - 一方で商用サポートやエコシステムの成熟度は継続確認が必要。日本企業は安定性と長期運用性を重視するため、PoC→段階的導入が現実的。
 
-## 引用元
-- タイトル: What I Learned Building a Storage Engine That Outperforms RocksDB  
-- URL: https://tidesdb.com/articles/what-i-learned-building-a-storage-engine-that-outperforms-rocksdb/

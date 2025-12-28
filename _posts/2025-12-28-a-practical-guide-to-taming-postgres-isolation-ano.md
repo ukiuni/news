@@ -75,6 +75,3 @@ WHERE id = '...' AND version = 3;
 - マネージドPostgres（RDS / Cloud SQL等）を利用する場合、デフォルトの設定や接続プールの挙動がアプリの同期表現に影響するため確認する。  
 - 日本市場ではピーク時の集中アクセス（イベント・ECセール）や金融・規制要件が多いため、整合性優先の設計判断（多少のスループット犠牲を許容）を検討する価値が高い。
 
-## 引用元
-- タイトル: A Practical Guide to Taming Postgres Isolation Anomalies  
-- URL: https://dansvetlov.me/postgres-anomalies/

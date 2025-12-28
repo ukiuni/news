@@ -35,6 +35,3 @@ excerpt: "この記事の詳細をチェック"
   - 擬似オーディエンスのペルソナを複数用意（PM、エンジニア、UX）。投稿に対する想定フィードバックを切り替えられるようにする。
   - 自己ホスト版をCIで自動デプロイし、社内向けにテンプレ配布やバックアップを自動化する。
 
-## 引用元
-- タイトル: Show HN: Private blogging and journaling with a simulated audience
-- URL: https://tempblog-psi.vercel.app/

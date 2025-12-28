@@ -57,8 +57,3 @@ console.log(row);
   - 検索・正規化後に意図した情報が消えないか。
   - 文字数カウントやバイト長（UTF-8）に注意：見た目と内部長が大きく乖離する。
 
-## 引用元
-- タイトル: Drawing with zero-width characters
-- URL: https://zw.swerdlow.dev
-
-以上。まずは小さな実験から始め、表示差と正規化の挙動を複数環境で確かめることを強く推奨します。

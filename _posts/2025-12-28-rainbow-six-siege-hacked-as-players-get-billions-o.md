@@ -50,6 +50,3 @@ Rainbow Six Siegeで大規模な不正事象が発生し、複数アカウント
   - インシデント後は脆弱性スキャン、ペネトレーションテスト、サードパーティ監査を強化。  
   - 日本向けには個人情報漏洩が疑われる場合、改正個人情報保護法（APPI）に基づく対応も検討すること。
 
-## 引用元
-- タイトル: Rainbow Six Siege hacked as players get billions of credits and random bans  
-- URL: https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/

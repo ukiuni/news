@@ -38,6 +38,3 @@ excerpt: "米FCCがDJIなどを事実上排除、部品供給と更新停止で�
 - 社内教育と緊急対応訓練：不審な挙動やセキュリティインシデントを想定した対応手順と連絡網を整備する。
 - 情報収集を継続：FCC、メーカー（DJI/Autel）の公式発表や日本当局のガイダンスを定期チェックする。
 
-## 引用元
-- タイトル: DJI drone ban has started in the US, but it won't happen overnight
-- URL: https://dronedj.com/2025/12/22/dji-drone-us-fcc-ban/

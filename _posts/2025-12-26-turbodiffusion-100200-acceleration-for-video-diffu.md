@@ -44,6 +44,3 @@ pip install torch==2.8.0 --index-url https://download.pytorch.org/whl/cuXXX
 - 統合のコツ：既存のレンダーパイプラインやエンコード処理（FFmpeg等）に組み込み、生成→ポストプロセス→品質評価の自動化を行うと効率化効果が見えやすい。
 - 注意点：リポジトリは活発に更新される可能性がある（チェックポイント・論文が未最終）。商用利用時はライセンス（Apache‑2.0）と生成コンテンツの倫理的・法的側面を確認する。
 
-## 引用元
-- タイトル: TurboDiffusion: 100–200× Acceleration for Video Diffusion Models
-- URL: https://github.com/thu-ml/TurboDiffusion

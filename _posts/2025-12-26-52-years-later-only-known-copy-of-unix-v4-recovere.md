@@ -29,6 +29,3 @@ OS設計、プログラミング言語の進化、ソフトウェア保存に関
 - 保存・公開の協力：大学や企業に眠る古いメディアの調査・デジタル化は価値ある活動。法的・所有権の確認を行い、可能であればアーカイブに寄贈・公開することを検討する。
 - コミュニティ参加：国内外のレトロコンピューティング／コンピュータ歴史コミュニティに参加し、復元ツールや手順、経験を共有すると学びが早い。
 
-## 引用元
-- タイトル: 52 years later, only known copy of Unix v4 recovered from randomly found tape, now up and running on a system — first OS version with kernel and core utilities written in C  
-- URL: https://www.tomshardware.com/software/linux/unix-v4-recovered-from-randomly-found-tape-at-university-of-utah-only-known-copy-of-first-os-version-with-kernel-and-core-utilities-written-in-c

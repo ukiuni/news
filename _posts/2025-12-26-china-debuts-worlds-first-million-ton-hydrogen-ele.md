@@ -37,6 +37,3 @@ excerpt: "中国が年産100万トンの水素・電気炉製鉄を実装、CO2�
 - 政策対応：補助金・炭素価格・規制整備（安全・貯蔵・水素法）を踏まえた事業計画を策定する。
 - 人材・運用面：電気炉制御、燃料切替の運用知見、保守スキルを持つ人材育成を優先する。
 
-## 引用元
-- タイトル: China debuts 'world’s first' million-ton hydrogen-electric steel line  
-- URL: https://interestingengineering.com/innovation/worlds-first-million-ton-hydrogen-steel-production

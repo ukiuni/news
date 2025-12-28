@@ -39,6 +39,3 @@ excerpt: "GPGなどの実装バグで署名検証が破られ、配布の信頼�
 - 仕様と実装の監査を実施：OpenPGP仕様の曖昧点や自分たちが使うライブラリのパーサー部分をレビュー／ファズして弱点を把握する。  
 - 最悪策の検討：重要性の高いケースでは別プロトコル（例：最新の成熟したライブラリやTUFなどのソフトウェア配布向けフレームワーク）への移行を検討する。
 
-## 引用元
-- タイトル: 39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends  
-- URL: https://media.ccc.de/v/39c3-to-sign-or-not-to-sign-practical-vulnerabilities-i

@@ -44,6 +44,3 @@ A ← 1 2 3 4
 \+ A    ⍝ 累積和 → 1 3 6 10
 ```
 
-## 引用元
-- タイトル: The Origins of APL (1974) [video]
-- URL: https://www.youtube.com/watch?v=8kUQWuK1L4w

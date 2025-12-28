@@ -31,6 +31,3 @@ source_id: 46336577
 - プロトタイプ：ニュース推薦やリコメンデーションの実験に古典記事を使い、長文理解モデルの評価データとして活用する。
 - 日本市場への応用：出版社のアーカイブ戦略、デジタル保存、AI要約導入のベンチマークとして参考にする。
 
-## 引用元
-- タイトル: The entire New Yorker archive is now fully digitized  
-- URL: https://www.newyorker.com/news/press-room/the-entire-new-yorker-archive-is-now-fully-digitized

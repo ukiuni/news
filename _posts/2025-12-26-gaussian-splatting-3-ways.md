@@ -46,6 +46,3 @@ NullSplatsは動画や画像フォルダから自動でフレーム抽出→COLM
 - 出力活用：.plyはBlenderやUnityにインポート可能。キャッシュ機構を使えば学習途中からの再開や比較実験が容易。
 - チューニング：学習反復回数（例：50-viewサンプルは12k iter）やフレーム選定が品質に大きく影響するので、まず少ない反復で試してから増やす。
 
-## 引用元
-- タイトル: Gaussian Splatting 3 Ways
-- URL: https://github.com/NullandKale/NullSplats

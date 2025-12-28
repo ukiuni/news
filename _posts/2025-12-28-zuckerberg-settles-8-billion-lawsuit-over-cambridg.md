@@ -42,6 +42,3 @@ excerpt: "ザッカーバーグが$8Bで和解、証言回避が示すSNS責任�
 - サードパーティ監査: 外部アプリやSDKの挙動を定期的に検査し、アクセスログを長期間保存して説明可能性を確保する。
 - 法務と連携したインシデント対応計画: 早期報告フロー、当局対応テンプレート、広報戦略を用意する。
 
-## 引用元
-- タイトル: Zuckerberg settles $8 billion lawsuit over Cambridge Analytica scandal, avoids testifying
-- URL: https://www.france24.com/en/americas/20250717-zuckerberg-settles-8-billion-lawsuit-over-cambridge-analytica-scandal-avoids-testifying

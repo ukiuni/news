@@ -57,6 +57,3 @@ excerpt: "ConcurrentHashMapとシャーディングで競合を抑える最適�
 - 性能検証は必須：JMH や負荷ツールで実際のスレッド数・アクセス分布で計測する。局所的な最適化が逆効果になることがよくある。
 - 関連テクニック：高頻度カウンタは AtomicLong より LongAdder、集計はストライピングされたカウンタ等を使うと良い。
 
-## 引用元
-- タイトル: Concurrent Hash Map Designs: Synchronized, Sharding, and ConcurrentHashMap
-- URL: https://bluuewhale.github.io/posts/concurrent-hashmap-designs/

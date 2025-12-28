@@ -64,6 +64,3 @@ curl -X POST http://localhost:8080/api/v1/schedules \
   }'
 ```
 
-## 引用元
-- タイトル: The tricky parts of building a reliable job scheduler: leases, idempotency, and timezone-aware cron  
-- URL: https://github.com/Spooled-Cloud/spooled-backend

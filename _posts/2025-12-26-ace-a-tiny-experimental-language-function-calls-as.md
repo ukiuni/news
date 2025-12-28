@@ -52,6 +52,3 @@ let r = add(2, 3)    // -> perform add effect
 2. 小さな関数（IOやDBアクセス）を効果に置き換える。  
 3. テスト用にハンドラを差し替えて期待される振る舞いを検証する。
 
-## 引用元
-- タイトル: ACE - a tiny experimental language (function calls as effects)  
-- URL: https://github.com/Lee-WonJun/ACE

@@ -56,6 +56,3 @@ GeneGuessrの核心は「公開データ統合＋フィードバック型パズ�
   - 公開ソースに基づくため、同手法で他種（マウス、植物など）のデイリーパズルを作る教材化が容易。
   - GitHub等で類似ツールを自作し、社内データや特定疾患遺伝子に特化したバージョンを作ると実務価値が高い。
 
-## 引用元
-- タイトル: Show HN: GeneGuessr – a daily biology web puzzle  
-- URL: https://geneguessr.brinedew.bio/

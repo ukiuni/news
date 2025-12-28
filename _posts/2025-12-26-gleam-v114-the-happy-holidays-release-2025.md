@@ -53,6 +53,3 @@ Gleam は Erlang/BEAM と JavaScript ランタイムの両方をターゲット�
 - パターン照合を多用するコード（特にビット操作やバイナリ処理）は再ビルドして、コンパイラによる到達不能分岐の削除や最適化の有無をベンチマークする。  
 - エラーメッセージがより具体化しているので、コンパイル時の警告やエラーを見逃さずに修正すれば潜在バグの早期発見につながります。
 
-## 引用元
-- タイトル: Gleam v1.14 - the happy holidays release 2025
-- URL: https://gleam.run/news/the-happy-holidays-2025-release/

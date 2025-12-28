@@ -49,6 +49,3 @@ excerpt: "ナルトのランク比喩で学ぶ、CI高速化とテスト比率�
 - E2Eの効率化：重要ユーザーフローに絞る、並列化と実機クラウドを活用、UIテストは画面差分検出と組み合わせる。  
 - ツール例（日本で使われやすい）: Jest / JUnit / pytest（ユニット）、Postman / Pact（統合・契約）、Playwright / Cypress / Selenium（E2E）、GitHub Actions / CircleCI / Bitrise（CI）
 
-## 引用元
-- タイトル: From Genin to Kage - Understanding the Test Pyramid with Naruto  
-- URL: https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk

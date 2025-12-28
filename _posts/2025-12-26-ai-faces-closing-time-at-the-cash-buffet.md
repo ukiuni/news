@@ -33,6 +33,3 @@ source_id: 438085156
 - 組織面の準備: データ、MLOps、セキュリティ、業務側の受け入れを横断的に整備する。経営陣の「買うだけ」発言に依存しない現場の評価が重要。
 - 日本市場への配慮: 規制（個人情報保護）、日本語固有のデータ品質（語彙・表現）、ローカライズコストを見込む。欧米で「成功した」事例もそのままでは効果が薄いことがある。
 
-## 引用元
-- タイトル: AI faces closing time at the cash buffet
-- URL: https://www.theregister.com/2025/12/24/ai_spending_cooling_off/

@@ -54,6 +54,3 @@ James Hanson氏のリポジトリ "Some Junk Theorems in Lean" は、Lean4 + Mat
 
 Leanや形式化は強力だが、「何を証明できるか」は理論と実装の掛け合わせで決まる。ジャンク定理は警鐘でもあり、同時に型理論を学ぶ絶好の教材でもあります。
 
-## 引用元
-- タイトル: Some Junk Theorems in Lean  
-- URL: https://github.com/James-Hanson/junk-theorems-in-lean

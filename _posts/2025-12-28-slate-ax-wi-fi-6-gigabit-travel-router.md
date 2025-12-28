@@ -34,6 +34,3 @@ GL.iNetの「Slate AX（GL-AXT1800）」はWi‑Fi 6対応のトラベルルー�
 - 混雑環境での速度確保：Wi‑Fi 6対応端末を優先接続させる、2.4/5GHzの用途を分離するなど基本設定を見直すと体感が向上する。
 - 企業導入の目安：個人出張やフィールドエンジニア向けの配備なら費用対効果が高い。大量導入の際は運用（設定テンプレート、管理方法）を整備すること。
 
-## 引用元
-- タイトル: Slate AX: Wi-Fi 6 Gigabit travel router  
-- URL: https://www.gl-inet.com/products/gl-axt1800/

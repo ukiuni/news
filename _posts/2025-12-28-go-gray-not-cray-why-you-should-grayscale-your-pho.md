@@ -41,6 +41,3 @@ excerpt: "スマホをグレースケール化して画面時間・通知スト�
 - 元に戻したくなったら短時間だけカラー確認：写真や動画を確認するために一時的にカラーに戻す運用がおすすめ。  
 - 数値化して評価：スクリーンタイムやバッテリ持ちを測って「変化」を記録すると続けやすい。
 
-## 引用元
-- タイトル: Go Gray, Not Cray: Why You Should Grayscale Your Phone  
-- URL: https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/

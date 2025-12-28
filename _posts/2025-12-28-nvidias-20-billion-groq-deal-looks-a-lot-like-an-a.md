@@ -35,6 +35,3 @@ NVIDIAがGroqと発表した約$20Bの「非独占ライセンス」契約は、
 - 投資家／規制ウォッチャー:
   - 大手による高額ライセンス＋選抜採用のパターンは市場集中化を生む可能性があるため、契約の実態と業界影響を注視する。
 
-## 引用元
-- タイトル: Nvidia's $20 billion Groq deal looks a lot like an acquisition in disguise
-- URL: https://www.techspot.com/news/110723-nvidia-20-billion-groq-deal-looks-lot-like.html

@@ -40,6 +40,3 @@ Code Modeはローカルなコード操作で高速に働く一方、MCP（Model
 - セキュリティとコンプライアンスを優先：日本市場ではオンプレ・閉域環境が多い。MCPサーバーの配置や認可設計を早めに決める。  
 - 開発環境での再現性を確保：外部API呼び出しはモック化して、実運用時のツール読み込み挙動を事前検証する。
 
-## 引用元
-- タイトル: Code Mode Doesn't Replace MCP (Here's What It Actually Does)  
-- URL: https://dev.to/blockopensource/code-mode-doesnt-replace-mcp-heres-what-it-actually-does-3hga

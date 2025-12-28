@@ -46,6 +46,3 @@ phoenixはZigで一から実装された新しいXサーバーで、モダンな
 - DPI/HDR対応の準備: マルチモニタやHDRモニタを扱うワークフロー（クリエイティブ、映像制作、ゲーム）では、モニタ毎DPIやHDRの実装動向を追って検証プランを立てる。  
 - コントリビュートと追跡: 現段階は開発初期なので、興味があるエンジニアはリポジトリをウォッチし、ネスト実行でのバグレポートやパッチで貢献すると効果的。
 
-## 引用元
-- タイトル: phoenix - A modern X server written from scratch in Zig  
-- URL: https://git.dec05eba.com/phoenix/about/

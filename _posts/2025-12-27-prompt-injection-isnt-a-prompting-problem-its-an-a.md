@@ -44,6 +44,3 @@ excerpt: "プロンプト注入を防ぐ「実行権限分離」設計でAIの�
 - 導入順序（PoC提案）
   - 影響が小さい自動化タスクから実行分離を導入し、ログ・ポリシーを整備して段階的拡張を行う。
 
-## 引用元
-- タイトル: Prompt Injection Isn’t a Prompting Problem, It’s an Authority Problem  
-- URL: https://zenodo.org/records/18067959

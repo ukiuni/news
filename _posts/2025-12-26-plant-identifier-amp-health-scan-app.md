@@ -51,6 +51,3 @@ TikTokで注目の「Plant Identifier & health scan」は、写真から植物�
   - 症状が出た部分のクローズアップ＋植物全体の写真を同時に撮ると診断精度が上がる。  
   - 診断に不安がある場合は、アプリ結果をメモして園芸店や専門家に相談する。
 
-## 引用元
-- タイトル: Plant Identifier & health scan app  
-- URL: https://vt.tiktok.com/ZSPEbXGsw/

@@ -53,6 +53,3 @@ DEV編集部が選ぶ今週の注目記事7本。AI支援コーディングの�
 - 技術文化: コードレビューのガイドラインとオンボーディング資料を整備し、心理的安全を担保する仕組みを設ける。
 - 日本市場向け留意点: 企業の保守性要件やセキュリティ規定が厳しいため、AI生成物のトレーサビリティとエッジでの情報制御を重視すること。
 
-## 引用元
-- タイトル: Top 7 Featured DEV Posts of the Week
-- URL: https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l

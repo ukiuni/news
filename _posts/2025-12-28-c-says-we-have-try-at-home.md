@@ -46,6 +46,3 @@ C++標準でも C++23 で std::scope_exit（<scope> ヘッダ）が利用可能�
 - Windows 固有の __try/__finally を C++ の例外処理と混同しない。相互作用に注意するか使わない選択をする。
 - 単体テストで「例外が発生したときの挙動（アンワインド中の副作用含む）」を確認する。
 
-## 引用元
-- タイトル: C++ says "We have try at home."
-- URL: https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890

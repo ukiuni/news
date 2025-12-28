@@ -45,6 +45,3 @@ YouTubeは日本のクリエイター、広告主、プラットフォーム運�
 - 一般ユーザー向け（特に子どもが視聴する家庭）  
   - 新しいチャンネルを無条件で推薦に任せない、チャンネル履歴とコメント欄、投稿頻度をチェックする。キッズ向けは限定モードや保護者監視を活用。
 
-## 引用元
-- タイトル: More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds  
-- URL: https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds

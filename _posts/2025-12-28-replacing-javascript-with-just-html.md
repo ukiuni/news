@@ -81,6 +81,3 @@ HTMLのネイティブ機能（例：<details>、<datalist>、<dialog>など）�
 - 測定（LCP、TBT、JavaScriptバンドルサイズ）で効果を数値化し、どこをHTMLに移すか判断する。
 - 小さなウィジェットから移行を開始し、運用コストとパフォーマンス改善を確認する。
 
-## 引用元
-- タイトル: Replacing JavaScript with Just HTML
-- URL: https://www.htmhell.dev/adventcalendar/2025/27/

@@ -34,6 +34,3 @@ excerpt: "毎夜100％充電で約9.6万km走行しても劣化率0％と診断�
 - 日本市場への示唆：走行距離が短い日本の実情ではバッテリー劣化の懸念は相対的に小さいが、宅内200V充電や季節変動（夏季高温）を考慮した熱管理は重要。配送・商用EVでは実地データが意思決定に直結する。
 - 慎重な解釈：この事例は希望的観測を与えるが、メーカーの仕様や他データと照合しつつ運用ポリシーを作るべき。
 
-## 引用元
-- タイトル: After 60,000 Miles of Charging to 100% Every Night, a Ford F-150 Lightning Owner Says His Battery Shows “Not One Single Percentage Point” of Degradation
-- URL: https://www.torquenews.com/17998/after-60000-miles-charging-100-every-night-ford-f-150-lightning-owner-says-his-battery-shows

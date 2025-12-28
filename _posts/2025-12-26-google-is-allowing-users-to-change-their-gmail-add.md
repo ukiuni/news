@@ -28,6 +28,3 @@ Googleが公式サポート文書で個人向けGmailアドレスの「変更」
 - 運用上の判断：組織利用やプロフェッショナル用途でのアドレス変更は影響が大きいので、公式情報が出るまではテスト目的のサブアカウントで挙動を確認することを推奨。
 - 日本市場への視点：氏名変更（結婚等）や個人ブランドの再構築が比較的頻繁に発生する日本では、手続き省力化やプライバシー保護の面で受け入れられやすい。ただし企業メールポリシーや顧客連絡先の更新コストは事前に想定しておくべき。
 
-## 引用元
-- タイトル: Google is allowing users to change their Gmail address, per official Google support doc — experimental @gmail feature rolling out in India first, no official announcement yet
-- URL: https://www.tomshardware.com/software/google-workspace/google-is-allowing-users-to-change-their-gmail-address-as-per-official-google-support-doc-experimental-gmail-feature-rolling-out-in-india-first-no-official-announcement-yet

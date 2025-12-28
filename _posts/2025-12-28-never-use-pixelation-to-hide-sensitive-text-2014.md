@@ -53,6 +53,3 @@ $$
 - 開発者向け：自動投稿ツールやSNS連携機能に画像赤actionチェック（マスク済みか、領域が切り取られているか）を組み込む。
 - 組織向けポリシー：従業員教育で「モザイクは不可」を明文化し、漏洩対応フローを整備する。
 
-## 引用元
-- タイトル: Never Use Pixelation to Hide Sensitive Text (2014)  
-- URL: https://dheera.net/posts/20140725-why-you-should-never-use-pixelation/

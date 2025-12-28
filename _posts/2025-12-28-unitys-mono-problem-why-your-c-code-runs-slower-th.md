@@ -54,6 +54,3 @@ Unityのランタイムで動くC#は、最新の.NETランタイム（CoreCLR/.
 - 開発プロセスの改善  
   小さな単位でのロジックテスト、CIでのネイティブ/.NETベンチ、プロファイル自動化を導入して、ランタイム差による「見えない税」を早期に発見する。
 
-## 引用元
-- タイトル: Unity's Mono problem: Why your C# code runs slower than it should  
-- URL: https://marekfiser.com/blog/mono-vs-dot-net-in-unity/

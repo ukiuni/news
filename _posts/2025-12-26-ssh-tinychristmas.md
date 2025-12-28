@@ -41,6 +41,3 @@ print(braille_from_bits(0b00010001))
   - 描画はドットを8ビットマスクで扱うと簡潔。端末リサイズに対応するため、プリレンダリング＋サイズ判定で差し替える手法が実装コストを下げる。
   - 複数クライアントを同期させるならサーバ側で進行状態（current line）を保持し、接続/再接続時に状態を送る設計が堅実。
 
-## 引用元
-- タイトル: ssh tiny.christmas
-- URL: https://eieio.games/blog/tiny-christmas/

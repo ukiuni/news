@@ -42,6 +42,3 @@ Hacker News の投稿を素数や素数族（メルセンヌ、ソフィー・�
 - API活用: サイトが提供する API を使って、自動化されたモニタリングやSlack通知、定期レポートを作ると実務でも使える可能性がある。
 - 研究的応用: 投稿の「素数インデックス化」と HN のスコア変動・コメント数・反応速度を組み合わせ、統計的な偏りや相関を調べると興味深い洞察が得られる。
 
-## 引用元
-- タイトル: A "Prime" View of HN
-- URL: https://dosaygo-studio.github.io/prime-news/index.html

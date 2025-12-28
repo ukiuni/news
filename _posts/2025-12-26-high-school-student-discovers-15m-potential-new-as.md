@@ -33,6 +33,3 @@ excerpt: "18歳がNEOWISEの2000億行をAI解析し、約150万の新天体候�
 - 共同と公開：小さな発見でも公開カタログやプレプリントで共有することで、他研究者のフォローアップを促せる。メンターや研究機関と連携する価値は高い。
 - 日本市場への応用：JAXAや国内望遠鏡の時系列観測データ、地球観測（大気汚染・森林火災の時間変動）に同手法を適用できる。高校・大学の教育プログラムに組み込み、若手の実戦的研究機会を増やすことも有効。
 
-## 引用元
-- タイトル: High School Student Discovers 1.5M Potential New Astronomical Objects
-- URL: https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/

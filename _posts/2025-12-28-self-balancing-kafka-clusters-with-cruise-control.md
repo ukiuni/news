@@ -62,6 +62,3 @@ Kafkaの負荷偏り（ブローカーにトラフィックやディスクが集
 - 監視とアラートを連携：UI/REST での状態確認に加え、異常検出時は監視ツール経由で通知（移動が長時間続く、IO負荷増など）。  
 - 破壊的テストを定期実施：ブローカー停止・追加・高負荷時の挙動を定期的に検証しリカバリ手順を作る。
 
-## 引用元
-- タイトル: Self-balancing Kafka Clusters with Cruise Control  
-- URL: https://cefboud.com/posts/kafka-cruise-control/

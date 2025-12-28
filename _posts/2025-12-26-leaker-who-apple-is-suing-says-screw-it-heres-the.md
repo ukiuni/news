@@ -46,6 +46,3 @@ Appleの折りたたみデバイスは国内メーカーやアプリ開発、キ
 - 一般ユーザー向けアドバイス  
   - 初期モデルは割高・トラブルの可能性あり。買い替えを急がず、レビューや公式発表を待つのが賢明。
 
-## 引用元
-- タイトル: Leaker Who Apple Is Suing Says 'Screw It,' Here's the Foldable iPhone Early  
-- URL: https://gizmodo.com/leaker-who-apple-is-suing-says-screw-it-heres-the-foldable-iphone-early-2000703449#comments

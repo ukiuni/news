@@ -76,6 +76,3 @@ end
 - 日本法令・ガイドライン対応：個人情報はAPPIや社内ルールに従って扱う。外部LLM利用時は送信するデータを最小化・匿名化する。
 - 段階的導入：まずは非本番データで検証→許可されたユーザーのみ→限定機能→本番展開。
 
-## 引用元
-- タイトル: Building an AI agent inside a 7-year-old Rails monolith
-- URL: https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/

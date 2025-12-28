@@ -32,6 +32,3 @@ excerpt: "LLMと投資縮小で開発者の単純作業が急速に自動化、�
 - プロダクト化・IP化を狙う：単なる受託コーディングより、再利用可能なライブラリやサービス、ドメイン特化モデルを持つ。
 - 組織内でのポジションチェンジ：アーキテクト、AIプロダクトPM、インフラ／セキュリティ特化など、上流・複雑性の高い役割へ移る。
 
-## 引用元
-- タイトル: Travel agents took 10 years to collapse, developers are three years in  
-- URL: https://martinalderson.com/posts/travel-agents-developers/

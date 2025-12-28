@@ -36,6 +36,3 @@ excerpt: "米政権がXに訴えられたヘイト研究者の国外退去を追
   - 国際的な研究者保護と学術の自由を議論するプラットフォームを支援する。
   - 国内事例の監視を強化し、プラットフォームに対する透明性要件の導入を検討する。
 
-## 引用元
-- タイトル: President's administration seeks to deport hate speech researcher previously sued by X
-- URL: https://techcrunch.com/2025/12/27/trump-administration-seeks-to-deport-hate-speech-researcher-previously-sued-by-x/

@@ -54,15 +54,3 @@ ezff は「ff convert video.mp4 to gif」のような平易な英語を受け取
 - 高度なフィルタが必要なケースは、ezff の出力コマンドをベースに手動で微調整して使うと効率的。  
 - ライセンスは MIT。社内導入のハードルは低い。
 
-## 引用元
-- タイトル: Show HN: Ez FFmpeg – Video editing in plain English  
-- URL: http://npmjs.com/package/ezff
-
-コード例（生成される ffmpeg コマンドの確認）:
-```bash
-# 例: GIF 変換のドライラン
-bash
-ff convert video.mp4 to gif --dry-run
-# 出力例:
-# ffmpeg -i video.mp4 -vf fps=15,scale=480:-1:flags=lanczos -loop 0 -y video_output.gif
-```

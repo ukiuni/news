@@ -48,6 +48,3 @@ DEVの「AI Challenge for Cross-Platform Apps」で、.NET + Uno Platformを活�
 - 日本市場向けの検討：フォント・日本語レンダリング、プラットフォーム固有の入力慣習（IME、キーボード候補など）を早期にチェックする。  
 - コミュニティ参加：DEVのチャレンジやUno Platformのリポジトリ、フォーラムをフォローして事例やテンプレートを取り込む。
 
-## 引用元
-- タイトル: Congrats to the Winners of the AI Challenge for Cross-Platform Apps!  
-- URL: https://dev.to/devteam/congrats-to-the-winners-of-the-ai-challenge-for-cross-platform-apps-3f7f

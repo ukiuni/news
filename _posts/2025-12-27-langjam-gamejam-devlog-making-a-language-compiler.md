@@ -47,6 +47,3 @@ excerpt: "52時間で言語・コンパイラ・VMと5本のゲームを作り�
 - 再利用性を考慮したモジュール化：ゲームごとにライブラリ化できる設計にしておくと後で楽になる。  
 - 期限を守るための妥協ラインを決める：完璧を追わず「遊べる」状態を優先する。
 
-## 引用元
-- タイトル: Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours  
-- URL: https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md

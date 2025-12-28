@@ -42,6 +42,3 @@ excerpt: "EFFとAxon事例で、生成AIが警察記録を不透明化し証拠�
   - 公的機関向けの公開請求で「AI利用の有無」「ログ保存方針」「モデル情報」を明示的に要求
   - 地方自治体の入札仕様に透明性条項（可搬なログ、監査可能性）を盛り込む
 
-## 引用元
-- タイトル: AI Police Reports: Year in Review  
-- URL: https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review

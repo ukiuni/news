@@ -64,6 +64,3 @@ crontab に小さなシェル判定を仕込むだけで、曜日や祝日、天
 - 並列実行を避けるために flock や lockfile を使う。  
 - より高度に管理したいなら systemd タイマーやジョブランナーに移行を検討するが、まずはこの「crontab + test」で素早く改善できる部分を洗い出す。
 
-## 引用元
-- タイトル: More Dynamic Cronjobs  
-- URL: https://george.mand.is/2025/09/more-dynamic-cronjobs/

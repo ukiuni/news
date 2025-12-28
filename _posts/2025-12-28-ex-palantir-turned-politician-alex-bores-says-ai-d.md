@@ -47,6 +47,3 @@ excerpt: "元Palantir議員がC2PA普及で深層偽造の被害を大幅に減�
 - ジャーナリスト/編集者向け：  
   - コンテンツの出所に関するチェックリストを導入し、C2PAの証明がない重要報道は追加検証を要求する。
 
-## 引用元
-- タイトル: Ex-Palantir turned politician Alex Bores says AI deepfakes are a "solvable problem" if we bring back a free, decades-old technique widespread adoption of HTTPS—using digital certificates to verify that a website is authentic  
-- URL: https://fortune.com/2025/12/27/alex-bores-ai-deepfakes-solvable-problem-c2pa-free-open-source-standard/

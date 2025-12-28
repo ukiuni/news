@@ -40,6 +40,3 @@ excerpt: "この記事の詳細をチェック"
 - 人材育成・社会対策  
   - 労働市場の変化に備えた再教育プログラム、社会的セーフティネットの整備を加速する。
 
-## 引用元
-- タイトル: Chasing an Economic Boom, White House Dismisses Risks of A.I.  
-- URL: https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html

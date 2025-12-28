@@ -32,6 +32,3 @@ QNXはQNX 8.0上で動作する「Self-Hosted Developer Desktop」を初リリ�
 - CI導入の準備：将来的にCI統合機能が来る想定で、現段階はQEMUイメージを使ったローカル検証→スクリプト化しておくとアップデート後の移行が楽。
 - サポートを活用：公式DiscordやRedditでQNXチーム／コミュニティに質問すると、初期リリース固有の落とし穴を回避しやすい。
 
-## 引用元
-- タイトル: QNX Self-Hosted Developer Desktop
-- URL: https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/

@@ -34,6 +34,3 @@ source_id: 46344573
 - イベント活用：オフライン会合やチームビルディング、カフェイベントでの導入が容易。会場のWi‑Fi設計（ルーター位置や帯域確保）を事前に確認すると成功率が上がる。  
 - 開発・連携：FAQに「ゲーム開発参加」や「プレスキット」の案内があるため、オリジナルゲーム提供や取材希望は公式窓口を確認するとよい。
 
-## 引用元
-- タイトル: Show HN: Gaming Couch – a local multiplayer party game platform for 8 players  
-- URL: https://gamingcouch.com

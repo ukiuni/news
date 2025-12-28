@@ -45,6 +45,3 @@ AIの能力向上はビジネスと社会に恩恵をもたらす一方で、脆
 - 人材戦略
   - セーフティ／レッドチーム／MLセキュリティの専門人材を育成・確保する（報酬・キャリアでの差別化検討）。
 
-## 引用元
-- タイトル: OpenAI CEO Sam Altman just publicly admitted that AI agents are becoming a problem
-- URL: https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-just-publicly-admitted-that-ai-agents-are-becoming-a-problem-says-ai-models-are-beginning-to-find-/articleshow/126215397.cms

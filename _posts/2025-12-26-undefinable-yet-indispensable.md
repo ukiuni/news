@@ -48,6 +48,3 @@ excerpt: "宗教は定義できないが、多文化プロダクト向けに誤�
   - 実装では「神道」「仏教」「民俗信仰」を排他的に扱わず、祭事参加履歴や宗教的行為（参拝、法要など）をイベントデータとして持つ。  
   - レコメンドや広告配信では「宗教＝単一属性」としてターゲティングしない運用ガイドを作る。
 
-## 引用元
-- タイトル: Undefinable yet Indispensable  
-- URL: https://aeon.co/essays/the-word-religion-resists-definition-but-remains-necessary

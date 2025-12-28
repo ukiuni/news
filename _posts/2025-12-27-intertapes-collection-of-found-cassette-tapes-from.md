@@ -38,6 +38,3 @@ excerpt: "発見カセットを修復・高解像度化して失われた地域�
 - コミュニティ連携：地域の図書館やアーカイブ、レーベルと協力すると、発見テープの歴史的価値が高まる。
 - 法的対応：公開する前に録音内容に個人情報がないか確認し、必要なら同意を得るか非公開化する。
 
-## 引用元
-- タイトル: Intertapes – collection of found cassette tapes from different locations
-- URL: https://intertapes.net/

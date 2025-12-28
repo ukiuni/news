@@ -49,6 +49,3 @@ node ultimate_shell.js
   - コンテナの最小化・セキュリティ実験（不要なバイナリを省く）にも応用可能。  
   - OSやシステムプログラミング教育で、言語とシステム境界を説明するデモとして有用。
 
-## 引用元
-- タイトル: Ultimate-Linux: Userspace for Linux in Pure JavaScript  
-- URL: https://github.com/popovicu/ultimate-linux

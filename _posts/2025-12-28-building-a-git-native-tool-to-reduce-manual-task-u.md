@@ -47,6 +47,3 @@ Forgeはターミナル上でGitの変更・差分・ブランチ情報と軽量
 - コントリビューションとフィードバック
   - プロトタイプ開発者は実運用フィードバックを求めているため、使用中に出たユースケースや改善案（日本語環境や文字化け、ワークフロー差）をIssueで報告すると実装に反映されやすい。
 
-## 引用元
-- タイトル: Building a Git-native tool to reduce manual task updates — looking for developer feedback
-- URL: https://github.com/Princelad/forge

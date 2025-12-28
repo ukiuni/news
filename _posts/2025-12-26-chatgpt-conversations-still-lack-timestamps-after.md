@@ -65,6 +65,3 @@ ChatGPTの会話に標準でタイムスタンプが付かない問題に対し�
   - 形式: 日本で利用するならJST（UTC+9）や和暦/西暦の表示ルールを明確に。  
   - エクスポート: 長期保存や監査にはAPI経由でのログ取得や手動エクスポート運用を検討する。
 
-## 引用元
-- タイトル: ChatGPT conversations still lack timestamps after years of requests  
-- URL: https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3

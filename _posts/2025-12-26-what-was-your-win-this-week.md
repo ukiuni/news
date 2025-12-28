@@ -39,6 +39,3 @@ DEVの投稿「What was your win this week???」は、大小問わず週ごと�
 - KPI化は慎重に：承認数や投稿数を過度に評価指標にすると本来の目的が失われるので、定性的効果を優先する。  
 - ローカライズ案：日本語の文化特性に合わせて匿名投稿や「チーム内のみ」共有オプションを用意すると参加が促進される。
 
-## 引用元
-- タイトル: What was your win this week???
-- URL: https://dev.to/devteam/what-was-your-win-this-week-1d6c

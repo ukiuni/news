@@ -76,6 +76,3 @@ message User {
 - 圧縮は万能ではない：圧縮CPUコストと遅延を評価する。モバイルではバイト削減が優先されることが多い。
 - 日本の現場では、既存のMEP（Mobile Edge）やキャリア制約を考え、モバイル通信ならProtobuf＋gRPC-Webや軽量フォーマットを検討する価値が高い。
 
-## 引用元
-- タイトル: How Data Really Travels Over the Network (JSON vs Avro vs Protobuf)
-- URL: https://medium.com/@venkateshwagh777/how-data-really-travels-over-the-network-json-vs-avro-vs-protobuf-0bfe946c9cc5

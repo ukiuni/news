@@ -56,6 +56,3 @@ excerpt: "拡張Stein実装でモジュラー逆数を平均1.3–2倍高速化�
   - アセンブリ差分チェックでホットループを解析。  
   - ベンチ結果をヒストグラムで確認して分布の偏りを把握。
 
-## 引用元
-- タイトル: Faster practical modular inversion  
-- URL: https://purplesyringa.moe/blog/faster-practical-modular-inversion/

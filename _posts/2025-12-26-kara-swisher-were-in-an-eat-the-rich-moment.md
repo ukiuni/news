@@ -32,6 +32,3 @@ excerpt: "カラ・スウィッシャーが警鐘：テックとAI不信の波�
 - 技術的防衛（サプライチェーン）: 重要な計算資源や半導体・クラウド依存を多元化し、外部ショックに備える。
 - ユーザーとの対話: 製品の利益とリスクを明確に提示し、ユーザー教育とフィードバックループを作る。
 
-## 引用元
-- タイトル: Kara Swisher: We're in an 'Eat the Rich' Moment
-- URL: https://www.thebulwark.com/p/kara-swisher-were-in-an-eat-the-rich

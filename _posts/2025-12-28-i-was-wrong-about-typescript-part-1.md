@@ -93,6 +93,3 @@ async function fetchData(): Promise<Result<Data, Error>> {
   - API の返却型は「必要なプロパティのみを返す」ように明確に実装する（例えばサニタイズ関数を作る）。
   - `as` キャストは最小限に抑え、使う場合はコメントで根拠を残す。
 
-## 引用元
-- タイトル: I was wrong about typescript part 1
-- URL: https://chefama.blog/blog/posts/i-was-wrong-about-typescript-1

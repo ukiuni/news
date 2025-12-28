@@ -76,6 +76,3 @@ print("2 friends:", trial(2))
 print("3 friends:", trial(3))
 ```
 
-## 引用元
-- タイトル: Are Two Heads Better Than One?
-- URL: https://eieio.games/blog/two-heads-arent-better-than-one/

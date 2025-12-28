@@ -47,6 +47,3 @@ excerpt: "終業巡回で早退が露見、デルが営業に1日8時間・週5�
 - 技術的ツール  
   - コラボレーションツール（ドキュメント、非同期録画、ステータス表示）と出社データを組み合わせ、数字ではなく成果をトラッキングするダッシュボードを用意する。
 
-## 引用元
-- タイトル: Dell top sales exec doubles down on 40-hour RTO for sales team after "end-of-day walkthroughs" revealed workers leaving early  
-- URL: https://www.businessinsider.com/dell-rto-policy-sales-team-eight-hours-a-day-2025-12

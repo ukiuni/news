@@ -33,6 +33,3 @@ Unix系OSの伝統的設計は「起動時にハード構成を決め、その�
 - カーネル改修やドライバ作成では「デバイスの出現/消滅」「中断される転送」「ユーザ空間との連携（例えば描画データの準備）」を前提にテストを設計する。  
 - 日本の現場では、海外ベンダーとコミュニケーションが取りにくいケースもあるため、コミュニティ連携（GitHub、メールリスト、逆解析成果の公開）でナレッジを蓄積しておくと役立つ。
 
-## 引用元
-- タイトル: When a driver challenges the kernel's assumptions  
-- URL: http://miod.online.fr/software/openbsd/stories/udl.html

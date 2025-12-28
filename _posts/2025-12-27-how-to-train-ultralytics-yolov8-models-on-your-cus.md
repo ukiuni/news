@@ -62,6 +62,3 @@ results = model.predict(source='test.jpg', imgsz=640)
 - 推論はONNX→TensorRTやFP16化でJetson/サーバーに最適化。スマホ向けならCoreML/ONNX→TFLiteを検討。  
 - 日本固有の車種/モデルに対応するには、国内データ（ナンバープレート非保存での収集、肖像権や個人情報配慮）で追加微調整を行うこと。
 
-## 引用元
-- タイトル: How to Train Ultralytics YOLOv8 models on Your Custom Dataset | 196 classes | Image classification  
-- URL: https://eranfeit.net/yolov8-tutorial-build-a-car-image-classifier/

@@ -67,6 +67,3 @@ WebView webView = new WebView();
 webView.getEngine().loadContent(html);
 ```
 
-## 引用元
-- タイトル: How to make a markdown viewer in java  
-- URL: https://youtu.be/9gYIRrlQm-4?si=ddo3I7pcVrmUp3Fc

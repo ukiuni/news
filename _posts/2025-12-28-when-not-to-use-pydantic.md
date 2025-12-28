@@ -66,6 +66,3 @@ obj = msgspec.json.decode(json_bytes, type=Data)
   2. Pydanticがボトルネックならベンチ（msgspecなど）で置換効果を試す
   3. 必要ならハイブリッド運用で段階的移行
 
-## 引用元
-- タイトル: When NOT to use Pydantic
-- URL: https://ossa-ma.github.io/blog/when-not-to-use-pydantic

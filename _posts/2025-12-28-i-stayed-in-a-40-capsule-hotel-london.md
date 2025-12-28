@@ -43,6 +43,3 @@ excerpt: "ロンドンで1m×1mカプセルが£30、都心短期滞在と働き
 - ビジネスモデル
   - 平均宿泊単価と稼働率のトレードオフを試算し、通勤需要やイベント期間でのダイナミックプライシングを検討する。
 
-## 引用元
-- タイトル: I stayed in a $40 capsule hotel (London)  
-- URL: https://www.cnbc.com/2025/12/20/zedwell-capsule-hotel-i-stayed-in-a-40-dollar-capsule-hotel-in-london.html

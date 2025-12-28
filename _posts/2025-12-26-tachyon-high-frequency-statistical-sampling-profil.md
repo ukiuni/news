@@ -52,6 +52,3 @@ Python 3.15で導入された profiling.sampling（Tachyon）は、外部から�
 - 出力はまずフレームグラフで全体像を掴み、気になる関数を pstats 等で掘る。  
 - 本番で使う場合は最初に非本番で動作検証（attach/record/replayフロー、出力フォーマット確認）を済ませておく。
 
-## 引用元
-- タイトル: Tachyon: High frequency statistical sampling profiler  
-- URL: https://docs.python.org/3.15/library/profiling.sampling.html

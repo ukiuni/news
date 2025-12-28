@@ -35,6 +35,3 @@ excerpt: "Garminの自動着陸装置が乗員不在のB200を自律着陸、民
   - 日本の国土交通省（JCAB）と地方航空当局は導入基準・訓練要件を早急に整備する必要がある。
   - パイロット教育では自動着陸起動の判断基準とシミュレーター訓練を必須化することが望ましい。
 
-## 引用元
-- タイトル: Garmin autopilot lands small aircraft without human assistance  
-- URL: https://www.theregister.com/2025/12/24/autocomms/?td=rt-3a

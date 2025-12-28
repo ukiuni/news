@@ -42,6 +42,3 @@ excerpt: "デサンティスが州主導でAI規制を強硬推進、データ�
 - 国際協調に注目する  
   - 連邦対州の対立が生む規制の“サンドボックス化”や輸出管理強化に備え、法務／コンプライアンスと連携してグローバル対応を策定する。
 
-## 引用元
-- タイトル: ‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic  
-- URL: https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333

@@ -61,6 +61,3 @@ struct Example<'a> {
 - 単体テストやフェイルケース（エスケープを含む文字列など）で実行時エラーを確かめる。コンパイルが通っても実行時に壊れる点を忘れない。
 - YAMLやその他のフォーマットは借用サポートが限定的な実装が多いので、フォーマット別に挙動を確認する。
 
-## 引用元
-- タイトル: TIL: serde's borrowing can be treacherous  
-- URL: https://yossarian.net/til/post/serde-s-borrowing-can-be-treacherous/

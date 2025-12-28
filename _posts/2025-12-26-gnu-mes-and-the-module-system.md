@@ -33,6 +33,3 @@ Guile互換のScheme実装や、言語ランタイム／パッケージ管理を
 - モジュール依存グラフを整理する：深い相互依存や循環参照はロード順問題と性能劣化の元。依存を疎にしてAOTコンパイルで解決できるものは前倒しでコンパイルする。
 - 既存のGuile実装（boot-9.scm など）を読む：実運用で使われているパターンから学ぶことで、Mes等の互換層で起きる微妙な差異に対応しやすくなる。
 
-## 引用元
-- タイトル: GNU Mes and the module system
-- URL: https://ekaitz.elenq.tech/fasterMes5.html

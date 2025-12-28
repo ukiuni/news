@@ -35,6 +35,3 @@ AIトレーニングや推論の電力需要は急増しており、電源ソリ
   - AIワークロードの電力プロファイルを計測してピーク削減や分散実行の可能性を評価する。
   - 熱回収や余熱利用のユースケースを検討して地域貢献性を高める設計案を作る。
 
-## 引用元
-- タイトル: AI data centers may soon be powered by retired Navy nuclear reactors from aircraft carriers and submarines — firm asks U.S. DOE for a loan guarantee to start the project
-- URL: https://www.tomshardware.com/tech-industry/startup-proposes-using-retired-navy-nuclear-reactors-from-aircraft-carriers-and-submarines-for-ai-data-centers-firm-asks-u-s-doe-for-a-loan-guarantee-to-start-the-project

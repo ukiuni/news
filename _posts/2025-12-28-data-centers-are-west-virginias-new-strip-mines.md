@@ -43,6 +43,3 @@ excerpt: "税優遇で誘致されたデータセンターが電力・水資源�
   - 誘致の経済効果を長期視点で検証（雇用の質、税収配分、維持コスト、撤退リスク）。  
   - 政策提言：一律の優遇ではなく、外部性を内部化する課税・保証制度の導入を求める。
 
-## 引用元
-- タイトル: Data centers are West Virginia’s new strip mines  
-- URL: https://www.salon.com/2025/12/28/data-centers-are-west-virginias-new-strip-mines/

@@ -55,6 +55,3 @@ const processOrderFlow = (order) =>
 - セキュリティ考慮：決済や個人情報の操作を記述として扱う際も、実行権限やロギングは別層で厳格に管理する。
 - 既存コードの移行：一気に置き換えず、サイドエフェクトが多いモジュールから段階的に適用する。
 
-## 引用元
-- タイトル: Testing Side Effects Without the Side Effects  
-- URL: https://lackofimagination.org/2025/12/testing-side-effects-without-the-side-effects/

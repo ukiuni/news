@@ -42,6 +42,3 @@ excerpt: "オーロラ観測で太陽嵐を見抜き、電力・通信被害を�
 - モデル導入：機械学習による短期予測（数時間先のオーロラ活性度）をPoCで試し、運用アラートに組み合わせる。
 - 市場機会：オーロラ観光・データ可視化サービス、スペースウェザー保険や運用支援ツールの需要を検討する。
 
-## 引用元
-- タイトル: Understanding the Northern Lights
-- URL: https://www.historytoday.com/archive/feature/understanding-northern-lights

@@ -67,6 +67,3 @@ function describePayment(p: Payment): string {
 - 小さく移行する：まずはデータ構造の表現を変え、次に関数を純化（副作用を分離）し、最後に並列処理やリトライ戦略を型に沿って再設計する。
 - テストだけに頼らない：ユニットテストは重要だが、型で表現できる不変条件は型に任せ、テストは振る舞いの検証に集中する。
 
-## 引用元
-- タイトル: Why Reliability Demands Functional Programming
-- URL: https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure

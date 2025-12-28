@@ -59,6 +59,3 @@ IAPは収益の要でありつつ、不具合や運用ミスが直接売上と�
 - 測定と監視を忘れない  
   購入成功率、決済失敗率、返金率、試用から有料転換率をトラッキングし、問題発生時に関係フローをたどれるログ設計を行う。
 
-## 引用元
-- タイトル: Why iOS app monetization (IAP) is hard to learn as a system  
-- URL: https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/en/article/main.md

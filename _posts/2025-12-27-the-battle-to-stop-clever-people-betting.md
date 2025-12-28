@@ -56,6 +56,3 @@ AI・データ分析が賭博マーケットの価格形成と不正検知にど
   - 制限措置をユーザーに通知し、説明と異議申し立て手段を提供する。透明性は信頼維持に直結する。  
   - ギャンブル依存防止やAMLの観点で、データドリブンな早期警戒を整備する。
 
-## 引用元
-- タイトル: The battle to stop clever people betting  
-- URL: https://www.economist.com/christmas-specials/2025/12/18/the-battle-to-stop-clever-people-betting

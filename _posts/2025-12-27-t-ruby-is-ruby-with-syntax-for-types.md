@@ -77,6 +77,3 @@ def add: (a: Integer, b: Integer) -> Integer
 - エディタ統合で体験を向上：VS Code拡張やLSPを導入してリアルタイムで型フィードバックを得る。  
 - コントリビュートとフィードバック：まだ実験的なので、現場でのユースケースやバグ報告がプロジェクト改善に直結する。
 
-## 引用元
-- タイトル: T-Ruby is Ruby with syntax for types  
-- URL: https://type-ruby.github.io/

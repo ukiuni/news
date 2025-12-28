@@ -40,6 +40,3 @@ source_id: 46388040
 - 問い合わせと報告：異常があればメーカーと医療機関に報告し、必要ならPMDAへの医療機器安全情報の報告も検討する。
 - 長期的視点：医療機器のソフトウェア透明性や第三者検証の仕組みを支持し、コミュニティ主導の検証やオープンプロトコルの検討を促す。
 
-## 引用元
-- タイトル: Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Continuous Glucose Monitors
-- URL: https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/

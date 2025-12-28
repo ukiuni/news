@@ -39,6 +39,3 @@ Star Citizenはプレイヤー資金が$1\ \mathrm{billion}$に到達する見�
 - 事業・投資家向け
   - 巨額資金を集めるプロジェクトはスケールする一方で完了リスクがあるため、段階的出資・契約条件を盛り込むことを検討する。
 
-## 引用元
-- タイトル: Star Citizen is on course to reach $1 billion in player funding in 2026, and still might not get to play its singleplayer campaign next year | Roberts Space Industries' sim keeps raking in the cash
-- URL: https://www.pcgamer.com/games/sim/star-citizen-is-on-course-to-reach-usd1-billion-in-player-funding-in-2026-and-we-still-might-not-get-to-play-its-singleplayer-campaign-next-year/

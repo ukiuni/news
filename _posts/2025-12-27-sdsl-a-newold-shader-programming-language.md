@@ -36,6 +36,3 @@ Stride が提案する SDSL（新旧折衷のシェーダ言語）は、SPIR‑V
 - Vulkan や SPIR‑V 対応を考えるチームは、Stride 4.3 の「Vulkan compute shaders」などのリリースノートを参照し、自社パイプラインとの整合性を検討する。  
 - 実プロジェクトではプロファイリングを忘れずに：パースでのアロケーション、GC 発生、コンパイル時間を定量的に測ることが改善の近道。
 
-## 引用元
-- タイトル: SDSL : a new/old shader programming language  
-- URL: https://www.stride3d.net/blog/

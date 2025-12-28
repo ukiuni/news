@@ -54,6 +54,3 @@ Maestroはデスクトップ上で複数のAIコーディングエージェン�
 - セキュリティ対策を優先：APIキーは環境変数やシークレット管理で厳格に扱い、外部トンネル利用時は社内ポリシーと照合する。
 - 運用ルールを決める：自律実行の範囲、人的レビューのタイミング、コスト上限をチームで定めておく。
 
-## 引用元
-- タイトル: Maestro - Desktop AI Agent Command Center (Free/OSS)  
-- URL: https://runmaestro.ai

@@ -38,6 +38,3 @@ Scratchapixelは、手を動かして理解することを第一にした無料�
 - ポートフォリオにする：小さなレンダラ＋解説ノートをGitHubで公開すると採用や評価で差がつく。
 - オフライン参照として書籍化プロジェクトを利用：ネット接続がない環境でも読み返せる紙の資料は学習の継続に便利。
 
-## 引用元
-- タイトル: Learn computer graphics from scratch and for free
-- URL: https://www.scratchapixel.com

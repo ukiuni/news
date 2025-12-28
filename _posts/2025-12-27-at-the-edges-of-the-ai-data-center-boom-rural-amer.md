@@ -41,6 +41,3 @@ excerpt: "**砂漠が巨大AIデータセンターに変わるとき、地方の
   - エッジと分散アーキテクチャの検討：大規模集中型に依存しすぎない多地点分散、ネットワーク遅延とエネルギー消費のトレードオフ設計。  
   - 環境性能を武器に：日本の高効率空調技術、熱回収・地域暖房への活用などで「環境付加価値」を提案するビジネス機会がある。
 
-## 引用元
-- タイトル: At the edges of the AI data center boom, rural America is up against Silicon Valley billions  
-- URL: https://fortune.com/2025/12/27/ai-data-centers-arizona-hassayampa-ranch/

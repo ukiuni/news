@@ -36,14 +36,3 @@ Matt Godboltの検証をベースに要点を整理すると：
 - 条件付き更新がボトルネックなら「常に書き戻して max 命令に置き換えられるか」を検討する。メモリ書き込み増加が許容されるなら有効。
 - SIMD命令セット差（AVX2, AVX-512, NEON）を考慮し、ベンチで実機を確認する。日本のサーバやクライアントではIntel/AMD/ARMが混在するため、-march指定を意識する。
 
-## 引用元
-- タイトル: SIMD City: Auto-Vectorisation
-- URL: https://xania.org/202512/20-simd-city
-
-参考用ミニサンプル（C）:
-```c
-// C
-for (size_t i = 0; i < N; ++i) {
-    x[i] = x[i] < y[i] ? y[i] : x[i]; // コンパイラがベクトル化する可能性あり
-}
-```

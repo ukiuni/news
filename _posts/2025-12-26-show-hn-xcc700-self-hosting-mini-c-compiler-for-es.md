@@ -53,6 +53,3 @@ gcc xcc700.c -o xcc700
 - 現場での活用例：CIでの小さなテストビルド、現地デバイスに対する簡易パッチ配布、低リソース環境での動的コード生成。  
 - 拡張案（着手しやすい）: 型の拡張、最適化パス追加、外部ライブラリ呼び出しのブリッジ、別アーキテクチャ（例：RISC-V）へのバックエンド移植。
 
-## 引用元
-- タイトル: Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines  
-- URL: https://github.com/valdanylchuk/xcc700

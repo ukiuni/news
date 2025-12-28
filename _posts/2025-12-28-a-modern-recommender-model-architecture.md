@@ -49,6 +49,3 @@ Denoising Autoencoderベースで「視聴有無（存在確率）」と「評�
 - データは最新かつ最低限の行動量でフィルタリング（例：過去5年以内、最低30エントリなど）し品質を担保。  
 - JAXは実験開発で有力。CPUサービングを重視するならパラメータ規模と演算量を常に監視。
 
-## 引用元
-- タイトル: A Modern Recommender Model Architecture  
-- URL: https://cprimozic.net/blog/anime-recommender-model-architecture/

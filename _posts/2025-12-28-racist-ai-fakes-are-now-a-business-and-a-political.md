@@ -37,6 +37,3 @@ AIで生成された差別的なフェイク動画が収益化と政治工作に
 - 政策提言
   - プラットフォーム責任の明確化とプロベナンス標準の法整備を推進する。
 
-## 引用元
-- タイトル: Racist AI fakes are now a business — and a political tool  
-- URL: https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend

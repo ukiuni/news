@@ -42,8 +42,3 @@ excerpt: "マニトバ州首相がAIでオジブワ語翻訳器を自作、技�
 - 評価設計：自動指標に加え、ネイティブ評価（意味保持、敬語表現、文化的適切性）を必ず組み込む。
 - 日本での応用アイデア：アイヌ語や地域方言のデジタル保存プロジェクトに同様の技術スタックを適用可能。地方自治体や大学と連携してコミュニティ主導で進めるのが成功の鍵。
 
-## 引用元
-- タイトル: Manitoba premier uses AI to make homemade Ojibwa translator
-- URL: https://www.mbcradio.com/2025/12/manitoba-premier-uses-ai-to-make-homemade-ojibwa-translator
-
-（注）元記事本文は取得できなかったため、上記はタイトルと公開状況を踏まえた技術的解説と考察です。実際の経緯や手法は元記事を参照してください。

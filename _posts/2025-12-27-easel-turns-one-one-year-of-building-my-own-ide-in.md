@@ -33,6 +33,3 @@ REPL駆動開発やデータ指向ツールに興味がある日本の開発者�
 - 日本の現場での応用案：ログや計測データの可視化ツール、組み込みやゲームのリアルタイムデータビューア、ドメイン特化ツール群をEasel上で作ることで開発効率を改善できる。
 - コントリビュート提案：日本語ドキュメント整備、ローカライズしたサンプルツール、JVMネイティブライブラリの活用例を提供すると採用が加速する可能性が高い。
 
-## 引用元
-- タイトル: Easel Turns One! One year of building my own IDE in Clojure  
-- URL: https://blog.phronemophobic.com/easel-one-year.html

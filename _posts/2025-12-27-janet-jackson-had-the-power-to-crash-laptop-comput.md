@@ -40,6 +40,3 @@ excerpt: "ジャネット・ジャクソンの曲が一部ノートPCのHDDを�
   - 周波数スイープ音を安全な音量で再生し、ログやSMARTを監視して異常を検出する。
   - 加速度センサで筐体振動を計測し、ピーク周波数を特定する。
 
-## 引用元
-- タイトル: Janet Jackson had the power to crash laptop computers
-- URL: https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994

@@ -50,6 +50,3 @@ fun main () =
 - 組み合わせ: Nix/flake や smlpm と組み合わせると再現可能なビルド環境で配布しやすい（リポジトリに flake.nix / smlpm.toml が含まれている）。
 - 注意点: 高度な引数検証や複雑な型変換が必要な場合は、CommandryのAPIでラップして独自検証を追加すると良い。
 
-## 引用元
-- タイトル: Commandry - A Command-Line Parser for Standard ML
-- URL: https://github.com/PerplexSystems/commandry

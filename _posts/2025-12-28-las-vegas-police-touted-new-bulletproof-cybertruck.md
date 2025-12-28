@@ -37,6 +37,3 @@ excerpt: "防弾とされたラスベガスのCybertruck、窓やドアは実弾
 - 技術者・エンジニアへ：EVでの重装甲化はバッテリー・シャシー設計に影響するため、改造はメーカーと協業し全体安全性（衝突・熱暴走）を評価すること。  
 - 市民・メディアへ：メーカー発言や寄贈のニュースをそのまま信じず、スペックと検証データを求める習慣を持つ。
 
-## 引用元
-- タイトル: Las Vegas Police Touted New “Bulletproof” Cybertrucks. The Only Problem? They Aren’t Bulletproof
-- URL: https://fuelarc.com/cars/las-vegas-police-force-touted-new-bulletproof-cybertrucks-the-only-problem-they-arent-bulletproof/

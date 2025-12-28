@@ -47,6 +47,3 @@ Apple公開のSHARPは、単一の写真から3Dガウス表現を推定し、�
   - 商用利用や配布はリポジトリのライセンスを必ず確認すること。
 - 早く試したい場合は、リポジトリ付属のデモページやサンプルを動かして品質・速度を実環境で評価してください（GPUの種類や画像解像度で体感が変わります）。
 
-## 引用元
-- タイトル: Apple releases open-source model that instantly turns 2D photos into 3D views
-- URL: https://github.com/apple/ml-sharp

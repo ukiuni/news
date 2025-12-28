@@ -50,6 +50,3 @@ Clair Obscur: Expedition 33のディレクター、Guillaume Brioche氏は開発
 - 透明性とコミュニティ対応  
   外部へはAI利用の有無・範囲を明示する。コンテストや配信での公表は信頼維持に直結する。
 
-## 引用元
-- タイトル: Clair Obscur: Expedition 33 director Guillaume Brioche admits Sandfall "tried" AI during the J'RPG's development, but "didn't like it" and "everything in the game is human made"
-- URL: https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-director-admits-sandfall-tried-ai-during-the-jrpgs-development-but-didnt-like-it-and-everything-in-the-game-is-human-made/

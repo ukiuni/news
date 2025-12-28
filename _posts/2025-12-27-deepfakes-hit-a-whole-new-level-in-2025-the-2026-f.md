@@ -32,6 +32,3 @@ excerpt: "2026年、即応リアルな合成人物で詐欺や情報戦が激化
 - 運用：従業員向けのリテラシー研修と共有ルールを作る。SNSでの拡散前に一呼吸置く文化を促す。
 - 政策・監視：法務・コンプライアンス部門は現行法に基づく対応計画を更新し、業界横断の情報共有に参加する。
 
-## 引用元
-- タイトル: Deepfakes hit a whole new level in 2025. The 2026 forecast looks like a total reality-check nightmare
-- URL: https://gizmodo.com/deepfakes-leveled-up-in-2025-heres-whats-coming-next-2000703649

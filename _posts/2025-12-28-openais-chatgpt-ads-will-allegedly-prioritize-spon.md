@@ -53,6 +53,3 @@ OpenAIはChatGPT内で「スポンサードコンテンツ」を優先表示す�
   - 回答の出典と広告ラベルを確認する習慣をつける。重要な選択は複数情報源で裏取りをする。
   - 広告の入らない有料プランの存在や設定を確認する。
 
-## 引用元
-- タイトル: OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers
-- URL: https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/

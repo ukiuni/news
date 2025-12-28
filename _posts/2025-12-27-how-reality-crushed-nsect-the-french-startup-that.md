@@ -42,6 +42,3 @@ excerpt: "6億ドル調達のŸnsectが破綻、昆虫タンパクの市場構�
 - 資本構成を慎重に：社会的インパクト資金に頼る場合でも、短期的なキャッシュフロー管理と明確なマイルストーン設定が必要。  
 - 日本市場への応用点：日本は飼料自給率が低く、魚介養殖が重要な産業。規模の小さい養殖業者との連携や、自治体の食品廃棄物処理プロジェクトと組むことで、原料確保と地域循環を実証する場が作りやすい。さらに消費者受容性の高いペットフードや特定用途（機能性を付与した飼料）から始めるのが現実的。
 
-## 引用元
-- タイトル: How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming  
-- URL: https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/

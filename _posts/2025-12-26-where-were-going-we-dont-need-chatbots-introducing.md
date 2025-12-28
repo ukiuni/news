@@ -40,6 +40,3 @@ Google DeepMind の Antigravity は、単なるチャット型補助ではなく
 - 既存ツールとの連携を検証：VS Code などのエディタや CI/CD、ステージング環境とどう繋ぐかを小さなプロトタイプで評価する。
 - 効果測定を定量化：ドキュメント作成やQAにかかる時間を導入前後で比較し、ROI を示す。
 
-## 引用元
-- タイトル: Where we're going, we don't need chatbots: introducing the Antigravity IDE 🚀  
-- URL: https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k

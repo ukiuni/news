@@ -96,6 +96,3 @@ function expression_pratt(p: Parser, left: TokenTag): Expression {
 - 既存コードへ適用する際は、まず危険なループに対してラップを追加し、CIでコーパスを走らせて異常を洗い出す。
 - Fuelは補助策として残しておきはするが、進行アサートで根本的に原因を明示する方が効果的。
 
-## 引用元
-- タイトル: Parsing Advances
-- URL: https://matklad.github.io/2025/12/28/parsing-advances.html

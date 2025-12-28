@@ -48,6 +48,3 @@ source_id: 1374378779
 - Nixのようにgitリポジトリ自体がソースである場合はバイナリキャッシュの活用と、リポジトリ運用（PR/CI頻度の見直し）を検討する。  
 - 企業内での対策：プライベートレジストリ／プロキシ（Verdaccio, Artifactory等）やミラーを立て、帯域とGitHub API制限を回避する。
 
-## 引用元
-- タイトル: Package managers keep using git as a database, it never works out  
-- URL: https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html

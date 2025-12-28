@@ -49,6 +49,3 @@ SendspinはOpen Home Foundationが提案する、スピーカー、照明、画�
   - Home Assistant／ESPHome周りのセットアップで互換性を試し、ネットワーク条件下での同期精度を測定する。  
   - 商用採用を検討する場合はライセンス窓口へ問い合わせる。
 
-## 引用元
-- タイトル: Sendspin: Music Experience Protocol
-- URL: https://www.sendspin-audio.com/

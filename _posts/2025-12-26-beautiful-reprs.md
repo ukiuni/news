@@ -75,6 +75,3 @@ class MyClass:
   - 中央ログに送る前に placeholders を設定しておくと、開発者のミスや運用時の流出リスクを低減できる。
   - filters を使って冗長なデフォルト値を抑え、ログ行長を短く保つ。
 
-## 引用元
-- タイトル: Beautiful reprs  
-- URL: https://pomponchik.org/notes/beautiful-reprs/

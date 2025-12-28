@@ -43,6 +43,3 @@ Witrは、Linux上で動いているプロセス・サービス・ポートな�
 - 注意点  
   - Witrは「なぜ動いているか」を説明する診断ツールであり、自動停止や修復は行わない。解析結果を踏まえて適切な対応（再起動、unit修正、コンテナ設定変更など）を行う必要がある。
 
-## 引用元
-- タイトル: Show HN: Witr – Explain why a process is running on your Linux system  
-- URL: https://github.com/pranshuparmar/witr

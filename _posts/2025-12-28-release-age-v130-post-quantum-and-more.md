@@ -46,6 +46,3 @@ age-keygen -pq
 - age-inspect をCIに組み込み、暗号化ファイルのメタ監査や自動分類に使う（--json 出力を利用）。
 - 実装検証には公開された仕様とテストベクタを活用し、互換性テストを自動化すること。
 
-## 引用元
-- タイトル: Release age v1.3.0: post-quantum (and more)
-- URL: https://github.com/FiloSottile/age/releases/tag/v1.3.0

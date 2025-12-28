@@ -61,8 +61,3 @@ AIエージェントは単なるプロトタイプから「継続運用される
 - 監査ログと安全フィルタを組み込む
 - A/Bでモデル更新を検証
 
-## 引用元
-- タイトル: Building production grade AI agents
-- URL: https://pub.towardsai.net/building-production-grade-ai-agents-in-2025-the-complete-technical-guide-9f02eff84ea2
-
-（注）元記事は現在403 Forbiddenで直接参照できなかったため、本記事は「同タイトルのテーマ」をもとに、現場で実用可能な技術ポイントを再構成したものです。

@@ -48,6 +48,3 @@ PySDRは「視覚と実践」で学ぶソフトウェア無線（SDR）×デジ�
 - コミュニティ活用
   - GitHubのソース・問題一覧を参照、Discordで質問、翻訳や改善にPRを送ると学びが深まる。
 
-## 引用元
-- タイトル: PySDR: A Guide to SDR and DSP using Python  
-- URL: https://pysdr.org/content/intro.html

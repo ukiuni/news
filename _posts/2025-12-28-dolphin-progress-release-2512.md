@@ -48,6 +48,3 @@ Dolphin Release 2512で、遅延を大幅に削減する「Rush Frame Presentati
 - Androidユーザー：RetroAchievementsを試すときは公式サイトをバックグラウンドで開いておくと達成一覧確認が楽。  
 - ローカルBBA：LAN対戦やイベントで同一PC内の複数Dolphin接続が必要ならローカルBBAを活用（Parsec等のリモート操作と相性良し）。
 
-## 引用元
-- タイトル: Dolphin Progress Report: Release 2512  
-- URL: https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/

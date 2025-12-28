@@ -38,6 +38,3 @@ AIインフラ向けメモリ需要の急増でDRAM/NAND供給が逼迫。スマ
 - 開発者（AI/エッジ）
   - オンデバイスモデルはメモリ効率重視（小型モデル、量子化、分割実行）を優先。RAM要求が高い機能はクラウド併用で設計する。
 
-## 引用元
-- タイトル: Global Memory Shortage Crisis: Market Analysis and the Potential Impact on the Smartphone and PC Markets in 2026
-- URL: https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/

@@ -51,6 +51,3 @@ source_id: 438247008
   - 部分的に型付けを厳しくする（モジュール単位で段階的に導入）
   - 重要パスは型で保証してリファクタしやすくする
 
-## 引用元
-- タイトル: The Compiler Is Your Best Friend, Stop Lying to It
-- URL: http://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it

@@ -48,6 +48,3 @@ excerpt: "出会いアプリが欲望を商品化し、社会的孤立とジェ�
 - データ可搬性・利用規制：感情データや出会い系データの第三者利用を制限。  
 - 日本特有の研究：少子化・若年の孤立・ジェンダー規範と出会いアプリの相互作用を長期調査する必要。
 
-## 引用元
-- タイトル: Dating in the Age of the Algorithm : Dating apps have transformed intimacy into a marketplace of frustration. They fuel gender conflict while ruthlessly extracting value from our most intimate desires.
-- URL: https://jacobin.com/2025/12/dating-apps-men-women-capital

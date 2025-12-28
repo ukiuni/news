@@ -43,6 +43,3 @@ excerpt: "ゴビ砂漠の秘匿核都市を衛星とOSINTで暴き、国家安�
   - サプライチェーン監査や環境モニタリングに衛星データ解析を導入する。
   - OSINT手法と法務・倫理をセットで学ぶ社内トレーニングを実施する。
 
-## 引用元
-- タイトル: Growing up in "404 Not Found": China's nuclear city in the Gobi Desert
-- URL: https://substack.com/inbox/post/182743659

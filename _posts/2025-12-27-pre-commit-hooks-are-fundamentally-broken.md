@@ -72,6 +72,3 @@ done
 - フックがどのタイミングで何をするか（整形する/チェックのみ）をチームの貢献ルールに明記。
 - ローカルでの自動整形を許すなら、リベースやcherry-pick時の標準動作もドキュメント化しておく。
 
-## 引用元
-- タイトル: pre-commit hooks are fundamentally broken  
-- URL: https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/

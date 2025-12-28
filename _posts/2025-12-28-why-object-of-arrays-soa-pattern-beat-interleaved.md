@@ -78,6 +78,3 @@ function updateSoA(dt) {
 - 変更は段階的に：読みやすさと保守性を損なわない範囲で最適化する。必要ならWebAssemblyに移行する判断も視野に。
 - モバイルを忘れずに：日本ではモバイル比率が高く、SoAの恩恵が顕著に出ることが多い。
 
-## 引用元
-- タイトル: Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole
-- URL: https://www.royalbhati.com/posts/js-array-vs-typedarray

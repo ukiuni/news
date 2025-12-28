@@ -37,6 +37,3 @@ excerpt: "ペンシルベニア最高裁、Google同意で令状不要に—検�
 - 法務的対応
   - 米国案件に携わる場合、州判決の動向を注視し、必要なら上告や立法対応をフォローする。
 
-## 引用元
-- タイトル: Google’s fine print may cost your Fourth Amendment rights — Pennsylvania Supreme Court allows authorities to access your search history without a warrant | The court says that accepting Google’s privacy policy waives privacy rights, allowing warrantless access to search.
-- URL: https://www.windowscentral.com/software-apps/pennsylvania-supreme-court-google-searches-are-not-private

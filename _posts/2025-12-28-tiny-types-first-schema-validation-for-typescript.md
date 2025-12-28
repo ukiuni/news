@@ -65,6 +65,3 @@ if (is(stringSchema, someUnknown)) {
 - テストではassertやisを使い、エラー出力の可読性を高めることでデバッグコストを下げる。
 - バンドルサイズやランタイム負荷が重要なプロジェクトでは、まずはbundle analyzerで比較検証を行う（@easrng/schemaは小さめだが実環境での確認を推奨）。
 
-## 引用元
-- タイトル: Tiny, types-first schema validation for TypeScript
-- URL: https://github.com/easrng/schema

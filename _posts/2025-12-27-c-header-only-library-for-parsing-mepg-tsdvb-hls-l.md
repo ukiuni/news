@@ -53,6 +53,3 @@ excerpt: "ヘッダオンリーの軽量CライブラリでMPEG‑TS/DVBとm3u8�
   - 解析結果を社内ログに送りやすくするため、JSONでイベントをエクスポートするラッパーを作る。
   - GStreamerやFFmpegと連結し、解析→メタデータ抽出→外部処理というパイプラインにする。
 
-## 引用元
-- タイトル: C header only library for parsing MEPG-TS/DVB (hls) live streams + m3u8 Playlists
-- URL: https://github.com/Jaysmito101/libpico/blob/main/include/pico/picoMpegTS.h

@@ -57,6 +57,3 @@ excerpt: "クローラーが世界中のページを発見・解析し検索結�
 - サーバー側でアクセスログを監視し、クローラーが過剰アクセスしていないかを確認。必要ならrobots.txtやIPブロックで調整を。
 - テスト: Search Console（Fetch as Google）やサイトローカルのクローラーモードで実際の取得状態を検証。
 
-## 引用元
-- タイトル: How Search Engines Explore the Entire Internet? EP: 2 Behind The Screen
-- URL: https://sushantdhiman.substack.com/p/how-search-engines-explore-the-entire

@@ -48,6 +48,3 @@ excerpt: "ドイツがSNSを16歳未満禁止検討、年齢確認や回避対�
 - 指標（KPI）例
   - 年齢確認の完了率、誤判定率（false positives/negatives）、未成年による報告件数の推移、回避検出率、ユーザー離脱率。
 
-## 引用元
-- タイトル: German minister sees 'merit' to social media ban for teens
-- URL: https://www.dw.com/en/german-minister-sees-merit-to-social-media-ban-for-teens/a-75308862

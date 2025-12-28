@@ -57,6 +57,3 @@ int sample_function(int* p) {
 - ライブラリやAPIが noexcept かどうかでtry/catchの残存が変わるため、例外設計（どこでthrow可能か）を明確にする。  
 - 日本のプロダクトで高信頼性やセキュリティが要求される場合、OS例外をC++例外に無理に変換するのは避け、設計で扱う（ログ/再起動/サンドボックス化など）方が安全。
 
-## 引用元
-- タイトル: Can I throw a C++ exception from a structured exception?  
-- URL: https://devblogs.microsoft.com/oldnewthing/20170728-00/?p=96706

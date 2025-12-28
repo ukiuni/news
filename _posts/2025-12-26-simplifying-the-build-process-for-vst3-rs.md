@@ -36,6 +36,3 @@ SteinbergのVST 3 SDKがMIT化されたのを受け、vst3-rs 0.3.0ではビル�
 - トラブルシュート：
   - もしターゲット固有の不具合が出る場合は、vst3-rsのIssueやCIの出力（どの差分を潰したか）を参照すると原因特定が速い。
 
-## 引用元
-- タイトル: Simplifying the build process for vst3-rs  
-- URL: https://micahrj.github.io/posts/vst3/

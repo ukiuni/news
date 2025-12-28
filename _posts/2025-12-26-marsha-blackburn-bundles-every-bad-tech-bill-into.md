@@ -40,6 +40,3 @@ excerpt: "ブラックバーンが問題条項を束ね、米規制強化が日�
 - 外交的/業界的ロビー活動：在米の業界団体や商工会、弁護士を通じて意見提出や影響緩和の働きかけを行う。
 - シナリオ別BCPの策定：最悪ケース（米市場からの撤退、顧客データの国内保存義務化等）も含めた事業継続計画を検討する。
 
-## 引用元
-- タイトル: Marsha Blackburn Bundles Every Bad Tech Bill Into One, Slaps the President's Name On It
-- URL: https://www.techdirt.com/2025/12/22/marsha-blackburn-bundles-every-bad-tech-bill-into-one-slaps-trumps-name-on-it/

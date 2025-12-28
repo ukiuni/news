@@ -74,6 +74,3 @@ START TRANSACTION;
 COMMIT;
 ```
 
-## 引用元
-- タイトル: Understanding Database transactions and Isolation Levels  
-- URL: https://shbhmrzd.github.io/databases/transactions/isolation-levels/2025/12/26/understanding-database-isolation-levels.html

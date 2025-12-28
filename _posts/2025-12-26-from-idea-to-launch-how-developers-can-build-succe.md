@@ -65,6 +65,3 @@ source_id: 3118928
 
 短期ゴールの例：2週間でランディングページ＋有料流入（少額）で100訪問、メールCVR 5% を目安に仮説検証。成功なら早期有料化のオプションを提示して支払い意図を測る。
 
-## 引用元
-- タイトル: From Idea to Launch: How Developers Can Build Successful Startups  
-- URL: https://dev.to/thebitforge/from-idea-to-launch-how-developers-can-build-successful-startups-50dk

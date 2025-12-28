@@ -48,6 +48,3 @@ Anna’s ArchiveがSpotifyのほぼ全データをスクレイプして約300TB�
   - 違法に配布されたファイルの利用は避け、公式チャネルでの視聴・購入を優先する。  
   - 重要なカタログは権利者側で適切にバックアップ・管理することを検討する。
 
-## 引用元
-- タイトル: The internet just made a 300TB copy of Spotify! (Updated: Spotify reaction)  
-- URL: https://www.androidauthority.com/spotify-annas-archive-3627023/

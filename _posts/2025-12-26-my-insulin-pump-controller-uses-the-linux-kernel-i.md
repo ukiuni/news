@@ -36,6 +36,3 @@ excerpt: "インスリンポンプにLinuxが使われ、メーカーがGPL違�
 - 開発者への助言
   - 組み込み製品にOSSを使う場合はライセンス管理とソース公開の仕組みを設計段階で組み込む。OpenChainなどのベストプラクティスを参照する。
 
-## 引用元
-- タイトル: My insulin pump controller uses the Linux kernel. It also violates the GPL  
-- URL: https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/

@@ -52,6 +52,3 @@ $$
 - シェーダで単純なLambert→Phong→Cook–Torranceの順に実装して、どの項が画質に効くか確認する。
 - レイトレース系はサンプリング数とデノイザが肝：重要度サンプリングや分散低減を学ぶと効率が上がる。
 
-## 引用元
-- タイトル: One Formula That Demystifies 3D Graphics
-- URL: https://www.youtube.com/watch?v=qjWkNZ0SXfo

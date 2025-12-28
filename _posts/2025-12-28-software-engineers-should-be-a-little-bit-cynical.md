@@ -34,6 +34,3 @@ excerpt: "組織の現実を見抜き、段階的にユーザー価値を実現�
 - 選ぶ戦い：モラル的に絶対譲れない点だけ強く主張し、他は測定可能な改善に変換する。
 - 影響のある場所に参加する：設計会議・リリース計画・仕様合意の場に顔を出し、技術的知見を政策に反映させる。
 
-## 引用元
-- タイトル: Software engineers should be a little bit cynical  
-- URL: https://www.seangoedecke.com/a-little-bit-cynical/

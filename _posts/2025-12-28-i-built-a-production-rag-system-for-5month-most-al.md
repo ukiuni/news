@@ -53,6 +53,3 @@ async function searchIndex(query: string, topK: number, env: Env) {
 - ハイブリッド運用も検討：小〜中規模はエッジ、大規模コレクションは専用ベクトルDB、といった構成でコストと性能を最適化。  
 - Cloudflareの料金やVectorizeの制限を確認し、将来スケール時のコスト試算を行う。
 
-## 引用元
-- タイトル: I Built a Production RAG System for $5/month (Most Alternatives Cost $100-200+)  
-- URL: https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj

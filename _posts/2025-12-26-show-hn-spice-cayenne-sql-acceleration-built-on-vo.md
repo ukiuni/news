@@ -37,8 +37,3 @@ Spice Cayenneは、Vortex列指向フォーマットと軽量メタデータ層�
 - 運用：CDCを有効にして加速データセットをリアルタイム同期。まずはステージング環境でTTLや更新コストを観察すること。  
 - 導入の目安：単一ノードでのコストと運用負荷を許容でき、検索やLLM連携での応答品質が事業価値に直結するなら本格採用を検討。
 
-## 引用元
-- タイトル: Show HN: Spice Cayenne – SQL acceleration built on Vortex  
-- URL: https://spice.ai/blog/introducing-spice-cayenne-data-accelerator  
-
----

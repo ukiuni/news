@@ -40,6 +40,3 @@ Windowsの重心がクラウドとAIに傾く今、Linuxがデスクトップで
 - 小規模から導入：まずは開発チーム、社内の非中核業務、教育用途など小さなスコープでPoCを実施。運用ルールとサポートフローを整える。
 - 参加して支える：日本語ローカライズ、パッケージのテスト、ドライバ情報の共有などコミュニティ貢献は導入を速める。
 
-## 引用元
-- タイトル: What the Linux desktop really needs to challenge Windows
-- URL: https://www.theregister.com/2025/12/22/what_linux_desktop_really_needs/

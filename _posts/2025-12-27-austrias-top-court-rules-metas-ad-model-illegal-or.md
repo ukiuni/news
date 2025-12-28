@@ -51,6 +51,3 @@ excerpt: "EUでMeta広告モデルが違法判決、同意・ID戦略の全面�
 - 日本市場での実務的示唆  
   - EU向け事業を持つ日本企業はグローバル基準に合わせることで将来の規制強化リスクを低減できる。欧州での判例はしばしばグローバルな業界基準に影響するため、早めの対応が競争力にもつながる。
 
-## 引用元
-- タイトル: Austria's top court rules Meta's ad model illegal, orders overhaul of user data practices in EU  
-- URL: https://www.reuters.com/sustainability/boards-policy-regulation/austrias-top-court-rules-metas-ad-model-illegal-orders-overhaul-user-data-2025-12-18/

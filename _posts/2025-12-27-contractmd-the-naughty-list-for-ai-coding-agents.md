@@ -52,6 +52,3 @@ AIコーディングエージェントは「未来を見越して複雑化」し
 - Violation: CI fail and agent shutdown; notify owner.
 ```
 
-## 引用元
-- タイトル: CONTRACT.md: The Naughty List for AI Coding Agents  
-- URL: https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/

@@ -52,6 +52,3 @@ Kapwingの調査によると、新規ユーザーのYouTube Shorts上位500本�
   - 広告とブランドセーフティ：AIスロップと隣接するコンテンツにブランドが表示されないよう配置・ターゲティング基準を見直す。
   - 透明性の要求：プラットフォームへAI生成ラベルの導入や、収益化ポリシーの強化を働きかける。
 
-## 引用元
-- タイトル: A new research shows that 21-33% of YouTube's feed may consist of AI slop  
-- URL: https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/

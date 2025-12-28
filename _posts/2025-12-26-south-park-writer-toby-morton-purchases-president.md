@@ -42,6 +42,3 @@ source_id: 438003428
   - 危機発生時のサンプル対応（パロディ対応の線引き）をポリシー化する。
   - 社内ガバナンス：改名や大きな方針転換がある場合は、広報と IT が早期に協働するワークフローを整備する。
 
-## 引用元
-- タイトル: ‘South Park’ writer Toby Morton purchases President-Kennedy Center web addresses, plans parody sites
-- URL: https://www.washingtontimes.com/news/2025/dec/25/south-park-writer-controls-trump-kennedy-center-web-addresses-plans/

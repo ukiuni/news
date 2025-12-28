@@ -71,6 +71,3 @@ BrainSparkはReact＋Viteで作られたインタラクティブなクイズプ�
 - UX改善の優先項目
   - レスポンシブデザイン、遅延読み込み（コード分割）、解説や復習モード、ランダム出題・カテゴリ分け。
 
-## 引用元
-- タイトル: Developed using react+vite
-- URL: https://brainspark-edu.vercel.app/

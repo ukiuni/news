@@ -39,6 +39,3 @@ PionのSCTP実装にRFC 8985で定義されたRACK（Rack-TLP）を導入する�
 - 既存サービスへ影響が小さければ順次展開：クラウドゲーミングや低遅延サービスでは即効性が高いので優先度高めで検討するとコスト対効果が良い。
 - コントリビュート：Pionや利用中ライブラリのアップデートを追い、未対応であればPRやフィードバックを投げるとエコシステム全体の恩恵を伸ばせます。
 
-## 引用元
-- タイトル: Show HN: Pion SCTP with RACK is 70% faster with 30% less latency
-- URL: https://pion.ly/blog/sctp-and-rack/

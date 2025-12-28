@@ -42,6 +42,3 @@ Data EastのRoboCopアーケード版は、PCエンジン系CPU（HuC6280）を�
 - ツール：MAMEデバッガでの動的解析、68000/6502系逆アセンブラ、メモリダンプ比較、差分パッチ管理を用意する。  
 - ドキュメント化を徹底する（どのアドレスに何をパッチしたか、元へ戻す方法、テスト手順）。
 
-## 引用元
-- タイトル: RoboCop – Breaking The Law. H0ffman Cracks RoboCop Arcade from DataEast  
-- URL: https://hoffman.home.blog/2025/12/26/robocop-breaking-the-law/

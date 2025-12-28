@@ -30,6 +30,3 @@ CRISPRで白色脂肪を熱産生する「ベージュ脂肪」に誘導し、�
 - 臨床研究者向け：乳房は脂肪が豊富なため、乳がんの局所補助療法として自家脂肪ベースのパイロット試験が現実的。遠隔作用が期待できるため、到達困難ながん（例：脳腫瘍）への応用検討も視野に。
 - 技術者向け：UCP1以外の代謝関連因子や栄養輸送体をCRISPRa/CRISPRiで組み合わせ、取り込みスペクトルの“プログラム化”を行う。in vitroでの競合アッセイ（trans-well、オルガノイド同培養）を初期評価系として確立する。
 
-## 引用元
-- タイトル: Hungry Fat Cells Could Someday Starve Cancer to Death
-- URL: https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death

@@ -82,6 +82,3 @@ impl Resolver {
 - 日本の現場での利用シーン  
   小規模な言語実装、教育用コンパイラ、DSL、静的解析ツールに特に重要。Rust の普及に伴い、Rust での言語実装を学ぶ日本のエンジニアにとって即戦力になる知見。
 
-## 引用元
-- タイトル: Resolving Names Once and for All  
-- URL: https://thunderseethe.dev/posts/nameres-base/

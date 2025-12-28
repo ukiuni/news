@@ -41,6 +41,3 @@ Gibberishは、途中で壊れていても必ず構文木（LST）を出力す�
 - 現実的な注意点  
   - プロジェクトはまだ小規模（スター数やIssue数からも読み取れる通り）で、Cコンパイラ依存など導入上のハードルがある。商用導入前に互換性と安定性を検証すること。
 
-## 引用元
-- タイトル: Gibberish - A new style of parser-combinator with robust error handling built in
-- URL: https://github.com/mnbjhu/gibberish

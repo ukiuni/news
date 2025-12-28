@@ -66,6 +66,3 @@ export async function GET({ url }) {
 - パフォーマンス計測：実ユーザーの接続経路でエッジの効果を確認（東京〜地方間のレイテンシ比較など）。
 - UIはモバイルファーストで、画像プリロードやページ遷移の遅延を最小化する工夫を。
 
-## 引用元
-- タイトル: Scraping on the Edge: How I Built a Lightning-Fast Manga Reader with SvelteKit  
-- URL: https://dev.to/adrian_fathan/scraping-on-the-edge-how-i-built-a-lightning-fast-manga-reader-with-sveltekit-h8o

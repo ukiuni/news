@@ -30,6 +30,3 @@ Windows x86-64向けMSVCビルドで、インタプリタ実装を「tail-call�
 - 継続的に情報収集：この変更は開発途中のため、Python の issue トラッカーや MSVC のドキュメント、関連するベンチ結果をフォローして、最終的な公式方針を確認する。
 - 日本の現場への示唆：Windows サーバや開発環境が多い組織では、公式バイナリの更新で簡単に恩恵が得られる可能性が高い。CI時間短縮やレスポンス改善を数%単位で積み上げたいチームは注視すべき。
 
-## 引用元
-- タイトル: Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster  
-- URL: https://fidget-spinner.github.io/posts/no-longer-sorry.html

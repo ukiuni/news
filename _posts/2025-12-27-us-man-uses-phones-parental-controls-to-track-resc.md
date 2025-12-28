@@ -45,6 +45,3 @@ excerpt: "実話：父がスマホの見守りで刃物拉致の娘を位置特�
    - OSを最新に、バックアップを有効にし、端末のIMEIやシリアルを控えておく。
    - 充電残量やSIM状態の確認を習慣化する（低バッテリーだと追跡不可）。
 
-## 引用元
-- タイトル: US man uses phone’s parental controls to track, rescue daughter kidnapped at knifepoint
-- URL: https://indianexpress.com/article/world/man-uses-phone-parental-controls-to-rescue-kidnapped-daughter-10442362/

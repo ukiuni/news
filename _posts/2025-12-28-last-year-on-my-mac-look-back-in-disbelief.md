@@ -54,6 +54,3 @@ macOS Tahoe（Liquid Glass）の見た目変更は一見モダンだが、角丸
   - 不具合を見つけたらFeedback Assistantで報告する（多くの声が改善の力になる）。
   - 見づらい箇所は一時的にダークモードや表示コントラストの調整、フォントサイズ拡大で対応する（ただしReduce Transparencyは期待通り動かない場合あり）。
 
-## 引用元
-- タイトル: Last Year on My Mac: Look Back in Disbelief  
-- URL: https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/

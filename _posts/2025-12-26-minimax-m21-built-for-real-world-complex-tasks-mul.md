@@ -48,6 +48,3 @@ MiniMax M2.1はマルチ言語（Rust/Go/Java/C++/Kotlin/Obj‑C/TS/JSなど）�
 - VIBE公開をウォッチして自社評価を合わせる：VIBEが公開されたら、社内ユースケースでの比較ベンチを作成して性能・可用性を客観評価する。  
 - ガバナンスとテストを忘れずに：自動生成コードはレビュー／テスト／ランタイム監視を必須化して導入リスクを下げる。
 
-## 引用元
-- タイトル: MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming  
-- URL: https://www.minimaxi.com/news/minimax-m21

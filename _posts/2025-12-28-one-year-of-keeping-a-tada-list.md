@@ -39,6 +39,3 @@ excerpt: "毎日のtada記録で学びと創作の積み重ねが可視化され
 - 継続策：プレッシャーを減らすために「ゼロ日」を許可する（週に1日は書かない日を作る）、写真や図は週次でまとめてもOK。  
 - チーム適用：レトロで共有すれば個人の小さな勝利がチーム学習に貢献。採用面接やポートフォリオの素材にもなる。
 
-## 引用元
-- タイトル: One year of keeping a tada list  
-- URL: https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list

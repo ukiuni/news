@@ -31,6 +31,3 @@ excerpt: "2025年、独占不足と値上げで失速したXboxが、PC寄り戦
 - ゲーマー向けの判断基準：Game Passの値上げを踏まえ、遊びたいタイトルがあるか、クラウドの遅延許容度、携帯機（Steam Deck等）との比較でコスパを判断する。
 - 注視ポイント：Microsoftが本当に「PC化」してWindowsを軸にした戦略を採るか、実機と互換性・独占タイトルの方向性。日本市場向けのローカライズ投資が増えるかも重要。
 
-## 引用元
-- タイトル: 2025 was the year Xbox died  
-- URL: https://www.engadget.com/gaming/xbox/2025-was-the-year-xbox-died-130000467.html

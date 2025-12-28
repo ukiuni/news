@@ -46,6 +46,3 @@ excerpt: "Spotifyから8600万曲と2.56億メタデータ流出、AI悪用の�
 - 政策立案者向け
   - AIモデルの訓練データ開示義務や、出所不明データ使用への罰則を含むルール整備を検討する。  
 
-## 引用元
-- タイトル: Activist group says it has scraped 86m music files from Spotify  
-- URL: https://www.theguardian.com/technology/2025/dec/22/activist-group-says-it-has-scraped-86m-music-files-from-spotify

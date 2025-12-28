@@ -32,6 +32,3 @@ excerpt: "現場のコードに触れない設計論は意味がない—実務�
 - 小さな安全なリファクタとテスト、明示的な依存関係のドキュメント化で「変更可能性」を高める。  
 - 新規プロダクトならば汎用設計原則を積極活用する。クラウドやK8sなどの会社横断的判断はここで決めると効率的。
 
-## 引用元
-- タイトル: You can't design software you don't work on  
-- URL: https://seangoedecke.com/you-cant-design-software-you-dont-work-on/

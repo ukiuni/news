@@ -36,6 +36,3 @@ source_id: 3118133
 - 日本のコミュニティ／市場接点：SECCONなど国内CTF、JPCERTや企業のセキュリティチームの活動に参加して求人や案件を探す。  
 - キャリア戦略：深い専門性（例：バイナリ解析）を持ちつつ、ネットワークやアプリ層の知識を横断的に持つと市場価値が高い。資格（OSCP等）は補助に過ぎないが、学習の指針には有効。
 
-## 引用元
-- タイトル: The Day I Stopped Chasing Everything and Found My One Thing  
-- URL: https://dev.to/toklas495/the-day-i-stopped-chasing-everything-and-found-my-one-thing-2o97

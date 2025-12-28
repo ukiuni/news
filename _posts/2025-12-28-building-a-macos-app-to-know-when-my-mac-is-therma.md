@@ -71,6 +71,3 @@ queue.async {
 - 高精度に監視したければ powermetrics を sudo で定期実行して比較ログを取り、notify の値と powermetrics のレベルを対応づける。  
 - UX案：メニューバーに現在の熱レベルを小さなグラフで表示し、heavy 検出時に通知＋自動で高負荷タスクを一時停止するスクリプトを呼ぶと実用的。
 
-## 引用元
-- タイトル: Building a macOS app to know when my Mac is thermal throttling  
-- URL: https://stanislas.blog/2025/12/macos-thermal-throttling-app/

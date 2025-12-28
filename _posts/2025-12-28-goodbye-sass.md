@@ -39,6 +39,3 @@ cat input1.css input2.css … | esbuild --loader=css --minify --bundle --externa
 - CIに落とし込み：ローカルでの簡単な結合・minifyコマンドをCIに入れておけば、開発者が専用コンパイラを必要とせず編集できる体制になる。
 - 代替策の検討：企業ポリシーやより高度な機能が必要ならPostCSSやDart Sassを検討。ただし「消えると更新不可能」な依存は避ける設計を優先する。
 
-## 引用元
-- タイトル: Goodbye Sass
-- URL: https://www.redblobgames.com/blog/2025-12-27-goodbye-sass/

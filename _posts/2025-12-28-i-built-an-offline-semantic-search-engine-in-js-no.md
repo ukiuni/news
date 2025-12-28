@@ -44,6 +44,3 @@ SimileはTransformers.jsで埋め込みを生成し、HNSW型の近似近傍探�
 - スケーリング：10k件以上のデータセットを想定したチューニング（HNSWパラメータ、エフェクティブ探索幅）を行う。  
 - セキュリティ/運用：ローカル実行で情報漏洩リスクは下がるが、端末ごとのモデル更新やバージョン管理を運用設計する。
 
-## 引用元
-- タイトル: I built an offline semantic search engine in JS (no DB, no APIs), Feedback Appreciated  
-- URL: https://github.com/iaavas/simile-search

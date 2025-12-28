@@ -34,6 +34,3 @@ source_id: 438422293
 - 小規模な応用：教育用やプロトタイプでは「低速動作での動作確認」や「古いモジュールの再利用」で学ぶ価値はある。だが本番用途は避ける。
 - 法律・調達面：部品調達元の信頼性、輸出入規制や保証問題を事前確認する。コピー品や不正流通品は避ける。
 
-## 引用元
-- タイトル: Russian enthusiasts are planning to build their own DDR5 RAM amidst the worldwide shortage — do-it-yourself RAM is as 'easy' as sourcing your own memory modules and soldering them on empty PCBs
-- URL: https://www.tomshardware.com/pc-components/ddr5/russian-enthusiasts-are-building-their-own-ddr5-ram-amidst-the-worldwide-shortage-as-easy-as-sourcing-your-own-memory-modules-and-soldering-them-on-empty-pcbs

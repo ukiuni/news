@@ -33,6 +33,3 @@ source_id: 3119796
 - 組織側の対策：プロダクトとエンジニアリングの間で「メンテナンス予算」を明文化し、プロジェクト計画に組み込む。
 - 日本企業向けのポイント：上長や利害関係者には定量データ（工数削減見込み、障害数削減によるSLA改善など）で説得する。レガシー比率が高い現場では段階的モダナイゼーション予算を要求する。
 
-## 引用元
-- タイトル: Technical Debt Is a Myth Created By Bad Managers  
-- URL: https://dev.to/adamthedeveloper/technical-debt-is-a-myth-created-by-bad-managers-2l3k

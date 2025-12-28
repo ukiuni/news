@@ -36,6 +36,3 @@ excerpt: "2025年、ハリウッドがAIに群がり著作権訴訟と期待外�
 - 独自データで差別化：自社/協力先の高品質データでドメイン特化モデルを構築すると、「汎用モデルの限界」を超える成果が出やすい。
 - ステークホルダー連携：制作現場、法務、労組（出演者の肖像権や労働条件）を早期に巻き込み、合意形成を図る。
 
-## 引用元
-- タイトル: Hollywood cozied up to AI in 2025 and had nothing good to show for it  
-- URL: https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025

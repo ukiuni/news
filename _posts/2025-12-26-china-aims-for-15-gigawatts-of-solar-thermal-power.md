@@ -37,6 +37,3 @@ excerpt: "中国のCSP15GW計画、夜間発電で日本の電力・産業熱戦
 - 連携先・調達面：中国の機器サプライチェーンは短期的な供給源になる一方、技術移転・品質確認・安全保障リスクの検討が必要。国内での試験導入→スケールアップのステップを推奨。
 - 研究者は蓄熱材（塩以外含む）、高温材料、運用最適化、PVとのハイブリッド化（電熱・冷熱の需給最適化）に注力すると実践的成果が出やすい。
 
-## 引用元
-- タイトル: China Aims for 15 Gigawatts of Solar Thermal Power by 2030  
-- URL: https://oilprice.com/Latest-Energy-News/World-News/China-Aims-for-15-Gigawatts-of-Solar-Thermal-Power-by-2030.html

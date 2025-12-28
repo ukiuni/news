@@ -46,6 +46,3 @@ excerpt: "新大陸の黄金はインフレと浪費で国外へ流出し、ス�
 - マクロ視点を持つ：大量の資金流入があるときは必ず「価格面・国際競争力・資本流出」の3点をチェックする。  
 - 政策や規制の効果を過信しない：輸出規制や保護策は根本的な生産力不足を解決しない。
 
-## 引用元
-- タイトル: What happened to all the gold Spain got from the New World? (1985)  
-- URL: https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world

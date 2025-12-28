@@ -56,6 +56,3 @@ Arcan 0.7.1 がリリース。Wayland上でのゲーム互換性改善、再接�
 - 開発者向け
   - Gamescope ポートや Qt プラグインの改善点を確認し、Wayland 化やゲーム動作検証の参考にする。
 
-## 引用元
-- タイトル: Arcan 0.7.1 – Minutes To Midnight  
-- URL: https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/

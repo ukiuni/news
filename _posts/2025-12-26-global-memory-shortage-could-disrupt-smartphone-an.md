@@ -33,6 +33,3 @@ IDCは、AIインフラ需要の急拡大でDRAM／NANDの供給が逼迫し、2
 - エンドユーザー／法人購入者：買い替えを予定しているなら2026年前半の購入・発注を検討。重要ならメモリ増設オプション付きモデルを選ぶ。  
 - 小売／チャネル：低価格帯商品の在庫戦略を見直し、マージン圧縮に備えた価格再設計を行う。
 
-## 引用元
-- タイトル: Global memory shortage could disrupt smartphone and PC markets in 2026: IDC  
-- URL: https://www.91mobiles.com/updates/global-memory-shortage-disrupt-smartphone-pc-markets-2026-idc/

@@ -37,6 +37,3 @@ excerpt: "無料ツールでFireworks/Together/Groq等の推論コストを即�
 - モデルの小型化と量子化を試す：精度許容範囲内で小さめモデルや量子化モデルを使うと総コストが大きく下がる。
 - 実運用で検証する：ツールは概算なので、パイロットで実際のスループットと課金挙動を確認してからスケールする。
 
-## 引用元
-- タイトル: I built a free tool to compare inference costs across providers (Fireworks, Together, Groq, etc.)
-- URL: http://calculator.snackai.dev

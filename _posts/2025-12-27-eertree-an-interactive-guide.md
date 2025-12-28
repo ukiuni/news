@@ -71,6 +71,3 @@ def add(char, pos):
 - 日本語テキスト（UTF-8）の処理では文字単位の扱いに注意（バイト列ではなくコードポイント単位で処理）。  
 - 実務適用例：ログの対称パターン検出、ユーザー名やシークエンスの回文頻度分析、競技プログラミングの練習題材に最適。
 
-## 引用元
-- タイトル: Eertree - an interactive guide  
-- URL: https://ufukhaciogullari.com/blog/eertree/

@@ -55,6 +55,3 @@ async function retryWithBackoff(fn, attempts = 5, t0 = 500) {
 }
 ```
 
-## 引用元
-- タイトル: Maybe the default settings are too high
-- URL: https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/

@@ -42,6 +42,3 @@ Rustの借用（loan）を代数的に整理する試みが、&own / &pin / &uni
 - コードレビューでのチェック項目：借用の寿命がどこまで届くか、満了時に場所が未初期化になる可能性、ピンによる移動禁止の影響を確認する。
 - コミュニティ参加：提案はまだ議論段階が多いので、RFCやissueを追い、実装トレードオフを議論して貢献するのが学習と業界影響力獲得の近道。
 
-## 引用元
-- タイトル: The Algebra of Loans in Rust  
-- URL: https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html

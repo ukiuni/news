@@ -68,6 +68,3 @@ Ruby 4.0は「Ruby Box」（定義の分離）と「ZJIT」（新世代JIT）を
 - 互換性チェック
   - Array/Binding/Enumerator周りの変更は既存コードの微妙な挙動差を生む可能性があるため、主要なgemとアプリのテストを通して問題がないか確認する。
 
-## 引用元
-- タイトル: Ruby 4.0.0 Released | Ruby
-- URL: https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/

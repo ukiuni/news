@@ -38,6 +38,3 @@ excerpt: "4chan没落の真相とミーム文化が主流化した衝撃の拡�
 - 研究と監視
   - 異なるプラットフォーム間のコンテンツ横断拡散を監視するパイプラインを持つ。ミーム／ハッシュタグの追跡は早期検知に有効。
 
-## 引用元
-- タイトル: How the Internet Left 4chan Behind | The anonymous forum thrived when edgelord content wasn’t acceptable on more mainstream social media. Today, it can be found most anywhere.
-- URL: https://www.newyorker.com/culture/infinite-scroll/how-the-internet-left-4chan-behind

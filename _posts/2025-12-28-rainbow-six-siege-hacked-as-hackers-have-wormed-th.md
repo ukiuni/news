@@ -45,6 +45,3 @@ excerpt: "R6』が大規模ハック、全員に20億クレジット付与され
   - 緊急時のユーザー対応フロー（公式通知テンプレ／返金／サポート窓口）を整備。  
   - 法務・広報と連携し、誹謗中傷など名誉毀損につながる表現は慎重に扱う。  
 
-## 引用元
-- タイトル: Rainbow Six Siege hacked, as hackers have wormed their way into the game's systems and rewarded everyone with two billion credits, while also hijacking the log to throw digs at Ubisoft, jokingly 'banning' all employees for "toxic behavior" and even musing that Yves Guillemot was on Epstein's island.
-- URL: https://www.thegamer.com/rainbow-six-siege-hack/

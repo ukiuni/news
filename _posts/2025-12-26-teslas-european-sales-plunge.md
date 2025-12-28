@@ -40,8 +40,3 @@ excerpt: "欧州でテスラ支持が急落、低価格競合と規制で市場�
 - 充電戦略：充電事業者との提携・ローミング仕様の整備、支払いUXの統一を図る。
 - 規制対応：欧州のADAS・安全基準、データ保護に合わせた開発プロセスを整備する（テストベンチとログ要件の自動化）。
 
-## 引用元
-- タイトル: Tesla’s European Sales Plunge
-- URL: https://finance.yahoo.com/news/tesla-european-sales-plunge-141521704.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAACOc09ilS0QK9c9IULKscJiqcae49LDsQTiB2oF25zY8iw75cno8N2jIZ3Bf0E1KJAKZPHv0k6JH-r0wD6_QdMXNpVrRF_kukTqyh5aJn_O9v5_gxDEBh-D-URWqI6e6j4JBm7amlYSSNoi0p1-azSJ-NbMgOoxc1-GLGVU0XABq
-
-（注）本文は元記事の全文取得ができなかったため、見出しと公開情報・業界動向を踏まえて技術的観点から再構成した解説です。

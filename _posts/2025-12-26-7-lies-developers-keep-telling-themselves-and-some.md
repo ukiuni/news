@@ -58,6 +58,3 @@ source_id: 3119494
 - CI/CD、コンテナ、分散トレーシングを早めに導入して「動く環境」を標準化する。  
 - 週次レトロで「どの嘘をついていたか」を振り返り、プロセス改善に落とし込む。
 
-## 引用元
-- タイトル: 7 Lies Developers Keep Telling Themselves (And Somehow Still Believe)  
-- URL: https://dev.to/sylwia-lask/7-lies-developers-keep-telling-themselves-and-somehow-still-believe-46nh

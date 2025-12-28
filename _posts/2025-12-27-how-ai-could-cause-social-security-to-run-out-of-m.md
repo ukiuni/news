@@ -61,6 +61,3 @@ AIによる自動化は労働所得の総額や労働分配率を押し下げ、
 - 追跡指標  
   - 労働分配率 $\lambda$、賃金総額、非正規比率、保険料徴収率を定期的に監視し、年金基金のキャッシュフロー前提を更新する。
 
-## 引用元
-- タイトル: How AI Could Cause Social Security to Run Out of Money Sooner Than Expected  
-- URL: https://www.barrons.com/articles/social-security-benefits-fund-ai-584a1203?st=TNdeap

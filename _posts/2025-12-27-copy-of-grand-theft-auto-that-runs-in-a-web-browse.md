@@ -33,6 +33,3 @@ excerpt: "ブラウザで動くGTAがDMCAで削除され、レトロ保存と権
 - ローカル実行へ誘導：ブラウザでの簡易ラッパーは止め、ユーザーに原盤をローカルで読み込ませる方式にする（ただし法的安全性は保証されない）。
 - コミュニティ／保存団体と連携：学術的・保存的な正当性を確保するため、権利者やアーカイブ団体と事前に協議する。
 
-## 引用元
-- タイトル: Copy of Grand Theft Auto that runs in a web browser gets taken down by DMCA — Take-Two Interactive says DOS Zone infringed company’s intellectual property rights despite disclaimers and requirement to own original copy of title for full game  
-- URL: https://www.tomshardware.com/video-games/browser-run-copy-of-grand-theft-auto-gets-taken-down-by-dcma-take-two-says-dos-zone-infringed-companys-intellectual-property-rights-despite-disclaimers-and-requirement-to-own-original-copy-of-title-to-run-full-game-online

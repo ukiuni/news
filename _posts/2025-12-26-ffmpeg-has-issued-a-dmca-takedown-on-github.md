@@ -45,6 +45,3 @@ FFmpegが「GitHubに対してDMCA申立てを行った」との公式ツイー�
 - コミュニティと対話する  
   - 影響が大きい場合、FFmpeg側の説明やカウンターノーティスの有無を注視。必要ならOSSコミュニティや法律専門家へ相談する。
 
-## 引用元
-- タイトル: FFmpeg has issued a DMCA takedown on GitHub  
-- URL: https://twitter.com/FFmpeg/status/2004599109559496984

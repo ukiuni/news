@@ -57,6 +57,3 @@ for switch in (False, True):
 - 教育や社内勉強会でデモとして使うと、確率・条件付き確率・ベイズ的思考の導入に適しています。UX的には「司会者が意図を持って情報を開示する」設計が、ユーザー判断に与える影響を考える良い題材になります。
 - ライセンス（AGPL-3.0）と著作者（cyberia）に留意して、改変や再配布を行ってください。
 
-## 引用元
-- タイトル: Play the Monty Hall game
-- URL: https://monty.donk.systems

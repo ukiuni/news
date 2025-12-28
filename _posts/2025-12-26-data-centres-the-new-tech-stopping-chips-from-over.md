@@ -48,6 +48,3 @@ excerpt: "AI時代の高熱問題を液体・浸漬冷却で克服し、廃熱�
   ・地方では熱需要のある産業（温室、養殖、温浴施設）と組むことで投資回収を短縮できる。  
   ・規制・認証（化学物質管理、消防基準）に詳しい法務・設計チームを早期に組成すること。
 
-## 引用元
-- タイトル: Data centres: The new tech stopping chips from overheating  
-- URL: https://www.bbc.com/news/articles/cp8zd176516o

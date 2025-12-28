@@ -43,6 +43,3 @@ excerpt: "Apricot PC/XiへWindows 2を移植し実機でWord/Excelを動かし�
 - 開発ツール：既存のCコンパイラ（Open Watcomなど）とApricotのBIOSドキュメント、サンプルコードを手元に揃える。  
 - 保存・寄与のすすめ：スクリーンショットやドキュメントはオリジナルCRTで撮ると雰囲気は出るがデジタル保存は高解像度で行う。改良やドライバ共有でコミュニティに貢献しやすい。  
 
-## 引用元
-- タイトル: Windows 2 for the Apricot PC/Xi  
-- URL: https://www.ninakalinina.com/notes/win2apri/

@@ -33,6 +33,3 @@ AIでコードが大量に出力される現在、日本の開発現場でも「
 - 速度指標に「理解／保守性」の指標を組み込む（デプロイ頻度だけでなく復旧時間や修正コストも見る）。
 - AIツールの使用ルール（どこまで自動生成OKか、レビュー基準、セキュリティチェック）を社内で標準化する。
 
-## 引用元
-- タイトル: Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of Infinite Code 🤖.
-- URL: https://dev.to/grahamthedev/mean-time-to-understanding-the-irreducible-human-element-in-the-age-of-infinite-code--i2o

@@ -84,6 +84,3 @@ void handle() {
 
 なぜこれが重要か：金融や決済のようなドメインでは、未初期化が原因で稀に誤ったレスポンスやトランザクション不整合を生み、監査や法令対応の問題につながる。単純な初期化で回避できるリスクを放置しないことが重要です。
 
-## 引用元
-- タイトル: The production bug that made me care about undefined behavior  
-- URL: https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html

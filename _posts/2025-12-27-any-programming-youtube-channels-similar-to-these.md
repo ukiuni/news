@@ -47,6 +47,3 @@ excerpt: "HirschDaniel風の実践的YouTubeチャンネルと探し方、すぐ
 - 学んだことは日本語で短いメモやQiita記事にまとめて公開すると理解が深まる。
 - チャンネル選定は「最新トピックを扱っているか」「コードが即使えるか」「説明が体系的か」を優先する。
 
-## 引用元
-- タイトル: Any programming youtube channels similar to these?
-- URL: https://www.youtube.com/@HirschDaniel

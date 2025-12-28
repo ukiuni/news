@@ -41,6 +41,3 @@ excerpt: "プロダクトチームがOSSやCIの供給網リスクを可視化�
 6. インシデント手順を用意：供給網侵害時の影響範囲調査・ロールバック手順・顧客連絡フローを定める。
 7. 段階的採用：SLSA等のベストプラクティスを参照し、優先度の高い領域から段階的にレベルアップする。
 
-## 引用元
-- タイトル: Product engineering teams must own supply chain risk
-- URL: https://www.hyperact.co.uk/blog/product-engineering-teams-must-own-supply-chain-risk

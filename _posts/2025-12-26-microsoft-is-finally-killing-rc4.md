@@ -41,6 +41,3 @@ Microsoftが長年残っていたRC4対応をようやく廃止すると発表�
 - 運用対応：ドメインコントローラー・クライアントのパッチ適用、暗号ポリシーの明確化、変更時の影響テストを必ず行う。
 - 外部確認：サードパーティのセキュリティ診断やレッドチーム演習で、Kerberoasting耐性と移行の妥当性を確かめる。
 
-## 引用元
-- タイトル: Microsoft Is Finally Killing RC4
-- URL: https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html

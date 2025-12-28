@@ -44,6 +44,3 @@ excerpt: "AIがデジタル牧師や礼拝音楽を生成し、信仰と倫理�
 - 日本語の宗教表現は微妙な語感が重要なため、日本語に特化した検証工程（宗派ごとの表現差のチェック）を導入する。  
 - 法務・倫理チームと連携して、個人情報保護や宗教的差別に関するリスク評価を行う。
 
-## 引用元
-- タイトル: The seepage of AI into Christian practice is disturbing | What does it mean when chatbots become digital pastors or religious music is bot-generated?  
-- URL: https://www.washingtonpost.com/opinions/2025/12/25/christianity-belief-artificial-intellience-religion/

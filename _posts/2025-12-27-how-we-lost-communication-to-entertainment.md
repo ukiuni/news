@@ -51,6 +51,3 @@ ActivityPubベースの分散ソーシャルは「通信」ではなく「コン
   - 期待値を整理する：重要な1対1のやり取りはメールやメッセンジャーを使う。  
   - 分散SNSを導入する組織は、通信性と配信性どちらを重視するかを初期要件に入れる。
 
-## 引用元
-- タイトル: How we lost communication to entertainment  
-- URL: https://ploum.net/2025-12-15-communication-entertainment.html

@@ -41,6 +41,3 @@ excerpt: "ロブ・パイクが警鐘、生成AIの致命的リスクと実務�
 - 学習データと出力の監査ログを保存し、問題発生時に追跡できる体制を整える。
 - 日本の事業環境では、法規制（個人情報保護、産業ごとのガイドライン）や言語ローカライズの課題を早期に検証する。
 
-## 引用元
-- タイトル: Rob Pike Goes Nuclear over GenAI
-- URL: https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree

@@ -58,6 +58,3 @@ tc-ematchはtcの"basic", "cgroup", "flow"フィルタで使える拡張マッ�
   - ipset連携を使うと大量のIPリストを効率的に扱え、日本のデータセンターやISP環境でのブラックリスト/ホワイトリスト運用で有効。
   - cgroupやflowフィルタと組み合わせれば、コンテナ単位や接続単位で詳細な帯域制御が可能。
 
-## 引用元
-- タイトル: tc-ematch(8) extended matches for use with "basic", "cgroup" or "flow" filters
-- URL: https://man7.org/linux/man-pages/man8/tc-ematch.8.html

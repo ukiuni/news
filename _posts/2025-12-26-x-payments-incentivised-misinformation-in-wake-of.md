@@ -36,6 +36,3 @@ X（旧Twitter）の投稿報酬プログラムが、Bondi Beachでの銃撃事�
   - プラットフォームに対する説明責任や透明性義務を法的に明確化する。
   - 緊急時の情報流通に関するルール（一次情報優先、削除・注釈の基準）を定める。
 
-## 引用元
-- タイトル: X payments incentivised misinformation in wake of Bondi shooting, expert says
-- URL: https://www.abc.net.au/news/2025-12-18/expert-says-x-incentising-misinformation-bondi-shooting/106152144

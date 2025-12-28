@@ -67,6 +67,3 @@ GUIでの無駄なクリックを減らし、作業速度と正確性を劇的�
 - 大規模検索には ripgrep（rg）を導入すると体感速度が大幅向上。パイプで `less -R` と組み合わせて使う。  
 - VS Codeユーザならターミナルを統合して、ショートカット（Ctrl+`）で即利用できるように習慣化する。
 
-## 引用元
-- タイトル: 5 Terminal Commands That Saved Me Hours of Clicking  
-- URL: https://dev.to/maame-codes/5-terminal-commands-that-saved-me-hours-of-clicking-4mfn

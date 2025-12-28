@@ -37,6 +37,3 @@ Salesforceは主要CRMベンダーであり、その慎重姿勢は日本企業�
 - 小さく安全にローンチ：限定部門からの段階的展開とA/Bで効果検証。  
 - ベンダー評価基準を更新：説明責任、更新ポリシー、セキュリティ保証、誤答時の対応窓口を契約条件に入れる。
 
-## 引用元
-- タイトル: Salesforce Executives Say Trust in Large Language Models Has Declined  
-- URL: https://www.theinformation.com/articles/salesforce-executives-say-trust-generative-ai-declined

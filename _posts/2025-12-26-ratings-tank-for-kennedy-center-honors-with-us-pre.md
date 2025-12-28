@@ -30,6 +30,3 @@ source_id: 438202109
 - プロモーションABテスト：ホスト起用や告知文案は事前に複数案で反応を試し、ターゲット層別の配信チャネルを最適化する。  
 - リスク管理：政治色のあるキャスティングはブランド影響を定量化するモデル（視聴減少のシミュレーションや広告価値下落の推定）を用意する。
 
-## 引用元
-- タイトル: Ratings Tank For Kennedy Center Honors With President Trump as Host
-- URL: https://www.tmz.com/2025/12/25/trump-hosted-kennedy-center-honors-tanks-in-ratings/

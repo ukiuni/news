@@ -45,6 +45,3 @@ Kafkaの設計は「スループット重視」で、APIや運用保証もそれ
 - ストレージは「連続書き込み」に最適化：セグメント単位の追記性能が重要。SSDでもランダム書き込み特性を把握しておく。
 - テストを忘れずに：LinuxカーネルバージョンやJVM実装で挙動が変わるため、実環境でパフォーマンス比較を行う。
 
-## 引用元
-- タイトル: Kafka uses OS page buffer cache for optimisations instead of process caching
-- URL: https://shbhmrzd.github.io/2025/11/21/what-helps-kafka-scale.html

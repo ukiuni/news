@@ -55,6 +55,3 @@ Twine.print_calls(MyModule.handle_call(:ping, _from, _state), :infinity)
 - 過度な常時トレースは避ける: ホットパスで無制限トレースを走らせるとパフォーマンス劣化の恐れがある。短時間・限定的に使う。
 - 代替手段との併用: Telemetryや分散トレーシングと併用して、トレースで原因箇所を掴む → 計測で再現性を保つ、というワークフローが有効。
 
-## 引用元
-- タイトル: Show: Twine - A tool to dynamically trace calls in production Elixir systems
-- URL: https://github.com/ollien/twine

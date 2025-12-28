@@ -33,6 +33,3 @@ WiFi信号のチャネル情報（CSI）を使い、メッシュWiFiルーター
 6. 評価指標：検出精度だけでなく、誤検出時のアラート設計・フェイルセーフ（誤作動時の動作）を作る。  
 7. 倫理・法規：屋内での撮影が不要でも個人情報や監視に関わるため、社内ルール・同意取得・用途限定を文書化する。
 
-## 引用元
-- タイトル: WiFi DensePose: WiFi-based dense human pose estimation system through walls  
-- URL: https://github.com/ruvnet/wifi-densepose

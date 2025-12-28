@@ -66,6 +66,3 @@ def dodgson_condensation(A):
     return B[0,0]
 ```
 
-## 引用元
-- タイトル: Lewis Carroll Computed Determinants
-- URL: https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/

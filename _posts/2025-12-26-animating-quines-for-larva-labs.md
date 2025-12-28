@@ -50,6 +50,3 @@ requestAnimationFrame(loop);
 - 計測を必ず行う：実装の初期段階でFPSやドロップ率を計測し、ベンチマーク（個別要素・グループ・キャッシュ）を取り最適な方式を選ぶ。  
 - 日本の現場での応用：NFT展示・インタラクティブアートの実装や、Web上での大規模ビジュアライズ（ダッシュボード、フィード可視化）にも同様の手法が有効。
 
-## 引用元
-- タイトル: Animating Quines for Larva Labs  
-- URL: https://destroytoday.com/blog/animating-quines-for-larva-labs

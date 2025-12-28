@@ -48,6 +48,3 @@ excerpt: "DNSで署名検証する軽量デジタル公証SEAL、改ざん無効
   - 法務・契約文書：署名済ファイルの改ざん検知を証拠化。
   - スタートアップ／中小企業：高価なX.509発行に頼らず低コストで署名基盤を導入。
 
-## 引用元
-- タイトル: Airtight SEAL: Think of SEAL like a digital notary. It verifies that a file hasn't changed since it was signed, and that the signer is who they say they are.
-- URL: https://www.hackerfactor.com/blog/index.php?/archives/1082-Airtight-SEAL.html

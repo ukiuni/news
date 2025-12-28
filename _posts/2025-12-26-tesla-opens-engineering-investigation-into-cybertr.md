@@ -31,6 +31,3 @@ Cybertruckは巨大なワイパー構造とFSD（運転支援）依存が特徴�
 - FSDや運転支援を頼る場面では、カメラ視界の確保を優先。ワイパーの不具合がFSD利用不可につながるため、支援機能に過信しない運転を心掛ける。
 - 日本での導入・整備を想定する技術者向け：冬季の塩カル（融雪剤）や雪・氷による物理負荷を踏まえた耐久性評価が重要。部品改良が入った場合は、その変更点（スプリング、マウント形状、剛性）を確認すると現場対応が効く。
 
-## 引用元
-- タイトル: Tesla Opens Engineering Investigation into Cybertruck Wipers  
-- URL: https://www.notateslaapp.com/news/3439/tesla-opens-engineering-investigation-into-cybertruck-wipers

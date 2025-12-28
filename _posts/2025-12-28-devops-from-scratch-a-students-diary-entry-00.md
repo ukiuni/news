@@ -35,6 +35,3 @@ excerpt: "学生が実践で使えるDevOpsの全体感を日記で学べる導�
 - ユーザー目線で検証：初めての利用者を想定してインストール・起動手順をゼロから実行し、READMEやパッケージの改善点を書き出す。
 - 発信して仲間を作る：学んだことを短い日記やコードスニペットでQiita/ZennやGitHubに上げると継続しやすい。
 
-## 引用元
-- タイトル: DevOps From Scratch: A Student’s Diary (Entry #00)  
-- URL: https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71

@@ -33,6 +33,3 @@ source_id: 46358211
   - 短尺動画やSNSで得たトラフィックを活用するサブブランドやサブスクリプションを検討する。
   - 日本市場の強み（コンビニ流通、電車での読書文化、ウェブ小説プラットフォーム）を組み合わせてマルチフォーマット展開する。
 
-## 引用元
-- タイトル: Paperbacks and TikTok
-- URL: https://calnewport.com/on-paperbacks-and-tiktok/

@@ -43,6 +43,3 @@ Fox傘下の無料ストリーミングTubiが100M MAU、月間10億時間視聴
 - 技術とデータ
   - レコメンデーション精度と再生基盤の低レイテンシ化が重要。視聴分数・リアルタイム参加・広告インプレッションの統合計測を実装し、収益指標と結びつける。
 
-## 引用元
-- タイトル: Free streaming service Tubi is rivaling major players for viewership. Here's how it's winning
-- URL: https://www.cnbc.com/2025/12/24/tubi-fox-streaming-free.html

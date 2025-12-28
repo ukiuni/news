@@ -33,6 +33,3 @@ $$\frac{2.0-0.5}{2.0}=75\%$$
 - M&Aや大型投資は市場センチメントに左右されやすい。ベンダーロックインとロードマップの実行力を契約段階でチェックする。
 - 日本のユースケース例：製造ラインの即時異常検知、金融の超低遅延執行、ゲーム／ARの対話システムなどで効果が見込みやすい。
 
-## 引用元
-- タイトル: Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%
-- URL: https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a

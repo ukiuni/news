@@ -34,6 +34,3 @@ excerpt: "スタンフォード卒が暴露、AI進化で新卒エンジニア�
 - 経営・政策向け
   - 再教育プログラムと労働移行支援を整備。AIのインフラ負荷を考慮したエネルギー政策やデータセンター規制も検討する。
 
-## 引用元
-- タイトル: Stanford graduates spark outrage after uncovering reason behind lack of job offers: 'A dramatic reversal from three years ago'  
-- URL: https://www.yahoo.com/news/articles/stanford-graduates-spark-outrage-uncovering-000500857.html

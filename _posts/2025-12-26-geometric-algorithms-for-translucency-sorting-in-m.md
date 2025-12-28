@@ -61,6 +61,3 @@ excerpt: "Minecraftの半透明描画を劇的高速化する、ボクセル特�
 - ガラス／水などの半透明素材は事前にグルーピング（同一マテリアルでまとめる）してバッチを増やさない。
 - プリマルチ化、バックフェイスカリング（ただし半透明の場合は注意）など基本的な描画最適化は必須。
 
-## 引用元
-- タイトル: Geometric Algorithms for Translucency Sorting in Minecraft [pdf]
-- URL: https://douira.dev/assets/document/douira-master-thesis.pdf

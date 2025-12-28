@@ -47,6 +47,3 @@ excerpt: "市場で発見された新種きのこが小人幻覚を誘発、薬�
   - 未確認のきのこを食べない、専門家の鑑定を仰ぐ、SNS情報だけで判断しない。市場で「幻覚を起こす」と評される商品には特に注意。  
   - 興味がある場合は、博物館や大学の市民採集イベント、DNAバーコーディングを扱う市民科学プロジェクトに参加すると安全かつ学びが深い。
 
-## 引用元
-- タイトル: Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations  
-- URL: https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-like-hallucinations

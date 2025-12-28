@@ -50,6 +50,3 @@ excerpt: "フォレンジックが示すROGノートの電源・ファーム不�
   - 大量導入前にデバイス単体の長時間負荷/スリープ復帰テストを標準化する。  
   - 不具合が設計起因と判断される場合、ログ保存の仕組みとベンダーエスカレーション手順を整備する。
 
-## 引用元
-- タイトル: ASUS ROG Laptops are Broken by Design: A Forensic Deep Dive  
-- URL: https://drive.google.com/drive/folders/10V3AQH06WU14AhKAo0fmqk_JjBvXZmSf

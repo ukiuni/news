@@ -42,6 +42,3 @@ GoogleのBazelで発生したレジストリ用SSL証明書の期限切れ障害
 - ログと監査：ACMEクライアントや発行APIの失敗ログを長期間保持し、アラートと結びつける。  
 - サプライチェーンの可視化：外部パッケージ/レジストリを使う場合、相手側の証明書管理リスクを契約・SLAや監視で補う。
 
-## 引用元
-- タイトル: The dangers of SSL certificates  
-- URL: https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/

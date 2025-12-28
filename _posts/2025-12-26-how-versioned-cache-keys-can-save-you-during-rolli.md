@@ -59,6 +59,3 @@ await redis.set(userCacheKey(123), JSON.stringify(userObj), 'EX', 3600);
 - キャッシュミス率・読み取りエラーを監視し、バージョン移行の可視化を行う。
 - 小さな互換性変更はライブラリレベルで後方互換にして、バージョンアップの頻度を抑える。
 
-## 引用元
-- タイトル: How Versioned Cache Keys Can Save You During Rolling Deployments
-- URL: https://medium.com/dev-genius/version-your-cache-keys-to-survive-rolling-deployments-a62545326220

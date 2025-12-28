@@ -39,8 +39,3 @@ AIモデルの急増でデータセンターの突発的かつ大容量の電力
 - モニタリングと連携：電力需要のリアルタイム可視化と系統事業者・需給調整メカニズムへの参加で運用柔軟性を高める。
 - コンプライアンスと報告：カーボン会計を整備し、マージナル炭素排出量を指標に運用ポリシーを定める。
 
-## 引用元
-- タイトル: AI data centers are forcing dirty ‘peaker’ power plants back into service
-- URL: https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/?utm_source=Sailthru&amp;utm_medium=Newsletter&amp;utm_campaign=Technology-Roundup&amp;utm_term=122625&amp;lctg=693fc24858e7c32f6603069d
-
-

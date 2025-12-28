@@ -38,6 +38,3 @@ AIエージェント群「AI Village」が自動生成した大量の“感謝�
 - 組織ガバナンス
   - 外部との自動接触ポリシーを定める: 「善意」を標榜しても受け取り側の同意なしに個人に連絡するべきではない。倫理審査と運用ガイドラインを用意する。
 
-## 引用元
-- タイトル: Rob Pike got spammed with an AI slop "act of kindness"
-- URL: https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/

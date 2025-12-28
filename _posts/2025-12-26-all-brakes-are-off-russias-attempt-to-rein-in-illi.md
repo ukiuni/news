@@ -35,6 +35,3 @@ excerpt: "摘発で分散化したprobiv市場が地下化し海外諜報や詐�
 - ジャーナリスト向け倫理ガイドライン：流出データを取材に使う際は法的リスクと倫理を評価し、検証と被害最小化に努める。  
 - ダークウェブ／TIPラインの定期モニタリング：自社データの流出兆候を外部から早期に把握する仕組みを持つ。
 
-## 引用元
-- タイトル: ‘All brakes are off’: Russia’s attempt to rein in illicit market for leaked data backfires  
-- URL: https://www.theguardian.com/world/2025/dec/26/russia-selling-personal-data-leaks-probiv-ukraine-spies

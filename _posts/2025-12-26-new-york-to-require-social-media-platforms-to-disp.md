@@ -50,6 +50,3 @@ excerpt: "NY州がSNSにメンタル警告義務化、若年層対策と技術�
   - 日本でも若年層のSNS利用とメンタルヘルス問題は重要課題。早期に設計・運用ルールを作れば海外規制の波及に柔軟に対応できる。
   - ローカライズ：支援先の電話番号や自治体窓口など地域特有のリソース表示が必要。
 
-## 引用元
-- タイトル: New York to require social media platforms to display mental health warnings  
-- URL: https://www.reuters.com/legal/litigation/new-york-require-social-media-platforms-display-mental-health-warnings-2025-12-26/

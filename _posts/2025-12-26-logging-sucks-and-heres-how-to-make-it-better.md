@@ -58,6 +58,3 @@ source_id: 438361913
 - 個人情報保護法や金融系の監査要件を満たすため、ログ設計時にマスキングと保持期間を明確化することが必須。
 - JSTタイムゾーン表記やマルチバイト文字の取り扱い（エンコーディング）に注意すること。ログ解析ツールとインデクサが UTF-8 を前提にしているか確認。
 
-## 引用元
-- タイトル: Logging Sucks - And here's how to make it better.
-- URL: https://loggingsucks.com/

@@ -42,6 +42,3 @@ Example（簡単なAutoLISP例）:
 (draw-box 10 10 100 50)
 ```
 
-## 引用元
-- タイトル: Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs ago  
-- URL: https://acadlisp.de/noscript.html
