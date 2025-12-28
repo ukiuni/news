@@ -73,11 +73,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/software-engineers-should-be-a-little-bit-cynical/' | relative_url }}">software engineers should be a little bit cynical</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/slate-ax-wi-fi-6-gigabit-travel-router/' | relative_url }}">slate ax wi fi 6 gigabit travel router</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/shut-up-about-the-water/' | relative_url }}">shut up about the water</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/show-hn-pion-sctp-with-rack-is-70-faster-with-30-l/' | relative_url }}">show hn pion sctp with rack is 70 faster with 30 l</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
@@ -125,7 +133,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/pysdr-a-guide-to-sdr-and-dsp-using-python/' | relative_url }}">pysdr a guide to sdr and dsp using python</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/project-vend-phase-two/' | relative_url }}">project vend phase two</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/presidents-administration-seeks-to-deport-hate-spe/' | relative_url }}">presidents administration seeks to deport hate spe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
@@ -238,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/ex-palantir-turned-politician-alex-bores-says-ai-d/' | relative_url }}">ex palantir turned politician alex bores says ai d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/dolphin-progress-release-2512/' | relative_url }}">dolphin progress release 2512</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
