@@ -93,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/racist-ai-fakes-are-now-a-business-and-a-political/' | relative_url }}">racist ai fakes are now a business and a political</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/project-vend-phase-two/' | relative_url }}">project vend phase two</a></h3>
 </div>
 <div class="article-row">
@@ -109,11 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are/' | relative_url }}">nvidia insists it isnt enron but its ai deals are</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/multiscale-aperture-synthesis-imager/' | relative_url }}">multiscale aperture synthesis imager</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/manus-ai-100m-usd-arr/' | relative_url }}">manus ai 100m usd arr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/' | relative_url }}">last year on my mac look back in disbelief</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
@@ -169,11 +181,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/devops-from-scratch-a-students-diary-entry-00/' | relative_url }}">devops from scratch a students diary entry 00</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/cve-2025-14847-mongobleed/' | relative_url }}">cve 2025 14847 mongobleed</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/china-is-banning-tesla-style-retractable-door-hand/' | relative_url }}">china is banning tesla style retractable door hand</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/can-i-throw-a-c-exception-from-a-structured-except/' | relative_url }}">can i throw a c exception from a structured except</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
@@ -206,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/a-modern-recommender-model-architecture/' | relative_url }}">a modern recommender model architecture</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/a-discord-server-that-combines-an-it-community-wit/' | relative_url }}">a discord server that combines an it community wit</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
