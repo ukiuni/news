@@ -269,6 +269,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/every-test-is-a-trade-off/' | relative_url }}">every test is a trade off</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/dolphin-progress-release-2512/' | relative_url }}">dolphin progress release 2512</a></h3>
 </div>
 <div class="article-row">
@@ -342,6 +346,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/a-discord-server-that-combines-an-it-community-wit/' | relative_url }}">a discord server that combines an it community wit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/62-years-in-the-making-nycs-newest-water-tunnel-ne/' | relative_url }}">62 years in the making nycs newest water tunnel ne</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
