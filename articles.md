@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/tiny-types-first-schema-validation-for-typescript/' | relative_url }}">tiny types first schema validation for typescript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/the-origins-of-apl-1974-video/' | relative_url }}">the origins of apl 1974 video</a></h3>
 </div>
 <div class="article-row">
@@ -129,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/nvidias-20-billion-groq-deal-looks-a-lot-like-an-a/' | relative_url }}">nvidias 20 billion groq deal looks a lot like an a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are/' | relative_url }}">nvidia insists it isnt enron but its ai deals are</a></h3>
 </div>
 <div class="article-row">
@@ -145,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/learn-computer-graphics-from-scratch-and-for-free/' | relative_url }}">learn computer graphics from scratch and for free</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/' | relative_url }}">last year on my mac look back in disbelief</a></h3>
 </div>
 <div class="article-row">
@@ -154,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/kafka-uses-os-page-buffer-cache-for-optimisations/' | relative_url }}">kafka uses os page buffer cache for optimisations</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/i-was-wrong-about-typescript-part-1/' | relative_url }}">i was wrong about typescript part 1</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
@@ -209,6 +225,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/data-centers-are-west-virginias-new-strip-mines/' | relative_url }}">data centers are west virginias new strip mines</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/cve-2025-14847-mongobleed/' | relative_url }}">cve 2025 14847 mongobleed</a></h3>
 </div>
 <div class="article-row">
@@ -230,6 +250,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/c-gt-java-java-gt-llm/' | relative_url }}">c gt java java gt llm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/built-a-pdf-editor-amp-scanner-app-after-6-months/' | relative_url }}">built a pdf editor amp scanner app after 6 months</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
