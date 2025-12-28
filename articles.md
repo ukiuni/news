@@ -38,6 +38,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/the-dangers-of-ssl-certificates/' | relative_url }}">the dangers of ssl certificates</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/text-rendering-hates-you/' | relative_url }}">text rendering hates you</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
