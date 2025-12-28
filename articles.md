@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/stepping-down-as-mockito-maintainer-after-10-years/' | relative_url }}">stepping down as mockito maintainer after 10 years</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/star-citizen-is-on-course-to-reach-1-billion-in-pl/' | relative_url }}">star citizen is on course to reach 1 billion in pl</a></h3>
 </div>
 <div class="article-row">
@@ -125,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/parsing-advances/' | relative_url }}">parsing advances</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/openais-chatgpt-ads-will-allegedly-prioritize-spon/' | relative_url }}">openais chatgpt ads will allegedly prioritize spon</a></h3>
 </div>
 <div class="article-row">
@@ -154,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/multiscale-aperture-synthesis-imager/' | relative_url }}">multiscale aperture synthesis imager</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/mongobleed-vulnerability-explained-simply/' | relative_url }}">mongobleed vulnerability explained simply</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
