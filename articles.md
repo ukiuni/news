@@ -116,6 +116,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/multiscale-aperture-synthesis-imager/' | relative_url }}">multiscale aperture synthesis imager</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/i-built-a-production-rag-system-for-5month-most-al/' | relative_url }}">i built a production rag system for 5month most al</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
@@ -165,6 +171,24 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/28/c-gt-java-java-gt-llm/' | relative_url }}">c gt java java gt llm</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/building-a-git-native-tool-to-reduce-manual-task-u/' | relative_url }}">building a git native tool to reduce manual task u</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/a-practical-guide-to-taming-postgres-isolation-ano/' | relative_url }}">a practical guide to taming postgres isolation ano</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/a-new-research-shows-that-21-33-of-youtubes-feed-m/' | relative_url }}">a new research shows that 21 33 of youtubes feed m</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
   </div>
