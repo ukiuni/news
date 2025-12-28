@@ -50,6 +50,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/rex-is-a-safe-kernel-extension-framework-that-allo/' | relative_url }}">rex is a safe kernel extension framework that allo</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/resolving-names-once-and-for-all/' | relative_url }}">resolving names once and for all</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
@@ -129,6 +135,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/28/ex-palantir-turned-politician-alex-bores-says-ai-d/' | relative_url }}">ex palantir turned politician alex bores says ai d</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/cve-2025-14847-mongobleed/' | relative_url }}">cve 2025 14847 mongobleed</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
   </div>
