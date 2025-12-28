@@ -38,6 +38,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/salesforce-executives-say-trust-in-large-language/' | relative_url }}">salesforce executives say trust in large language</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/resolving-names-once-and-for-all/' | relative_url }}">resolving names once and for all</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
@@ -75,6 +81,24 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/28/on-llms-in-programming/' | relative_url }}">on llms in programming</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/i-built-a-production-rag-system-for-5month-most-al/' | relative_url }}">i built a production rag system for 5month most al</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/i-built-a-free-tool-to-compare-inference-costs-acr/' | relative_url }}">i built a free tool to compare inference costs acr</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/googles-fine-print-may-cost-your-fourth-amendment/' | relative_url }}">googles fine print may cost your fourth amendment</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
   </div>
