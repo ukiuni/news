@@ -98,6 +98,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/2025-was-the-year-xbox-died/' | relative_url }}">2025 was the year xbox died</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/you-cant-design-software-you-dont-work-on/' | relative_url }}">you cant design software you dont work on</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
