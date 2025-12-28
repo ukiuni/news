@@ -179,11 +179,6 @@ body {
   display: inline;
 }
 
-.article-score {
-  color: var(--primary-color);
-  font-weight: 600;
-}
-
 .section-title {
   font-size: 1.2rem;
   color: var(--secondary-color);
