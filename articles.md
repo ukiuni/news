@@ -145,7 +145,7 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
-  <h3><a href="{{ '/2025/12/28/hacking-a-java-minecraft-server-with-memory-overfl/' | relative_url }}">hacking a java minecraft server with memory overfl</a></h3>
+  <h3><a href="{{ '/2025/12/28/how-rate-limiter-protect-your-system-from-abuse/' | relative_url }}">how rate limiter protect your system from abuse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
