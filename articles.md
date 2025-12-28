@@ -122,6 +122,18 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/manus-ai-100m-usd-arr/' | relative_url }}">manus ai 100m usd arr</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/kafka-uses-os-page-buffer-cache-for-optimisations/' | relative_url }}">kafka uses os page buffer cache for optimisations</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/i-built-a-production-rag-system-for-5month-most-al/' | relative_url }}">i built a production rag system for 5month most al</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
@@ -189,6 +201,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/28/a-new-research-shows-that-21-33-of-youtubes-feed-m/' | relative_url }}">a new research shows that 21 33 of youtubes feed m</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/a-modern-recommender-model-architecture/' | relative_url }}">a modern recommender model architecture</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
   </div>
