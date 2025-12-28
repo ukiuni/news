@@ -182,6 +182,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/c-says-we-have-try-at-home/' | relative_url }}">c says we have try at home</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/c-gt-java-java-gt-llm/' | relative_url }}">c gt java java gt llm</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
