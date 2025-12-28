@@ -89,14 +89,14 @@ body {
 .article-row .article-header {
   display: flex;
   align-items: baseline;
-  gap: 0.8rem;
+  gap: 0.5rem;
+  justify-content: flex-start;
 }
 
 .article-row h3 {
   margin: 0;
   font-size: 1rem;
-  font-weight: 500;
-  flex: 1;
+  font-weight: 600;
   line-height: 1.4;
 }
 
@@ -118,7 +118,7 @@ body {
 .article-row .article-excerpt {
   font-size: 0.85rem;
   color: #666;
-  margin: 0.2rem 0 0 3rem;
+  margin: 0.2rem 0 0 0;
   line-height: 1.5;
 }
 
@@ -162,7 +162,7 @@ body {
   color: var(--primary-color);
 }
 
-.article-excerpt {
+.article-card .article-excerpt {
   display: none;
 }
 
