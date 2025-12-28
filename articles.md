@@ -26,6 +26,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/travel-agents-took-10-years-to-collapse-developers/' | relative_url }}">travel agents took 10 years to collapse developers</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/text-rendering-hates-you/' | relative_url }}">text rendering hates you</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
@@ -51,6 +57,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/28/replacing-javascript-with-just-html/' | relative_url }}">replacing javascript with just html</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/release-age-v130-post-quantum-and-more/' | relative_url }}">release age v130 post quantum and more</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
   </div>
@@ -110,7 +122,25 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/go-gray-not-cray-why-you-should-grayscale-your-pho/' | relative_url }}">go gray not cray why you should grayscale your pho</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/ex-palantir-turned-politician-alex-bores-says-ai-d/' | relative_url }}">ex palantir turned politician alex bores says ai d</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/calendar/' | relative_url }}">calendar</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/c-gt-java-java-gt-llm/' | relative_url }}">c gt java java gt llm</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
   </div>
