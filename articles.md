@@ -14,6 +14,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/why-reliability-demands-functional-programming/' | relative_url }}">why reliability demands functional programming</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/what-i-learned-building-a-storage-engine-that-outp/' | relative_url }}">what i learned building a storage engine that outp</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
@@ -38,6 +44,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/replacing-javascript-with-just-html/' | relative_url }}">replacing javascript with just html</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/rainbow-six-siege-hacked-as-players-get-billions-o/' | relative_url }}">rainbow six siege hacked as players get billions o</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
@@ -56,7 +68,31 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/openais-chatgpt-ads-will-allegedly-prioritize-spon/' | relative_url }}">openais chatgpt ads will allegedly prioritize spon</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/on-llms-in-programming/' | relative_url }}">on llms in programming</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/goodbye-sass/' | relative_url }}">goodbye sass</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/ex-palantir-turned-politician-alex-bores-says-ai-d/' | relative_url }}">ex palantir turned politician alex bores says ai d</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/39c3-to-sign-or-not-to-sign-practical-vulnerabilit/' | relative_url }}">39c3 to sign or not to sign practical vulnerabilit</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
   </div>
