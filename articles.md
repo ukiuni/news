@@ -53,11 +53,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/tc-ematch8-extended-matches-for-use-with-basic-cgr/' | relative_url }}">tc ematch8 extended matches for use with basic cgr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/stanford-graduates-spark-outrage-after-uncovering/' | relative_url }}">stanford graduates spark outrage after uncovering</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/slate-ax-wi-fi-6-gigabit-travel-router/' | relative_url }}">slate ax wi fi 6 gigabit travel router</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/shut-up-about-the-water/' | relative_url }}">shut up about the water</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
@@ -185,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/designing-predictable-llm-verifier-systems-for-for/' | relative_url }}">designing predictable llm verifier systems for for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/cve-2025-14847-mongobleed/' | relative_url }}">cve 2025 14847 mongobleed</a></h3>
 </div>
 <div class="article-row">
@@ -206,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/c-gt-java-java-gt-llm/' | relative_url }}">c gt java java gt llm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/28</span>
+  <h3><a href="{{ '/2025/12/28/building-production-grade-ai-agents/' | relative_url }}">building production grade ai agents</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
