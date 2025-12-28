@@ -8,6 +8,60 @@ permalink: /articles/
 
 <div class="articles-grid">
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/zuckerberg-settles-8-billion-lawsuit-over-cambridg/' | relative_url }}">zuckerberg settles 8 billion lawsuit over cambridg</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/what-i-learned-building-a-storage-engine-that-outp/' | relative_url }}">what i learned building a storage engine that outp</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/text-rendering-hates-you/' | relative_url }}">text rendering hates you</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/stanford-graduates-spark-outrage-after-uncovering/' | relative_url }}">stanford graduates spark outrage after uncovering</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/resolving-names-once-and-for-all/' | relative_url }}">resolving names once and for all</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/rainbow-six-siege-hacked-as-players-get-billions-o/' | relative_url }}">rainbow six siege hacked as players get billions o</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/rainbow-six-siege-hacked-as-hackers-have-wormed-th/' | relative_url }}">rainbow six siege hacked as hackers have wormed th</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/project-vend-phase-two/' | relative_url }}">project vend phase two</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/ex-palantir-turned-politician-alex-bores-says-ai-d/' | relative_url }}">ex palantir turned politician alex bores says ai d</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/27/you-cant-design-software-you-dont-work-on/' | relative_url }}">you cant design software you dont work on</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-27</span>
