@@ -44,6 +44,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/testing-side-effects-without-the-side-effects/' | relative_url }}">testing side effects without the side effects</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/stanford-graduates-spark-outrage-after-uncovering/' | relative_url }}">stanford graduates spark outrage after uncovering</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
@@ -134,6 +140,12 @@ permalink: /articles/
   </div>
 </article>
 <article class="article-card">
+  <h3><a href="{{ '/2025/12/28/i-built-an-offline-semantic-search-engine-in-js-no/' | relative_url }}">i built an offline semantic search engine in js no</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
   <h3><a href="{{ '/2025/12/28/i-built-a-production-rag-system-for-5month-most-al/' | relative_url }}">i built a production rag system for 5month most al</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
@@ -141,6 +153,18 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/28/i-built-a-free-tool-to-compare-inference-costs-acr/' | relative_url }}">i built a free tool to compare inference costs acr</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/hacking-a-java-minecraft-server-with-memory-overfl/' | relative_url }}">hacking a java minecraft server with memory overfl</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/growing-up-in-404-not-found-chinas-nuclear-city-in/' | relative_url }}">growing up in 404 not found chinas nuclear city in</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
   </div>
@@ -171,6 +195,12 @@ permalink: /articles/
 </article>
 <article class="article-card">
   <h3><a href="{{ '/2025/12/28/cve-2025-14847-mongobleed/' | relative_url }}">cve 2025 14847 mongobleed</a></h3>
+  <div class="article-meta">
+    <span class="article-date">📅 2025-12-28</span>
+  </div>
+</article>
+<article class="article-card">
+  <h3><a href="{{ '/2025/12/28/china-is-banning-tesla-style-retractable-door-hand/' | relative_url }}">china is banning tesla style retractable door hand</a></h3>
   <div class="article-meta">
     <span class="article-date">📅 2025-12-28</span>
   </div>
