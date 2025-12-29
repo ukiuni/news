@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/the-mythical-man-month-at-50/' | relative_url }}">the mythical man month at 50</a></h3>
 </div>
 <div class="article-row">
@@ -81,7 +85,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/kubernetes-egress-control-with-squid-proxy/' | relative_url }}">kubernetes egress control with squid proxy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/koine/' | relative_url }}">koine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/i-asked-ai-researchers-and-economists-about-swe-ca/' | relative_url }}">i asked ai researchers and economists about swe ca</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -97,11 +109,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/feynmans-hughes-lectures-950-pages-of-notes/' | relative_url }}">feynmans hughes lectures 950 pages of notes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/exploited-mongobleed-flaw-leaks-mongodb-secrets-87/' | relative_url }}">exploited mongobleed flaw leaks mongodb secrets 87</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/developing-a-beautiful-and-performant-block-editor/' | relative_url }}">developing a beautiful and performant block editor</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/consider-a-nix-flake-for-your-windows-rs-project/' | relative_url }}">consider a nix flake for your windows rs project</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/cia-star-gate-project-an-overview-1993-pdf/' | relative_url }}">cia star gate project an overview 1993 pdf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
