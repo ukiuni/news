@@ -8,6 +8,22 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/slaughtering-competition-problems-with-quantifier/' | relative_url }}">slaughtering competition problems with quantifier</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/show-hn-my-app-just-won-best-ios-japanese-learning/' | relative_url }}">show hn my app just won best ios japanese learning</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/gen-zers-and-millennials-flock-to-so-called-analog/' | relative_url }}">gen zers and millennials flock to so called analog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/before-electric-vehicles-became-political-there-wa/' | relative_url }}">before electric vehicles became political there wa</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">12/28</span>
   <h3><a href="{{ '/2025/12/28/zuckerberg-settles-8-billion-lawsuit-over-cambridg/' | relative_url }}">zuckerberg settles 8 billion lawsuit over cambridg</a></h3>
 </div>
