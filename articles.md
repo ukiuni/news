@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/what-does-the-software-engineering-job-market-look/' | relative_url }}">what does the software engineering job market look</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
 </div>
 <div class="article-row">
@@ -53,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/solid-state-ev-battery-maker-to-go-public-after-su/' | relative_url }}">solid state ev battery maker to go public after su</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/slaughtering-competition-problems-with-quantifier/' | relative_url }}">slaughtering competition problems with quantifier</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/show-hn-vibe-coding-a-bookshelf-with-claude-code/' | relative_url }}">show hn vibe coding a bookshelf with claude code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/show-hn-see-what-readers-who-loved-your-favorite-b/' | relative_url }}">show hn see what readers who loved your favorite b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -94,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/mrbeasts-former-manager-reed-duchscher-says-the-ag/' | relative_url }}">mrbeasts former manager reed duchscher says the ag</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/more-than-20-of-youtubes-feed-is-now-ai-slop-repor/' | relative_url }}">more than 20 of youtubes feed is now ai slop repor</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -154,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/consider-a-nix-flake-for-your-windows-rs-project/' | relative_url }}">consider a nix flake for your windows rs project</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/communication-protocols/' | relative_url }}">communication protocols</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
