@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/uk-accounting-body-to-halt-remote-exams-amid-ai-ch/' | relative_url }}">uk accounting body to halt remote exams amid ai ch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/they-graduated-from-stanford-due-to-ai-they-cant-f/' | relative_url }}">they graduated from stanford due to ai they cant f</a></h3>
 </div>
 <div class="article-row">
@@ -129,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/lets-make-a-game-368-team-names/' | relative_url }}">lets make a game 368 team names</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/kubernetes-egress-control-with-squid-proxy/' | relative_url }}">kubernetes egress control with squid proxy</a></h3>
 </div>
 <div class="article-row">
@@ -149,11 +157,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/golfing-is-not-rowing/' | relative_url }}">golfing is not rowing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/get-started-with-me-kestraio/' | relative_url }}">get started with me kestraio</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/gen-zers-and-millennials-flock-to-so-called-analog/' | relative_url }}">gen zers and millennials flock to so called analog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/garbage-collection-in-rust-got-a-little-better/' | relative_url }}">garbage collection in rust got a little better</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
