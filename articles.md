@@ -21,7 +21,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/why-are-we-worried-about-memory-access-semantics-f/' | relative_url }}">why are we worried about memory access semantics f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/what-happens-when-you-convert-a-nan-to-uint-in-gol/' | relative_url }}">what happens when you convert a nan to uint in gol</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/they-graduated-from-stanford-due-to-ai-they-cant-f/' | relative_url }}">they graduated from stanford due to ai they cant f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/the-second-great-error-model-convergence/' | relative_url }}">the second great error model convergence</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -42,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/show-hn-z80-lm-a-conversational-ai-that-fits-in-40/' | relative_url }}">show hn z80 lm a conversational ai that fits in 40</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/show-hn-vibe-coding-a-bookshelf-with-claude-code/' | relative_url }}">show hn vibe coding a bookshelf with claude code</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -86,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/louis-gerstner-the-man-who-saved-ibm-dies-at-83/' | relative_url }}">louis gerstner the man who saved ibm dies at 83</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/libgodc-write-go-programs-for-sega-dreamcast/' | relative_url }}">libgodc write go programs for sega dreamcast</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -138,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/binaries/' | relative_url }}">binaries</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/behind-the-scenes-of-oss-vulnerability-response/' | relative_url }}">behind the scenes of oss vulnerability response</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
