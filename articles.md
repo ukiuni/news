@@ -65,7 +65,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/measuring-out-of-sync-clocks-on-the-internet/' | relative_url }}">measuring out of sync clocks on the internet</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/louis-gerstner-the-man-who-saved-ibm-dies-at-83/' | relative_url }}">louis gerstner the man who saved ibm dies at 83</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/koine/' | relative_url }}">koine</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
