@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/why-the-internet-is-bad-for-democracy-2005/' | relative_url }}">why the internet is bad for democracy 2005</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/why-i-think-valves-retiring-the-steam-deck-lcd/' | relative_url }}">why i think valves retiring the steam deck lcd</a></h3>
 </div>
 <div class="article-row">
@@ -33,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/what-makes-goose-different-from-other-ai-coding-ag/' | relative_url }}">what makes goose different from other ai coding ag</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/what-happens-when-you-convert-a-nan-to-uint-in-gol/' | relative_url }}">what happens when you convert a nan to uint in gol</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/usps-announces-changes-to-the-postmark-date-system/' | relative_url }}">usps announces changes to the postmark date system</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -70,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/the-mythical-man-month-at-50/' | relative_url }}">the mythical man month at 50</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/the-future-of-software-development-is-software-dev/' | relative_url }}">the future of software development is software dev</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -218,6 +234,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/how-willie-nelson-sees-america/' | relative_url }}">how willie nelson sees america</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/how-was-your-2025/' | relative_url }}">how was your 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
