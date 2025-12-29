@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Janet Jackson had the power to crash laptop computers (2022)"
-date: 2025-12-27T17:41:12.385Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994"
-source_title: "Janet Jackson had the power to crash laptop computers (2022)"
+title: Janet Jackson had the power to crash laptop computers (2022)
+date: 2025-12-27 17:41:12.385000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994
+source_title: Janet Jackson had the power to crash laptop computers - The Old New
+  Thing
 source_id: 46403291
-excerpt: "ジャネット・ジャクソンの曲が一部ノートPCのHDDを共振で壊し、メーカーが周波数除去で対処した実話"
+excerpt: ジャネット・ジャクソンの曲が一部ノートPCのHDDを共振で壊し、メーカーが周波数除去で対処した実話
 ---
-
 # 音でノートを止めたジャネット・ジャクソンの“必殺周波数”──音響共振が招く意外なハード障害
 
 ## 要約

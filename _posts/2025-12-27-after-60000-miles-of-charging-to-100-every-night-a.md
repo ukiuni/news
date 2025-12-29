@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "After 60,000 Miles of Charging to 100% Every Night, a Ford F-150 Lightning Owner Says His Battery Shows “Not One Single Percentage Point” of Degradation"
-date: 2025-12-27T17:39:20.430Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.torquenews.com/17998/after-60000-miles-charging-100-every-night-ford-f-150-lightning-owner-says-his-battery-shows"
-source_title: "After 60,000 Miles of Charging to 100% Every Night, a Ford F-150 Lightning Owner Says His Battery Shows “Not One Single Percentage Point” of Degradation"
+title: After 60,000 Miles of Charging to 100% Every Night, a Ford F-150 Lightning
+  Owner Says His Battery Shows “Not One Single Percentage Point” of Degradation
+date: 2025-12-27 17:39:20.430000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.torquenews.com/17998/after-60000-miles-charging-100-every-night-ford-f-150-lightning-owner-says-his-battery-shows
+source_title: After 60,000 Miles of Charging to 100% Every Night, a Ford F-150 Lightning
+  Owner Says His Battery Shows “Not One Single Percentage Point” of Degradation |
+  Torque News
 source_id: 438104829
-excerpt: "毎夜100％充電で約9.6万km走行しても劣化率0％と診断された事例"
+excerpt: 毎夜100％充電で約9.6万km走行しても劣化率0％と診断された事例
 ---
-
 # 「毎晩100%充電」で6万マイル走っても“劣化ゼロ”？Ford F-150 Lightning実地検証が投げかける疑問
 
 ## 要約

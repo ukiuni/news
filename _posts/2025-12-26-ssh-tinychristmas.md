@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "ssh tiny.christmas"
-date: 2025-12-26T04:01:12.678Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://eieio.games/blog/tiny-christmas/"
-source_title: "ssh tiny.christmas"
+title: ssh tiny.christmas
+date: 2025-12-26 04:01:12.678000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://eieio.games/blog/tiny-christmas/
+source_title: ssh tiny.christmas · eieio.games
 source_id: 727801991
 ---
-
 # ターミナルで合唱！sshで歌う「tiny.christmas」 — Unicode Brailleで描く高密度クリスマスツリー
 
 ## 要約

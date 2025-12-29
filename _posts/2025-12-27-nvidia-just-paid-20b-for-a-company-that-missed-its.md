@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%"
-date: 2025-12-27T17:40:29.011Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a"
-source_title: "Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%"
+title: Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%
+date: 2025-12-27 17:40:29.011000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://blog.drjoshcsimmons.com/p/nvidia-just-paid-20-billion-for-a
+source_title: Nvidia Just Paid $20 Billion for a Company That Missed Its Revenue Target
+  by 75%
 source_id: 46403041
-excerpt: "Nvidiaが売上目標を75%下回るGroqを200億ドルで買収、低遅延LPUで勝負は成功するか？"
+excerpt: Nvidiaが売上目標を75%下回るGroqを200億ドルで買収、低遅延LPUで勝負は成功するか？
 ---
-
 # 200億ドルで買われた「速さ」の会社が売上目標を75%カット — Nvidiaの賭けは当たるのか？
 
 ## 要約

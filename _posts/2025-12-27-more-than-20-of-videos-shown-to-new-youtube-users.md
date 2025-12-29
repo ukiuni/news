@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds"
-date: 2025-12-27T19:39:21.030Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds"
-source_title: "More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds"
+title: More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds
+date: 2025-12-27 19:39:21.030000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.theguardian.com/technology/2025/dec/27/more-than-20-of-videos-shown-to-new-youtube-users-are-ai-slop-study-finds
+source_title: More than 20% of videos shown to new YouTube users are ‘AI slop’, study
+  finds | Artificial intelligence (AI) | The Guardian
 source_id: 438039045
-excerpt: "新規ユーザーに表示される動画の20％超が低品質AI生成ショートで収益化も進む危機"
+excerpt: 新規ユーザーに表示される動画の20％超が低品質AI生成ショートで収益化も進む危機
 ---
-
 # YouTubeが「AIスロップ」だらけに？新規ユーザーに20％超表示される低品質AI動画の衝撃
 
 ## 要約

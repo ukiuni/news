@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Oracle shares on pace for worst quarter since 2001 as new CEOs face concerns about AI build-out"
-date: 2025-12-27T06:39:14.620Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.cnbc.com/2025/12/26/oracle-stock-on-pace-for-worst-quarter-since-2001-ai-concerns.html"
-source_title: "Oracle shares on pace for worst quarter since 2001 as new CEOs face concerns about AI build-out"
+title: Oracle shares on pace for worst quarter since 2001 as new CEOs face concerns
+  about AI build-out
+date: 2025-12-27 06:39:14.620000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.cnbc.com/2025/12/26/oracle-stock-on-pace-for-worst-quarter-since-2001-ai-concerns.html
+source_title: Oracle stock on pace for worst quarter since 2001, AI concerns
 source_id: 437154007
-excerpt: "OracleのOpenAI案件拡大で株価急落、日系企業に波及懸念"
+excerpt: OracleのOpenAI案件拡大で株価急落、日系企業に波及懸念
 ---
-
 # Oracle急落の真相：OpenAI大口受注で膨らむ“勝負の投資”が日本企業にもたらす影響
 
 ## 要約

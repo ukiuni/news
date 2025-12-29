@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "What are you doing this weekend?"
-date: 2025-12-26T10:27:14.099Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://lobste.rs/s/yswcyu"
-source_title: "What are you doing this weekend?"
+title: What are you doing this weekend?
+date: 2025-12-26 10:27:14.099000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://lobste.rs/s/yswcyu
+source_title: What are you doing this weekend? | Lobsters
 source_id: 720990974
-excerpt: "Bandcampの曲メタをMPRIS経由で正確に流しscrobbleする拡張の作成と公開法"
+excerpt: Bandcampの曲メタをMPRIS経由で正確に流しscrobbleする拡張の作成と公開法
 ---
-
 # 週末で仕上げたい：Bandcampの曲情報をMPRISに流すFirefox拡張の作り方と公開まで
 
 ## 要約

@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "What I Learned Building a Storage Engine That Outperforms RocksDB"
-date: 2025-12-28T01:13:54.394Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://tidesdb.com/articles/what-i-learned-building-a-storage-engine-that-outperforms-rocksdb/"
-source_title: "What I Learned Building a Storage Engine That Outperforms RocksDB"
+title: What I Learned Building a Storage Engine That Outperforms RocksDB
+date: 2025-12-28 01:13:54.394000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://tidesdb.com/articles/what-i-learned-building-a-storage-engine-that-outperforms-rocksdb/
+source_title: What I Learned Building a Storage Engine That Outperforms RocksDB |
+  TidesDB
 source_id: 436669288
-excerpt: "ロックフリー設計と動的コンパクションでRocksDBを上回るTidesDBの実践知"
+excerpt: ロックフリー設計と動的コンパクションでRocksDBを上回るTidesDBの実践知
 ---
-
 # RocksDBを超えたストレージエンジンが示す“次世代の正解”：TidesDBの設計と実戦的インサイト
 
 ## 要約

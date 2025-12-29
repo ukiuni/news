@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "How to Train Ultralytics YOLOv8 models on Your Custom Dataset | 196 classes | Image classification"
-date: 2025-12-27T17:43:06.589Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://eranfeit.net/yolov8-tutorial-build-a-car-image-classifier/"
-source_title: "How to Train Ultralytics YOLOv8 models on Your Custom Dataset | 196 classes | Image classification"
+title: How to Train Ultralytics YOLOv8 models on Your Custom Dataset | 196 classes
+  | Image classification
+date: 2025-12-27 17:43:06.589000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://eranfeit.net/yolov8-tutorial-build-a-car-image-classifier/
+source_title: 'YOLOv8 Tutorial: Build A Strong Car Classifier'
 source_id: 438094718
-excerpt: "YOLOv8で196クラスの車種分類を高精度学習し、軽量化・エッジ展開まで実践するガイド"
+excerpt: YOLOv8で196クラスの車種分類を高精度学習し、軽量化・エッジ展開まで実践するガイド
 ---
-
 # たった数行で高精度化！YOLOv8で作る「196クラス車種分類」実践ガイド
 
 ## 要約

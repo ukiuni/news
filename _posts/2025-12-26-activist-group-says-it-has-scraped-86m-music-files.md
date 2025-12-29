@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Activist group says it has scraped 86m music files from Spotify"
-date: 2025-12-26T09:10:43.133Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.theguardian.com/technology/2025/dec/22/activist-group-says-it-has-scraped-86m-music-files-from-spotify"
-source_title: "Activist group says it has scraped 86m music files from Spotify"
+title: Activist group says it has scraped 86m music files from Spotify
+date: 2025-12-26 09:10:43.133000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.theguardian.com/technology/2025/dec/22/activist-group-says-it-has-scraped-86m-music-files-from-spotify
+source_title: Activist group says it has scraped 86m music files from Spotify | Spotify
+  | The Guardian
 source_id: 441643740
-excerpt: "Spotifyから8600万曲と2.56億メタデータ流出、AI悪用の危機"
+excerpt: Spotifyから8600万曲と2.56億メタデータ流出、AI悪用の危機
 ---
-
 # 8600万曲流出とAIの悪夢：Spotifyスクレイピング事件が日本の音楽業界に投げかける問い
 
 ## 要約

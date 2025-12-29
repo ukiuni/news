@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "DevOps From Scratch: A Student’s Diary (Entry #00)"
-date: 2025-12-28T16:18:18.235Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71"
-source_title: "DevOps From Scratch: A Student’s Diary (Entry #00)"
+title: 'DevOps From Scratch: A Student’s Diary (Entry #00)'
+date: 2025-12-28 16:18:18.235000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://dev.to/maame-codes/devops-from-scratch-a-students-diary-entry-00-5b71
+source_title: 'DevOps From Scratch: A Student’s Diary (Entry #00) - DEV Community'
 source_id: 3119996
-excerpt: "学生が実践で使えるDevOpsの全体感を日記で学べる導入、低コストで試せる手順付き"
+excerpt: 学生が実践で使えるDevOpsの全体感を日記で学べる導入、低コストで試せる手順付き
 ---
-
 # 「Works on my machine」卒業宣言！学生が綴るゼロからのDevOps日記
 
 ## 要約

@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Gleam v1.14 - the happy holidays release 2025"
-date: 2025-12-26T04:00:16.502Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://gleam.run/news/the-happy-holidays-2025-release/"
-source_title: "Gleam v1.14 - the happy holidays release 2025"
+title: Gleam v1.14 - the happy holidays release 2025
+date: 2025-12-26 04:00:16.502000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://gleam.run/news/the-happy-holidays-2025-release/
+source_title: The happy holidays release 2025 🎁 | Gleam programming language
 source_id: 876283838
 ---
-
 # Gleam v1.14 がもたらす年末の小さな革命 — BEAM/JS 両刀の型精度がさらに高速・安全に
 
 ## 要約

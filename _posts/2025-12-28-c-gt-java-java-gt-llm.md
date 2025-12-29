@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "C -&gt; Java != Java -&gt; LLM"
-date: 2025-12-28T05:16:51.949Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.observationalhazard.com/2025/12/c-java-java-llm.html"
-source_title: "C -&gt; Java != Java -&gt; LLM"
+title: C -&gt; Java != Java -&gt; LLM
+date: 2025-12-28 05:16:51.949000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.observationalhazard.com/2025/12/c-java-java-llm.html
+source_title: C -> Java != Java -> LLM ~ Observational Hazard
 source_id: 436424234
-excerpt: "LLMはコード生成を強化するが、ソースと開発プロセスの重要性は変わらないと警告する"
+excerpt: LLMはコード生成を強化するが、ソースと開発プロセスの重要性は変わらないと警告する
 ---
-
 # 「ソースコードは滅びない」──LLMは言語を置き換えない、変化の本質を見抜く
 
 ## 要約

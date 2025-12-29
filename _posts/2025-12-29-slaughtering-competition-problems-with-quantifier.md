@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Slaughtering Competition Problems with Quantifier Elimination"
-date: 2025-12-29T01:01:12.550Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://grossack.site/2021/12/22/qe-competition.html"
-source_title: "Slaughtering Competition Problems with Quantifier Elimination"
+title: Slaughtering Competition Problems with Quantifier Elimination
+date: 2025-12-29 01:01:12.550000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://grossack.site/2021/12/22/qe-competition.html
+source_title: Slaughtering Competition Problems with Quantifier Elimination | Chris
+  Grossack's Blog
 source_id: 46415448
-excerpt: "Sage＋QEPCADで競技数学の不等式や存在命題を自動解析・証明・反例列挙する実践手法を解説"
+excerpt: Sage＋QEPCADで競技数学の不等式や存在命題を自動解析・証明・反例列挙する実践手法を解説
 ---
-
 # 量化子消去で競技数学を“機械任せ”にする — Sage＋QEPCADで不等式を一撃
 
 ## 要約

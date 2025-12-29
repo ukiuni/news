@@ -1,14 +1,18 @@
 ---
 layout: post
-title: "Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors"
-date: 2025-12-26T03:59:07.347Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/"
-source_title: "Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors"
+title: Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors
+date: 2025-12-26 03:59:07.347000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/
+source_title: Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Continuous
+  Glucose Monitors - Conservancy Blog - Software Freedom Conservancy
 source_id: 46388040
 ---
-
 # たった一つの「見えないバグ」が命を奪った — Abbott Freestyle Libreで起きた医療機器ソフトウェアの危機
 
 ## 要約

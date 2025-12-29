@@ -1,14 +1,19 @@
 ---
 layout: post
-title: "Where we're going, we don't need chatbots: introducing the Antigravity IDE 🚀"
-date: 2025-12-26T04:04:01.591Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k"
-source_title: "Where we're going, we don't need chatbots: introducing the Antigravity IDE 🚀"
+title: 'Where we''re going, we don''t need chatbots: introducing the Antigravity IDE
+  🚀'
+date: 2025-12-26 04:04:01.591000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k
+source_title: 'Where we''re going, we don''t need chatbots: introducing the Antigravity
+  IDE 🚀 - DEV Community'
 source_id: 3121699
 ---
-
 # チャット窓だけではない――「Antigravity IDE」が示すエージェント主導コーディングの衝撃
 
 ## 要約

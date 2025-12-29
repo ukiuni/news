@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Data centres: The new tech stopping chips from overheating"
-date: 2025-12-26T09:17:53.521Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.bbc.com/news/articles/cp8zd176516o"
-source_title: "Data centres: The new tech stopping chips from overheating"
+title: 'Data centres: The new tech stopping chips from overheating'
+date: 2025-12-26 09:17:53.521000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.bbc.com/news/articles/cp8zd176516o
+source_title: 'Data centres: The new tech stopping chips from overheating'
 source_id: 438730260
-excerpt: "AI時代の高熱問題を液体・浸漬冷却で克服し、廃熱利活用と環境リスクに挑む最前線"
+excerpt: AI時代の高熱問題を液体・浸漬冷却で克服し、廃熱利活用と環境リスクに挑む最前線
 ---
-
 # 芯から冷やす未来へ──発熱するAI時代を支える「液体冷却」の衝撃
 
 ## 要約

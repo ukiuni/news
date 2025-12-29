@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Show HN: Witr – Explain why a process is running on your Linux system"
-date: 2025-12-26T23:07:30.380Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://github.com/pranshuparmar/witr"
-source_title: "Show HN: Witr – Explain why a process is running on your Linux system"
+title: 'Show HN: Witr – Explain why a process is running on your Linux system'
+date: 2025-12-26 23:07:30.380000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://github.com/pranshuparmar/witr
+source_title: 'GitHub - pranshuparmar/witr: Why is this running?'
 source_id: 46392910
-excerpt: "WitrでLinuxのプロセスをPIDから原因チェーンで即解析、原因把握を高速化"
+excerpt: WitrでLinuxのプロセスをPIDから原因チェーンで即解析、原因把握を高速化
 ---
-
 # 謎のプロセスを一発で突き止める — Witrで「なぜ動いているか」を可視化する
 
 ## 要約

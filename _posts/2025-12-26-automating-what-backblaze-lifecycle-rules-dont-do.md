@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Automating What Backblaze Lifecycle Rules Don't Do Instantly"
-date: 2025-12-26T09:17:11.660Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://blog.tymscar.com/posts/backblazeb2cleanup/"
-source_title: "Automating What Backblaze Lifecycle Rules Don't Do Instantly"
+title: Automating What Backblaze Lifecycle Rules Don't Do Instantly
+date: 2025-12-26 09:17:11.660000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://blog.tymscar.com/posts/backblazeb2cleanup/
+source_title: 'Automating What Backblaze Lifecycle Rules Don''t Do Instantly :: The
+  Tymscar Blog'
 source_id: 1424259147
-excerpt: "B2の遅延で溜まる隠れバージョンをrcloneで即削除、請求を激減"
+excerpt: B2の遅延で溜まる隠れバージョンをrcloneで即削除、請求を激減
 ---
-
 # Backblazeの「消えるはず」が消えない問題を即解決する方法 — 大容量バックアップで無駄な課金を防ぐ一手
 
 ## 要約

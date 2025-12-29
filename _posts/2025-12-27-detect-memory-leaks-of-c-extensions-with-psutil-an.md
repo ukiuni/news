@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Detect memory leaks of C extensions with psutil and psleak"
-date: 2025-12-27T15:40:12.764Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://gmpy.dev/blog/2025/psutil-heap-introspection-apis"
-source_title: "Detect memory leaks of C extensions with psutil and psleak"
+title: Detect memory leaks of C extensions with psutil and psleak
+date: 2025-12-27 15:40:12.764000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://gmpy.dev/blog/2025/psutil-heap-introspection-apis
+source_title: Detect memory leaks of C extensions with psutil and psleak
 source_id: 46376608
-excerpt: "psutilとpsleakで隠れたC拡張のネイティブヒープ漏れを自動検出する方法を紹介"
+excerpt: psutilとpsleakで隠れたC拡張のネイティブヒープ漏れを自動検出する方法を紹介
 ---
-
 # C拡張の「見えない」メモリリークを暴く — psutil で見るネイティブヒープと psleak の使い方
 
 ## 要約

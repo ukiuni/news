@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Tachyon: High frequency statistical sampling profiler"
-date: 2025-12-26T07:10:14.679Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://docs.python.org/3.15/library/profiling.sampling.html"
-source_title: "Tachyon: High frequency statistical sampling profiler"
+title: 'Tachyon: High frequency statistical sampling profiler'
+date: 2025-12-26 07:10:14.679000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://docs.python.org/3.15/library/profiling.sampling.html
+source_title: "profiling.sampling â\x80\x94 Statistical profiler — Python 3.15.0a3\
+  \ documentation"
 source_id: 46353257
-excerpt: "本番で低オーバーヘッドに高頻度サンプリングし即ボトルネック可視化するPy3.15プロファイラ"
+excerpt: 本番で低オーバーヘッドに高頻度サンプリングし即ボトルネック可視化するPy3.15プロファイラ
 ---
-
 # Tachyonで本番でも使える低オーバーヘッド診断 — Python 3.15の統計サンプリングプロファイラを使い倒す
 
 ## 要約

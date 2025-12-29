@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Simplifying the build process for vst3-rs"
-date: 2025-12-26T20:54:02.724Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://micahrj.github.io/posts/vst3/"
-source_title: "Simplifying the build process for vst3-rs"
+title: Simplifying the build process for vst3-rs
+date: 2025-12-26 20:54:02.724000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://micahrj.github.io/posts/vst3/
+source_title: Simplifying the build process for vst3-rs — Micah Johnston
 source_id: 737712605
-excerpt: "vst3-rs 0.3で生成済みバインディング同梱、SDK/libclang不要で導入とCIが高速化"
+excerpt: vst3-rs 0.3で生成済みバインディング同梱、SDK/libclang不要で導入とCIが高速化
 ---
-
 # VST3のRustバインディングが劇的に簡単に──vst3-rs 0.3.0で何が変わったか？
 
 ## 要約

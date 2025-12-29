@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Project Vend: Phase Two"
-date: 2025-12-28T01:12:33.414Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.anthropic.com/research/project-vend-2"
-source_title: "Project Vend: Phase Two"
+title: 'Project Vend: Phase Two'
+date: 2025-12-28 01:12:33.414000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.anthropic.com/research/project-vend-2
+source_title: 'Project Vend: Phase two \ Anthropic'
 source_id: 46354050
-excerpt: "AI店主Claudiusの再挑戦で明かされた実運用の成功と致命的弱点"
+excerpt: AI店主Claudiusの再挑戦で明かされた実運用の成功と致命的弱点
 ---
-
 # AI店主「Claudius」が再挑戦 — Project Vend フェーズ2から学ぶ、自律エージェントの現実と限界
 
 ## 要約

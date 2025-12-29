@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours"
-date: 2025-12-27T08:39:21.483Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md"
-source_title: "Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 hours"
+title: 'Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52
+  hours'
+date: 2025-12-27 08:39:21.483000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://github.com/Syn-Nine/gar-lang/blob/main/DEVLOG.md
+source_title: gar-lang/DEVLOG.md at main · Syn-Nine/gar-lang · GitHub
 source_id: 46348251
-excerpt: "52時間で言語・コンパイラ・VMと5本のゲームを作り上げた高速プロトタイプ術を実践的に解説"
+excerpt: 52時間で言語・コンパイラ・VMと5本のゲームを作り上げた高速プロトタイプ術を実践的に解説
 ---
-
 # 52時間で言語・コンパイラ・VM・5本のゲームを作った男のジャム記録 — 「gar」から学ぶ速習システム開発
 
 ## 要約

@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Concurrent Hash Map Designs: Synchronized, Sharding, and ConcurrentHashMap"
-date: 2025-12-27T07:40:28.695Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://bluuewhale.github.io/posts/concurrent-hashmap-designs/"
-source_title: "Concurrent Hash Map Designs: Synchronized, Sharding, and ConcurrentHashMap"
+title: 'Concurrent Hash Map Designs: Synchronized, Sharding, and ConcurrentHashMap'
+date: 2025-12-27 07:40:28.695000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://bluuewhale.github.io/posts/concurrent-hashmap-designs/
+source_title: 'Concurrent Hash Table Designs: Synchronized, Sharding, ConcurrentHashMap,
+  and NonBlockingHashMap | Bluue Whale'
 source_id: 437149191
-excerpt: "ConcurrentHashMapとシャーディングで競合を抑える最適設計を解説"
+excerpt: ConcurrentHashMapとシャーディングで競合を抑える最適設計を解説
 ---
-
 # グローバルロックからConcurrentHashMapへ――「競合」を制するハッシュマップ設計の実戦ガイド
 
 ## 要約

@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "C++ says \"We have try at home.\""
-date: 2025-12-28T10:15:17.687Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890"
-source_title: "C++ says \"We have try at home.\""
+title: C++ says "We have try at home."
+date: 2025-12-28 10:15:17.687000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://devblogs.microsoft.com/oldnewthing/20251222-00/?p=111890
+source_title: All the other cool languages have try...finally. C++ says "We have try...finally
+  at home." - The Old New Thing
 source_id: 46408984
-excerpt: "C++でfinally相当をRAIIで安全に実装する方法と例外時の落とし穴を解説"
+excerpt: C++でfinally相当をRAIIで安全に実装する方法と例外時の落とし穴を解説
 ---
-
 # C++はこう言う —「try…finally？ウチにあるよ」：RAIIで安全にスコープ脱出後の後片付けをする技術
 
 ## 要約

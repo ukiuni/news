@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "WPF/MVVM lottery analytics project : charts, tables, and performance notes (screenshots gallery)"
-date: 2025-12-26T11:25:55.131Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://lottoanalyzer.fr/Screenshots"
-source_title: "WPF/MVVM lottery analytics project : charts, tables, and performance notes (screenshots gallery)"
+title: 'WPF/MVVM lottery analytics project : charts, tables, and performance notes
+  (screenshots gallery)'
+date: 2025-12-26 11:25:55.131000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://lottoanalyzer.fr/Screenshots
+source_title: Screenshots - LottoAnalyzer
 source_id: 439019173
-excerpt: "WPF/MVVMで大量データを高速表示するチャート・テーブル設計と実践的な性能最適化ガイド"
+excerpt: WPF/MVVMで大量データを高速表示するチャート・テーブル設計と実践的な性能最適化ガイド
 ---
-
 # WPFで見る宝くじ解析の世界 — MVVM設計で作る高速チャート＆結果ビュー（スクリーンショット集を読み解く）
 
 ## 要約

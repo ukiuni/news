@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "I stayed in a $40 capsule hotel (London)"
-date: 2025-12-28T13:14:50.839Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.cnbc.com/2025/12/20/zedwell-capsule-hotel-i-stayed-in-a-40-dollar-capsule-hotel-in-london.html"
-source_title: "I stayed in a $40 capsule hotel (London)"
+title: I stayed in a $40 capsule hotel (London)
+date: 2025-12-28 13:14:50.839000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.cnbc.com/2025/12/20/zedwell-capsule-hotel-i-stayed-in-a-40-dollar-capsule-hotel-in-london.html
+source_title: 'Zedwell Capsule Hotel: I stayed in a London sleeping pod'
 source_id: 46357654
-excerpt: "ロンドンで1m×1mカプセルが£30、都心短期滞在と働き方の新常識を体験"
+excerpt: ロンドンで1m×1mカプセルが£30、都心短期滞在と働き方の新常識を体験
 ---
-
 # ロンドンで見た「1m×1m」の宿泊革命：£30カプセルが示す都市とワークスタイルの未来
 
 ## 要約

@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "RoboCop – Breaking The Law. H0ffman Cracks RoboCop Arcade from DataEast"
-date: 2025-12-26T21:06:31.048Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://hoffman.home.blog/2025/12/26/robocop-breaking-the-law/"
-source_title: "RoboCop – Breaking The Law. H0ffman Cracks RoboCop Arcade from DataEast"
+title: RoboCop – Breaking The Law. H0ffman Cracks RoboCop Arcade from DataEast
+date: 2025-12-26 21:06:31.048000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://hoffman.home.blog/2025/12/26/robocop-breaking-the-law/
+source_title: RoboCop – Breaking The Law – Code and Waveforms
 source_id: 437507409
-excerpt: "HuC6280サブCPUが仕掛けたRoboCopのプロテクト解析と当たり判定再実装法"
+excerpt: HuC6280サブCPUが仕掛けたRoboCopのプロテクト解析と当たり判定再実装法
 ---
-
 # RoboCopの“違法コピー対策”をぶち破る：HuC6280が仕掛けた罠と解析の舞台裏
 
 ## 要約

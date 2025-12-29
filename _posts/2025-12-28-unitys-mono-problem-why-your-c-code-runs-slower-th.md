@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Unity's Mono problem: Why your C# code runs slower than it should"
-date: 2025-12-28T23:16:41.940Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://marekfiser.com/blog/mono-vs-dot-net-in-unity/"
-source_title: "Unity's Mono problem: Why your C# code runs slower than it should"
+title: 'Unity''s Mono problem: Why your C# code runs slower than it should'
+date: 2025-12-28 23:16:41.940000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://marekfiser.com/blog/mono-vs-dot-net-in-unity/
+source_title: 'Unity''s Mono problem: Why your C# code runs slower than it should
+  | Marek''s blog'
 source_id: 46414819
-excerpt: "UnityのMonoは最新.NETより数倍遅く、移行やロジック分離で劇的に改善可能"
+excerpt: UnityのMonoは最新.NETより数倍遅く、移行やロジック分離で劇的に改善可能
 ---
-
 # Unityの「見えない負荷」を暴く：Monoが遅い本当の理由と今すぐできる対策
 
 ## 要約

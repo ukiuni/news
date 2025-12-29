@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Microsoft Is Finally Killing RC4"
-date: 2025-12-26T04:06:25.435Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html"
-source_title: "Microsoft Is Finally Killing RC4"
+title: Microsoft Is Finally Killing RC4
+date: 2025-12-26 04:06:25.435000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html
+source_title: Microsoft Is Finally Killing RC4 - Schneier on Security
 source_id: 1697350332
 ---
-
 # ついに終焉へ：MicrosoftがRC4を廃止 — 日本の現場が今すぐ確認すべき理由
 
 ## 要約

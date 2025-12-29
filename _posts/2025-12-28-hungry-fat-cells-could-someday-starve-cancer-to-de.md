@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Hungry Fat Cells Could Someday Starve Cancer to Death"
-date: 2025-12-28T15:05:03.219Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death"
-source_title: "Hungry Fat Cells Could Someday Starve Cancer to Death"
+title: Hungry Fat Cells Could Someday Starve Cancer to Death
+date: 2025-12-28 15:05:03.219000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.ucsf.edu/news/2025/01/429411/how-hungry-fat-cells-could-someday-starve-cancer-death
+source_title: How Hungry Fat Cells Could Someday Starve Cancer to Death | UC San Francisco
 source_id: 46409928
-excerpt: "CRISPR改変の移植脂肪ががんを栄養枯渇で餓死させる可能性"
+excerpt: CRISPR改変の移植脂肪ががんを栄養枯渇で餓死させる可能性
 ---
-
 # 脂肪を“ハンター”に変えてがんを餓死させる未来──リポ移植から生まれた“飢える脂肪細胞”療法の衝撃
 
 ## 要約

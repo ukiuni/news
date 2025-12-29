@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Plant Identifier &amp; health scan app"
-date: 2025-12-26T10:27:58.256Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://vt.tiktok.com/ZSPEbXGsw/"
-source_title: "Plant Identifier &amp; health scan app"
+title: Plant Identifier &amp; health scan app
+date: 2025-12-26 10:27:58.256000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://vt.tiktok.com/ZSPEbXGsw/
+source_title: TikTok - Make Your Day
 source_id: 439068248
-excerpt: "TikTok話題のアプリで植物の種や病害を写真で即診断、家庭で使える軽量AI搭載"
+excerpt: TikTok話題のアプリで植物の種や病害を写真で即診断、家庭で使える軽量AI搭載
 ---
-
 # スマホが植物の“かかりつけ医”に？TikTokで話題の「Plant Identifier & health scan」から学ぶAI園芸の今
 
 ## 要約

@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "MongoBleed"
-date: 2025-12-26T22:05:51.739Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py"
-source_title: "MongoBleed"
+title: MongoBleed
+date: 2025-12-26 22:05:51.739000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py
+source_title: mongobleed/mongobleed.py at main · joe-desimone/mongobleed · GitHub
 source_id: 46394620
-excerpt: "3分でmongobleed.pyの危険箇所と実行前対策を把握する実践ガイド"
+excerpt: 3分でmongobleed.pyの危険箇所と実行前対策を把握する実践ガイド
 ---
-
 # MongoBleedを読む前に押さえるべき4つのポイント — mongobleed.pyを3分で分解する
 
 ## 要約

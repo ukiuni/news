@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Gibberish - A new style of parser-combinator with robust error handling built in"
-date: 2025-12-26T21:08:07.824Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://github.com/mnbjhu/gibberish"
-source_title: "Gibberish - A new style of parser-combinator with robust error handling built in"
+title: Gibberish - A new style of parser-combinator with robust error handling built
+  in
+date: 2025-12-26 21:08:07.824000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://github.com/mnbjhu/gibberish
+source_title: 'GitHub - mnbjhu/gibberish: A parser combinator language and compiler
+  designed to produce lossless syntax trees with robust, structured error recovery.'
 source_id: 437474408
-excerpt: "不完全なソースでもツリーを失わずIDE解析を強化するGibberish"
+excerpt: 不完全なソースでもツリーを失わずIDE解析を強化するGibberish
 ---
-
 # エラーだらけのコードでも「ツリーを失わない」──Gibberishが変えるIDE向けパーシング
 
 ## 要約

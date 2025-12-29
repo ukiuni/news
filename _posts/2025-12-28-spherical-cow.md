@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Spherical Cow"
-date: 2025-12-28T23:45:20.288Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://lib.rs/crates/spherical-cow"
-source_title: "Spherical Cow"
+title: Spherical Cow
+date: 2025-12-28 23:45:20.288000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://lib.rs/crates/spherical-cow
+source_title: spherical-cow — Rust implementation // Lib.rs
 source_id: 46415458
-excerpt: "Rustで任意形状を高密度に球詰め、CAEや医療応用に使える高速ライブラリ"
+excerpt: Rustで任意形状を高密度に球詰め、CAEや医療応用に使える高速ライブラリ
 ---
-
 # 球で埋め尽くす：高密度球詰めをRustで操る
 
 ## 要約

@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Maybe the default settings are too high"
-date: 2025-12-26T03:54:39.769Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/"
-source_title: "Maybe the default settings are too high"
+title: Maybe the default settings are too high
+date: 2025-12-26 03:54:39.769000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/
+source_title: Maybe the Default Settings Are Too High
 source_id: 46387657
 ---
-
 # デフォルトの「速さ」を疑え — 意図的に遅くすることで得る集中と価値
 
 ## 要約

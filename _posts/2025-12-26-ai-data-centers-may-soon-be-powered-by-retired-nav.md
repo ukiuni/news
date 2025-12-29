@@ -1,14 +1,20 @@
 ---
 layout: post
-title: "AI data centers may soon be powered by retired Navy nuclear reactors from aircraft carriers and submarines — firm asks U.S. DOE for a loan guarantee to start the project"
-date: 2025-12-26T03:51:50.336Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.tomshardware.com/tech-industry/startup-proposes-using-retired-navy-nuclear-reactors-from-aircraft-carriers-and-submarines-for-ai-data-centers-firm-asks-u-s-doe-for-a-loan-guarantee-to-start-the-project"
-source_title: "AI data centers may soon be powered by retired Navy nuclear reactors from aircraft carriers and submarines — firm asks U.S. DOE for a loan guarantee to start the project"
+title: AI data centers may soon be powered by retired Navy nuclear reactors from aircraft
+  carriers and submarines — firm asks U.S. DOE for a loan guarantee to start the project
+date: 2025-12-26 03:51:50.336000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.tomshardware.com/tech-industry/startup-proposes-using-retired-navy-nuclear-reactors-from-aircraft-carriers-and-submarines-for-ai-data-centers-firm-asks-u-s-doe-for-a-loan-guarantee-to-start-the-project
+source_title: AI data centers may soon be powered by retired Navy nuclear reactors
+  from aircraft carriers and submarines — firm asks U.S. DOE for a loan guarantee
+  to start the project | Tom's Hardware
 source_id: 438366005
 ---
-
 # 退役原子炉でAIデータセンターを動かす？海軍艦艇の原子炉再利用構想が見せる現実味
 
 ## 要約

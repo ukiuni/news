@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Dating in the Age of the Algorithm : Dating apps have transformed intimacy into a marketplace of frustration. They fuel gender conflict while ruthlessly extracting value from our most intimate desires."
-date: 2025-12-26T09:11:32.674Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://jacobin.com/2025/12/dating-apps-men-women-capital"
-source_title: "Dating in the Age of the Algorithm : Dating apps have transformed intimacy into a marketplace of frustration. They fuel gender conflict while ruthlessly extracting value from our most intimate desires."
+title: 'Dating in the Age of the Algorithm : Dating apps have transformed intimacy
+  into a marketplace of frustration. They fuel gender conflict while ruthlessly extracting
+  value from our most intimate desires.'
+date: 2025-12-26 09:11:32.674000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://jacobin.com/2025/12/dating-apps-men-women-capital
+source_title: Dating in the Age of the Algorithm
 source_id: 441563457
-excerpt: "出会いアプリが欲望を商品化し、社会的孤立とジェンダー対立を増幅する実態を暴く"
+excerpt: 出会いアプリが欲望を商品化し、社会的孤立とジェンダー対立を増幅する実態を暴く
 ---
-
 # 恋愛を搾取するアルゴリズム：出会いアプリが生む「欲望の市場」と日本への警告
 
 ## 要約

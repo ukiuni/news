@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Ratings Tank For Kennedy Center Honors With US President as Host"
-date: 2025-12-26T03:49:22.502Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.tmz.com/2025/12/25/trump-hosted-kennedy-center-honors-tanks-in-ratings/"
-source_title: "Ratings Tank For Kennedy Center Honors With US President as Host"
+title: Ratings Tank For Kennedy Center Honors With US President as Host
+date: 2025-12-26 03:49:22.502000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.tmz.com/2025/12/25/trump-hosted-kennedy-center-honors-tanks-in-ratings/
+source_title: Ratings Tank For Kennedy Center Honors With President Trump as Host
 source_id: 438202109
 ---
-
 # トランプ司会で視聴率が激減──「政治×エンタメ」が示すメディア計測の盲点と実務的教訓
 
 ## 要約

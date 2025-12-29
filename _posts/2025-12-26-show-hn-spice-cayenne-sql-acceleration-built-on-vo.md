@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Show HN: Spice Cayenne – SQL acceleration built on Vortex"
-date: 2025-12-26T03:00:01.726Z
-categories: [tech, hacker-news]
-tags: [hacker-news, tech-news, japan]
-source_url: "https://spice.ai/blog/introducing-spice-cayenne-data-accelerator"
-source_title: "Show HN: Spice Cayenne – SQL acceleration built on Vortex"
+title: 'Show HN: Spice Cayenne – SQL acceleration built on Vortex'
+date: 2025-12-26 03:00:01.726000+00:00
+categories:
+- tech
+- hacker-news
+tags:
+- hacker-news
+- tech-news
+- japan
+source_url: https://spice.ai/blog/introducing-spice-cayenne-data-accelerator
+source_title: Introducing the Spice Cayenne Data Accelerator | Spice AI
 hn_id: 46316991
 hn_score: 41
 hn_comments: 4
 ---
-
 # Spice Cayenne上陸：Vortexで再定義された「データアクセラレータ」の正体と使いどころ
 
 ## 要約

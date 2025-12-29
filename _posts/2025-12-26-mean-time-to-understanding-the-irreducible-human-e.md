@@ -1,14 +1,19 @@
 ---
 layout: post
-title: "Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of Infinite Code 🤖."
-date: 2025-12-26T03:59:26.357Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://dev.to/grahamthedev/mean-time-to-understanding-the-irreducible-human-element-in-the-age-of-infinite-code--i2o"
-source_title: "Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of Infinite Code 🤖."
+title: 'Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of
+  Infinite Code 🤖.'
+date: 2025-12-26 03:59:26.357000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://dev.to/grahamthedev/mean-time-to-understanding-the-irreducible-human-element-in-the-age-of-infinite-code--i2o
+source_title: 'Mean Time to Understanding 🤔: The Irreducible Human Element in the
+  Age of Infinite Code 🤖. - DEV Community'
 source_id: 3119359
 ---
-
 # スピードはもう評価基準じゃない：AI時代に注目すべき「Mean Time to Understanding（理解までの平均時間）」
 
 ## 要約

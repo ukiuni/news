@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Global Memory Shortage Crisis: Market Analysis"
-date: 2025-12-28T20:17:14.170Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/"
-source_title: "Global Memory Shortage Crisis: Market Analysis"
+title: 'Global Memory Shortage Crisis: Market Analysis'
+date: 2025-12-28 20:17:14.170000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.idc.com/resource-center/blog/global-memory-shortage-crisis-market-analysis-and-the-potential-impact-on-the-smartphone-and-pc-markets-in-2026/
+source_title: 'IDC - Global Memory Shortage Crisis: Market Analysis and the Potential
+  Impact on the Smartphone and PC Markets in 2026'
 source_id: 46411902
-excerpt: "AI需要でメモリ逼迫、2026年にスマホ・PCが価格上昇・出荷減で直撃"
+excerpt: AI需要でメモリ逼迫、2026年にスマホ・PCが価格上昇・出荷減で直撃
 ---
-
 # 2026年、メモリ不足がデバイス市場を揺るがす――スマホとPCの価格上昇は日本にも直撃する
 
 ## 要約

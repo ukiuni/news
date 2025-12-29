@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "A \"Prime\" View of HN"
-date: 2025-12-28T18:17:40.337Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://dosaygo-studio.github.io/prime-news/index.html"
-source_title: "A \"Prime\" View of HN"
+title: A "Prime" View of HN
+date: 2025-12-28 18:17:40.337000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://dosaygo-studio.github.io/prime-news/index.html
+source_title: Hacker News Prime
 source_id: 46412549
-excerpt: "HN投稿を素数フィルタで再解釈し、隠れた有益記事や偏りを発見する実験インターフェイス"
+excerpt: HN投稿を素数フィルタで再解釈し、隠れた有益記事や偏りを発見する実験インターフェイス
 ---
-
 # Hacker Newsを「素数視点」で読み解く — A "Prime" View of HN が示すデータの新しい遊び方
 
 ## 要約

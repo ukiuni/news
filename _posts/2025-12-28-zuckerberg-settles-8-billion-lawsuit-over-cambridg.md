@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Zuckerberg settles $8 billion lawsuit over Cambridge Analytica scandal, avoids testifying"
-date: 2025-12-28T01:08:30.303Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.france24.com/en/americas/20250717-zuckerberg-settles-8-billion-lawsuit-over-cambridge-analytica-scandal-avoids-testifying"
-source_title: "Zuckerberg settles $8 billion lawsuit over Cambridge Analytica scandal, avoids testifying"
+title: Zuckerberg settles $8 billion lawsuit over Cambridge Analytica scandal, avoids
+  testifying
+date: 2025-12-28 01:08:30.303000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.france24.com/en/americas/20250717-zuckerberg-settles-8-billion-lawsuit-over-cambridge-analytica-scandal-avoids-testifying
+source_title: Zuckerberg settles $8 billion lawsuit over Cambridge Analytica scandal,
+  avoids testifying - France 24
 source_id: 437864544
-excerpt: "ザッカーバーグが$8Bで和解、証言回避が示すSNS責任の現実"
+excerpt: ザッカーバーグが$8Bで和解、証言回避が示すSNS責任の現実
 ---
-
 # ザッカーバーグ、Cambridge Analytica訴訟を$8 billionで和解 — 「証言回避」が示すプラットフォーム責任の現実
 
 ## 要約

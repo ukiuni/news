@@ -1,14 +1,18 @@
 ---
 layout: post
-title: "Congrats to the Winners of the AI Challenge for Cross-Platform Apps!"
-date: 2025-12-26T04:04:43.486Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://dev.to/devteam/congrats-to-the-winners-of-the-ai-challenge-for-cross-platform-apps-3f7f"
-source_title: "Congrats to the Winners of the AI Challenge for Cross-Platform Apps!"
+title: Congrats to the Winners of the AI Challenge for Cross-Platform Apps!
+date: 2025-12-26 04:04:43.486000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://dev.to/devteam/congrats-to-the-winners-of-the-ai-challenge-for-cross-platform-apps-3f7f
+source_title: Congrats to the Winners of the AI Challenge for Cross-Platform Apps!
+  - DEV Community
 source_id: 3113758
 ---
-
 # AIがUIを自動生成する時代へ──Uno Platformのチャレンジ受賞作が示す「単一コードで全プラットフォーム展開」の実力
 
 ## 要約

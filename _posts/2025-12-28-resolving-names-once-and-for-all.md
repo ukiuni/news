@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Resolving Names Once and for All"
-date: 2025-12-28T01:13:15.686Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://thunderseethe.dev/posts/nameres-base/"
-source_title: "Resolving Names Once and for All"
+title: Resolving Names Once and for All
+date: 2025-12-28 01:13:15.686000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://thunderseethe.dev/posts/nameres-base/
+source_title: Resolving Names Once and for All · Thunderseethe's Devlog
 source_id: 436643208
-excerpt: "Rust風実装で学ぶ、スコープとシャドーイングを一度で解決して識別子を一意IDへ変換する方法"
+excerpt: Rust風実装で学ぶ、スコープとシャドーイングを一度で解決して識別子を一意IDへ変換する方法
 ---
-
 # 名前解決を完全制覇 — スコープとシャドーイングを一度で「機械向け」に変える技術
 
 ## 要約

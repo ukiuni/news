@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "AI faces closing time at the cash buffet"
-date: 2025-12-26T03:52:41.303Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.theregister.com/2025/12/24/ai_spending_cooling_off/"
-source_title: "AI faces closing time at the cash buffet"
+title: AI faces closing time at the cash buffet
+date: 2025-12-26 03:52:41.303000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.theregister.com/2025/12/24/ai_spending_cooling_off/
+source_title: AI faces closing time at the cash buffet • The Register
 source_id: 438085156
 ---
-
 # AIの現金バフェットは閉店間近？1.5兆ドル投資の正体と日本企業が取るべき戦略
 
 ## 要約

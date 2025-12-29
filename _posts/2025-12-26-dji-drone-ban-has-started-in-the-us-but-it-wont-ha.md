@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "DJI drone ban has started in the US, but it won't happen overnight"
-date: 2025-12-26T09:15:03.733Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://dronedj.com/2025/12/22/dji-drone-us-fcc-ban/"
-source_title: "DJI drone ban has started in the US, but it won't happen overnight"
+title: DJI drone ban has started in the US, but it won't happen overnight
+date: 2025-12-26 09:15:03.733000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://dronedj.com/2025/12/22/dji-drone-us-fcc-ban/
+source_title: DJI drone ban has started in the US, but it won't happen overnight
 source_id: 440184256
-excerpt: "米FCCがDJIなどを事実上排除、部品供給と更新停止で日本の業務用ドローン運用は今すぐ対策必須"
+excerpt: 米FCCがDJIなどを事実上排除、部品供給と更新停止で日本の業務用ドローン運用は今すぐ対策必須
 ---
-
 # 米国がDJIを事実上締め出し──日本のドローン業界が知るべき現実と即効アクション
 
 ## 要約

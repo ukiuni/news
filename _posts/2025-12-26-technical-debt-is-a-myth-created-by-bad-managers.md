@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Technical Debt Is a Myth Created By Bad Managers"
-date: 2025-12-26T04:01:53.338Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://dev.to/adamthedeveloper/technical-debt-is-a-myth-created-by-bad-managers-2l3k"
-source_title: "Technical Debt Is a Myth Created By Bad Managers"
+title: Technical Debt Is a Myth Created By Bad Managers
+date: 2025-12-26 04:01:53.338000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://dev.to/adamthedeveloper/technical-debt-is-a-myth-created-by-bad-managers-2l3k
+source_title: Technical Debt Is a Myth Created By Bad Managers - DEV Community
 source_id: 3119796
 ---
-
 # 「“テクニカルデット”は言い訳か？――管理職が作った“負債”神話をぶった切る」
 
 ## 要約

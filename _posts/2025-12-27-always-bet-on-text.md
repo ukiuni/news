@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Always Bet on Text"
-date: 2025-12-27T01:06:27.454Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://graydon2.dreamwidth.org/193447.html"
-source_title: "Always Bet on Text"
+title: Always Bet on Text
+date: 2025-12-27 01:06:27.454000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://graydon2.dreamwidth.org/193447.html
+source_title: graydon2 | always bet on text
 source_id: 46397379
-excerpt: "エンジニアが実務で活かせる、検索性と互換性で勝つ“テキスト最優先”の具体策を解説"
+excerpt: エンジニアが実務で活かせる、検索性と互換性で勝つ“テキスト最優先”の具体策を解説
 ---
-
 # 動画じゃ勝てない場面がある──「常にテキストに賭けよ」が示す現場の武器
 
 ## 要約

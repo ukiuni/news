@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Show HN: GeneGuessr – a daily biology web puzzle"
-date: 2025-12-26T07:10:53.242Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://geneguessr.brinedew.bio/"
-source_title: "Show HN: GeneGuessr – a daily biology web puzzle"
+title: 'Show HN: GeneGuessr – a daily biology web puzzle'
+date: 2025-12-26 07:10:53.242000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://geneguessr.brinedew.bio/
+source_title: GeneGuessr - Daily Protein Guessing Game
 source_id: 46363870
-excerpt: "ヒントと類似性スコアで解く、毎日挑戦の教育的タンパク質当てパズル"
+excerpt: ヒントと類似性スコアで解く、毎日挑戦の教育的タンパク質当てパズル
 ---
-
 # 毎日挑戦したくなる「タンパク質当てゲーム」 — GeneGuessrがバイオ教育と探索を変える理由
 
 ## 要約

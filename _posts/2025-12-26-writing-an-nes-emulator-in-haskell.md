@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Writing an NES emulator in Haskell"
-date: 2025-12-26T08:10:58.479Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://arthi-chaud.github.io/posts/funes/"
-source_title: "Writing an NES emulator in Haskell"
+title: Writing an NES emulator in Haskell
+date: 2025-12-26 08:10:58.479000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://arthi-chaud.github.io/posts/funes/
+source_title: Writing an NES emulator in Haskell | Arthur Jamet
 source_id: 1158045137
-excerpt: "HaskellでNESを再現し、関数型設計で性能と実装手法を探る挑戦記"
+excerpt: HaskellでNESを再現し、関数型設計で性能と実装手法を探る挑戦記
 ---
-
 # HaskellでNESをエミュレートする意味 — FuNesが示す「関数型でハードを表現する」挑戦
 
 ## 要約

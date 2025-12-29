@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "I  built a free tool to compare inference costs across providers (Fireworks, Together, Groq, etc.)"
-date: 2025-12-28T04:18:01.113Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "http://calculator.snackai.dev"
-source_title: "I  built a free tool to compare inference costs across providers (Fireworks, Together, Groq, etc.)"
+title: I  built a free tool to compare inference costs across providers (Fireworks,
+  Together, Groq, etc.)
+date: 2025-12-28 04:18:01.113000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: http://calculator.snackai.dev
+source_title: Snack - Inference Cost Calculator
 source_id: 436465912
-excerpt: "無料ツールでFireworks/Together/Groq等の推論コストを即比較、最適候補が判明"
+excerpt: 無料ツールでFireworks/Together/Groq等の推論コストを即比較、最適候補が判明
 ---
-
 # 知らなきゃ損！無料ツールでLLM推論コストを瞬時比較 — Fireworks / Together / Groq 対応
 
 ## 要約

@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "SIMD City: Auto-Vectorisation"
-date: 2025-12-27T06:40:21.391Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://xania.org/202512/20-simd-city"
-source_title: "SIMD City: Auto-Vectorisation"
+title: 'SIMD City: Auto-Vectorisation'
+date: 2025-12-27 06:40:21.391000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://xania.org/202512/20-simd-city
+source_title: 'SIMD City: Auto-vectorisation — Matt Godbolt’s blog'
 source_id: 46336019
-excerpt: "この記事の詳細をチェック"
+excerpt: この記事の詳細をチェック
 ---
-
 # SIMDで一度に8個を支配する — コンパイラの自動ベクトル化を読み解く
 
 ## 要約

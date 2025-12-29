@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Steve wants us to make the Macintosh boot faster"
-date: 2025-12-26T16:41:13.477Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.folklore.org/Saving_Lives.html"
-source_title: "Steve wants us to make the Macintosh boot faster"
+title: Steve wants us to make the Macintosh boot faster
+date: 2025-12-26 16:41:13.477000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.folklore.org/Saving_Lives.html
+source_title: 'Folklore.org: Saving Lives'
 source_id: 46392538
-excerpt: "ジョブズが起動を10秒短縮させた実話と、企業で使える起動最適化の手法"
+excerpt: ジョブズが起動を10秒短縮させた実話と、企業で使える起動最適化の手法
 ---
-
 # 5百万×10秒＝「命を救う」起動短縮――スティーブがMacのブートを急かした理由
 
 ## 要約

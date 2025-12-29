@@ -1,14 +1,18 @@
 ---
 layout: post
-title: "From Idea to Launch: How Developers Can Build Successful Startups"
-date: 2025-12-26T03:57:52.328Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://dev.to/thebitforge/from-idea-to-launch-how-developers-can-build-successful-startups-50dk"
-source_title: "From Idea to Launch: How Developers Can Build Successful Startups"
+title: 'From Idea to Launch: How Developers Can Build Successful Startups'
+date: 2025-12-26 03:57:52.328000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://dev.to/thebitforge/from-idea-to-launch-how-developers-can-build-successful-startups-50dk
+source_title: 'From Idea to Launch: How Developers Can Build Successful Startups -
+  DEV Community'
 source_id: 3118928
 ---
-
 # エンジニアが知るべき「作る力」と「売る力」の分岐点 — アイデアからローンチまでの実践ガイド
 
 ## 要約

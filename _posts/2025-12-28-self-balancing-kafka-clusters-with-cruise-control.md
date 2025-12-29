@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Self-balancing Kafka Clusters with Cruise Control"
-date: 2025-12-28T18:18:32.563Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://cefboud.com/posts/kafka-cruise-control/"
-source_title: "Self-balancing Kafka Clusters with Cruise Control"
+title: Self-balancing Kafka Clusters with Cruise Control
+date: 2025-12-28 18:18:32.563000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://cefboud.com/posts/kafka-cruise-control/
+source_title: Exploring Kafka Cruise Control | Moncef Abboud
 source_id: 435994260
-excerpt: "Cruise ControlでKafkaの偏りを自動検知・修復、手を動かす導入手順付き"
+excerpt: Cruise ControlでKafkaの偏りを自動検知・修復、手を動かす導入手順付き
 ---
-
 # Kafkaクラスタを“放置しない”運用へ：LinkedIn製 Cruise Controlで自動バランスを実現する方法
 
 ## 要約

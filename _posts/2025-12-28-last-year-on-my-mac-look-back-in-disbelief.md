@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Last Year on My Mac: Look Back in Disbelief"
-date: 2025-12-28T16:17:39.317Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/"
-source_title: "Last Year on My Mac: Look Back in Disbelief"
+title: 'Last Year on My Mac: Look Back in Disbelief'
+date: 2025-12-28 16:17:39.317000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://eclecticlight.co/2025/12/28/last-year-on-my-mac-look-back-in-disbelief/
+source_title: 'Last Year on My Mac: Look back in disbelief – The Eclectic Light Company'
 source_id: 46409969
-excerpt: "macOS TahoeのUI刷新が視認性とアクセシビリティを損ない、開発と導入を混乱させる"
+excerpt: macOS TahoeのUI刷新が視認性とアクセシビリティを損ない、開発と導入を混乱させる
 ---
-
 # あなたのMac、見づらくなっていませんか？ macOS Tahoeの「Liquid Glass」が壊した使いやすさ
 
 ## 要約

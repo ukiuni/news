@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Show: Twine - A tool to dynamically trace calls in production Elixir systems"
-date: 2025-12-26T21:07:34.875Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://github.com/ollien/twine"
-source_title: "Show: Twine - A tool to dynamically trace calls in production Elixir systems"
+title: 'Show: Twine - A tool to dynamically trace calls in production Elixir systems'
+date: 2025-12-26 21:07:34.875000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://github.com/ollien/twine
+source_title: 'GitHub - ollien/twine: Trace calls in Elixir processes'
 source_id: 1601729135
-excerpt: "本番稼働中のElixirを安全に“生で覗き”、関数呼び出しを絞って即座に原因特定できるTwineツール紹介"
+excerpt: 本番稼働中のElixirを安全に“生で覗き”、関数呼び出しを絞って即座に原因特定できるTwineツール紹介
 ---
-
 # 本番稼働中のElixirを“生で覗く” — Twineで安全に関数呼び出しをトレースする方法
 
 ## 要約

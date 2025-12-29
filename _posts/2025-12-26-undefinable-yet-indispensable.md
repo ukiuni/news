@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Undefinable yet Indispensable"
-date: 2025-12-26T13:59:48.086Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://aeon.co/essays/the-word-religion-resists-definition-but-remains-necessary"
-source_title: "Undefinable yet Indispensable"
+title: Undefinable yet Indispensable
+date: 2025-12-26 13:59:48.086000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://aeon.co/essays/the-word-religion-resists-definition-but-remains-necessary
+source_title: The word ‘religion’ resists definition but remains necessary | Aeon
+  Essays
 source_id: 46391744
-excerpt: "宗教は定義できないが、多文化プロダクト向けに誤分類や差別を防ぐデータ設計と運用指針を解説"
+excerpt: 宗教は定義できないが、多文化プロダクト向けに誤分類や差別を防ぐデータ設計と運用指針を解説
 ---
-
 # 「宗教」は定義できないのにデータ化は必要──テック視点で学ぶ“カテゴリ化”の罠
 
 ## 要約

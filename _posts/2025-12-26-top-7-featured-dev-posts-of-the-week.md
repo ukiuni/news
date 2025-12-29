@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Top 7 Featured DEV Posts of the Week"
-date: 2025-12-26T04:05:28.729Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l"
-source_title: "Top 7 Featured DEV Posts of the Week"
+title: Top 7 Featured DEV Posts of the Week
+date: 2025-12-26 04:05:28.729000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l
+source_title: Top 7 Featured DEV Posts of the Week - DEV Community
 source_id: 3123504
 ---
-
 # 今週のDEVトップ7：Vibe Codingの落とし穴と、40倍速いLLMゲートウェイまで押さえるべき短観
 
 ## 要約

@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Prompt Injection Isn’t a Prompting Problem, It’s an Authority Problem"
-date: 2025-12-27T11:41:42.025Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://zenodo.org/records/18067959"
-source_title: "Prompt Injection Isn’t a Prompting Problem, It’s an Authority Problem"
+title: Prompt Injection Isn’t a Prompting Problem, It’s an Authority Problem
+date: 2025-12-27 11:41:42.025000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://zenodo.org/records/18067959
+source_title: 'Authority Separation in AI Systems: Structural Guarantees Across Security,
+  Epistemics, Economics, and Safety'
 source_id: 436977835
-excerpt: "プロンプト注入を防ぐ「実行権限分離」設計でAIの安全と運用コストを一挙に守る方法"
+excerpt: プロンプト注入を防ぐ「実行権限分離」設計でAIの安全と運用コストを一挙に守る方法
 ---
-
 # Prompt Injectionは「プロンプト」の問題ではない――実行権限分離でAIの安全と信頼を取り戻す
 
 ## 要約

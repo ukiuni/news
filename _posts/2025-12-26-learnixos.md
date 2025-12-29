@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "LearnixOS"
-date: 2025-12-26T14:29:31.667Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.learnix-os.com"
-source_title: "LearnixOS"
+title: LearnixOS
+date: 2025-12-26 14:29:31.667000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.learnix-os.com
+source_title: Introduction - The LearnixOS Book
 source_id: 46391599
-excerpt: "Rustでブートからファイルシステム、シェルまで自前OSを段階的に作れる実践ガイド"
+excerpt: Rustでブートからファイルシステム、シェルまで自前OSを段階的に作れる実践ガイド
 ---
-
 # LearnixOSで「自分だけのOS」を作る旅に出よう — RustでPOSIX準拠OSを一緒に実装する本
 
 ## 要約

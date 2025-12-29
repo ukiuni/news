@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "QNX Self-Hosted Developer Desktop"
-date: 2025-12-27T03:05:45.202Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/"
-source_title: "QNX Self-Hosted Developer Desktop"
+title: QNX Self-Hosted Developer Desktop
+date: 2025-12-27 03:05:45.202000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://devblog.qnx.com/qnx-self-hosted-developer-desktop-initial-release/
+source_title: QNX Self-Hosted Developer Desktop -- Initial Release
 source_id: 46398201
-excerpt: "QNX8.0をQEMUで自己完結的にローカル実行・開発でき、クロス不要で即プロト検証可能"
+excerpt: QNX8.0をQEMUで自己完結的にローカル実行・開発でき、クロス不要で即プロト検証可能
 ---
-
 # QNXが“自己ホスト型”開発デスクトップを初公開 — クロスコンパイル不要でQNX 8.0をローカルで動かす
 
 ## 要約

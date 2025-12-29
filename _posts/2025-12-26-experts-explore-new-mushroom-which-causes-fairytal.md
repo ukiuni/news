@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations"
-date: 2025-12-26T19:29:43.629Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations"
-source_title: "Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations"
+title: Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations
+date: 2025-12-26 19:29:43.629000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations
+source_title: Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations
+  | Natural History Museum of Utah
 source_id: 46393936
-excerpt: "市場で発見された新種きのこが小人幻覚を誘発、薬理と安全性を揺るがす可能性"
+excerpt: 市場で発見された新種きのこが小人幻覚を誘発、薬理と安全性を揺るがす可能性
 ---
-
 # 幻想がテーブルで踊るきのこ──新種「Lanmaoa asiatica」が示すサイエンスとリスク
 
 ## 要約

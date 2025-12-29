@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "pre-commit hooks are fundamentally broken"
-date: 2025-12-27T04:38:21.064Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/"
-source_title: "pre-commit hooks are fundamentally broken"
+title: pre-commit hooks are fundamentally broken
+date: 2025-12-27 04:38:21.064000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/
+source_title: pre-commit hooks are fundamentally broken
 source_id: 986890068
-excerpt: "pre-commitの自動整形がコミットやリベースを壊す原因と対策を実例で提示"
+excerpt: pre-commitの自動整形がコミットやリベースを壊す原因と対策を実例で提示
 ---
-
 # pre-commitフックは本当に壊れているのか？rustfmtが突きつけた「実務の穴」
 
 ## 要約

@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "What was your win this week???"
-date: 2025-12-26T04:02:11.790Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://dev.to/devteam/what-was-your-win-this-week-1d6c"
-source_title: "What was your win this week???"
+title: What was your win this week???
+date: 2025-12-26 04:02:11.790000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://dev.to/devteam/what-was-your-win-this-week-1d6c
+source_title: What was your win this week??? - DEV Community
 source_id: 3055168
 ---
-
 # 「今週の“勝ち”を教えて」――開発者コミュニティでモチベーションを保つ“週次の勝利”習慣
 
 ## 要約

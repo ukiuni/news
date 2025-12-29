@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "High School Student Discovers 1.5M Potential New Astronomical Objects"
-date: 2025-12-26T15:29:35.585Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/"
-source_title: "High School Student Discovers 1.5M Potential New Astronomical Objects"
+title: High School Student Discovers 1.5M Potential New Astronomical Objects
+date: 2025-12-26 15:29:35.585000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.smithsonianmag.com/smart-news/high-school-student-discovers-1-5-million-potential-new-astronomical-objects-by-developing-an-ai-algorithm-180986429/
+source_title: High School Student Discovers 1.5 Million Potential New Astronomical
+  Objects by Developing an A.I. Algorithm
 source_id: 46392815
-excerpt: "18歳がNEOWISEの2000億行をAI解析し、約150万の新天体候補を抽出したVarWISE公開"
+excerpt: 18歳がNEOWISEの2000億行をAI解析し、約150万の新天体候補を抽出したVarWISE公開
 ---
-
 # 18歳のAIが宇宙を“再発見”した日：NEOWISEの2000億行を解析して150万の天体候補を炙り出した手法
 
 ## 要約

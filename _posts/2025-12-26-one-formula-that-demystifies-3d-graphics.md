@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "One Formula That Demystifies 3D Graphics"
-date: 2025-12-26T03:56:35.394Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.youtube.com/watch?v=qjWkNZ0SXfo"
-source_title: "One Formula That Demystifies 3D Graphics"
+title: One Formula That Demystifies 3D Graphics
+date: 2025-12-26 03:56:35.394000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.youtube.com/watch?v=qjWkNZ0SXfo
+source_title: One Formula That Demystifies 3D Graphics - YouTube
 source_id: 438480949
 ---
-
 # たった1式で3Dが腑に落ちる — レンダリング方程式で理解する光の流れ
 
 ## 要約

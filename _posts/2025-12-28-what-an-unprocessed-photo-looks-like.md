@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "What an unprocessed photo looks like"
-date: 2025-12-28T23:17:45.077Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://maurycyz.com/misc/raw_photo/"
-source_title: "What an unprocessed photo looks like"
+title: What an unprocessed photo looks like
+date: 2025-12-28 23:17:45.077000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://maurycyz.com/misc/raw_photo/
+source_title: 'What an unprocessed photo looks like: (Maurycy''s blog)'
 source_id: 46415225
-excerpt: "RAW生データが示すありのままの画と、ベイヤーやWB、ガンマなど現像の核心を解説"
+excerpt: RAW生データが示すありのままの画と、ベイヤーやWB、ガンマなど現像の核心を解説
 ---
-
 # カメラの「生の視界」を覗く — RAWセンサーが捉える“ありのまま”の写真と現像の舞台裏
 
 ## 要約

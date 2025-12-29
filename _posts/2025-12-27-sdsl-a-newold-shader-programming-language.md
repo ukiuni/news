@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "SDSL : a new/old shader programming language"
-date: 2025-12-27T13:42:50.380Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.stride3d.net/blog/"
-source_title: "SDSL : a new/old shader programming language"
+title: 'SDSL : a new/old shader programming language'
+date: 2025-12-27 13:42:50.380000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.stride3d.net/blog/
+source_title: Blog - Stride Game Engine
 source_id: 436963096
-excerpt: "StrideのSDSLは低メモリ・高性能な式パーサでSPIR‑V連携を目指す新旧折衷のシェーダ言語だ"
+excerpt: StrideのSDSLは低メモリ・高性能な式パーサでSPIR‑V連携を目指す新旧折衷のシェーダ言語だ
 ---
-
 # 新旧のいいとこ取りで描く“次世代シェーダ言語”──SDSLが示すパフォーマンスと実装の勘所
 
 ## 要約

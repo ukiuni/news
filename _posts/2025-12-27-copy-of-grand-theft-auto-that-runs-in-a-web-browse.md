@@ -1,15 +1,23 @@
 ---
 layout: post
-title: "Copy of Grand Theft Auto that runs in a web browser gets taken down by DMCA — Take-Two Interactive says DOS Zone infringed company’s intellectual property rights despite disclaimers and requirement to own original copy of title for full game"
-date: 2025-12-27T07:39:15.242Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.tomshardware.com/video-games/browser-run-copy-of-grand-theft-auto-gets-taken-down-by-dcma-take-two-says-dos-zone-infringed-companys-intellectual-property-rights-despite-disclaimers-and-requirement-to-own-original-copy-of-title-to-run-full-game-online"
-source_title: "Copy of Grand Theft Auto that runs in a web browser gets taken down by DMCA — Take-Two Interactive says DOS Zone infringed company’s intellectual property rights despite disclaimers and requirement to own original copy of title for full game"
+title: Copy of Grand Theft Auto that runs in a web browser gets taken down by DMCA
+  — Take-Two Interactive says DOS Zone infringed company’s intellectual property rights
+  despite disclaimers and requirement to own original copy of title for full game
+date: 2025-12-27 07:39:15.242000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.tomshardware.com/video-games/browser-run-copy-of-grand-theft-auto-gets-taken-down-by-dcma-take-two-says-dos-zone-infringed-companys-intellectual-property-rights-despite-disclaimers-and-requirement-to-own-original-copy-of-title-to-run-full-game-online
+source_title: Copy of Grand Theft Auto that runs in a web browser gets taken down
+  by DMCA — Take Two says DOS Zone infringed company’s intellectual property rights
+  despite disclaimers and requirement to own original copy of title for full game
+  | Tom's Hardware
 source_id: 437144199
-excerpt: "ブラウザで動くGTAがDMCAで削除され、レトロ保存と権利問題の課題が浮上"
+excerpt: ブラウザで動くGTAがDMCAで削除され、レトロ保存と権利問題の課題が浮上
 ---
-
 # 「ブラウザで動くGTA」消滅──エミュ／レトロ保存と権利の狭間で起きた一件の教訓
 
 ## 要約

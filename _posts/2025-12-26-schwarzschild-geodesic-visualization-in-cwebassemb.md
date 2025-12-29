@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Schwarzschild Geodesic Visualization in C++/WebAssembly"
-date: 2025-12-26T04:07:51.575Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://schwarzschild-vercel.vercel.app/"
-source_title: "Schwarzschild Geodesic Visualization in C++/WebAssembly"
+title: Schwarzschild Geodesic Visualization in C++/WebAssembly
+date: 2025-12-26 04:07:51.575000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://schwarzschild-vercel.vercel.app/
+source_title: Schwarzschild Geodesics | Advanced Simulation
 source_id: 438037009
 ---
-
 # ブラックホールの「陰」と光の舞いを可視化する — C++/WebAssemblyで動くシュワルツシルト測地線トレーサーを遊んでみよう
 
 ## 要約

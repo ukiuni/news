@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "We “solved” C10K years ago yet we keep reinventing it"
-date: 2025-12-26T03:53:31.778Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.kegel.com/c10k.html"
-source_title: "We “solved” C10K years ago yet we keep reinventing it"
+title: We “solved” C10K years ago yet we keep reinventing it
+date: 2025-12-26 03:53:31.778000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.kegel.com/c10k.html
+source_title: The C10K problem
 source_id: 439824831
 ---
-
 # C10Kは本当に「解決」されたのか？──10,000接続を本気で支える現代的ロードマップ
 
 ## 要約

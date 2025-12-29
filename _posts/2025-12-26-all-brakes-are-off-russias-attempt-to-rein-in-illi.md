@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "‘All brakes are off’: Russia’s attempt to rein in illicit market for leaked data backfires"
-date: 2025-12-26T13:36:41.989Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.theguardian.com/world/2025/dec/26/russia-selling-personal-data-leaks-probiv-ukraine-spies"
-source_title: "‘All brakes are off’: Russia’s attempt to rein in illicit market for leaked data backfires"
+title: '‘All brakes are off’: Russia’s attempt to rein in illicit market for leaked
+  data backfires'
+date: 2025-12-26 13:36:41.989000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.theguardian.com/world/2025/dec/26/russia-selling-personal-data-leaks-probiv-ukraine-spies
+source_title: '‘All brakes are off’: Russia’s attempt to rein in illicit market for
+  leaked data backfires | Russia | The Guardian'
 source_id: 439052039
-excerpt: "摘発で分散化したprobiv市場が地下化し海外諜報や詐欺に利用拡大"
+excerpt: 摘発で分散化したprobiv市場が地下化し海外諜報や詐欺に利用拡大
 ---
-
 # 国が潰そうとしたら逆に拡散？ ロシアの「probiv」流出データ市場が示す危機と教訓
 
 ## 要約

@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Why iOS app monetization (IAP) is hard to learn as a system"
-date: 2025-12-27T13:42:08.047Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/en/article/main.md"
-source_title: "Why iOS app monetization (IAP) is hard to learn as a system"
+title: Why iOS app monetization (IAP) is hard to learn as a system
+date: 2025-12-27 13:42:08.047000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://github.com/mnrj-vv-w/developer-experience-paper/blob/main/en/article/main.md
+source_title: developer-experience-paper/en/article/main.md at main · mnrj-vv-w/developer-experience-paper
+  · GitHub
 source_id: 436908879
-excerpt: "IAPはStoreKit・サーバー・運用規則が絡む実践必須の複雑系—失敗を避けるチェックリスト付き"
+excerpt: IAPはStoreKit・サーバー・運用規則が絡む実践必須の複雑系—失敗を避けるチェックリスト付き
 ---
-
 # iOS IAPが「体系的に」学べない本当の理由 — 開発者が直面する落とし穴と即実践できる対策
 
 ## 要約

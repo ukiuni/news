@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "ChatGPT conversations still lack timestamps after years of requests"
-date: 2025-12-26T14:27:45.597Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3"
-source_title: "ChatGPT conversations still lack timestamps after years of requests"
+title: ChatGPT conversations still lack timestamps after years of requests
+date: 2025-12-26 14:27:45.597000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3
+source_title: Timestamps for chats in ChatGPT - Page 3 - Feature requests - OpenAI
+  Developer Community
 source_id: 46391472
-excerpt: "ChatGPTは会話に時刻が表示されず、コミュニティの即効回避策と業務運用の注意点を紹介"
+excerpt: ChatGPTは会話に時刻が表示されず、コミュニティの即効回避策と業務運用の注意点を紹介
 ---
-
 # ChatGPTの「いつ」が見えない不便 — コミュニティが作った裏ワザと日本の現場での使いどころ
 
 ## 要約

@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Learn computer graphics from scratch and for free"
-date: 2025-12-28T19:17:55.444Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.scratchapixel.com"
-source_title: "Learn computer graphics from scratch and for free"
+title: Learn computer graphics from scratch and for free
+date: 2025-12-28 19:17:55.444000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.scratchapixel.com
+source_title: Scratchapixel
 source_id: 46410210
-excerpt: "無料でミニマルなレイトレーサからBVH・BRDFまで実装で学べるCG最短ルート"
+excerpt: 無料でミニマルなレイトレーサからBVH・BRDFまで実装で学べるCG最短ルート
 ---
-
 # ゼロからCGを“無料で”極める最短ルート：Scratchapixel徹底ガイド
 
 ## 要約

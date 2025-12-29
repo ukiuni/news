@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Gaussian Splatting 3 Ways"
-date: 2025-12-26T20:53:19.827Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://github.com/NullandKale/NullSplats"
-source_title: "Gaussian Splatting 3 Ways"
+title: Gaussian Splatting 3 Ways
+date: 2025-12-26 20:53:19.827000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://github.com/NullandKale/NullSplats
+source_title: GitHub - NullandKale/NullSplats
 source_id: 46395273
-excerpt: "動画や画像から撮って数分で立体化、ワークフロー解説と3方式のGaussian Splattingを実例で高速比較"
+excerpt: 動画や画像から撮って数分で立体化、ワークフロー解説と3方式のGaussian Splattingを実例で高速比較
 ---
-
 # [撮ってそのまま3分で立体化？Gaussian Splattingを「3通り」で試すNullSplats紹介]
 
 ## 要約

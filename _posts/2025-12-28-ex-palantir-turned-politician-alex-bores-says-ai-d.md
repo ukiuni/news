@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Ex-Palantir turned politician Alex Bores says AI deepfakes are a \"solvable problem\" if we bring back a free, decades-old technique widespread adoption of HTTPS—using digital certificates to verify that a website is authentic"
-date: 2025-12-28T01:09:22.307Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://fortune.com/2025/12/27/alex-bores-ai-deepfakes-solvable-problem-c2pa-free-open-source-standard/"
-source_title: "Ex-Palantir turned politician Alex Bores says AI deepfakes are a \"solvable problem\" if we bring back a free, decades-old technique widespread adoption of HTTPS—using digital certificates to verify that a website is authentic"
+title: Ex-Palantir turned politician Alex Bores says AI deepfakes are a "solvable
+  problem" if we bring back a free, decades-old technique widespread adoption of HTTPS—using
+  digital certificates to verify that a website is authentic
+date: 2025-12-28 01:09:22.307000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://fortune.com/2025/12/27/alex-bores-ai-deepfakes-solvable-problem-c2pa-free-open-source-standard/
+source_title: Ex-Palantir turned politician Alex Bores says AI deepfakes are a 'solvable
+  problem' if we bring back a free, decades-old technique | Fortune
 source_id: 437894374
-excerpt: "元Palantir議員がC2PA普及で深層偽造の被害を大幅に減らせると主張"
+excerpt: 元Palantir議員がC2PA普及で深層偽造の被害を大幅に減らせると主張
 ---
-
 # 深層偽造（ディープフェイク）は本当に「解決可能」か？元Palantir議員が提示する“HTTPS的”C2PA解決策
 
 ## 要約

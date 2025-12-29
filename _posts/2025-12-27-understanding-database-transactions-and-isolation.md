@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Understanding Database transactions and Isolation Levels"
-date: 2025-12-27T11:41:05.652Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://shbhmrzd.github.io/databases/transactions/isolation-levels/2025/12/26/understanding-database-isolation-levels.html"
-source_title: "Understanding Database transactions and Isolation Levels"
+title: Understanding Database transactions and Isolation Levels
+date: 2025-12-27 11:41:05.652000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://shbhmrzd.github.io/databases/transactions/isolation-levels/2025/12/26/understanding-database-isolation-levels.html
+source_title: Understanding Database Transactions and Isolation Levels | Shubham Raizada’s
+  Blog
 source_id: 436972282
-excerpt: "高並列サービスで在庫・残高の不整合を防ぐ分離レベル選択と実践指針を短く解説"
+excerpt: 高並列サービスで在庫・残高の不整合を防ぐ分離レベル選択と実践指針を短く解説
 ---
-
 # 同時実行の落とし穴を避ける — データベース分離レベルを速攻で理解する
 
 ## 要約

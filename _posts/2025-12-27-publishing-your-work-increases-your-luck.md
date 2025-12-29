@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Publishing your work increases your luck"
-date: 2025-12-27T04:06:21.342Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://github.com/readme/guides/publishing-your-work"
-source_title: "Publishing your work increases your luck"
+title: Publishing your work increases your luck
+date: 2025-12-27 04:06:21.342000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://github.com/readme/guides/publishing-your-work
+source_title: Publishing your work increases your luck · GitHub
 source_id: 46397991
-excerpt: "作品を公開して求人・コラボ・登壇などの運を増やす、即実践できる具体手順"
+excerpt: 作品を公開して求人・コラボ・登壇などの運を増やす、即実践できる具体手順
 ---
-
 # 公開するほど「運」が増える理由 — エンジニアが今すぐ始めるパブリッシュ戦略
 
 ## 要約

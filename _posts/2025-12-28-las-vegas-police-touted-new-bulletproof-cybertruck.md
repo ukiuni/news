@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "Las Vegas Police Touted New “Bulletproof” Cybertrucks. The Only Problem? They Aren’t Bulletproof"
-date: 2025-12-28T14:26:17.209Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://fuelarc.com/cars/las-vegas-police-force-touted-new-bulletproof-cybertrucks-the-only-problem-they-arent-bulletproof/"
-source_title: "Las Vegas Police Touted New “Bulletproof” Cybertrucks. The Only Problem? They Aren’t Bulletproof"
+title: Las Vegas Police Touted New “Bulletproof” Cybertrucks. The Only Problem? They
+  Aren’t Bulletproof
+date: 2025-12-28 14:26:17.209000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://fuelarc.com/cars/las-vegas-police-force-touted-new-bulletproof-cybertrucks-the-only-problem-they-arent-bulletproof/
+source_title: Las Vegas Police Touted New “Bulletproof” Cybertrucks. The Only Problem?
+  They Aren’t Bulletproof. - FuelArc News
 source_id: 436188790
-excerpt: "防弾とされたラスベガスのCybertruck、窓やドアは実弾で貫通され安全性は宣伝と乖離"
+excerpt: 防弾とされたラスベガスのCybertruck、窓やドアは実弾で貫通され安全性は宣伝と乖離
 ---
-
 # ラスベガス警察の「防弾サイバートラック」は本当に安全か？――宣伝と実態のギャップを掘る
 
 ## 要約

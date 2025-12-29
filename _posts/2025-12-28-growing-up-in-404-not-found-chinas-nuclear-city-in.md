@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Growing up in \"404 Not Found\": China's nuclear city in the Gobi Desert"
-date: 2025-12-28T11:15:31.800Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://substack.com/inbox/post/182743659"
-source_title: "Growing up in \"404 Not Found\": China's nuclear city in the Gobi Desert"
+title: 'Growing up in "404 Not Found": China''s nuclear city in the Gobi Desert'
+date: 2025-12-28 11:15:31.800000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://substack.com/inbox/post/182743659
+source_title: 'Error 404: Life in a Secret Chinese Nuclear City That Was Never on
+  the Map'
 source_id: 46408988
-excerpt: "ゴビ砂漠の秘匿核都市を衛星とOSINTで暴き、国家安全と倫理の課題を浮かび上がらせる"
+excerpt: ゴビ砂漠の秘匿核都市を衛星とOSINTで暴き、国家安全と倫理の課題を浮かび上がらせる
 ---
-
 # 「404 Not Found」を生きる――ゴビ砂漠の“秘密”核都市が突きつけるテックの問い
 
 ## 要約

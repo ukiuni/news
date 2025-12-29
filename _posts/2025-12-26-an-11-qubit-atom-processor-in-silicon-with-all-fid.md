@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%"
-date: 2025-12-26T14:29:01.098Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.nature.com/articles/s41586-025-09827-w"
-source_title: "An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%"
+title: An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%
+date: 2025-12-26 14:29:01.098000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.nature.com/articles/s41586-025-09827-w
+source_title: An 11-qubit atom processor in silicon | Nature
 source_id: 46344222
-excerpt: "シリコン上の11量子ビット原子プロセッサが99.10〜99.99%の高忠実度ゲートと8核GHZを実証"
+excerpt: シリコン上の11量子ビット原子プロセッサが99.10〜99.99%の高忠実度ゲートと8核GHZを実証
 ---
-
 # シリコン上で「ほぼ完璧」な量子ゲートを実現──11量子ビット原子プロセッサが示す次の一手
 
 ## 要約

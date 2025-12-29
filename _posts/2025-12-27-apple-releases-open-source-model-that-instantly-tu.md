@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Apple releases open-source model that instantly turns 2D photos into 3D views"
-date: 2025-12-27T14:39:15.856Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://github.com/apple/ml-sharp"
-source_title: "Apple releases open-source model that instantly turns 2D photos into 3D views"
+title: Apple releases open-source model that instantly turns 2D photos into 3D views
+date: 2025-12-27 14:39:15.856000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://github.com/apple/ml-sharp
+source_title: 'GitHub - apple/ml-sharp: Sharp Monocular View Synthesis in Less Than
+  a Second'
 source_id: 46401539
-excerpt: "AppleのSHARPで単一写真が1秒で高品質3Dビューに、ARやECで即活用可能"
+excerpt: AppleのSHARPで単一写真が1秒で高品質3Dビューに、ARやECで即活用可能
 ---
-
 # 1枚の写真が1秒で「触れる3D」へ──AppleのSHARPがもたらすリアルタイム視点合成革命
 
 ## 要約

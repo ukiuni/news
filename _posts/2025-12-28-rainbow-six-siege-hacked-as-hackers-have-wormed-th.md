@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "Rainbow Six Siege hacked, as hackers have wormed their way into the game's systems and rewarded everyone with two billion credits, while also hijacking the log to throw digs at Ubisoft, jokingly 'banning' all employees for \"toxic behavior\" and even musing that Yves Guillemot was on Epstein's island."
-date: 2025-12-28T01:10:46.156Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.thegamer.com/rainbow-six-siege-hack/"
-source_title: "Rainbow Six Siege hacked, as hackers have wormed their way into the game's systems and rewarded everyone with two billion credits, while also hijacking the log to throw digs at Ubisoft, jokingly 'banning' all employees for \"toxic behavior\" and even musing that Yves Guillemot was on Epstein's island."
+title: Rainbow Six Siege hacked, as hackers have wormed their way into the game's
+  systems and rewarded everyone with two billion credits, while also hijacking the
+  log to throw digs at Ubisoft, jokingly 'banning' all employees for "toxic behavior"
+  and even musing that Yves Guillemot was on Epstein's island.
+date: 2025-12-28 01:10:46.156000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.thegamer.com/rainbow-six-siege-hack/
+source_title: Rainbow Six Siege X Suffers Major Hack, Ubisoft Is "Working On A Resolution"
 source_id: 436639583
-excerpt: "R6』が大規模ハック、全員に20億クレジット付与され市場停止・運営中傷ログ改竄"
+excerpt: R6』が大規模ハック、全員に20億クレジット付与され市場停止・運営中傷ログ改竄
 ---
-
 # 『レインボーシックス シージ』が大規模ハック——全プレイヤーに20億クレジット配布、マーケット即時停止の緊急事態
 
 ## 要約

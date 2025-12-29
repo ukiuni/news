@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Remembering Lou Gerstner"
-date: 2025-12-28T20:18:10.936Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner"
-source_title: "Remembering Lou Gerstner"
+title: Remembering Lou Gerstner
+date: 2025-12-28 20:18:10.936000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner
+source_title: Remembering Lou Gerstner
 source_id: 46413365
-excerpt: "顧客起点でIBMを再生したゲルストナー流の組織と会議改革の実践術、今すぐ使える"
+excerpt: 顧客起点でIBMを再生したゲルストナー流の組織と会議改革の実践術、今すぐ使える
 ---
-
 # 伝説の「顧客起点」で企業を救った男──ルー・ゲルストナーが残したテック企業の教科書
 
 ## 要約

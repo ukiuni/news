@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Nvidia insists it isn’t Enron, but its AI deals are testing investor faith"
-date: 2025-12-28T16:16:25.712Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.theguardian.com/technology/2025/dec/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are-testing-investor-faith"
-source_title: "Nvidia insists it isn’t Enron, but its AI deals are testing investor faith"
+title: Nvidia insists it isn’t Enron, but its AI deals are testing investor faith
+date: 2025-12-28 16:16:25.712000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.theguardian.com/technology/2025/dec/28/nvidia-insists-it-isnt-enron-but-its-ai-deals-are-testing-investor-faith
+source_title: Nvidia insists it isn’t Enron, but its AI deals are testing investor
+  faith | Nvidia | The Guardian
 source_id: 436127445
-excerpt: "NvidiaのAI向け巨額ファイナンスが投資家の信頼と財務持続性を試す"
+excerpt: NvidiaのAI向け巨額ファイナンスが投資家の信頼と財務持続性を試す
 ---
-
 # Nvidiaは本当に「Enron」ではないか？AIブームの裏で見える“丸く回る”取引構造の危うさ
 
 ## 要約

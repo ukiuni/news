@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models"
-date: 2025-12-26T06:11:48.809Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://github.com/thu-ml/TurboDiffusion"
-source_title: "TurboDiffusion: 100–200× Acceleration for Video Diffusion Models"
+title: 'TurboDiffusion: 100–200× Acceleration for Video Diffusion Models'
+date: 2025-12-26 06:11:48.809000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://github.com/thu-ml/TurboDiffusion
+source_title: 'GitHub - thu-ml/TurboDiffusion: TurboDiffusion: 100–200× Acceleration
+  for Video Diffusion Models'
 source_id: 46388907
-excerpt: "RTX5090で5秒映像を約1.9秒生成、TurboDiffusionが最大200倍高速化"
+excerpt: RTX5090で5秒映像を約1.9秒生成、TurboDiffusionが最大200倍高速化
 ---
-
 # RTX 5090で数秒生成へ──TurboDiffusionが映像生成を$100\sim200\times$加速する理由
 
 ## 要約

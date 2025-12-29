@@ -1,15 +1,22 @@
 ---
 layout: post
-title: "Building a Git-native tool to reduce manual task updates — looking for developer feedback"
-date: 2025-12-28T08:17:04.054Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://github.com/Princelad/forge"
-source_title: "Building a Git-native tool to reduce manual task updates — looking for developer feedback"
+title: Building a Git-native tool to reduce manual task updates — looking for developer
+  feedback
+date: 2025-12-28 08:17:04.054000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://github.com/Princelad/forge
+source_title: 'GitHub - Princelad/forge: Forge is a developer-first, terminal-based
+  prototype for a Git-aware project management system. It explores how version control
+  context and lightweight task tracking can coexist in a single workflow, without
+  replacing Git or enforcing heavyweight project management processes.'
 source_id: 436358259
-excerpt: "ターミナルでGit差分とタスクを統合するTUI Forgeを試そう"
+excerpt: ターミナルでGit差分とタスクを統合するTUI Forgeを試そう
 ---
-
 # ターミナルだけでタスクも差分も完結する時代へ — GitネイティブTUI「Forge」が描く開発の新常識
 
 ## 要約

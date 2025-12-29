@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Arcan 0.7.1 – Minutes To Midnight"
-date: 2025-12-27T11:39:32.206Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/"
-source_title: "Arcan 0.7.1 – Minutes To Midnight"
+title: Arcan 0.7.1 – Minutes To Midnight
+date: 2025-12-27 11:39:32.206000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/
+source_title: Arcan 0.7.1 – Minutes To Midnight | Arcan
 source_id: 1152865091
-excerpt: "Arcan 0.7.1：Waylandゲーム互換と接続再開、ML‑KEMで量子耐性を持つ軽量UI基盤"
+excerpt: Arcan 0.7.1：Waylandゲーム互換と接続再開、ML‑KEMで量子耐性を持つ軽量UI基盤
 ---
-
 # Arcan 0.7.1 — Waylandゲームから“量子耐性”ネットワークまで、デスクトップ環境を再発明する小さな大型アップデート
 
 ## 要約

@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Logging Sucks - And here's how to make it better."
-date: 2025-12-26T03:55:38.315Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://loggingsucks.com/"
-source_title: "Logging Sucks - And here's how to make it better."
+title: Logging Sucks - And here's how to make it better.
+date: 2025-12-26 03:55:38.315000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://loggingsucks.com/
+source_title: Logging Sucks - Your Logs Are Lying To You
 source_id: 438361913
 ---
-
 # ログは嘘をつく — その原因と「読み取れるログ」へ変える実践ガイド
 
 ## 要約

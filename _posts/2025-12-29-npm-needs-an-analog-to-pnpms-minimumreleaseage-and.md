@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "npm needs an analog to pnpm's minimumReleaseAge and yarn's npmMinimalAgeGate"
-date: 2025-12-29T01:48:49.689Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.pcloadletter.dev/blog/npm-min-release-age/"
-source_title: "npm needs an analog to pnpm&#39;s minimumReleaseAge and yarn&#39;s npmMinimalAgeGate"
+title: npm needs an analog to pnpm's minimumReleaseAge and yarn's npmMinimalAgeGate
+date: 2025-12-29 01:48:49.689000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.pcloadletter.dev/blog/npm-min-release-age/
+source_title: npm needs an analog to pnpm's minimumReleaseAge and yarn's npmMinimalAgeGate
 source_id: 436966445
-excerpt: "npmにも年齢ゲート導入を提案、公開直後の攻撃をCIで防ぐ方法"
+excerpt: npmにも年齢ゲート導入を提案、公開直後の攻撃をCIで防ぐ方法
 ---
-
 # npmにも欲しい「公開後の猶予」でサプライチェーンを守る — 新着パッケージに年齢ゲートを掛ける意味
 
 ## 要約

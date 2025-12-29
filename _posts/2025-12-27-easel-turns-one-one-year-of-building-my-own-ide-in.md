@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Easel Turns One! One year of building my own IDE in Clojure"
-date: 2025-12-27T17:42:24.170Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://blog.phronemophobic.com/easel-one-year.html"
-source_title: "Easel Turns One! One year of building my own IDE in Clojure"
+title: Easel Turns One! One year of building my own IDE in Clojure
+date: 2025-12-27 17:42:24.170000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://blog.phronemophobic.com/easel-one-year.html
+source_title: Easel Turns One!
 source_id: 1075290319
-excerpt: "ClojureでIDEをライブラリ化、ツール連携の未来を1年で示す挑戦"
+excerpt: ClojureでIDEをライブラリ化、ツール連携の未来を1年で示す挑戦
 ---
-
 # 「IDEをライブラリにする」— Clojure製Easelが描く“ツール同士がつながる”未来（1年の軌跡）
 
 ## 要約

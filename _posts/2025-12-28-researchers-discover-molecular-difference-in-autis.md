@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Researchers Discover Molecular Difference in Autistic Brains"
-date: 2025-12-28T23:44:36.462Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/"
-source_title: "Researchers Discover Molecular Difference in Autistic Brains"
+title: Researchers Discover Molecular Difference in Autistic Brains
+date: 2025-12-28 23:44:36.462000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/
+source_title: Researchers Discover Molecular Difference in Autistic Brains | Yale
+  School of Medicine
 source_id: 46415129
-excerpt: "米イェール研究：ASD成人でmGlu5低下が確認されEEGで非侵襲バイオマーカー化を示唆"
+excerpt: 米イェール研究：ASD成人でmGlu5低下が確認されEEGで非侵襲バイオマーカー化を示唆
 ---
-
 # 自閉スペクトラムの「分子地図」を見つけた──mGlu5低下が示す新たな診断と治療の道筋
 
 ## 要約

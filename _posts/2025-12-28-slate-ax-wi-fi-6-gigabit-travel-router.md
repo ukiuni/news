@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Slate AX: Wi-Fi 6 Gigabit travel router"
-date: 2025-12-28T14:27:34.637Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.gl-inet.com/products/gl-axt1800/"
-source_title: "Slate AX: Wi-Fi 6 Gigabit travel router"
+title: 'Slate AX: Wi-Fi 6 Gigabit travel router'
+date: 2025-12-28 14:27:34.637000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.gl-inet.com/products/gl-axt1800/
+source_title: GL-AXT1800 / Slate AX - GL.iNet
 source_id: 46374052
-excerpt: "Wi‑Fi6と最大560MbpsのVPNで出張先を高速・安全化するトラベルルーター"
+excerpt: Wi‑Fi6と最大560MbpsのVPNで出張先を高速・安全化するトラベルルーター
 ---
-
 # 出張・リモートで「速く」「安全」に繋がる一台 — Slate AX（GL-AXT1800）が仕事旅を変える理由
 
 ## 要約

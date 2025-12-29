@@ -1,14 +1,19 @@
 ---
 layout: post
-title: "WiFi DensePose: WiFi-based dense human pose estimation system through walls"
-date: 2025-12-26T04:30:33.410Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://github.com/ruvnet/wifi-densepose"
-source_title: "WiFi DensePose: WiFi-based dense human pose estimation system through walls"
+title: 'WiFi DensePose: WiFi-based dense human pose estimation system through walls'
+date: 2025-12-26 04:30:33.410000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://github.com/ruvnet/wifi-densepose
+source_title: 'GitHub - ruvnet/wifi-densepose: Production-ready implementation of
+  InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables
+  real-time full-body tracking through walls using commodity mesh routers'
 source_id: 46388904
 ---
-
 # 壁越しで人の全身ポーズを推定する未来──WiFiで「カメラなし」の密なポーズ推定を実現するWiFi DensePose
 
 ## 要約

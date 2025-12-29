@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "5 Terminal Commands That Saved Me Hours of Clicking"
-date: 2025-12-26T03:59:51.972Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://dev.to/maame-codes/5-terminal-commands-that-saved-me-hours-of-clicking-4mfn"
-source_title: "5 Terminal Commands That Saved Me Hours of Clicking"
+title: 5 Terminal Commands That Saved Me Hours of Clicking
+date: 2025-12-26 03:59:51.972000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://dev.to/maame-codes/5-terminal-commands-that-saved-me-hours-of-clicking-4mfn
+source_title: 5 Terminal Commands That Saved Me Hours of Clicking - DEV Community
 source_id: 3114994
 ---
-
 # クリック地獄から解放される5つのターミナル技—マウス依存を一気に断つ方法
 
 ## 要約

@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Shut Up About the Water"
-date: 2025-12-28T17:18:09.637Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://prettygoodblog.com/p/shut-up-about-the-water"
-source_title: "Shut Up About the Water"
+title: Shut Up About the Water
+date: 2025-12-28 17:18:09.637000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://prettygoodblog.com/p/shut-up-about-the-water
+source_title: Shut Up About the Water - by Joshua - Pretty Good Blog
 source_id: 46412007
-excerpt: "水や電力の問題に留まらず、AIのデータ搾取と注意経済の偽善を暴く"
+excerpt: 水や電力の問題に留まらず、AIのデータ搾取と注意経済の偽善を暴く
 ---
-
 # 「“水が原因”は言い訳だ」——AIとテック業界の偽善を斬る
 
 ## 要約

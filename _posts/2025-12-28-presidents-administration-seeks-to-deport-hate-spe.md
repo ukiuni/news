@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "President's administration seeks to deport hate speech researcher previously sued by X"
-date: 2025-12-28T22:16:36.762Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://techcrunch.com/2025/12/27/trump-administration-seeks-to-deport-hate-speech-researcher-previously-sued-by-x/"
-source_title: "President's administration seeks to deport hate speech researcher previously sued by X"
+title: President's administration seeks to deport hate speech researcher previously
+  sued by X
+date: 2025-12-28 22:16:36.762000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://techcrunch.com/2025/12/27/trump-administration-seeks-to-deport-hate-speech-researcher-previously-sued-by-x/
+source_title: Trump administration seeks to deport hate speech researcher previously
+  sued by X | TechCrunch
 source_id: 435931761
-excerpt: "米政権がXに訴えられたヘイト研究者の国外退去を追求、学術自由に緊急警報"
+excerpt: 米政権がXに訴えられたヘイト研究者の国外退去を追求、学術自由に緊急警報
 ---
-
 # 米政権が「憎悪発言」研究者を国外退去対象に──プラットフォーム監視と研究の自由に警報
 
 ## 要約

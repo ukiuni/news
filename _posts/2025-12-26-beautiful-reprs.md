@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Beautiful reprs"
-date: 2025-12-26T11:24:59.247Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://pomponchik.org/notes/beautiful-reprs/"
-source_title: "Beautiful reprs"
+title: Beautiful reprs
+date: 2025-12-26 11:24:59.247000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://pomponchik.org/notes/beautiful-reprs/
+source_title: Beautiful reprs | blinov
 source_id: 1102099719
-excerpt: "再現性ある美しいrepr生成と機密マスクでログを安全にする小型ライブラリprinto"
+excerpt: 再現性ある美しいrepr生成と機密マスクでログを安全にする小型ライブラリprinto
 ---
-
 # Pythonの表示がプロ級に変わる — 美しいreprと小さなライブラリ「printo」でデバッグとログを磨く
 
 ## 要約

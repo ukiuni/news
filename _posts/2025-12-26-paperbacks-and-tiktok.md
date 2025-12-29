@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Paperbacks and TikTok"
-date: 2025-12-26T03:58:39.131Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://calnewport.com/on-paperbacks-and-tiktok/"
-source_title: "Paperbacks and TikTok"
+title: Paperbacks and TikTok
+date: 2025-12-26 03:58:39.131000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://calnewport.com/on-paperbacks-and-tiktok/
+source_title: On Paperbacks and TikTok - Cal Newport
 source_id: 46358211
 ---
-
 # ペーパーバックからTikTokへ：断片化する注意を“市場”に変える思考法
 
 ## 要約

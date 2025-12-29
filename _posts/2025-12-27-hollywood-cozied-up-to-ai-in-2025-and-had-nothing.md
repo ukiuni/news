@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Hollywood cozied up to AI in 2025 and had nothing good to show for it"
-date: 2025-12-27T17:39:58.571Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025"
-source_title: "Hollywood cozied up to AI in 2025 and had nothing good to show for it"
+title: Hollywood cozied up to AI in 2025 and had nothing good to show for it
+date: 2025-12-27 17:39:58.571000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025
+source_title: In 2025, Hollywood cozied up to AI and had nothing good to show for
+  it | The Verge
 source_id: 436841017
-excerpt: "2025年、ハリウッドがAIに群がり著作権訴訟と期待外れの真相"
+excerpt: 2025年、ハリウッドがAIに群がり著作権訴訟と期待外れの真相
 ---
-
 # ハリウッドがAIと“蜜月”を始めた2025年――期待だけ空回りした理由
 
 ## 要約

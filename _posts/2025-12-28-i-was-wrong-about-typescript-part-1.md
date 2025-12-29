@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "I was wrong about typescript part 1"
-date: 2025-12-28T19:19:09.874Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://chefama.blog/blog/posts/i-was-wrong-about-typescript-1"
-source_title: "I was wrong about typescript part 1"
+title: I was wrong about typescript part 1
+date: 2025-12-28 19:19:09.874000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://chefama.blog/blog/posts/i-was-wrong-about-typescript-1
+source_title: Amadu's and Don'ts
 source_id: 1658036199
-excerpt: "TypeScriptの落とし穴と即効対策を実務視点で具体解説"
+excerpt: TypeScriptの落とし穴と即効対策を実務視点で具体解説
 ---
-
 # TypeScriptを見くびっていた—気付くべき限界と、今すぐできる現実的対処（前編）
 
 ## 要約

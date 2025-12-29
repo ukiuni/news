@@ -1,14 +1,21 @@
 ---
 layout: post
-title: "52 years later, only known copy of Unix v4 recovered from randomly found tape, now up and running on a system — first OS version with kernel and core utilities written in C"
-date: 2025-12-26T03:51:00.246Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.tomshardware.com/software/linux/unix-v4-recovered-from-randomly-found-tape-at-university-of-utah-only-known-copy-of-first-os-version-with-kernel-and-core-utilities-written-in-c"
-source_title: "52 years later, only known copy of Unix v4 recovered from randomly found tape, now up and running on a system — first OS version with kernel and core utilities written in C"
+title: 52 years later, only known copy of Unix v4 recovered from randomly found tape,
+  now up and running on a system — first OS version with kernel and core utilities
+  written in C
+date: 2025-12-26 03:51:00.246000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.tomshardware.com/software/linux/unix-v4-recovered-from-randomly-found-tape-at-university-of-utah-only-known-copy-of-first-os-version-with-kernel-and-core-utilities-written-in-c
+source_title: 52 years later, only known copy of Unix v4 recovered from randomly found
+  tape, now up and running on a system — first OS version with kernel and core utilities
+  written in C | Tom's Hardware
 source_id: 438157045
 ---
-
 # 「テープからよみがえった“元祖Cカーネル”──52年ぶりに発見されたUnix v4が語る“移植性”の起源」
 
 ## 要約

@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop"
-date: 2025-12-27T11:40:14.616Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop"
-source_title: "QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop"
+title: QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop
+date: 2025-12-27 11:40:14.616000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop
+source_title: QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce
+  Desktop - Phoronix
 source_id: 755149109
-excerpt: "QNX 8.0をWayland＋XfceでVM上に自己完結環境化、クロス開発を大幅短縮"
+excerpt: QNX 8.0をWayland＋XfceでVM上に自己完結環境化、クロス開発を大幅短縮
 ---
-
 # QNXが“自己完結型”デスクトップに：QNX 8.0 を Wayland＋Xfce 上で手元で動かす意味
 
 ## 要約

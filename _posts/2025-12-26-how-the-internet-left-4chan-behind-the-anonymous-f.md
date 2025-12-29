@@ -1,15 +1,20 @@
 ---
 layout: post
-title: "How the Internet Left 4chan Behind | The anonymous forum thrived when edgelord content wasn’t acceptable on more mainstream social media. Today, it can be found most anywhere."
-date: 2025-12-26T14:26:31.740Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.newyorker.com/culture/infinite-scroll/how-the-internet-left-4chan-behind"
-source_title: "How the Internet Left 4chan Behind | The anonymous forum thrived when edgelord content wasn’t acceptable on more mainstream social media. Today, it can be found most anywhere."
+title: How the Internet Left 4chan Behind | The anonymous forum thrived when edgelord
+  content wasn’t acceptable on more mainstream social media. Today, it can be found
+  most anywhere.
+date: 2025-12-26 14:26:31.740000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.newyorker.com/culture/infinite-scroll/how-the-internet-left-4chan-behind
+source_title: How the Internet Left 4chan Behind | The New Yorker
 source_id: 438988263
-excerpt: "4chan没落の真相とミーム文化が主流化した衝撃の拡散経路を暴く"
+excerpt: 4chan没落の真相とミーム文化が主流化した衝撃の拡散経路を暴く
 ---
-
 # 4chanは“地下室”に追いやられたのか？匿名カルチャーがインターネットの主流になった瞬間
 
 ## 要約

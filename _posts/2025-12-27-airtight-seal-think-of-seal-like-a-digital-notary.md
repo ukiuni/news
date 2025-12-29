@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "Airtight SEAL: Think of SEAL like a digital notary. It verifies that a file hasn't changed since it was signed, and that the signer is who they say they are."
-date: 2025-12-27T12:41:00.012Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.hackerfactor.com/blog/index.php?/archives/1082-Airtight-SEAL.html"
-source_title: "Airtight SEAL: Think of SEAL like a digital notary. It verifies that a file hasn't changed since it was signed, and that the signer is who they say they are."
+title: 'Airtight SEAL: Think of SEAL like a digital notary. It verifies that a file
+  hasn''t changed since it was signed, and that the signer is who they say they are.'
+date: 2025-12-27 12:41:00.012000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.hackerfactor.com/blog/index.php?/archives/1082-Airtight-SEAL.html
+source_title: Airtight SEAL - The Hacker Factor Blog
 source_id: 436953397
-excerpt: "DNSで署名検証する軽量デジタル公証SEAL、改ざん無効化で媒体や医療データの真正性を安価に保証"
+excerpt: DNSで署名検証する軽量デジタル公証SEAL、改ざん無効化で媒体や医療データの真正性を安価に保証
 ---
-
 # デジタル「公証人」SEALが示す——ファイル真正性をDNSで証明する新しい選択肢
 
 ## 要約

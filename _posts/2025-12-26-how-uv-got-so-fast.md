@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "How uv got so fast"
-date: 2025-12-26T19:30:15.321Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html"
-source_title: "How uv got so fast"
+title: How uv got so fast
+date: 2025-12-26 19:30:15.321000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html
+source_title: How uv got so fast | Andrew Nesbitt
 source_id: 1324045140
-excerpt: "pyprojectやPEP群×メタデータ・HTTPレンジでuvが桁違いに高速化"
+excerpt: pyprojectやPEP群×メタデータ・HTTPレンジでuvが桁違いに高速化
 ---
-
 # なぜ uv は pip より桁違いに速いのか — Rust だけでは説明できない設計の勝利
 
 ## 要約

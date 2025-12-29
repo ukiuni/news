@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Manus AI 100M USD ARR"
-date: 2025-12-28T09:14:56.436Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://manus.im/blog/manus-100m-arr"
-source_title: "Manus AI 100M USD ARR"
+title: Manus AI 100M USD ARR
+date: 2025-12-28 09:14:56.436000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://manus.im/blog/manus-100m-arr
+source_title: 'Manus Update: $100M ARR, $125M revenue run-rate'
 source_id: 46409245
-excerpt: "Manus、8か月でARR1億ドル達成、業務を任せるエージェントAIの時代へ"
+excerpt: Manus、8か月でARR1億ドル達成、業務を任せるエージェントAIの時代へ
 ---
-
 # たった8か月で100Mドル達成――Manusが示す「タスク委譲型AI」の次フェーズ
 
 ## 要約

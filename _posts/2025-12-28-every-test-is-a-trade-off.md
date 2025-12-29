@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Every Test Is a Trade-Off"
-date: 2025-12-28T23:30:29.104Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://blog.todo.space/2025/12/27/buying-the-right-test-coverage/"
-source_title: "Every Test Is a Trade-Off"
+title: Every Test Is a Trade-Off
+date: 2025-12-28 23:30:29.104000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://blog.todo.space/2025/12/27/buying-the-right-test-coverage/
+source_title: Buying the Right Test Coverage (With a Deductible) — todo.space blog
 source_id: 437067562
-excerpt: "テストは保険料にすぎない―実運用でCI負荷と効果を測り取捨選択せよ"
+excerpt: テストは保険料にすぎない―実運用でCI負荷と効果を測り取捨選択せよ
 ---
-
 # テストは「保険料」だ — 100%カバレッジの罠と賢い削り方
 
 ## 要約

@@ -1,15 +1,22 @@
 ---
 layout: post
-title: "Clair Obscur: Expedition 33 director Guillaume Brioche admits Sandfall \"tried\" AI during the J'RPG's development, but \"didn't like it\" and \"everything in the game is human made\""
-date: 2025-12-26T23:06:14.229Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-director-admits-sandfall-tried-ai-during-the-jrpgs-development-but-didnt-like-it-and-everything-in-the-game-is-human-made/"
-source_title: "Clair Obscur: Expedition 33 director Guillaume Brioche admits Sandfall \"tried\" AI during the J'RPG's development, but \"didn't like it\" and \"everything in the game is human made\""
+title: 'Clair Obscur: Expedition 33 director Guillaume Brioche admits Sandfall "tried"
+  AI during the J''RPG''s development, but "didn''t like it" and "everything in the
+  game is human made"'
+date: 2025-12-26 23:06:14.229000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-director-admits-sandfall-tried-ai-during-the-jrpgs-development-but-didnt-like-it-and-everything-in-the-game-is-human-made/
+source_title: 'Clair Obscur: Expedition 33 director admits Sandfall "tried" AI during
+  the J''RPG''s development, but "didn''t like it" and "everything in the game is
+  human made" | GamesRadar+'
 source_id: 437453821
-excerpt: "Clair Obscur開発陣がAI試用を断念、最終成果は全て人の手で制作と明言し透明性議論に火"
+excerpt: Clair Obscur開発陣がAI試用を断念、最終成果は全て人の手で制作と明言し透明性議論に火
 ---
-
 # 「AIを“試した”けど使わなかった」――Clair Obscur開発陣が示した“生成AIとの距離感”が日本のゲーム/開発現場に突きつける課題
 
 ## 要約

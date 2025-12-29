@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "Show HN: My app just won best iOS Japanese learning tool of 2025 award"
-date: 2025-12-29T00:59:59.533Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://skerritt.blog/best-japanese-learning-tools-2025-award-show/"
-source_title: "Show HN: My app just won best iOS Japanese learning tool of 2025 award"
+title: 'Show HN: My app just won best iOS Japanese learning tool of 2025 award'
+date: 2025-12-29 00:59:59.533000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://skerritt.blog/best-japanese-learning-tools-2025-award-show/
+source_title: Best Japanese Learning Tools 2025 Award Show 🏆
 source_id: 46415819
-excerpt: "遊びながら即Anki化、OCRでゲームや動画を学習コンテンツ化する最前線ツール"
+excerpt: 遊びながら即Anki化、OCRでゲームや動画を学習コンテンツ化する最前線ツール
 ---
-
 # ゲームもNetflixも“即学習化”する日本語学習ツール最前線 — 2025年版ベストピック
 
 ## 要約

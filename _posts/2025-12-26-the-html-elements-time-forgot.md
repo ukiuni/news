@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "The HTML Elements Time Forgot"
-date: 2025-12-26T04:03:35.656Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
-source_url: "https://htmhell.dev/adventcalendar/2025/22/"
-source_title: "The HTML Elements Time Forgot"
+title: The HTML Elements Time Forgot
+date: 2025-12-26 04:03:35.656000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://htmhell.dev/adventcalendar/2025/22/
+source_title: The HTML Elements Time Forgot - HTMHell
 source_id: 1124897989
 ---
-
 # 忘れられたHTMLタグ大全 — 社内システムにも潜む“使ってはいけない”遺産を見抜く
 
 ## 要約
