@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/which-humans/' | relative_url }}">which humans</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/when-someone-says-they-hate-your-product-with-a-bu/' | relative_url }}">when someone says they hate your product with a bu</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/they-graduated-from-stanford-due-to-ai-they-cant-f/' | relative_url }}">they graduated from stanford due to ai they cant f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/the-silicon-valley-stack-doesnt-work-here-why-afri/' | relative_url }}">the silicon valley stack doesnt work here why afri</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -125,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/one-incident-onion-tech-debt-and-layoffs-postmorte/' | relative_url }}">one incident onion tech debt and layoffs postmorte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/on-insight-debt/' | relative_url }}">on insight debt</a></h3>
 </div>
 <div class="article-row">
@@ -185,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/left-behind-futurist-fetishists-prepping-and-the-a/' | relative_url }}">left behind futurist fetishists prepping and the a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/kubernetes-egress-control-with-squid-proxy/' | relative_url }}">kubernetes egress control with squid proxy</a></h3>
 </div>
 <div class="article-row">
@@ -206,6 +222,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/how-nx-pulled-the-rug-on-us-a-potential-solution-a/' | relative_url }}">how nx pulled the rug on us a potential solution a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/high-performance-c-hash-table-using-grouped-simd-m/' | relative_url }}">high performance c hash table using grouped simd m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/google-is-dead-where-do-we-go-now/' | relative_url }}">google is dead where do we go now</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
