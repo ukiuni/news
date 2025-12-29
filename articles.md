@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/this-will-be-a-stressful-job-sam-altman-offers-555/' | relative_url }}">this will be a stressful job sam altman offers 555</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/they-graduated-from-stanford-due-to-ai-they-cant-f/' | relative_url }}">they graduated from stanford due to ai they cant f</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/show-hn-vibe-coding-a-bookshelf-with-claude-code/' | relative_url }}">show hn vibe coding a bookshelf with claude code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/show-hn-superset-terminal-to-run-10-parallel-codin/' | relative_url }}">show hn superset terminal to run 10 parallel codin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -141,6 +149,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/llms-are-not-fun/' | relative_url }}">llms are not fun</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/list-of-domains-censored-by-german-isps/' | relative_url }}">list of domains censored by german isps</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/linux-daw-help-linux-musicians-to-quickly-and-easi/' | relative_url }}">linux daw help linux musicians to quickly and easi</a></h3>
 </div>
 <div class="article-row">
@@ -169,6 +185,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/how-willie-nelson-sees-america/' | relative_url }}">how willie nelson sees america</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/how-nx-pulled-the-rug-on-us-a-potential-solution-a/' | relative_url }}">how nx pulled the rug on us a potential solution a</a></h3>
 </div>
 <div class="article-row">
@@ -178,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/gog-is-getting-acquired-by-its-original-co-founder/' | relative_url }}">gog is getting acquired by its original co founder</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/gits-http-server-side-design-does-not-scale/' | relative_url }}">gits http server side design does not scale</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -270,6 +294,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/a-bitwise-reproducible-deep-learning-framework/' | relative_url }}">a bitwise reproducible deep learning framework</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/39c3-multiple-vulnerabilities-in-gnupg-and-other-c/' | relative_url }}">39c3 multiple vulnerabilities in gnupg and other c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
