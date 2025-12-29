@@ -49,7 +49,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/the-rise-and-fall-of-robotstxt/' | relative_url }}">the rise and fall of robotstxt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/the-mythical-man-month-at-50/' | relative_url }}">the mythical man month at 50</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/teslas-4680-battery-supply-chain-collapses-as-part/' | relative_url }}">teslas 4680 battery supply chain collapses as part</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
