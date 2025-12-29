@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/quickly-restoring-1m-files-from-backup/' | relative_url }}">quickly restoring 1m files from backup</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/on-insight-debt/' | relative_url }}">on insight debt</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/koine/' | relative_url }}">koine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/kidnapped-by-deutsche-bahn/' | relative_url }}">kidnapped by deutsche bahn</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -137,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/attackers-caused-so-much-havoc-inside-rainbow-six/' | relative_url }}">attackers caused so much havoc inside rainbow six</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/asking-gemini-3-for-brainfck-code-puts-it-in-an-in/' | relative_url }}">asking gemini 3 for brainfck code puts it in an in</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/americans-hate-ai-which-party-will-benefit/' | relative_url }}">americans hate ai which party will benefit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/advent-of-ai-2025-day-17-building-a-wishlist-app-w/' | relative_url }}">advent of ai 2025 day 17 building a wishlist app w</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>

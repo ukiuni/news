@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Advent of AI 2025 - Day 17: Building a Wishlist App with Goose and MCP-UI"
+date: 2025-12-29T13:27:59.278Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://dev.to/nickytonline/advent-of-ai-2025-day-17-building-a-wishlist-app-with-goose-and-mcp-ui-330l"
+source_title: "Advent of AI 2025 - Day 17: Building a Wishlist App with Goose and MCP-UI - DEV Community"
+source_id: 3130302
+excerpt: "GooseとMCP‑UIでチャット内ウィッシュリストを即構築、iframe問題も解決"
+---
+
+# チャット内に魔法の願い箱を描く：Goose＋MCP‑UIで作るウィッシュリスト実践ガイド
+
+## 要約
+Goose（オープンソースAIエージェント）とMCP‑UIを使って、チャットクライアント内にインタラクティブなウィッシュリストUIを提供するMCPサーバを短期間で構築する手法を紹介。実装のコツや開発ワークフロー、躓きやすいiframeサイズ問題の解決法を押さえる。
+
+## この記事を読むべき理由
+AIエージェントが「会話」を越えて「操作可能なUI」を内蔵するケースが増えている。GooseやMCPを使えば、ローカル環境で迅速にプロトタイプを回せるため、プロダクト開発や社内ツールの試作に即応用できる。日本の開発現場でも、チャットベースのUXを強化する実践知として価値が高い。
+
+## 詳細解説
+- 全体像：Node.js（Express）で立てたMCPサーバが、Reactウィジェット（MCP‑UI）を返し、Gooseなどのクライアント内でそのUIをレンダリングする構成。TypeScript・Tailwind・Pino・Storybook・Vitestなどを備えたテンプレートを土台にすることで開発速度が劇的に向上する。
+- 機能例：ウィッシュ（願い）の追加（カテゴリ／優先度付き）、一覧表示、願いの承認（grant）、削除。実装例ではMCPセッションIDごとにインメモリで保持しているが、本番は永続化（DB）や認証を考慮すべき。
+- 開発ワークフロー：Storybookでウィジェットを作りつつ、Goose上でライブ編集→即反映が可能。UIを独立して開発・アクセシビリティ検査・ユニットテストした後、MCPサーバに組み込むと高速に回せる。
+- 技術的なトラブルと解決：Goose内でのiframeサイズ調整が自動では動かないため、ウィジェット側でResizeObserverを使って親フレームにサイズ変更をポストする手法が必要。以下は実装の核となるスニペット。
+
+```javascript
+// javascript
+const container = document.querySelector('.container');
+if (container) {
+  // 初回送信（余白を加える）
+  window.parent.postMessage({
+    type: "ui-size-change",
+    payload: { height: container.offsetHeight + 100 }
+  }, "*");
+
+  // 内容変化に合わせて親に通知
+  new ResizeObserver(entries => {
+    entries.forEach(entry => {
+      window.parent.postMessage({
+        type: "ui-size-change",
+        payload: { height: entry.contentRect.height + 100 }
+      }, "*");
+    });
+  }).observe(container);
+}
+```
+
+- アーキテクチャの注意点：MCPサーバは会話コンテキストを扱うため、レスポンスには_meta等の管理を入れる。セッション管理、Graceful shutdown、ログやエラーハンドリングはテンプレートに準備しておくと安全。
+
+## 実践ポイント
+- まずはテンプレートを使う：ChatGPTアプリ向けTypeScriptテンプレート（MCP対応）を土台にするとインフラ周りの実装コストを省ける。
+- StorybookでUIを先に固める：ウィジェット単体で開発→アクセシビリティ／テストをパスさせてからMCPに組み込むと反復が速い。
+- iframeのサイズ問題はResizeObserver＋postMessageで解決：上記スニペットをウィジェットに組み込む。
+- 永続化を考える：セッション単位のインメモリ保存は開発向け。本番はSQLite/MySQL等でsession→userに紐づける設計を推奨。
+- セキュリティとプライバシー：ユーザデータやモデルへの入力は暗号化／アクセス制御を設け、ログに個人情報を残さない。
+- テストとCI：Vitestでサーバ＆ウィジェットをカバーし、Docker化してCIでビルド・検証を自動化する。
+
+短時間で「チャット内にリッチなインターフェースを出す」試作を回したい場合、Goose＋MCP‑UI＋良いテンプレートの組み合わせは非常に実用的。まずはローカルでStorybook→Goose連携を試し、小さな機能から永続化・認証へ拡張していくのが現場での近道。
