@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/worn-down-by-worry-parents-look-longingly-at-austr/' | relative_url }}">worn down by worry parents look longingly at austr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/slaughtering-competition-problems-with-quantifier/' | relative_url }}">slaughtering competition problems with quantifier</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +22,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/npm-needs-an-analog-to-pnpms-minimumreleaseage-and/' | relative_url }}">npm needs an analog to pnpms minimumreleaseage and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/mrbeasts-former-manager-reed-duchscher-says-the-ag/' | relative_url }}">mrbeasts former manager reed duchscher says the ag</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
