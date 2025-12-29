@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/on-insight-debt/' | relative_url }}">on insight debt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/npm-needs-an-analog-to-pnpms-minimumreleaseage-and/' | relative_url }}">npm needs an analog to pnpms minimumreleaseage and</a></h3>
 </div>
 <div class="article-row">
@@ -73,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/developing-a-beautiful-and-performant-block-editor/' | relative_url }}">developing a beautiful and performant block editor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/consider-a-nix-flake-for-your-windows-rs-project/' | relative_url }}">consider a nix flake for your windows rs project</a></h3>
 </div>
 <div class="article-row">
@@ -93,11 +101,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/americans-hate-ai-which-party-will-benefit/' | relative_url }}">americans hate ai which party will benefit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/a-real-time-video-capture-to-ascii-art-converter-t/' | relative_url }}">a real time video capture to ascii art converter t</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/a-bitwise-reproducible-deep-learning-framework/' | relative_url }}">a bitwise reproducible deep learning framework</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/2d-distance-functions/' | relative_url }}">2d distance functions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
