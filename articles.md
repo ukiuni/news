@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/when-someone-says-they-hate-your-product-with-a-bu/' | relative_url }}">when someone says they hate your product with a bu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/what-happens-when-you-convert-a-nan-to-uint-in-gol/' | relative_url }}">what happens when you convert a nan to uint in gol</a></h3>
 </div>
 <div class="article-row">
@@ -109,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/show-hn-aroma-every-tcp-proxy-is-detectable-with-r/' | relative_url }}">show hn aroma every tcp proxy is detectable with r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/sauron-the-high-end-home-security-startup-for-supe/' | relative_url }}">sauron the high end home security startup for supe</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +146,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/mit-scientists-strip-cancer-of-its-sugar-shield/' | relative_url }}">mit scientists strip cancer of its sugar shield</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/mit-battlecode-programming-competition-starts-in-1/' | relative_url }}">mit battlecode programming competition starts in 1</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/metas-ads-tools-started-switching-out-top-performi/' | relative_url }}">metas ads tools started switching out top performi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -209,6 +225,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/german-hackers-call-for-digital-independence-days/' | relative_url }}">german hackers call for digital independence days</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/gen-zers-and-millennials-flock-to-so-called-analog/' | relative_url }}">gen zers and millennials flock to so called analog</a></h3>
 </div>
 <div class="article-row">
@@ -217,11 +237,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/flame-graphs-vs-tree-maps-vs-sunburst-2017/' | relative_url }}">flame graphs vs tree maps vs sunburst 2017</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/feynmans-hughes-lectures-950-pages-of-notes/' | relative_url }}">feynmans hughes lectures 950 pages of notes</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/exploited-mongobleed-flaw-leaks-mongodb-secrets-87/' | relative_url }}">exploited mongobleed flaw leaks mongodb secrets 87</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/explained-what-problem-consistent-hashing-solves-a/' | relative_url }}">explained what problem consistent hashing solves a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -249,6 +277,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/brendan-carr-says-destroying-consumer-protection-m/' | relative_url }}">brendan carr says destroying consumer protection m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/binaries/' | relative_url }}">binaries</a></h3>
 </div>
 <div class="article-row">
@@ -273,11 +305,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/apache-spark-isnt-fast-by-default-its-fast-when-yo/' | relative_url }}">apache spark isnt fast by default its fast when yo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/an-experiment-in-vibe-coding/' | relative_url }}">an experiment in vibe coding</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/americans-hate-ai-which-party-will-benefit/' | relative_url }}">americans hate ai which party will benefit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/all-delisted-steam-games/' | relative_url }}">all delisted steam games</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
