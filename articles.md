@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/static-allocation-with-zig/' | relative_url }}">static allocation with zig</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/solid-state-ev-battery-maker-to-go-public-after-su/' | relative_url }}">solid state ev battery maker to go public after su</a></h3>
 </div>
 <div class="article-row">
@@ -129,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/linux-daw-help-linux-musicians-to-quickly-and-easi/' | relative_url }}">linux daw help linux musicians to quickly and easi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/libgodc-write-go-programs-for-sega-dreamcast/' | relative_url }}">libgodc write go programs for sega dreamcast</a></h3>
 </div>
 <div class="article-row">
@@ -158,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/golfing-is-not-rowing/' | relative_url }}">golfing is not rowing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/gog-is-getting-acquired-by-its-original-co-founder/' | relative_url }}">gog is getting acquired by its original co founder</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -193,7 +205,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/cloud-finops-dont-accidentally-get-out-of-control/' | relative_url }}">cloud finops dont accidentally get out of control</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/cia-star-gate-project-an-overview-1993-pdf/' | relative_url }}">cia star gate project an overview 1993 pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/cars-with-retractable-door-handles-will-be-banned/' | relative_url }}">cars with retractable door handles will be banned</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
