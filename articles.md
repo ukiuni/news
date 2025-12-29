@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/the-mythical-man-month-at-50/' | relative_url }}">the mythical man month at 50</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/stepping-down-as-maintainer-after-10-years/' | relative_url }}">stepping down as maintainer after 10 years</a></h3>
 </div>
 <div class="article-row">
@@ -65,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/mit-scientists-strip-cancer-of-its-sugar-shield/' | relative_url }}">mit scientists strip cancer of its sugar shield</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/measuring-out-of-sync-clocks-on-the-internet/' | relative_url }}">measuring out of sync clocks on the internet</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/before-electric-vehicles-became-political-there-wa/' | relative_url }}">before electric vehicles became political there wa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/asking-gemini-3-for-brainfck-code-puts-it-in-an-in/' | relative_url }}">asking gemini 3 for brainfck code puts it in an in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
