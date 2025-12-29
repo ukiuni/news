@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/why-i-think-valves-retiring-the-steam-deck-lcd/' | relative_url }}">why i think valves retiring the steam deck lcd</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/slaughtering-competition-problems-with-quantifier/' | relative_url }}">slaughtering competition problems with quantifier</a></h3>
 </div>
 <div class="article-row">
@@ -33,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/get-started-with-me-kestraio/' | relative_url }}">get started with me kestraio</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/gen-zers-and-millennials-flock-to-so-called-analog/' | relative_url }}">gen zers and millennials flock to so called analog</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/before-electric-vehicles-became-political-there-wa/' | relative_url }}">before electric vehicles became political there wa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/as-ai-gobbles-up-chips-prices-for-devices-may-rise/' | relative_url }}">as ai gobbles up chips prices for devices may rise</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
