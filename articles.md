@@ -89,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/teslas-austin-robotaxi-fleet-is-only-34-cars-jalop/' | relative_url }}">teslas austin robotaxi fleet is only 34 cars jalop</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/teslas-4680-battery-supply-chain-collapses-as-part/' | relative_url }}">teslas 4680 battery supply chain collapses as part</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/show-hn-superset-terminal-to-run-10-parallel-codin/' | relative_url }}">show hn superset terminal to run 10 parallel codin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/show-hn-stop-claude-code-from-forgetting-everythin/' | relative_url }}">show hn stop claude code from forgetting everythin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -189,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/manusai-joins-meta/' | relative_url }}">manusai joins meta</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/louis-gerstner-the-man-who-saved-ibm-dies-at-83/' | relative_url }}">louis gerstner the man who saved ibm dies at 83</a></h3>
 </div>
 <div class="article-row">
@@ -226,6 +238,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/kidnapped-by-deutsche-bahn/' | relative_url }}">kidnapped by deutsche bahn</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/innodb-buffer-pool-lru-implementation-how-mysql-op/' | relative_url }}">innodb buffer pool lru implementation how mysql op</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
@@ -321,6 +337,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/can-bundler-be-as-fast-as-uv/' | relative_url }}">can bundler be as fast as uv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/brendan-carr-says-destroying-consumer-protection-m/' | relative_url }}">brendan carr says destroying consumer protection m</a></h3>
 </div>
 <div class="article-row">
@@ -362,6 +382,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/all-delisted-steam-games/' | relative_url }}">all delisted steam games</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/ai-is-forcing-us-to-write-good-code/' | relative_url }}">ai is forcing us to write good code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/ai-employees-dont-pay-taxes/' | relative_url }}">ai employees dont pay taxes</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
