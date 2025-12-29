@@ -17,11 +17,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/npm-needs-an-analog-to-pnpms-minimumreleaseage-and/' | relative_url }}">npm needs an analog to pnpms minimumreleaseage and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/gen-zers-and-millennials-flock-to-so-called-analog/' | relative_url }}">gen zers and millennials flock to so called analog</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/before-electric-vehicles-became-political-there-wa/' | relative_url }}">before electric vehicles became political there wa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/29</span>
+  <h3><a href="{{ '/2025/12/29/an-experiment-in-vibe-coding/' | relative_url }}">an experiment in vibe coding</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/28</span>
