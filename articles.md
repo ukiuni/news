@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/what-happened-to-abit-motherboards/' | relative_url }}">what happened to abit motherboards</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/we-own-the-hardware-but-not-the-experience-anymore/' | relative_url }}">we own the hardware but not the experience anymore</a></h3>
 </div>
 <div class="article-row">
@@ -153,11 +157,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/igniting-the-gpu-from-kernel-plumbing-to-3d-render/' | relative_url }}">igniting the gpu from kernel plumbing to 3d render</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/idc-warns-pc-market-could-shrink-up-to-9-in-2026-d/' | relative_url }}">idc warns pc market could shrink up to 9 in 2026 d</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/i-built-an-auto-updating-comparison-of-ai-coding-t/' | relative_url }}">i built an auto updating comparison of ai coding t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/humans-may-be-able-to-grow-new-teeth-within-just-4/' | relative_url }}">humans may be able to grow new teeth within just 4</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
@@ -194,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/fedimeteo-how-a-tiny-4-freebsd-vps-became-a-global/' | relative_url }}">fedimeteo how a tiny 4 freebsd vps became a global</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/electrolysis-can-solve-one-of-our-biggest-contamin/' | relative_url }}">electrolysis can solve one of our biggest contamin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
