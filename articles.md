@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/prof-software-developers-dont-vibe-they-control-ai/' | relative_url }}">prof software developers dont vibe they control ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/postgres-extension-complements-pgvector-for-perfor/' | relative_url }}">postgres extension complements pgvector for perfor</a></h3>
 </div>
 <div class="article-row">
@@ -225,6 +229,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/everything-as-code-how-we-manage-our-company-in-on/' | relative_url }}">everything as code how we manage our company in on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/electrolysis-can-solve-one-of-our-biggest-contamin/' | relative_url }}">electrolysis can solve one of our biggest contamin</a></h3>
 </div>
 <div class="article-row">
@@ -242,6 +250,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/curl-removes-all-calls-to-strcpy/' | relative_url }}">curl removes all calls to strcpy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/china-is-using-american-ai-against-the-us/' | relative_url }}">china is using american ai against the us</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
@@ -270,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/aflac-data-breach-affects-2265-million-ssns-health/' | relative_url }}">aflac data breach affects 2265 million ssns health</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/a-faster-heart-for-f-droid-our-new-server-is-here/' | relative_url }}">a faster heart for f droid our new server is here</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
