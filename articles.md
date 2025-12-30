@@ -117,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/psa-be-aware-when-opening-take-home-challenges-fro/' | relative_url }}">psa be aware when opening take home challenges fro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/prof-software-developers-dont-vibe-they-control-ai/' | relative_url }}">prof software developers dont vibe they control ai</a></h3>
 </div>
 <div class="article-row">
@@ -126,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/outside-dungeon-town-integrating-the-three-places/' | relative_url }}">outside dungeon town integrating the three places</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-qu/' | relative_url }}">openais cash burn will be one of the big bubble qu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
@@ -310,6 +318,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/2025s-second-most-censored-story/' | relative_url }}">2025s second most censored story</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/100000-watt-iron-beam-laser-becomes-worlds-first-d/' | relative_url }}">100000 watt iron beam laser becomes worlds first d</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/29</span>
