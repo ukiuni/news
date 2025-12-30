@@ -17,6 +17,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/unix-fourth-edition/' | relative_url }}">unix fourth edition</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/the-signature-flicker/' | relative_url }}">the signature flicker</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/streaming-compression-beats-framed-compression/' | relative_url }}">streaming compression beats framed compression</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/hacking-washing-machines-video/' | relative_url }}">hacking washing machines video</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/eclipse-collection-vs-jdk-collection/' | relative_url }}">eclipse collection vs jdk collection</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
