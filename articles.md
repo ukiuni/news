@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/your-interview-process-for-senior-engineers-is-wro/' | relative_url }}">your interview process for senior engineers is wro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/you-need-to-ditch-vs-code/' | relative_url }}">you need to ditch vs code</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/unix-fourth-edition/' | relative_url }}">unix fourth edition</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/toro-deploy-applications-as-unikernels/' | relative_url }}">toro deploy applications as unikernels</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/rich-hickey-simplicity-is-a-prerequisite-for-relia/' | relative_url }}">rich hickey simplicity is a prerequisite for relia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/reverse-engineering-a-mysterious-udp-stream-in-my/' | relative_url }}">reverse engineering a mysterious udp stream in my</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
@@ -210,6 +222,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/building-a-react-app-with-formally-verified-state/' | relative_url }}">building a react app with formally verified state</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/being-a-cloud-architect-isnt-about-tools-its-about/' | relative_url }}">being a cloud architect isnt about tools its about</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
