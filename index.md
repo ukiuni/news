@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、開発者向けの生産性ツールや言語エコシステムの刷新が目立つ🛠️：Unicode参照ページやRubyの改良、Spring BootとJacksonのメジャー更新、Javaコレクション比較などが開発の現場を刺激している。AIは競争と規制が同時進行で注目を集め、コーディングAIの比較検証と中国の厳格な介入ルールが未来の境界を描き直す🤖🇨🇳。一方でAflacの大規模データ流出はセキュリティとプライバシーの課題を改めて浮き彫りにした🔒。
+    今日のテック業界では、金融アプリのセキュリティ問題（HSBCがF‑Droid経由のBitwardenでアプリ遮断）や中国のAI規制強化で安全性とガバナンスが再び注目を集めています🛡️🤖。同時にNetflixのオープンコンテンツやJackson 3／Spring 7、Cでのグリーンスレッドなど、開発者向けのツールとエコシステムの進化が活発化⚙️✨。UNIXの復刻やコレクション比較、Unicodeの便利ページなど、歴史と実用の議論が交錯する一日です。
   </div>
 </div>

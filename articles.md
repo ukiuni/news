@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/thread-scheduler-in-c-green-threads/' | relative_url }}">thread scheduler in c green threads</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/the-signature-flicker/' | relative_url }}">the signature flicker</a></h3>
 </div>
 <div class="article-row">
@@ -53,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/netflix-open-content/' | relative_url }}">netflix open content</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/mongodb-server-security-update-december-2025/' | relative_url }}">mongodb server security update december 2025</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/i-built-an-auto-updating-comparison-of-ai-coding-t/' | relative_url }}">i built an auto updating comparison of ai coding t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/hsbc-blocks-its-app-due-to-f-droid-installed-bitwa/' | relative_url }}">hsbc blocks its app due to f droid installed bitwa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
