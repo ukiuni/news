@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/the-legacy-of-undersea-cables/' | relative_url }}">the legacy of undersea cables</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/the-british-empires-resilient-subsea-telegraph-net/' | relative_url }}">the british empires resilient subsea telegraph net</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/released-a-beta-after-5-months-of-development-now/' | relative_url }}">released a beta after 5 months of development now</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/public-sans-a-strong-neutral-typeface/' | relative_url }}">public sans a strong neutral typeface</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/postgres-extension-complements-pgvector-for-perfor/' | relative_url }}">postgres extension complements pgvector for perfor</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
@@ -146,6 +158,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/glamorous-christmas-bringing-charm-to-ruby/' | relative_url }}">glamorous christmas bringing charm to ruby</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/formally-speaking-transpiler-is-a-useless-word/' | relative_url }}">formally speaking transpiler is a useless word</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/fedimeteo-how-a-tiny-4-freebsd-vps-became-a-global/' | relative_url }}">fedimeteo how a tiny 4 freebsd vps became a global</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
