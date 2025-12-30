@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/thinking-about-learning-go-or-rust-need-real-exper/' | relative_url }}">thinking about learning go or rust need real exper</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/the-signature-flicker/' | relative_url }}">the signature flicker</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/rich-hickey-simplicity-is-a-prerequisite-for-relia/' | relative_url }}">rich hickey simplicity is a prerequisite for relia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/released-a-beta-after-5-months-of-development-now/' | relative_url }}">released a beta after 5 months of development now</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
@@ -101,6 +109,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/idc-warns-pc-market-could-shrink-up-to-9-in-2026-d/' | relative_url }}">idc warns pc market could shrink up to 9 in 2026 d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/i-built-an-auto-updating-comparison-of-ai-coding-t/' | relative_url }}">i built an auto updating comparison of ai coding t</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/china-drafts-worlds-strictest-rules-to-end-ai-enco/' | relative_url }}">china drafts worlds strictest rules to end ai enco</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/calibri-wasnt-fit-for-the-state-department-neither/' | relative_url }}">calibri wasnt fit for the state department neither</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
