@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Tachyon: High frequency statistical sampling profiler - Tachyon：高頻度統計サンプリングプロファイラ
-date: 2025-12-26 07:10:14.679000+00:00
+layout: "post"
+title: "Tachyon: High frequency statistical sampling profiler - Tachyon：高頻度統計サンプリングプロファイラ"
+date: "2025-12-26 07:10:14.679000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://docs.python.org/3.15/library/profiling.sampling.html
-source_title: "profiling.sampling â\x80\x94 Statistical profiler — Python 3.15.0a3\
-  \ documentation"
-source_id: 46353257
-excerpt: 本番で低オーバーヘッドに高頻度サンプリングし即ボトルネック可視化するPy3.15プロファイラ
+source_url: "https://docs.python.org/3.15/library/profiling.sampling.html"
+source_title: "profiling.sampling â\x80\x94 Statistical profiler — Python 3.15.0a3\ \ documentation"
+source_id: "46353257"
+excerpt: "本番で低オーバーヘッドに高頻度サンプリングし即ボトルネック可視化するPy3.15プロファイラ"
 ---
 # Tachyon: High frequency statistical sampling profiler - Tachyon：高頻度統計サンプリングプロファイラ
 

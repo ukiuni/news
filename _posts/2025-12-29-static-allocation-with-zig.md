@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Static Allocation with Zig - Zigによる静的割り当て
-date: 2025-12-29T17:28:19.580Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Static Allocation with Zig - Zigによる静的割り当て"
+date: "2025-12-29T17:28:19.580Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://nickmonad.blog/2025/static-allocation-with-zig-kv/"
 source_title: "Static Allocation with Zig"
-source_id: 46422009
+source_id: "46422009"
 excerpt: "Zigで起動時に全メモリ確保し、動的割当を排した低遅延かつ決定論的なRedis互換KVの実装解説"
 ---
 

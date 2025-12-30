@@ -1,12 +1,16 @@
 ---
-layout: post
-title: InnoDB Buffer Pool LRU Implementation: How MySQL Optimizes Memory Management - InnoDBバッファプールのLRU実装：MySQLがいかにメモリ管理を最適化するか
-date: 2025-12-29T23:32:40.348Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "InnoDB Buffer Pool LRU Implementation: How MySQL Optimizes Memory Management - InnoDBバッファプールのLRU実装：MySQLがいかにメモリ管理を最適化するか"
+date: "2025-12-29T23:32:40.348Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://shbhmrzd.github.io/databases/mysql/innodb/2025/12/18/innodb-lru-buffer-pool-management.html"
 source_title: "InnoDB Buffer Pool LRU Implementation: How MySQL Optimizes Memory Management | Shubham Raizada’s Blog"
-source_id: 436277511
+source_id: "436277511"
 excerpt: "InnoDBの中間挿入と遅延昇格でフルスキャン時のキャッシュ崩壊を防ぎ、性能安定化の設定法を解説"
 ---
 

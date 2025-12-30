@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Gen Zers and millennials flock to so-called analog islands 'because so little - Z世代とミレニアル世代がいわゆる「アナログの島」に集まる理由
-  of their life feels tangible'
-date: 2025-12-29 00:59:11.337000+00:00
+layout: "post"
+title: "Gen Zers and millennials flock to so-called analog islands 'because so little - Z世代とミレニアル世代がいわゆる「アナログの島」に集まる理由 of their life feels tangible'"
+date: "2025-12-29 00:59:11.337000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://fortune.com/2025/12/28/gen-z-millennials-baby-boomers-analogs-islands-board-games-stick-shift-vinyl-records/
-source_title: Gen Zers and millennials flock to so-called analog islands | Fortune
-source_id: 437190577
-excerpt: Z世代がレコードや手紙、マニュアル車へ回帰する理由とビジネス機会を解説
+source_url: "https://fortune.com/2025/12/28/gen-z-millennials-baby-boomers-analogs-islands-board-games-stick-shift-vinyl-records/"
+source_title: "Gen Zers and millennials flock to so-called analog islands | Fortune"
+source_id: "437190577"
+excerpt: "Z世代がレコードや手紙、マニュアル車へ回帰する理由とビジネス機会を解説"
 ---
 # Gen Zers and millennials flock to so-called analog islands 'because so little - Z世代とミレニアル世代がいわゆる「アナログの島」に集まる理由
 

@@ -1,18 +1,17 @@
 ---
-layout: post
-title: A Discord server that combines an IT community with a dating/social element. - ITコミュニティとデート・交流要素を組み合わせたDiscordサーバー
-  Thoughts?
-date: 2025-12-28 16:19:33.163000+00:00
+layout: "post"
+title: "A Discord server that combines an IT community with a dating/social element. - ITコミュニティとデート・交流要素を組み合わせたDiscordサーバー Thoughts?"
+date: "2025-12-28 16:19:33.163000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://discord.com/
+source_url: "https://discord.com/"
 source_title: "Discord - Group Chat Thatâ\x80\x99s All Fun & Games"
-source_id: 436106938
-excerpt: Discordで技術交流と出会いを両立する新型コミュニティ設計の実践案と安全対策
+source_id: "436106938"
+excerpt: "Discordで技術交流と出会いを両立する新型コミュニティ設計の実践案と安全対策"
 ---
 # A Discord server that combines an IT community with a dating/social element. - ITコミュニティとデート・交流要素を組み合わせたDiscordサーバー
 

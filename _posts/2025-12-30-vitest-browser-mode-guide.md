@@ -1,12 +1,16 @@
 ---
-layout: post
+layout: "post"
 title: "Vitest Browser Mode Guide - 実ブラウザ×高速コンポーネント単体テスト — Vitest Browser Modeがフロントエンドを変える理由"
-date: 2025-12-30T00:39:24.931Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+date: "2025-12-30T00:39:24.931Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://howtotestfrontend.com/resources/vitest-browser-mode-guide-and-setup-info"
 source_title: "Vitest Browser Mode Guide"
-source_id: 46380697
+source_id: "46380697"
 excerpt: "実ブラウザで高速かつ確実にコンポーネント単体テストを行いUI挙動を検証する手法"
 ---
 

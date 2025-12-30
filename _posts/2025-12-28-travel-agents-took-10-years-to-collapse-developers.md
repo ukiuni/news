@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Travel agents took 10 years to collapse, developers are three years in - 旅行代理店は崩壊に10年かかったが、開発者は3年目に入っている
-date: 2025-12-28 05:16:19.392000+00:00
+layout: "post"
+title: "Travel agents took 10 years to collapse, developers are three years in - 旅行代理店は崩壊に10年かかったが、開発者は3年目に入っている"
+date: "2025-12-28 05:16:19.392000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://martinalderson.com/posts/travel-agents-developers/
-source_title: Travel agents took 10 years to collapse. Developers are 3 years in.
-  - Martin Alderson
-source_id: 46408457
-excerpt: LLMと投資縮小で開発者の単純作業が急速に自動化、今すべき生き残り戦略を解説
+source_url: "https://martinalderson.com/posts/travel-agents-developers/"
+source_title: "Travel agents took 10 years to collapse. Developers are 3 years in. - Martin Alderson"
+source_id: "46408457"
+excerpt: "LLMと投資縮小で開発者の単純作業が急速に自動化、今すべき生き残り戦略を解説"
 ---
 # Travel agents took 10 years to collapse, developers are three years in - 旅行代理店は崩壊に10年かかったが、開発者は3年目に入っている
 

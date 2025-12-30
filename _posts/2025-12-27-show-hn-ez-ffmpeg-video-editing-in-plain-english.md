@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Show HN: Ez FFmpeg – Video editing in plain English - Show HN: Ez FFmpeg – 平易な英語でのビデオ編集
-date: 2025-12-27 09:39:15.137000+00:00
+layout: "post"
+title: "Show HN: Ez FFmpeg – Video editing in plain English - Show HN: Ez FFmpeg – 平易な英語でのビデオ編集"
+date: "2025-12-27 09:39:15.137000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: http://npmjs.com/package/ezff
-source_title: ezff - npm
-source_id: 46400251
-excerpt: 英語で命令するだけで複雑なffmpeg処理を即実行できるオフラインCLIツール
+source_url: "http://npmjs.com/package/ezff"
+source_title: "ezff - npm"
+source_id: "46400251"
+excerpt: "英語で命令するだけで複雑なffmpeg処理を即実行できるオフラインCLIツール"
 ---
 # Show HN: Ez FFmpeg – Video editing in plain English - Show HN: Ez FFmpeg – 平易な英語でのビデオ編集
 

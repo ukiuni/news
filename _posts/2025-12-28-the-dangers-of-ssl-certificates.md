@@ -1,17 +1,17 @@
 ---
-layout: post
-title: The dangers of SSL certificates - SSL証明書の危険性
-date: 2025-12-28 12:14:53.802000+00:00
+layout: "post"
+title: "The dangers of SSL certificates - SSL証明書の危険性"
+date: "2025-12-28 12:14:53.802000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/
-source_title: The dangers of SSL certificates – Surfing Complexity
-source_id: 1147114848
-excerpt: BazelのSSL証明書期限切れ事故が示す、自動更新の落とし穴と現場で今すぐ使える対策
+source_url: "https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/"
+source_title: "The dangers of SSL certificates – Surfing Complexity"
+source_id: "1147114848"
+excerpt: "BazelのSSL証明書期限切れ事故が示す、自動更新の落とし穴と現場で今すぐ使える対策"
 ---
 # The dangers of SSL certificates - SSL証明書の危険性
 

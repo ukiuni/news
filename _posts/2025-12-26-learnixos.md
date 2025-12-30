@@ -1,17 +1,17 @@
 ---
-layout: post
-title: LearnixOS - LearnixOS
-date: 2025-12-26 14:29:31.667000+00:00
+layout: "post"
+title: "LearnixOS - LearnixOS"
+date: "2025-12-26 14:29:31.667000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.learnix-os.com
-source_title: Introduction - The LearnixOS Book
-source_id: 46391599
-excerpt: Rustでブートからファイルシステム、シェルまで自前OSを段階的に作れる実践ガイド
+source_url: "https://www.learnix-os.com"
+source_title: "Introduction - The LearnixOS Book"
+source_id: "46391599"
+excerpt: "Rustでブートからファイルシステム、シェルまで自前OSを段階的に作れる実践ガイド"
 ---
 # LearnixOS - LearnixOS
 

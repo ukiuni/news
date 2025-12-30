@@ -1,12 +1,16 @@
 ---
-layout: post
-title: The production bug that made me care about undefined behavior - 未定義動作を気にするきっかけとなった本番環境のバグ
-date: 2025-12-27T18:41:03.731Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "The production bug that made me care about undefined behavior - 未定義動作を気にするきっかけとなった本番環境のバグ"
+date: "2025-12-27T18:41:03.731Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html"
 source_title: "The production bug that made me care about undefined behavior"
-source_id: 438007156
+source_id: "438007156"
 excerpt: "決済本番で発生した未初期化が原因の「両方true」不具合と具体的対策"
 ---
 

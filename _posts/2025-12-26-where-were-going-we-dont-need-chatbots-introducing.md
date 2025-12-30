@@ -1,18 +1,16 @@
 ---
-layout: post
-title: Where we''re going, we don''t need chatbots: introducing the Antigravity IDE - 私たちが行く場所にチャットボットは不要：Antigravity IDEの紹介
-  🚀'
-date: 2025-12-26 04:04:01.591000+00:00
+layout: "post"
+title: "Where we''re going, we don''t need chatbots: introducing the Antigravity IDE - 私たちが行く場所にチャットボットは不要：Antigravity IDEの紹介 🚀'"
+date: "2025-12-26 04:04:01.591000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k
-source_title: 'Where we''re going, we don''t need chatbots: introducing the Antigravity
-  IDE 🚀 - DEV Community'
-source_id: 3121699
+source_url: "https://dev.to/googleai/where-were-going-we-dont-need-chatbots-introducing-the-antigravity-ide-2c3k"
+source_title: "Where we're going, we don't need chatbots: introducing the Antigravity IDE 🚀 - DEV Community"
+source_id: "3121699"
 ---
 # Where we''re going, we don''t need chatbots: introducing the Antigravity IDE - 私たちが行く場所にチャットボットは不要：Antigravity IDEの紹介
 

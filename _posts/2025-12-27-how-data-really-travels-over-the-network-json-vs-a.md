@@ -1,12 +1,16 @@
 ---
-layout: post
-title: How Data Really Travels Over the Network (JSON vs Avro vs Protobuf) - データが実際にネットワーク上をどのように移動するか (JSON vs Avro vs Protobuf)
-date: 2025-12-27T20:40:13.102Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "How Data Really Travels Over the Network (JSON vs Avro vs Protobuf) - データが実際にネットワーク上をどのように移動するか (JSON vs Avro vs Protobuf)"
+date: "2025-12-27T20:40:13.102Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://medium.com/@venkateshwagh777/how-data-really-travels-over-the-network-json-vs-avro-vs-protobuf-0bfe946c9cc5"
 source_title: "How Data Really Travels Over the Network (JSON vs Avro vs Protobuf)"
-source_id: 437979378
+source_id: "437979378"
 excerpt: "帯域・CPU・互換性で差が出るJSON・Avro・Protobufの実務的選び方と計測手法を解説"
 ---
 

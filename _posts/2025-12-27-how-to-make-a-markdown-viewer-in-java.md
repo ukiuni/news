@@ -1,17 +1,17 @@
 ---
-layout: post
-title: How to make a markdown viewer in java - JavaでMarkdownビューアを作る方法
-date: 2025-12-27 00:07:38.392000+00:00
+layout: "post"
+title: "How to make a markdown viewer in java - JavaでMarkdownビューアを作る方法"
+date: "2025-12-27 00:07:38.392000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://youtu.be/9gYIRrlQm-4?si=ddo3I7pcVrmUp3Fc
-source_title: Markdown viewer with java and neutron - YouTube
-source_id: 437416750
-excerpt: JavaとNeutron/JavaFXで一晩で作るライブMarkdownビューアの実践手順
+source_url: "https://youtu.be/9gYIRrlQm-4?si=ddo3I7pcVrmUp3Fc"
+source_title: "Markdown viewer with java and neutron - YouTube"
+source_id: "437416750"
+excerpt: "JavaとNeutron/JavaFXで一晩で作るライブMarkdownビューアの実践手順"
 ---
 # How to make a markdown viewer in java - JavaでMarkdownビューアを作る方法
 

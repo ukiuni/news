@@ -1,18 +1,16 @@
 ---
-layout: post
-title: ‘South Park’ writer Toby Morton purchases President-Kennedy Center web addresses, - 「サウスパーク」のライター、トビー・モートン氏がケネディ・センターのウェブアドレスを購入
-  plans parody sites
-date: 2025-12-26 03:50:34.244000+00:00
+layout: "post"
+title: "‘South Park’ writer Toby Morton purchases President-Kennedy Center web addresses, - 「サウスパーク」のライター、トビー・モートン氏がケネディ・センターのウェブアドレスを購入 plans parody sites"
+date: "2025-12-26 03:50:34.244000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.washingtontimes.com/news/2025/dec/25/south-park-writer-controls-trump-kennedy-center-web-addresses-plans/
-source_title: '''South Park'' writer controls Trump-Kennedy Center web addresses,
-  plans parody sites - Washington Times'
-source_id: 438003428
+source_url: "https://www.washingtontimes.com/news/2025/dec/25/south-park-writer-controls-trump-kennedy-center-web-addresses-plans/"
+source_title: "'South Park' writer controls Trump-Kennedy Center web addresses, plans parody sites - Washington Times"
+source_id: "438003428"
 ---
 # ‘South Park’ writer Toby Morton purchases President-Kennedy Center web addresses, - 「サウスパーク」のライター、トビー・モートン氏がケネディ・センターのウェブアドレスを購入
 

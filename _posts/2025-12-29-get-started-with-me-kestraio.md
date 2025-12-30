@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Get started with me & Kestra.io - 私と一緒にKestra.ioを始めましょう
-date: 2025-12-29T04:51:03.017Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Get started with me & Kestra.io - 私と一緒にKestra.ioを始めましょう"
+date: "2025-12-29T04:51:03.017Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://dev.to/missamarakay/get-started-with-me-kestraio-b94"
 source_title: "Get started with me &amp; Kestra.io - DEV Community"
-source_id: 3128800
+source_id: "3128800"
 excerpt: "YAMLとノーコードUIで一画面設計、Kestraで連携自動化を即試せる"
 ---
 

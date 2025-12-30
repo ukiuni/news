@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Show HN: Vibe coding a bookshelf with Claude Code - Show HN: Claude Codeで本棚を「バイブス・コーディング」する
-date: 2025-12-29T14:26:31.121Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Show HN: Vibe coding a bookshelf with Claude Code - Show HN: Claude Codeで本棚を「バイブス・コーディング」する"
+date: "2025-12-29T14:26:31.121Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://balajmarius.com/writings/vibe-coding-a-bookshelf-with-claude-code/"
 source_title: "Vibe coding a bookshelf with Claude Code"
-source_id: 46420453
+source_id: "46420453"
 excerpt: "AIに本棚デジタル化を一任し、手作業との境界を明確にしつつ約460冊を短時間で再現した実践ガイド"
 ---
 

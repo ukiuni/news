@@ -1,17 +1,17 @@
 ---
-layout: post
-title: What are you doing this weekend? - 今週末は何をしますか？
-date: 2025-12-26 10:27:14.099000+00:00
+layout: "post"
+title: "What are you doing this weekend? - 今週末は何をしますか？"
+date: "2025-12-26 10:27:14.099000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://lobste.rs/s/yswcyu
-source_title: What are you doing this weekend? | Lobsters
-source_id: 720990974
-excerpt: Bandcampの曲メタをMPRIS経由で正確に流しscrobbleする拡張の作成と公開法
+source_url: "https://lobste.rs/s/yswcyu"
+source_title: "What are you doing this weekend? | Lobsters"
+source_id: "720990974"
+excerpt: "Bandcampの曲メタをMPRIS経由で正確に流しscrobbleする拡張の作成と公開法"
 ---
 # What are you doing this weekend? - 今週末は何をしますか？
 

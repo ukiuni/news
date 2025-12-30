@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Nvidia's $20 billion Groq deal looks a lot like an acquisition in disguise - Nvidiaの200億ドルのGroq取引は、変装した買収のように見える
-date: 2025-12-28T19:16:34.585Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Nvidia's $20 billion Groq deal looks a lot like an acquisition in disguise - Nvidiaの200億ドルのGroq取引は、変装した買収のように見える"
+date: "2025-12-28T19:16:34.585Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.techspot.com/news/110723-nvidia-20-billion-groq-deal-looks-lot-like.html"
 source_title: "Nvidia's $20 billion Groq deal looks a lot like an acquisition in disguise"
-source_id: 436158708
+source_id: "436158708"
 excerpt: "Nvidiaの$200億ライセンスは実質買収でAI推論市場を掌握しようとする狙い"
 ---
 

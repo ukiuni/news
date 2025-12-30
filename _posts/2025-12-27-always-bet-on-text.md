@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Always Bet on Text - 常にテキストに賭けろ
-date: 2025-12-27 01:06:27.454000+00:00
+layout: "post"
+title: "Always Bet on Text - 常にテキストに賭けろ"
+date: "2025-12-27 01:06:27.454000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://graydon2.dreamwidth.org/193447.html
-source_title: graydon2 | always bet on text
-source_id: 46397379
-excerpt: エンジニアが実務で活かせる、検索性と互換性で勝つ“テキスト最優先”の具体策を解説
+source_url: "https://graydon2.dreamwidth.org/193447.html"
+source_title: "graydon2 | always bet on text"
+source_id: "46397379"
+excerpt: "エンジニアが実務で活かせる、検索性と互換性で勝つ“テキスト最優先”の具体策を解説"
 ---
 # Always Bet on Text - 常にテキストに賭けろ
 

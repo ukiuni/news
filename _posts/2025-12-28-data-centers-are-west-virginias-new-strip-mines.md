@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Data centers are West Virginia’s new strip mines - データセンターはウェストバージニア州の新しい露天掘り鉱山だ
-date: 2025-12-28 19:17:14.831000+00:00
+layout: "post"
+title: "Data centers are West Virginia’s new strip mines - データセンターはウェストバージニア州の新しい露天掘り鉱山だ"
+date: "2025-12-28 19:17:14.831000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.salon.com/2025/12/28/data-centers-are-west-virginias-new-strip-mines/
-source_title: Data centers are West Virginia's new strip mines - Salon.com
-source_id: 436133521
-excerpt: 税優遇で誘致されたデータセンターが電力・水資源を食いつぶし、地域負担と撤退リスクを残す現状を暴く
+source_url: "https://www.salon.com/2025/12/28/data-centers-are-west-virginias-new-strip-mines/"
+source_title: "Data centers are West Virginia's new strip mines - Salon.com"
+source_id: "436133521"
+excerpt: "税優遇で誘致されたデータセンターが電力・水資源を食いつぶし、地域負担と撤退リスクを残す現状を暴く"
 ---
 # Data centers are West Virginia’s new strip mines - データセンターはウェストバージニア州の新しい露天掘り鉱山だ
 

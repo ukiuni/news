@@ -1,12 +1,16 @@
 ---
-layout: post
-title: 2D Distance Functions - 2D距離関数
-date: 2025-12-29T08:51:52.602Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "2D Distance Functions - 2D距離関数"
+date: "2025-12-29T08:51:52.602Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://iquilezles.org"
 source_title: "Inigo Quilez :: computer graphics, mathematics, shaders, fractals, demoscene and more"
-source_id: 1045548953
+source_id: "1045548953"
 excerpt: "SDFで短時間に滑らか合成や繰り返し模様を作る実践ガイドと最適化テクニック"
 ---
 

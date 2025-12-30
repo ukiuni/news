@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Can Bundler Be as Fast as uv? - Bundlerはuvと同じくらい速くなれるか？
-date: 2025-12-29T23:31:57.838Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Can Bundler Be as Fast as uv? - Bundlerはuvと同じくらい速くなれるか？"
+date: "2025-12-29T23:31:57.838Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/"
-source_title: "Tenderlove Making -                  Can Bundler Be as Fast as uv?"
-source_id: 1062306616
+source_title: "Tenderlove Making - Can Bundler Be as Fast as uv?"
+source_id: "1062306616"
 excerpt: "設計とキャッシュ改善でBundlerをuv並に実用高速化する最短手法"
 ---
 

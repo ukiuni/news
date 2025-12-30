@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Spherical Cow - 球形の牛（物理学のジョーク）
-date: 2025-12-28 23:45:20.288000+00:00
+layout: "post"
+title: "Spherical Cow - 球形の牛（物理学のジョーク）"
+date: "2025-12-28 23:45:20.288000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://lib.rs/crates/spherical-cow
-source_title: spherical-cow — Rust implementation // Lib.rs
-source_id: 46415458
-excerpt: Rustで任意形状を高密度に球詰め、CAEや医療応用に使える高速ライブラリ
+source_url: "https://lib.rs/crates/spherical-cow"
+source_title: "spherical-cow — Rust implementation // Lib.rs"
+source_id: "46415458"
+excerpt: "Rustで任意形状を高密度に球詰め、CAEや医療応用に使える高速ライブラリ"
 ---
 # Spherical Cow - 球形の牛（物理学のジョーク）
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Why I Think Valve's Retiring the Steam Deck LCD - なぜValveがSteam Deck LCDを引退させると私が思うのか
-date: 2025-12-29T04:50:27.591Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Why I Think Valve's Retiring the Steam Deck LCD - なぜValveがSteam Deck LCDを引退させると私が思うのか"
+date: "2025-12-29T04:50:27.591Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://gardinerbryant.com/why-valves-retiring-the-steam-deck-lcd/"
 source_title: "Why I Think Valve&#x27;s Retiring the Steam Deck LCD"
-source_id: 46417252
+source_id: "46417252"
 excerpt: "Steam DeckのLCD退役はOLED誘導と国内中古価格の変動を招く"
 ---
 

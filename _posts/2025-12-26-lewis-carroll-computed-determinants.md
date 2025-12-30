@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Lewis Carroll Computed Determinants - ルイス・キャロルが計算した行列式
-date: 2025-12-26 20:52:29.087000+00:00
+layout: "post"
+title: "Lewis Carroll Computed Determinants - ルイス・キャロルが計算した行列式"
+date: "2025-12-26 20:52:29.087000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/
-source_title: How Lewis Carroll computed determinants
-source_id: 46395106
-excerpt: ルイス・キャロルの凝縮法で整数保持かつFPGA向けに並列化可能な行列式計算法を紹介
+source_url: "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/"
+source_title: "How Lewis Carroll computed determinants"
+source_id: "46395106"
+excerpt: "ルイス・キャロルの凝縮法で整数保持かつFPGA向けに並列化可能な行列式計算法を紹介"
 ---
 # Lewis Carroll Computed Determinants - ルイス・キャロルが計算した行列式
 

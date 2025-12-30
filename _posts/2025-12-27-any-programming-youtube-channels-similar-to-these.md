@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Any programming youtube channels similar to these? - これらに似たプログラミングYouTubeチャンネルはありますか？
-date: 2025-12-27 06:41:00.516000+00:00
+layout: "post"
+title: "Any programming youtube channels similar to these? - これらに似たプログラミングYouTubeチャンネルはありますか？"
+date: "2025-12-27 06:41:00.516000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.youtube.com/@HirschDaniel
-source_title: Daniel Hirsch - YouTube
-source_id: 437178375
-excerpt: HirschDaniel風の実践的YouTubeチャンネルと探し方、すぐ使える学習法を厳選紹介
+source_url: "https://www.youtube.com/@HirschDaniel"
+source_title: "Daniel Hirsch - YouTube"
+source_id: "437178375"
+excerpt: "HirschDaniel風の実践的YouTubeチャンネルと探し方、すぐ使える学習法を厳選紹介"
 ---
 # Any programming youtube channels similar to these? - これらに似たプログラミングYouTubeチャンネルはありますか？
 

@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Slaughtering Competition Problems with Quantifier Elimination - 限定記号消去法で競技問題を圧倒する
-date: 2025-12-29 01:01:12.550000+00:00
+layout: "post"
+title: "Slaughtering Competition Problems with Quantifier Elimination - 限定記号消去法で競技問題を圧倒する"
+date: "2025-12-29 01:01:12.550000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://grossack.site/2021/12/22/qe-competition.html
-source_title: Slaughtering Competition Problems with Quantifier Elimination | Chris
-  Grossack's Blog
-source_id: 46415448
-excerpt: Sage＋QEPCADで競技数学の不等式や存在命題を自動解析・証明・反例列挙する実践手法を解説
+source_url: "https://grossack.site/2021/12/22/qe-competition.html"
+source_title: "Slaughtering Competition Problems with Quantifier Elimination | Chris Grossack's Blog"
+source_id: "46415448"
+excerpt: "Sage＋QEPCADで競技数学の不等式や存在命題を自動解析・証明・反例列挙する実践手法を解説"
 ---
 # Slaughtering Competition Problems with Quantifier Elimination - 限定記号消去法で競技問題を圧倒する
 

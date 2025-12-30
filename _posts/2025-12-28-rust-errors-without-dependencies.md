@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Rust Errors Without Dependencies - 依存関係なしのRustエラー処理
-date: 2025-12-28T07:15:42.895Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Rust Errors Without Dependencies - 依存関係なしのRustエラー処理"
+date: "2025-12-28T07:15:42.895Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://vincents.dev/blog/rust-errors-without-dependencies/"
 source_title: "Rust Errors Without Dependencies"
-source_id: 764775186
+source_id: "764775186"
 excerpt: "依存ゼロで学ぶ、標準ライブラリだけでエラー連鎖と文脈を保持するRust実践法"
 ---
 

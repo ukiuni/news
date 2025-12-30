@@ -1,19 +1,17 @@
 ---
-layout: post
-title: Deepfakes hit a whole new level in 2025. The 2026 forecast looks like a total - ディープフェイクは2025年に全く新しいレベルに達した。2026年の予測は完全に...
-  reality-check nightmare
-date: 2025-12-27 07:39:49.756000+00:00
+layout: "post"
+title: "Deepfakes hit a whole new level in 2025. The 2026 forecast looks like a total - ディープフェイクは2025年に全く新しいレベルに達した。2026年の予測は完全に... reality-check nightmare"
+date: "2025-12-27 07:39:49.756000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://gizmodo.com/deepfakes-leveled-up-in-2025-heres-whats-coming-next-2000703649
-source_title: "Deepfakes Leveled up in 2025â\x80\x94Hereâ\x80\x99s Whatâ\x80\x99s\
-  \ ComingÂ Next"
-source_id: 437115000
-excerpt: 2026年、即応リアルな合成人物で詐欺や情報戦が激化する衝撃予報
+source_url: "https://gizmodo.com/deepfakes-leveled-up-in-2025-heres-whats-coming-next-2000703649"
+source_title: "Deepfakes Leveled up in 2025â\x80\x94Hereâ\x80\x99s Whatâ\x80\x99s\ \ ComingÂ Next"
+source_id: "437115000"
+excerpt: "2026年、即応リアルな合成人物で詐欺や情報戦が激化する衝撃予報"
 ---
 # Deepfakes hit a whole new level in 2025. The 2026 forecast looks like a total - ディープフェイクは2025年に全く新しいレベルに達した。2026年の予測は完全に...
 

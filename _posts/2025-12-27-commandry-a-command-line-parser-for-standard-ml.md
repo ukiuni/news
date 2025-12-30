@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Commandry - A Command-Line Parser for Standard ML - Commandry - Standard ML用のコマンドラインパーサー
-date: 2025-12-27 15:42:51.086000+00:00
+layout: "post"
+title: "Commandry - A Command-Line Parser for Standard ML - Commandry - Standard ML用のコマンドラインパーサー"
+date: "2025-12-27 15:42:51.086000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://github.com/PerplexSystems/commandry
-source_title: 'GitHub - PerplexSystems/commandry: A command-line parser for Standard
-  ML'
-source_id: 1137160111
-excerpt: 単一ファイルで導入できる宣言的CLIライブラリでSMLの学術ツールを素早く作れる
+source_url: "https://github.com/PerplexSystems/commandry"
+source_title: "GitHub - PerplexSystems/commandry: A command-line parser for Standard ML"
+source_id: "1137160111"
+excerpt: "単一ファイルで導入できる宣言的CLIライブラリでSMLの学術ツールを素早く作れる"
 ---
 # Commandry - A Command-Line Parser for Standard ML - Commandry - Standard ML用のコマンドラインパーサー
 

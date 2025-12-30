@@ -1,12 +1,16 @@
 ---
-layout: post
-title: My First Meshtastic Network - 私の最初のMeshtasticネットワーク
-date: 2025-12-29T06:51:19.554Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "My First Meshtastic Network - 私の最初のMeshtasticネットワーク"
+date: "2025-12-29T06:51:19.554Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html"
 source_title: "RickCarlino.com"
-source_id: 46417676
+source_id: "46417676"
 excerpt: "携帯圏外でも数十キロ通信可能、災害時に役立つDIYメッシュ構築法"
 ---
 

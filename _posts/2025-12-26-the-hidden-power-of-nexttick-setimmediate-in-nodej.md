@@ -1,12 +1,16 @@
 ---
-layout: post
-title: The Hidden Power of nextTick + setImmediate in Node.js - Node.jsにおけるnextTick + setImmediateの隠れた力
-date: 2025-12-26T04:08:11.666Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "The Hidden Power of nextTick + setImmediate in Node.js - Node.jsにおけるnextTick + setImmediateの隠れた力"
+date: "2025-12-26T04:08:11.666Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://medium.com/@unclexo/the-hidden-power-of-nexttick-setimmediate-in-node-js-2bd5b5fb7e28"
 source_title: "The Hidden Power of nextTick + setImmediate in Node.js"
-source_id: 438235999
+source_id: "438235999"
 ---
 
 # The Hidden Power of nextTick + setImmediate in Node.js - Node.jsにおけるnextTick + setImmediateの隠れた力

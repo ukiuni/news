@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Multiscale Aperture Synthesis Imager - マルチスケール開口合成イメージャー
-date: 2025-12-28 08:16:13.713000+00:00
+layout: "post"
+title: "Multiscale Aperture Synthesis Imager - マルチスケール開口合成イメージャー"
+date: "2025-12-28 08:16:13.713000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.nature.com/articles/s41467-025-65661-8
-source_title: Multiscale aperture synthesis imager | Nature Communications
-source_id: 46389418
-excerpt: レンズ不要の分散センサと計算で長距離・広視野におけるサブミクロン解像を実現する新合成開口イメージング
+source_url: "https://www.nature.com/articles/s41467-025-65661-8"
+source_title: "Multiscale aperture synthesis imager | Nature Communications"
+source_id: "46389418"
+excerpt: "レンズ不要の分散センサと計算で長距離・広視野におけるサブミクロン解像を実現する新合成開口イメージング"
 ---
 # Multiscale Aperture Synthesis Imager - マルチスケール開口合成イメージャー
 

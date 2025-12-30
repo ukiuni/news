@@ -1,12 +1,16 @@
 ---
-layout: post
+layout: "post"
 title: "Micro Center lists 8TB WD_Black SSD at $2,419 MSRP, real price tag up 50% since October — pricing surges on high-capacity SSDs in response to AI demand - 8TB SSDが“数千ドル”表示で話題に — AIバブルがもたらす高容量ストレージの価格ショック"
-date: 2025-12-30T00:37:34.751Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+date: "2025-12-30T00:37:34.751Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.tomshardware.com/pc-components/ssds/micro-center-puts-up-8tb-wd-black-ssd-at-usd2-419-msrp-real-price-tag-up-50-percent-since-october-pricing-surges-on-high-capacity-ssds-in-response-to-ai-demand"
 source_title: "Micro Center lists 8TB WD_Black SSD at $2,419 MSRP, real price tag up 50% since October — pricing surges on high-capacity SSDs in response to AI demand"
-source_id: 435186096
+source_id: "435186096"
 excerpt: "AI需要で8TB SSDが約50％高騰、買い時の判断とコスト削減策を詳述"
 ---
 

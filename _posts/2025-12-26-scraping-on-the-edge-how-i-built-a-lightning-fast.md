@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Scraping on the Edge: How I Built a Lightning-Fast Manga Reader with SvelteKit - エッジでのスクレイピング：SvelteKitで超高速マンガリーダーを構築した方法
-date: 2025-12-26 06:12:40.468000+00:00
+layout: "post"
+title: "Scraping on the Edge: How I Built a Lightning-Fast Manga Reader with SvelteKit - エッジでのスクレイピング：SvelteKitで超高速マンガリーダーを構築した方法"
+date: "2025-12-26 06:12:40.468000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://dev.to/adrian_fathan/scraping-on-the-edge-how-i-built-a-lightning-fast-manga-reader-with-sveltekit-h8o
-source_title: 'Scraping on the Edge: How I Built a Lightning-Fast Manga Reader with
-  SvelteKit - DEV Community'
-source_id: 3122583
-excerpt: エッジで動くSvelteKit×Workersで広告無し高速漫画リーダーを作る
+source_url: "https://dev.to/adrian_fathan/scraping-on-the-edge-how-i-built-a-lightning-fast-manga-reader-with-sveltekit-h8o"
+source_title: "Scraping on the Edge: How I Built a Lightning-Fast Manga Reader with SvelteKit - DEV Community"
+source_id: "3122583"
+excerpt: "エッジで動くSvelteKit×Workersで広告無し高速漫画リーダーを作る"
 ---
 # Scraping on the Edge: How I Built a Lightning-Fast Manga Reader with SvelteKit - エッジでのスクレイピング：SvelteKitで超高速マンガリーダーを構築した方法
 

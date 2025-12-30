@@ -1,17 +1,16 @@
 ---
-layout: post
-title: ACE - a tiny experimental language (function calls as effects) - ACE - 極小の実験的言語（エフェクトとしての関数呼び出し）
-date: 2025-12-26 04:09:08.307000+00:00
+layout: "post"
+title: "ACE - a tiny experimental language (function calls as effects) - ACE - 極小の実験的言語（エフェクトとしての関数呼び出し）"
+date: "2025-12-26 04:09:08.307000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://github.com/Lee-WonJun/ACE
-source_title: 'GitHub - Lee-WonJun/ACE: ACE (Algebraic Call Effects) is a proof-of-concept
-  language where function calls are treated as algebraic effects.'
-source_id: 438041344
+source_url: "https://github.com/Lee-WonJun/ACE"
+source_title: "GitHub - Lee-WonJun/ACE: ACE (Algebraic Call Effects) is a proof-of-concept language where function calls are treated as algebraic effects."
+source_id: "438041344"
 ---
 # ACE - a tiny experimental language (function calls as effects) - ACE - 極小の実験的言語（エフェクトとしての関数呼び出し）
 

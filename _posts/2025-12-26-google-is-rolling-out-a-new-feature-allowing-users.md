@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Google is rolling out a new feature allowing users to change their Gmail address - Google、ユーザーがGmailアドレスを変更できる新機能を展開中
-date: 2025-12-26 14:27:04.423000+00:00
+layout: "post"
+title: "Google is rolling out a new feature allowing users to change their Gmail address - Google、ユーザーがGmailアドレスを変更できる新機能を展開中"
+date: "2025-12-26 14:27:04.423000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.cnbc.com/2025/12/26/google-gmail-change-email-address-without-new-account-india-hindi-support.html
-source_title: Google is rolling out a feature that allow users to change their Gmail
-  address
-source_id: 438975551
-excerpt: 古いGmailアドレスを残したまま新アドレスに変更できる新機能が段階展開中
+source_url: "https://www.cnbc.com/2025/12/26/google-gmail-change-email-address-without-new-account-india-hindi-support.html"
+source_title: "Google is rolling out a feature that allow users to change their Gmail address"
+source_id: "438975551"
+excerpt: "古いGmailアドレスを残したまま新アドレスに変更できる新機能が段階展開中"
 ---
 # Google is rolling out a new feature allowing users to change their Gmail address - Google、ユーザーがGmailアドレスを変更できる新機能を展開中
 

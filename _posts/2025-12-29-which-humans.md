@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Which Humans? - どの人間か？
-date: 2025-12-29T21:27:13.683Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Which Humans? - どの人間か？"
+date: "2025-12-29T21:27:13.683Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://osf.io/preprints/psyarxiv/5b26t_v1"
 source_title: "OSF"
-source_id: 46424782
+source_id: "46424782"
 excerpt: "OSFだけで真相不明：全文提示か代表性論点で深掘り記事を作成"
 ---
 

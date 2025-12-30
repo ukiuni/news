@@ -1,17 +1,17 @@
 ---
-layout: post
-title: One million (small web) screenshots - 100万枚の（スモールウェブ）スクリーンショット
-date: 2025-12-27 02:07:38.939000+00:00
+layout: "post"
+title: "One million (small web) screenshots - 100万枚の（スモールウェブ）スクリーンショット"
+date: "2025-12-27 02:07:38.939000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://nry.me/posts/2025-10-09/small-web-screenshots/
-source_title: Nathan Rooy
-source_id: 46354492
-excerpt: スクリーンショット×SOMで未発掘の小規模良サイトを視覚発見、デザインや知見を得る
+source_url: "https://nry.me/posts/2025-10-09/small-web-screenshots/"
+source_title: "Nathan Rooy"
+source_id: "46354492"
+excerpt: "スクリーンショット×SOMで未発掘の小規模良サイトを視覚発見、デザインや知見を得る"
 ---
 # One million (small web) screenshots - 100万枚の（スモールウェブ）スクリーンショット
 

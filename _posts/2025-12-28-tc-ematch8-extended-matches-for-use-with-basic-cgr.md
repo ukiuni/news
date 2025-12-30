@@ -1,17 +1,17 @@
 ---
-layout: post
-title: tc-ematch(8) extended matches for use with "basic", "cgroup" or "flow" filters - tc-ematch(8) 「basic」、「cgroup」、「flow」フィルタで使用するための拡張マッチ
-date: 2025-12-28 17:17:20.272000+00:00
+layout: "post"
+title: "tc-ematch(8) extended matches for use with \"basic\", \"cgroup\" or \"flow\" filters - tc-ematch(8) 「basic」、「cgroup」、「flow」フィルタで使用するための拡張マッチ"
+date: "2025-12-28 17:17:20.272000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://man7.org/linux/man-pages/man8/tc-ematch.8.html
-source_title: tc-ematch(8) - Linux manual page
-source_id: 46412327
-excerpt: tc-ematchでバイト単位の精密マッチによりipsetやメタ情報で高度なトラフィック分類を実現
+source_url: "https://man7.org/linux/man-pages/man8/tc-ematch.8.html"
+source_title: "tc-ematch(8) - Linux manual page"
+source_id: "46412327"
+excerpt: "tc-ematchでバイト単位の精密マッチによりipsetやメタ情報で高度なトラフィック分類を実現"
 ---
 # tc-ematch(8) extended matches for use with "basic", "cgroup" or "flow" filters - tc-ematch(8) 「basic」、「cgroup」、「flow」フィルタで使用するための拡張マッチ
 

@@ -1,17 +1,17 @@
 ---
-layout: post
-title: The Algebra of Loans in Rust - Rustにおける借用の代数
-date: 2025-12-26 10:25:05.952000+00:00
+layout: "post"
+title: "The Algebra of Loans in Rust - Rustにおける借用の代数"
+date: "2025-12-26 10:25:05.952000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html
-source_title: The Algebra of Loans in Rust | Nadri’s musings
-source_id: 46357814
-excerpt: 借用の代数学で&own・&pin・&uninitが安全なAPI設計を可能にする
+source_url: "https://nadrieril.github.io/blog/2025/12/21/the-algebra-of-loans-in-rust.html"
+source_title: "The Algebra of Loans in Rust | Nadri’s musings"
+source_id: "46357814"
+excerpt: "借用の代数学で&own・&pin・&uninitが安全なAPI設計を可能にする"
 ---
 # The Algebra of Loans in Rust - Rustにおける借用の代数
 

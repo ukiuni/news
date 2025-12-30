@@ -1,12 +1,16 @@
 ---
-layout: post
-title: TIL: serde's borrowing can be treacherous - TIL: serdeの借用は油断ならない
-date: 2025-12-26T18:23:01.797Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "TIL: serde's borrowing can be treacherous - TIL: serdeの借用は油断ならない"
+date: "2025-12-26T18:23:01.797Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://yossarian.net/til/post/serde-s-borrowing-can-be-treacherous/"
 source_title: "TIL: serde's borrowing can be treacherous"
-source_id: 987195092
+source_id: "987195092"
 excerpt: "serdeのゼロコピー借用はJSONのエスケープで実行時に破綻し、CowやStringで回避せよ"
 ---
 

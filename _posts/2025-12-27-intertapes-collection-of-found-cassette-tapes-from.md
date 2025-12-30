@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Intertapes – collection of found cassette tapes from different locations - Intertapes – 様々な場所で見つかったカセットテープのコレクション
-date: 2025-12-27 12:40:11.341000+00:00
+layout: "post"
+title: "Intertapes – collection of found cassette tapes from different locations - Intertapes – 様々な場所で見つかったカセットテープのコレクション"
+date: "2025-12-27 12:40:11.341000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://intertapes.net/
-source_title: Intertapes
-source_id: 46345528
-excerpt: 発見カセットを修復・高解像度化して失われた地域記憶を可視化する実践ガイド
+source_url: "https://intertapes.net/"
+source_title: "Intertapes"
+source_id: "46345528"
+excerpt: "発見カセットを修復・高解像度化して失われた地域記憶を可視化する実践ガイド"
 ---
 # Intertapes – collection of found cassette tapes from different locations - Intertapes – 様々な場所で見つかったカセットテープのコレクション
 

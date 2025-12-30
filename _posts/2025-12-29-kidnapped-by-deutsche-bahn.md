@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Kidnapped by Deutsche Bahn - ドイツ鉄道に誘拐されて
-date: 2025-12-29T13:27:06.600Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Kidnapped by Deutsche Bahn - ドイツ鉄道に誘拐されて"
+date: "2025-12-29T13:27:06.600Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/"
 source_title: "I Was Kidnapped by Deutsche Bahn and All I Got Was 1.50 EUR"
-source_id: 46419970
+source_id: "46419970"
 excerpt: "DBの運行データ欠陥で短距離移動が大迂回に—補償と案内のズレが招いた誘拐体験"
 ---
 

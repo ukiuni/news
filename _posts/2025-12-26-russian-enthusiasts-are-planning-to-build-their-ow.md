@@ -1,20 +1,16 @@
 ---
-layout: post
-title: Russian enthusiasts are planning to build their own DDR5 RAM amidst the worldwide - ロシアの愛好家、世界的な不足の中で独自のDDR5 RAMの構築を計画中
-  shortage — do-it-yourself RAM is as 'easy' as sourcing your own memory modules and
-  soldering them on empty PCBs
-date: 2025-12-26 03:49:43.315000+00:00
+layout: "post"
+title: "Russian enthusiasts are planning to build their own DDR5 RAM amidst the worldwide - ロシアの愛好家、世界的な不足の中で独自のDDR5 RAMの構築を計画中 shortage — do-it-yourself RAM is as 'easy' as sourcing your own memory modules and soldering them on empty PCBs"
+date: "2025-12-26 03:49:43.315000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.tomshardware.com/pc-components/ddr5/russian-enthusiasts-are-building-their-own-ddr5-ram-amidst-the-worldwide-shortage-as-easy-as-sourcing-your-own-memory-modules-and-soldering-them-on-empty-pcbs
-source_title: Russian enthusiasts planning do-it-yourself DDR5 memory amidst the worldwide
-  shortage — building your own RAM is as 'easy' as sourcing your own memory modules
-  and soldering them on empty PCBs | Tom's Hardware
-source_id: 438422293
+source_url: "https://www.tomshardware.com/pc-components/ddr5/russian-enthusiasts-are-building-their-own-ddr5-ram-amidst-the-worldwide-shortage-as-easy-as-sourcing-your-own-memory-modules-and-soldering-them-on-empty-pcbs"
+source_title: "Russian enthusiasts planning do-it-yourself DDR5 memory amidst the worldwide shortage — building your own RAM is as 'easy' as sourcing your own memory modules and soldering them on empty PCBs | Tom's Hardware"
+source_id: "438422293"
 ---
 # Russian enthusiasts are planning to build their own DDR5 RAM amidst the worldwide - ロシアの愛好家、世界的な不足の中で独自のDDR5 RAMの構築を計画中
 

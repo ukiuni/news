@@ -1,12 +1,16 @@
 ---
-layout: post
-title: The future of software development is software developers - ソフトウェア開発の未来はソフトウェア開発者である
-date: 2025-12-29T22:25:56.104Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "The future of software development is software developers - ソフトウェア開発の未来はソフトウェア開発者である"
+date: "2025-12-29T22:25:56.104Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://codemanship.wordpress.com/2025/11/25/the-future-of-software-development-is-software-developers/"
 source_title: "The Future of Software Development is Software Developers &#8211; Codemanship&#039;s Blog"
-source_id: 46424233
+source_id: "46424233"
 excerpt: "AIは補助に過ぎず、開発者の技能強化が企業の競争力と未来を決める"
 ---
 

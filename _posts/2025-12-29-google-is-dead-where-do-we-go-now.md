@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Google is dead. Where do we go now? - Googleは死んだ。私たちは今どこへ向かうべきか？
-date: 2025-12-29T21:25:53.827Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Google is dead. Where do we go now? - Googleは死んだ。私たちは今どこへ向かうべきか？"
+date: "2025-12-29T21:25:53.827Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/"
 source_title: "Google is dead. Where do we go now? - Circus Scientist"
-source_id: 46425198
+source_id: "46425198"
 excerpt: "Google広告崩壊で売上半減、即実行の計測改善と短尺動画で生き残る戦術を解説"
 ---
 

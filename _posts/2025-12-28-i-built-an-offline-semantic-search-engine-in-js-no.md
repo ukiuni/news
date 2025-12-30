@@ -1,20 +1,17 @@
 ---
-layout: post
-title: I built an offline semantic search engine in JS (no DB, no APIs), Feedback - JSでオフラインセマンティック検索エンジンを構築（DBなし、APIなし）、フィードバック募集中
-  Appreciated
-date: 2025-12-28 11:17:04.414000+00:00
+layout: "post"
+title: "I built an offline semantic search engine in JS (no DB, no APIs), Feedback - JSでオフラインセマンティック検索エンジンを構築（DBなし、APIなし）、フィードバック募集中 Appreciated"
+date: "2025-12-28 11:17:04.414000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://github.com/iaavas/simile-search
-source_title: 'GitHub - iaavas/simile-search: Simile combines the power of AI embeddings
-  with fuzzy string matching and keyword search to deliver highly relevant search
-  results—all running locally, no API calls required.'
-source_id: 436265826
-excerpt: API不要で完全ローカル、JSとHNSWで高速・高精度なオフライン意味検索を実装する方法
+source_url: "https://github.com/iaavas/simile-search"
+source_title: "GitHub - iaavas/simile-search: Simile combines the power of AI embeddings with fuzzy string matching and keyword search to deliver highly relevant search results—all running locally, no API calls required."
+source_id: "436265826"
+excerpt: "API不要で完全ローカル、JSとHNSWで高速・高精度なオフライン意味検索を実装する方法"
 ---
 # I built an offline semantic search engine in JS (no DB, no APIs), Feedback - JSでオフラインセマンティック検索エンジンを構築（DBなし、APIなし）、フィードバック募集中
 

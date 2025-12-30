@@ -1,17 +1,17 @@
 ---
-layout: post
-title: One year of keeping a tada list - 「タダ（できたこと）」リストを付け始めて1年
-date: 2025-12-28 14:26:59.353000+00:00
+layout: "post"
+title: "One year of keeping a tada list - 「タダ（できたこと）」リストを付け始めて1年"
+date: "2025-12-28 14:26:59.353000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list
-source_title: One year of keeping a tada list - by Aditya Bhargava
-source_id: 46354282
-excerpt: 毎日のtada記録で学びと創作の積み重ねが可視化され具体成果に結びつく
+source_url: "https://www.ducktyped.org/p/one-year-of-keeping-a-tada-list"
+source_title: "One year of keeping a tada list - by Aditya Bhargava"
+source_id: "46354282"
+excerpt: "毎日のtada記録で学びと創作の積み重ねが可視化され具体成果に結びつく"
 ---
 # One year of keeping a tada list - 「タダ（できたこと）」リストを付け始めて1年
 

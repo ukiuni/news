@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Stepping down as Mockito maintainer after 10 years - 10年務めたMockitoのメンテナを退任
-date: 2025-12-28 21:16:38.607000+00:00
+layout: "post"
+title: "Stepping down as Mockito maintainer after 10 years - 10年務めたMockitoのメンテナを退任"
+date: "2025-12-28 21:16:38.607000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://github.com/mockito/mockito/issues/3777
-source_title: 'Stepping down as maintainer after 10 years · Issue #3777 · mockito/mockito
-  · GitHub'
-source_id: 46414078
-excerpt: Mockitoの主要メンテが10年で辞任、JVMエージェント化とKotlin負荷で互換性に警戒を促す
+source_url: "https://github.com/mockito/mockito/issues/3777"
+source_title: "Stepping down as maintainer after 10 years · Issue #3777 · mockito/mockito · GitHub"
+source_id: "46414078"
+excerpt: "Mockitoの主要メンテが10年で辞任、JVMエージェント化とKotlin負荷で互換性に警戒を促す"
 ---
 # Stepping down as Mockito maintainer after 10 years - 10年務めたMockitoのメンテナを退任
 

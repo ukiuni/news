@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Asking Gemini 3 for Brainf*ck code puts it in an infinite loop - Gemini 3にBrainf*ckのコードを求めると無限ループに陥る
-date: 2025-12-29T11:26:43.078Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Asking Gemini 3 for Brainf*ck code puts it in an infinite loop - Gemini 3にBrainf*ckのコードを求めると無限ループに陥る"
+date: "2025-12-29T11:26:43.078Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://teodordyakov.github.io/brainfuck-agi/"
 source_title: "Brainf*ck: The Ultimate AGI Test"
-source_id: 46418966
+source_id: "46418966"
 excerpt: "Gemini 3にBrainf*ck生成を頼むと無限ループ化し、停止性と推論力の脆弱性を暴く実例解説"
 ---
 

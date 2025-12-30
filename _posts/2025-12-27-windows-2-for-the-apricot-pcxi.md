@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Windows 2 for the Apricot PC/Xi - Apricot PC/Xi用のWindows 2
-date: 2025-12-27T19:41:23.067Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Windows 2 for the Apricot PC/Xi - Apricot PC/Xi用のWindows 2"
+date: "2025-12-27T19:41:23.067Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.ninakalinina.com/notes/win2apri/"
 source_title: "Windows 2 for the Apricot PC/Xi"
-source_id: 46403915
+source_id: "46403915"
 excerpt: "Apricot PC/XiへWindows 2を移植し実機でWord/Excelを動かした技術記録"
 ---
 

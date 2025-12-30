@@ -1,19 +1,17 @@
 ---
-layout: post
-title: Zuckerberg settles $8 billion lawsuit over Cambridge Analytica scandal, avoids - ザッカーバーグ氏、ケンブリッジ・アナリティカ事件を巡る80億ドルの訴訟で和解
-  testifying
-date: 2025-12-28 01:08:30.303000+00:00
+layout: "post"
+title: "Zuckerberg settles $8 billion lawsuit over Cambridge Analytica scandal, avoids - ザッカーバーグ氏、ケンブリッジ・アナリティカ事件を巡る80億ドルの訴訟で和解 testifying"
+date: "2025-12-28 01:08:30.303000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.france24.com/en/americas/20250717-zuckerberg-settles-8-billion-lawsuit-over-cambridge-analytica-scandal-avoids-testifying
-source_title: Zuckerberg settles $8 billion lawsuit over Cambridge Analytica scandal,
-  avoids testifying - France 24
-source_id: 437864544
-excerpt: ザッカーバーグが$8Bで和解、証言回避が示すSNS責任の現実
+source_url: "https://www.france24.com/en/americas/20250717-zuckerberg-settles-8-billion-lawsuit-over-cambridge-analytica-scandal-avoids-testifying"
+source_title: "Zuckerberg settles $8 billion lawsuit over Cambridge Analytica scandal, avoids testifying - France 24"
+source_id: "437864544"
+excerpt: "ザッカーバーグが$8Bで和解、証言回避が示すSNS責任の現実"
 ---
 # Zuckerberg settles $8 billion lawsuit over Cambridge Analytica scandal, avoids - ザッカーバーグ氏、ケンブリッジ・アナリティカ事件を巡る80億ドルの訴訟で和解
 

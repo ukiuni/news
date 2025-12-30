@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Eertree - an interactive guide - Eertree - インタラクティブガイド
-date: 2025-12-27T15:42:10.946Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Eertree - an interactive guide - Eertree - インタラクティブガイド"
+date: "2025-12-27T15:42:10.946Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://ufukhaciogullari.com/blog/eertree/"
 source_title: "Eertree - an interactive guide"
-source_id: 438184342
+source_id: "438184342"
 excerpt: "Eertreeで文字列を左からオンライン処理し、全回文を高速検出・出現頻度まで集計する実装ガイド"
 ---
 

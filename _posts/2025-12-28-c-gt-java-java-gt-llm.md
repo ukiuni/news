@@ -1,17 +1,17 @@
 ---
-layout: post
-title: C -&gt; Java != Java -&gt; LLM - CからJavaへの変換は、JavaからLLMへの変換とは異なる
-date: 2025-12-28 05:16:51.949000+00:00
+layout: "post"
+title: "C -&gt; Java != Java -&gt; LLM - CからJavaへの変換は、JavaからLLMへの変換とは異なる"
+date: "2025-12-28 05:16:51.949000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.observationalhazard.com/2025/12/c-java-java-llm.html
-source_title: C -> Java != Java -> LLM ~ Observational Hazard
-source_id: 436424234
-excerpt: LLMはコード生成を強化するが、ソースと開発プロセスの重要性は変わらないと警告する
+source_url: "https://www.observationalhazard.com/2025/12/c-java-java-llm.html"
+source_title: "C -> Java != Java -> LLM ~ Observational Hazard"
+source_id: "436424234"
+excerpt: "LLMはコード生成を強化するが、ソースと開発プロセスの重要性は変わらないと警告する"
 ---
 # C -&gt; Java != Java -&gt; LLM - CからJavaへの変換は、JavaからLLMへの変換とは異なる
 

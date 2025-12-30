@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Beautiful reprs - 美しいrepr（表現）
-date: 2025-12-26 11:24:59.247000+00:00
+layout: "post"
+title: "Beautiful reprs - 美しいrepr（表現）"
+date: "2025-12-26 11:24:59.247000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://pomponchik.org/notes/beautiful-reprs/
-source_title: Beautiful reprs | blinov
-source_id: 1102099719
-excerpt: 再現性ある美しいrepr生成と機密マスクでログを安全にする小型ライブラリprinto
+source_url: "https://pomponchik.org/notes/beautiful-reprs/"
+source_title: "Beautiful reprs | blinov"
+source_id: "1102099719"
+excerpt: "再現性ある美しいrepr生成と機密マスクでログを安全にする小型ライブラリprinto"
 ---
 # Beautiful reprs - 美しいrepr（表現）
 

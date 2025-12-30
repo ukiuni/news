@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Geometric Algorithms for Translucency Sorting in Minecraft [pdf] - Minecraftにおける半透明ソートのための幾何学的アルゴリズム [pdf]
-date: 2025-12-26T10:24:18.100Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Geometric Algorithms for Translucency Sorting in Minecraft [pdf] - Minecraftにおける半透明ソートのための幾何学的アルゴリズム [pdf]"
+date: "2025-12-26T10:24:18.100Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://douira.dev/assets/document/douira-master-thesis.pdf"
 source_title: "Geometric Algorithms for Translucency Sorting in Minecraft [pdf]"
-source_id: 46390667
+source_id: "46390667"
 excerpt: "Minecraftの半透明描画を劇的高速化する、ボクセル特化の幾何学的ソート＆OITハイブリッド手法まとめ"
 ---
 

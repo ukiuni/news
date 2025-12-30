@@ -1,16 +1,16 @@
 ---
-layout: post
-title: Schwarzschild Geodesic Visualization in C++/WebAssembly - C++/WebAssemblyによるシュヴァルツシルト測地線の可視化
-date: 2025-12-26 04:07:51.575000+00:00
+layout: "post"
+title: "Schwarzschild Geodesic Visualization in C++/WebAssembly - C++/WebAssemblyによるシュヴァルツシルト測地線の可視化"
+date: "2025-12-26 04:07:51.575000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://schwarzschild-vercel.vercel.app/
-source_title: Schwarzschild Geodesics | Advanced Simulation
-source_id: 438037009
+source_url: "https://schwarzschild-vercel.vercel.app/"
+source_title: "Schwarzschild Geodesics | Advanced Simulation"
+source_id: "438037009"
 ---
 # Schwarzschild Geodesic Visualization in C++/WebAssembly - C++/WebAssemblyによるシュヴァルツシルト測地線の可視化
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Make your PR process resilient to AI slop - PRプロセスをAIの「スロップ（ゴミ）」に耐性のあるものにする
-date: 2025-12-26T04:07:21.440Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Make your PR process resilient to AI slop - PRプロセスをAIの「スロップ（ゴミ）」に耐性のあるものにする"
+date: "2025-12-26T04:07:21.440Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.pcloadletter.dev/blog/pr-review-ai-slop-resilience/"
 source_title: "Make your PR process resilient to AI slop"
-source_id: 437953366
+source_id: "437953366"
 ---
 
 # Make your PR process resilient to AI slop - PRプロセスをAIの「スロップ（ゴミ）」に耐性のあるものにする

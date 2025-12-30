@@ -1,12 +1,16 @@
 ---
-layout: post
-title: FFmpeg has issued a DMCA takedown on GitHub - FFmpegがGitHubでDMCA削除要請を発行
-date: 2025-12-26T20:31:58.667Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "FFmpeg has issued a DMCA takedown on GitHub - FFmpegがGitHubでDMCA削除要請を発行"
+date: "2025-12-26T20:31:58.667Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://twitter.com/FFmpeg/status/2004599109559496984"
 source_title: "FFmpeg has issued a DMCA takedown on GitHub"
-source_id: 46394327
+source_id: "46394327"
 excerpt: "FFmpegがGitHubにDMCA申立て、あなたの製品は今すぐ依存確認を"
 ---
 

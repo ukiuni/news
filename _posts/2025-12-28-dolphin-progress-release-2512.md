@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Dolphin Progress Release 2512 - Dolphin進捗リリース 2512
-date: 2025-12-28 22:18:51.615000+00:00
+layout: "post"
+title: "Dolphin Progress Release 2512 - Dolphin進捗リリース 2512"
+date: "2025-12-28 22:18:51.615000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/
-source_title: 'Dolphin Emulator - Dolphin Progress Report: Release 2512'
-source_id: 46414916
-excerpt: Dolphin 2512で遅延を大幅短縮し滑らか表示実現、対戦やモバイルで即活用できる新機能を解説
+source_url: "https://dolphin-emu.org/blog/2025/12/22/dolphin-progress-report-release-2512/"
+source_title: "Dolphin Emulator - Dolphin Progress Report: Release 2512"
+source_id: "46414916"
+excerpt: "Dolphin 2512で遅延を大幅短縮し滑らか表示実現、対戦やモバイルで即活用できる新機能を解説"
 ---
 # Dolphin Progress Release 2512 - Dolphin進捗リリース 2512
 

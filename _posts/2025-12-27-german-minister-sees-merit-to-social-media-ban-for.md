@@ -1,17 +1,17 @@
 ---
-layout: post
-title: German minister sees 'merit' to social media ban for teens - ドイツの閣僚、10代のソーシャルメディア禁止に「メリット」を見出す
-date: 2025-12-27 00:05:47.952000+00:00
+layout: "post"
+title: "German minister sees 'merit' to social media ban for teens - ドイツの閣僚、10代のソーシャルメディア禁止に「メリット」を見出す"
+date: "2025-12-27 00:05:47.952000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.dw.com/en/german-minister-sees-merit-to-social-media-ban-for-teens/a-75308862
-source_title: German minister sees 'merit' to social media ban for teens – DW – 12/26/2025
-source_id: 437502245
-excerpt: ドイツがSNSを16歳未満禁止検討、年齢確認や回避対策で技術者に緊急課題
+source_url: "https://www.dw.com/en/german-minister-sees-merit-to-social-media-ban-for-teens/a-75308862"
+source_title: "German minister sees 'merit' to social media ban for teens – DW – 12/26/2025"
+source_id: "437502245"
+excerpt: "ドイツがSNSを16歳未満禁止検討、年齢確認や回避対策で技術者に緊急課題"
 ---
 # German minister sees 'merit' to social media ban for teens - ドイツの閣僚、10代のソーシャルメディア禁止に「メリット」を見出す
 

@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Remembering Lou Gerstner - ルー・ガースナーを偲んで
-date: 2025-12-28 20:18:10.936000+00:00
+layout: "post"
+title: "Remembering Lou Gerstner - ルー・ガースナーを偲んで"
+date: "2025-12-28 20:18:10.936000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner
-source_title: Remembering Lou Gerstner
-source_id: 46413365
-excerpt: 顧客起点でIBMを再生したゲルストナー流の組織と会議改革の実践術、今すぐ使える
+source_url: "https://newsroom.ibm.com/2025-12-28-Remembering-Lou-Gerstner"
+source_title: "Remembering Lou Gerstner"
+source_id: "46413365"
+excerpt: "顧客起点でIBMを再生したゲルストナー流の組織と会議改革の実践術、今すぐ使える"
 ---
 # Remembering Lou Gerstner - ルー・ガースナーを偲んで
 

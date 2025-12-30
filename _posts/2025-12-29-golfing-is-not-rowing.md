@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Golfing Is Not Rowing - ゴルフはボート漕ぎではない
-date: 2025-12-29T16:26:39.819Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Golfing Is Not Rowing - ゴルフはボート漕ぎではない"
+date: "2025-12-29T16:26:39.819Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://taylor.town/golf-vs-rowing"
 source_title: "Golfing Is Not Rowing"
-source_id: 46379579
+source_id: "46379579"
 excerpt: "創造的な仕事では毎日少しずつが逆効果、探索と実装を分離しムリガニで勝つ方法必見"
 ---
 

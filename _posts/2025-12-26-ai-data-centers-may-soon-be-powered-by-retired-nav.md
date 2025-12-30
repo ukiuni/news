@@ -1,19 +1,16 @@
 ---
-layout: post
-title: AI data centers may soon be powered by retired Navy nuclear reactors from aircraft - AIデータセンター、間もなく退役した海軍の空母用原子炉で稼働する可能性
-  carriers and submarines — firm asks U.S. DOE for a loan guarantee to start the project
-date: 2025-12-26 03:51:50.336000+00:00
+layout: "post"
+title: "AI data centers may soon be powered by retired Navy nuclear reactors from aircraft - AIデータセンター、間もなく退役した海軍の空母用原子炉で稼働する可能性 carriers and submarines — firm asks U.S. DOE for a loan guarantee to start the project"
+date: "2025-12-26 03:51:50.336000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.tomshardware.com/tech-industry/startup-proposes-using-retired-navy-nuclear-reactors-from-aircraft-carriers-and-submarines-for-ai-data-centers-firm-asks-u-s-doe-for-a-loan-guarantee-to-start-the-project
-source_title: AI data centers may soon be powered by retired Navy nuclear reactors
-  from aircraft carriers and submarines — firm asks U.S. DOE for a loan guarantee
-  to start the project | Tom's Hardware
-source_id: 438366005
+source_url: "https://www.tomshardware.com/tech-industry/startup-proposes-using-retired-navy-nuclear-reactors-from-aircraft-carriers-and-submarines-for-ai-data-centers-firm-asks-u-s-doe-for-a-loan-guarantee-to-start-the-project"
+source_title: "AI data centers may soon be powered by retired Navy nuclear reactors from aircraft carriers and submarines — firm asks U.S. DOE for a loan guarantee to start the project | Tom's Hardware"
+source_id: "438366005"
 ---
 # AI data centers may soon be powered by retired Navy nuclear reactors from aircraft - AIデータセンター、間もなく退役した海軍の空母用原子炉で稼働する可能性
 

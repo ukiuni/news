@@ -1,12 +1,16 @@
 ---
-layout: post
+layout: "post"
 title: "We own the hardware, but not the experience anymore — Big Tech keeps building smarter, more connected devices, but user experience feels more intrusive, confusing, and less human | The line between helpful tech and quiet surveillance is blurring — and devices no longer feel fully under our control - 所有しているのに「操れない」──スマートデバイスがいつの間にか他人のものに感じる理由"
-date: 2025-12-30T00:38:06.212Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+date: "2025-12-30T00:38:06.212Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.windowscentral.com/hardware/big-tech-or-big-brother-our-devices-dont-feel-like-theyre-working-for-us"
 source_title: "We own the hardware, but not the experience anymore — Big Tech keeps building smarter, more connected devices, but user experience feels more intrusive, confusing, and less human | The line between helpful tech and quiet surveillance is blurring — and devices no longer feel fully under our control"
-source_id: 435057395
+source_id: "435057395"
 excerpt: "所有しているのに操れない—更新や追跡で収益化され装置が他人物に"
 ---
 

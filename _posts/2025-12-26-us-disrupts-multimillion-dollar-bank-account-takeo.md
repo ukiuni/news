@@ -1,17 +1,16 @@
 ---
-layout: post
-title: US disrupts multimillion-dollar bank account takeover operation targeting Americans - 米国、アメリカ人を標的とした数百万ドル規模の銀行口座乗っ取り作戦を阻止
-date: 2025-12-26 03:51:26.071000+00:00
+layout: "post"
+title: "US disrupts multimillion-dollar bank account takeover operation targeting Americans - 米国、アメリカ人を標的とした数百万ドル規模の銀行口座乗っ取り作戦を阻止"
+date: "2025-12-26 03:51:26.071000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://therecord.media/us-disrupts-bank-account-takeover-operation-web3adspanels
-source_title: US disrupts multimillion-dollar bank account takeover operation targeting
-  Americans | The Record from Recorded Future News
-source_id: 438438603
+source_url: "https://therecord.media/us-disrupts-bank-account-takeover-operation-web3adspanels"
+source_title: "US disrupts multimillion-dollar bank account takeover operation targeting Americans | The Record from Recorded Future News"
+source_id: "438438603"
 ---
 # US disrupts multimillion-dollar bank account takeover operation targeting Americans - 米国、アメリカ人を標的とした数百万ドル規模の銀行口座乗っ取り作戦を阻止
 

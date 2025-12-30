@@ -1,18 +1,17 @@
 ---
-layout: post
-title: What happened to all the gold Spain got from the New World? (1985) - スペインが新世界から得たすべての金はどうなったのか？ (1985)
-date: 2025-12-26 15:27:16.730000+00:00
+layout: "post"
+title: "What happened to all the gold Spain got from the New World? (1985) - スペインが新世界から得たすべての金はどうなったのか？ (1985)"
+date: "2025-12-26 15:27:16.730000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world
-source_title: What happened to all the gold Spain got from the New World? - The Straight
-  Dope
-source_id: 46352016
-excerpt: 新大陸の黄金はインフレと浪費で国外へ流出し、スペインの没落を招いた教訓
+source_url: "https://www.straightdope.com/21341789/what-happened-to-all-the-gold-spain-got-from-the-new-world"
+source_title: "What happened to all the gold Spain got from the New World? - The Straight Dope"
+source_id: "46352016"
+excerpt: "新大陸の黄金はインフレと浪費で国外へ流出し、スペインの没落を招いた教訓"
 ---
 # What happened to all the gold Spain got from the New World? (1985) - スペインが新世界から得たすべての金はどうなったのか？ (1985)
 

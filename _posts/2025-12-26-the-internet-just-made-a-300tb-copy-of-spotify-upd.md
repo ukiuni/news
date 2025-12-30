@@ -1,17 +1,17 @@
 ---
-layout: post
-title: The internet just made a 300TB copy of Spotify! (Updated: Spotify reaction) - インターネットがSpotifyの300TBのコピーを作成！（更新：Spotifyの反応）
-date: 2025-12-26 09:10:02.666000+00:00
+layout: "post"
+title: "The internet just made a 300TB copy of Spotify! (Updated: Spotify reaction) - インターネットがSpotifyの300TBのコピーを作成！（更新：Spotifyの反応）"
+date: "2025-12-26 09:10:02.666000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.androidauthority.com/spotify-annas-archive-3627023/
-source_title: Someone just archived all of Spotify, and it's already on torrents
-source_id: 440572609
-excerpt: 300TB級のSpotify全曲流出主張が著作権と日本市場に衝撃
+source_url: "https://www.androidauthority.com/spotify-annas-archive-3627023/"
+source_title: "Someone just archived all of Spotify, and it's already on torrents"
+source_id: "440572609"
+excerpt: "300TB級のSpotify全曲流出主張が著作権と日本市場に衝撃"
 ---
 # The internet just made a 300TB copy of Spotify! (Updated: Spotify reaction) - インターネットがSpotifyの300TBのコピーを作成！（更新：Spotifyの反応）
 

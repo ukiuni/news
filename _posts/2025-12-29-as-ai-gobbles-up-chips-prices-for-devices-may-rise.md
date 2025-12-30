@@ -1,12 +1,16 @@
 ---
-layout: post
-title: As AI gobbles up chips, prices for devices may rise - AIがチップを食い尽くすにつれ、デバイスの価格が上昇する可能性がある
-date: 2025-12-29T04:49:52.390Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "As AI gobbles up chips, prices for devices may rise - AIがチップを食い尽くすにつれ、デバイスの価格が上昇する可能性がある"
+date: "2025-12-29T04:49:52.390Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram"
 source_title: "As AI gobbles up memory chips, prices for devices may rise : NPR"
-source_id: 46415338
+source_id: "46415338"
 excerpt: "AI向けDRAM需要急増でPCやスマホの価格・納期が急変、今すぐ対策を"
 ---
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Tesla’s European Sales Plunge - テスラの欧州販売が急落
-date: 2025-12-26T13:26:38.438Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Tesla’s European Sales Plunge - テスラの欧州販売が急落"
+date: "2025-12-26T13:26:38.438Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://finance.yahoo.com/news/tesla-european-sales-plunge-141521704.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAACOc09ilS0QK9c9IULKscJiqcae49LDsQTiB2oF25zY8iw75cno8N2jIZ3Bf0E1KJAKZPHv0k6JH-r0wD6_QdMXNpVrRF_kukTqyh5aJn_O9v5_gxDEBh-D-URWqI6e6j4JBm7amlYSSNoi0p1-azSJ-NbMgOoxc1-GLGVU0XABq"
 source_title: "Tesla’s European Sales Plunge"
-source_id: 438990284
+source_id: "438990284"
 excerpt: "欧州でテスラ支持が急落、低価格競合と規制で市場逆転、日系にも対策示唆"
 ---
 

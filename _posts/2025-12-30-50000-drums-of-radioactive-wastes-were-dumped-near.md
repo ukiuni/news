@@ -1,12 +1,16 @@
 ---
-layout: post
+layout: "post"
 title: "50,000 drums of radioactive wastes were dumped near the Farallones, 1946 to 1970 - 海洋の「時限爆弾」を可視化する技術――ファラロン諸島沖に投棄された5万本のドラム缶が示す教訓"
-date: 2025-12-30T00:38:39.560Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+date: "2025-12-30T00:38:39.560Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://pubs.usgs.gov/fs/farallones/"
 source_title: "50,000 drums of radioactive wastes were dumped near the Farallones, 1946 to 1970"
-source_id: 46427181
+source_id: "46427181"
 excerpt: "ファラロン沖に投棄された5万本の放射性ドラムが海底で時限爆弾化—検出技術で危険域を割り出す"
 ---
 

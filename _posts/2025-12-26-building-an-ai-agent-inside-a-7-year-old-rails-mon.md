@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Building an AI agent inside a 7-year-old Rails monolith - 7年前のRailsモノリス内にAIエージェントを構築する
-date: 2025-12-26 08:11:50.550000+00:00
+layout: "post"
+title: "Building an AI agent inside a 7-year-old Rails monolith - 7年前のRailsモノリス内にAIエージェントを構築する"
+date: "2025-12-26 08:11:50.550000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/
-source_title: Building an AI agent inside a 7-year old Rails application
-source_id: 46390055
-excerpt: AlgoliaとPunditで権限を保ち最小変更でRailsモノリスに安全なAIを実装
+source_url: "https://catalinionescu.dev/ai-agent/building-ai-agent-part-1/"
+source_title: "Building an AI agent inside a 7-year old Rails application"
+source_id: "46390055"
+excerpt: "AlgoliaとPunditで権限を保ち最小変更でRailsモノリスに安全なAIを実装"
 ---
 # Building an AI agent inside a 7-year-old Rails monolith - 7年前のRailsモノリス内にAIエージェントを構築する
 

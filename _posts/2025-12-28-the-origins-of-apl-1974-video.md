@@ -1,17 +1,17 @@
 ---
-layout: post
-title: The Origins of APL (1974) [video] - APLの起源 (1974) [動画]
-date: 2025-12-28 07:15:03.624000+00:00
+layout: "post"
+title: "The Origins of APL (1974) [video] - APLの起源 (1974) [動画]"
+date: "2025-12-28 07:15:03.624000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.youtube.com/watch?v=8kUQWuK1L4w
-source_title: The Origins of APL - 1974 - YouTube
-source_id: 46350476
-excerpt: 1974年映像で解き明かすAPL誕生と配列演算の源流、短記号で現代NumPyへ繋がる思考を体感
+source_url: "https://www.youtube.com/watch?v=8kUQWuK1L4w"
+source_title: "The Origins of APL - 1974 - YouTube"
+source_id: "46350476"
+excerpt: "1974年映像で解き明かすAPL誕生と配列演算の源流、短記号で現代NumPyへ繋がる思考を体感"
 ---
 # The Origins of APL (1974) [video] - APLの起源 (1974) [動画]
 

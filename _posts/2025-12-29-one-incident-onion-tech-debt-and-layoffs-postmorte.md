@@ -1,12 +1,16 @@
 ---
-layout: post
-title: One incident, onion tech debt and layoffs - postmortem to gauge metric problem - 一つのインシデント、玉ねぎのような技術的負債、そしてレイオフ - 指標の問題を測定するためのポストモーテム
-date: 2025-12-29T21:29:32.155Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "One incident, onion tech debt and layoffs - postmortem to gauge metric problem - 一つのインシデント、玉ねぎのような技術的負債、そしてレイオフ - 指標の問題を測定するためのポストモーテム"
+date: "2025-12-29T21:29:32.155Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://medium.com/@IndividualSecret1/one-incident-onion-tech-debt-and-layoffs-e356610482a3"
 source_title: "One incident, onion tech debt and layoffs - postmortem to gauge metric problem"
-source_id: 435061290
+source_id: "435061290"
 excerpt: "Prometheusの凍結ゲージが暴いた層状技術負債とサービス崩壊の全容"
 ---
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: They graduated from Stanford. Due to AI, they can’t find a job - 彼らはスタンフォードを卒業した。AIのせいで仕事が見つからない
-date: 2025-12-29T14:25:55.222Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "They graduated from Stanford. Due to AI, they can’t find a job - 彼らはスタンフォードを卒業した。AIのせいで仕事が見つからない"
+date: "2025-12-29T14:25:55.222Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.adn.com/nation-world/2025/12/27/they-graduated-from-stanford-due-to-ai-they-cant-find-a-job"
 source_title: "They graduated from Stanford. Due to AI, they can’t find a job - Anchorage Daily News"
-source_id: 435452893
+source_id: "435452893"
 excerpt: "AIの普及で大量採用が消滅、スタンフォード卒でも実務経験とAI協働力がない若手は就職難"
 ---
 

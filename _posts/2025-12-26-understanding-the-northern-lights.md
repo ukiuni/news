@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Understanding the Northern Lights - オーロラを理解する
-date: 2025-12-26 14:15:40.319000+00:00
+layout: "post"
+title: "Understanding the Northern Lights - オーロラを理解する"
+date: "2025-12-26 14:15:40.319000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.historytoday.com/archive/feature/understanding-northern-lights
-source_title: Understanding the Northern Lights | History Today
-source_id: 46333940
-excerpt: オーロラ観測で太陽嵐を見抜き、電力・通信被害を防ぐ実務的な監視法とは？
+source_url: "https://www.historytoday.com/archive/feature/understanding-northern-lights"
+source_title: "Understanding the Northern Lights | History Today"
+source_id: "46333940"
+excerpt: "オーロラ観測で太陽嵐を見抜き、電力・通信被害を防ぐ実務的な監視法とは？"
 ---
 # Understanding the Northern Lights - オーロラを理解する
 

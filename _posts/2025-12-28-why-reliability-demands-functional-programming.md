@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Why Reliability Demands Functional Programming - なぜ信頼性には関数型プログラミングが必要なのか
-date: 2025-12-28 02:16:02.442000+00:00
+layout: "post"
+title: "Why Reliability Demands Functional Programming - なぜ信頼性には関数型プログラミングが必要なのか"
+date: "2025-12-28 02:16:02.442000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure
-source_title: 'Why Reliability Demands Functional Programming: ADTs, Safety, and Critical
-  Infrastructure - rastrian blog'
-source_id: 46406901
-excerpt: 金融や決済での致命的障害を型と関数型でコンパイル時に潰す方法を解説
+source_url: "https://blog.rastrian.dev/post/why-reliability-demands-functional-programming-adts-safety-and-critical-infrastructure"
+source_title: "Why Reliability Demands Functional Programming: ADTs, Safety, and Critical Infrastructure - rastrian blog"
+source_id: "46406901"
+excerpt: "金融や決済での致命的障害を型と関数型でコンパイル時に潰す方法を解説"
 ---
 # Why Reliability Demands Functional Programming - なぜ信頼性には関数型プログラミングが必要なのか
 

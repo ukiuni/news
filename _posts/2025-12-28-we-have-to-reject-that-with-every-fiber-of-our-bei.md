@@ -1,12 +1,16 @@
 ---
-layout: post
-title: ‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic - 「私たちは全身全霊でそれを拒絶しなければならない」：デサンティス氏が主要なAI懐疑論者として浮上
-date: 2025-12-28T14:57:21.936Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic - 「私たちは全身全霊でそれを拒絶しなければならない」：デサンティス氏が主要なAI懐疑論者として浮上"
+date: "2025-12-28T14:57:21.936Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.politico.com/news/2025/12/27/we-have-to-reject-that-with-every-fiber-of-our-being-desantis-emerges-as-a-chief-ai-skeptic-00704333"
 source_title: "‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic"
-source_id: 436194764
+source_id: "436194764"
 excerpt: "デサンティスが州主導でAI規制を強硬推進、データセンターや雇用・偽情報に波紋"
 ---
 

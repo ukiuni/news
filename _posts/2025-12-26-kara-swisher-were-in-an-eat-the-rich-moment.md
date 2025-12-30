@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Kara Swisher: We're in an 'Eat the Rich' Moment - カーラ・スウィッシャー：私たちは「富裕層を食い尽くせ」という瞬間にいる
-date: 2025-12-26T21:05:49.859Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Kara Swisher: We're in an 'Eat the Rich' Moment - カーラ・スウィッシャー：私たちは「富裕層を食い尽くせ」という瞬間にいる"
+date: "2025-12-26T21:05:49.859Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.thebulwark.com/p/kara-swisher-were-in-an-eat-the-rich"
 source_title: "Kara Swisher: We're in an 'Eat the Rich' Moment"
-source_id: 437561576
+source_id: "437561576"
 excerpt: "カラ・スウィッシャーが警鐘：テックとAI不信の波が日本の産業・規制を一変させる"
 ---
 

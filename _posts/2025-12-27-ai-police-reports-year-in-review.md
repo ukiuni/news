@@ -1,17 +1,17 @@
 ---
-layout: post
-title: AI Police Reports: Year in Review - AI警察レポート：今年の振り返り
-date: 2025-12-27 05:42:11.075000+00:00
+layout: "post"
+title: "AI Police Reports: Year in Review - AI警察レポート：今年の振り返り"
+date: "2025-12-27 05:42:11.075000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review
-source_title: 'AI Police Reports: Year In Review | Electronic Frontier Foundation'
-source_id: 46367195
-excerpt: EFFとAxon事例で、生成AIが警察記録を不透明化し証拠破壊を招く危険と対策
+source_url: "https://www.eff.org/deeplinks/2025/12/ai-police-reports-year-review"
+source_title: "AI Police Reports: Year In Review | Electronic Frontier Foundation"
+source_id: "46367195"
+excerpt: "EFFとAxon事例で、生成AIが警察記録を不透明化し証拠破壊を招く危険と対策"
 ---
 # AI Police Reports: Year in Review - AI警察レポート：今年の振り返り
 

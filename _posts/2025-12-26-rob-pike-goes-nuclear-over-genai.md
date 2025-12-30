@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Rob Pike Goes Nuclear over GenAI - ロブ・パイク、生成AIに対して激怒
-date: 2025-12-26 14:28:16.645000+00:00
+layout: "post"
+title: "Rob Pike Goes Nuclear over GenAI - ロブ・パイク、生成AIに対して激怒"
+date: "2025-12-26 14:28:16.645000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree
-source_title: Skyview
-source_id: 46392115
-excerpt: ロブ・パイクが警鐘、生成AIの致命的リスクと実務対応策を問う
+source_url: "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree"
+source_title: "Skyview"
+source_id: "46392115"
+excerpt: "ロブ・パイクが警鐘、生成AIの致命的リスクと実務対応策を問う"
 ---
 # Rob Pike Goes Nuclear over GenAI - ロブ・パイク、生成AIに対して激怒
 

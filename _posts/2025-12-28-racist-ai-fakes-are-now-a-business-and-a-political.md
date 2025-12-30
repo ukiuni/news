@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Racist AI fakes are now a business — and a political tool - 人種差別的なAIフェイクが今やビジネスに — そして政治的ツールに
-date: 2025-12-28T16:16:58.393Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Racist AI fakes are now a business — and a political tool - 人種差別的なAIフェイクが今やビジネスに — そして政治的ツールに"
+date: "2025-12-28T16:16:58.393Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.axios.com/2025/12/27/racist-ai-videos-viral-trend"
 source_title: "Racist AI fakes are now a business — and a political tool"
-source_id: 436132201
+source_id: "436132201"
 excerpt: "AI生成の人種差別フェイク動画が収益化と政治工作に使われ、拡散と対策が急務だ"
 ---
 

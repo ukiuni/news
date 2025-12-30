@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Software engineers should be a little bit cynical - ソフトウェアエンジニアは少し冷笑的であるべきだ
-date: 2025-12-28T22:17:10.305Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Software engineers should be a little bit cynical - ソフトウェアエンジニアは少し冷笑的であるべきだ"
+date: "2025-12-28T22:17:10.305Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.seangoedecke.com/a-little-bit-cynical/"
 source_title: "Software engineers should be a little bit cynical"
-source_id: 46414723
+source_id: "46414723"
 excerpt: "組織の現実を見抜き、段階的にユーザー価値を実現する実践ガイド"
 ---
 

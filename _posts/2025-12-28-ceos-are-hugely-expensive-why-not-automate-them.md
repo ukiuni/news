@@ -1,17 +1,17 @@
 ---
-layout: post
-title: CEOs are hugely expensive. Why not automate them? - CEOは非常に高コストだ。なぜ自動化しないのか？
-date: 2025-12-28 23:43:53.701000+00:00
+layout: "post"
+title: "CEOs are hugely expensive. Why not automate them? - CEOは非常に高コストだ。なぜ自動化しないのか？"
+date: "2025-12-28 23:43:53.701000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots
-source_title: CEOs are hugely expensive so why not automate them? - New Statesman
-source_id: 46415488
-excerpt: 高額なCEO報酬を削減し、データ駆動の自動化で意思決定を補完する実践手法とリスク管理を解説
+source_url: "https://www.newstatesman.com/business/companies/2023/05/ceos-salaries-expensive-automate-robots"
+source_title: "CEOs are hugely expensive so why not automate them? - New Statesman"
+source_id: "46415488"
+excerpt: "高額なCEO報酬を削減し、データ駆動の自動化で意思決定を補完する実践手法とリスク管理を解説"
 ---
 # CEOs are hugely expensive. Why not automate them? - CEOは非常に高コストだ。なぜ自動化しないのか？
 

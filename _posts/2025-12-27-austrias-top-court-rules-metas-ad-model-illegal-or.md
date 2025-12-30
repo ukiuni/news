@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Austria's top court rules Meta's ad model illegal, orders overhaul of user data practices in EU - オーストリア最高裁、Metaの広告モデルを違法と判断、EUでのユーザーデータ慣行の刷新を命令
-date: 2025-12-27T18:39:29.256Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Austria's top court rules Meta's ad model illegal, orders overhaul of user data practices in EU - オーストリア最高裁、Metaの広告モデルを違法と判断、EUでのユーザーデータ慣行の刷新を命令"
+date: "2025-12-27T18:39:29.256Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.reuters.com/sustainability/boards-policy-regulation/austrias-top-court-rules-metas-ad-model-illegal-orders-overhaul-user-data-2025-12-18/"
 source_title: "Austria's top court rules Meta's ad model illegal, orders overhaul of user data practices in EU"
-source_id: 438103240
+source_id: "438103240"
 excerpt: "EUでMeta広告モデルが違法判決、同意・ID戦略の全面見直しが必須"
 ---
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web - シリコンバレーのスタックはここでは通用しない：なぜアフリカが「脱・肥大化」ウェブをリードするのか
-date: 2025-12-29T21:27:58.845Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web - シリコンバレーのスタックはここでは通用しない：なぜアフリカが「脱・肥大化」ウェブをリードするのか"
+date: "2025-12-29T21:27:58.845Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61"
 source_title: "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web"
-source_id: 995945759
+source_id: "995945759"
 excerpt: "回線と電池を節約するアフリカ発の“軽量ウェブ”設計が、日本の地方・災害対応や海外展開で勝ち筋になる"
 ---
 

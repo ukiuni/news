@@ -1,17 +1,17 @@
 ---
-layout: post
-title: A Practical Guide to Taming Postgres Isolation Anomalies - Postgresの分離アノマリーを制御するための実用ガイド
-date: 2025-12-28 08:18:28.105000+00:00
+layout: "post"
+title: "A Practical Guide to Taming Postgres Isolation Anomalies - Postgresの分離アノマリーを制御するための実用ガイド"
+date: "2025-12-28 08:18:28.105000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://dansvetlov.me/postgres-anomalies/
-source_title: A Practical Guide to Taming Postgres Isolation Anomalies - dansvetlov.me
-source_id: 436343139
-excerpt: Postgresの分離レベルとロックで予約・在庫の競合を即防ぐ実践ガイド
+source_url: "https://dansvetlov.me/postgres-anomalies/"
+source_title: "A Practical Guide to Taming Postgres Isolation Anomalies - dansvetlov.me"
+source_id: "436343139"
+excerpt: "Postgresの分離レベルとロックで予約・在庫の競合を即防ぐ実践ガイド"
 ---
 # A Practical Guide to Taming Postgres Isolation Anomalies - Postgresの分離アノマリーを制御するための実用ガイド
 

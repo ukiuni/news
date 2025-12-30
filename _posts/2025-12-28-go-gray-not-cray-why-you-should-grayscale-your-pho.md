@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Go Gray, Not Cray: Why You Should Grayscale Your Phone - 「グレイ」になろう、「クレイジー」ではなく：なぜスマホをグレースケールにすべきか
-date: 2025-12-28T05:14:41.120Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Go Gray, Not Cray: Why You Should Grayscale Your Phone - 「グレイ」になろう、「クレイジー」ではなく：なぜスマホをグレースケールにすべきか"
+date: "2025-12-28T05:14:41.120Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://sami.eljabali.org/go-gray-not-cray-why-you-should-grayscale-your-phone/"
 source_title: "Go Gray, Not Cray: Why You Should Grayscale Your Phone"
-source_id: 46347893
+source_id: "46347893"
 excerpt: "スマホをグレースケール化して画面時間・通知ストレスを減らし集中力とバッテリを回復する簡単な実践法"
 ---
 

@@ -1,16 +1,16 @@
 ---
-layout: post
-title: What was your win this week??? - 今週のあなたの成果は何でしたか？
-date: 2025-12-26 04:02:11.790000+00:00
+layout: "post"
+title: "What was your win this week??? - 今週のあなたの成果は何でしたか？"
+date: "2025-12-26 04:02:11.790000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://dev.to/devteam/what-was-your-win-this-week-1d6c
-source_title: What was your win this week??? - DEV Community
-source_id: 3055168
+source_url: "https://dev.to/devteam/what-was-your-win-this-week-1d6c"
+source_title: "What was your win this week??? - DEV Community"
+source_id: "3055168"
 ---
 # What was your win this week??? - 今週のあなたの成果は何でしたか？
 

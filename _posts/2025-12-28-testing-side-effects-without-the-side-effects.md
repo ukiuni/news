@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Testing Side Effects Without the Side Effects - 副作用なしで副作用をテストする
-date: 2025-12-28T11:16:28.763Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Testing Side Effects Without the Side Effects - 副作用なしで副作用をテストする"
+date: "2025-12-28T11:16:28.763Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://lackofimagination.org/2025/12/testing-side-effects-without-the-side-effects/"
 source_title: "Testing Side Effects Without the Side Effects"
-source_id: 436269131
+source_id: "436269131"
 excerpt: "モック不要で本番外のDBや決済に触れず構文木で注文処理を高速安全に検証する方法"
 ---
 

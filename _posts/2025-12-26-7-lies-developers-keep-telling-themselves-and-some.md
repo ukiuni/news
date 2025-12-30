@@ -1,17 +1,16 @@
 ---
-layout: post
-title: 7 Lies Developers Keep Telling Themselves (And Somehow Still Believe) - 開発者が自分自身に言い聞かせ続け（そしてなぜかまだ信じている）7つの嘘
-date: 2025-12-26 04:01:33.660000+00:00
+layout: "post"
+title: "7 Lies Developers Keep Telling Themselves (And Somehow Still Believe) - 開発者が自分自身に言い聞かせ続け（そしてなぜかまだ信じている）7つの嘘"
+date: "2025-12-26 04:01:33.660000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://dev.to/sylwia-lask/7-lies-developers-keep-telling-themselves-and-somehow-still-believe-46nh
-source_title: 7 Lies Developers Keep Telling Themselves (And Somehow Still Believe)
-  - DEV Community
-source_id: 3119494
+source_url: "https://dev.to/sylwia-lask/7-lies-developers-keep-telling-themselves-and-somehow-still-believe-46nh"
+source_title: "7 Lies Developers Keep Telling Themselves (And Somehow Still Believe) - DEV Community"
+source_id: "3119494"
 ---
 # 7 Lies Developers Keep Telling Themselves (And Somehow Still Believe) - 開発者が自分自身に言い聞かせ続け（そしてなぜかまだ信じている）7つの嘘
 

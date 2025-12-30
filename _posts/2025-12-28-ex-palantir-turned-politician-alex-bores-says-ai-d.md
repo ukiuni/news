@@ -1,20 +1,17 @@
 ---
-layout: post
-title: Ex-Palantir turned politician Alex Bores says AI deepfakes are a "solvable - 元Palantirで政治家に転身したアレックス・ボレス氏、AIディープフェイクは「解決可能」と語る
-  problem" if we bring back a free, decades-old technique widespread adoption of HTTPS—using
-  digital certificates to verify that a website is authentic
-date: 2025-12-28 01:09:22.307000+00:00
+layout: "post"
+title: "Ex-Palantir turned politician Alex Bores says AI deepfakes are a \"solvable - 元Palantirで政治家に転身したアレックス・ボレス氏、AIディープフェイクは「解決可能」と語る problem\" if we bring back a free, decades-old technique widespread adoption of HTTPS—using digital certificates to verify that a website is authentic"
+date: "2025-12-28 01:09:22.307000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://fortune.com/2025/12/27/alex-bores-ai-deepfakes-solvable-problem-c2pa-free-open-source-standard/
-source_title: Ex-Palantir turned politician Alex Bores says AI deepfakes are a 'solvable
-  problem' if we bring back a free, decades-old technique | Fortune
-source_id: 437894374
-excerpt: 元Palantir議員がC2PA普及で深層偽造の被害を大幅に減らせると主張
+source_url: "https://fortune.com/2025/12/27/alex-bores-ai-deepfakes-solvable-problem-c2pa-free-open-source-standard/"
+source_title: "Ex-Palantir turned politician Alex Bores says AI deepfakes are a 'solvable problem' if we bring back a free, decades-old technique | Fortune"
+source_id: "437894374"
+excerpt: "元Palantir議員がC2PA普及で深層偽造の被害を大幅に減らせると主張"
 ---
 # Ex-Palantir turned politician Alex Bores says AI deepfakes are a "solvable - 元Palantirで政治家に転身したアレックス・ボレス氏、AIディープフェイクは「解決可能」と語る
 

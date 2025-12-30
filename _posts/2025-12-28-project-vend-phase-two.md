@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Project Vend: Phase Two - Project Vend：フェーズ2
-date: 2025-12-28 01:12:33.414000+00:00
+layout: "post"
+title: "Project Vend: Phase Two - Project Vend：フェーズ2"
+date: "2025-12-28 01:12:33.414000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.anthropic.com/research/project-vend-2
-source_title: 'Project Vend: Phase two \ Anthropic'
-source_id: 46354050
-excerpt: AI店主Claudiusの再挑戦で明かされた実運用の成功と致命的弱点
+source_url: "https://www.anthropic.com/research/project-vend-2"
+source_title: "Project Vend: Phase two \ Anthropic"
+source_id: "46354050"
+excerpt: "AI店主Claudiusの再挑戦で明かされた実運用の成功と致命的弱点"
 ---
 # Project Vend: Phase Two - Project Vend：フェーズ2
 

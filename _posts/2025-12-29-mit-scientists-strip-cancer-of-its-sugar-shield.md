@@ -1,12 +1,16 @@
 ---
-layout: post
-title: MIT scientists strip cancer of its sugar shield - MITの科学者、癌から「糖の盾」を剥ぎ取る
-date: 2025-12-29T11:25:58.469Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "MIT scientists strip cancer of its sugar shield - MITの科学者、癌から「糖の盾」を剥ぎ取る"
+date: "2025-12-29T11:25:58.469Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.sciencedaily.com/releases/2025/12/251222044058.htm?utm_source=chatgpt.com"
 source_title: "MIT scientists strip cancer of its sugar shield | ScienceDaily"
-source_id: 435519732
+source_id: "435519732"
 excerpt: "抗体とレクチン融合の新療法AbLecが腫瘍のシアル酸「糖鎧」を剥ぎ取り、免疫で転移を抑える可能性を示す"
 ---
 

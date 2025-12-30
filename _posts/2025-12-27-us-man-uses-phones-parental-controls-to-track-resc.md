@@ -1,12 +1,16 @@
 ---
-layout: post
-title: US man uses phone’s parental controls to track, rescue daughter kidnapped at knifepoint - 米国の男性、電話のペアレンタルコントロールを使用して刃物で誘拐された娘を追跡・救出
-date: 2025-12-27T19:40:02.428Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "US man uses phone’s parental controls to track, rescue daughter kidnapped at knifepoint - 米国の男性、電話のペアレンタルコントロールを使用して刃物で誘拐された娘を追跡・救出"
+date: "2025-12-27T19:40:02.428Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://indianexpress.com/article/world/man-uses-phone-parental-controls-to-rescue-kidnapped-daughter-10442362/"
 source_title: "US man uses phone’s parental controls to track, rescue daughter kidnapped at knifepoint"
-source_id: 438008060
+source_id: "438008060"
 excerpt: "実話：父がスマホの見守りで刃物拉致の娘を位置特定し救出、設定方法も解説"
 ---
 

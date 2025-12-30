@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Leaker Who Apple Is Suing Says 'Screw It,' Here's the Foldable iPhone Early - Appleに訴えられているリーカーが「もういいや」と折りたたみiPhoneを早期公開
-date: 2025-12-26T19:10:51.857Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Leaker Who Apple Is Suing Says 'Screw It,' Here's the Foldable iPhone Early - Appleに訴えられているリーカーが「もういいや」と折りたたみiPhoneを早期公開"
+date: "2025-12-26T19:10:51.857Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://gizmodo.com/leaker-who-apple-is-suing-says-screw-it-heres-the-foldable-iphone-early-2000703449#comments"
 source_title: "Leaker Who Apple Is Suing Says 'Screw It,' Here's the Foldable iPhone Early"
-source_id: 438783086
+source_id: "438783086"
 excerpt: "訴訟中のリーカーが披露、薄型重視の折りたたみiPhoneレンダと詳細仕様"
 ---
 

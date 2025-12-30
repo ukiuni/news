@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Why are we worried about memory access semantics? Full barriers should be enough for anybody - なぜメモリアクセス・セマンティクスを心配するのか？フルバリアがあれば十分なはずだ
-date: 2025-12-29T14:28:49.394Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Why are we worried about memory access semantics? Full barriers should be enough for anybody - なぜメモリアクセス・セマンティクスを心配するのか？フルバリアがあれば十分なはずだ"
+date: "2025-12-29T14:28:49.394Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919"
 source_title: "Why are we worried about memory access semantics? Full barriers should be enough for anybody - The Old New Thing"
-source_id: 1347693066
+source_id: "1347693066"
 excerpt: "全フェンスは安全だが性能を殺す、アーキで最小限のバリア選びが重要だ"
 ---
 

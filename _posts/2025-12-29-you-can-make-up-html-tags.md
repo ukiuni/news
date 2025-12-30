@@ -1,12 +1,16 @@
 ---
-layout: post
-title: You can make up HTML tags - HTMLタグは自分で作ることができる
-date: 2025-12-29T03:49:52.725Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "You can make up HTML tags - HTMLタグは自分で作ることができる"
+date: "2025-12-29T03:49:52.725Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://maurycyz.com/misc/make-up-tags/"
 source_title: "You can make up HTML tags"
-source_id: 46416945
+source_id: "46416945"
 excerpt: "ハイフン入りの自作タグでdivネスト地獄を解消し、可読性と保守性を短時間で高める方法"
 ---
 

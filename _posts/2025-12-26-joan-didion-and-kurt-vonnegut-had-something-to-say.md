@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Joan Didion and Kurt Vonnegut had something to say. We have it on tape - ジョーン・ディディオンとカート・ヴォネガットには言いたいことがあった。それをテープに収めている
-date: 2025-12-26T14:16:22.039Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Joan Didion and Kurt Vonnegut had something to say. We have it on tape - ジョーン・ディディオンとカート・ヴォネガットには言いたいことがあった。それをテープに収めている"
+date: "2025-12-26T14:16:22.039Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.nytimes.com/2025/12/19/books/james-baldwin-joan-didion-92ny-recordings.html"
 source_title: "Joan Didion and Kurt Vonnegut had something to say. We have it on tape"
-source_id: 46351836
+source_id: "46351836"
 excerpt: "ディディオンとヴォネガットの録音が示す保存・解析の技術課題と実務対応策"
 ---
 

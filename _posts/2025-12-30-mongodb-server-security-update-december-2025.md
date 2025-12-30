@@ -1,12 +1,16 @@
 ---
-layout: post
+layout: "post"
 title: "MongoDB Server Security Update, December 2025 - MongoDB サーバー セキュリティ更新（2025年12月）"
-date: 2025-12-30T01:06:45.584Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+date: "2025-12-30T01:06:45.584Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025"
 source_title: "MongoDB Server Security Update, December 2025"
-source_id: 46427920
+source_id: "46427920"
 excerpt: "Mongobleedで緊急パッチ必須—Atlasは適用済、セルフホストは即更新と監査を"
 ---
 

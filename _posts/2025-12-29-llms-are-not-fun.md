@@ -1,12 +1,16 @@
 ---
-layout: post
-title: LLMs Are Not Fun - LLMは楽しくない
-date: 2025-12-29T19:27:26.184Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "LLMs Are Not Fun - LLMは楽しくない"
+date: "2025-12-29T19:27:26.184Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://orib.dev/nofun.html"
 source_title: "LLMs Are Not Fun"
-source_id: 46424136
+source_id: "46424136"
 excerpt: "LLM導入で失われる『学び』と品質リスクを防ぐ現場向け具体策を提示"
 ---
 

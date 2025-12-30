@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Text rendering hates you - テキストレンダリングはあなたを嫌う - テキストレンダリングはあなたを嫌う
-date: 2025-12-28 01:12:03.430000+00:00
+layout: "post"
+title: "Text rendering hates you - テキストレンダリングはあなたを嫌う - テキストレンダリングはあなたを嫌う"
+date: "2025-12-28 01:12:03.430000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://faultlore.com/blah/text-hates-you/
-source_title: Text Rendering Hates You - Faultlore
-source_id: 46349988
-excerpt: 漢字・ルビ・絵文字混在で壊れる、文字描画の致命的落とし穴を解説
+source_url: "https://faultlore.com/blah/text-hates-you/"
+source_title: "Text Rendering Hates You - Faultlore"
+source_id: "46349988"
+excerpt: "漢字・ルビ・絵文字混在で壊れる、文字描画の致命的落とし穴を解説"
 ---
 # Text rendering hates you - テキストレンダリングはあなたを嫌う - テキストレンダリングはあなたを嫌う
 

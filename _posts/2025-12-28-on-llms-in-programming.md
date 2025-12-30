@@ -1,12 +1,16 @@
 ---
-layout: post
-title: On LLMs in programming - プログラミングにおけるLLMについて
-date: 2025-12-28T02:17:20.331Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "On LLMs in programming - プログラミングにおけるLLMについて"
+date: "2025-12-28T02:17:20.331Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://blog.danieljanus.pl/2025/12/27/llms/"
 source_title: "On LLMs in programming"
-source_id: 1513545431
+source_id: "1513545431"
 excerpt: "LLMで生産性を高めつつ注意力喪失を防ぐ実践ガイド・検証法やRAG導入の実践手順付き"
 ---
 

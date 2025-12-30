@@ -1,17 +1,17 @@
 ---
-layout: post
-title: T-Ruby is Ruby with syntax for types - T-Rubyは型構文を持つRubyである
-date: 2025-12-27 02:06:01.519000+00:00
+layout: "post"
+title: "T-Ruby is Ruby with syntax for types - T-Rubyは型構文を持つRubyである"
+date: "2025-12-27 02:06:01.519000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://type-ruby.github.io/
-source_title: Type-safe Ruby | T-Ruby
-source_id: 46395871
-excerpt: T-RubyでTypeScript風の型注釈をRubyに導入、.rb/.rbsを生成
+source_url: "https://type-ruby.github.io/"
+source_title: "Type-safe Ruby | T-Ruby"
+source_id: "46395871"
+excerpt: "T-RubyでTypeScript風の型注釈をRubyに導入、.rb/.rbsを生成"
 ---
 # T-Ruby is Ruby with syntax for types - T-Rubyは型構文を持つRubyである
 

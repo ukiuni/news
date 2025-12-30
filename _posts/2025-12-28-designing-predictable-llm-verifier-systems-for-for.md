@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Designing Predictable LLM-Verifier Systems for Formal Method Guarantee - 形式手法の保証のための予測可能なLLM検証システムの設計
-date: 2025-12-28 17:16:36.470000+00:00
+layout: "post"
+title: "Designing Predictable LLM-Verifier Systems for Formal Method Guarantee - 形式手法の保証のための予測可能なLLM検証システムの設計"
+date: "2025-12-28 17:16:36.470000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://arxiv.org/abs/2512.02080
-source_title: '[2512.02080] The 4/$δ$ Bound: Designing Predictable LLM-Verifier Systems
-  for Formal Method Guarantee'
-source_id: 46411539
-excerpt: LLM×形式検証でδ>0なら検証到達を理論保証、期待試行は4/δに上限
+source_url: "https://arxiv.org/abs/2512.02080"
+source_title: "[2512.02080] The 4/$δ$ Bound: Designing Predictable LLM-Verifier Systems for Formal Method Guarantee"
+source_id: "46411539"
+excerpt: "LLM×形式検証でδ>0なら検証到達を理論保証、期待試行は4/δに上限"
 ---
 # Designing Predictable LLM-Verifier Systems for Formal Method Guarantee - 形式手法の保証のための予測可能なLLM検証システムの設計
 

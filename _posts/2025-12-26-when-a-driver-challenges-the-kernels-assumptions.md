@@ -1,12 +1,16 @@
 ---
-layout: post
-title: When a driver challenges the kernel's assumptions - ドライバーがカーネルの前提に挑むとき
-date: 2025-12-26T04:05:04.773Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "When a driver challenges the kernel's assumptions - ドライバーがカーネルの前提に挑むとき"
+date: "2025-12-26T04:05:04.773Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "http://miod.online.fr/software/openbsd/stories/udl.html"
 source_title: "When a driver challenges the kernel's assumptions"
-source_id: 46388059
+source_id: "46388059"
 ---
 
 # When a driver challenges the kernel's assumptions - ドライバーがカーネルの前提に挑むとき

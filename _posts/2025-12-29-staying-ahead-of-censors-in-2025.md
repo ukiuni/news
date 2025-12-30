@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Staying ahead of censors in 2025 - 2025年に検閲の先を行く
-date: 2025-12-29T06:50:44.411Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Staying ahead of censors in 2025 - 2025年に検閲の先を行く"
+date: "2025-12-29T06:50:44.411Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://forum.torproject.org/t/staying-ahead-of-censors-in-2025-what-weve-learned-from-fighting-censorship-in-iran-and-russia/20898"
 source_title: "Staying ahead of censors in 2025: What we&#39;ve learned from fighting censorship in Iran and Russia - News - Tor Project Forum"
-source_id: 46417844
+source_id: "46417844"
 excerpt: "イラン・ロシアで有効なSnowflake等の新手法で検閲を突破"
 ---
 

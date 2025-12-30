@@ -1,18 +1,17 @@
 ---
-layout: post
-title: 39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends - 39C3：署名すべきか否か：GPGとその仲間たちにおける実用的な脆弱性
-date: 2025-12-28 02:16:36.263000+00:00
+layout: "post"
+title: "39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends - 39C3：署名すべきか否か：GPGとその仲間たちにおける実用的な脆弱性"
+date: "2025-12-28 02:16:36.263000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://media.ccc.de/v/39c3-to-sign-or-not-to-sign-practical-vulnerabilities-i
-source_title: 'To sign or not to sign: Practical vulnerabilities in GPG & friends
-  - media.ccc.de'
-source_id: 1330688818
-excerpt: GPGなどの実装バグで署名検証が破られ、配布の信頼や暗号化が危険に晒される
+source_url: "https://media.ccc.de/v/39c3-to-sign-or-not-to-sign-practical-vulnerabilities-i"
+source_title: "To sign or not to sign: Practical vulnerabilities in GPG & friends - media.ccc.de"
+source_id: "1330688818"
+excerpt: "GPGなどの実装バグで署名検証が破られ、配布の信頼や暗号化が危険に晒される"
 ---
 # 39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends - 39C3：署名すべきか否か：GPGとその仲間たちにおける実用的な脆弱性
 

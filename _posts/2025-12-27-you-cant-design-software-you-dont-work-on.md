@@ -1,12 +1,16 @@
 ---
-layout: post
-title: You can't design software you don't work on - 自分が関わっていないソフトウェアを設計することはできない
-date: 2025-12-27T13:41:23.721Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "You can't design software you don't work on - 自分が関わっていないソフトウェアを設計することはできない"
+date: "2025-12-27T13:41:23.721Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://seangoedecke.com/you-cant-design-software-you-dont-work-on/"
 source_title: "You can't design software you don't work on"
-source_id: 1624220458
+source_id: "1624220458"
 excerpt: "現場のコードに触れない設計論は意味がない—実務で使える設計の具体策を示す"
 ---
 

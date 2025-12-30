@@ -1,12 +1,16 @@
 ---
-layout: post
-title: 39C3: Multiple vulnerabilities in GnuPG and other cryptographic tools - 39C3：GnuPGおよびその他の暗号ツールにおける複数の脆弱性
-date: 2025-12-29T19:30:36.262Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "39C3: Multiple vulnerabilities in GnuPG and other cryptographic tools - 39C3：GnuPGおよびその他の暗号ツールにおける複数の脆弱性"
+date: "2025-12-29T19:30:36.262Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.heise.de/en/news/39C3-Multiple-vulnerabilities-in-GnuPG-and-other-cryptographic-tools-11125362.html"
 source_title: "39C3: Multiple vulnerabilities in GnuPG and other cryptographic tools | heise online"
-source_id: 435172708
+source_id: "435172708"
 excerpt: "GnuPGなどで署名偽装やANSI注入の実装脆弱が判明、今すぐ確認せよ"
 ---
 

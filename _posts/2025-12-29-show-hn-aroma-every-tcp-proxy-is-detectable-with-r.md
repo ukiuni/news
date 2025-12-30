@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Show HN: Aroma: Every TCP Proxy Is Detectable with RTT Fingerprinting - Show HN: Aroma：すべてのTCPプロキシはRTTフィンガープリンティングで検出可能
-date: 2025-12-29T20:30:26.496Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Show HN: Aroma: Every TCP Proxy Is Detectable with RTT Fingerprinting - Show HN: Aroma：すべてのTCPプロキシはRTTフィンガープリンティングで検出可能"
+date: "2025-12-29T20:30:26.496Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://github.com/Sakura-sx/Aroma"
 source_title: "GitHub - Sakura-sx/Aroma: Every TCP Proxy Is Detectable With RTT Fingerprinting"
-source_id: 46386878
+source_id: "46386878"
 excerpt: "TCPの最小RTT比でL4プロキシを高精度検出する実用手法で隠れ中継を暴く"
 ---
 

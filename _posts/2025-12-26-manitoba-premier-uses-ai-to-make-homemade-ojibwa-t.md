@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Manitoba premier uses AI to make homemade Ojibwa translator - マニトバ州首相、AIを使って自家製のオジブワ語翻訳機を作成
-date: 2025-12-26T09:16:33.944Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Manitoba premier uses AI to make homemade Ojibwa translator - マニトバ州首相、AIを使って自家製のオジブワ語翻訳機を作成"
+date: "2025-12-26T09:16:33.944Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.mbcradio.com/2025/12/manitoba-premier-uses-ai-to-make-homemade-ojibwa-translator"
 source_title: "Manitoba premier uses AI to make homemade Ojibwa translator"
-source_id: 439351676
+source_id: "439351676"
 excerpt: "マニトバ州首相がAIでオジブワ語翻訳器を自作、技術と先住民文化保全の課題と可能性を探る"
 ---
 

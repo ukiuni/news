@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Quickly restoring 1M+ files from backup - バックアップから100万以上のファイルを素早く復元する
-date: 2025-12-29T13:28:49.869Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Quickly restoring 1M+ files from backup - バックアップから100万以上のファイルを素早く復元する"
+date: "2025-12-29T13:28:49.869Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://blog.axiorema.com/engineering/quickly-restoring-1m-files-from-backup/"
 source_title: "Quickly restoring 1M+ files from backup"
-source_id: 435474144
+source_id: "435474144"
 excerpt: "ボリュームを一度だけフラッシュして100万ファイルを秒単位で復元する実用手法"
 ---
 

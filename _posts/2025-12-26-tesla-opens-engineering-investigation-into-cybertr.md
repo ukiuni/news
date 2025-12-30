@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Tesla Opens Engineering Investigation into Cybertruck Wipers - テスラ、サイバートラックのワイパーに関する技術調査を開始
-date: 2025-12-26T20:30:38.849Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Tesla Opens Engineering Investigation into Cybertruck Wipers - テスラ、サイバートラックのワイパーに関する技術調査を開始"
+date: "2025-12-26T20:30:38.849Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.notateslaapp.com/news/3439/tesla-opens-engineering-investigation-into-cybertruck-wipers"
 source_title: "Tesla Opens Engineering Investigation into Cybertruck Wipers"
-source_id: 438783861
+source_id: "438783861"
 excerpt: "テスラがCybertruckのギガワイパーを工学調査、交換とV3検証で視界とFSD安全を守る"
 ---
 

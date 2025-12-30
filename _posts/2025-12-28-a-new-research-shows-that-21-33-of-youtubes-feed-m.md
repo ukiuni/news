@@ -1,17 +1,17 @@
 ---
-layout: post
-title: A new research shows that 21-33% of YouTube's feed may consist of AI slop - 新しい研究によると、YouTubeフィードの21〜33%がAIスロップで構成されている可能性がある
-date: 2025-12-28 08:15:03.540000+00:00
+layout: "post"
+title: "A new research shows that 21-33% of YouTube's feed may consist of AI slop - 新しい研究によると、YouTubeフィードの21〜33%がAIスロップで構成されている可能性がある"
+date: "2025-12-28 08:15:03.540000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/
-source_title: 'AI Slop Report: The Global Rise of Low-Quality AI Videos'
-source_id: 46409125
-excerpt: YouTube推薦の21〜33%が低品質AI動画に占拠、注意喚起
+source_url: "https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/"
+source_title: "AI Slop Report: The Global Rise of Low-Quality AI Videos"
+source_id: "46409125"
+excerpt: "YouTube推薦の21〜33%が低品質AI動画に占拠、注意喚起"
 ---
 # A new research shows that 21-33% of YouTube's feed may consist of AI slop - 新しい研究によると、YouTubeフィードの21〜33%がAIスロップで構成されている可能性がある
 

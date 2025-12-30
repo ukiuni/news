@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Nvidia's $20B Antitrust Loophole (Not an Acquisition) - Nvidiaの200億ドルの独占禁止法回避策（買収ではない）
-date: 2025-12-27 19:40:43.441000+00:00
+layout: "post"
+title: "Nvidia's $20B Antitrust Loophole (Not an Acquisition) - Nvidiaの200億ドルの独占禁止法回避策（買収ではない）"
+date: "2025-12-27 19:40:43.441000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://ossa-ma.github.io/blog/groq
-source_title: Nvidia's $20B Antitrust Loophole | Ossama Chaib
-source_id: 46403559
-excerpt: Nvidiaが$200億でGroqのIP獲得、SRAM推論が国内データセンターを激変
+source_url: "https://ossa-ma.github.io/blog/groq"
+source_title: "Nvidia's $20B Antitrust Loophole | Ossama Chaib"
+source_id: "46403559"
+excerpt: "Nvidiaが$200億でGroqのIP獲得、SRAM推論が国内データセンターを激変"
 ---
 # Nvidia's $20B Antitrust Loophole (Not an Acquisition) - Nvidiaの200億ドルの独占禁止法回避策（買収ではない）
 

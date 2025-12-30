@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Release age v1.3.0: post-quantum (and more) - age v1.3.0リリース：耐量子計算機暗号など
-date: 2025-12-28 05:15:13.219000+00:00
+layout: "post"
+title: "Release age v1.3.0: post-quantum (and more) - age v1.3.0リリース：耐量子計算機暗号など"
+date: "2025-12-28 05:15:13.219000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://github.com/FiloSottile/age/releases/tag/v1.3.0
-source_title: 'Release age v1.3.0: post-quantum (and more)! · FiloSottile/age · GitHub'
-source_id: 1184072294
-excerpt: age v1.3.0で量子耐性ハイブリッド鍵と高速I/O、検査ツールが実用化
+source_url: "https://github.com/FiloSottile/age/releases/tag/v1.3.0"
+source_title: "Release age v1.3.0: post-quantum (and more)! · FiloSottile/age · GitHub"
+source_id: "1184072294"
+excerpt: "age v1.3.0で量子耐性ハイブリッド鍵と高速I/O、検査ツールが実用化"
 ---
 # Release age v1.3.0: post-quantum (and more) - age v1.3.0リリース：耐量子計算機暗号など
 

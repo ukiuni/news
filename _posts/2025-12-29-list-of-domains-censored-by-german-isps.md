@@ -1,12 +1,16 @@
 ---
-layout: post
-title: List of domains censored by German ISPs - ドイツのISPによって検閲されているドメインのリスト
-date: 2025-12-29T19:26:49.027Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "List of domains censored by German ISPs - ドイツのISPによって検閲されているドメインのリスト"
+date: "2025-12-29T19:26:49.027Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://cuiiliste.de/domains"
 source_title: "CUII Liste - Gesperrte Domains"
-source_id: 46423566
+source_id: "46423566"
 excerpt: "ドイツISPの実例から学ぶドメイン遮断の手口と回避、サービス影響対策を実務視点で解説"
 ---
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: MIT Battlecode (programming competition) starts in 1 week! - MIT Battlecode（プログラミング競技）が1週間後に開始！
-date: 2025-12-29T20:32:28.405Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "MIT Battlecode (programming competition) starts in 1 week! - MIT Battlecode（プログラミング競技）が1週間後に開始！"
+date: "2025-12-29T20:32:28.405Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://battlecode.org/about"
 source_title: "About | Battlecode"
-source_id: 435126066
+source_id: "435126066"
 excerpt: "1週間後のMIT Battlecodeで自律ロボット軍を勝たせる実践攻略。"
 ---
 

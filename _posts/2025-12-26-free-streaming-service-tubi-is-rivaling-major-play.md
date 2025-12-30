@@ -1,17 +1,16 @@
 ---
-layout: post
-title: Free streaming service Tubi is rivaling major players for viewership. Here's - 無料ストリーミングサービスのTubiが視聴者数で主要プレイヤーに匹敵。その理由は
-  how it's winning
-date: 2025-12-26 03:50:06.111000+00:00
+layout: "post"
+title: "Free streaming service Tubi is rivaling major players for viewership. Here's - 無料ストリーミングサービスのTubiが視聴者数で主要プレイヤーに匹敵。その理由は how it's winning"
+date: "2025-12-26 03:50:06.111000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.cnbc.com/2025/12/24/tubi-fox-streaming-free.html
-source_title: Free streaming service Tubi is rivaling major players for viewership
-source_id: 438365269
+source_url: "https://www.cnbc.com/2025/12/24/tubi-fox-streaming-free.html"
+source_title: "Free streaming service Tubi is rivaling major players for viewership"
+source_id: "438365269"
 ---
 # Free streaming service Tubi is rivaling major players for viewership. Here's - 無料ストリーミングサービスのTubiが視聴者数で主要プレイヤーに匹敵。その理由は
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: GOG is getting acquired by its original co-founder: What it means for you - GOGが元の共同創設者によって買収される：それがあなたにとって何を意味するか
-date: 2025-12-29T17:26:51.341Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "GOG is getting acquired by its original co-founder: What it means for you - GOGが元の共同創設者によって買収される：それがあなたにとって何を意味するか"
+date: "2025-12-29T17:26:51.341Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/"
 source_title: "GOG is getting acquired by its original co-founder: What it means for you | GOG.COM"
-source_id: 46422412
+source_id: "46422412"
 excerpt: "創業者のGOG買戻しでDRMフリーと保存活動が強化、購入者と開発者が取るべき具体策とは？"
 ---
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: All Delisted Steam Games - Steamから削除されたすべてのゲーム
-date: 2025-12-29T20:28:46.669Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "All Delisted Steam Games - Steamから削除されたすべてのゲーム"
+date: "2025-12-29T20:28:46.669Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://delistedgames.com/all-delisted-steam-games/"
 source_title: "All Delisted Steam Games &#8211; Delisted Games"
-source_id: 46424262
+source_id: "46424262"
 excerpt: "Steamで消えた1000本超の実例から学ぶ、買ったゲームを失わない保存術と法的リスク"
 ---
 

@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Replacing JavaScript with Just HTML - JavaScriptをHTMLだけで置き換える
-date: 2025-12-28 02:15:28.408000+00:00
+layout: "post"
+title: "Replacing JavaScript with Just HTML - JavaScriptをHTMLだけで置き換える"
+date: "2025-12-28 02:15:28.408000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.htmhell.dev/adventcalendar/2025/27/
-source_title: Replacing JS with just HTML - HTMHell
-source_id: 46407337
-excerpt: ネイティブHTMLでJSを減らし表示速度とアクセシビリティを劇的改善。
+source_url: "https://www.htmhell.dev/adventcalendar/2025/27/"
+source_title: "Replacing JS with just HTML - HTMHell"
+source_id: "46407337"
+excerpt: "ネイティブHTMLでJSを減らし表示速度とアクセシビリティを劇的改善。"
 ---
 # Replacing JavaScript with Just HTML - JavaScriptをHTMLだけで置き換える
 

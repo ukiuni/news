@@ -1,18 +1,17 @@
 ---
-layout: post
-title: I Built a Production RAG System for $5/month (Most Alternatives Cost $100-200+) - 月額5ドルでプロダクションRAGシステムを構築（他は100〜200ドル以上かかる）
-date: 2025-12-28 04:17:09.687000+00:00
+layout: "post"
+title: "I Built a Production RAG System for $5/month (Most Alternatives Cost $100-200+) - 月額5ドルでプロダクションRAGシステムを構築（他は100〜200ドル以上かかる）"
+date: "2025-12-28 04:17:09.687000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj
-source_title: I Built a Production RAG System for $5/month (Most Alternatives Cost
-  $100-200+) - DEV Community
-source_id: 3122739
-excerpt: Cloudflareエッジで埋め込み・検索を完結させ、RAGを月約$5で実運用する手法
+source_url: "https://dev.to/dannwaneri/i-built-a-production-rag-system-for-5month-most-alternatives-cost-100-200-21hj"
+source_title: "I Built a Production RAG System for $5/month (Most Alternatives Cost $100-200+) - DEV Community"
+source_id: "3122739"
+excerpt: "Cloudflareエッジで埋め込み・検索を完結させ、RAGを月約$5で実運用する手法"
 ---
 # I Built a Production RAG System for $5/month (Most Alternatives Cost $100-200+) - 月額5ドルでプロダクションRAGシステムを構築（他は100〜200ドル以上かかる）
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Garbage collection in Rust got a little better - Rustのガベージコレクションが少し改善された
-date: 2025-12-29T16:27:27.670Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Garbage collection in Rust got a little better - Rustのガベージコレクションが少し改善された"
+date: "2025-12-29T16:27:27.670Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://claytonwramsey.com/blog/dumpster2/"
 source_title: "Garbage collection in Rust got a little better"
-source_id: 959856699
+source_id: "959856699"
 excerpt: "dumpsterでRustの動的trait対応GCと自己参照生成が安全に効率化"
 ---
 

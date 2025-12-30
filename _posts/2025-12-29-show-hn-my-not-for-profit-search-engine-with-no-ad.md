@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs - Show HN: 広告なし、AIなし、DDG bangs対応の非営利検索エンジン
-date: 2025-12-29T07:50:00.018Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs - Show HN: 広告なし、AIなし、DDG bangs対応の非営利検索エンジン"
+date: "2025-12-29T07:50:00.018Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://nilch.org"
 source_title: "nilch"
-source_id: 46417748
+source_id: "46417748"
 excerpt: "寄付で成り立つ、広告・AI無しの全DDG bangs対応検索体験"
 ---
 

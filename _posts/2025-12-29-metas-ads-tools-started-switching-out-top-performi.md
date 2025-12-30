@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Meta's ads tools started switching out top-performing ads with AI-generated ones - Metaの広告ツールが、パフォーマンスの高い広告をAI生成のものに置き換え始めた
-date: 2025-12-29T20:27:16.337Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Meta's ads tools started switching out top-performing ads with AI-generated ones - Metaの広告ツールが、パフォーマンスの高い広告をAI生成のものに置き換え始めた"
+date: "2025-12-29T20:27:16.337Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.businessinsider.com/meta-ai-generating-bizarre-ads-advantage-plus-2025-10"
 source_title: "Meta's AI Tools Are Going Rogue and Generating Some Strange Ads - Business Insider"
-source_id: 46424733
+source_id: "46424733"
 excerpt: "MetaのAIが好調広告を奇怪な生成画像に差し替え、ブランドリスクが顕在化"
 ---
 

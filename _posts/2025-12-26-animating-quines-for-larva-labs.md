@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Animating Quines for Larva Labs - Larva Labsのためのクワインのアニメーション化
-date: 2025-12-26 08:10:11.268000+00:00
+layout: "post"
+title: "Animating Quines for Larva Labs - Larva Labsのためのクワインのアニメーション化"
+date: "2025-12-26 08:10:11.268000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://destroytoday.com/blog/animating-quines-for-larva-labs
-source_title: Animating Quines for Larva Labs - Jonnie Hallman (@destroytoday)
-source_id: 46354187
-excerpt: Quineのピクセル生成を滑らかに動かすSVG→Canvasとグループ化最適化の手法
+source_url: "https://destroytoday.com/blog/animating-quines-for-larva-labs"
+source_title: "Animating Quines for Larva Labs - Jonnie Hallman (@destroytoday)"
+source_id: "46354187"
+excerpt: "Quineのピクセル生成を滑らかに動かすSVG→Canvasとグループ化最適化の手法"
 ---
 # Animating Quines for Larva Labs - Larva Labsのためのクワインのアニメーション化
 

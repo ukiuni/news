@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Communication Protocols - 通信プロトコル
-date: 2025-12-29T15:29:55.211Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Communication Protocols - 通信プロトコル"
+date: "2025-12-29T15:29:55.211Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.systemdesignbutsimple.com/p/communication-protocols?utm_campaign=email-half-post&amp;r=dfmav&amp;utm_source=substack&amp;utm_medium=email"
 source_title: "Communication Protocols - by Stephane Moreau"
-source_id: 435413327
+source_id: "435413327"
 excerpt: "現場で使える通信プロトコルの最適選定を短時間で示す実践ガイド"
 ---
 

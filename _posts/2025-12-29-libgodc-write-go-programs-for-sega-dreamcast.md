@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Libgodc: Write Go Programs for Sega Dreamcast - Libgodc：セガ・ドリームキャスト用のGoプログラムを書く
-date: 2025-12-29T14:27:18.285Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Libgodc: Write Go Programs for Sega Dreamcast - Libgodc：セガ・ドリームキャスト用のGoプログラムを書く"
+date: "2025-12-29T14:27:18.285Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://github.com/drpaneas/libgodc"
 source_title: "GitHub - drpaneas/libgodc: Go runtime for Dreamcast using gccgo and KOS"
-source_id: 46420672
+source_id: "46420672"
 excerpt: "16MBのDreamcastでGoランタイムを動かし実機ゲーム開発を叶えるlibgodc"
 ---
 

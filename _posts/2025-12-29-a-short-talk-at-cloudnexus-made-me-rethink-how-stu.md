@@ -1,12 +1,16 @@
 ---
-layout: post
-title: A short talk at CloudNexus made me rethink how students are using AI - CloudNexusでの短い講演をきっかけに、学生のAI利用について考え直した
-date: 2025-12-29T09:49:41.906Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "A short talk at CloudNexus made me rethink how students are using AI - CloudNexusでの短い講演をきっかけに、学生のAI利用について考え直した"
+date: "2025-12-29T09:49:41.906Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://dev.to/abdullah_haroon_092cf10d3/a-short-talk-at-cloudnexus-made-me-rethink-how-students-are-using-ai-4o01"
 source_title: "A short talk at CloudNexus made me rethink how students are using AI - DEV Community"
-source_id: 3131008
+source_id: "3131008"
 excerpt: "学生がChatGPT頼みで失敗する現場事例と、用途別AI使い分けとクラウド設計の実践法を具体解説"
 ---
 

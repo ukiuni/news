@@ -1,19 +1,17 @@
 ---
-layout: post
-title: Ultimate-Linux: Userspace for Linux in Pure JavaScript - Ultimate-Linux：純粋なJavaScriptによるLinuxユーザー空間
-date: 2025-12-26 05:08:19.197000+00:00
+layout: "post"
+title: "Ultimate-Linux: Userspace for Linux in Pure JavaScript - Ultimate-Linux：純粋なJavaScriptによるLinuxユーザー空間"
+date: "2025-12-26 05:08:19.197000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://github.com/popovicu/ultimate-linux
-source_title: 'GitHub - popovicu/ultimate-linux: The Ultimate Linux micro distribution
-  written in JavaScript! A very functional minimal userspace for Linux written in...
-  pure JavaScript! Not quite, but almost. It''s good, I promise!'
-source_id: 46388700
-excerpt: JavaScriptで最小限Linuxユーザースペースを再現し設計知見を得る実験
+source_url: "https://github.com/popovicu/ultimate-linux"
+source_title: "GitHub - popovicu/ultimate-linux: The Ultimate Linux micro distribution written in JavaScript! A very functional minimal userspace for Linux written in... pure JavaScript! Not quite, but almost. It's good, I promise!"
+source_id: "46388700"
+excerpt: "JavaScriptで最小限Linuxユーザースペースを再現し設計知見を得る実験"
 ---
 # Ultimate-Linux: Userspace for Linux in Pure JavaScript - Ultimate-Linux：純粋なJavaScriptによるLinuxユーザー空間
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: ManusAI Joins Meta - ManusAIがMetaに参画
-date: 2025-12-29T23:27:30.859Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "ManusAI Joins Meta - ManusAIがMetaに参画"
+date: "2025-12-29T23:27:30.859Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation"
 source_title: "Manus Joins Meta for Next Era of Innovation"
-source_id: 46426534
+source_id: "46426534"
 excerpt: "ManusがMeta参画、147兆トークン処理と8千万仮想環境で企業業務の自律自動化を本格化"
 ---
 

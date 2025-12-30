@@ -1,16 +1,16 @@
 ---
-layout: post
-title: MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming - MiniMax M2.1：現実世界の複雑なタスク、多言語プログラミング向けに構築
-date: 2025-12-26 04:00:49.849000+00:00
+layout: "post"
+title: "MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming - MiniMax M2.1：現実世界の複雑なタスク、多言語プログラミング向けに構築"
+date: "2025-12-26 04:00:49.849000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.minimaxi.com/news/minimax-m21
-source_title: 'MiniMax M2.1: 大幅提升多语言编程，为真实世界复杂任务而生 - MiniMax News'
-source_id: 46388213
+source_url: "https://www.minimaxi.com/news/minimax-m21"
+source_title: "MiniMax M2.1: 大幅提升多语言编程，为真实世界复杂任务而生 - MiniMax News"
+source_id: "46388213"
 ---
 # MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming - MiniMax M2.1：現実世界の複雑なタスク、多言語プログラミング向けに構築
 

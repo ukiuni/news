@@ -1,12 +1,16 @@
 ---
-layout: post
-title: AI is forcing us to write good code - AIが私たちに良いコードを書くことを強いている
-date: 2025-12-29T23:29:01.900Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "AI is forcing us to write good code - AIが私たちに良いコードを書くことを強いている"
+date: "2025-12-29T23:29:01.900Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code"
 source_title: "AI Is Forcing Us To Write Good Code - by Steve Krenzel"
-source_id: 46424200
+source_id: "46424200"
 excerpt: "AIと安全に共働するために100%テストと型・高速環境を必須化する実践ガイド"
 ---
 

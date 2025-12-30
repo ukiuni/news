@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Parsing Advances - パース技術の進歩
-date: 2025-12-28T21:17:15.170Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Parsing Advances - パース技術の進歩"
+date: "2025-12-28T21:17:15.170Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://matklad.github.io/2025/12/28/parsing-advances.html"
 source_title: "Parsing Advances"
-source_id: 437192221
+source_id: "437192221"
 excerpt: "進行アサートでパーサーの無限ループとOOMを即検出する実践的手法"
 ---
 

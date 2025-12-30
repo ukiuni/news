@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines - Show HN: Xcc700: 700行で書かれたESP32 (Xtensa) 向けセルフホスティング・ミニCコンパイラ
-date: 2025-12-26 19:29:06.439000+00:00
+layout: "post"
+title: "Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines - Show HN: Xcc700: 700行で書かれたESP32 (Xtensa) 向けセルフホスティング・ミニCコンパイラ"
+date: "2025-12-26 19:29:06.439000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://github.com/valdanylchuk/xcc700
-source_title: 'GitHub - valdanylchuk/xcc700: mini C compiler for esp32'
-source_id: 46392736
-excerpt: 700行の自己ホスティングCコンパイラでESP32上で即時デバッグや現地パッチが可能
+source_url: "https://github.com/valdanylchuk/xcc700"
+source_title: "GitHub - valdanylchuk/xcc700: mini C compiler for esp32"
+source_id: "46392736"
+excerpt: "700行の自己ホスティングCコンパイラでESP32上で即時デバッグや現地パッチが可能"
 ---
 # Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines - Show HN: Xcc700: 700行で書かれたESP32 (Xtensa) 向けセルフホスティング・ミニCコンパイラ
 

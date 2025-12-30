@@ -1,16 +1,16 @@
 ---
-layout: post
-title: Logging Sucks - And here's how to make it better. - ロギングは最悪だ - そして、それを改善する方法
-date: 2025-12-26 03:55:38.315000+00:00
+layout: "post"
+title: "Logging Sucks - And here's how to make it better. - ロギングは最悪だ - そして、それを改善する方法"
+date: "2025-12-26 03:55:38.315000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://loggingsucks.com/
-source_title: Logging Sucks - Your Logs Are Lying To You
-source_id: 438361913
+source_url: "https://loggingsucks.com/"
+source_title: "Logging Sucks - Your Logs Are Lying To You"
+source_id: "438361913"
 ---
 # Logging Sucks - And here's how to make it better. - ロギングは最悪だ - そして、それを改善する方法
 

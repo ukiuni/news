@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Building a macOS app to know when my Mac is thermal throttling - Macがサーマルスロットリングを起こしているか知るためのmacOSアプリの構築
-date: 2025-12-28 14:58:03.259000+00:00
+layout: "post"
+title: "Building a macOS app to know when my Mac is thermal throttling - Macがサーマルスロットリングを起こしているか知るためのmacOSアプリの構築"
+date: "2025-12-28 14:58:03.259000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://stanislas.blog/2025/12/macos-thermal-throttling-app/
-source_title: Building a macOS app to know when my Mac is thermal throttling · Stan's
-  blog
-source_id: 46410402
-excerpt: ファンレスMacでRoot不要に熱状態を監視しサーマルスロットリングを即検知する方法
+source_url: "https://stanislas.blog/2025/12/macos-thermal-throttling-app/"
+source_title: "Building a macOS app to know when my Mac is thermal throttling · Stan's blog"
+source_id: "46410402"
+excerpt: "ファンレスMacでRoot不要に熱状態を監視しサーマルスロットリングを即検知する方法"
 ---
 # Building a macOS app to know when my Mac is thermal throttling - Macがサーマルスロットリングを起こしているか知るためのmacOSアプリの構築
 

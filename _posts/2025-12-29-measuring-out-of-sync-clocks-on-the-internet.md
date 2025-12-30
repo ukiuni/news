@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Measuring out-of-sync clocks on the Internet - インターネット上の同期のずれた時計を測定する
-date: 2025-12-29T10:24:55.580Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Measuring out-of-sync clocks on the Internet - インターネット上の同期のずれた時計を測定する"
+date: "2025-12-29T10:24:55.580Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://alexsci.com/blog/clock-skew/"
 source_title: "Does the Internet know what time is it?"
-source_id: 1355585530
+source_id: "1355585530"
 excerpt: "*HTTP Date調査：95%は一致だが一部で数百日ズレ発見、運用リスクを要確認*"
 ---
 

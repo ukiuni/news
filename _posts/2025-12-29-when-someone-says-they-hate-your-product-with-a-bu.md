@@ -1,12 +1,16 @@
 ---
-layout: post
-title: When someone says they hate your product with a burning passion - 誰かがあなたの製品を激しく嫌っていると言ったとき
-date: 2025-12-29T20:29:30.003Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "When someone says they hate your product with a burning passion - 誰かがあなたの製品を激しく嫌っていると言ったとき"
+date: "2025-12-29T20:29:30.003Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.getflack.com/p/responding-to-negative-feedback"
 source_title: "When someone says they hate your product with a burning passion"
-source_id: 46424460
+source_id: "46424460"
 excerpt: "炎上を信頼に変える、公開初動テンプレと実務的謝罪・再発防止手順"
 ---
 

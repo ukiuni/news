@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole - なぜObject of Arrays (SoAパターン) がインターリーブ配列に勝るのか：JavaScriptパフォーマンスの深淵
-date: 2025-12-28T15:05:53.600Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole - なぜObject of Arrays (SoAパターン) がインターリーブ配列に勝るのか：JavaScriptパフォーマンスの深淵"
+date: "2025-12-28T15:05:53.600Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.royalbhati.com/posts/js-array-vs-typedarray"
 source_title: "Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole"
-source_id: 436117482
+source_id: "436117482"
 excerpt: "数百万件の数値処理がTypedArrayを使ったSoAで大幅高速化する理由と実践法を解説"
 ---
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Consider a Nix Flake for your windows-rs Project - windows-rsプロジェクトにNix Flakeを検討する
-date: 2025-12-29T03:50:48.427Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Consider a Nix Flake for your windows-rs Project - windows-rsプロジェクトにNix Flakeを検討する"
+date: "2025-12-29T03:50:48.427Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://lgug2z.com/articles/consider-a-nix-flake-for-your-windows-rs-project/"
 source_title: "Consider a Nix Flake for your windows-rs Project"
-source_id: 774092537
+source_id: "774092537"
 excerpt: "NixフレークでMacやNixOSからWindows向けRustをMSVCでビルド検証、CIで統一"
 ---
 

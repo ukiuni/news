@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Rainbow Six Siege hacked as players get billions of credits and random bans - レインボーシックス シージがハッキングされ、プレイヤーが数十億クレジットを獲得し、ランダムにBANされる
-date: 2025-12-28 01:11:29.687000+00:00
+layout: "post"
+title: "Rainbow Six Siege hacked as players get billions of credits and random bans - レインボーシックス シージがハッキングされ、プレイヤーが数十億クレジットを獲得し、ランダムにBANされる"
+date: "2025-12-28 01:11:29.687000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/
-source_title: Rainbow Six Siege Hacked as Players Get Billions of Credits and Random
-  Bans - STG Play
-source_id: 46404597
-excerpt: R6 Siegeで数十億クレジット不正付与と謎のランダムBANが発生、運営の真相調査中
+source_url: "https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/"
+source_title: "Rainbow Six Siege Hacked as Players Get Billions of Credits and Random Bans - STG Play"
+source_id: "46404597"
+excerpt: "R6 Siegeで数十億クレジット不正付与と謎のランダムBANが発生、運営の真相調査中"
 ---
 # Rainbow Six Siege hacked as players get billions of credits and random bans - レインボーシックス シージがハッキングされ、プレイヤーが数十億クレジットを獲得し、ランダムにBANされる
 

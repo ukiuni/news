@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Kubernetes egress control with squid proxy - SquidプロキシによるKubernetesのエグレス制御
-date: 2025-12-29T12:30:51.718Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Kubernetes egress control with squid proxy - SquidプロキシによるKubernetesのエグレス制御"
+date: "2025-12-29T12:30:51.718Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://interlaye.red/kubernetes_002degress_002dsquid.html"
 source_title: "Kubernetes Egress Control with Squid proxy (interlaye.red)"
-source_id: 46419659
+source_id: "46419659"
 excerpt: "Squid＋NetworkPolicyでKubernetesの外向き通信を可視化し強制する簡単手法"
 ---
 

@@ -1,16 +1,16 @@
 ---
-layout: post
-title: Are Two Heads Better Than One? - 三人寄れば文殊の知恵（二つの頭は一つより優れているか？）
-date: 2025-12-26 04:07:01.135000+00:00
+layout: "post"
+title: "Are Two Heads Better Than One? - 三人寄れば文殊の知恵（二つの頭は一つより優れているか？）"
+date: "2025-12-26 04:07:01.135000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://eieio.games/blog/two-heads-arent-better-than-one/
-source_title: Are Two Heads Better Than One? · eieio.games
-source_id: 1586274099
+source_url: "https://eieio.games/blog/two-heads-arent-better-than-one/"
+source_title: "Are Two Heads Better Than One? · eieio.games"
+source_id: "1586274099"
 ---
 # Are Two Heads Better Than One? - 三人寄れば文殊の知恵（二つの頭は一つより優れているか？）
 

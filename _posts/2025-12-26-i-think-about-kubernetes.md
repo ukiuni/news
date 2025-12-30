@@ -1,17 +1,17 @@
 ---
-layout: post
-title: I Think about Kubernetes - Kubernetesについて考える
-date: 2025-12-26 21:07:05.035000+00:00
+layout: "post"
+title: "I Think about Kubernetes - Kubernetesについて考える"
+date: "2025-12-26 21:07:05.035000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://garnaudov.com/writings/how-i-think-about-kubernetes/
-source_title: How I think about Kubernetes | Georgi Arnaudov
-source_id: 46396043
-excerpt: Kubernetesを「宣言的ランタイム」として再定義し、運用・デバッグとGitOps導入を劇的に速める視点
+source_url: "https://garnaudov.com/writings/how-i-think-about-kubernetes/"
+source_title: "How I think about Kubernetes | Georgi Arnaudov"
+source_id: "46396043"
+excerpt: "Kubernetesを「宣言的ランタイム」として再定義し、運用・デバッグとGitOps導入を劇的に速める視点"
 ---
 # I Think about Kubernetes - Kubernetesについて考える
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: What Makes Goose Different From Other AI Coding AgentsAI - Gooseが他のAIコーディングエージェントと何が違うのか
-date: 2025-12-29T22:27:41.756Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "What Makes Goose Different From Other AI Coding AgentsAI - Gooseが他のAIコーディングエージェントと何が違うのか"
+date: "2025-12-29T22:27:41.756Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://dev.to/nickytonline/what-makes-goose-different-from-other-ai-coding-agents-2edc"
 source_title: "What Makes Goose Different From Other AI Coding AgentsAI - DEV Community"
-source_id: 3131733
+source_id: "3131733"
 excerpt: "YAMLレシピで開発作業を再現・並列自動化し、チームで安全に共有・CI連携で即運用可能にする"
 ---
 

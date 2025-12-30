@@ -1,12 +1,16 @@
 ---
-layout: post
-title: What Happens when you convert a NAN to uint in Golang - GolangでNaNをuintに変換すると何が起こるか
-date: 2025-12-29T14:30:19.699Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "What Happens when you convert a NAN to uint in Golang - GolangでNaNをuintに変換すると何が起こるか"
+date: "2025-12-29T14:30:19.699Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://sakshamar.in/posts/what-happens-when-you-convert-a-nan-to-uint-golang/"
 source_title: "| What Happens when you convert a NAN to uint in Golang"
-source_id: 435370434
+source_id: "435370434"
 excerpt: "GoでNaN→uintの暗黙変換がCPU依存で異常値を生む実例と対策"
 ---
 

@@ -1,16 +1,16 @@
 ---
-layout: post
-title: Show HN: Gaming Couch – a local multiplayer party game platform for 8 players - Show HN: Gaming Couch – 8人まで遊べるローカルマルチプレイヤー・パーティーゲーム・プラットフォーム
-date: 2025-12-26 04:30:02.518000+00:00
+layout: "post"
+title: "Show HN: Gaming Couch – a local multiplayer party game platform for 8 players - Show HN: Gaming Couch – 8人まで遊べるローカルマルチプレイヤー・パーティーゲーム・プラットフォーム"
+date: "2025-12-26 04:30:02.518000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://gamingcouch.com
-source_title: Gaming Couch – Play Couch Co-Op Games Instantly
-source_id: 46344573
+source_url: "https://gamingcouch.com"
+source_title: "Gaming Couch – Play Couch Co-Op Games Instantly"
+source_id: "46344573"
 ---
 # Show HN: Gaming Couch – a local multiplayer party game platform for 8 players - Show HN: Gaming Couch – 8人まで遊べるローカルマルチプレイヤー・パーティーゲーム・プラットフォーム
 

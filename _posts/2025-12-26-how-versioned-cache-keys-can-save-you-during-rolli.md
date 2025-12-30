@@ -1,12 +1,16 @@
 ---
-layout: post
-title: How Versioned Cache Keys Can Save You During Rolling Deployments - バージョン管理されたキャッシュキーがローリングデプロイ中にあなたを救う方法
-date: 2025-12-26T04:04:26.640Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "How Versioned Cache Keys Can Save You During Rolling Deployments - バージョン管理されたキャッシュキーがローリングデプロイ中にあなたを救う方法"
+date: "2025-12-26T04:04:26.640Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://medium.com/dev-genius/version-your-cache-keys-to-survive-rolling-deployments-a62545326220"
 source_title: "How Versioned Cache Keys Can Save You During Rolling Deployments"
-source_id: 438104427
+source_id: "438104427"
 ---
 
 # How Versioned Cache Keys Can Save You During Rolling Deployments - バージョン管理されたキャッシュキーがローリングデプロイ中にあなたを救う方法

@@ -1,19 +1,17 @@
 ---
-layout: post
-title: How reality crushed Ÿnsect, the French startup that had raised over $600M for - 現実がいかにして6億ドル以上を調達したフランスのスタートアップŸnsectを打ち砕いたか
-  insect farming
-date: 2025-12-27 10:39:26.963000+00:00
+layout: "post"
+title: "How reality crushed Ÿnsect, the French startup that had raised over $600M for - 現実がいかにして6億ドル以上を調達したフランスのスタートアップŸnsectを打ち砕いたか insect farming"
+date: "2025-12-27 10:39:26.963000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/
-source_title: How reality crushed Ÿnsect, the French startup that had raised over
-  $600M for insect farming | TechCrunch
-source_id: 437156065
-excerpt: 6億ドル調達のŸnsectが破綻、昆虫タンパクの市場構造と事業戦略の致命的な失敗を暴く実践教訓
+source_url: "https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/"
+source_title: "How reality crushed Ÿnsect, the French startup that had raised over $600M for insect farming | TechCrunch"
+source_id: "437156065"
+excerpt: "6億ドル調達のŸnsectが破綻、昆虫タンパクの市場構造と事業戦略の致命的な失敗を暴く実践教訓"
 ---
 # How reality crushed Ÿnsect, the French startup that had raised over $600M for - 現実がいかにして6億ドル以上を調達したフランスのスタートアップŸnsectを打ち砕いたか
 

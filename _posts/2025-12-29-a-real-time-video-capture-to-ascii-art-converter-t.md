@@ -1,12 +1,16 @@
 ---
-layout: post
-title: A real time video capture to ASCII Art converter that runs in the terminal. - ターミナルで動作するリアルタイム・ビデオキャプチャからASCIIアートへの変換器
-date: 2025-12-29T06:51:55.820Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "A real time video capture to ASCII Art converter that runs in the terminal. - ターミナルで動作するリアルタイム・ビデオキャプチャからASCIIアートへの変換器"
+date: "2025-12-29T06:51:55.820Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://github.com/RootNode404/ASCII-Video"
 source_title: "GitHub - RootNode404/ASCII-Video: A simple, realtime video to ASCII Art converter"
-source_id: 435634345
+source_id: "435634345"
 excerpt: "ウェブカメラ映像をターミナルで動くASCIIアートに即変換、軽量でPiでも遊べるツール"
 ---
 

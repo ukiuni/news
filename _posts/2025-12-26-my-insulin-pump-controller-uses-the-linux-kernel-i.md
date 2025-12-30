@@ -1,18 +1,17 @@
 ---
-layout: post
-title: My insulin pump controller uses the Linux kernel. It also violates the GPL - 私のインスリンポンプコントローラーはLinuxカーネルを使用している。そしてGPLにも違反している
-date: 2025-12-26 20:51:42.140000+00:00
+layout: "post"
+title: "My insulin pump controller uses the Linux kernel. It also violates the GPL - 私のインスリンポンプコントローラーはLinuxカーネルを使用している。そしてGPLにも違反している"
+date: "2025-12-26 20:51:42.140000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/
-source_title: 'The device that controls my insulin pump uses the Linux kernel. It
-  also violates the GPL. : linux'
-source_id: 46395184
-excerpt: インスリンポンプにLinuxが使われ、メーカーがGPL違反で安全性と透明性が脅かされる事実
+source_url: "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/"
+source_title: "The device that controls my insulin pump uses the Linux kernel. It also violates the GPL. : linux"
+source_id: "46395184"
+excerpt: "インスリンポンプにLinuxが使われ、メーカーがGPL違反で安全性と透明性が脅かされる事実"
 ---
 # My insulin pump controller uses the Linux kernel. It also violates the GPL - 私のインスリンポンプコントローラーはLinuxカーネルを使用している。そしてGPLにも違反している
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: I asked AI researchers and economists about SWE career strategies given AI - AIを前提としたSWEのキャリア戦略について、AI研究者と経済学者に聞いてみた
-date: 2025-12-29T12:27:52.308Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "I asked AI researchers and economists about SWE career strategies given AI - AIを前提としたSWEのキャリア戦略について、AI研究者と経済学者に聞いてみた"
+date: "2025-12-29T12:27:52.308Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://chrisbarber.co/I+asked+AI+researchers+%26+economists+about+SWE+career+strategy+and+the+future+of+AI"
 source_title: "I asked AI researchers &amp; economists about SWE career strategy and the future of AI - Chris Barber"
-source_id: 46401569
+source_id: "46401569"
 excerpt: "日本市場でAIに取られないためMLOpsとドメイン特化で高付加価値を作る戦略"
 ---
 

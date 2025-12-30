@@ -1,12 +1,16 @@
 ---
-layout: post
-title: ‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI - 「これはストレスの溜まる仕事になるだろう」：サム・アルトマン、AIで最も困難な役割に55万5千ドルの給与を提示
-date: 2025-12-29T19:25:54.966Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI - 「これはストレスの溜まる仕事になるだろう」：サム・アルトマン、AIで最も困難な役割に55万5千ドルの給与を提示"
+date: "2025-12-29T19:25:54.966Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.theguardian.com/technology/2025/dec/29/sam-altman-openai-job-search-ai-harms"
 source_title: "‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI | Artificial intelligence (AI) | The Guardian"
-source_id: 435235582
+source_id: "435235582"
 excerpt: "OpenAIが$555kで備え責任者募集、AIの暴走や悪用を防ぐ実務整備を急げ"
 ---
 

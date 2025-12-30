@@ -1,17 +1,17 @@
 ---
-layout: post
-title: ASUS ROG Laptops are Broken by Design: A Forensic Deep Dive - ASUS ROGノートパソコンは設計上壊れている：フォレンジックな深掘り
-date: 2025-12-26 11:23:31.147000+00:00
+layout: "post"
+title: "ASUS ROG Laptops are Broken by Design: A Forensic Deep Dive - ASUS ROGノートパソコンは設計上壊れている：フォレンジックな深掘り"
+date: "2025-12-26 11:23:31.147000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://drive.google.com/drive/folders/10V3AQH06WU14AhKAo0fmqk_JjBvXZmSf
-source_title: mcepdfs - Google ドライブ
-source_id: 439019608
-excerpt: フォレンジックが示すROGノートの電源・ファーム不備が、突発的な停止やバッテリ劣化を招く危険性を暴露
+source_url: "https://drive.google.com/drive/folders/10V3AQH06WU14AhKAo0fmqk_JjBvXZmSf"
+source_title: "mcepdfs - Google ドライブ"
+source_id: "439019608"
+excerpt: "フォレンジックが示すROGノートの電源・ファーム不備が、突発的な停止やバッテリ劣化を招く危険性を暴露"
 ---
 # ASUS ROG Laptops are Broken by Design: A Forensic Deep Dive - ASUS ROGノートパソコンは設計上壊れている：フォレンジックな深掘り
 

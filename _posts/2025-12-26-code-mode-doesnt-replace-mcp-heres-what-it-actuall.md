@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Code Mode Doesn't Replace MCP (Here's What It Actually Does) - コードモードはMCPを置き換えるものではない（実際に行うことはこちら）
-date: 2025-12-26 15:28:49.264000+00:00
+layout: "post"
+title: "Code Mode Doesn't Replace MCP (Here's What It Actually Does) - コードモードはMCPを置き換えるものではない（実際に行うことはこちら）"
+date: "2025-12-26 15:28:49.264000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://dev.to/blockopensource/code-mode-doesnt-replace-mcp-heres-what-it-actually-does-3hga
-source_title: Code Mode Doesn't Replace MCP (Here's What It Actually Does) - DEV Community
-source_id: 3119535
-excerpt: Code Modeはローカル編集に特化、MCPで安全な外部連携と拡張を実現
+source_url: "https://dev.to/blockopensource/code-mode-doesnt-replace-mcp-heres-what-it-actually-does-3hga"
+source_title: "Code Mode Doesn't Replace MCP (Here's What It Actually Does) - DEV Community"
+source_id: "3119535"
+excerpt: "Code Modeはローカル編集に特化、MCPで安全な外部連携と拡張を実現"
 ---
 # Code Mode Doesn't Replace MCP (Here's What It Actually Does) - コードモードはMCPを置き換えるものではない（実際に行うことはこちら）
 

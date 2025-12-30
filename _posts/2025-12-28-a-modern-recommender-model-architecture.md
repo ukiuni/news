@@ -1,17 +1,17 @@
 ---
-layout: post
-title: A Modern Recommender Model Architecture - モダンなレコメンダーモデルのアーキテクチャ
-date: 2025-12-28 09:15:58.420000+00:00
+layout: "post"
+title: "A Modern Recommender Model Architecture - モダンなレコメンダーモデルのアーキテクチャ"
+date: "2025-12-28 09:15:58.420000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://cprimozic.net/blog/anime-recommender-model-architecture/
-source_title: A Modern Recommender Model Architecture - Casey Primozic's Homepage
-source_id: 1265212681
-excerpt: 視聴確率と評価を同時予測しCPU運用に最適化した小型アニメ推薦モデル
+source_url: "https://cprimozic.net/blog/anime-recommender-model-architecture/"
+source_title: "A Modern Recommender Model Architecture - Casey Primozic's Homepage"
+source_id: "1265212681"
+excerpt: "視聴確率と評価を同時予測しCPU運用に最適化した小型アニメ推薦モデル"
 ---
 # A Modern Recommender Model Architecture - モダンなレコメンダーモデルのアーキテクチャ
 

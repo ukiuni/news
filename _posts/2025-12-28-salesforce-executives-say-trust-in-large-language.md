@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Salesforce Executives Say Trust in Large Language Models Has Declined - Salesforce幹部、大規模言語モデルへの信頼が低下したと語る
-date: 2025-12-28T04:15:07.144Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Salesforce Executives Say Trust in Large Language Models Has Declined - Salesforce幹部、大規模言語モデルへの信頼が低下したと語る"
+date: "2025-12-28T04:15:07.144Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.theinformation.com/articles/salesforce-executives-say-trust-generative-ai-declined"
 source_title: "Salesforce Executives Say Trust in Large Language Models Has Declined"
-source_id: 436502215
+source_id: "436502215"
 excerpt: "SalesforceがLLMへの信頼低下を公言、企業導入の安全対策見直しが急務"
 ---
 

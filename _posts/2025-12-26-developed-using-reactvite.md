@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Developed using react+vite - react+viteを使用して開発
-date: 2025-12-26 18:23:36.385000+00:00
+layout: "post"
+title: "Developed using react+vite - react+viteを使用して開発"
+date: "2025-12-26 18:23:36.385000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://brainspark-edu.vercel.app/
-source_title: BrainSpark - Interactive Quiz Platform
-source_id: 438787846
-excerpt: React＋Viteで作る瞬速インタラクティブQuizの設計と実践ノウハウを解説
+source_url: "https://brainspark-edu.vercel.app/"
+source_title: "BrainSpark - Interactive Quiz Platform"
+source_id: "438787846"
+excerpt: "React＋Viteで作る瞬速インタラクティブQuizの設計と実践ノウハウを解説"
 ---
 # Developed using react+vite - react+viteを使用して開発
 

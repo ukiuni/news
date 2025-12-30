@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Can I throw a C++ exception from a structured exception? - 構造化例外からC++例外をスローできるか？
-date: 2025-12-28 16:19:01.968000+00:00
+layout: "post"
+title: "Can I throw a C++ exception from a structured exception? - 構造化例外からC++例外をスローできるか？"
+date: "2025-12-28 16:19:01.968000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://devblogs.microsoft.com/oldnewthing/20170728-00/?p=96706
-source_title: Can I throw a C++ exception from a structured exception? - The Old New
-  Thing
-source_id: 436091837
-excerpt: SEHをC++例外に変換する安易なトリックが最適化崩壊と未定義動作を招く理由
+source_url: "https://devblogs.microsoft.com/oldnewthing/20170728-00/?p=96706"
+source_title: "Can I throw a C++ exception from a structured exception? - The Old New Thing"
+source_id: "436091837"
+excerpt: "SEHをC++例外に変換する安易なトリックが最適化崩壊と未定義動作を招く理由"
 ---
 # Can I throw a C++ exception from a structured exception? - 構造化例外からC++例外をスローできるか？
 

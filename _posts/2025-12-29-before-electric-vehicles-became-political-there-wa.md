@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Before Electric Vehicles Became Political, There Was the Toyota Prius - 電気自動車が政治的になる前、トヨタ・プリウスがあった
-date: 2025-12-29T00:58:19.096Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Before Electric Vehicles Became Political, There Was the Toyota Prius - 電気自動車が政治的になる前、トヨタ・プリウスがあった"
+date: "2025-12-29T00:58:19.096Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.nytimes.com/2025/12/27/business/electric-vehicles-poilitics-republicans-conservatives.html?unlocked_article_code=1._08.xAiw.R8mnGuJ_akRB"
 source_title: "Before Electric Vehicles Became Political, There Was the Toyota Prius"
-source_id: 437205301
+source_id: "437205301"
 excerpt: "プリウス以降、EVは技術から政治的象徴へ変わり、企業は性能訴求で市場を取り戻せる"
 ---
 

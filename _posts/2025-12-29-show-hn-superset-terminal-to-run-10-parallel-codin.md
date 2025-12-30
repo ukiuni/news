@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Show HN: Superset – Terminal to run 10 parallel coding agents - Show HN: Superset – 10個のコーディングエージェントを並列実行するターミナル
-date: 2025-12-29T19:29:04.511Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Show HN: Superset – Terminal to run 10 parallel coding agents - Show HN: Superset – 10個のコーディングエージェントを並列実行するターミナル"
+date: "2025-12-29T19:29:04.511Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://superset.sh/"
 source_title: "Superset - Run 10+ parallel coding agents on your machine"
-source_id: 46368739
+source_id: "46368739"
 excerpt: "Supersetで10体のAIを同時稼働、独立worktreeで並行開発を高速化"
 ---
 

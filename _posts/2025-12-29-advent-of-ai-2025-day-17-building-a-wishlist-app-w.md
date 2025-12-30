@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Advent of AI 2025 - Day 17: Building a Wishlist App with Goose and MCP-UI - AIのアドベント 2025 - 17日目：GooseとMCP-UIでウィッシュリストアプリを構築する
-date: 2025-12-29T13:27:59.278Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Advent of AI 2025 - Day 17: Building a Wishlist App with Goose and MCP-UI - AIのアドベント 2025 - 17日目：GooseとMCP-UIでウィッシュリストアプリを構築する"
+date: "2025-12-29T13:27:59.278Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://dev.to/nickytonline/advent-of-ai-2025-day-17-building-a-wishlist-app-with-goose-and-mcp-ui-330l"
 source_title: "Advent of AI 2025 - Day 17: Building a Wishlist App with Goose and MCP-UI - DEV Community"
-source_id: 3130302
+source_id: "3130302"
 excerpt: "GooseとMCP‑UIでチャット内ウィッシュリストを即構築、iframe問題も解決"
 ---
 

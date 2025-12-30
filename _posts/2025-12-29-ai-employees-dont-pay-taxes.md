@@ -1,12 +1,16 @@
 ---
-layout: post
-title: AI Employees Don't Pay Taxes - AI従業員は税金を払わない
-date: 2025-12-29T23:30:02.425Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "AI Employees Don't Pay Taxes - AI従業員は税金を払わない"
+date: "2025-12-29T23:30:02.425Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://alec.is/posts/ai-employees-dont-pay-taxes/"
 source_title: "AI Employees Don't Pay Taxes | Alec Armbruster"
-source_id: 46426596
+source_id: "46426596"
 excerpt: "AIが雇用を奪うと税収が消え、道路や医療は誰が守る？企業課税で埋まるか？"
 ---
 

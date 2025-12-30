@@ -1,12 +1,16 @@
 ---
-layout: post
+layout: "post"
 title: "Leonardo DiCaprio Says AI Can Never Be Art Because It Lacks Humanity: Even ‘Brilliant’ Examples Just ‘Dissipate Into the Ether of Internet Junk’ - レオナルド・ディカプリオが語る「AIは人間性がないから芸術にはなり得ない」：優れた事例も「インターネットのゴミ」に消えるだけ"
-date: 2025-12-30T01:05:31.881Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+date: "2025-12-30T01:05:31.881Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://variety.com/2025/film/news/leonardo-dicaprio-ai-lacks-humanity-cant-replace-art-1236603310/"
 source_title: "Leonardo DiCaprio Says AI Can Never Be Art Because It Lacks Humanity: Even ‘Brilliant’ Examples Just ‘Dissipate Into the Ether of Internet Junk’"
-source_id: 436250368
+source_id: "436250368"
 excerpt: "ディカプリオ、AIは人間性が欠け真の芸術にならずとハリウッド巨匠も反発"
 ---
 

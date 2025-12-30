@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Faster practical modular inversion - より高速で実用的なモジュラ逆数
-date: 2025-12-27 13:40:48.242000+00:00
+layout: "post"
+title: "Faster practical modular inversion - より高速で実用的なモジュラ逆数"
+date: "2025-12-27 13:40:48.242000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://purplesyringa.moe/blog/faster-practical-modular-inversion/
-source_title: Faster practical modular inversion | purplesyringa's blog
-source_id: 46341904
-excerpt: 拡張Stein実装でモジュラー逆数を平均1.3–2倍高速化、CPUやコンパイラ依存の最適化手法を解説
+source_url: "https://purplesyringa.moe/blog/faster-practical-modular-inversion/"
+source_title: "Faster practical modular inversion | purplesyringa's blog"
+source_id: "46341904"
+excerpt: "拡張Stein実装でモジュラー逆数を平均1.3–2倍高速化、CPUやコンパイラ依存の最適化手法を解説"
 ---
 # Faster practical modular inversion - より高速で実用的なモジュラ逆数
 

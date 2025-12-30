@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Chasing an Economic Boom, White House Dismisses Risks of A.I. - 経済ブームを追い求め、ホワイトハウスはAIのリスクを退ける
-date: 2025-12-27T16:39:36.400Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Chasing an Economic Boom, White House Dismisses Risks of A.I. - 経済ブームを追い求め、ホワイトハウスはAIのリスクを退ける"
+date: "2025-12-27T16:39:36.400Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.nytimes.com/2025/12/24/us/politics/trump-artificial-intelligence-economy-risks.html"
 source_title: "Chasing an Economic Boom, White House Dismisses Risks of A.I."
-source_id: 436855591
+source_id: "436855591"
 excerpt: "この記事の詳細をチェック"
 ---
 

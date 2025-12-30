@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Marsha Blackburn Bundles Every Bad Tech Bill Into One, Slaps the President's Name On It - マーシャ・ブラックバーン、すべての悪い技術法案を一つにまとめ、大統領の名前を冠する
-date: 2025-12-26T09:12:42.123Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Marsha Blackburn Bundles Every Bad Tech Bill Into One, Slaps the President's Name On It - マーシャ・ブラックバーン、すべての悪い技術法案を一つにまとめ、大統領の名前を冠する"
+date: "2025-12-26T09:12:42.123Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.techdirt.com/2025/12/22/marsha-blackburn-bundles-every-bad-tech-bill-into-one-slaps-trumps-name-on-it/"
 source_title: "Marsha Blackburn Bundles Every Bad Tech Bill Into One, Slaps the President's Name On It"
-source_id: 440215587
+source_id: "440215587"
 excerpt: "ブラックバーンが問題条項を束ね、米規制強化が日系プラットフォームの暗号・データ体制を脅かす"
 ---
 

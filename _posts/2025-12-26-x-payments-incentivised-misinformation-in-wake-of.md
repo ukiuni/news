@@ -1,17 +1,16 @@
 ---
-layout: post
-title: X payments incentivised misinformation in wake of Bondi shooting, expert says - ボンダイ銃撃事件後のXの支払いが誤情報を助長したと専門家が指摘
-date: 2025-12-26 03:52:12.657000+00:00
+layout: "post"
+title: "X payments incentivised misinformation in wake of Bondi shooting, expert says - ボンダイ銃撃事件後のXの支払いが誤情報を助長したと専門家が指摘"
+date: "2025-12-26 03:52:12.657000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.abc.net.au/news/2025-12-18/expert-says-x-incentivising-misinformation-bondi-shooting/106152144
-source_title: X payments incentivised misinformation in wake of Bondi shooting, expert
-  says - ABC News
-source_id: 438197928
+source_url: "https://www.abc.net.au/news/2025-12-18/expert-says-x-incentivising-misinformation-bondi-shooting/106152144"
+source_title: "X payments incentivised misinformation in wake of Bondi shooting, expert says - ABC News"
+source_id: "438197928"
 ---
 # X payments incentivised misinformation in wake of Bondi shooting, expert says - ボンダイ銃撃事件後のXの支払いが誤情報を助長したと専門家が指摘
 

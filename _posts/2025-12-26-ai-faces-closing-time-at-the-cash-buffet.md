@@ -1,16 +1,16 @@
 ---
-layout: post
-title: AI faces closing time at the cash buffet - AI、現金バッフェの閉店時間に直面
-date: 2025-12-26 03:52:41.303000+00:00
+layout: "post"
+title: "AI faces closing time at the cash buffet - AI、現金バッフェの閉店時間に直面"
+date: "2025-12-26 03:52:41.303000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.theregister.com/2025/12/24/ai_spending_cooling_off/
-source_title: AI faces closing time at the cash buffet • The Register
-source_id: 438085156
+source_url: "https://www.theregister.com/2025/12/24/ai_spending_cooling_off/"
+source_title: "AI faces closing time at the cash buffet • The Register"
+source_id: "438085156"
 ---
 # AI faces closing time at the cash buffet - AI、現金バッフェの閉店時間に直面
 

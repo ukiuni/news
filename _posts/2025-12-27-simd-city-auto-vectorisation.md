@@ -1,17 +1,17 @@
 ---
-layout: post
-title: SIMD City: Auto-Vectorisation - SIMD City：自動ベクトル化
-date: 2025-12-27 06:40:21.391000+00:00
+layout: "post"
+title: "SIMD City: Auto-Vectorisation - SIMD City：自動ベクトル化"
+date: "2025-12-27 06:40:21.391000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://xania.org/202512/20-simd-city
-source_title: 'SIMD City: Auto-vectorisation — Matt Godbolt’s blog'
-source_id: 46336019
-excerpt: この記事の詳細をチェック
+source_url: "https://xania.org/202512/20-simd-city"
+source_title: "SIMD City: Auto-vectorisation — Matt Godbolt’s blog"
+source_id: "46336019"
+excerpt: "この記事の詳細をチェック"
 ---
 # SIMD City: Auto-Vectorisation - SIMD City：自動ベクトル化
 

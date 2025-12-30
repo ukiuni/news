@@ -1,12 +1,16 @@
 ---
-layout: post
-title: On insight debt - 「インサイト負債」について
-date: 2025-12-29T08:52:40.486Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "On insight debt - 「インサイト負債」について"
+date: "2025-12-29T08:52:40.486Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://bytesauna.com/post/insight-debt"
 source_title: "On insight debt | ByteSauna"
-source_id: 435612764
+source_id: "435612764"
 excerpt: "AI生成コードが設計意図を消し、長期保守コストを急増させる危機と今取るべき対策"
 ---
 

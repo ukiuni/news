@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Cars with retractable door handles will be banned in China - 中国で格納式ドアハンドルを備えた車が禁止へ
-date: 2025-12-29T17:26:12.309Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Cars with retractable door handles will be banned in China - 中国で格納式ドアハンドルを備えた車が禁止へ"
+date: "2025-12-29T17:26:12.309Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://mashable.com/article/tesla-style-retractable-door-handles-banned-in-china"
 source_title: "Tesla-style retractable door handles will be banned in China | Mashable"
-source_id: 435270134
+source_id: "435270134"
 excerpt: "中国が2027年からテスラ式引込ドアを事実上禁止、メーカーは即時設計見直し必須"
 ---
 

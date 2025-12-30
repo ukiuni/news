@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Worn Down by Worry, Parents Look Longingly at Australia’s Social Media Ban - 不安に疲れ果てた親たちが、オーストラリアのソーシャルメディア禁止を羨望の眼差しで見る
-date: 2025-12-29T02:50:46.441Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Worn Down by Worry, Parents Look Longingly at Australia’s Social Media Ban - 不安に疲れ果てた親たちが、オーストラリアのソーシャルメディア禁止を羨望の眼差しで見る"
+date: "2025-12-29T02:50:46.441Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.nytimes.com/2025/12/27/world/australia/australia-social-media-ban.html?unlocked_article_code=1.AFA.7Tac.Ov04T_Rq3Lmh"
 source_title: "Worn Down by Worry, Parents Look Longingly at Australia’s Social Media Ban"
-source_id: 437036693
+source_id: "437036693"
 excerpt: "オーストラリアの未成年SNS禁止が示す実装難度と日本への波紋を具体解説"
 ---
 

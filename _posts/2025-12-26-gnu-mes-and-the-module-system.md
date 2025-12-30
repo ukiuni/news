@@ -1,17 +1,17 @@
 ---
-layout: post
-title: GNU Mes and the module system - GNU Mesとモジュールシステム
-date: 2025-12-26 14:30:07.531000+00:00
+layout: "post"
+title: "GNU Mes and the module system - GNU Mesとモジュールシステム"
+date: "2025-12-26 14:30:07.531000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://ekaitz.elenq.tech/fasterMes5.html
-source_title: Ekaitz's tech blog
-source_id: 1374285791
-excerpt: GNU Mesが暴いた、モジュールで起動遅延が起きる真相と対策
+source_url: "https://ekaitz.elenq.tech/fasterMes5.html"
+source_title: "Ekaitz's tech blog"
+source_id: "1374285791"
+excerpt: "GNU Mesが暴いた、モジュールで起動遅延が起きる真相と対策"
 ---
 # GNU Mes and the module system - GNU Mesとモジュールシステム
 

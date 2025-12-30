@@ -1,12 +1,16 @@
 ---
-layout: post
-title: How Search Engines Explore the Entire Internet? EP: 2 Behind The Screen - 検索エンジンはいかにしてインターネット全体を探索するのか？ 第2回：スクリーンの裏側
-date: 2025-12-27T08:40:13.688Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "How Search Engines Explore the Entire Internet? EP: 2 Behind The Screen - 検索エンジンはいかにしてインターネット全体を探索するのか？ 第2回：スクリーンの裏側"
+date: "2025-12-27T08:40:13.688Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://sushantdhiman.substack.com/p/how-search-engines-explore-the-entire"
 source_title: "How Search Engines Explore the Entire Internet? EP: 2 Behind The Screen"
-source_id: 437058795
+source_id: "437058795"
 excerpt: "クローラーが世界中のページを発見・解析し検索結果を作る仕組みを実務視点で解説"
 ---
 

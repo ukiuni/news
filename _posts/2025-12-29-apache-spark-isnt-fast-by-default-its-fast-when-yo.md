@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Apache Spark Isn’t “Fast” by Default; It’s Fast When You Use It Correctly - Apache Sparkはデフォルトで「速い」わけではない。正しく使えば速いのだ
-date: 2025-12-29T20:31:47.026Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Apache Spark Isn’t “Fast” by Default; It’s Fast When You Use It Correctly - Apache Sparkはデフォルトで「速い」わけではない。正しく使えば速いのだ"
+date: "2025-12-29T20:31:47.026Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.netcomlearning.com/blog/apache-spark"
 source_title: "What is Apache Spark?: Complete Guide for 2026"
-source_id: 435149815
+source_id: "435149815"
 excerpt: "Sparkはデフォルトで遅く、パーティションやシリアライザ最適化で劇的に高速化できる方法を解説"
 ---
 

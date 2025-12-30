@@ -1,16 +1,16 @@
 ---
-layout: post
-title: Maybe the default settings are too high - おそらくデフォルト設定が高すぎる
-date: 2025-12-26 03:54:39.769000+00:00
+layout: "post"
+title: "Maybe the default settings are too high - おそらくデフォルト設定が高すぎる"
+date: "2025-12-26 03:54:39.769000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/
-source_title: Maybe the Default Settings Are Too High
-source_id: 46387657
+source_url: "https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too-high/"
+source_title: "Maybe the Default Settings Are Too High"
+source_id: "46387657"
 ---
 # Maybe the default settings are too high - おそらくデフォルト設定が高すぎる
 

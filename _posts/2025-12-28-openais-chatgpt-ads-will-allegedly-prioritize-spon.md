@@ -1,12 +1,16 @@
 ---
-layout: post
-title: OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers - OpenAIのChatGPT広告は、回答内でスポンサーコンテンツを優先するとされる
-date: 2025-12-28T02:14:49.940Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers - OpenAIのChatGPT広告は、回答内でスポンサーコンテンツを優先するとされる"
+date: "2025-12-28T02:14:49.940Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ads-will-allegedly-prioritize-sponsored-content-in-answers/"
 source_title: "OpenAI's ChatGPT ads will allegedly prioritize sponsored content in answers"
-source_id: 436566883
+source_id: "436566883"
 excerpt: "ChatGPTが回答でスポンサード広告を優先表示、信頼と消費行動を揺るがす"
 ---
 

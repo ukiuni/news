@@ -1,12 +1,16 @@
 ---
-layout: post
-title: China debuts 'world’s first' million-ton hydrogen-electric steel line - 中国、「世界初」の100万トン級水素電気製鉄ラインを公開
-date: 2025-12-26T23:06:53.944Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "China debuts 'world’s first' million-ton hydrogen-electric steel line - 中国、「世界初」の100万トン級水素電気製鉄ラインを公開"
+date: "2025-12-26T23:06:53.944Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://interestingengineering.com/innovation/worlds-first-million-ton-hydrogen-steel-production"
 source_title: "China debuts 'world’s first' million-ton hydrogen-electric steel line"
-source_id: 437597076
+source_id: "437597076"
 excerpt: "中国が年産100万トンの水素・電気炉製鉄を実装、CO2大幅削減と日本産業への影響を示す"
 ---
 

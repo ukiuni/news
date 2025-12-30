@@ -1,16 +1,16 @@
 ---
-layout: post
-title: ssh tiny.christmas - ssh tiny.christmas
-date: 2025-12-26 04:01:12.678000+00:00
+layout: "post"
+title: "ssh tiny.christmas - ssh tiny.christmas"
+date: "2025-12-26 04:01:12.678000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://eieio.games/blog/tiny-christmas/
-source_title: ssh tiny.christmas · eieio.games
-source_id: 727801991
+source_url: "https://eieio.games/blog/tiny-christmas/"
+source_title: "ssh tiny.christmas · eieio.games"
+source_id: "727801991"
 ---
 # ssh tiny.christmas - ssh tiny.christmas
 

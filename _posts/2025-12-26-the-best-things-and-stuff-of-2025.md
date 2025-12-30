@@ -1,12 +1,16 @@
 ---
-layout: post
-title: The Best Things and Stuff of 2025 - 2025年のベスト・シングス＆スタッフ
-date: 2025-12-26T23:08:18.445Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "The Best Things and Stuff of 2025 - 2025年のベスト・シングス＆スタッフ"
+date: "2025-12-26T23:08:18.445Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://blog.fogus.me/2025/12/23/the-best-things-and-stuff-of-2025.html"
 source_title: "The Best Things and Stuff of 2025"
-source_id: 46365726
+source_id: "46365726"
 excerpt: "数値精度やゲーム設計、創作術まで実務で使える2025年の洞察を一挙公開、必読"
 ---
 

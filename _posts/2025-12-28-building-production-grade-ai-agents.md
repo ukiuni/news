@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Building production grade AI agents - プロダクションレベルのAIエージェントの構築
-date: 2025-12-28T17:18:54.445Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Building production grade AI agents - プロダクションレベルのAIエージェントの構築"
+date: "2025-12-28T17:18:54.445Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://pub.towardsai.net/building-production-grade-ai-agents-in-2025-the-complete-technical-guide-9f02eff84ea2"
 source_title: "Building production grade AI agents"
-source_id: 436020791
+source_id: "436020791"
 excerpt: "本番対応AIエージェントの実装法を、アーキテクチャ・RAG・運用・日本語特有課題まで実践的に解説"
 ---
 

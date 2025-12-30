@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Git's HTTP server side design does not scale - GitのHTTPサーバー側の設計はスケールしない
-date: 2025-12-29T19:29:53.857Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Git's HTTP server side design does not scale - GitのHTTPサーバー側の設計はスケールしない"
+date: "2025-12-29T19:29:53.857Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://xeiaso.net/notes/2025/distributed-git-ddos"
 source_title: "Making sure you&#39;re not a bot!"
-source_id: 1316747096
+source_id: "1316747096"
 excerpt: "公開GitをHTTPで提供すると同時クローンで負荷爆発、事前パック等で即座に緩和可能"
 ---
 

@@ -1,17 +1,17 @@
 ---
-layout: post
-title: How we lost communication to entertainment - いかにして私たちはコミュニケーションを娯楽に奪われたか
-date: 2025-12-27 20:39:16.243000+00:00
+layout: "post"
+title: "How we lost communication to entertainment - いかにして私たちはコミュニケーションを娯楽に奪われたか"
+date: "2025-12-27 20:39:16.243000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://ploum.net/2025-12-15-communication-entertainment.html
-source_title: How We Lost Communication to Entertainment
-source_id: 46404848
-excerpt: ActivityPubが通信からエンタメ配信化し、メッセージ喪失で信頼と規制が揺らぐ理由を暴く
+source_url: "https://ploum.net/2025-12-15-communication-entertainment.html"
+source_title: "How We Lost Communication to Entertainment"
+source_id: "46404848"
+excerpt: "ActivityPubが通信からエンタメ配信化し、メッセージ喪失で信頼と規制が揺らぐ理由を暴く"
 ---
 # How we lost communication to entertainment - いかにして私たちはコミュニケーションを娯楽に奪われたか
 

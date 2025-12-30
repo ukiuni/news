@@ -1,12 +1,16 @@
 ---
-layout: post
-title: CIA Star Gate Project: An Overview (1993) [pdf] - CIAスターゲート・プロジェクト：概要 (1993) [pdf]
-date: 2025-12-29T12:28:32.473Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "CIA Star Gate Project: An Overview (1993) [pdf] - CIAスターゲート・プロジェクト：概要 (1993) [pdf]"
+date: "2025-12-29T12:28:32.473Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002800180001-2.pdf"
 source_title: "CIA Star Gate Project: An Overview (1993) [pdf]"
-source_id: 46417110
+source_id: "46417110"
 excerpt: "極秘文書で明かされるCIAの遠隔透視実験と、科学的検証が示す致命的な問題点とは？"
 ---
 

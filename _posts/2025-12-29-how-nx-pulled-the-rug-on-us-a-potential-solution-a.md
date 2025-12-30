@@ -1,12 +1,16 @@
 ---
-layout: post
-title: How Nx \"pulled the rug\" on us, a potential solution and lessons learned - Nxがいかにして私たちを裏切ったか、潜在的な解決策と教訓
-date: 2025-12-29T09:50:42.540Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "How Nx \"pulled the rug\" on us, a potential solution and lessons learned - Nxがいかにして私たちを裏切ったか、潜在的な解決策と教訓"
+date: "2025-12-29T09:50:42.540Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://salvozappa.com/how-nx-pulled-the-rug-on-us.html"
 source_title: "How Nx \"pulled the rug\" on us, a potential solution and lessons learned - Salvatore Zappalà's Weblog"
-source_id: 435538555
+source_id: "435538555"
 excerpt: "CIのファイルキャッシュ＋単一GoバイナリでNxのリモートキャッシュを追加サービス無しで実現"
 ---
 

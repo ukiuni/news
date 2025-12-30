@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Goodbye Sass - さよならSass
-date: 2025-12-28T02:18:22.614Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Goodbye Sass - さよならSass"
+date: "2025-12-28T02:18:22.614Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.redblobgames.com/blog/2025-12-27-goodbye-sass/"
 source_title: "Goodbye Sass"
-source_id: 1005325950
+source_id: "1005325950"
 excerpt: "Sassをやめ、ネイティブCSSとesbuildで依存を減らし長期運用を楽にする方法"
 ---
 

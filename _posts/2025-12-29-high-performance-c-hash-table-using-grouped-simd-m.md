@@ -1,12 +1,16 @@
 ---
-layout: post
-title: High-performance C++ hash table using grouped SIMD metadata scanning - グループ化されたSIMDメタデータスキャンを使用した高性能C++ハッシュテーブル
-date: 2025-12-29T21:26:44.054Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "High-performance C++ hash table using grouped SIMD metadata scanning - グループ化されたSIMDメタデータスキャンを使用した高性能C++ハッシュテーブル"
+date: "2025-12-29T21:26:44.054Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://github.com/Cranot/grouped-simd-hashtable"
 source_title: "GitHub - Cranot/grouped-simd-hashtable: High-performance C++ hash table using grouped SIMD metadata scanning. Beats SOTA at scale."
-source_id: 46371120
+source_id: "46371120"
 excerpt: "Grouped SIMDでSSE2活用、読み取り重視の百万規模検索を1.5倍高速化"
 ---
 

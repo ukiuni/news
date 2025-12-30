@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Some Junk Theorems in Lean - Leanにおけるいくつかのジャンク定理
-date: 2025-12-27 12:39:23.472000+00:00
+layout: "post"
+title: "Some Junk Theorems in Lean - Leanにおけるいくつかのジャンク定理"
+date: "2025-12-27 12:39:23.472000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://github.com/James-Hanson/junk-theorems-in-lean
-source_title: 'GitHub - James-Hanson/junk-theorems-in-lean: A small collection of
-  formally verified junk theorems provable in Lean4 + Mathlib.'
-source_id: 46364567
-excerpt: Lean/Mathlibで証明できる直感外の定理群の原因と対策を解説
+source_url: "https://github.com/James-Hanson/junk-theorems-in-lean"
+source_title: "GitHub - James-Hanson/junk-theorems-in-lean: A small collection of formally verified junk theorems provable in Lean4 + Mathlib."
+source_id: "46364567"
+excerpt: "Lean/Mathlibで証明できる直感外の定理群の原因と対策を解説"
 ---
 # Some Junk Theorems in Lean - Leanにおけるいくつかのジャンク定理
 

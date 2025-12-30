@@ -1,16 +1,16 @@
 ---
-layout: post
-title: phoenix - A modern X server written from scratch in Zig - phoenix - Zigでゼロから書かれたモダンなXサーバー
-date: 2025-12-26 04:03:05.772000+00:00
+layout: "post"
+title: "phoenix - A modern X server written from scratch in Zig - phoenix - Zigでゼロから書かれたモダンなXサーバー"
+date: "2025-12-26 04:03:05.772000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://git.dec05eba.com/phoenix/about/
-source_title: phoenix - A modern X server written from scratch
-source_id: 1696529663
+source_url: "https://git.dec05eba.com/phoenix/about/"
+source_title: "phoenix - A modern X server written from scratch"
+source_id: "1696529663"
 ---
 # phoenix - A modern X server written from scratch in Zig - phoenix - Zigでゼロから書かれたモダンなXサーバー
 

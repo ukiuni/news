@@ -1,19 +1,17 @@
 ---
-layout: post
-title: Global memory shortage could disrupt smartphone and PC markets in 2026: IDC - 世界的なメモリ不足、2026年のスマートフォンおよびPC市場を混乱させる可能性：IDC
-  |'
-date: 2025-12-26 15:26:43.191000+00:00
+layout: "post"
+title: "Global memory shortage could disrupt smartphone and PC markets in 2026: IDC - 世界的なメモリ不足、2026年のスマートフォンおよびPC市場を混乱させる可能性：IDC |'"
+date: "2025-12-26 15:26:43.191000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.91mobiles.com/updates/global-memory-shortage-disrupt-smartphone-pc-markets-2026-idc/
-source_title: 'Global memory shortage could disrupt smartphone and PC markets in 2026:
-  IDC | 91mobiles.com'
-source_id: 439058681
-excerpt: AI需要でメモリ逼迫、2026年にスマホ・PCで価格上昇と仕様抑制
+source_url: "https://www.91mobiles.com/updates/global-memory-shortage-disrupt-smartphone-pc-markets-2026-idc/"
+source_title: "Global memory shortage could disrupt smartphone and PC markets in 2026: IDC | 91mobiles.com"
+source_id: "439058681"
+excerpt: "AI需要でメモリ逼迫、2026年にスマホ・PCで価格上昇と仕様抑制"
 ---
 # Global memory shortage could disrupt smartphone and PC markets in 2026: IDC - 世界的なメモリ不足、2026年のスマートフォンおよびPC市場を混乱させる可能性：IDC
 

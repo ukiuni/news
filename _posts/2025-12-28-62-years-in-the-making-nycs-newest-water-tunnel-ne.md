@@ -1,17 +1,17 @@
 ---
-layout: post
-title: 62 years in the making: NYC''s newest water tunnel nears the finish line - 62年の歳月をかけて：ニューヨーク市最新の送水トンネルが完成間近
-date: 2025-12-28 23:30:00.299000+00:00
+layout: "post"
+title: "62 years in the making: NYC''s newest water tunnel nears the finish line - 62年の歳月をかけて：ニューヨーク市最新の送水トンネルが完成間近"
+date: "2025-12-28 23:30:00.299000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-
-source_title: NYC’s water tunnel project nears completion after decades
-source_id: 46415426
-excerpt: 62年かけ完成間近のNYC新水トンネル、都市防災と長期投資の教訓を示す
+source_url: "https://ny1.com/nyc/all-boroughs/news/2025/11/09/water--dep--tunnels-"
+source_title: "NYC’s water tunnel project nears completion after decades"
+source_id: "46415426"
+excerpt: "62年かけ完成間近のNYC新水トンネル、都市防災と長期投資の教訓を示す"
 ---
 # 62 years in the making: NYC''s newest water tunnel nears the finish line - 62年の歳月をかけて：ニューヨーク市最新の送水トンネルが完成間近
 

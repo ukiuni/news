@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations - 専門家、おとぎ話のような幻覚を引き起こす新しいキノコを調査
-date: 2025-12-26 19:29:43.629000+00:00
+layout: "post"
+title: "Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations - 専門家、おとぎ話のような幻覚を引き起こす新しいキノコを調査"
+date: "2025-12-26 19:29:43.629000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations
-source_title: Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations
-  | Natural History Museum of Utah
-source_id: 46393936
-excerpt: 市場で発見された新種きのこが小人幻覚を誘発、薬理と安全性を揺るがす可能性
+source_url: "https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations"
+source_title: "Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations | Natural History Museum of Utah"
+source_id: "46393936"
+excerpt: "市場で発見された新種きのこが小人幻覚を誘発、薬理と安全性を揺るがす可能性"
 ---
 # Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations - 専門家、おとぎ話のような幻覚を引き起こす新しいキノコを調査
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Show HN: Stop Claude Code from forgetting everything - Show HN: Claude Codeがすべてを忘れてしまうのを防ぐ
-date: 2025-12-29T23:31:11.380Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Show HN: Stop Claude Code from forgetting everything - Show HN: Claude Codeがすべてを忘れてしまうのを防ぐ"
+date: "2025-12-29T23:31:11.380Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://github.com/mutable-state-inc/ensue-skill"
 source_title: "GitHub - mutable-state-inc/ensue-skill"
-source_id: 46426624
+source_id: "46426624"
 excerpt: "会話をまたいで決定や調査を自動記録する永続メモリでClaudeをチームの記憶係にする方法"
 ---
 

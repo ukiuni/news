@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Attackers Caused So Much Havoc Inside Rainbow Six Siege, Ubisoft Shut Down the Whole Game - 攻撃者がレインボーシックス シージ内で大混乱を引き起こし、Ubisoftがゲーム全体をシャットダウン
-date: 2025-12-29T13:26:11.878Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Attackers Caused So Much Havoc Inside Rainbow Six Siege, Ubisoft Shut Down the Whole Game - 攻撃者がレインボーシックス シージ内で大混乱を引き起こし、Ubisoftがゲーム全体をシャットダウン"
+date: "2025-12-29T13:26:11.878Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://gizmodo.com/attackers-caused-so-much-havoc-inside-rainbow-six-siege-ubisoft-shut-down-the-whole-game-2000703805"
 source_title: "Attackers Caused So Much Havoc Inside Rainbow Six Siege, Ubisoft Shut Down the Whole Game"
-source_id: 435629270
+source_id: "435629270"
 excerpt: "運営権を乗っ取られ仮想資産が大量放出、修復のためゲームと市場が全面停止"
 ---
 

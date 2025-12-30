@@ -1,16 +1,16 @@
 ---
-layout: post
-title: Gleam v1.14 - the happy holidays release 2025 - Gleam v1.14 - ハッピーホリデーリリース 2025
-date: 2025-12-26 04:00:16.502000+00:00
+layout: "post"
+title: "Gleam v1.14 - the happy holidays release 2025 - Gleam v1.14 - ハッピーホリデーリリース 2025"
+date: "2025-12-26 04:00:16.502000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://gleam.run/news/the-happy-holidays-2025-release/
-source_title: The happy holidays release 2025 🎁 | Gleam programming language
-source_id: 876283838
+source_url: "https://gleam.run/news/the-happy-holidays-2025-release/"
+source_title: "The happy holidays release 2025 🎁 | Gleam programming language"
+source_id: "876283838"
 ---
 # Gleam v1.14 - the happy holidays release 2025 - Gleam v1.14 - ハッピーホリデーリリース 2025
 

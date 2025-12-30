@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Left Behind: Futurist Fetishists, Prepping and the Abandonment of Earth - 置き去りにされて：未来派フェティシスト、プレッピング、そして地球の放棄
-date: 2025-12-29T21:28:42.850Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Left Behind: Futurist Fetishists, Prepping and the Abandonment of Earth - 置き去りにされて：未来派フェティシスト、プレッピング、そして地球の放棄"
+date: "2025-12-29T21:28:42.850Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.boundary2.org/2019/08/sarah-t-roberts-and-mel-hogan-left-behind-futurist-fetishists-prepping-and-the-abandonment-of-earth/"
 source_title: "Sarah T. Roberts and Mél Hogan — Left Behind: Futurist Fetishists, Prepping and the Abandonment of Earth &#8211; b2o: boundary 2 online"
-source_id: 46424217
+source_id: "46424217"
 excerpt: "億万長者の「脱出」とテックが招く不平等を暴き、公共的レジリエンス設計の必要性を突きつける"
 ---
 

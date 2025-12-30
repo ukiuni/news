@@ -1,12 +1,16 @@
 ---
-layout: post
-title: UK accounting body to halt remote exams amid AI cheating - 英国の会計団体、AIによる不正行為を受けてリモート試験を停止
-date: 2025-12-29T16:25:49.710Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "UK accounting body to halt remote exams amid AI cheating - 英国の会計団体、AIによる不正行為を受けてリモート試験を停止"
+date: "2025-12-29T16:25:49.710Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.theguardian.com/business/2025/dec/29/uk-accounting-remote-exams-ai-cheating-acca"
 source_title: "UK accounting body to halt remote exams amid AI cheating | Business | The Guardian"
-source_id: 46420289
+source_id: "46420289"
 excerpt: "英最大の会計団体がAI不正で遠隔試験を原則停止、対面化と出題改革が急務"
 ---
 

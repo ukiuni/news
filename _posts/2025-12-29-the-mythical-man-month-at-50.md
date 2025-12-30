@@ -1,12 +1,16 @@
 ---
-layout: post
-title: The Mythical Man-Month at 50 - 『人月の神話』50周年
-date: 2025-12-29T11:27:37.646Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "The Mythical Man-Month at 50 - 『人月の神話』50周年"
+date: "2025-12-29T11:27:37.646Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://kieranpotts.com/mythical-man-month-50"
 source_title: "The Mythical Man-Month at 50"
-source_id: 435535763
+source_id: "435535763"
 excerpt: "ソフトウェア開発は複雑性管理が命、見積りと統合を今こそ再設計せよ"
 ---
 

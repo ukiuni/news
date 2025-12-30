@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB - Show HN: Z80-μLM、40KBに収まる「対話型AI」
-date: 2025-12-29T06:52:42.627Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB - Show HN: Z80-μLM、40KBに収まる「対話型AI」"
+date: "2025-12-29T06:52:42.627Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://github.com/HarryR/z80ai"
 source_title: "GitHub - HarryR/z80ai: Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train conversational models in Python, export them as CP/M .COM binaries, and chat with your vintage computer."
-source_id: 46417815
+source_id: "46417815"
 excerpt: "4MHzのZ80で40KB実行、会話する超小型AIの仕組み紹介"
 ---
 

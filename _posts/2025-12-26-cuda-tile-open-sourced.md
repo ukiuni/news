@@ -1,19 +1,16 @@
 ---
-layout: post
-title: CUDA Tile Open Sourced - CUDA Tileがオープンソース化
-date: 2025-12-26 03:57:24.258000+00:00
+layout: "post"
+title: "CUDA Tile Open Sourced - CUDA Tileがオープンソース化"
+date: "2025-12-26 03:57:24.258000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://github.com/NVIDIA/cuda-tile
-source_title: 'GitHub - NVIDIA/cuda-tile: CUDA Tile IR is an MLIR-based intermediate
-  representation and compiler infrastructure for CUDA kernel optimization, focusing
-  on tile-based computation patterns and optimizations targeting NVIDIA tensor core
-  units.'
-source_id: 46330732
+source_url: "https://github.com/NVIDIA/cuda-tile"
+source_title: "GitHub - NVIDIA/cuda-tile: CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kernel optimization, focusing on tile-based computation patterns and optimizations targeting NVIDIA tensor core units."
+source_id: "46330732"
 ---
 # CUDA Tile Open Sourced - CUDA Tileがオープンソース化
 

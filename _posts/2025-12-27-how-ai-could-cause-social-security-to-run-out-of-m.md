@@ -1,12 +1,16 @@
 ---
-layout: post
-title: How AI Could Cause Social Security to Run Out of Money Sooner Than Expected - AIがいかにして社会保障資金を予想より早く枯渇させる可能性があるか
-date: 2025-12-27T04:05:54.695Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "How AI Could Cause Social Security to Run Out of Money Sooner Than Expected - AIがいかにして社会保障資金を予想より早く枯渇させる可能性があるか"
+date: "2025-12-27T04:05:54.695Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.barrons.com/articles/social-security-benefits-fund-ai-584a1203?st=TNdeap"
 source_title: "How AI Could Cause Social Security to Run Out of Money Sooner Than Expected"
-source_id: 437221201
+source_id: "437221201"
 excerpt: "AIの普及で年金保険料基盤が縮小し財政破綻が前倒しされる危機と対応策を解説"
 ---
 

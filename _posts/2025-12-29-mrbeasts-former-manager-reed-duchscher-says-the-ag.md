@@ -1,12 +1,16 @@
 ---
-layout: post
-title: MrBeast's former manager Reed Duchscher, says the age of social-media superstars is fading: \"As social-media algorithms get better at tailoring content to individual user interests, the opportunity for stars to show up across feeds becomes much harder,\" Duchscher said. - MrBeastの元マネージャー、リード・ダッシャー氏、ソーシャルメディア・スーパースターの時代は終わりつつあると語る
-date: 2025-12-29T02:49:51.642Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "MrBeast's former manager Reed Duchscher, says the age of social-media superstars is fading: \"As social-media algorithms get better at tailoring content to individual user interests, the opportunity for stars to show up across feeds becomes much harder,\" Duchscher said. - MrBeastの元マネージャー、リード・ダッシャー氏、ソーシャルメディア・スーパースターの時代は終わりつつあると語る"
+date: "2025-12-29T02:49:51.642Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.businessinsider.com/mrbeast-former-manager-says-age-of-social-giants-is-fading-2025-12"
 source_title: "MrBeast's Former Manager Says the Age of Creator Superstars Is Fading - Business Insider"
-source_id: 436949326
+source_id: "436949326"
 excerpt: "アルゴリズム最適化で巨大スターは衰退、ニッチ特化で稼ぐ新ルール"
 ---
 

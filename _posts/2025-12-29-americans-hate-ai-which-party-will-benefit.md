@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Americans hate AI. Which party will benefit? - アメリカ人はAIを嫌っている。どちらの政党が恩恵を受けるか？
-date: 2025-12-29T08:50:02.771Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Americans hate AI. Which party will benefit? - アメリカ人はAIを嫌っている。どちらの政党が恩恵を受けるか？"
+date: "2025-12-29T08:50:02.771Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.politico.com/news/magazine/2025/12/28/ai-job-losses-populism-democrats-bernie-sanders-00706680"
 source_title: "Americans hate AI. Which party will benefit?"
-source_id: 435625816
+source_id: "435625816"
 excerpt: "米国で高まる反AI世論が次の選挙を左右し、どの政党が勝機を得るかを徹底解説"
 ---
 

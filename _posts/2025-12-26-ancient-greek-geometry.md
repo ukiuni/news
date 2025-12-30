@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Ancient Greek geometry - 古代ギリシャの幾何学
-date: 2025-12-26 11:24:15.448000+00:00
+layout: "post"
+title: "Ancient Greek geometry - 古代ギリシャの幾何学"
+date: "2025-12-26 11:24:15.448000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://sciencevsmagic.net/geo/
-source_title: ANCIENT GREEK GEOMETRY
-source_id: 1384095021
-excerpt: 直感操作で古代ギリシャ幾何を制約パズル感覚で学べる実践的ブラウザ体験
+source_url: "https://sciencevsmagic.net/geo/"
+source_title: "ANCIENT GREEK GEOMETRY"
+source_id: "1384095021"
+excerpt: "直感操作で古代ギリシャ幾何を制約パズル感覚で学べる実践的ブラウザ体験"
 ---
 # Ancient Greek geometry - 古代ギリシャの幾何学
 

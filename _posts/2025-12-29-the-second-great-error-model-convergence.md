@@ -1,12 +1,16 @@
 ---
-layout: post
-title: The Second Great Error Model Convergence - 第二の偉大なるエラーモデルの収束
-date: 2025-12-29T14:28:08.930Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "The Second Great Error Model Convergence - 第二の偉大なるエラーモデルの収束"
+date: "2025-12-29T14:28:08.930Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://matklad.github.io/2025/12/29/second-error-model-convergence.html"
 source_title: "The Second Great Error Model Convergence"
-source_id: 1365869258
+source_id: "1365869258"
 excerpt: "呼び出し側で失敗を明示するエラー値設計が再評価され、API改修と運用信頼性を強化"
 ---
 

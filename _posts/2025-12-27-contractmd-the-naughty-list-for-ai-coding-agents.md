@@ -1,18 +1,17 @@
 ---
-layout: post
-title: CONTRACT.md: The Naughty List for AI Coding Agents - CONTRACT.md：AIコーディングエージェントのための「いたずらっ子リスト」
-date: 2025-12-27 02:08:29.316000+00:00
+layout: "post"
+title: "CONTRACT.md: The Naughty List for AI Coding Agents - CONTRACT.md：AIコーディングエージェントのための「いたずらっ子リスト」"
+date: "2025-12-27 02:08:29.316000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/
-source_title: 'Discuss, don''t code. | CONTRACT.md: The Naughty List for AI Coding
-  Agents'
-source_id: 1736512109
-excerpt: CONTRACT.mdでAIの過剰設計を封じ、MVPと依存制限で品質と納期を守る
+source_url: "https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/"
+source_title: "Discuss, don't code. | CONTRACT.md: The Naughty List for AI Coding Agents"
+source_id: "1736512109"
+excerpt: "CONTRACT.mdでAIの過剰設計を封じ、MVPと依存制限で品質と納期を守る"
 ---
 # CONTRACT.md: The Naughty List for AI Coding Agents - CONTRACT.md：AIコーディングエージェントのための「いたずらっ子リスト」
 

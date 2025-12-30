@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Explained what problem consistent hashing solves and how it works. - コンシステントハッシュ法が解決する問題とその仕組みの解説
-date: 2025-12-29T20:31:08.231Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Explained what problem consistent hashing solves and how it works. - コンシステントハッシュ法が解決する問題とその仕組みの解説"
+date: "2025-12-29T20:31:08.231Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://pradyumnachippigiri.dev/blogs/consistent-hashing"
 source_title: "Consistent Hashing Explained | Pradyumna Chippigiri"
-source_id: 435120889
+source_id: "435120889"
 excerpt: "VNodesで負荷を分散し、ノード増減時の再配置コストを激減する一貫性ハッシュ入門"
 ---
 

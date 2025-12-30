@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Stepping down as maintainer after 10 years - 10年務めたメンテナを退任
-date: 2025-12-29T06:53:23.132Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Stepping down as maintainer after 10 years - 10年務めたメンテナを退任"
+date: "2025-12-29T06:53:23.132Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.reddit.com/r/java/comments/1py3liu/stepping_down_as_maintainer_after_10_years/?share_id=nmpd2l1ecRshkJPnZj_cd&amp;utm_content=1&amp;utm_medium=android_app&amp;utm_name=androidcss&amp;utm_source=share&amp;utm_term=1"
 source_title: "Reddit - The heart of the internet"
-source_id: 435619114
+source_id: "435619114"
 excerpt: "10年メンテナ退任から学ぶ、OSS引継ぎと自動化で破綻を防ぐ実践チェックリスト"
 ---
 

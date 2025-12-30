@@ -1,17 +1,16 @@
 ---
-layout: post
-title: Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster - Windows x86-64向けのPython 3.15インタープリタは、15%高速化される見込み
-date: 2025-12-26 03:54:10.518000+00:00
+layout: "post"
+title: "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster - Windows x86-64向けのPython 3.15インタープリタは、15%高速化される見込み"
+date: "2025-12-26 03:54:10.518000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://fidget-spinner.github.io/posts/no-longer-sorry.html
-source_title: Python 3.15’s interpreter for Windows x86-64 should hopefully be 15%
-  faster | Ken Jin’s Blog
-source_id: 46384167
+source_url: "https://fidget-spinner.github.io/posts/no-longer-sorry.html"
+source_title: "Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster | Ken Jin’s Blog"
+source_id: "46384167"
 ---
 # Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster - Windows x86-64向けのPython 3.15インタープリタは、15%高速化される見込み
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Electronic Arts Shareholders Approve $55 Billion Sale to Saudis - エレクトロニック・アーツの株主、サウジアラビアへの550億ドルの売却を承認
-date: 2025-12-26T09:14:25.833Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Electronic Arts Shareholders Approve $55 Billion Sale to Saudis - エレクトロニック・アーツの株主、サウジアラビアへの550億ドルの売却を承認"
+date: "2025-12-26T09:14:25.833Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.bloomberg.com/news/articles/2025-12-22/electronic-arts-shareholders-approve-55-billion-sale-to-saudis"
 source_title: "Electronic Arts Shareholders Approve $55 Billion Sale to Saudis"
-source_id: 440224413
+source_id: "440224413"
 excerpt: "EAが550億ドルでサウジ資本に売却、ゲーム業界と日本開発に巨大影響"
 ---
 

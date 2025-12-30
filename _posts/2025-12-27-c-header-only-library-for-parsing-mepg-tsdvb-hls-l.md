@@ -1,17 +1,17 @@
 ---
-layout: post
-title: C header only library for parsing MEPG-TS/DVB (hls) live streams + m3u8 Playlists - MEPG-TS/DVB (hls) ライブストリーム + m3u8 プレイリスト解析用のCヘッダーのみのライブラリ
-date: 2025-12-27 02:09:22.771000+00:00
+layout: "post"
+title: "C header only library for parsing MEPG-TS/DVB (hls) live streams + m3u8 Playlists - MEPG-TS/DVB (hls) ライブストリーム + m3u8 プレイリスト解析用のCヘッダーのみのライブラリ"
+date: "2025-12-27 02:09:22.771000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://github.com/Jaysmito101/libpico/blob/main/include/pico/picoMpegTS.h
-source_title: libpico/include/pico/picoMpegTS.h at main · Jaysmito101/libpico · GitHub
-source_id: 437324931
-excerpt: ヘッダオンリーの軽量CライブラリでMPEG‑TS/DVBとm3u8を即解析
+source_url: "https://github.com/Jaysmito101/libpico/blob/main/include/pico/picoMpegTS.h"
+source_title: "libpico/include/pico/picoMpegTS.h at main · Jaysmito101/libpico · GitHub"
+source_id: "437324931"
+excerpt: "ヘッダオンリーの軽量CライブラリでMPEG‑TS/DVBとm3u8を即解析"
 ---
 # C header only library for parsing MEPG-TS/DVB (hls) live streams + m3u8 Playlists - MEPG-TS/DVB (hls) ライブストリーム + m3u8 プレイリスト解析用のCヘッダーのみのライブラリ
 

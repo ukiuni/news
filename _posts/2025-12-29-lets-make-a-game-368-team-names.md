@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Let's make a game! 368: Team names - ゲームを作ろう！ 368：チーム名
-date: 2025-12-29T16:28:16.289Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Let's make a game! 368: Team names - ゲームを作ろう！ 368：チーム名"
+date: "2025-12-29T16:28:16.289Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.youtube.com/watch?v=97QED2aoO_A"
 source_title: "368: Team names (Twine Sugarcube) - YouTube"
-source_id: 435312438
+source_id: "435312438"
 excerpt: "Twine（SugarCube）で短時間に安全なチーム名機能を実装する実践ガイド"
 ---
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: What are you doing this week? - 今週は何をしますか？
-date: 2025-12-29T12:29:58.869Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "What are you doing this week? - 今週は何をしますか？"
+date: "2025-12-29T12:29:58.869Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://lobste.rs/s/mjmtxx"
 source_title: "What are you doing this week? | Lobsters"
-source_id: 1073134076
+source_id: "1073134076"
 excerpt: "vibe-codingで週次の小プロジェクトを回し、Rust等の実験で即戦力を得る"
 ---
 

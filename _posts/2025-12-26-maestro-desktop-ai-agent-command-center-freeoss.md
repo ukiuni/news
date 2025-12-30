@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Maestro - Desktop AI Agent Command Center (Free/OSS) - Maestro - デスクトップAIエージェントコマンドセンター（無料/OSS）
-date: 2025-12-26 14:17:05.183000+00:00
+layout: "post"
+title: "Maestro - Desktop AI Agent Command Center (Free/OSS) - Maestro - デスクトップAIエージェントコマンドセンター（無料/OSS）"
+date: "2025-12-26 14:17:05.183000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://runmaestro.ai
-source_title: Maestro - AI Agent Command Center
-source_id: 1465331008
-excerpt: 眠っている間に複数AIで自動コード生成・CI連携できるOSS指令室
+source_url: "https://runmaestro.ai"
+source_title: "Maestro - AI Agent Command Center"
+source_id: "1465331008"
+excerpt: "眠っている間に複数AIで自動コード生成・CI連携できるOSS指令室"
 ---
 # Maestro - Desktop AI Agent Command Center (Free/OSS) - Maestro - デスクトップAIエージェントコマンドセンター（無料/OSS）
 

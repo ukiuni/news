@@ -1,17 +1,17 @@
 ---
-layout: post
-title: What the Linux desktop really needs to challenge Windows - LinuxデスクトップがWindowsに挑むために本当に必要なもの
-date: 2025-12-26 06:10:17.597000+00:00
+layout: "post"
+title: "What the Linux desktop really needs to challenge Windows - LinuxデスクトップがWindowsに挑むために本当に必要なもの"
+date: "2025-12-26 06:10:17.597000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.theregister.com/2025/12/22/what_linux_desktop_really_needs/
-source_title: What the Linux desktop really needs to challenge Windows • The Register
-source_id: 437934420
-excerpt: 統一配布とUXで旧PC再利用・企業導入を促しWindowsに挑むLinux
+source_url: "https://www.theregister.com/2025/12/22/what_linux_desktop_really_needs/"
+source_title: "What the Linux desktop really needs to challenge Windows • The Register"
+source_id: "437934420"
+excerpt: "統一配布とUXで旧PC再利用・企業導入を促しWindowsに挑むLinux"
 ---
 # What the Linux desktop really needs to challenge Windows - LinuxデスクトップがWindowsに挑むために本当に必要なもの
 

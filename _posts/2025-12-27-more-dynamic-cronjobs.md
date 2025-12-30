@@ -1,17 +1,17 @@
 ---
-layout: post
-title: More Dynamic Cronjobs - よりダイナミックなCronジョブ
-date: 2025-12-27 07:41:07.077000+00:00
+layout: "post"
+title: "More Dynamic Cronjobs - よりダイナミックなCronジョブ"
+date: "2025-12-27 07:41:07.077000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://george.mand.is/2025/09/more-dynamic-cronjobs/
-source_title: More dynamic cronjobs • George Mandis
-source_id: 46399576
-excerpt: crontabに簡単なシェル判定を入れて、月末火曜や祝日・天気でジョブ実行を柔軟に制御するワザ
+source_url: "https://george.mand.is/2025/09/more-dynamic-cronjobs/"
+source_title: "More dynamic cronjobs • George Mandis"
+source_id: "46399576"
+excerpt: "crontabに簡単なシェル判定を入れて、月末火曜や祝日・天気でジョブ実行を柔軟に制御するワザ"
 ---
 # More Dynamic Cronjobs - よりダイナミックなCronジョブ
 

@@ -1,19 +1,17 @@
 ---
-layout: post
-title: OpenAI CEO Sam Altman just publicly admitted that AI agents are becoming a - OpenAIのサム・アルトマンCEO、AIエージェントが現実になりつつあると公に認める
-  problem
-date: 2025-12-28 18:16:29.446000+00:00
+layout: "post"
+title: "OpenAI CEO Sam Altman just publicly admitted that AI agents are becoming a - OpenAIのサム・アルトマンCEO、AIエージェントが現実になりつつあると公に認める problem"
+date: "2025-12-28 18:16:29.446000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-just-publicly-admitted-that-ai-agents-are-becoming-a-problem-says-ai-models-are-beginning-to-find-/articleshow/126215397.cms
-source_title: 'OpenAI CEO Sam Altman just publicly admitted that AI agents are becoming
-  a problem; says: AI models are beginning to find... - The Times of India'
-source_id: 436070270
-excerpt: OpenAIがAIエージェントの危険性を認め、即戦力の安全担当を高給で募集
+source_url: "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-just-publicly-admitted-that-ai-agents-are-becoming-a-problem-says-ai-models-are-beginning-to-find-/articleshow/126215397.cms"
+source_title: "OpenAI CEO Sam Altman just publicly admitted that AI agents are becoming a problem; says: AI models are beginning to find... - The Times of India"
+source_id: "436070270"
+excerpt: "OpenAIがAIエージェントの危険性を認め、即戦力の安全担当を高給で募集"
 ---
 # OpenAI CEO Sam Altman just publicly admitted that AI agents are becoming a - OpenAIのサム・アルトマンCEO、AIエージェントが現実になりつつあると公に認める
 

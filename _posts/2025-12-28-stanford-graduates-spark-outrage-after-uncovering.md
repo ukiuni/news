@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Stanford graduates spark outrage after uncovering reason behind lack of job offers: 'A dramatic reversal from three years ago - スタンフォード大学の卒業生、内定が出ない理由を突き止め怒りを買う：「3年前からの劇的な逆転」
-date: 2025-12-28T01:09:53.548Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Stanford graduates spark outrage after uncovering reason behind lack of job offers: 'A dramatic reversal from three years ago - スタンフォード大学の卒業生、内定が出ない理由を突き止め怒りを買う：「3年前からの劇的な逆転」"
+date: "2025-12-28T01:09:53.548Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.yahoo.com/news/articles/stanford-graduates-spark-outrage-uncovering-000500857.html"
 source_title: "Stanford graduates spark outrage after uncovering reason behind lack of job offers: 'A dramatic reversal from three years ago'"
-source_id: 437866376
+source_id: "437866376"
 excerpt: "スタンフォード卒が暴露、AI進化で新卒エンジニア求人が激減—日本市場にも直撃か"
 ---
 

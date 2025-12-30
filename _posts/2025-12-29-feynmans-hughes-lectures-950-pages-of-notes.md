@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Feynman's Hughes Lectures: 950 pages of notes - ファインマンのヒューズ講義：950ページのノート
-date: 2025-12-29T12:27:03.464Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Feynman's Hughes Lectures: 950 pages of notes - ファインマンのヒューズ講義：950ページのノート"
+date: "2025-12-29T12:27:03.464Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://thehugheslectures.info/the-lectures/"
 source_title: "The Lectures | The Hughes Lectures"
-source_id: 46419273
+source_id: "46419273"
 excerpt: "950ページのフェインマン講義で直感・近似・図解思考を実務に応用する手法が学べる"
 ---
 

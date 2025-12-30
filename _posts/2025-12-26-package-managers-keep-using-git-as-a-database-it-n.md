@@ -1,17 +1,16 @@
 ---
-layout: post
-title: Package managers keep using git as a database, it never works out - パッケージマネージャーがgitをデータベースとして使い続けているが、決してうまくいかない
-date: 2025-12-26 03:58:16.567000+00:00
+layout: "post"
+title: "Package managers keep using git as a database, it never works out - パッケージマネージャーがgitをデータベースとして使い続けているが、決してうまくいかない"
+date: "2025-12-26 03:58:16.567000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html
-source_title: Package managers keep using git as a database, it never works out |
-  Andrew Nesbitt
-source_id: 1374378779
+source_url: "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html"
+source_title: "Package managers keep using git as a database, it never works out | Andrew Nesbitt"
+source_id: "1374378779"
 ---
 # Package managers keep using git as a database, it never works out - パッケージマネージャーがgitをデータベースとして使い続けているが、決してうまくいかない
 

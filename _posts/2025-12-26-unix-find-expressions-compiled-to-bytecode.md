@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Unix \"find\" expressions compiled to bytecode - バイトコードにコンパイルされたUnixの「find」式
-date: 2025-12-26T15:28:12.981Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Unix \"find\" expressions compiled to bytecode - バイトコードにコンパイルされたUnixの「find」式"
+date: "2025-12-26T15:28:12.981Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://nullprogram.com/blog/2025/12/23/"
 source_title: "Unix \"find\" expressions compiled to bytecode"
-source_id: 46391448
+source_id: "46391448"
 excerpt: "find式をバイトコード化して大規模ファイル走査を劇的に高速化する方法"
 ---
 

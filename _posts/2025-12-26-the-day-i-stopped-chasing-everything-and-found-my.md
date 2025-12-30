@@ -1,16 +1,16 @@
 ---
-layout: post
-title: The Day I Stopped Chasing Everything and Found My One Thing - すべてを追いかけるのをやめ、自分の「たった一つのこと」を見つけた日
-date: 2025-12-26 04:02:35.741000+00:00
+layout: "post"
+title: "The Day I Stopped Chasing Everything and Found My One Thing - すべてを追いかけるのをやめ、自分の「たった一つのこと」を見つけた日"
+date: "2025-12-26 04:02:35.741000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://dev.to/toklas495/the-day-i-stopped-chasing-everything-and-found-my-one-thing-2o97
-source_title: The Day I Stopped Chasing Everything and Found My One Thing - DEV Community
-source_id: 3118133
+source_url: "https://dev.to/toklas495/the-day-i-stopped-chasing-everything-and-found-my-one-thing-2o97"
+source_title: "The Day I Stopped Chasing Everything and Found My One Thing - DEV Community"
+source_id: "3118133"
 ---
 # The Day I Stopped Chasing Everything and Found My One Thing - すべてを追いかけるのをやめ、自分の「たった一つのこと」を見つけた日
 

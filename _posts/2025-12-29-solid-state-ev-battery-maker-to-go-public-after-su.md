@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Solid-state EV battery maker to go public after successful 745-mile test in $1,100,000,000 deal - 全固体EVバッテリーメーカー、745マイルのテスト成功後、11億ドルの取引で上場へ
-date: 2025-12-29T15:27:01.827Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Solid-state EV battery maker to go public after successful 745-mile test in $1,100,000,000 deal - 全固体EVバッテリーメーカー、745マイルのテスト成功後、11億ドルの取引で上場へ"
+date: "2025-12-29T15:27:01.827Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://supercarblondie.com/solid-state-ev-battery-maker-factorial-energy-going-public/?utm_source=flipboard&amp;utm_content=topic/technology"
 source_title: "Solid-state EV battery maker to go public after successful 745-mile test in $1,100,000,000 deal"
-source_id: 435359753
+source_id: "435359753"
 excerpt: "745マイル突破で固体電池が11億ドル評価の上場へ、量産化が目前に"
 ---
 

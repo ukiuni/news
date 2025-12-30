@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Cloud FinOps Don’t “Accidentally” Get Out of Control: They’re Designed That Way - クラウドFinOpsは「偶然」制御不能になるのではない：そのように設計されているのだ
-date: 2025-12-29T17:29:01.700Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Cloud FinOps Don’t “Accidentally” Get Out of Control: They’re Designed That Way - クラウドFinOpsは「偶然」制御不能になるのではない：そのように設計されているのだ"
+date: "2025-12-29T17:29:01.700Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.netcomlearning.com/blog/cloud-finops"
 source_title: "What is Cloud FinOps and How Does it Work?"
-source_id: 435247782
+source_id: "435247782"
 excerpt: "FinOpsは偶発的な暴走ではなく、組織・経済設計が招く課金膨張を技術とガバナンスで断つ実践だ"
 ---
 

@@ -1,19 +1,17 @@
 ---
-layout: post
-title: Dell top sales exec doubles down on 40-hour RTO for sales team after "end-of-day - Dellの営業トップ、営業チームへの週40時間出社（RTO）を再確認
-  walkthroughs" revealed workers leaving early
-date: 2025-12-26 09:13:42.265000+00:00
+layout: "post"
+title: "Dell top sales exec doubles down on 40-hour RTO for sales team after \"end-of-day - Dellの営業トップ、営業チームへの週40時間出社（RTO）を再確認 walkthroughs\" revealed workers leaving early"
+date: "2025-12-26 09:13:42.265000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.businessinsider.com/dell-rto-policy-sales-team-eight-hours-a-day-2025-12
-source_title: Dell Sales Exec Calls for 40-Hour RTO, Cites Issues in 'End-of-Day Walkthroughs'
-  - Business Insider
-source_id: 440299075
-excerpt: 終業巡回で早退が露見、デルが営業に1日8時間・週5日出社を強化、反発と採用影響の波紋
+source_url: "https://www.businessinsider.com/dell-rto-policy-sales-team-eight-hours-a-day-2025-12"
+source_title: "Dell Sales Exec Calls for 40-Hour RTO, Cites Issues in 'End-of-Day Walkthroughs' - Business Insider"
+source_id: "440299075"
+excerpt: "終業巡回で早退が露見、デルが営業に1日8時間・週5日出社を強化、反発と採用影響の波紋"
 ---
 # Dell top sales exec doubles down on 40-hour RTO for sales team after "end-of-day - Dellの営業トップ、営業チームへの週40時間出社（RTO）を再確認
 

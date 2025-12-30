@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Show HN: Pion SCTP with RACK is 70% faster with 30% less latency - Show HN: RACKを使用したPion SCTPは70%高速化し、レイテンシが30%減少
-date: 2025-12-28 22:18:19.109000+00:00
+layout: "post"
+title: "Show HN: Pion SCTP with RACK is 70% faster with 30% less latency - Show HN: RACKを使用したPion SCTPは70%高速化し、レイテンシが30%減少"
+date: "2025-12-28 22:18:19.109000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://pion.ly/blog/sctp-and-rack/
-source_title: RACK makes Pion SCTP 71% faster with 27% less latency | Pion
-source_id: 46413053
-excerpt: PionSCTPにRACK導入で同CPU約71%高速化、遅延約27%減
+source_url: "https://pion.ly/blog/sctp-and-rack/"
+source_title: "RACK makes Pion SCTP 71% faster with 27% less latency | Pion"
+source_id: "46413053"
+excerpt: "PionSCTPにRACK導入で同CPU約71%高速化、遅延約27%減"
 ---
 # Show HN: Pion SCTP with RACK is 70% faster with 30% less latency - Show HN: RACKを使用したPion SCTPは70%高速化し、レイテンシが30%減少
 

@@ -1,17 +1,17 @@
 ---
-layout: post
-title: When NOT to use Pydantic - Pydanticを使うべきではない時
-date: 2025-12-28 14:28:15.242000+00:00
+layout: "post"
+title: "When NOT to use Pydantic - Pydanticを使うべきではない時"
+date: "2025-12-28 14:28:15.242000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://ossa-ma.github.io/blog/when-not-to-use-pydantic
-source_title: When NOT to use Pydantic | Ossama Chaib
-source_id: 436147054
-excerpt: Pydanticがボトルネック化する場面とmsgspecで高速化する実践ガイド
+source_url: "https://ossa-ma.github.io/blog/when-not-to-use-pydantic"
+source_title: "When NOT to use Pydantic | Ossama Chaib"
+source_id: "436147054"
+excerpt: "Pydanticがボトルネック化する場面とmsgspecで高速化する実践ガイド"
 ---
 # When NOT to use Pydantic - Pydanticを使うべきではない時
 

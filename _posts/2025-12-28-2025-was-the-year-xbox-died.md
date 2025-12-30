@@ -1,12 +1,16 @@
 ---
-layout: post
-title: 2025 was the year Xbox died - 2025年はXboxが死んだ年だった
-date: 2025-12-28T03:14:43.980Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "2025 was the year Xbox died - 2025年はXboxが死んだ年だった"
+date: "2025-12-28T03:14:43.980Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.engadget.com/gaming/xbox/2025-was-the-year-xbox-died-130000467.html"
 source_title: "2025 was the year Xbox died"
-source_id: 46368226
+source_id: "46368226"
 excerpt: "2025年、独占不足と値上げで失速したXboxが、PC寄り戦略で復活を狙う"
 ---
 

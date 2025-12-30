@@ -1,12 +1,16 @@
 ---
-layout: post
+layout: "post"
 title: "Stranger Things Creator Says Turn Off \"Garbage\" Settings - 『ストレンジャー・シングス』のクリエイターが「ゴミ」設定をオフにしろ"
-date: 2025-12-30T01:06:11.315Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+date: "2025-12-30T01:06:11.315Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/"
 source_title: "Stranger Things Creator Says Turn Off \"Garbage\" Settings"
-source_id: 46427586
+source_id: "46427586"
 excerpt: "ストレンジャー・シングス制作者が警告、視聴前にテレビの自動補正を切って本当の映像を体験"
 ---
 

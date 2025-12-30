@@ -1,17 +1,16 @@
 ---
-layout: post
-title: The Compiler Is Your Best Friend, Stop Lying to It - コンパイラはあなたの親友です、嘘をつくのはやめましょう
-date: 2025-12-26 03:55:09.068000+00:00
+layout: "post"
+title: "The Compiler Is Your Best Friend, Stop Lying to It - コンパイラはあなたの親友です、嘘をつくのはやめましょう"
+date: "2025-12-26 03:55:09.068000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: http://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it
-source_title: The Compiler Is Your Best Friend, Stop Lying to It - Daniel Beskin's
-  Blog
-source_id: 438247008
+source_url: "http://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it"
+source_title: "The Compiler Is Your Best Friend, Stop Lying to It - Daniel Beskin's Blog"
+source_id: "438247008"
 ---
 # The Compiler Is Your Best Friend, Stop Lying to It - コンパイラはあなたの親友です、嘘をつくのはやめましょう
 

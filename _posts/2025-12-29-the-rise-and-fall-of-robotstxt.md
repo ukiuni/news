@@ -1,12 +1,16 @@
 ---
-layout: post
-title: The rise and fall of robots.txt - robots.txtの興亡
-date: 2025-12-29T18:27:16.401Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "The rise and fall of robots.txt - robots.txtの興亡"
+date: "2025-12-29T18:27:16.401Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders"
 source_title: "With the rise of AI, web crawlers are suddenly controversial | The Verge"
-source_id: 435181233
+source_id: "435181233"
 excerpt: "robots.txtの限界とAIによる無断データ収集への実践対策を公開"
 ---
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: The battle to stop clever people betting - 賢い人々の賭けを止めるための戦い
-date: 2025-12-27T13:40:00.597Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "The battle to stop clever people betting - 賢い人々の賭けを止めるための戦い"
+date: "2025-12-27T13:40:00.597Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.economist.com/christmas-specials/2025/12/18/the-battle-to-stop-clever-people-betting"
 source_title: "The battle to stop clever people betting"
-source_id: 46398170
+source_id: "46398170"
 excerpt: "海外ブックメーカーがAIで天才ギャンブラーを見抜き封じる手法と日本への示唆"
 ---
 

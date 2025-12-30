@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Show HN: See what readers who loved your favorite book/author also loved to read - Show HN: お気に入りの本や著者を愛する読者が他に何を読んでいるかを見る
-date: 2025-12-29T15:28:56.151Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Show HN: See what readers who loved your favorite book/author also loved to read - Show HN: お気に入りの本や著者を愛する読者が他に何を読んでいるかを見る"
+date: "2025-12-29T15:28:56.151Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://shepherd.com/bboy/2025"
 source_title: "Readers&#x27; Favorite Reads Of 2025 - 693 Votes &amp; Counting!"
-source_id: 46419822
+source_id: "46419822"
 excerpt: "読者投票で割り出す、あなたに刺さる次の一冊を発見、個人ページや絞り込みで今すぐ見つかる"
 ---
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Sendspin: Music Experience Protocol - Sendspin：音楽体験プロトコル
-date: 2025-12-26T10:26:13.530Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Sendspin: Music Experience Protocol - Sendspin：音楽体験プロトコル"
+date: "2025-12-26T10:26:13.530Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.sendspin-audio.com/"
 source_title: "Sendspin: Music Experience Protocol"
-source_id: 1166264658
+source_id: "1166264658"
 excerpt: "Sendspinで家中の音楽と照明をミリ秒同期、閉鎖系に代わるオープン規格"
 ---
 

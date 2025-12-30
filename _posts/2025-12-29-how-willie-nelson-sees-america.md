@@ -1,12 +1,16 @@
 ---
-layout: post
-title: How Willie Nelson Sees America - ウィリー・ネルソンが見るアメリカ
-date: 2025-12-29T19:28:14.848Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "How Willie Nelson Sees America - ウィリー・ネルソンが見るアメリカ"
+date: "2025-12-29T19:28:14.848Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.newyorker.com/magazine/2025/12/29/willie-nelson-profile"
 source_title: "How Willie Nelson Sees America | The New Yorker"
-source_id: 46366097
+source_id: "46366097"
 excerpt: "92歳ウィリー・ネルソンのツアー運用に学ぶ、長期運用を支えるミニマリズムと再現性の設計術"
 ---
 

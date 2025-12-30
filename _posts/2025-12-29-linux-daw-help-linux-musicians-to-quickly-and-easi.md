@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Linux DAW: Help Linux musicians to quickly and easily find the tools they need - Linux DAW：Linuxミュージシャンが必要なツールを素早く簡単に見つけられるように支援
-date: 2025-12-29T17:27:30.031Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Linux DAW: Help Linux musicians to quickly and easily find the tools they need - Linux DAW：Linuxミュージシャンが必要なツールを素早く簡単に見つけられるように支援"
+date: "2025-12-29T17:27:30.031Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://linuxdaw.org/"
 source_title: "Linux DAW"
-source_id: 46419968
+source_id: "46419968"
 excerpt: "**Linuxで低レイテンシ音楽制作を最短で始める具体手順ガイド**"
 ---
 

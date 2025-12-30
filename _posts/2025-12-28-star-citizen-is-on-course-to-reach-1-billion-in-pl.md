@@ -1,20 +1,17 @@
 ---
-layout: post
-title: Star Citizen is on course to reach $1 billion in player funding in 2026, and - スター・シチズン、2026年にプレイヤーからの資金調達額が10億ドルに達する見込み
-  still might not get to play its singleplayer campaign next year | Roberts Space
-  Industries' sim keeps raking in the cash
-date: 2025-12-28 20:16:34.646000+00:00
+layout: "post"
+title: "Star Citizen is on course to reach $1 billion in player funding in 2026, and - スター・シチズン、2026年にプレイヤーからの資金調達額が10億ドルに達する見込み still might not get to play its singleplayer campaign next year | Roberts Space Industries' sim keeps raking in the cash"
+date: "2025-12-28 20:16:34.646000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.pcgamer.com/games/sim/star-citizen-is-on-course-to-reach-usd1-billion-in-player-funding-in-2026-and-we-still-might-not-get-to-play-its-singleplayer-campaign-next-year/
-source_title: Star Citizen is on course to reach $1 billion in player funding in 2026,
-  and we still might not get to play its singleplayer campaign next year | PC Gamer
-source_id: 435984519
-excerpt: Star Citizenが2026年に資金10億ドル到達へ、完成不透明な長期開発のリスクを暴く
+source_url: "https://www.pcgamer.com/games/sim/star-citizen-is-on-course-to-reach-usd1-billion-in-player-funding-in-2026-and-we-still-might-not-get-to-play-its-singleplayer-campaign-next-year/"
+source_title: "Star Citizen is on course to reach $1 billion in player funding in 2026, and we still might not get to play its singleplayer campaign next year | PC Gamer"
+source_id: "435984519"
+excerpt: "Star Citizenが2026年に資金10億ドル到達へ、完成不透明な長期開発のリスクを暴く"
 ---
 # Star Citizen is on course to reach $1 billion in player funding in 2026, and - スター・シチズン、2026年にプレイヤーからの資金調達額が10億ドルに達する見込み
 

@@ -1,18 +1,17 @@
 ---
-layout: post
-title: From Genin to Kage - Understanding the Test Pyramid with Naruto - 下忍から火影へ - NARUTOで理解するテストピラミッド
-date: 2025-12-26 10:23:30.513000+00:00
+layout: "post"
+title: "From Genin to Kage - Understanding the Test Pyramid with Naruto - 下忍から火影へ - NARUTOで理解するテストピラミッド"
+date: "2025-12-26 10:23:30.513000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk
-source_title: From Genin to Kage - Understanding the Test Pyramid with Naruto - DEV
-  Community
-source_id: 3123641
-excerpt: ナルトのランク比喩で学ぶ、CI高速化とテスト比率最適化の実践ガイド
+source_url: "https://dev.to/m4rri4nne/from-genin-to-kage-understanding-the-test-pyramid-with-naruto-jbk"
+source_title: "From Genin to Kage - Understanding the Test Pyramid with Naruto - DEV Community"
+source_id: "3123641"
+excerpt: "ナルトのランク比喩で学ぶ、CI高速化とテスト比率最適化の実践ガイド"
 ---
 # From Genin to Kage - Understanding the Test Pyramid with Naruto - 下忍から火影へ - NARUTOで理解するテストピラミッド
 

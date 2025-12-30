@@ -1,16 +1,16 @@
 ---
-layout: post
-title: We “solved” C10K years ago yet we keep reinventing it - C10K問題は何年も前に「解決」したが、私たちはそれを再発明し続けている
-date: 2025-12-26 03:53:31.778000+00:00
+layout: "post"
+title: "We “solved” C10K years ago yet we keep reinventing it - C10K問題は何年も前に「解決」したが、私たちはそれを再発明し続けている"
+date: "2025-12-26 03:53:31.778000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.kegel.com/c10k.html
-source_title: The C10K problem
-source_id: 439824831
+source_url: "https://www.kegel.com/c10k.html"
+source_title: "The C10K problem"
+source_id: "439824831"
 ---
 # We “solved” C10K years ago yet we keep reinventing it - C10K問題は何年も前に「解決」したが、私たちはそれを再発明し続けている
 

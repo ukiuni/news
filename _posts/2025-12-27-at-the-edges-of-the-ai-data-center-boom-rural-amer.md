@@ -1,19 +1,17 @@
 ---
-layout: post
-title: At the edges of the AI data center boom, rural America is up against Silicon - AIデータセンターブームの端で、アメリカの農村部がシリコンバレーと対峙
-  Valley billions
-date: 2025-12-27 15:39:22.135000+00:00
+layout: "post"
+title: "At the edges of the AI data center boom, rural America is up against Silicon - AIデータセンターブームの端で、アメリカの農村部がシリコンバレーと対峙 Valley billions"
+date: "2025-12-27 15:39:22.135000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://fortune.com/2025/12/27/ai-data-centers-arizona-hassayampa-ranch/
-source_title: At the edges of the AI data center boom, rural America is up against
-  Silicon Valley billions | Fortune
-source_id: 436859776
-excerpt: '**砂漠が巨大AIデータセンターに変わるとき、地方の電力・水が奪われる危機**'
+source_url: "https://fortune.com/2025/12/27/ai-data-centers-arizona-hassayampa-ranch/"
+source_title: "At the edges of the AI data center boom, rural America is up against Silicon Valley billions | Fortune"
+source_id: "436859776"
+excerpt: "**砂漠が巨大AIデータセンターに変わるとき、地方の電力・水が奪われる危機**"
 ---
 # At the edges of the AI data center boom, rural America is up against Silicon - AIデータセンターブームの端で、アメリカの農村部がシリコンバレーと対峙
 

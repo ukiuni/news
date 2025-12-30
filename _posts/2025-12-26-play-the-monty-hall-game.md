@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Play the Monty Hall game - モンティ・ホール・ゲームをプレイする
-date: 2025-12-26T19:30:44.059Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Play the Monty Hall game - モンティ・ホール・ゲームをプレイする"
+date: "2025-12-26T19:30:44.059Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://monty.donk.systems"
 source_title: "Play the Monty Hall game"
-source_id: 1206870145
+source_id: "1206870145"
 excerpt: "ブラウザで遊んで実感：ドアを替えると当選率が2倍になるモンティ・ホール実験"
 ---
 

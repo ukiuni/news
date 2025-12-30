@@ -1,12 +1,16 @@
 ---
-layout: post
-title: New York to require social media platforms to display mental health warnings - ニューヨーク州、ソーシャルメディアプラットフォームにメンタルヘルス警告の表示を義務付けへ
-date: 2025-12-26T20:14:11.230Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "New York to require social media platforms to display mental health warnings - ニューヨーク州、ソーシャルメディアプラットフォームにメンタルヘルス警告の表示を義務付けへ"
+date: "2025-12-26T20:14:11.230Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.reuters.com/legal/litigation/new-york-require-social-media-platforms-display-mental-health-warnings-2025-12-26/"
 source_title: "New York to require social media platforms to display mental health warnings"
-source_id: 437625543
+source_id: "437625543"
 excerpt: "NY州がSNSにメンタル警告義務化、若年層対策と技術対応が急務"
 ---
 

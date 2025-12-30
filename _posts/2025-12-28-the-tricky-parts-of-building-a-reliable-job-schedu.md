@@ -1,21 +1,17 @@
 ---
-layout: post
-title: The tricky parts of building a reliable job scheduler: leases, idempotency, - 信頼性の高いジョブスケジューラを構築する際の難しい部分：リース、べき等性
-  and timezone-aware cron'
-date: 2025-12-28 23:18:31.313000+00:00
+layout: "post"
+title: "The tricky parts of building a reliable job scheduler: leases, idempotency, - 信頼性の高いジョブスケジューラを構築する際の難しい部分：リース、べき等性 and timezone-aware cron'"
+date: "2025-12-28 23:18:31.313000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://github.com/Spooled-Cloud/spooled-backend
-source_title: 'GitHub - Spooled-Cloud/spooled-backend: High-performance webhook queue
-  and job scheduler for distributed systems. 10k+ jobs/sec with PostgreSQL, Redis,
-  and WebSocket real-time updates. Includes REST & gRPC APIs, multi-tenant isolation,
-  and production monitoring.'
-source_id: 437103901
-excerpt: リース・冪等性・タイムゾーンCronで分散ジョブの落とし穴と実装指針を具体解説
+source_url: "https://github.com/Spooled-Cloud/spooled-backend"
+source_title: "GitHub - Spooled-Cloud/spooled-backend: High-performance webhook queue and job scheduler for distributed systems. 10k+ jobs/sec with PostgreSQL, Redis, and WebSocket real-time updates. Includes REST & gRPC APIs, multi-tenant isolation, and production monitoring."
+source_id: "437103901"
+excerpt: "リース・冪等性・タイムゾーンCronで分散ジョブの落とし穴と実装指針を具体解説"
 ---
 # The tricky parts of building a reliable job scheduler: leases, idempotency, - 信頼性の高いジョブスケジューラを構築する際の難しい部分：リース、べき等性
 

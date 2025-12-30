@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Show HN: Private blogging and journaling with a simulated audience - Show HN: 擬似的な観客がいるプライベートなブログとジャーナリング
-date: 2025-12-26 17:13:09.961000+00:00
+layout: "post"
+title: "Show HN: Private blogging and journaling with a simulated audience - Show HN: 擬似的な観客がいるプライベートなブログとジャーナリング"
+date: "2025-12-26 17:13:09.961000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://tempblog-psi.vercel.app/
-source_title: TanStack Start Starter
-source_id: 46393262
-excerpt: この記事の詳細をチェック
+source_url: "https://tempblog-psi.vercel.app/"
+source_title: "TanStack Start Starter"
+source_id: "46393262"
+excerpt: "この記事の詳細をチェック"
 ---
 # Show HN: Private blogging and journaling with a simulated audience - Show HN: 擬似的な観客がいるプライベートなブログとジャーナリング
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: An experiment in vibe coding - 「バイブス・コーディング」の実験
-date: 2025-12-29T01:48:03.157Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "An experiment in vibe coding - 「バイブス・コーディング」の実験"
+date: "2025-12-29T01:48:03.157Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://nolanlawson.com/2025/12/28/an-experiment-in-vibe-coding/"
 source_title: "An experiment in vibe coding | Read the Tea Leaves"
-source_id: 1303149007
+source_id: "1303149007"
 excerpt: "LLMだけで5時間で動く旅行PWAを構築できたが、アクセシビリティや運用・性能の重大な落とし穴が露呈"
 ---
 

@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Garmin autopilot lands small aircraft without human assistance - ガーミンのオートパイロットが人間の介助なしで小型機を着陸させる
-date: 2025-12-27 13:39:13.790000+00:00
+layout: "post"
+title: "Garmin autopilot lands small aircraft without human assistance - ガーミンのオートパイロットが人間の介助なしで小型機を着陸させる"
+date: "2025-12-27 13:39:13.790000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.theregister.com/2025/12/24/autocomms/?td=rt-3a
-source_title: Garmin autopilot lands small plane without pilot's help • The Register
-source_id: 437143269
-excerpt: Garminの自動着陸装置が乗員不在のB200を自律着陸、民航の安全常識を揺るがす実例
+source_url: "https://www.theregister.com/2025/12/24/autocomms/?td=rt-3a"
+source_title: "Garmin autopilot lands small plane without pilot's help • The Register"
+source_id: "437143269"
+excerpt: "Garminの自動着陸装置が乗員不在のB200を自律着陸、民航の安全常識を揺るがす実例"
 ---
 # Garmin autopilot lands small aircraft without human assistance - ガーミンのオートパイロットが人間の介助なしで小型機を着陸させる
 

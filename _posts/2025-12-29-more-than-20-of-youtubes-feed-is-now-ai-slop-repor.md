@@ -1,12 +1,16 @@
 ---
-layout: post
-title: More than 20% of YouTube's feed is now \"AI slop,\" report finds - YouTubeフィードの20%以上が現在「AIスロップ」であるとの報告
-date: 2025-12-29T15:26:15.163Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "More than 20% of YouTube's feed is now \"AI slop,\" report finds - YouTubeフィードの20%以上が現在「AIスロップ」であるとの報告"
+date: "2025-12-29T15:26:15.163Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.techspot.com/news/110735-over-21-youtube-now-ai-slop-report.html"
 source_title: "More than 20% of YouTube's feed is now \"AI slop,\" report finds"
-source_id: 435417478
+source_id: "435417478"
 excerpt: "ユーチューブのショート約2割が低品質な人工知能生成動画に占拠、収益と推薦の危機"
 ---
 

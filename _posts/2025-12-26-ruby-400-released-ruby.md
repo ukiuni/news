@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Ruby 4.0.0 Released | Ruby - Ruby 4.0.0がリリースされました | Ruby
-date: 2025-12-26T03:56:05.123Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Ruby 4.0.0 Released | Ruby - Ruby 4.0.0がリリースされました | Ruby"
+date: "2025-12-26T03:56:05.123Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/"
 source_title: "Ruby 4.0.0 Released | Ruby"
-source_id: 438519320
+source_id: "438519320"
 ---
 
 # Ruby 4.0.0 Released | Ruby - Ruby 4.0.0がリリースされました | Ruby

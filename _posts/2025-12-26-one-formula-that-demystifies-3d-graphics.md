@@ -1,16 +1,16 @@
 ---
-layout: post
-title: One Formula That Demystifies 3D Graphics - 3Dグラフィックスの謎を解き明かす一つの公式
-date: 2025-12-26 03:56:35.394000+00:00
+layout: "post"
+title: "One Formula That Demystifies 3D Graphics - 3Dグラフィックスの謎を解き明かす一つの公式"
+date: "2025-12-26 03:56:35.394000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.youtube.com/watch?v=qjWkNZ0SXfo
-source_title: One Formula That Demystifies 3D Graphics - YouTube
-source_id: 438480949
+source_url: "https://www.youtube.com/watch?v=qjWkNZ0SXfo"
+source_title: "One Formula That Demystifies 3D Graphics - YouTube"
+source_id: "438480949"
 ---
 # One Formula That Demystifies 3D Graphics - 3Dグラフィックスの謎を解き明かす一つの公式
 

@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Developing a Beautiful and Performant Block Editor in Qt C++ and QML - Qt C++とQMLによる美しく高性能なブロックエディタの開発
-date: 2025-12-29T08:51:03.828Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Developing a Beautiful and Performant Block Editor in Qt C++ and QML - Qt C++とQMLによる美しく高性能なブロックエディタの開発"
+date: "2025-12-29T08:51:03.828Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://rubymamistvalove.com/block-editor"
 source_title: "Ruby Mamistvalove"
-source_id: 46396824
+source_id: "46396824"
 excerpt: "Qt(C++)×QMLで作る、Markdown基盤の高速軽量WYSIWYGブロックエディタ"
 ---
 

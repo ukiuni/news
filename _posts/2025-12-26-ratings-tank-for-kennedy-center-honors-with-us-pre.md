@@ -1,16 +1,16 @@
 ---
-layout: post
-title: Ratings Tank For Kennedy Center Honors With US President as Host - 米国大統領がホストを務めたケネディ・センター名誉賞の視聴率が急落
-date: 2025-12-26 03:49:22.502000+00:00
+layout: "post"
+title: "Ratings Tank For Kennedy Center Honors With US President as Host - 米国大統領がホストを務めたケネディ・センター名誉賞の視聴率が急落"
+date: "2025-12-26 03:49:22.502000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.tmz.com/2025/12/25/trump-hosted-kennedy-center-honors-tanks-in-ratings/
-source_title: Ratings Tank For Kennedy Center Honors With President Trump as Host
-source_id: 438202109
+source_url: "https://www.tmz.com/2025/12/25/trump-hosted-kennedy-center-honors-tanks-in-ratings/"
+source_title: "Ratings Tank For Kennedy Center Honors With President Trump as Host"
+source_id: "438202109"
 ---
 # Ratings Tank For Kennedy Center Honors With US President as Host - 米国大統領がホストを務めたケネディ・センター名誉賞の視聴率が急落
 

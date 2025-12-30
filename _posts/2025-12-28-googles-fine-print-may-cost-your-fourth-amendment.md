@@ -1,20 +1,17 @@
 ---
-layout: post
-title: Google’s fine print may cost your Fourth Amendment rights — Pennsylvania Supreme - Googleの細かい規定があなたの修正第4条の権利を奪う可能性 — ペンシルベニア州最高裁
-  Court allows authorities to access your search history without a warrant | The court
-  says that accepting Google’s privacy policy waives privacy rights, allowing warrantless
-  access to search.
-date: 2025-12-28 04:16:23.487000+00:00
+layout: "post"
+title: "Google’s fine print may cost your Fourth Amendment rights — Pennsylvania Supreme - Googleの細かい規定があなたの修正第4条の権利を奪う可能性 — ペンシルベニア州最高裁 Court allows authorities to access your search history without a warrant | The court says that accepting Google’s privacy policy waives privacy rights, allowing warrantless access to search."
+date: "2025-12-28 04:16:23.487000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://www.windowscentral.com/software-apps/pennsylvania-supreme-court-google-searches-are-not-private
-source_title: Pennsylvania court rules Google searches are not private | Windows Central
-source_id: 436517721
-excerpt: ペンシルベニア最高裁、Google同意で令状不要に—検索履歴が捜査で差し出され得る衝撃判決
+source_url: "https://www.windowscentral.com/software-apps/pennsylvania-supreme-court-google-searches-are-not-private"
+source_title: "Pennsylvania court rules Google searches are not private | Windows Central"
+source_id: "436517721"
+excerpt: "ペンシルベニア最高裁、Google同意で令状不要に—検索履歴が捜査で差し出され得る衝撃判決"
 ---
 # Google’s fine print may cost your Fourth Amendment rights — Pennsylvania Supreme - Googleの細かい規定があなたの修正第4条の権利を奪う可能性 — ペンシルベニア州最高裁
 

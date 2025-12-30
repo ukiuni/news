@@ -1,12 +1,16 @@
 ---
-layout: post
-title: What does the software engineering job market look like heading into 2026? - 2026年に向けてソフトウェアエンジニアリングの求人市場はどうなるか？
-date: 2025-12-29T15:27:58.893Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "What does the software engineering job market look like heading into 2026? - 2026年に向けてソフトウェアエンジニアリングの求人市場はどうなるか？"
+date: "2025-12-29T15:27:58.893Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.finalroundai.com/blog/software-engineering-job-market-2026"
 source_title: "Software Engineering Job Market Outlook for 2026"
-source_id: 435373526
+source_id: "435373526"
 excerpt: "2026年に向け、AI活用と設計力で差をつける即戦力人材が高需要に—新卒枠減で育成戦略も必須"
 ---
 

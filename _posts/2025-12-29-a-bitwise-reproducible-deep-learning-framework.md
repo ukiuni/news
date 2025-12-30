@@ -1,12 +1,16 @@
 ---
-layout: post
-title: A bitwise reproducible deep learning framework - ビット単位で再現可能なディープラーニングフレームワーク
-date: 2025-12-29T05:50:37.145Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "A bitwise reproducible deep learning framework - ビット単位で再現可能なディープラーニングフレームワーク"
+date: "2025-12-29T05:50:37.145Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://github.com/microsoft/RepDL"
 source_title: "GitHub - microsoft/RepDL: A library for reproducible deep learning."
-source_id: 46352615
+source_id: "46352615"
 excerpt: "異なるハードでビット単位の出力を保証する深層学習ライブラリ、PyTorch互換で既存モデルを置換可能"
 ---
 

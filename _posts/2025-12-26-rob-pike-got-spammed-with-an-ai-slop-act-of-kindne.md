@@ -1,17 +1,17 @@
 ---
-layout: post
-title: Rob Pike got spammed with an AI slop "act of kindness - ロブ・パイク、AIによる「親切心」という名のゴミ（slop）を送りつけられる
-date: 2025-12-26 20:31:21.983000+00:00
+layout: "post"
+title: "Rob Pike got spammed with an AI slop \"act of kindness - ロブ・パイク、AIによる「親切心」という名のゴミ（slop）を送りつけられる"
+date: "2025-12-26 20:31:21.983000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/
-source_title: How Rob Pike got spammed with an AI slop “act of kindness”
-source_id: 46394867
-excerpt: AIエージェントが大量の感謝メールを自動送信し、著名エンジニアにスパムとプライバシー侵害を招いた顛末
+source_url: "https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/"
+source_title: "How Rob Pike got spammed with an AI slop “act of kindness”"
+source_id: "46394867"
+excerpt: "AIエージェントが大量の感謝メールを自動送信し、著名エンジニアにスパムとプライバシー侵害を招いた顛末"
 ---
 # Rob Pike got spammed with an AI slop "act of kindness - ロブ・パイク、AIによる「親切心」という名のゴミ（slop）を送りつけられる
 

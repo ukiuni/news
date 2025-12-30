@@ -1,12 +1,16 @@
 ---
-layout: post
-title: Louis Gerstner, the man who saved IBM, dies at 83 - IBMを救った男、ルイス・ガースナー氏が83歳で死去
-date: 2025-12-29T06:49:53.242Z
-categories: [tech, world-news]
-tags: [tech-news, japan]
+layout: "post"
+title: "Louis Gerstner, the man who saved IBM, dies at 83 - IBMを救った男、ルイス・ガースナー氏が83歳で死去"
+date: "2025-12-29T06:49:53.242Z"
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
 source_url: "https://www.tomshardware.com/tech-industry/louis-gerstner-the-man-who-saved-ibm-dies-at-83-industry-mourns-the-passing-of-transformative-ceo"
 source_title: "Louis Gerstner, the man who saved IBM, dies at 83 &mdash; industry mourns the passing of transformative CEO | Tom's Hardware"
-source_id: 435700963
+source_id: "435700963"
 excerpt: "ルイス・ガーストナーがIBMを一体化しサービス化で再生した驚きの変革戦略とは"
 ---
 

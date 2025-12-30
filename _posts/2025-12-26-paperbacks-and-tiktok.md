@@ -1,16 +1,16 @@
 ---
-layout: post
-title: Paperbacks and TikTok - ペーパーバックとTikTok
-date: 2025-12-26 03:58:39.131000+00:00
+layout: "post"
+title: "Paperbacks and TikTok - ペーパーバックとTikTok"
+date: "2025-12-26 03:58:39.131000+00:00"
 categories:
 - tech
 - world-news
 tags:
 - tech-news
 - japan
-source_url: https://calnewport.com/on-paperbacks-and-tiktok/
-source_title: On Paperbacks and TikTok - Cal Newport
-source_id: 46358211
+source_url: "https://calnewport.com/on-paperbacks-and-tiktok/"
+source_title: "On Paperbacks and TikTok - Cal Newport"
+source_id: "46358211"
 ---
 # Paperbacks and TikTok - ペーパーバックとTikTok
 
