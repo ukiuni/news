@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/show-hn-one-clean-developer-focused-page-for-every/' | relative_url }}">show hn one clean developer focused page for every</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/show-hn-a-claude-code-plugin-that-catch-destructiv/' | relative_url }}">show hn a claude code plugin that catch destructiv</a></h3>
 </div>
 <div class="article-row">
@@ -81,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/glamorous-christmas-bringing-charm-to-ruby/' | relative_url }}">glamorous christmas bringing charm to ruby</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/eclipse-collection-vs-jdk-collection/' | relative_url }}">eclipse collection vs jdk collection</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/china-drafts-worlds-strictest-rules-to-end-ai-enco/' | relative_url }}">china drafts worlds strictest rules to end ai enco</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/an-introduction-to-jackson-3-in-spring-7-and-sprin/' | relative_url }}">an introduction to jackson 3 in spring 7 and sprin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
