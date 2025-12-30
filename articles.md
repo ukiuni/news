@@ -168,6 +168,10 @@ permalink: /articles/
   <h3><a href="{{ '/2025/12/30/50000-drums-of-radioactive-wastes-were-dumped-near/' | relative_url }}">50000 drums of radioactive wastes were dumped near</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/2025s-second-most-censored-story/' | relative_url }}">2025s second most censored story</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/you-can-make-up-html-tags/' | relative_url }}">you can make up html tags</a></h3>
 </div>
