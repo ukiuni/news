@@ -53,11 +53,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/rich-hickey-simplicity-is-a-prerequisite-for-relia/' | relative_url }}">rich hickey simplicity is a prerequisite for relia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/outside-dungeon-town-integrating-the-three-places/' | relative_url }}">outside dungeon town integrating the three places</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/nvidia-spends-5b-on-intel-bailout-instantly-gets-2/' | relative_url }}">nvidia spends 5b on intel bailout instantly gets 2</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/non-zero-sum-games/' | relative_url }}">non zero sum games</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/nicolas-guillou-french-icc-judge-sanctioned-by-the/' | relative_url }}">nicolas guillou french icc judge sanctioned by the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
