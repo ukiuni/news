@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/rsync-but-in-java-with-jpm/' | relative_url }}">rsync but in java with jpm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/outside-dungeon-town-integrating-the-three-places/' | relative_url }}">outside dungeon town integrating the three places</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/curl-removes-all-calls-to-strcpy/' | relative_url }}">curl removes all calls to strcpy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/aflac-data-breach-affects-2265-million-ssns-health/' | relative_url }}">aflac data breach affects 2265 million ssns health</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
