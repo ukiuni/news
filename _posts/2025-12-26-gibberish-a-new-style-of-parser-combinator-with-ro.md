@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gibberish - A new style of parser-combinator with robust error handling built
+title: Gibberish - A new style of parser-combinator with robust error handling built - Gibberish - 堅牢なエラー処理を組み込んだ新しいスタイルのパーサーコンビネータ
   in
 date: 2025-12-26 21:08:07.824000+00:00
 categories:
@@ -15,7 +15,7 @@ source_title: 'GitHub - mnbjhu/gibberish: A parser combinator language and compi
 source_id: 437474408
 excerpt: 不完全なソースでもツリーを失わずIDE解析を強化するGibberish
 ---
-# エラーだらけのコードでも「ツリーを失わない」──Gibberishが変えるIDE向けパーシング
+# Gibberish - A new style of parser-combinator with robust error handling built - Gibberish - 堅牢なエラー処理を組み込んだ新しいスタイルのパーサーコンビネータ
 
 ## 要約
 Gibberishは、途中で壊れていても必ず構文木（LST）を出力するパーサコンビネータ言語＋コンパイラ。IDEや言語サーバー向けに設計され、構造化されたエラー回復を標準で備える点が最大の特徴。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The rise and fall of robots.txt"
+title: The rise and fall of robots.txt - robots.txtの興亡
 date: 2025-12-29T18:27:16.401Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435181233
 excerpt: "robots.txtの限界とAIによる無断データ収集への実践対策を公開"
 ---
 
-# 「robots.txtはもう効かないのか？」AI時代に揺れるウェブの“見えない約束”
+# The rise and fall of robots.txt - robots.txtの興亡
 
 ## 要約
 30年近くウェブの“ハンドシェイク”を担ってきたrobots.txtが、AIによる大規模データ収集によってその効力と価値を問われている。サイト運営者は従来の「許容⇄可視性」のトレードオフを再設計する必要に迫られている。

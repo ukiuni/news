@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lewis Carroll Computed Determinants
+title: Lewis Carroll Computed Determinants - ルイス・キャロルが計算した行列式
 date: 2025-12-26 20:52:29.087000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: How Lewis Carroll computed determinants
 source_id: 46395106
 excerpt: ルイス・キャロルの凝縮法で整数保持かつFPGA向けに並列化可能な行列式計算法を紹介
 ---
-# ルイス・キャロル流「凝縮（Condensation）」で行列式を再発見 — 手計算から並列実装まで
+# Lewis Carroll Computed Determinants - ルイス・キャロルが計算した行列式
 
 ## 要約
 ルイス・キャロル（本名チャールズ・ドジソン）が19世紀に示した「ドジソン凝縮法」は、隣接する2×2ブロックの行列式を繰り返し取ることで元の行列式を得る手法で、手計算向けに考案されたが機械的・並列的な実装にも有利な性質を持つ。

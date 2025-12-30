@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gen Zers and millennials flock to so-called analog islands 'because so little
+title: Gen Zers and millennials flock to so-called analog islands 'because so little - Z世代とミレニアル世代がいわゆる「アナログの島」に集まる理由
   of their life feels tangible'
 date: 2025-12-29 00:59:11.337000+00:00
 categories:
@@ -14,7 +14,7 @@ source_title: Gen Zers and millennials flock to so-called analog islands | Fortu
 source_id: 437190577
 excerpt: Z世代がレコードや手紙、マニュアル車へ回帰する理由とビジネス機会を解説
 ---
-# [デジタル疲れを癒す“アナログ島” — Z世代がレコードや手紙に戻る本当の理由]
+# Gen Zers and millennials flock to so-called analog islands 'because so little - Z世代とミレニアル世代がいわゆる「アナログの島」に集まる理由
 
 ## 要約
 テクノロジーが日常の大半を即時・データ化する一方で、若年層を含む幅広い世代が「手触り」のある活動——レコード、手紙、ボードゲーム、マニュアル車など——に回帰している。これは単なる懐古趣味ではなく、注意資本主義下での精神的な回復・コミュニティ再編を示す現象だ。

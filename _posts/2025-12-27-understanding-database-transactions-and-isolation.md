@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Database transactions and Isolation Levels
+title: Understanding Database transactions and Isolation Levels - データベーストランザクションと分離レベルを理解する
 date: 2025-12-27 11:41:05.652000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: Understanding Database Transactions and Isolation Levels | Shubham
 source_id: 436972282
 excerpt: 高並列サービスで在庫・残高の不整合を防ぐ分離レベル選択と実践指針を短く解説
 ---
-# 同時実行の落とし穴を避ける — データベース分離レベルを速攻で理解する
+# Understanding Database transactions and Isolation Levels - データベーストランザクションと分離レベルを理解する
 
 ## 要約
 データベースの「分離レベル」は、並行トランザクションが互いにどの程度影響し合うかを決める重要な設定。性能と正しさのトレードオフを理解すれば、実運用での障害や予期せぬ不整合を防げる。

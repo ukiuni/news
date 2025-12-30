@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LearnixOS
+title: LearnixOS - LearnixOS
 date: 2025-12-26 14:29:31.667000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Introduction - The LearnixOS Book
 source_id: 46391599
 excerpt: Rustでブートからファイルシステム、シェルまで自前OSを段階的に作れる実践ガイド
 ---
-# LearnixOSで「自分だけのOS」を作る旅に出よう — RustでPOSIX準拠OSを一緒に実装する本
+# LearnixOS - LearnixOS
 
 ## 要約
 Rustで外部ライブラリをほぼ使わず、POSIX準拠のOSを一から実装する学習リソース。ブートローダーからページング、割り込み、ファイルシステム、ユーザプロセス、最後はシェルでDoomを動かすところまでをカバーするロードマップを提示している。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Makes Goose Different From Other AI Coding AgentsAI"
+title: What Makes Goose Different From Other AI Coding AgentsAI - Gooseが他のAIコーディングエージェントと何が違うのか
 date: 2025-12-29T22:27:41.756Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 3131733
 excerpt: "YAMLレシピで開発作業を再現・並列自動化し、チームで安全に共有・CI連携で即運用可能にする"
 ---
 
-# GooseがAIエージェントの定石を塗り替える理由 — 「レシピ」で再現・共有する開発ワークフロー
+# What Makes Goose Different From Other AI Coding AgentsAI - Gooseが他のAIコーディングエージェントと何が違うのか
 
 ## 要約
 Gooseは単なるコード補完ではなく、YAMLベースの「レシピ」と並列実行を備えたワークフロー基盤を提供することで、開発タスクの自動化・再現性・共有を強力に推進するAIエージェント。

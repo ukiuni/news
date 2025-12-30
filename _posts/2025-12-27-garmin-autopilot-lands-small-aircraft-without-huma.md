@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Garmin autopilot lands small aircraft without human assistance
+title: Garmin autopilot lands small aircraft without human assistance - ガーミンのオートパイロットが人間の介助なしで小型機を着陸させる
 date: 2025-12-27 13:39:13.790000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Garmin autopilot lands small plane without pilot's help • The Re
 source_id: 437143269
 excerpt: Garminの自動着陸装置が乗員不在のB200を自律着陸、民航の安全常識を揺るがす実例
 ---
-# 機械が着陸を決めた日：Garminの自動着陸システムが実戦で「人間なし」で小型機を無事着陸させた理由
+# Garmin autopilot lands small aircraft without human assistance - ガーミンのオートパイロットが人間の介助なしで小型機を着陸させる
 
 ## 要約
 米GarminのEmergency Autolandが、コロラド州で圧力異常を起こしたビーチクラフトB200を乗員2名のまま自律的に着陸させた。人間の操作介入なしに緊急着陸を完了した初の実運用事例と見られる。

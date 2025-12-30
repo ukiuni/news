@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I Think Valve's Retiring the Steam Deck LCD"
+title: Why I Think Valve's Retiring the Steam Deck LCD - なぜValveがSteam Deck LCDを引退させると私が思うのか
 date: 2025-12-29T04:50:27.591Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46417252
 excerpt: "Steam DeckのLCD退役はOLED誘導と国内中古価格の変動を招く"
 ---
 
-# 「終焉か、戦略か？ValveがSteam Deck LCDを退役させた本当の理由」
+# Why I Think Valve's Retiring the Steam Deck LCD - なぜValveがSteam Deck LCDを引退させると私が思うのか
 
 ## 要約
 ValveがSteam DeckのLCD（256GB）モデルを生産終了にしたのは、単なるコスト問題ではなく、製品ライン全体の価格設計と消費者心理をコントロールする戦略的決断だと考えられる。Deck自体の性能寿命はまだ数年あり、ソフト面のサポートは継続される見込みだ。

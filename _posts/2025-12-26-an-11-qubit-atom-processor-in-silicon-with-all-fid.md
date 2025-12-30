@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99%
+title: An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99% - 99.10%から99.99%のフィデリティを持つシリコン内の11量子ビット原子プロセッサ
 date: 2025-12-26 14:29:01.098000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: An 11-qubit atom processor in silicon | Nature
 source_id: 46344222
 excerpt: シリコン上の11量子ビット原子プロセッサが99.10〜99.99%の高忠実度ゲートと8核GHZを実証
 ---
-# シリコン上で「ほぼ完璧」な量子ゲートを実現──11量子ビット原子プロセッサが示す次の一手
+# An 11-qubit atom processor in silicon with all fidelities from 99.10% to 99.99% - 99.10%から99.99%のフィデリティを持つシリコン内の11量子ビット原子プロセッサ
 
 ## 要約
 シリコン中に精密配置したリン原子を使った11量子ビット原子プロセッサが、単一／多重量子ゲートで99.10%〜99.99%の高忠実度を達成し、最大8核スピンでのGHZエンタングルメントを実証した。

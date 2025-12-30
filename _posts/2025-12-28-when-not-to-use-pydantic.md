@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When NOT to use Pydantic
+title: When NOT to use Pydantic - Pydanticを使うべきではない時
 date: 2025-12-28 14:28:15.242000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: When NOT to use Pydantic | Ossama Chaib
 source_id: 436147054
 excerpt: Pydanticがボトルネック化する場面とmsgspecで高速化する実践ガイド
 ---
-# Pydanticを“無条件”に使ってはいけない瞬間 — パフォーマンスと代替の見極め方
+# When NOT to use Pydantic - Pydanticを使うべきではない時
 
 ## 要約
 Pydanticは開発体験が優れる反面、1モデルあたり10〜50μs（複雑なら100μs超）のオーバーヘッドがあり、高スループットやサブミリ秒要求のシステムではボトルネックになる。高速な代替としてmsgspecがあり、構造によっては数倍〜数十倍速い。

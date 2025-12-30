@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Best Things and Stuff of 2025"
+title: The Best Things and Stuff of 2025 - 2025年のベスト・シングス＆スタッフ
 date: 2025-12-26T23:08:18.445Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46365726
 excerpt: "数値精度やゲーム設計、創作術まで実務で使える2025年の洞察を一挙公開、必読"
 ---
 
-# 2025年の「面白いもの」総ざらい — 技術・創作・システム思考で得た個人的ベスト
+# The Best Things and Stuff of 2025 - 2025年のベスト・シングス＆スタッフ
 
 ## 要約
 2025年に著者が発見・体験した優れた記事、動画、技術的アイデアを体系的にまとめた年末リスト。数値計算の新手法から音楽制作、ゲーム設計、システム思考に至る幅広い「学び」が詰まっている。

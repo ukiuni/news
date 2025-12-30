@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LLMs Are Not Fun"
+title: LLMs Are Not Fun - LLMは楽しくない
 date: 2025-12-29T19:27:26.184Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46424136
 excerpt: "LLM導入で失われる『学び』と品質リスクを防ぐ現場向け具体策を提示"
 ---
 
-# LLMが「楽しくない」と感じる本当の理由 — 技術者の喜びを守るための視点
+# LLMs Are Not Fun - LLMは楽しくない
 
 ## 要約
 LLM（大規模言語モデル）は生産性や自動化をもたらす一方で、プログラミングの「学び」や「創造の喜び」を削ぎ、マネジメントや品質管理に新たな摩擦を生む。使い方次第で道具にも毒にもなる。

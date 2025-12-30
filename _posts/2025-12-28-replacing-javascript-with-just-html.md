@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Replacing JavaScript with Just HTML
+title: Replacing JavaScript with Just HTML - JavaScriptをHTMLだけで置き換える
 date: 2025-12-28 02:15:28.408000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Replacing JS with just HTML - HTMHell
 source_id: 46407337
 excerpt: ネイティブHTMLでJSを減らし表示速度とアクセシビリティを劇的改善。
 ---
-# もうJSに頼らない：HTMLだけで置き換える実践テクニック
+# Replacing JavaScript with Just HTML - JavaScriptをHTMLだけで置き換える
 
 ## 要約
 HTMLのネイティブ機能（例：<details>、<datalist>、<dialog>など）を活用することで、よくあるUIパターンを余計なJavaScriptなしで実現し、読み込み性能・メンテナンス性・アクセシビリティを改善できる。

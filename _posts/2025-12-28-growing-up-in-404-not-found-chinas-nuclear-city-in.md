@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Growing up in "404 Not Found": China''s nuclear city in the Gobi Desert'
+title: Growing up in "404 Not Found": China''s nuclear city in the Gobi Desert - 「404 Not Found」で育つ：ゴビ砂漠にある中国の核都市
 date: 2025-12-28 11:15:31.800000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'Error 404: Life in a Secret Chinese Nuclear City That Was Never o
 source_id: 46408988
 excerpt: ゴビ砂漠の秘匿核都市を衛星とOSINTで暴き、国家安全と倫理の課題を浮かび上がらせる
 ---
-# 「404 Not Found」を生きる――ゴビ砂漠の“秘密”核都市が突きつけるテックの問い
+# Growing up in "404 Not Found": China''s nuclear city in the Gobi Desert - 「404 Not Found」で育つ：ゴビ砂漠にある中国の核都市
 
 ## 要約
 中国の「地図にない都市（404 Not Found）」――ゴビ砂漠に作られたとされる核関連施設の居住地は、閉ざされたインフラとデジタル時代の観測技術が交差する場所だ。衛星データやOSINTの進化が、こうした「見えない都市」を可視化しつつある。

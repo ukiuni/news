@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unity''s Mono problem: Why your C# code runs slower than it should'
+title: Unity''s Mono problem: Why your C# code runs slower than it should - UnityのMono問題：なぜC#コードが本来よりも遅く動作するのか
 date: 2025-12-28 23:16:41.940000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'Unity''s Mono problem: Why your C# code runs slower than it shoul
 source_id: 46414819
 excerpt: UnityのMonoは最新.NETより数倍遅く、移行やロジック分離で劇的に改善可能
 ---
-# Unityの「見えない負荷」を暴く：Monoが遅い本当の理由と今すぐできる対策
+# Unity''s Mono problem: Why your C# code runs slower than it should - UnityのMono問題：なぜC#コードが本来よりも遅く動作するのか
 
 ## 要約
 Unityのランタイムで動くC#は、最新の.NETランタイム（CoreCLR/.NET 10など）と比べて大幅に遅いことが実測で示されている。起動やシミュレーションで2–3倍、特定ケースでは最大15倍の差が出ることもある。

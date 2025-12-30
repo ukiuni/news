@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hungry Fat Cells Could Someday Starve Cancer to Death
+title: Hungry Fat Cells Could Someday Starve Cancer to Death - 飢えた脂肪細胞がいつか癌を餓死させるかもしれない
 date: 2025-12-28 15:05:03.219000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: How Hungry Fat Cells Could Someday Starve Cancer to Death | UC San
 source_id: 46409928
 excerpt: CRISPR改変の移植脂肪ががんを栄養枯渇で餓死させる可能性
 ---
-# 脂肪を“ハンター”に変えてがんを餓死させる未来──リポ移植から生まれた“飢える脂肪細胞”療法の衝撃
+# Hungry Fat Cells Could Someday Starve Cancer to Death - 飢えた脂肪細胞がいつか癌を餓死させるかもしれない
 
 ## 要約
 CRISPRで白色脂肪を熱産生する「ベージュ脂肪」に誘導し、腫瘍と栄養を競合させてがんを餓死させるというUCSFの研究。マウスや患者由来試験管系で多種のがん抑制を示した。

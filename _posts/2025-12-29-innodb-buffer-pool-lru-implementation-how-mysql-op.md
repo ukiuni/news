@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "InnoDB Buffer Pool LRU Implementation: How MySQL Optimizes Memory Management"
+title: InnoDB Buffer Pool LRU Implementation: How MySQL Optimizes Memory Management - InnoDBバッファプールのLRU実装：MySQLがいかにメモリ管理を最適化するか
 date: 2025-12-29T23:32:40.348Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 436277511
 excerpt: "InnoDBの中間挿入と遅延昇格でフルスキャン時のキャッシュ崩壊を防ぎ、性能安定化の設定法を解説"
 ---
 
-# フルテーブルスキャンで“キャッシュ崩壊”しない秘策 — InnoDBのLRUはこう動く
+# InnoDB Buffer Pool LRU Implementation: How MySQL Optimizes Memory Management - InnoDBバッファプールのLRU実装：MySQLがいかにメモリ管理を最適化するか
 
 ## 要約
 InnoDBのバッファプールは単純なLRUではなく「新旧2層＋中間挿入＋遅延昇格」でフルスキャンや一時的なアクセスでホットデータを追い出さない仕組みを採用している。適切な設定でキャッシュ効率を大幅に改善できる。

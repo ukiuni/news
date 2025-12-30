@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'From Idea to Launch: How Developers Can Build Successful Startups'
+title: From Idea to Launch: How Developers Can Build Successful Startups - アイデアからローンチまで：開発者が成功するスタートアップを構築する方法
 date: 2025-12-26 03:57:52.328000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'From Idea to Launch: How Developers Can Build Successful Startups
   DEV Community'
 source_id: 3118928
 ---
-# エンジニアが知るべき「作る力」と「売る力」の分岐点 — アイデアからローンチまでの実践ガイド
+# From Idea to Launch: How Developers Can Build Successful Startups - アイデアからローンチまで：開発者が成功するスタートアップを構築する方法
 
 ## 要約
 エンジニアがスタートアップを成功させるには「作れる」だけでは不十分。市場検証、素早い実験、指標管理、そして最小限の技術で早く出す力が必要になる。この記事は開発者視点での実務的な設計図を示す。

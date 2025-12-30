@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zuckerberg settles $8 billion lawsuit over Cambridge Analytica scandal, avoids
+title: Zuckerberg settles $8 billion lawsuit over Cambridge Analytica scandal, avoids - ザッカーバーグ氏、ケンブリッジ・アナリティカ事件を巡る80億ドルの訴訟で和解
   testifying
 date: 2025-12-28 01:08:30.303000+00:00
 categories:
@@ -15,7 +15,7 @@ source_title: Zuckerberg settles $8 billion lawsuit over Cambridge Analytica sca
 source_id: 437864544
 excerpt: ザッカーバーグが$8Bで和解、証言回避が示すSNS責任の現実
 ---
-# ザッカーバーグ、Cambridge Analytica訴訟を$8 billionで和解 — 「証言回避」が示すプラットフォーム責任の現実
+# Zuckerberg settles $8 billion lawsuit over Cambridge Analytica scandal, avoids - ザッカーバーグ氏、ケンブリッジ・アナリティカ事件を巡る80億ドルの訴訟で和解
 
 ## 要約
 報道によれば、Facebook（Meta）の創業者マーク・ザッカーバーグ氏はCambridge Analytica関連の集団訴訟を約$8 billionで和解し、法廷での証言を避けた。プライバシーとプラットフォーム責任の議論が再燃している。

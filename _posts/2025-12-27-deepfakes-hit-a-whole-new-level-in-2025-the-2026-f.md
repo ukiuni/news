@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deepfakes hit a whole new level in 2025. The 2026 forecast looks like a total
+title: Deepfakes hit a whole new level in 2025. The 2026 forecast looks like a total - ディープフェイクは2025年に全く新しいレベルに達した。2026年の予測は完全に...
   reality-check nightmare
 date: 2025-12-27 07:39:49.756000+00:00
 categories:
@@ -15,7 +15,7 @@ source_title: "Deepfakes Leveled up in 2025â\x80\x94Hereâ\x80\x99s Whatâ\x80\
 source_id: 437115000
 excerpt: 2026年、即応リアルな合成人物で詐欺や情報戦が激化する衝撃予報
 ---
-# 現実が嘘になる日 — 2025年に「現実級」へ進化したディープフェイク、2026年の悪夢予報
+# Deepfakes hit a whole new level in 2025. The 2026 forecast looks like a total - ディープフェイクは2025年に全く新しいレベルに達した。2026年の予測は完全に...
 
 ## 要約
 2025年にディープフェイクの品質と量が飛躍的に向上し、一般の視聴者には「本物」と判別できない水準に達した。2026年はさらにリアルタイムで反応する合成人物が出現し、社会的・経済的リスクが拡大すると予測される。

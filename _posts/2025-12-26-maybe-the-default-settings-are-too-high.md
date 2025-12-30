@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maybe the default settings are too high
+title: Maybe the default settings are too high - おそらくデフォルト設定が高すぎる
 date: 2025-12-26 03:54:39.769000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://www.raptitude.com/2025/12/maybe-the-default-settings-are-too
 source_title: Maybe the Default Settings Are Too High
 source_id: 46387657
 ---
-# デフォルトの「速さ」を疑え — 意図的に遅くすることで得る集中と価値
+# Maybe the default settings are too high - おそらくデフォルト設定が高すぎる
 
 ## 要約
 私たちの「デフォルト設定」が速すぎると、体験の質や理解が損なわれる。読む・食べる体験の話をプロダクト設計に転用し、遅めのデフォルトがもたらすUX上の利点と実装テクニックを解説する。

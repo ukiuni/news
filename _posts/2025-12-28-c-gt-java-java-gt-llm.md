@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C -&gt; Java != Java -&gt; LLM
+title: C -&gt; Java != Java -&gt; LLM - CからJavaへの変換は、JavaからLLMへの変換とは異なる
 date: 2025-12-28 05:16:51.949000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: C -> Java != Java -> LLM ~ Observational Hazard
 source_id: 436424234
 excerpt: LLMはコード生成を強化するが、ソースと開発プロセスの重要性は変わらないと警告する
 ---
-# 「ソースコードは滅びない」──LLMは言語を置き換えない、変化の本質を見抜く
+# C -&gt; Java != Java -&gt; LLM - CからJavaへの変換は、JavaからLLMへの変換とは異なる
 
 ## 要約
 LLM（大規模言語モデル）は開発の“道具”を劇的に強化するが、C→Javaのように中間生成物である「ソースコード」を根本から変えるわけではない。だからこそ既存の開発プロセスやアーキテクチャの扱い方が今後も重要であり、むしろ効率化の余地が大きい。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kidnapped by Deutsche Bahn"
+title: Kidnapped by Deutsche Bahn - ドイツ鉄道に誘拐されて
 date: 2025-12-29T13:27:06.600Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46419970
 excerpt: "DBの運行データ欠陥で短距離移動が大迂回に—補償と案内のズレが招いた誘拐体験"
 ---
 
-# DBに「誘拐」された体験が暴く、運行データとUXの致命的ギャップ
+# Kidnapped by Deutsche Bahn - ドイツ鉄道に誘拐されて
 
 ## 要約
 クリスマス直前、短距離移動が大幅に迂回・延着してしまい、乗客が「誘拐された」と感じるほどの体験に。背後には運行管理の手続き・指標設計・顧客向けコミュニケーションのミスマッチがある。

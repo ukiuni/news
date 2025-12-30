@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2D Distance Functions"
+title: 2D Distance Functions - 2D距離関数
 date: 2025-12-29T08:51:52.602Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 1045548953
 excerpt: "SDFで短時間に滑らか合成や繰り返し模様を作る実践ガイドと最適化テクニック"
 ---
 
-# 2D距離関数で描く“形の言語” — シェーダ／プロシージャル表現の基礎と応用
+# 2D Distance Functions - 2D距離関数
 
 ## 要約
 2D距離関数（Signed/Unsigned Distance Functions）は、形状を「点からの距離」として定義し、合成や変形が容易でリアルタイム表現に強い。シェーダやゲーム、ビジュアルアートに直結する強力なツールだ。

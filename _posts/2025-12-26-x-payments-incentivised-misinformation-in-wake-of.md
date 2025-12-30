@@ -1,6 +1,6 @@
 ---
 layout: post
-title: X payments incentivised misinformation in wake of Bondi shooting, expert says
+title: X payments incentivised misinformation in wake of Bondi shooting, expert says - ボンダイ銃撃事件後のXの支払いが誤情報を助長したと専門家が指摘
 date: 2025-12-26 03:52:12.657000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: X payments incentivised misinformation in wake of Bondi shooting, 
   says - ABC News
 source_id: 438197928
 ---
-# Xの「報酬」が誤情報を加速させた理由──Bondi銃撃後の教訓と日本での備え
+# X payments incentivised misinformation in wake of Bondi shooting, expert says - ボンダイ銃撃事件後のXの支払いが誤情報を助長したと専門家が指摘
 
 ## 要約
 X（旧Twitter）の投稿報酬プログラムが、Bondi Beachでの銃撃事件後に誤情報を拡散するインセンティブを生んだと専門家が指摘。誤認逮捕・脅迫など現実世界の被害が発生した。

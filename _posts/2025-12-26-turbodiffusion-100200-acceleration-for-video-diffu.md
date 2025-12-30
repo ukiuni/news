@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TurboDiffusion: 100–200× Acceleration for Video Diffusion Models'
+title: TurboDiffusion: 100–200× Acceleration for Video Diffusion Models - TurboDiffusion：ビデオ拡散モデルの100〜200倍の加速
 date: 2025-12-26 06:11:48.809000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'GitHub - thu-ml/TurboDiffusion: TurboDiffusion: 100–200× Accel
 source_id: 46388907
 excerpt: RTX5090で5秒映像を約1.9秒生成、TurboDiffusionが最大200倍高速化
 ---
-# RTX 5090で数秒生成へ──TurboDiffusionが映像生成を$100\sim200\times$加速する理由
+# TurboDiffusion: 100–200× Acceleration for Video Diffusion Models - TurboDiffusion：ビデオ拡散モデルの100〜200倍の加速
 
 ## 要約
 TurboDiffusionは、SageAttention・SLA（Sparse-Linear Attention）・rCMによるタイムステップ蒸留を組み合わせ、動画拡散モデルのエンドツーエンド生成を$100\sim200\times$加速するフレームワーク。単一のRTX 5090で5秒の動画を従来の184sから約1.9sへ短縮した事例が示されている。

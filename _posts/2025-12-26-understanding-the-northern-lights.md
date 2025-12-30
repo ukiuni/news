@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding the Northern Lights
+title: Understanding the Northern Lights - オーロラを理解する
 date: 2025-12-26 14:15:40.319000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Understanding the Northern Lights | History Today
 source_id: 46333940
 excerpt: オーロラ観測で太陽嵐を見抜き、電力・通信被害を防ぐ実務的な監視法とは？
 ---
-# 北の夜空が囁く「電磁の物語」—オーロラの科学と日本への示唆
+# Understanding the Northern Lights - オーロラを理解する
 
 ## 要約
 18世紀の記録的な大規模オーロラ観測から現代の衛星・機械学習による予測まで、オーロラは「太陽→磁気圏→電離層」と連鎖する空間天気の可視化装置だ。日本のインフラや衛星運用にも直接関係する実践的な知見が得られる。

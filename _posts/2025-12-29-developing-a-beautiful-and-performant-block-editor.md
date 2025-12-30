@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Developing a Beautiful and Performant Block Editor in Qt C++ and QML"
+title: Developing a Beautiful and Performant Block Editor in Qt C++ and QML - Qt C++とQMLによる美しく高性能なブロックエディタの開発
 date: 2025-12-29T08:51:03.828Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46396824
 excerpt: "Qt(C++)×QMLで作る、Markdown基盤の高速軽量WYSIWYGブロックエディタ"
 ---
 
-# Notionっぽくても軽い──Qt(C++)×QMLで作る「見たまま」高速ブロックエディタの舞台裏
+# Developing a Beautiful and Performant Block Editor in Qt C++ and QML - Qt C++とQMLによる美しく高性能なブロックエディタの開発
 
 ## 要約
 QtのC++ロジック＋QMLビューで、Markdownを下地にした「WYSIWYGかつブロック式」エディタをゼロから作り、ネイティブに近い見た目・挙動・高速性を両立させた話。

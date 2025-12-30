@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google is rolling out a new feature allowing users to change their Gmail address
+title: Google is rolling out a new feature allowing users to change their Gmail address - Google、ユーザーがGmailアドレスを変更できる新機能を展開中
 date: 2025-12-26 14:27:04.423000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: Google is rolling out a feature that allow users to change their G
 source_id: 438975551
 excerpt: 古いGmailアドレスを残したまま新アドレスに変更できる新機能が段階展開中
 ---
-# Gmailアドレスを「付け替え」できる時代へ──高校時代の恥ずかしいメールとお別れできる新機能の全貌
+# Google is rolling out a new feature allowing users to change their Gmail address - Google、ユーザーがGmailアドレスを変更できる新機能を展開中
 
 ## 要約
 Googleがユーザーの既存@ gmail.comアドレスを新しいアドレスに変更できる機能を段階的に展開中。データやサービスは維持され、古いアドレスはエイリアスとして残る点が特徴。

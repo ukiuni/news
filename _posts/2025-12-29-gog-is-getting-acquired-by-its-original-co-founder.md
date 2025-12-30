@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GOG is getting acquired by its original co-founder: What it means for you"
+title: GOG is getting acquired by its original co-founder: What it means for you - GOGが元の共同創設者によって買収される：それがあなたにとって何を意味するか
 date: 2025-12-29T17:26:51.341Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46422412
 excerpt: "創業者のGOG買戻しでDRMフリーと保存活動が強化、購入者と開発者が取るべき具体策とは？"
 ---
 
-# DRMフリーの旗手が帰還 — GOGを創業者が買い戻した意味と日本のゲーマー/開発者が取るべき一手
+# GOG is getting acquired by its original co-founder: What it means for you - GOGが元の共同創設者によって買収される：それがあなたにとって何を意味するか
 
 ## 要約
 GOGがCD PROJEKTから共同創業者の1人に買収され、同社の「DRMフリー」「ゲームの保存」という原点がより明確に再掲されました。アカウントやライブラリは変わらず、保存活動とコミュニティ重視の方針が強化されます。

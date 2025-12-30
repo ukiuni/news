@@ -1,6 +1,6 @@
 ---
 layout: post
-title: High School Student Discovers 1.5M Potential New Astronomical Objects
+title: High School Student Discovers 1.5M Potential New Astronomical Objects - 高校生、150万個の潜在的な新しい天体を発見
 date: 2025-12-26 15:29:35.585000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: High School Student Discovers 1.5 Million Potential New Astronomic
 source_id: 46392815
 excerpt: 18歳がNEOWISEの2000億行をAI解析し、約150万の新天体候補を抽出したVarWISE公開
 ---
-# 18歳のAIが宇宙を“再発見”した日：NEOWISEの2000億行を解析して150万の天体候補を炙り出した手法
+# High School Student Discovers 1.5M Potential New Astronomical Objects - 高校生、150万個の潜在的な新しい天体を発見
 
 ## 要約
 18歳のマッテオ・パズが、NEOWISEの未活用データ約2000億行を機械学習で解析し、約1.5百万の変光天体候補を抽出した。成果はVarWISEカタログとして公開され、天文学コミュニティで注目を集めている。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ‘South Park’ writer Toby Morton purchases President-Kennedy Center web addresses,
+title: ‘South Park’ writer Toby Morton purchases President-Kennedy Center web addresses, - 「サウスパーク」のライター、トビー・モートン氏がケネディ・センターのウェブアドレスを購入
   plans parody sites
 date: 2025-12-26 03:50:34.244000+00:00
 categories:
@@ -14,7 +14,7 @@ source_title: '''South Park'' writer controls Trump-Kennedy Center web addresses
   plans parody sites - Washington Times'
 source_id: 438003428
 ---
-# ドメインを先取りした“サウスパーク”脚本家が仕掛けるWeb上の皮肉 — 「Trump‑Kennedy Center」ドメイン騒動の技術と教訓
+# ‘South Park’ writer Toby Morton purchases President-Kennedy Center web addresses, - 「サウスパーク」のライター、トビー・モートン氏がケネディ・センターのウェブアドレスを購入
 
 ## 要約
 「サウスパーク」脚本家が予想して先回りして取得した trumpkennedycenter.org/.com が、物理的な改名と同時に注目を浴びている。ドメイン取得は短期的なジョークに留まらず、ブランド管理・法務・インフラの実務的課題を露呈する出来事だ。

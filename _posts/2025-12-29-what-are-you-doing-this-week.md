@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What are you doing this week?"
+title: What are you doing this week? - 今週は何をしますか？
 date: 2025-12-29T12:29:58.869Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 1073134076
 excerpt: "vibe-codingで週次の小プロジェクトを回し、Rust等の実験で即戦力を得る"
 ---
 
-# 今週なに作ってる？――「vibe-coding」から学ぶ小さなプロジェクトの効用
+# What are you doing this week? - 今週は何をしますか？
 
 ## 要約
 開発者たちの週次つぶやきから見えるのは、大規模案件だけでなく「短期間で試す・盗む・組み合わせる」文化。RustのファイルマネージャからHaskell×H3のルートトラッカー、Godotで作った子ども向けゲームまで、多様な技術実験が並ぶ。

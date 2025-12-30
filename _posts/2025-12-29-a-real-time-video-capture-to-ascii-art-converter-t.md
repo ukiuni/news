@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A real time video capture to ASCII Art converter that runs in the terminal."
+title: A real time video capture to ASCII Art converter that runs in the terminal. - ターミナルで動作するリアルタイム・ビデオキャプチャからASCIIアートへの変換器
 date: 2025-12-29T06:51:55.820Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435634345
 excerpt: "ウェブカメラ映像をターミナルで動くASCIIアートに即変換、軽量でPiでも遊べるツール"
 ---
 
-# ターミナルがキャンバスに変わる瞬間 — リアルタイム動画をASCIIアート化する小さな魔法
+# A real time video capture to ASCII Art converter that runs in the terminal. - ターミナルで動作するリアルタイム・ビデオキャプチャからASCIIアートへの変換器
 
 ## 要約
 ウェブカメラの映像をリアルタイムでターミナル表示するASCIIアート変換ツールの紹介。最小限の依存で動き、解像度や使用文字を調整して即座にアート表示が可能。

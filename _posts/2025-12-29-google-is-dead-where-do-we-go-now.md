@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Google is dead. Where do we go now?"
+title: Google is dead. Where do we go now? - Googleは死んだ。私たちは今どこへ向かうべきか？
 date: 2025-12-29T21:25:53.827Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46425198
 excerpt: "Google広告崩壊で売上半減、即実行の計測改善と短尺動画で生き残る戦術を解説"
 ---
 
-# Google広告が死んだ日：広告依存ビジネスが今すぐ取るべき戦術
+# Google is dead. Where do we go now? - Googleは死んだ。私たちは今どこへ向かうべきか？
 
 ## 要約
 Google広告だけに頼った小さな事業で売上が半減した実体験から、広告効果の急落要因と「今」実行すべきチャネル分散・計測改善・クリエイティブ戦術を実践的に整理する。

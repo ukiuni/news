@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The entire New Yorker archive is now digitized
+title: The entire New Yorker archive is now digitized - ニューヨーカー誌の全アーカイブがデジタル化
 date: 2025-12-26 03:53:50.410000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://www.newyorker.com/news/press-room/the-entire-new-yorker-arch
 source_title: The Entire New Yorker Archive Is Now Fully Digitized | The New Yorker
 source_id: 46336577
 ---
-# ニューヨーカー100年分がウェブで一挙公開 — テック視点で読み解く活用法
+# The entire New Yorker archive is now digitized - ニューヨーカー誌の全アーカイブがデジタル化
 
 ## 要約
 ニューヨーカーが創刊以来の全アーカイブを完全デジタル化して公開。強化された全文検索とAI要約で、100年分の記事が探しやすくなった。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Before Electric Vehicles Became Political, There Was the Toyota Prius"
+title: Before Electric Vehicles Became Political, There Was the Toyota Prius - 電気自動車が政治的になる前、トヨタ・プリウスがあった
 date: 2025-12-29T00:58:19.096Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 437205301
 excerpt: "プリウス以降、EVは技術から政治的象徴へ変わり、企業は性能訴求で市場を取り戻せる"
 ---
 
-# プリウス発、EVはどうして「文化戦争」になったのか — 車が政治の旗印になった意外な経緯
+# Before Electric Vehicles Became Political, There Was the Toyota Prius - 電気自動車が政治的になる前、トヨタ・プリウスがあった
 
 ## 要約
 2000年代初頭のプリウス以降、ハイブリッド／電気自動車（EV）は単なる技術製品を超え、環境主張や政府施策と結びついて政治的な分断の象徴になった。メッセージと政策が消費者の受け止め方を左右し、日本企業にも重要な示唆を残している。

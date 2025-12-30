@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I  built a free tool to compare inference costs across providers (Fireworks,
+title: I  built a free tool to compare inference costs across providers (Fireworks, - プロバイダー間の推論コストを比較する無料ツールを構築しました（Fireworksなど）
   Together, Groq, etc.)
 date: 2025-12-28 04:18:01.113000+00:00
 categories:
@@ -14,7 +14,7 @@ source_title: Snack - Inference Cost Calculator
 source_id: 436465912
 excerpt: 無料ツールでFireworks/Together/Groq等の推論コストを即比較、最適候補が判明
 ---
-# 知らなきゃ損！無料ツールでLLM推論コストを瞬時比較 — Fireworks / Together / Groq 対応
+# I  built a free tool to compare inference costs across providers (Fireworks, - プロバイダー間の推論コストを比較する無料ツールを構築しました（Fireworksなど）
 
 ## 要約
 無料の「Inference Cost Calculator」を使えば、複数の推論プロバイダ（Fireworks、Together、Groq など）のコストや性能を同条件で比較でき、最適な運用選択を短時間で見つけられます。

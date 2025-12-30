@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rainbow Six Siege hacked, as hackers have wormed their way into the game's
+title: Rainbow Six Siege hacked, as hackers have wormed their way into the game's - レインボーシックス シージがハッキングされ、ハッカーがゲーム内に侵入
   systems and rewarded everyone with two billion credits, while also hijacking the
   log to throw digs at Ubisoft, jokingly 'banning' all employees for "toxic behavior"
   and even musing that Yves Guillemot was on Epstein's island.
@@ -16,7 +16,7 @@ source_title: Rainbow Six Siege X Suffers Major Hack, Ubisoft Is "Working On A R
 source_id: 436639583
 excerpt: R6』が大規模ハック、全員に20億クレジット付与され市場停止・運営中傷ログ改竄
 ---
-# 『レインボーシックス シージ』が大規模ハック——全プレイヤーに20億クレジット配布、マーケット即時停止の緊急事態
+# Rainbow Six Siege hacked, as hackers have wormed their way into the game's - レインボーシックス シージがハッキングされ、ハッカーがゲーム内に侵入
 
 ## 要約
 海外でRainbow Six Siegeのシステムが不正アクセスを受け、犯行グループが全プレイヤーに20億クレジットを付与、同時にログに運営への中傷やジョーク的な「社員BAN」表示を行うなど混乱が発生。運営はマーケットを停止し、対応を進めている。

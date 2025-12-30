@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations
+title: Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations - 専門家、おとぎ話のような幻覚を引き起こす新しいキノコを調査
 date: 2025-12-26 19:29:43.629000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: Experts Explore New Mushroom Which Causes Fairytale-Like Hallucina
 source_id: 46393936
 excerpt: 市場で発見された新種きのこが小人幻覚を誘発、薬理と安全性を揺るがす可能性
 ---
-# 幻想がテーブルで踊るきのこ──新種「Lanmaoa asiatica」が示すサイエンスとリスク
+# Experts Explore New Mushroom Which Causes Fairytale-Like Hallucinations - 専門家、おとぎ話のような幻覚を引き起こす新しいキノコを調査
 
 ## 要約
 市場で売られていた野生きのこから、まるで「小人」が見えるという奇妙な幻覚を引き起こす新種 Lanmaoa asiatica が同定された。分子・民族誌・化学解析が組み合わさった調査は、幻覚メカニズム研究や薬理探索の新たな扉を開く可能性がある。

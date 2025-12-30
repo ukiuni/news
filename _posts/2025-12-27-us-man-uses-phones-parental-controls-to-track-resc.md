@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "US man uses phone’s parental controls to track, rescue daughter kidnapped at knifepoint"
+title: US man uses phone’s parental controls to track, rescue daughter kidnapped at knifepoint - 米国の男性、電話のペアレンタルコントロールを使用して刃物で誘拐された娘を追跡・救出
 date: 2025-12-27T19:40:02.428Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 438008060
 excerpt: "実話：父がスマホの見守りで刃物拉致の娘を位置特定し救出、設定方法も解説"
 ---
 
-# スマホの「見守り機能」が命を救った話 — 親が設定しておくべき実務チェックリスト
+# US man uses phone’s parental controls to track, rescue daughter kidnapped at knifepoint - 米国の男性、電話のペアレンタルコントロールを使用して刃物で誘拐された娘を追跡・救出
 
 ## 要約
 米国で父親がスマホのペアレンタルコントロール（家族向け位置共有機能）を使って、刃物による拉致から娘を追跡・救出したと伝えられています。普段の「見守り設定」が有事で有効に働く好例です。

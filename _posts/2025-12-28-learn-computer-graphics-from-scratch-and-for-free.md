@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learn computer graphics from scratch and for free
+title: Learn computer graphics from scratch and for free - コンピュータグラフィックスをゼロから無料で学ぶ
 date: 2025-12-28 19:17:55.444000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Scratchapixel
 source_id: 46410210
 excerpt: 無料でミニマルなレイトレーサからBVH・BRDFまで実装で学べるCG最短ルート
 ---
-# ゼロからCGを“無料で”極める最短ルート：Scratchapixel徹底ガイド
+# Learn computer graphics from scratch and for free - コンピュータグラフィックスをゼロから無料で学ぶ
 
 ## 要約
 Scratchapixelは、手を動かして理解することを第一にした無料のCG教育サイト。ミニマルなレイトレーサーから行列・BRDF・モンテカルロまで、実践的に学べる体系が揃っている。

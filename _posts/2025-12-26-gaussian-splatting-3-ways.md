@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gaussian Splatting 3 Ways
+title: Gaussian Splatting 3 Ways - ガウシアンスプラッティングの3つの方法
 date: 2025-12-26 20:53:19.827000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: GitHub - NullandKale/NullSplats
 source_id: 46395273
 excerpt: 動画や画像から撮って数分で立体化、ワークフロー解説と3方式のGaussian Splattingを実例で高速比較
 ---
-# [撮ってそのまま3分で立体化？Gaussian Splattingを「3通り」で試すNullSplats紹介]
+# Gaussian Splatting 3 Ways - ガウシアンスプラッティングの3つの方法
 
 ## 要約
 NullSplatsは動画や画像フォルダから自動でフレーム抽出→COLMAPでカメラ復元→GPUでGaussian-splat表現を学習し、3Dスプラット（.ply/.splat）とOpenGLビューアで即確認できるワークフローを提供するデスクトップツールです。3つの異なる生成手法（gsplat, Depth Anything 3, SHARP）を手軽に比較できます。

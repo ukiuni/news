@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spherical Cow
+title: Spherical Cow - 球形の牛（物理学のジョーク）
 date: 2025-12-28 23:45:20.288000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: spherical-cow — Rust implementation // Lib.rs
 source_id: 46415458
 excerpt: Rustで任意形状を高密度に球詰め、CAEや医療応用に使える高速ライブラリ
 ---
-# 球で埋め尽くす：高密度球詰めをRustで操る
+# Spherical Cow - 球形の牛（物理学のジョーク）
 
 ## 要約
 任意形状の領域に高密度で球を詰めるRustライブラリの紹介。先進的な「アドバンシングフロント」手法で高い体積分率を実現し、シミュレーションや設計最適化に使える。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Ruby is Ruby with syntax for types
+title: T-Ruby is Ruby with syntax for types - T-Rubyは型構文を持つRubyである
 date: 2025-12-27 02:06:01.519000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Type-safe Ruby | T-Ruby
 source_id: 46395871
 excerpt: T-RubyでTypeScript風の型注釈をRubyに導入、.rb/.rbsを生成
 ---
-# Rubyに型の魔法を注入する — T-RubyでTypeScriptライクな静的型チェックがやってきた
+# T-Ruby is Ruby with syntax for types - T-Rubyは型構文を持つRubyである
 
 ## 要約
 T-Rubyは、TypeScriptのように「型付き構文」をRubyに導入する実験的コンパイラ。`.trb`ファイルにインラインで型注釈を書き、標準の`.rb`と`.rbs`を生成して既存のRubyエコシステムと互換性を保つ。

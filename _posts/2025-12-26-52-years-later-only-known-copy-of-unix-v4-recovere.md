@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 52 years later, only known copy of Unix v4 recovered from randomly found tape,
+title: 52 years later, only known copy of Unix v4 recovered from randomly found tape, - 52年後、偶然見つかったテープからUnix v4の唯一知られているコピーが復元される
   now up and running on a system — first OS version with kernel and core utilities
   written in C
 date: 2025-12-26 03:51:00.246000+00:00
@@ -16,7 +16,7 @@ source_title: 52 years later, only known copy of Unix v4 recovered from randomly
   written in C | Tom's Hardware
 source_id: 438157045
 ---
-# 「テープからよみがえった“元祖Cカーネル”──52年ぶりに発見されたUnix v4が語る“移植性”の起源」
+# 52 years later, only known copy of Unix v4 recovered from randomly found tape, - 52年後、偶然見つかったテープからUnix v4の唯一知られているコピーが復元される
 
 ## 要約
 1970年代初頭に作られたUnix v4の唯一既知のコピーが、大学で見つかった古いテープから復元され、当時のマシン（エミュレータ上）で動作することが確認された。Unixカーネルと主要ユーティリティがCで書かれた最初期の実例として、OS史とソフトウェア保存の重要なマイルストーンだ。

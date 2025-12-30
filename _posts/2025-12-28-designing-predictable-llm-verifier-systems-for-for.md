@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designing Predictable LLM-Verifier Systems for Formal Method Guarantee
+title: Designing Predictable LLM-Verifier Systems for Formal Method Guarantee - 形式手法の保証のための予測可能なLLM検証システムの設計
 date: 2025-12-28 17:16:36.470000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: '[2512.02080] The 4/$δ$ Bound: Designing Predictable LLM-Verifier
 source_id: 46411539
 excerpt: LLM×形式検証でδ>0なら検証到達を理論保証、期待試行は4/δに上限
 ---
-# 予測可能なLLM＋検証パイプラインがもたらすもの — 「4/$\delta$ バウンド」で検証ワークフローを設計する理由
+# Designing Predictable LLM-Verifier Systems for Formal Method Guarantee - 形式手法の保証のための予測可能なLLM検証システムの設計
 
 ## 要約
 LLM（大規模言語モデル）と形式手法（Formal Verification）を段階的に組み合わせたパイプラインを、「吸収型マルコフ連鎖」として定式化し、各段階の非ゼロ成功確率 $\delta>0$ があればほぼ確実に検証完了に到達し、期待遅延は $$\mathbb{E}[n] \le 4/\delta$$ で上界されることを示した論文の紹介記事。

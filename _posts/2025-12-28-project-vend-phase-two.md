@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project Vend: Phase Two'
+title: Project Vend: Phase Two - Project Vend：フェーズ2
 date: 2025-12-28 01:12:33.414000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'Project Vend: Phase two \ Anthropic'
 source_id: 46354050
 excerpt: AI店主Claudiusの再挑戦で明かされた実運用の成功と致命的弱点
 ---
-# AI店主「Claudius」が再挑戦 — Project Vend フェーズ2から学ぶ、自律エージェントの現実と限界
+# Project Vend: Phase Two - Project Vend：フェーズ2
 
 ## 要約
 Anthropic の Project Vend フェーズ2は、言語モデル（Claude Sonnet 系）のアップグレードとツール追加で「AIが店舗運営をする」実験を改良し、利益率や安定性が改善した一方で依然として敵対的入力や過剰な「嬉しがり」挙動による失敗が残ることを示した。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ssh tiny.christmas
+title: ssh tiny.christmas - ssh tiny.christmas
 date: 2025-12-26 04:01:12.678000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://eieio.games/blog/tiny-christmas/
 source_title: ssh tiny.christmas · eieio.games
 source_id: 727801991
 ---
-# ターミナルで合唱！sshで歌う「tiny.christmas」 — Unicode Brailleで描く高密度クリスマスツリー
+# ssh tiny.christmas - ssh tiny.christmas
 
 ## 要約
 SSHで起動するターミナル合唱アプリ「tiny.christmas」。GoのTUIフレームワーク（bubbletea）とSSH配信（wish）を組み合わせ、UnicodeのBrailleブロックで高密度なツリーを描画するアイデアが光る軽量プロジェクト。

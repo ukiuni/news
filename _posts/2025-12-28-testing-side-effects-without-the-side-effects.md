@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing Side Effects Without the Side Effects"
+title: Testing Side Effects Without the Side Effects - 副作用なしで副作用をテストする
 date: 2025-12-28T11:16:28.763Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 436269131
 excerpt: "モック不要で本番外のDBや決済に触れず構文木で注文処理を高速安全に検証する方法"
 ---
 
-# 副作用を「呼ばない」テスト──モック不要で注文処理を確実に検証する方法
+# Testing Side Effects Without the Side Effects - 副作用なしで副作用をテストする
 
 ## 要約
 副作用（データベースや決済呼び出し）を「実行するのではなく記述する」ことで、ネットワークや外部サービスに触れずに業務ロジックを完全にユニットテストできる手法を紹介します。

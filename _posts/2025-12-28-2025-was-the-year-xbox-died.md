@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2025 was the year Xbox died"
+title: 2025 was the year Xbox died - 2025年はXboxが死んだ年だった
 date: 2025-12-28T03:14:43.980Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46368226
 excerpt: "2025年、独占不足と値上げで失速したXboxが、PC寄り戦略で復活を狙う"
 ---
 
-# 衝撃：2025年に「Xboxは死んだ」のか？ — PC化で甦る可能性を探る
+# 2025 was the year Xbox died - 2025年はXboxが死んだ年だった
 
 ## 要約
 2025年、ハード売上の低迷・独占タイトル不足・価格改定でXboxブランドは大きく失速した。しかし「コンソール」から「PCに近い体験」へ軸足を移す動きは、逆に復活の芽を残している。

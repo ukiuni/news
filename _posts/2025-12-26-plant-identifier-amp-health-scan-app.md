@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plant Identifier &amp; health scan app
+title: Plant Identifier &amp; health scan app - 植物識別＆健康スキャンアプリ
 date: 2025-12-26 10:27:58.256000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: TikTok - Make Your Day
 source_id: 439068248
 excerpt: TikTok話題のアプリで植物の種や病害を写真で即診断、家庭で使える軽量AI搭載
 ---
-# スマホが植物の“かかりつけ医”に？TikTokで話題の「Plant Identifier & health scan」から学ぶAI園芸の今
+# Plant Identifier &amp; health scan app - 植物識別＆健康スキャンアプリ
 
 ## 要約
 TikTokで注目の「Plant Identifier & health scan」は、写真から植物種の特定や葉の状態（病害・栄養欠乏など）を推定するタイプのアプリ。画像認識と軽量化された機械学習モデルを組み合わせ、消費者向けの即時診断を目指す代表例だ。

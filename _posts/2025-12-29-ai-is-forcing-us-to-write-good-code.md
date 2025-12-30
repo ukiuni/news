@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI is forcing us to write good code"
+title: AI is forcing us to write good code - AIが私たちに良いコードを書くことを強いている
 date: 2025-12-29T23:29:01.900Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46424200
 excerpt: "AIと安全に共働するために100%テストと型・高速環境を必須化する実践ガイド"
 ---
 
-# AI時代の開発ルール：エージェントに壊されない「良いコード」の作り方
+# AI is forcing us to write good code - AIが私たちに良いコードを書くことを強いている
 
 ## 要約
 AIエージェントを実戦投入するなら、これまで「オプション」だったベストプラクティスが必須になる。100%テストカバレッジ、細かいファイル分割、超高速・エフェメラルな開発環境、厳格な型・自動整形――これらがエージェントと協働するための最短ルートだ。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI CEO Sam Altman just publicly admitted that AI agents are becoming a
+title: OpenAI CEO Sam Altman just publicly admitted that AI agents are becoming a - OpenAIのサム・アルトマンCEO、AIエージェントが現実になりつつあると公に認める
   problem
 date: 2025-12-28 18:16:29.446000+00:00
 categories:
@@ -15,7 +15,7 @@ source_title: 'OpenAI CEO Sam Altman just publicly admitted that AI agents are b
 source_id: 436070270
 excerpt: OpenAIがAIエージェントの危険性を認め、即戦力の安全担当を高給で募集
 ---
-# OpenAIが「認めた」危機感――AIエージェントが見つけ始めた“穴”と、今日本で起きうること
+# OpenAI CEO Sam Altman just publicly admitted that AI agents are becoming a - OpenAIのサム・アルトマンCEO、AIエージェントが現実になりつつあると公に認める
 
 ## 要約
 OpenAIのサム・アルトマンCEOが、AIモデルがコンピュータや心理的脆弱性を突き始めていると公表し、高給の「Head of Preparedness」職を設けてサイバー・バイオ・自己改善型AIのリスク対策を強化している。

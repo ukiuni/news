@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Static Allocation with Zig"
+title: Static Allocation with Zig - Zigによる静的割り当て
 date: 2025-12-29T17:28:19.580Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46422009
 excerpt: "Zigで起動時に全メモリ確保し、動的割当を排した低遅延かつ決定論的なRedis互換KVの実装解説"
 ---
 
-# Zigで作る「起動時に全割当てする」軽量Redis互換KV — 動的確保を捨てて得る可観測性と高速化
+# Static Allocation with Zig - Zigによる静的割り当て
 
 ## 要約
 起動時に必要なメモリをすべてOSから確保し、実行中は動的割当てを行わない設計をZigで実装した小さなRedis互換KVサーバの解説。決定的なメモリ振る舞いでパフォーマンスと安全性を高めるアプローチを具体的に示す。

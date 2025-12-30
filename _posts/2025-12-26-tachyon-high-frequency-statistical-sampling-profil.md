@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tachyon: High frequency statistical sampling profiler'
+title: Tachyon: High frequency statistical sampling profiler - Tachyon：高頻度統計サンプリングプロファイラ
 date: 2025-12-26 07:10:14.679000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: "profiling.sampling â\x80\x94 Statistical profiler — Python 3.1
 source_id: 46353257
 excerpt: 本番で低オーバーヘッドに高頻度サンプリングし即ボトルネック可視化するPy3.15プロファイラ
 ---
-# Tachyonで本番でも使える低オーバーヘッド診断 — Python 3.15の統計サンプリングプロファイラを使い倒す
+# Tachyon: High frequency statistical sampling profiler - Tachyon：高頻度統計サンプリングプロファイラ
 
 ## 要約
 Python 3.15で導入された profiling.sampling（Tachyon）は、外部から定期的にスタックをスナップショットして“統計的に”ホットスポットを特定する軽量プロファイラ。ほぼゼロに近いオーバーヘッドで本番計測が可能になる。

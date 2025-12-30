@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UK accounting body to halt remote exams amid AI cheating"
+title: UK accounting body to halt remote exams amid AI cheating - 英国の会計団体、AIによる不正行為を受けてリモート試験を停止
 date: 2025-12-29T16:25:49.710Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46420289
 excerpt: "英最大の会計団体がAI不正で遠隔試験を原則停止、対面化と出題改革が急務"
 ---
 
-# AIに負けない資格試験へ――英会計団体が「遠隔試験停止」を決めた理由と日本への示唆
+# UK accounting body to halt remote exams amid AI cheating - 英国の会計団体、AIによる不正行為を受けてリモート試験を停止
 
 ## 要約
 世界最大級の会計資格団体が、AIによる不正の横行を理由に遠隔試験を原則停止することを決定。高度化する不正検出の限界が「遠隔試験の終わり」を早めている。

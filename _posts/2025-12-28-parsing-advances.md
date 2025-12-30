@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Parsing Advances"
+title: Parsing Advances - パース技術の進歩
 date: 2025-12-28T21:17:15.170Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 437192221
 excerpt: "進行アサートでパーサーの無限ループとOOMを即検出する実践的手法"
 ---
 
-# パーサーの無限ループを一発で見つける技 — 「進行アサート」で堅牢なエラーハンドリングを実装する
+# Parsing Advances - パース技術の進歩
 
 ## 要約
 エラーレジリエントなトップダウンパーサーで陥りがちな「トークンを消費しないままループ／再帰して無限ループになる」問題を、進行（advance）を明示的にアサートする小さなAPIで防ぐ手法を紹介する。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Russian enthusiasts are planning to build their own DDR5 RAM amidst the worldwide
+title: Russian enthusiasts are planning to build their own DDR5 RAM amidst the worldwide - ロシアの愛好家、世界的な不足の中で独自のDDR5 RAMの構築を計画中
   shortage — do-it-yourself RAM is as 'easy' as sourcing your own memory modules and
   soldering them on empty PCBs
 date: 2025-12-26 03:49:43.315000+00:00
@@ -16,7 +16,7 @@ source_title: Russian enthusiasts planning do-it-yourself DDR5 memory amidst the
   and soldering them on empty PCBs | Tom's Hardware
 source_id: 438422293
 ---
-# ロシアの自作DDR5ブーム？「基板にチップを載せるだけ」で高性能メモリを作れるのか
+# Russian enthusiasts are planning to build their own DDR5 RAM amidst the worldwide - ロシアの愛好家、世界的な不足の中で独自のDDR5 RAMの構築を計画中
 
 ## 要約
 世界的なDDR5品薄を受け、ロシアの技術愛好家たちが「空のDIMM基板にDDR5チップやモジュールを載せて自作する」試みに乗り出している。理論上は可能でも、高速シリアル信号や電源管理の壁が立ちはだかる。

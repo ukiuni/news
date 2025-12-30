@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Worn Down by Worry, Parents Look Longingly at Australia’s Social Media Ban"
+title: Worn Down by Worry, Parents Look Longingly at Australia’s Social Media Ban - 不安に疲れ果てた親たちが、オーストラリアのソーシャルメディア禁止を羨望の眼差しで見る
 date: 2025-12-29T02:50:46.441Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 437036693
 excerpt: "オーストラリアの未成年SNS禁止が示す実装難度と日本への波紋を具体解説"
 ---
 
-# 親たちが「羨む」オーストラリアのSNS禁止──日本で議論になる前に知っておくべき技術と実務
+# Worn Down by Worry, Parents Look Longingly at Australia’s Social Media Ban - 不安に疲れ果てた親たちが、オーストラリアのソーシャルメディア禁止を羨望の眼差しで見る
 
 ## 要約
 ある国が16歳未満のSNS利用を法的に禁止したことを受け、親や政策立案者、プラットフォーム運営側で議論が沸騰している。本稿はその技術的実装上の課題、回避手段、そして日本で起こりうる影響を整理する。

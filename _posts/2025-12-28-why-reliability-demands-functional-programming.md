@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Reliability Demands Functional Programming
+title: Why Reliability Demands Functional Programming - なぜ信頼性には関数型プログラミングが必要なのか
 date: 2025-12-28 02:16:02.442000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'Why Reliability Demands Functional Programming: ADTs, Safety, and
 source_id: 46406901
 excerpt: 金融や決済での致命的障害を型と関数型でコンパイル時に潰す方法を解説
 ---
-# 型で安心を買う――なぜ信頼性は関数型＋ADTsに依るのか
+# Why Reliability Demands Functional Programming - なぜ信頼性には関数型プログラミングが必要なのか
 
 ## 要約
 稼働中の金融／通信／決済システムで起きる多くの障害は「存在すべきでない状態」がコード内に混入することが原因だ。関数型の考え方と代数的データ型（ADT）でそのクラスのバグをコンパイル時に潰せる。

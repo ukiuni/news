@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's make a game! 368: Team names"
+title: Let's make a game! 368: Team names - ゲームを作ろう！ 368：チーム名
 date: 2025-12-29T16:28:16.289Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435312438
 excerpt: "Twine（SugarCube）で短時間に安全なチーム名機能を実装する実践ガイド"
 ---
 
-# Twine（SugarCube）でチーム名機能を即実装！変数・検証・表示UXの実践ガイド
+# Let's make a game! 368: Team names - ゲームを作ろう！ 368：チーム名
 
 ## 要約
 Twine（SugarCube）で「チーム名」を扱う際の基本設計と実装パターンを、変数設計・表示ループ・入力・検証・永続化・UX改善の観点から簡潔に解説する。

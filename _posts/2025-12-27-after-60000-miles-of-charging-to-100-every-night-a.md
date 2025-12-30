@@ -1,6 +1,6 @@
 ---
 layout: post
-title: After 60,000 Miles of Charging to 100% Every Night, a Ford F-150 Lightning
+title: After 60,000 Miles of Charging to 100% Every Night, a Ford F-150 Lightning - 毎晩100%まで充電して6万マイル走行した後のフォード F-150 ライトニング
   Owner Says His Battery Shows “Not One Single Percentage Point” of Degradation
 date: 2025-12-27 17:39:20.430000+00:00
 categories:
@@ -16,7 +16,7 @@ source_title: After 60,000 Miles of Charging to 100% Every Night, a Ford F-150 L
 source_id: 438104829
 excerpt: 毎夜100％充電で約9.6万km走行しても劣化率0％と診断された事例
 ---
-# 「毎晩100%充電」で6万マイル走っても“劣化ゼロ”？Ford F-150 Lightning実地検証が投げかける疑問
+# After 60,000 Miles of Charging to 100% Every Night, a Ford F-150 Lightning - 毎晩100%まで充電して6万マイル走行した後のフォード F-150 ライトニング
 
 ## 要約
 米国のF-150 Lightningオーナーが、26ヶ月・約60,000マイル（約96,000km）を毎晩100%充電で走行した結果、ディーラー診断で「バッテリー劣化は1％も見られない」と報告。従来の“満充電放置はNG”という通説に挑む実例だ。

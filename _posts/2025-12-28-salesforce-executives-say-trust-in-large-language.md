@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Salesforce Executives Say Trust in Large Language Models Has Declined"
+title: Salesforce Executives Say Trust in Large Language Models Has Declined - Salesforce幹部、大規模言語モデルへの信頼が低下したと語る
 date: 2025-12-28T04:15:07.144Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 436502215
 excerpt: "SalesforceがLLMへの信頼低下を公言、企業導入の安全対策見直しが急務"
 ---
 
-# Salesforceが認めた「信頼低下」――企業でのLLM活用が直面する現実と対策
+# Salesforce Executives Say Trust in Large Language Models Has Declined - Salesforce幹部、大規模言語モデルへの信頼が低下したと語る
 
 ## 要約
 Salesforce幹部が「大規模言語モデル（LLM）への信頼が低下した」と明言。精度・安定性・ガバナンスの課題が企業導入の足かせになっている。  

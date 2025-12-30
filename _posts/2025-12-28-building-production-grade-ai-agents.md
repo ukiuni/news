@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building production grade AI agents"
+title: Building production grade AI agents - プロダクションレベルのAIエージェントの構築
 date: 2025-12-28T17:18:54.445Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 436020791
 excerpt: "本番対応AIエージェントの実装法を、アーキテクチャ・RAG・運用・日本語特有課題まで実践的に解説"
 ---
 
-# 2025年、本番で動くAIエージェントを作るための実践ガイド
+# Building production grade AI agents - プロダクションレベルのAIエージェントの構築
 
 ## 要約
 元記事はアクセス不可（403）だったため、本稿は「Building production grade AI agents」というテーマを踏まえ、2025年の現場で使える本番対応AIエージェント構築の要点を技術的に再構成した実践ガイドです。アーキテクチャ、信頼性、スケーリング、評価までを網羅します。

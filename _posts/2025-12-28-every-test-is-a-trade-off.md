@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Every Test Is a Trade-Off
+title: Every Test Is a Trade-Off - すべてのテストはトレードオフである
 date: 2025-12-28 23:30:29.104000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Buying the Right Test Coverage (With a Deductible) — todo.space 
 source_id: 437067562
 excerpt: テストは保険料にすぎない―実運用でCI負荷と効果を測り取捨選択せよ
 ---
-# テストは「保険料」だ — 100%カバレッジの罠と賢い削り方
+# Every Test Is a Trade-Off - すべてのテストはトレードオフである
 
 ## 要約
 テストはバグを「なくす」ものではなく、失敗を安くするための投資（保険料）にすぎない。だからこそ、どのシナリオをテストするかは技術判断だけでなく経済判断でもある——無制限に増やしていいわけではない。

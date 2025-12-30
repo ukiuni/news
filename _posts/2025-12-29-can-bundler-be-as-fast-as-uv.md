@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Can Bundler Be as Fast as uv?"
+title: Can Bundler Be as Fast as uv? - Bundlerはuvと同じくらい速くなれるか？
 date: 2025-12-29T23:31:57.838Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 1062306616
 excerpt: "設計とキャッシュ改善でBundlerをuv並に実用高速化する最短手法"
 ---
 
-# Bundlerはuvの速さに追いつけるか？—Ruby界の“インストール戦争”を分解する
+# Can Bundler Be as Fast as uv? - Bundlerはuvと同じくらい速くなれるか？
 
 ## 要約
 Bundlerの遅さは「言語や実装（Rust）だけの問題」ではなく、設計上のボトルネック（ダウンロードとインストールの結合、シリアルなキューイング、キャッシュ戦略、ネイティブ拡張の扱い）によるもの。これらを潰せば「実用的にuvに近い」速度が目指せる。

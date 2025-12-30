@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maestro - Desktop AI Agent Command Center (Free/OSS)
+title: Maestro - Desktop AI Agent Command Center (Free/OSS) - Maestro - デスクトップAIエージェントコマンドセンター（無料/OSS）
 date: 2025-12-26 14:17:05.183000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Maestro - AI Agent Command Center
 source_id: 1465331008
 excerpt: 眠っている間に複数AIで自動コード生成・CI連携できるOSS指令室
 ---
-# 眠っている間にコードを書かせる指揮室 — 「Maestro」で始めるデスクトップAIエージェント運用
+# Maestro - Desktop AI Agent Command Center (Free/OSS) - Maestro - デスクトップAIエージェントコマンドセンター（無料/OSS）
 
 ## 要約
 Maestroはデスクトップ上で複数のAIコーディングエージェントを自律的に走らせ、モバイルから監視・操作できるクロスプラットフォームのオープンソース「エージェント指令センター」です。PlaybookやCLIでCIに組み込み、Git Worktreesで並列処理する点が特徴です。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are Two Heads Better Than One?
+title: Are Two Heads Better Than One? - 三人寄れば文殊の知恵（二つの頭は一つより優れているか？）
 date: 2025-12-26 04:07:01.135000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://eieio.games/blog/two-heads-arent-better-than-one/
 source_title: Are Two Heads Better Than One? · eieio.games
 source_id: 1586274099
 ---
-# [2人より1人？嘘つき2人が語る「増やしても意味がない」確率の罠]
+# Are Two Heads Better Than One? - 三人寄れば文殊の知恵（二つの頭は一つより優れているか？）
 
 ## 要約
 コイントスを見て20%嘘をつく友人が1人いると信頼して80%の正答率。もう1人を独立に追加しても、最良戦略では正答率は依然として$80\%$のまま変わらない、という逆説的な話。

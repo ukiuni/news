@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solid-state EV battery maker to go public after successful 745-mile test in $1,100,000,000 deal"
+title: Solid-state EV battery maker to go public after successful 745-mile test in $1,100,000,000 deal - 全固体EVバッテリーメーカー、745マイルのテスト成功後、11億ドルの取引で上場へ
 date: 2025-12-29T15:27:01.827Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435359753
 excerpt: "745マイル突破で固体電池が11億ドル評価の上場へ、量産化が目前に"
 ---
 
-# 745マイル突破が示す次世代EVの現実味──「固体電池」メーカー上場で何が変わるか
+# Solid-state EV battery maker to go public after successful 745-mile test in $1,100,000,000 deal - 全固体EVバッテリーメーカー、745マイルのテスト成功後、11億ドルの取引で上場へ
 
 ## 要約
 固体電池ベンチャーが実走745マイル（約1,200km）無給電走行を実証し、約11億ドル評価で上場へ。性能の裏付けと資金調達で「研究室の夢」から量産フェーズへの移行が現実味を帯びてきた。

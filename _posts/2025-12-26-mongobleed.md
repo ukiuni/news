@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MongoBleed
+title: MongoBleed - MongoBleed
 date: 2025-12-26 22:05:51.739000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: mongobleed/mongobleed.py at main · joe-desimone/mongobleed · Git
 source_id: 46394620
 excerpt: 3分でmongobleed.pyの危険箇所と実行前対策を把握する実践ガイド
 ---
-# MongoBleedを読む前に押さえるべき4つのポイント — mongobleed.pyを3分で分解する
+# MongoBleed - MongoBleed
 
 ## 要約
 GitHubのリポジトリ「joe-desimone/mongobleed」にある単一ファイルのPythonスクリプト「mongobleed.py」を、安全に・効率よく読み解き、実運用でのリスクと対策を短時間で把握するためのガイド。

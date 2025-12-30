@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Mythical Man-Month at 50"
+title: The Mythical Man-Month at 50 - 『人月の神話』50周年
 date: 2025-12-29T11:27:37.646Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435535763
 excerpt: "ソフトウェア開発は複雑性管理が命、見積りと統合を今こそ再設計せよ"
 ---
 
-# 失敗を繰り返さないための“神話”解剖：ソフトウェア開発50年後の教訓
+# The Mythical Man-Month at 50 - 『人月の神話』50周年
 
 ## 要約
 複雑性こそがソフトウェア開発の本質的な敵であり、設計・統合・テストのコストを見落とすと計画は破綻する――50年前の洞察は、クラウドやCIの時代でもなお有効だ。

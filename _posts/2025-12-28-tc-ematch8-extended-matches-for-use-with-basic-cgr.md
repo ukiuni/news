@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tc-ematch(8) extended matches for use with "basic", "cgroup" or "flow" filters
+title: tc-ematch(8) extended matches for use with "basic", "cgroup" or "flow" filters - tc-ematch(8) 「basic」、「cgroup」、「flow」フィルタで使用するための拡張マッチ
 date: 2025-12-28 17:17:20.272000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: tc-ematch(8) - Linux manual page
 source_id: 46412327
 excerpt: tc-ematchでバイト単位の精密マッチによりipsetやメタ情報で高度なトラフィック分類を実現
 ---
-# tc-ematchでパケットを“精密フィルタ”する — iproute2拡張マッチ徹底ガイド
+# tc-ematch(8) extended matches for use with "basic", "cgroup" or "flow" filters - tc-ematch(8) 「basic」、「cgroup」、「flow」フィルタで使用するための拡張マッチ
 
 ## 要約
 tc-ematchはtcの"basic", "cgroup", "flow"フィルタで使える拡張マッチ群を提供し、パケット内部のバイト比較やメタ情報、ipset/xtablesやCANなど多彩な条件でパケットを精密に選別できます。

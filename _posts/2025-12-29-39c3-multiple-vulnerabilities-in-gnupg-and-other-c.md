@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "39C3: Multiple vulnerabilities in GnuPG and other cryptographic tools"
+title: 39C3: Multiple vulnerabilities in GnuPG and other cryptographic tools - 39C3：GnuPGおよびその他の暗号ツールにおける複数の脆弱性
 date: 2025-12-29T19:30:36.262Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435172708
 excerpt: "GnuPGなどで署名偽装やANSI注入の実装脆弱が判明、今すぐ確認せよ"
 ---
 
-# GnuPGほか暗号ツールに潜む「実装の穴」——あなたの署名・暗号運用が破られる瞬間
+# 39C3: Multiple vulnerabilities in GnuPG and other cryptographic tools - 39C3：GnuPGおよびその他の暗号ツールにおける複数の脆弱性
 
 ## 要約
 39C3で発表された調査により、GnuPGやSequoia-PGP、Minisign、ageなど主要な暗号ツールに実装上の脆弱性が複数見つかり、署名検証の誤表示や端末を騙すANSI注入、プラグイン経由で任意実行される危険があることが明らかになりました。

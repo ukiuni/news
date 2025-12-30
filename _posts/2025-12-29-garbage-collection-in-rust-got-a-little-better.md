@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Garbage collection in Rust got a little better"
+title: Garbage collection in Rust got a little better - Rustのガベージコレクションが少し改善された
 date: 2025-12-29T16:27:27.670Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 959856699
 excerpt: "dumpsterでRustの動的trait対応GCと自己参照生成が安全に効率化"
 ---
 
-# RustにGCを持ち込む試みがさらに実用的に — dumpsterの最近の改良点
+# Garbage collection in Rust got a little better - Rustのガベージコレクションが少し改善された
 
 ## 要約
 Rust製のガベージコレクタライブラリ「dumpster」が、動的ディスパッチ対応（dyn互換）と自己参照オブジェクト生成の利便性を大幅に改善した。性能を犠牲にせず「安全に」循環参照を扱える点が最大の特徴。

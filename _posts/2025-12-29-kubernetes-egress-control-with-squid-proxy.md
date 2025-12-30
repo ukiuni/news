@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kubernetes egress control with squid proxy"
+title: Kubernetes egress control with squid proxy - SquidプロキシによるKubernetesのエグレス制御
 date: 2025-12-29T12:30:51.718Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46419659
 excerpt: "Squid＋NetworkPolicyでKubernetesの外向き通信を可視化し強制する簡単手法"
 ---
 
-# クラスタが「何と話しているか」を丸裸にする方法 — Squid＋NetworkPolicyで実現する最小限のKubernetes Egress制御
+# Kubernetes egress control with squid proxy - SquidプロキシによるKubernetesのエグレス制御
 
 ## 要約
 Squidプロキシをクラスタ内に立て、ワークロードにHTTP_PROXY/HTTPS_PROXYを渡してNetworkPolicyで直接egressを遮断するだけで、外向き通信の可視化と強制をシンプルに実現できる。

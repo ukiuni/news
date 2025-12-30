@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Schwarzschild Geodesic Visualization in C++/WebAssembly
+title: Schwarzschild Geodesic Visualization in C++/WebAssembly - C++/WebAssemblyによるシュヴァルツシルト測地線の可視化
 date: 2025-12-26 04:07:51.575000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://schwarzschild-vercel.vercel.app/
 source_title: Schwarzschild Geodesics | Advanced Simulation
 source_id: 438037009
 ---
-# ブラックホールの「陰」と光の舞いを可視化する — C++/WebAssemblyで動くシュワルツシルト測地線トレーサーを遊んでみよう
+# Schwarzschild Geodesic Visualization in C++/WebAssembly - C++/WebAssemblyによるシュヴァルツシルト測地線の可視化
 
 ## 要約
 C++で実装しWebAssemblyにコンパイルしたインタラクティブなシュワルツシルト空間の光線トレーサー。観測点やインパクトパラメータを変えながら、事象の地平線・光子球・降着円盤といった一般相対論的な効果をリアルタイムで可視化できる。

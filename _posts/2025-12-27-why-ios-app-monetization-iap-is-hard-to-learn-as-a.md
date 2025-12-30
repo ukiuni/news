@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why iOS app monetization (IAP) is hard to learn as a system
+title: Why iOS app monetization (IAP) is hard to learn as a system - なぜiOSアプリの収益化（IAP）をシステムとして学ぶのが難しいのか
 date: 2025-12-27 13:42:08.047000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: developer-experience-paper/en/article/main.md at main · mnrj-vv-w
 source_id: 436908879
 excerpt: IAPはStoreKit・サーバー・運用規則が絡む実践必須の複雑系—失敗を避けるチェックリスト付き
 ---
-# iOS IAPが「体系的に」学べない本当の理由 — 開発者が直面する落とし穴と即実践できる対策
+# Why iOS app monetization (IAP) is hard to learn as a system - なぜiOSアプリの収益化（IAP）をシステムとして学ぶのが難しいのか
 
 ## 要約
 iOSのアプリ内課金（IAP）はAPIの表層だけでなく、App Store側のルール、サーバー設計、テスト環境、ビジネスロジックが密に絡むため、単一の技術として学ぶだけでは立ち行かない。体系的な理解と実地での検証が必須になる。

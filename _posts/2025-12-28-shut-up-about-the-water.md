@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shut Up About the Water
+title: Shut Up About the Water - 水の話はやめてくれ
 date: 2025-12-28 17:18:09.637000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Shut Up About the Water - by Joshua - Pretty Good Blog
 source_id: 46412007
 excerpt: 水や電力の問題に留まらず、AIのデータ搾取と注意経済の偽善を暴く
 ---
-# 「“水が原因”は言い訳だ」——AIとテック業界の偽善を斬る
+# Shut Up About the Water - 水の話はやめてくれ
 
 ## 要約
 AIの環境負荷や資源消費を問題視する声は正当だが、その主張がテック業界自身の長年の「価値観の暴露」から切り離されて語られると説得力を失う──という痛烈な批判。

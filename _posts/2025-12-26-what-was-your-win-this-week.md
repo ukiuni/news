@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What was your win this week???
+title: What was your win this week??? - 今週のあなたの成果は何でしたか？
 date: 2025-12-26 04:02:11.790000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://dev.to/devteam/what-was-your-win-this-week-1d6c
 source_title: What was your win this week??? - DEV Community
 source_id: 3055168
 ---
-# 「今週の“勝ち”を教えて」――開発者コミュニティでモチベーションを保つ“週次の勝利”習慣
+# What was your win this week??? - 今週のあなたの成果は何でしたか？
 
 ## 要約
 DEVの投稿「What was your win this week???」は、大小問わず週ごとの「勝ち」を共有することで社区的エンゲージメントと個人のモチベーションを高める呼びかけ。単なる雑談ではなく、心理的安全性や継続的改善につながるシンプルな習慣だ。

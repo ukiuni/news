@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You can't design software you don't work on"
+title: You can't design software you don't work on - 自分が関わっていないソフトウェアを設計することはできない
 date: 2025-12-27T13:41:23.721Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 1624220458
 excerpt: "現場のコードに触れない設計論は意味がない—実務で使える設計の具体策を示す"
 ---
 
-# 設計は机上の空論じゃない — コードに触れない人は本当のソフトウェア設計に関われない理由
+# You can't design software you don't work on - 自分が関わっていないソフトウェアを設計することはできない
 
 ## 要約
 大規模な既存システムの設計は、実際にそのコードを毎日扱うエンジニアだけが意味ある判断を下せる。一般論は参考にしかならず、現実の制約が設計を決める。

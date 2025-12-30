@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gleam v1.14 - the happy holidays release 2025
+title: Gleam v1.14 - the happy holidays release 2025 - Gleam v1.14 - ハッピーホリデーリリース 2025
 date: 2025-12-26 04:00:16.502000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://gleam.run/news/the-happy-holidays-2025-release/
 source_title: The happy holidays release 2025 🎁 | Gleam programming language
 source_id: 876283838
 ---
-# Gleam v1.14 がもたらす年末の小さな革命 — BEAM/JS 両刀の型精度がさらに高速・安全に
+# Gleam v1.14 - the happy holidays release 2025 - Gleam v1.14 - ハッピーホリデーリリース 2025
 
 ## 要約
 Gleam v1.14 は外部型への注釈サポートや、整数セグメントを含むパターン照合最適化の拡張、数値表記の正規化などを導入し、BEAM と JavaScript 間の型連携とパターン照合の性能・正確性を改善します。

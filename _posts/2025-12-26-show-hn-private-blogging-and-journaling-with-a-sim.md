@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Show HN: Private blogging and journaling with a simulated audience'
+title: Show HN: Private blogging and journaling with a simulated audience - Show HN: 擬似的な観客がいるプライベートなブログとジャーナリング
 date: 2025-12-26 17:13:09.961000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: TanStack Start Starter
 source_id: 46393262
 excerpt: この記事の詳細をチェック
 ---
-# プライベート日記を「読まれる前提」で書けるサービス — 擬似オーディエンスで筆が進むTempBlogの使いどころ
+# Show HN: Private blogging and journaling with a simulated audience - Show HN: 擬似的な観客がいるプライベートなブログとジャーナリング
 
 ## 要約
 自分だけのプライベートブログ/日記を、あえて「擬似オーディエンス（読者）」を用意して書けるTempBlog。データを自分で管理できる自己ホスト前提の設計でプライバシーを重視している。

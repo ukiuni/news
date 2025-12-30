@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52
+title: Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 - Langjam-Gamejam 開発ログ：52時間で言語、コンパイラ、VM、そして5つのゲームを作る
   hours'
 date: 2025-12-27 08:39:21.483000+00:00
 categories:
@@ -14,7 +14,7 @@ source_title: gar-lang/DEVLOG.md at main · Syn-Nine/gar-lang · GitHub
 source_id: 46348251
 excerpt: 52時間で言語・コンパイラ・VMと5本のゲームを作り上げた高速プロトタイプ術を実践的に解説
 ---
-# 52時間で言語・コンパイラ・VM・5本のゲームを作った男のジャム記録 — 「gar」から学ぶ速習システム開発
+# Langjam-Gamejam Devlog: Making a language, compiler, VM and 5 games in 52 - Langjam-Gamejam 開発ログ：52時間で言語、コンパイラ、VM、そして5つのゲームを作る
 
 ## 要約
 言語設計からコンパイラ、VM、そしてそれを使った5本のゲームまでを52時間で実装した挑戦記。ミニマムな設計と反復で「動くもの」を最短で作る手法が参考になる。

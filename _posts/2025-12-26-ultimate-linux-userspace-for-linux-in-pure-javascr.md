@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ultimate-Linux: Userspace for Linux in Pure JavaScript'
+title: Ultimate-Linux: Userspace for Linux in Pure JavaScript - Ultimate-Linux：純粋なJavaScriptによるLinuxユーザー空間
 date: 2025-12-26 05:08:19.197000+00:00
 categories:
 - tech
@@ -15,7 +15,7 @@ source_title: 'GitHub - popovicu/ultimate-linux: The Ultimate Linux micro distri
 source_id: 46388700
 excerpt: JavaScriptで最小限Linuxユーザースペースを再現し設計知見を得る実験
 ---
-# Linuxの“末端”をJavaScriptで再発明──Ultimate-Linuxが教える「ユーザースペースは言語を超える」という実験
+# Ultimate-Linux: Userspace for Linux in Pure JavaScript - Ultimate-Linux：純粋なJavaScriptによるLinuxユーザー空間
 
 ## 要約
 JavaScript（＋ごく少量のC）で最小限のLinuxユーザースペースを実装した実験プロジェクト。ls, cd, cat, mkdir, mount, exit といった基本コマンドをJSで再現し、カーネルとユーザースペースの境界や設計契約を考えさせる。

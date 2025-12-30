@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How AI Could Cause Social Security to Run Out of Money Sooner Than Expected"
+title: How AI Could Cause Social Security to Run Out of Money Sooner Than Expected - AIがいかにして社会保障資金を予想より早く枯渇させる可能性があるか
 date: 2025-12-27T04:05:54.695Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 437221201
 excerpt: "AIの普及で年金保険料基盤が縮小し財政破綻が前倒しされる危機と対応策を解説"
 ---
 
-# AIが年金を「先食い」する日 — 社会保障の資金枯渇が想定より早まる可能性と日本への示唆
+# How AI Could Cause Social Security to Run Out of Money Sooner Than Expected - AIがいかにして社会保障資金を予想より早く枯渇させる可能性があるか
 
 ## 要約
 AIによる自動化は労働所得の総額や労働分配率を押し下げ、給与に課される社会保険料収入を減らすことで、社会保障（年金）基金の枯渇を早めるリスクがある。一方で成長効果や労働参加率の改善で相殺される可能性もあり、結論は政策設計次第で変わる。

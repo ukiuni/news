@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I stayed in a $40 capsule hotel (London)
+title: I stayed in a $40 capsule hotel (London) - 40ドルのカプセルホテルに泊まってみた（ロンドン）
 date: 2025-12-28 13:14:50.839000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'Zedwell Capsule Hotel: I stayed in a London sleeping pod'
 source_id: 46357654
 excerpt: ロンドンで1m×1mカプセルが£30、都心短期滞在と働き方の新常識を体験
 ---
-# ロンドンで見た「1m×1m」の宿泊革命：£30カプセルが示す都市とワークスタイルの未来
+# I stayed in a $40 capsule hotel (London) - 40ドルのカプセルホテルに泊まってみた（ロンドン）
 
 ## 要約
 ロンドン中心部に開業したZedwellのカプセルホテルは、ほぼ1000室の1m×1mのスリーピングポッドで低価格帯の空間需要を掘り起こしている。リモートワークからの都心回帰や不動産コスト上昇を背景に、宿泊・都市インフラの設計と運用に示唆を与える事例だ。

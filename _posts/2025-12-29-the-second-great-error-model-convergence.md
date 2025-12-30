@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Second Great Error Model Convergence"
+title: The Second Great Error Model Convergence - 第二の偉大なるエラーモデルの収束
 date: 2025-12-29T14:28:08.930Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 1365869258
 excerpt: "呼び出し側で失敗を明示するエラー値設計が再評価され、API改修と運用信頼性を強化"
 ---
 
-# 第2のエラーモデル収束 — なぜ今「エラーを値にする」設計が再び勝ち組になったのか
+# The Second Great Error Model Convergence - 第二の偉大なるエラーモデルの収束
 
 ## 要約
 最近の言語群は例外ベースの古い合意から離れ、呼び出し側で失敗可能性を明示する「エラーが値である」モデルへと収束している。これは型安全性、API設計、運用の観点で明確な利点を生んでいる。

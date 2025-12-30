@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ancient Greek geometry
+title: Ancient Greek geometry - 古代ギリシャの幾何学
 date: 2025-12-26 11:24:15.448000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: ANCIENT GREEK GEOMETRY
 source_id: 1384095021
 excerpt: 直感操作で古代ギリシャ幾何を制約パズル感覚で学べる実践的ブラウザ体験
 ---
-# 古代ギリシャの幾何学を指先で再発見 — インタラクティブ「Ancient Greek Geometry」体験ガイド
+# Ancient Greek geometry - 古代ギリシャの幾何学
 
 ## 要約
 ブラウザ上で古代ギリシャの幾何学を遊びながら学べるインタラクティブ作品。直感的な操作と「制約内で解く」ゲーム性で、理論と手を動かす学習が同時にできる。

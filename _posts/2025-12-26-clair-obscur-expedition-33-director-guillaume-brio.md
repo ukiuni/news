@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clair Obscur: Expedition 33 director Guillaume Brioche admits Sandfall "tried"
+title: Clair Obscur: Expedition 33 director Guillaume Brioche admits Sandfall "tried - Clair Obscur: Expedition 33のディレクターGuillaume Brioche氏、Sandfallが「試みた」ことを認める
   AI during the J''RPG''s development, but "didn''t like it" and "everything in the
   game is human made"'
 date: 2025-12-26 23:06:14.229000+00:00
@@ -17,7 +17,7 @@ source_title: 'Clair Obscur: Expedition 33 director admits Sandfall "tried" AI d
 source_id: 437453821
 excerpt: Clair Obscur開発陣がAI試用を断念、最終成果は全て人の手で制作と明言し透明性議論に火
 ---
-# 「AIを“試した”けど使わなかった」――Clair Obscur開発陣が示した“生成AIとの距離感”が日本のゲーム/開発現場に突きつける課題
+# Clair Obscur: Expedition 33 director Guillaume Brioche admits Sandfall "tried - Clair Obscur: Expedition 33のディレクターGuillaume Brioche氏、Sandfallが「試みた」ことを認める
 
 ## 要約
 Clair Obscur: Expedition 33のディレクター、Guillaume Brioche氏は開発中に生成系AIを試したが最終的に不採用にし、「ゲーム内のすべては人の手による」と明言。インディー界隈での賞取り消しや議論と合わせ、AI活用の是非と透明性が改めて問題化している。

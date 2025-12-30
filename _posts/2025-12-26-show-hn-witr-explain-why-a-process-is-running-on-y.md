@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Show HN: Witr – Explain why a process is running on your Linux system'
+title: Show HN: Witr – Explain why a process is running on your Linux system - Show HN: Witr – Linuxシステムでプロセスが実行されている理由を説明する
 date: 2025-12-26 23:07:30.380000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'GitHub - pranshuparmar/witr: Why is this running?'
 source_id: 46392910
 excerpt: WitrでLinuxのプロセスをPIDから原因チェーンで即解析、原因把握を高速化
 ---
-# 謎のプロセスを一発で突き止める — Witrで「なぜ動いているか」を可視化する
+# Show HN: Witr – Explain why a process is running on your Linux system - Show HN: Witr – Linuxシステムでプロセスが実行されている理由を説明する
 
 ## 要約
 Witrは、Linux上で動いているプロセス・サービス・ポートなどに対して「なぜそれが動いているのか（原因の連鎖）」を自動で解析し、人が理解できる形で説明するCLIツールです。

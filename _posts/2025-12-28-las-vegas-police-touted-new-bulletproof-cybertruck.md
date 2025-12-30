@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Las Vegas Police Touted New “Bulletproof” Cybertrucks. The Only Problem? They
+title: Las Vegas Police Touted New “Bulletproof” Cybertrucks. The Only Problem? They - ラスベガス警察が新しい「防弾」サイバートラックを宣伝。唯一の問題は？
   Aren’t Bulletproof
 date: 2025-12-28 14:26:17.209000+00:00
 categories:
@@ -15,7 +15,7 @@ source_title: Las Vegas Police Touted New “Bulletproof” Cybertrucks. The Onl
 source_id: 436188790
 excerpt: 防弾とされたラスベガスのCybertruck、窓やドアは実弾で貫通され安全性は宣伝と乖離
 ---
-# ラスベガス警察の「防弾サイバートラック」は本当に安全か？――宣伝と実態のギャップを掘る
+# Las Vegas Police Touted New “Bulletproof” Cybertrucks. The Only Problem? They - ラスベガス警察が新しい「防弾」サイバートラックを宣伝。唯一の問題は？
 
 ## 要約
 ラスベガス警察が導入を発表した「防弾」とされたTesla Cybertruck、だが工場出荷状態のドアやガラスは銃弾に対して脆弱で、実験映像や流出事例がそれを裏付ける。宣伝と実際の防護性能の差を検証する必要がある。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7 Lies Developers Keep Telling Themselves (And Somehow Still Believe)
+title: 7 Lies Developers Keep Telling Themselves (And Somehow Still Believe) - 開発者が自分自身に言い聞かせ続け（そしてなぜかまだ信じている）7つの嘘
 date: 2025-12-26 04:01:33.660000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 7 Lies Developers Keep Telling Themselves (And Somehow Still Belie
   - DEV Community
 source_id: 3119494
 ---
-# エンジニアが無自覚に信じる「7つの嘘」 — プロジェクトを救う現実認識ガイド
+# 7 Lies Developers Keep Telling Themselves (And Somehow Still Believe) - 開発者が自分自身に言い聞かせ続け（そしてなぜかまだ信じている）7つの嘘
 
 ## 要約
 開発現場で繰り返される7つの自己欺瞞を挙げ、実務での落とし穴と対処法を短く解説する。ちょっとした習慣で遅延・品質問題を防げる。

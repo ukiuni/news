@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publishing your work increases your luck
+title: Publishing your work increases your luck - 作品を公開することはあなたの運を向上させる
 date: 2025-12-27 04:06:21.342000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Publishing your work increases your luck · GitHub
 source_id: 46397991
 excerpt: 作品を公開して求人・コラボ・登壇などの運を増やす、即実践できる具体手順
 ---
-# 公開するほど「運」が増える理由 — エンジニアが今すぐ始めるパブリッシュ戦略
+# Publishing your work increases your luck - 作品を公開することはあなたの運を向上させる
 
 ## 要約
 作品を公開することで「幸運が訪れる確率」を増やせる。公開は偶然の出会い（チャンス）の母数を増やすシンプルかつ実行可能な戦術だ。

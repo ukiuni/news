@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The internet just made a 300TB copy of Spotify! (Updated: Spotify reaction)'
+title: The internet just made a 300TB copy of Spotify! (Updated: Spotify reaction) - インターネットがSpotifyの300TBのコピーを作成！（更新：Spotifyの反応）
 date: 2025-12-26 09:10:02.666000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Someone just archived all of Spotify, and it's already on torrents
 source_id: 440572609
 excerpt: 300TB級のSpotify全曲流出主張が著作権と日本市場に衝撃
 ---
-# 300TBで“Spotify丸ごと”が公開？――音楽アーカイブ流出の真相と日本への影響
+# The internet just made a 300TB copy of Spotify! (Updated: Spotify reaction) - インターネットがSpotifyの300TBのコピーを作成！（更新：Spotifyの反応）
 
 ## 要約
 Anna’s ArchiveがSpotifyのほぼ全データをスクレイプして約300TBのアーカイブをトレントで配布したと主張。メタデータは2.56億トラック、音声は8600万曲とされ、Spotifyは不正スクレイピングと一部オーディオへのDRM回避を指摘してアカウント無効化を公表した。

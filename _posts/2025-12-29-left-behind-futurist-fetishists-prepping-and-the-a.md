@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Left Behind: Futurist Fetishists, Prepping and the Abandonment of Earth"
+title: Left Behind: Futurist Fetishists, Prepping and the Abandonment of Earth - 置き去りにされて：未来派フェティシスト、プレッピング、そして地球の放棄
 date: 2025-12-29T21:28:42.850Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46424217
 excerpt: "億万長者の「脱出」とテックが招く不平等を暴き、公共的レジリエンス設計の必要性を突きつける"
 ---
 
-# エリートの「脱出願望」とテクノロジーの危うい結びつき：なぜ今、終末準備がテック界を考えさせるのか
+# Left Behind: Futurist Fetishists, Prepping and the Abandonment of Earth - 置き去りにされて：未来派フェティシスト、プレッピング、そして地球の放棄
 
 ## 要約
 富裕層や一部のコミュニティによる「終末準備（prepping）」とそれを支える最新テクノロジーは、単なる奇行ではなく、社会的・技術的な不平等と倫理の問題を露呈している──日本のテック現場にも関係する重要な論点だ。

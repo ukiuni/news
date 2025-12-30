@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "China debuts 'world’s first' million-ton hydrogen-electric steel line"
+title: China debuts 'world’s first' million-ton hydrogen-electric steel line - 中国、「世界初」の100万トン級水素電気製鉄ラインを公開
 date: 2025-12-26T23:06:53.944Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 437597076
 excerpt: "中国が年産100万トンの水素・電気炉製鉄を実装、CO2大幅削減と日本産業への影響を示す"
 ---
 
-# 中国が稼働させた「世界初」年産100万トン水素–電気製鉄ライン――日本の産業に迫る衝撃
+# China debuts 'world’s first' million-ton hydrogen-electric steel line - 中国、「世界初」の100万トン級水素電気製鉄ラインを公開
 
 ## 要約
 中国・宝武（Baowu）と日立系が関わる湛江の年産100万トン規模の「水素ベース＋電気炉」製鉄ラインが本稼働。従来高炉と比べて50〜80%のCO2削減を掲げ、年間で数百万トン規模の排出削減を見込む大規模実装例だ。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sendspin: Music Experience Protocol"
+title: Sendspin: Music Experience Protocol - Sendspin：音楽体験プロトコル
 date: 2025-12-26T10:26:13.530Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 1166264658
 excerpt: "Sendspinで家中の音楽と照明をミリ秒同期、閉鎖系に代わるオープン規格"
 ---
 
-# [オープンで同期する「音の体験」──Sendspinが切り拓くマルチルーム音響の未来]
+# Sendspin: Music Experience Protocol - Sendspin：音楽体験プロトコル
 
 ## 要約
 SendspinはOpen Home Foundationが提案する、スピーカー、照明、画面を連携させる「音楽体験のためのオープン規格」。同期再生、メタデータ共有、将来的なライト連動表示までを視野に入れたプロトコルです。

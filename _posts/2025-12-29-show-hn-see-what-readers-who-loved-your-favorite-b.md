@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Show HN: See what readers who loved your favorite book/author also loved to read"
+title: Show HN: See what readers who loved your favorite book/author also loved to read - Show HN: お気に入りの本や著者を愛する読者が他に何を読んでいるかを見る
 date: 2025-12-29T15:28:56.151Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46419822
 excerpt: "読者投票で割り出す、あなたに刺さる次の一冊を発見、個人ページや絞り込みで今すぐ見つかる"
 ---
 
-# 読書コミュニティが選んだ“本当に面白い”2025年ベストリスト — あなたの次の一冊はこれだ
+# Show HN: See what readers who loved your favorite book/author also loved to read - Show HN: お気に入りの本や著者を愛する読者が他に何を読んでいるかを見る
 
 ## 要約
 693人の読者が投稿した「2025年のベスト3」を集計し、「この本を好きな人は他に何を読んでいるか」を可視化するサービスの紹介。個人ページ、ジャンル絞り込み、共有可能なレコメンド機能が特徴。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The HTML Elements Time Forgot
+title: The HTML Elements Time Forgot - 時間が忘れ去ったHTML要素
 date: 2025-12-26 04:03:35.656000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://htmhell.dev/adventcalendar/2025/22/
 source_title: The HTML Elements Time Forgot - HTMHell
 source_id: 1124897989
 ---
-# 忘れられたHTMLタグ大全 — 社内システムにも潜む“使ってはいけない”遺産を見抜く
+# The HTML Elements Time Forgot - 時間が忘れ去ったHTML要素
 
 ## 要約
 かつてブラウザ黎明期に登場した奇妙で時代遅れのHTML要素を振り返り、現代の置き換え方や日本の現場でのリスクを簡潔に整理する。

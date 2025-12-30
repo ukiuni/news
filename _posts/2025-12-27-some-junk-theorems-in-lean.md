@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Junk Theorems in Lean
+title: Some Junk Theorems in Lean - Leanにおけるいくつかのジャンク定理
 date: 2025-12-27 12:39:23.472000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'GitHub - James-Hanson/junk-theorems-in-lean: A small collection o
 source_id: 46364567
 excerpt: Lean/Mathlibで証明できる直感外の定理群の原因と対策を解説
 ---
-# Leanで証明された「ジャンク定理」集――型理論が生む直感と齟齬の正体
+# Some Junk Theorems in Lean - Leanにおけるいくつかのジャンク定理
 
 ## 要約
 Lean4 + Mathlibで形式化された「意味不明」に見える定理群を紹介し、なぜ生じるのかを技術的に解説する。形式化の落とし穴を知ることで、実務的な検証・設計判断に役立てられる。

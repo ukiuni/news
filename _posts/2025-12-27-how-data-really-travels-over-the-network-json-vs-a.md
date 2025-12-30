@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Data Really Travels Over the Network (JSON vs Avro vs Protobuf)"
+title: How Data Really Travels Over the Network (JSON vs Avro vs Protobuf) - データが実際にネットワーク上をどのように移動するか (JSON vs Avro vs Protobuf)
 date: 2025-12-27T20:40:13.102Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 437979378
 excerpt: "帯域・CPU・互換性で差が出るJSON・Avro・Protobufの実務的選び方と計測手法を解説"
 ---
 
-# ネットワークで「本当に」データはどう移動するか — JSON vs Avro vs Protobuf、現場での選び方
+# How Data Really Travels Over the Network (JSON vs Avro vs Protobuf) - データが実際にネットワーク上をどのように移動するか (JSON vs Avro vs Protobuf)
 
 ## 要約
 テキスト系のJSONと、スキーマ駆動のAvro／Protobufは「見た目」以上に通信コスト・パースコスト・互換性で差が出る。用途（公開API／社内高スループット／ストリーミング）に応じた選択基準を示す。

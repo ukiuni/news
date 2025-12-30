@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Animating Quines for Larva Labs
+title: Animating Quines for Larva Labs - Larva Labsのためのクワインのアニメーション化
 date: 2025-12-26 08:10:11.268000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Animating Quines for Larva Labs - Jonnie Hallman (@destroytoday)
 source_id: 46354187
 excerpt: Quineのピクセル生成を滑らかに動かすSVG→Canvasとグループ化最適化の手法
 ---
-# コードが描くピクセル：Larva Labsの「Quine」を高速アニメ化した舞台裏
+# Animating Quines for Larva Labs - Larva Labsのためのクワインのアニメーション化
 
 ## 要約
 Larva Labsの生成アート「Quine」は、ピクセルの見た目の中に実行可能なコードを埋め込み、世代ごとに自己参照する動作を持つ。大量のSVG要素を滑らかに動かすため、SVGからCanvasへの切替えとグループ化アプローチでパフォーマンスを確保した話。

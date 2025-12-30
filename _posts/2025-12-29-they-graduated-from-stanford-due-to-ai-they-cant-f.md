@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "They graduated from Stanford. Due to AI, they can’t find a job"
+title: They graduated from Stanford. Due to AI, they can’t find a job - 彼らはスタンフォードを卒業した。AIのせいで仕事が見つからない
 date: 2025-12-29T14:25:55.222Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435452893
 excerpt: "AIの普及で大量採用が消滅、スタンフォード卒でも実務経験とAI協働力がない若手は就職難"
 ---
 
-# スタンフォード卒でも「就職できない」時代が来た：AIが出す新しい選抜基準
+# They graduated from Stanford. Due to AI, they can’t find a job - 彼らはスタンフォードを卒業した。AIのせいで仕事が見つからない
 
 ## 要約
 AIのコーディング能力向上で、従来の「新卒エンジニア大量採用モデル」が崩壊。トップ校卒でも、製品経験やAIとの協働スキルがない若手は競争から漏れ始めている。

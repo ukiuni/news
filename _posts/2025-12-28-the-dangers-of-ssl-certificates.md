@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The dangers of SSL certificates
+title: The dangers of SSL certificates - SSL証明書の危険性
 date: 2025-12-28 12:14:53.802000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: The dangers of SSL certificates – Surfing Complexity
 source_id: 1147114848
 excerpt: BazelのSSL証明書期限切れ事故が示す、自動更新の落とし穴と現場で今すぐ使える対策
 ---
-# SSL証明書は「静かに止まる爆弾」――Bazel障害が教える期限切れリスクと現場対策
+# The dangers of SSL certificates - SSL証明書の危険性
 
 ## 要約
 GoogleのBazelで発生したレジストリ用SSL証明書の期限切れ障害は、証明書の「突然死」リスクと自動更新運用の落とし穴を端的に示す事例だ。自動化に依存するほど、障害時の対応経験がチームに蓄積されず、全ユーザーに一斉障害をもたらす。

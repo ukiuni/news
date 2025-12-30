@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multiscale Aperture Synthesis Imager
+title: Multiscale Aperture Synthesis Imager - マルチスケール開口合成イメージャー
 date: 2025-12-28 08:16:13.713000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Multiscale aperture synthesis imager | Nature Communications
 source_id: 46389418
 excerpt: レンズ不要の分散センサと計算で長距離・広視野におけるサブミクロン解像を実現する新合成開口イメージング
 ---
-# レンズを捨てて“合成開口”でサブミクロンを狙う — MASIが開く新しい光学イメージングの地平
+# Multiscale Aperture Synthesis Imager - マルチスケール開口合成イメージャー
 
 ## 要約
 光学波長帯での合成開口を、物理的な干渉器なしに実用化する「Multiscale Aperture Synthesis Imager（MASI）」が提案された。分散配置の符号化センサ群と多段の計算的位相同期で、長距離・広視野・高解像を両立する。

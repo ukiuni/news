@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Show HN: Pion SCTP with RACK is 70% faster with 30% less latency'
+title: Show HN: Pion SCTP with RACK is 70% faster with 30% less latency - Show HN: RACKを使用したPion SCTPは70%高速化し、レイテンシが30%減少
 date: 2025-12-28 22:18:19.109000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: RACK makes Pion SCTP 71% faster with 27% less latency | Pion
 source_id: 46413053
 excerpt: PionSCTPにRACK導入で同CPU約71%高速化、遅延約27%減
 ---
-# Pion SCTPにRACKを入れたら「同じCPUで約71%高速化、遅延は約27%低下」—WebRTC周りの現場で見逃せない改善
+# Show HN: Pion SCTP with RACK is 70% faster with 30% less latency - Show HN: RACKを使用したPion SCTPは70%高速化し、レイテンシが30%減少
 
 ## 要約
 PionのSCTP実装にRFC 8985で定義されたRACK（Rack-TLP）を導入すると、単体ベンチで「goodput/CPUで約$71\%$向上、p50遅延が約$27\%$改善」など大幅な性能改善が確認されました。

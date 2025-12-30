@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Data centres: The new tech stopping chips from overheating'
+title: Data centres: The new tech stopping chips from overheating - データセンター：チップの過熱を防ぐ新技術
 date: 2025-12-26 09:17:53.521000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'Data centres: The new tech stopping chips from overheating'
 source_id: 438730260
 excerpt: AI時代の高熱問題を液体・浸漬冷却で克服し、廃熱利活用と環境リスクに挑む最前線
 ---
-# 芯から冷やす未来へ──発熱するAI時代を支える「液体冷却」の衝撃
+# Data centres: The new tech stopping chips from overheating - データセンター：チップの過熱を防ぐ新技術
 
 ## 要約
 データセンターの発熱問題を解決する次世代冷却技術、特に液体・浸漬（イマージョン）冷却が注目を集めている。従来の空冷では追いつかない高性能チップの熱を効率的に回収し、エネルギー・水使用や環境リスクをどう抑えるかが課題だ。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Compiler Is Your Best Friend, Stop Lying to It
+title: The Compiler Is Your Best Friend, Stop Lying to It - コンパイラはあなたの親友です、嘘をつくのはやめましょう
 date: 2025-12-26 03:55:09.068000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: The Compiler Is Your Best Friend, Stop Lying to It - Daniel Beskin
   Blog
 source_id: 438247008
 ---
-# 深夜のPagerを防ぐ技術：コンパイラを味方につけて「嘘」をやめるだけで事故が減る
+# The Compiler Is Your Best Friend, Stop Lying to It - コンパイラはあなたの親友です、嘘をつくのはやめましょう
 
 ## 要約
 コンパイラはただの変換器ではなく、設計ミスや不整合を早期に示してくれる「味方」。コードでコンパイラに嘘をつく（nullを飼い慣らす、無理なキャスト、例外を隠す、副作用を放置する）とランタイム障害につながる。これをやめ、型やコンパイラの警告を活用する実践を紹介する。

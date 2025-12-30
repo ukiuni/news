@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code Mode Doesn't Replace MCP (Here's What It Actually Does)
+title: Code Mode Doesn't Replace MCP (Here's What It Actually Does) - コードモードはMCPを置き換えるものではない（実際に行うことはこちら）
 date: 2025-12-26 15:28:49.264000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Code Mode Doesn't Replace MCP (Here's What It Actually Does) - DEV
 source_id: 3119535
 excerpt: Code Modeはローカル編集に特化、MCPで安全な外部連携と拡張を実現
 ---
-# Code ModeはMCPを奪わない — 「何を任せ、何を繋ぐか」がこれからのエージェント設計を決める
+# Code Mode Doesn't Replace MCP (Here's What It Actually Does) - コードモードはMCPを置き換えるものではない（実際に行うことはこちら）
 
 ## 要約
 Code Modeはローカルなコード操作で高速に働く一方、MCP（Model Context Protocol）が担う外部アプリ連携や拡張性を置き換えるものではない。適材適所で使い分けることが実務での生産性と安定性を保つ鍵だ、というのが元記事の主張です。

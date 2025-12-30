@@ -1,6 +1,6 @@
 ---
 layout: post
-title: US disrupts multimillion-dollar bank account takeover operation targeting Americans
+title: US disrupts multimillion-dollar bank account takeover operation targeting Americans - 米国、アメリカ人を標的とした数百万ドル規模の銀行口座乗っ取り作戦を阻止
 date: 2025-12-26 03:51:26.071000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: US disrupts multimillion-dollar bank account takeover operation ta
   Americans | The Record from Recorded Future News
 source_id: 438438603
 ---
-# 検索広告を悪用した“口座乗っ取り”作戦を米国が壊滅 — 日本でも他人事ではない理由
+# US disrupts multimillion-dollar bank account takeover operation targeting Americans - 米国、アメリカ人を標的とした数百万ドル規模の銀行口座乗っ取り作戦を阻止
 
 ## 要約
 米司法省が偽の検索広告と偽銀行ページで数千万ドルを奪っていた犯罪サイト（web3adspanels.org）を差し押さえ、数千件分のログイン情報を管理する「コントロールパネル」を封鎖しました。手口は検索エンジン広告を使った正規銀行の完全な偽装です。

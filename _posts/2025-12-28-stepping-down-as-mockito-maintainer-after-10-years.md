@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stepping down as Mockito maintainer after 10 years
+title: Stepping down as Mockito maintainer after 10 years - 10年務めたMockitoのメンテナを退任
 date: 2025-12-28 21:16:38.607000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'Stepping down as maintainer after 10 years · Issue #3777 · mock
 source_id: 46414078
 excerpt: Mockitoの主要メンテが10年で辞任、JVMエージェント化とKotlin負荷で互換性に警戒を促す
 ---
-# Mockitoのキーマンが辞任宣言 — 10年の節目が示すオープンソース維持の現実
+# Stepping down as Mockito maintainer after 10 years - 10年務めたMockitoのメンテナを退任
 
 ## 要約
 Mockitoの主要メンテナであるTimvdLippe氏が、10年を節目にメンテナから退く意向を表明。主な理由はJVMエージェント周りの仕様変更による負荷、Kotlinサポートがもたらす設計痛、そして個人のモチベーション変化だ。

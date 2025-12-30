@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An experiment in vibe coding"
+title: An experiment in vibe coding - 「バイブス・コーディング」の実験
 date: 2025-12-29T01:48:03.157Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 1303149007
 excerpt: "LLMだけで5時間で動く旅行PWAを構築できたが、アクセシビリティや運用・性能の重大な落とし穴が露呈"
 ---
 
-# AIに“雰囲気でコーディング”させて作った旅行アプリ実験レポ — 休日5時間で動いたが見えた落とし穴
+# An experiment in vibe coding - 「バイブス・コーディング」の実験
 
 ## 要約
 LLMエージェントだけで「触らずに」作る――いわゆる“vibe coding”で、PocketBase＋Reactの小さなPWA旅行管理アプリを短時間で構築できたが、アクセシビリティ、パフォーマンス、デバッグ運用の壁が浮き彫りになった。

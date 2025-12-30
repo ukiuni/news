@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Faster practical modular inversion
+title: Faster practical modular inversion - より高速で実用的なモジュラ逆数
 date: 2025-12-27 13:40:48.242000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Faster practical modular inversion | purplesyringa's blog
 source_id: 46341904
 excerpt: 拡張Stein実装でモジュラー逆数を平均1.3–2倍高速化、CPUやコンパイラ依存の最適化手法を解説
 ---
-# 実用的に速い「拡張Stein（2進）互除法」でモジュラー逆数を爆速化する方法
+# Faster practical modular inversion - より高速で実用的なモジュラ逆数
 
 ## 要約
 拡張Euclidの2進バージョン（拡張Steinアルゴリズム）を実装・最適化することで、モジュラー逆数計算が教科書実装より平均1.3–2倍速くなる可能性がある。だが、コンパイラやマイクロアーキテクチャ次第で結果は大きく変わるので実装とベンチの精査が必須。

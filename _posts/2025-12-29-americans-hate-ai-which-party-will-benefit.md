@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Americans hate AI. Which party will benefit?"
+title: Americans hate AI. Which party will benefit? - アメリカ人はAIを嫌っている。どちらの政党が恩恵を受けるか？
 date: 2025-12-29T08:50:02.771Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435625816
 excerpt: "米国で高まる反AI世論が次の選挙を左右し、どの政党が勝機を得るかを徹底解説"
 ---
 
-# 「AI憎悪」が米国で政治化──次の選挙で勝つのは誰か？日本のエンジニアが知っておくべきこと
+# Americans hate AI. Which party will benefit? - アメリカ人はAIを嫌っている。どちらの政党が恩恵を受けるか？
 
 ## 要約
 米国でAIへの不信・恐怖が急速に高まり、データセンター建設や雇用喪失への反発が政治的争点になっています。政党内部では「反AIで支持を拡大すべき」という主張と、産業を守りつつ規制でバランスを取るべきという現実派が対立しています。

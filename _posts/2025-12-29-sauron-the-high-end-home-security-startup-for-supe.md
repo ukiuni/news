@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sauron, the high-end home security startup for “super premium” customers, plucks a new CEO out of Sonos"
+title: Sauron, the high-end home security startup for “super premium” customers, plucks a new CEO out of Sonos - 超高級顧客向けのハイエンド・ホームセキュリティ・スタートアップSauron、Sonosから新CEOを抜擢
 date: 2025-12-29T05:49:51.253Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435698970
 excerpt: "Sonos流の新CEOが率いる軍用級ホームセキュリティ、LiDARや熱感知で2026年実運用へ"
 ---
 
-# 超富裕層向け「軍用級」ホームセキュリティ──Sonos流の製品づくりがもたらす挑戦と日本への示唆
+# Sauron, the high-end home security startup for “super premium” customers, plucks a new CEO out of Sonos - 超高級顧客向けのハイエンド・ホームセキュリティ・スタートアップSauron、Sonosから新CEOを抜擢
 
 ## 要約
 米国発の高級ホームセキュリティベンチャーがSonos出身の新CEOを迎え、LiDAR／熱画像／多数カメラを組み合わせた「センサー＋AI＋元軍・警察による24/7監視」の製品化を目指している。ローンチは当初計画より遅れ、実運用は2026年後半以降が見込まれる。

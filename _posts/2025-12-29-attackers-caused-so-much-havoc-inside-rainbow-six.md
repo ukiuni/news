@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Attackers Caused So Much Havoc Inside Rainbow Six Siege, Ubisoft Shut Down the Whole Game"
+title: Attackers Caused So Much Havoc Inside Rainbow Six Siege, Ubisoft Shut Down the Whole Game - 攻撃者がレインボーシックス シージ内で大混乱を引き起こし、Ubisoftがゲーム全体をシャットダウン
 date: 2025-12-29T13:26:11.878Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435629270
 excerpt: "運営権を乗っ取られ仮想資産が大量放出、修復のためゲームと市場が全面停止"
 ---
 
-# 『レインボーシックス』が“掌握”された夜：運営が丸ごとサーバー停止に踏み切った理由
+# Attackers Caused So Much Havoc Inside Rainbow Six Siege, Ubisoft Shut Down the Whole Game - 攻撃者がレインボーシックス シージ内で大混乱を引き起こし、Ubisoftがゲーム全体をシャットダウン
 
 ## 要約
 人気のライブサービスFPSで、攻撃者がゲーム内部の運営機能を掌握し、大量の仮想通貨やスキンを解放。被害収拾のために運営はゲームとマーケットを一時全面停止し、トランザクションのロールバック作業を進めている。

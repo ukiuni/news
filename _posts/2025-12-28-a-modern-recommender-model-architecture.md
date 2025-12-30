@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Modern Recommender Model Architecture
+title: A Modern Recommender Model Architecture - モダンなレコメンダーモデルのアーキテクチャ
 date: 2025-12-28 09:15:58.420000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: A Modern Recommender Model Architecture - Casey Primozic's Homepag
 source_id: 1265212681
 excerpt: 視聴確率と評価を同時予測しCPU運用に最適化した小型アニメ推薦モデル
 ---
-# アニメ推薦を“実用”レベルに昇華させたモダンなレコメンダー設計 — 小さく速く、説明できるニューラルCF
+# A Modern Recommender Model Architecture - モダンなレコメンダーモデルのアーキテクチャ
 
 ## 要約
 Denoising Autoencoderベースで「視聴有無（存在確率）」と「評価（レーティング）」を同時予測するマルチタスクモデル。小規模（約55Mパラメータ）、JAXで実装しCPU運用を意識した実用的な設計が特徴。

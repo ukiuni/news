@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Show HN: GeneGuessr – a daily biology web puzzle'
+title: Show HN: GeneGuessr – a daily biology web puzzle - Show HN: GeneGuessr – 日替わりの生物学ウェブパズル
 date: 2025-12-26 07:10:53.242000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: GeneGuessr - Daily Protein Guessing Game
 source_id: 46363870
 excerpt: ヒントと類似性スコアで解く、毎日挑戦の教育的タンパク質当てパズル
 ---
-# 毎日挑戦したくなる「タンパク質当てゲーム」 — GeneGuessrがバイオ教育と探索を変える理由
+# Show HN: GeneGuessr – a daily biology web puzzle - Show HN: GeneGuessr – 日替わりの生物学ウェブパズル
 
 ## 要約
 GeneGuessrは「今日のタンパク質」を当てるデイリーパズル。UniProtやAlphaFoldなど公的データを組み合わせ、ヒントと部分一致スコアで正解に近づいていくウェブアプリだ。

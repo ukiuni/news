@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hollywood cozied up to AI in 2025 and had nothing good to show for it
+title: Hollywood cozied up to AI in 2025 and had nothing good to show for it - ハリウッドは2025年にAIに歩み寄ったが、良い成果は何も得られなかった
 date: 2025-12-27 17:39:58.571000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: In 2025, Hollywood cozied up to AI and had nothing good to show fo
 source_id: 436841017
 excerpt: 2025年、ハリウッドがAIに群がり著作権訴訟と期待外れの真相
 ---
-# ハリウッドがAIと“蜜月”を始めた2025年――期待だけ空回りした理由
+# Hollywood cozied up to AI in 2025 and had nothing good to show for it - ハリウッドは2025年にAIに歩み寄ったが、良い成果は何も得られなかった
 
 ## 要約
 2025年、映画業界は生成系AIに飛びついたが、現実に使える作品やワークフローはほとんど生まれなかった。著作権問題と技術的限界が露呈し、「期待先行」の構図が浮き彫りになった年だった。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Built a PDF editor &amp; scanner app after 6 months of practice — looking for
+title: Built a PDF editor &amp; scanner app after 6 months of practice — looking for - 6ヶ月の練習の末にPDFエディタ＆スキャナーアプリを構築 — 募集中
   feedback
 date: 2025-12-28 19:19:44.715000+00:00
 categories:
@@ -14,7 +14,7 @@ source_title: ProDoc+ - Apps on Google Play
 source_id: 436014063
 excerpt: スマホで高品質PDF化・編集・署名、個人情報送信や法令適合は要注意
 ---
-# スマホで紙を「仕事用PDF」に変えるアプリ、半年で作ったプロダクトの光と影
+# Built a PDF editor &amp; scanner app after 6 months of practice — looking for - 6ヶ月の練習の末にPDFエディタ＆スキャナーアプリを構築 — 募集中
 
 ## 要約
 スマホで書類をスキャン→編集→署名→保護まで一通りできるPDFユーティリティ「ProDoc+」。手軽さは魅力だが、プライバシー周りや国内ニーズへの最適化に改善の余地あり。

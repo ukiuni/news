@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kafka uses OS page buffer cache for optimisations instead of process caching
+title: Kafka uses OS page buffer cache for optimisations instead of process caching - Kafkaはプロセスキャッシュの代わりにOSのページバッファキャッシュを最適化に使用する
 date: 2025-12-28 09:15:29.886000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: What Helps Kafka Scale | Shubham Raizada’s Blog
 source_id: 436325463
 excerpt: OSページキャッシュ＋ゼロコピーでKafkaがGC負荷と二重バッファを回避し高速化する理由
 ---
-# Kafkaが「プロセス内キャッシュ」を捨ててOSに賭ける理由 — スループット最優先の秘策
+# Kafka uses OS page buffer cache for optimisations instead of process caching - Kafkaはプロセスキャッシュの代わりにOSのページバッファキャッシュを最適化に使用する
 
 ## 要約
 Kafkaはメッセージをアプリケーションヒープで保持せず、OSのファイルページキャッシュと「ゼロコピー」転送を活用して高スループットを実現している。これにより二重バッファやGC負荷、不要なメモリコピーを避けられる。

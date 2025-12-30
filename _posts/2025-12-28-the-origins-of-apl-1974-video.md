@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Origins of APL (1974) [video]
+title: The Origins of APL (1974) [video] - APLの起源 (1974) [動画]
 date: 2025-12-28 07:15:03.624000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: The Origins of APL - 1974 - YouTube
 source_id: 46350476
 excerpt: 1974年映像で解き明かすAPL誕生と配列演算の源流、短記号で現代NumPyへ繋がる思考を体感
 ---
-# 符号1行で行列を操る魔法 — 1974映像でたどるAPL誕生物語
+# The Origins of APL (1974) [video] - APLの起源 (1974) [動画]
 
 ## 要約
 1974年の映像「The Origins of APL」は、配列指向言語APLの誕生と当時のデモを通して、記号ベースの簡潔な表現がどのように計算の考え方を変えたかを示す。現代のNumPyや高級データ処理に通じる思想の源流がここにある。

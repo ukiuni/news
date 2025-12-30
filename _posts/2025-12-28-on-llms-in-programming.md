@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On LLMs in programming"
+title: On LLMs in programming - プログラミングにおけるLLMについて
 date: 2025-12-28T02:17:20.331Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 1513545431
 excerpt: "LLMで生産性を高めつつ注意力喪失を防ぐ実践ガイド・検証法やRAG導入の実践手順付き"
 ---
 
-# 注意力を奪うAI？プログラミングでLLMを賢く使うための最短ガイド
+# On LLMs in programming - プログラミングにおけるLLMについて
 
 ## 要約
 著者は「意識的なLLM懐疑派」として、日常の開発でLLMを実際に使いつつも不安を抱えている。LLMは生産性を変える一方で、注意（＝開発者の最も貴重な資源）をどう配分するかを再考させる。

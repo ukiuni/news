@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Where we''re going, we don''t need chatbots: introducing the Antigravity IDE
+title: Where we''re going, we don''t need chatbots: introducing the Antigravity IDE - 私たちが行く場所にチャットボットは不要：Antigravity IDEの紹介
   🚀'
 date: 2025-12-26 04:04:01.591000+00:00
 categories:
@@ -14,7 +14,7 @@ source_title: 'Where we''re going, we don''t need chatbots: introducing the Anti
   IDE 🚀 - DEV Community'
 source_id: 3121699
 ---
-# チャット窓だけではない――「Antigravity IDE」が示すエージェント主導コーディングの衝撃
+# Where we''re going, we don''t need chatbots: introducing the Antigravity IDE - 私たちが行く場所にチャットボットは不要：Antigravity IDEの紹介
 
 ## 要約
 Google DeepMind の Antigravity は、単なるチャット型補助ではなく「エージェントがエディタ・ターミナル・ブラウザを自律操作して作業を完遂する」IDEで、QA・ドキュメント作成やマルチモデル運用のワークフローを劇的に変えうるプロダクトです。

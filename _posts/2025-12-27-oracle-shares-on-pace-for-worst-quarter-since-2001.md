@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oracle shares on pace for worst quarter since 2001 as new CEOs face concerns
+title: Oracle shares on pace for worst quarter since 2001 as new CEOs face concerns - Oracle株、新CEOへの懸念から2001年以来最悪の四半期となる勢い
   about AI build-out
 date: 2025-12-27 06:39:14.620000+00:00
 categories:
@@ -14,7 +14,7 @@ source_title: Oracle stock on pace for worst quarter since 2001, AI concerns
 source_id: 437154007
 excerpt: OracleのOpenAI案件拡大で株価急落、日系企業に波及懸念
 ---
-# Oracle急落の真相：OpenAI大口受注で膨らむ“勝負の投資”が日本企業にもたらす影響
+# Oracle shares on pace for worst quarter since 2001 as new CEOs face concerns - Oracle株、新CEOへの懸念から2001年以来最悪の四半期となる勢い
 
 ## 要約
 Oracle株が四半期で約30%下落し、2001年以来最大の下落ペースに。OpenAIとの大型合意を受けた大規模投資計画と財務リスクが市場の懸念を招いている。

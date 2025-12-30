@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The battle to stop clever people betting"
+title: The battle to stop clever people betting - 賢い人々の賭けを止めるための戦い
 date: 2025-12-27T13:40:00.597Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46398170
 excerpt: "海外ブックメーカーがAIで天才ギャンブラーを見抜き封じる手法と日本への示唆"
 ---
 
-# 天才ギャンブラーを封じる戦い──ブックメーカーの「見抜く」技術と日本市場への示唆
+# The battle to stop clever people betting - 賢い人々の賭けを止めるための戦い
 
 ## 要約
 海外ブックメーカーがデータに強い“シャープ”を排除するために使う手法と、そこから日本のテック／ギャンブル周辺業界が学べる技術的・規制的示唆を解説する。

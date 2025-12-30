@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How uv got so fast
+title: How uv got so fast - uvはいかにしてこれほど速くなったのか
 date: 2025-12-26 19:30:15.321000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: How uv got so fast | Andrew Nesbitt
 source_id: 1324045140
 excerpt: pyprojectやPEP群×メタデータ・HTTPレンジでuvが桁違いに高速化
 ---
-# なぜ uv は pip より桁違いに速いのか — Rust だけでは説明できない設計の勝利
+# How uv got so fast - uvはいかにしてこれほど速くなったのか
 
 ## 要約
 uv の高速化は「Rustで書かれているから」だけではなく、Pythonパッケージングの標準整備（pyproject/PEP群）と「やらないことを明確にする」設計、そしてプロトコル上の最適化の組合せによるもの。

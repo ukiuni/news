@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Happens when you convert a NAN to uint in Golang"
+title: What Happens when you convert a NAN to uint in Golang - GolangでNaNをuintに変換すると何が起こるか
 date: 2025-12-29T14:30:19.699Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435370434
 excerpt: "GoでNaN→uintの暗黙変換がCPU依存で異常値を生む実例と対策"
 ---
 
-# Golangで$NaN$をuintにキャストするとCPUで結果が変わる!? 意外な落とし穴と実践対策
+# What Happens when you convert a NAN to uint in Golang - GolangでNaNをuintに変換すると何が起こるか
 
 ## 要約
 Goで浮動小数点の$NaN$をuintに変換すると、CPUアーキテクチャ（x86 vs ARM64）によって異なる整数値が出力される。無防備なキャストは環境依存のバグを生む可能性がある。

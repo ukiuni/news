@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Concurrent Hash Map Designs: Synchronized, Sharding, and ConcurrentHashMap'
+title: Concurrent Hash Map Designs: Synchronized, Sharding, and ConcurrentHashMap - 並行ハッシュマップの設計：同期、シャーディング、およびConcurrentHashMap
 date: 2025-12-27 07:40:28.695000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'Concurrent Hash Table Designs: Synchronized, Sharding, Concurrent
 source_id: 437149191
 excerpt: ConcurrentHashMapとシャーディングで競合を抑える最適設計を解説
 ---
-# グローバルロックからConcurrentHashMapへ――「競合」を制するハッシュマップ設計の実戦ガイド
+# Concurrent Hash Map Designs: Synchronized, Sharding, and ConcurrentHashMap - 並行ハッシュマップの設計：同期、シャーディング、およびConcurrentHashMap
 
 ## 要約
 シンプルな全体ロックからシャーディング（ロック・ストライピング）、そしてJavaのConcurrentHashMapまで、スレッド競合と性能トレードオフの観点で各設計を比較し、どの場面で何を選ぶべきかを整理する。

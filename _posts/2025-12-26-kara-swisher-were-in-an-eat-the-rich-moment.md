@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kara Swisher: We're in an 'Eat the Rich' Moment"
+title: Kara Swisher: We're in an 'Eat the Rich' Moment - カーラ・スウィッシャー：私たちは「富裕層を食い尽くせ」という瞬間にいる
 date: 2025-12-26T21:05:49.859Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 437561576
 excerpt: "カラ・スウィッシャーが警鐘：テックとAI不信の波が日本の産業・規制を一変させる"
 ---
 
-# シリコンバレーへの不信が高まる今こそ知るべき「Eat the Rich」の瞬間 — カラ・スウィッシャーが投げかけた警鐘
+# Kara Swisher: We're in an 'Eat the Rich' Moment - カーラ・スウィッシャー：私たちは「富裕層を食い尽くせ」という瞬間にいる
 
 ## 要約
 米メディア界の重鎮カラ・スウィッシャーが、富裕層・テック企業への反発とAIへの不信が同時に高まっている「Eat the Rich」的な潮流を論じた。これが日本の産業や技術政策に与える示唆は小さくない。

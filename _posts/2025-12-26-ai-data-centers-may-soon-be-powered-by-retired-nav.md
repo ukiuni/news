@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI data centers may soon be powered by retired Navy nuclear reactors from aircraft
+title: AI data centers may soon be powered by retired Navy nuclear reactors from aircraft - AIデータセンター、間もなく退役した海軍の空母用原子炉で稼働する可能性
   carriers and submarines — firm asks U.S. DOE for a loan guarantee to start the project
 date: 2025-12-26 03:51:50.336000+00:00
 categories:
@@ -15,7 +15,7 @@ source_title: AI data centers may soon be powered by retired Navy nuclear reacto
   to start the project | Tom's Hardware
 source_id: 438366005
 ---
-# 退役原子炉でAIデータセンターを動かす？海軍艦艇の原子炉再利用構想が見せる現実味
+# AI data centers may soon be powered by retired Navy nuclear reactors from aircraft - AIデータセンター、間もなく退役した海軍の空母用原子炉で稼働する可能性
 
 ## 要約
 アメリカのスタートアップが、退役した空母や原潜の原子炉をAI向けデータセンターの電源として再利用する計画で、米エネルギー省（DOE）にローン保証を申請した。高出力を必要とするAIインフラの電力確保策として注目を集めている。

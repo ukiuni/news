@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Golfing Is Not Rowing"
+title: Golfing Is Not Rowing - ゴルフはボート漕ぎではない
 date: 2025-12-29T16:26:39.819Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46379579
 excerpt: "創造的な仕事では毎日少しずつが逆効果、探索と実装を分離しムリガニで勝つ方法必見"
 ---
 
-# ゴルフは漕ぐ仕事じゃない — 創造的プロジェクトで「毎日少しずつ」が効かない本当の理由
+# Golfing Is Not Rowing - ゴルフはボート漕ぎではない
 
 ## 要約
 ある仕事は「漕ぐ（継続的に力を入れる）」ことで確実に進むが、創造的な仕事やイノベーションは「ゴルフ」のように一発の粗い行為と初期条件に強く依存するため、単純な積み上げ戦略が機能しない。

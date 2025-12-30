@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Detect memory leaks of C extensions with psutil and psleak
+title: Detect memory leaks of C extensions with psutil and psleak - psutilとpsleakでC拡張のメモリリークを検出する
 date: 2025-12-27 15:40:12.764000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Detect memory leaks of C extensions with psutil and psleak
 source_id: 46376608
 excerpt: psutilとpsleakで隠れたC拡張のネイティブヒープ漏れを自動検出する方法を紹介
 ---
-# C拡張の「見えない」メモリリークを暴く — psutil で見るネイティブヒープと psleak の使い方
+# Detect memory leaks of C extensions with psutil and psleak - psutilとpsleakでC拡張のメモリリークを検出する
 
 ## 要約
 psutil 7.2.0 が提供するネイティブヒープ向けAPI（heap_info / heap_trim）を使えば、pymalloc の上に隠れた C レイヤーのメモリリークを直接検出できる。psleak はこれを自動化して単体テストに組み込めるツールだ。

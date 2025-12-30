@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Hidden Power of nextTick + setImmediate in Node.js"
+title: The Hidden Power of nextTick + setImmediate in Node.js - Node.jsにおけるnextTick + setImmediateの隠れた力
 date: 2025-12-26T04:08:11.666Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -9,7 +9,7 @@ source_title: "The Hidden Power of nextTick + setImmediate in Node.js"
 source_id: 438235999
 ---
 
-# nextTickとsetImmediateが握るNode.js高速化の裏技 — 見落としがちな実行順序の威力
+# The Hidden Power of nextTick + setImmediate in Node.js - Node.jsにおけるnextTick + setImmediateの隠れた力
 
 ## 要約
 process.nextTickとsetImmediateは似て非なる「予約命令」。イベントループ内での実行タイミングを制御することで、パフォーマンスや応答性、I/O公平性を実現できる。

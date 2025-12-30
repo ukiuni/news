@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pre-commit hooks are fundamentally broken
+title: pre-commit hooks are fundamentally broken - pre-commitフックは根本的に壊れている
 date: 2025-12-27 04:38:21.064000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: pre-commit hooks are fundamentally broken
 source_id: 986890068
 excerpt: pre-commitの自動整形がコミットやリベースを壊す原因と対策を実例で提示
 ---
-# pre-commitフックは本当に壊れているのか？rustfmtが突きつけた「実務の穴」
+# pre-commit hooks are fundamentally broken - pre-commitフックは根本的に壊れている
 
 ## 要約
 pre-commitフックは便利だが、gitの「作業ツリー」と「インデックス（ステージされた内容）」の差分やリベース等の操作で思わぬ落とし穴を露呈する。自動整形やチェックを安全に運用するための設計と選択肢を整理する。

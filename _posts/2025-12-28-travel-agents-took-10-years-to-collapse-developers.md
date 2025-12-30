@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Travel agents took 10 years to collapse, developers are three years in
+title: Travel agents took 10 years to collapse, developers are three years in - 旅行代理店は崩壊に10年かかったが、開発者は3年目に入っている
 date: 2025-12-28 05:16:19.392000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: Travel agents took 10 years to collapse. Developers are 3 years in
 source_id: 46408457
 excerpt: LLMと投資縮小で開発者の単純作業が急速に自動化、今すべき生き残り戦略を解説
 ---
-# 旅行代理店は10年かかった。開発者はもう3年目に入っている — 生き残るための戦略
+# Travel agents took 10 years to collapse, developers are three years in - 旅行代理店は崩壊に10年かかったが、開発者は3年目に入っている
 
 ## 要約
 旅行代理店の衰退（約10年）と比べ、著者はソフトウェア開発者への影響ははるかに速く来ると警告する。LLM普及や資金流入の縮小が「汎用的なコーディング作業」を急速に脅かしているという主張だ。

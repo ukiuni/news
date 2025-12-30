@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%"
+title: Tesla's 4680 battery supply chain collapses as partner writes down deal by 99% - テスラの4680バッテリー・サプライチェーンが崩壊、パートナーが取引を99%減損
 date: 2025-12-29T18:26:17.328Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46423290
 excerpt: "4680電池契約が事実上消滅、テスラの需要喪失で供給網と投資が大打撃"
 ---
 
-# 「Teslaの“夢の4680”に黄信号 — サプライチェーン大崩壊で見えた現実」
+# Tesla's 4680 battery supply chain collapses as partner writes down deal by 99% - テスラの4680バッテリー・サプライチェーンが崩壊、パートナーが取引を99%減損
 
 ## 要約
 韓国の素材サプライヤーがテスラ向け大型契約を約99%減額。4680セルの需要急減は、テスラのセル戦略とCybertruckの商業性に深刻な疑問符を投げかける。

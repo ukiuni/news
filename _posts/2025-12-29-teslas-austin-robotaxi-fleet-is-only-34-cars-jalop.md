@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesla's Austin Robotaxi Fleet Is Only 34 Cars - Jalopnik"
+title: Tesla's Austin Robotaxi Fleet Is Only 34 Cars - Jalopnik - テスラのオースティン・ロボタクシー艦隊はわずか34台 - Jalopnik
 date: 2025-12-29T23:25:59.014Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435180157
 excerpt: "テスラのロボタクシー、オースティンで稼働は約34台にとどまり規模と安全の限界を露呈"
 ---
 
-# テスラのロボタクシー、「宣言」と「現場」の乖離 — オースティンで稼働わずか34台の衝撃
+# Tesla's Austin Robotaxi Fleet Is Only 34 Cars - Jalopnik - テスラのオースティン・ロボタクシー艦隊はわずか34台 - Jalopnik
 
 ## 要約
 テスラのロボタクシー計画は大々的に語られる一方、実際の稼働は限定的で、オースティンではAPI検証で確認された稼働車両がたった34台。さらに同時稼働は1〜5台程度と推定され、スケールの壁と安全・規制課題が浮き彫りになっています。

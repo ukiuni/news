@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stepping down as maintainer after 10 years"
+title: Stepping down as maintainer after 10 years - 10年務めたメンテナを退任
 date: 2025-12-29T06:53:23.132Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435619114
 excerpt: "10年メンテナ退任から学ぶ、OSS引継ぎと自動化で破綻を防ぐ実践チェックリスト"
 ---
 
-# 10年の“譲渡”が教える、OSSメンテナ退任でプロジェクトを壊さない方法
+# Stepping down as maintainer after 10 years - 10年務めたメンテナを退任
 
 ## 要約
 10年にわたりプロジェクトを支えてきたメンテナが退任を発表した事例から、技術的負債・運用課題・コミュニティ継承の現実と、現場で即使える対策を整理する。

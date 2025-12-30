@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eertree - an interactive guide"
+title: Eertree - an interactive guide - Eertree - インタラクティブガイド
 date: 2025-12-27T15:42:10.946Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 438184342
 excerpt: "Eertreeで文字列を左からオンライン処理し、全回文を高速検出・出現頻度まで集計する実装ガイド"
 ---
 
-# 回文ツリー（Eertree）で文字列の“鏡”を高速に見つける — 直感と実装の最短ガイド
+# Eertree - an interactive guide - Eertree - インタラクティブガイド
 
 ## 要約
 Eertree（回文ツリー）は、文字列中のすべての回文をオンラインで発見・管理できるデータ構造で、追加文字ごとに定数回の遷移で処理できるため実装次第で実質線形時間で動作します。

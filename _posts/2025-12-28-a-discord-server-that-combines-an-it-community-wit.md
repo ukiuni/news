@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Discord server that combines an IT community with a dating/social element.
+title: A Discord server that combines an IT community with a dating/social element. - ITコミュニティとデート・交流要素を組み合わせたDiscordサーバー
   Thoughts?
 date: 2025-12-28 16:19:33.163000+00:00
 categories:
@@ -14,7 +14,7 @@ source_title: "Discord - Group Chat Thatâ\x80\x99s All Fun & Games"
 source_id: 436106938
 excerpt: Discordで技術交流と出会いを両立する新型コミュニティ設計の実践案と安全対策
 ---
-# ITコミュニティ×出会い？Discordの“遊べる”設計が日本のエンジニアにもたらす可能性
+# A Discord server that combines an IT community with a dating/social element. - ITコミュニティとデート・交流要素を組み合わせたDiscordサーバー
 
 ## 要約
 Discordは低遅延の音声・映像・テキストを組み合わせた「遊べる」グループチャット基盤で、ITコミュニティにソーシャル／出会い要素を持ち込む土壌がある。だが導入には設計と運用、そして安全対策が鍵になる。

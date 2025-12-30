@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TIL: serde's borrowing can be treacherous"
+title: TIL: serde's borrowing can be treacherous - TIL: serdeの借用は油断ならない
 date: 2025-12-26T18:23:01.797Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 987195092
 excerpt: "serdeのゼロコピー借用はJSONのエスケープで実行時に破綻し、CowやStringで回避せよ"
 ---
 
-# Serdeの借用は罠になる — JSONで&strを狙うときの致命的な落とし穴
+# TIL: serde's borrowing can be treacherous - TIL: serdeの借用は油断ならない
 
 ## 要約
 serdeで`&'a str`や`&'a [u8]`を使った「ゼロコピー」デシリアライズは、一見安全でも逃れられないケースがあり、コンパイル時でなく実行時にエラーになることがある。

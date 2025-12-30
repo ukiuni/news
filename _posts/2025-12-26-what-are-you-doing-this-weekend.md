@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What are you doing this weekend?
+title: What are you doing this weekend? - 今週末は何をしますか？
 date: 2025-12-26 10:27:14.099000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: What are you doing this weekend? | Lobsters
 source_id: 720990974
 excerpt: Bandcampの曲メタをMPRIS経由で正確に流しscrobbleする拡張の作成と公開法
 ---
-# 週末で仕上げたい：Bandcampの曲情報をMPRISに流すFirefox拡張の作り方と公開まで
+# What are you doing this weekend? - 今週末は何をしますか？
 
 ## 要約
 Firefox拡張でBandcamp再生時の曲メタデータを正確にMPRISへ流し、mpris-scrobblerでlast.fmやListenBrainzへ送る手法と、拡張公開までの実務ポイントを整理する。

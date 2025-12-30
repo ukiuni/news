@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google is allowing users to change their Gmail address, per official Google
+title: Google is allowing users to change their Gmail address, per official Google - Google、ユーザーがGmailアドレスを変更することを許可（公式発表）
   support doc — experimental gmail feature rolling out in India first, no official
   announcement yet
 date: 2025-12-26 03:53:02.818000+00:00
@@ -16,7 +16,7 @@ source_title: Google is allowing users to change their Gmail address, per offici
   official announcement yet | Tom's Hardware
 source_id: 438106620
 ---
-# Gmailの「メールアドレス変更」機能が実験導入へ — 日本でも備えておくべきこと
+# Google is allowing users to change their Gmail address, per official Google - Google、ユーザーがGmailアドレスを変更することを許可（公式発表）
 
 ## 要約
 Googleが公式サポート文書で個人向けGmailアドレスの「変更」を案内していることが確認された。実験的な機能でまずはインドで展開中、公式アナウンスはまだない。

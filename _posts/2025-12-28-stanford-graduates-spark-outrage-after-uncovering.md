@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stanford graduates spark outrage after uncovering reason behind lack of job offers: 'A dramatic reversal from three years ago'"
+title: Stanford graduates spark outrage after uncovering reason behind lack of job offers: 'A dramatic reversal from three years ago - スタンフォード大学の卒業生、内定が出ない理由を突き止め怒りを買う：「3年前からの劇的な逆転」
 date: 2025-12-28T01:09:53.548Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 437866376
 excerpt: "スタンフォード卒が暴露、AI進化で新卒エンジニア求人が激減—日本市場にも直撃か"
 ---
 
-# スタンフォード卒が暴いた「新卒採用激減」の真相 — 日本の若手エンジニアにも直撃するAIの波
+# Stanford graduates spark outrage after uncovering reason behind lack of job offers: 'A dramatic reversal from three years ago - スタンフォード大学の卒業生、内定が出ない理由を突き止め怒りを買う：「3年前からの劇的な逆転」
 
 ## 要約
 スタンフォードの研究と現場証言によると、最近の採用変化はAIツールの急進展が原因で、若手プログラマ（22–25歳）の求人が大幅に減少している。日本の新卒市場にも同様の構図が広がる恐れがある。

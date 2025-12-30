@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new research shows that 21-33% of YouTube's feed may consist of AI slop
+title: A new research shows that 21-33% of YouTube's feed may consist of AI slop - 新しい研究によると、YouTubeフィードの21〜33%がAIスロップで構成されている可能性がある
 date: 2025-12-28 08:15:03.540000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'AI Slop Report: The Global Rise of Low-Quality AI Videos'
 source_id: 46409125
 excerpt: YouTube推薦の21〜33%が低品質AI動画に占拠、注意喚起
 ---
-# 「あなたのおすすめ欄がAIで埋まる日」──YouTubeフィードの21–33%は“AIスロップ”かもしれない
+# A new research shows that 21-33% of YouTube's feed may consist of AI slop - 新しい研究によると、YouTubeフィードの21〜33%がAIスロップで構成されている可能性がある
 
 ## 要約
 Kapwingの調査によると、新規ユーザーのYouTube Shorts上位500本のうち約33%が「brainrot（低品質な中毒的AI動画）」に該当し、国別ではスペインや韓国のAI生成チャンネルが巨大な視聴基盤を築いている。全世界でAIを使った量産コンテンツがレコメンドに浸透している可能性が示された。

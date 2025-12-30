@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ChatGPT conversations still lack timestamps after years of requests
+title: ChatGPT conversations still lack timestamps after years of requests - ChatGPTの会話には、長年の要望にもかかわらず依然としてタイムスタンプがない
 date: 2025-12-26 14:27:45.597000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: Timestamps for chats in ChatGPT - Page 3 - Feature requests - Open
 source_id: 46391472
 excerpt: ChatGPTは会話に時刻が表示されず、コミュニティの即効回避策と業務運用の注意点を紹介
 ---
-# ChatGPTの「いつ」が見えない不便 — コミュニティが作った裏ワザと日本の現場での使いどころ
+# ChatGPT conversations still lack timestamps after years of requests - ChatGPTの会話には、長年の要望にもかかわらず依然としてタイムスタンプがない
 
 ## 要約
 ChatGPTの会話に標準でタイムスタンプが付かない問題に対し、ユーザーコミュニティが「チャット出力に時刻を付ける設定」「DevToolsスニペット」「Chrome拡張」を公開して対処している。業務ログや個人の記録として時刻が重要な日本の現場で即使える実践案をまとめる。

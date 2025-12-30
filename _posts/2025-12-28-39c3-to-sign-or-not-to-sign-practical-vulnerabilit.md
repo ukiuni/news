@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends'
+title: 39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends - 39C3：署名すべきか否か：GPGとその仲間たちにおける実用的な脆弱性
 date: 2025-12-28 02:16:36.263000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'To sign or not to sign: Practical vulnerabilities in GPG & friend
 source_id: 1330688818
 excerpt: GPGなどの実装バグで署名検証が破られ、配布の信頼や暗号化が危険に晒される
 ---
-# GPGは信じていいか？署名をすり替える実装バグが暴いた暗号ツールの“穴”
+# 39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends - 39C3：署名すべきか否か：GPGとその仲間たちにおける実用的な脆弱性
 
 ## 要約
 39C3で発表された調査は、GnuPGやSequoia PGP、age、minisignといったP G P系ツールに「実装上の脆弱性」が存在し、署名検証の信頼性や暗号化の保障が破られ得ることを示した。

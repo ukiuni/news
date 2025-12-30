@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congrats to the Winners of the AI Challenge for Cross-Platform Apps!
+title: Congrats to the Winners of the AI Challenge for Cross-Platform Apps! - クロスプラットフォームアプリ向けAIチャレンジの勝者の皆さん、おめでとうございます！
 date: 2025-12-26 04:04:43.486000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Congrats to the Winners of the AI Challenge for Cross-Platform App
   - DEV Community
 source_id: 3113758
 ---
-# AIがUIを自動生成する時代へ──Uno Platformのチャレンジ受賞作が示す「単一コードで全プラットフォーム展開」の実力
+# Congrats to the Winners of the AI Challenge for Cross-Platform Apps! - クロスプラットフォームアプリ向けAIチャレンジの勝者の皆さん、おめでとうございます！
 
 ## 要約
 DEVの「AI Challenge for Cross-Platform Apps」で、.NET + Uno Platformを活用したAI支援UI制作・クロスプラットフォームアプリが注目を集めた。受賞作はポートフォリオ、バーチャルカフェ、AIで再構築した音楽プレーヤーなど多彩で、実務への示唆が強い。

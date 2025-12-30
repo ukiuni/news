@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When someone says they hate your product with a burning passion"
+title: When someone says they hate your product with a burning passion - 誰かがあなたの製品を激しく嫌っていると言ったとき
 date: 2025-12-29T20:29:30.003Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46424460
 excerpt: "炎上を信頼に変える、公開初動テンプレと実務的謝罪・再発防止手順"
 ---
 
-# 炎上を味方に変える方法：顧客の「激しい批判」が伝える本当の信号
+# When someone says they hate your product with a burning passion - 誰かがあなたの製品を激しく嫌っていると言ったとき
 
 ## 要約
 表面的な怒りはプロダクトの品質を調整するための「サーモスタット」であり、反射的に反論すると事態は悪化する。まず感情を受け止め、原則で整合した上で事実を説明し、責任を取る姿勢を示すことが鍵だ。

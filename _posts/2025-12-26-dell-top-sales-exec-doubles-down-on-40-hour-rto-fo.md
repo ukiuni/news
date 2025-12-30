@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dell top sales exec doubles down on 40-hour RTO for sales team after "end-of-day
+title: Dell top sales exec doubles down on 40-hour RTO for sales team after "end-of-day - Dellの営業トップ、営業チームへの週40時間出社（RTO）を再確認
   walkthroughs" revealed workers leaving early
 date: 2025-12-26 09:13:42.265000+00:00
 categories:
@@ -15,7 +15,7 @@ source_title: Dell Sales Exec Calls for 40-Hour RTO, Cites Issues in 'End-of-Day
 source_id: 440299075
 excerpt: 終業巡回で早退が露見、デルが営業に1日8時間・週5日出社を強化、反発と採用影響の波紋
 ---
-# デルが「1日8時間・週5日出社」を再強化──“終業巡回”で露呈した運用ギャップが示すもの
+# Dell top sales exec doubles down on 40-hour RTO for sales team after "end-of-day - Dellの営業トップ、営業チームへの週40時間出社（RTO）を再確認
 
 ## 要約
 デルの営業部門で「週5日・1日8時間以上の出社」を明確化する社内指示が出され、現場での“終業巡回”により遵守が不十分だったことが判明した。ハイブリッド勤務の運用と現場管理のギャップが露呈した事例だ。

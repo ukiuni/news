@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can I throw a C++ exception from a structured exception?
+title: Can I throw a C++ exception from a structured exception? - 構造化例外からC++例外をスローできるか？
 date: 2025-12-28 16:19:01.968000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: Can I throw a C++ exception from a structured exception? - The Old
 source_id: 436091837
 excerpt: SEHをC++例外に変換する安易なトリックが最適化崩壊と未定義動作を招く理由
 ---
-# SEHをC++例外に変換しても「タダ得」にはならない理由 — /EHaなしでの罠
+# Can I throw a C++ exception from a structured exception? - 構造化例外からC++例外をスローできるか？
 
 ## 要約
 構造化例外（SEH）をUncaughtフィルタやトランスレータでC++例外に変換するトリックは一見魅力的だが、コンパイラの最適化や未定義動作を招き、正しく動作する保証がない。

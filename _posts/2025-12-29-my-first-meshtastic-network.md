@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My First Meshtastic Network"
+title: My First Meshtastic Network - 私の最初のMeshtasticネットワーク
 date: 2025-12-29T06:51:19.554Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46417676
 excerpt: "携帯圏外でも数十キロ通信可能、災害時に役立つDIYメッシュ構築法"
 ---
 
-# 携帯圏外でも仲間とつながる：Meshtasticで作るDIYメッシュ無線ネットワーク
+# My First Meshtastic Network - 私の最初のMeshtasticネットワーク
 
 ## 要約
 低消費電力のLoRa機器とMeshtasticで、セルや衛星に頼らない短文メッセージのメッシュ網を手軽に構築できる。アンテナと配置次第で数十キロの通信が可能になり、防災やオフグリッドIoTに実用的な選択肢となる。

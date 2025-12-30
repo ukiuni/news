@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paperbacks and TikTok
+title: Paperbacks and TikTok - ペーパーバックとTikTok
 date: 2025-12-26 03:58:39.131000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://calnewport.com/on-paperbacks-and-tiktok/
 source_title: On Paperbacks and TikTok - Cal Newport
 source_id: 46358211
 ---
-# ペーパーバックからTikTokへ：断片化する注意を“市場”に変える思考法
+# Paperbacks and TikTok - ペーパーバックとTikTok
 
 ## 要約
 1939年のペーパーバック革命が「安価で大量消費される薄いコンテンツ」を生みつつも、結果的に長尺・高品質作品の市場を拡大したように、TikTok型の短尺コンテンツの台頭は長尺コンテンツの終焉ではなく、新しい収益と発展の機会をもたらす可能性がある――という示唆。

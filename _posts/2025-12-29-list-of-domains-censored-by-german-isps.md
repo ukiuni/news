@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "List of domains censored by German ISPs"
+title: List of domains censored by German ISPs - ドイツのISPによって検閲されているドメインのリスト
 date: 2025-12-29T19:26:49.027Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46423566
 excerpt: "ドイツISPの実例から学ぶドメイン遮断の手口と回避、サービス影響対策を実務視点で解説"
 ---
 
-# ドイツで実際に遮断されたドメイン一覧が示す「検閲のリアル」 — 日本のエンジニアが押さえるべき技術と対策
+# List of domains censored by German ISPs - ドイツのISPによって検閲されているドメインのリスト
 
 ## 要約
 ドイツのISPによるブロッキング事例をまとめたコミュニティリストから見えるのは、法的対応がネットワークにどう反映されるかという現実と、技術的な回避・検出手法の進化だ。ネットワーク運用者やサービス提供者は技術と法務の両面で備える必要がある。

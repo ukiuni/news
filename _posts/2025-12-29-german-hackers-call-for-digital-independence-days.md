@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "German hackers call for ‘digital independence days’ to reduce US tech grip"
+title: German hackers call for ‘digital independence days’ to reduce US tech grip - ドイツのハッカー、米国の技術支配を弱めるための「デジタル独立記念日」を提唱
 date: 2025-12-29T20:25:55.723Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435161710
 excerpt: "欧州ハッカーが提唱する“デジタル独立日”で米系テック依存から脱却する具体的手法と影響を解説"
 ---
 
-# 欧州発「デジタル独立日」が問い直す：私たちのネット依存、今すぐ何を考えるべきか
+# German hackers call for ‘digital independence days’ to reduce US tech grip - ドイツのハッカー、米国の技術支配を弱めるための「デジタル独立記念日」を提唱
 
 ## 要約
 ドイツのハッカー団体などが「デジタル独立日」を呼びかけ、欧州製や分散型サービスへの移行を促進し、米国テック企業の影響力を緩めようとしています。プライバシー、デジタル主権、そして民主的な情報空間の保全が狙いです。

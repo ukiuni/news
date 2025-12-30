@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How we lost communication to entertainment
+title: How we lost communication to entertainment - いかにして私たちはコミュニケーションを娯楽に奪われたか
 date: 2025-12-27 20:39:16.243000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: How We Lost Communication to Entertainment
 source_id: 46404848
 excerpt: ActivityPubが通信からエンタメ配信化し、メッセージ喪失で信頼と規制が揺らぐ理由を暴く
 ---
-# エンタメに奪われた「通信」——Fediverseで起きている決定的な価値観のズレ
+# How we lost communication to entertainment - いかにして私たちはコミュニケーションを娯楽に奪われたか
 
 ## 要約
 ActivityPubベースの分散ソーシャルは「通信」ではなく「コンテンツ配信」へと変質しており、それが信頼性・相互運用性・UXの問題を生んでいる。設計原理の違いがコミュニティの対立を生んでいる点が重要だ。

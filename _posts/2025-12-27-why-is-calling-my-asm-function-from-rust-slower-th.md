@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why is calling my asm function from Rust slower than calling it from C?"
+title: Why is calling my asm function from Rust slower than calling it from C? - なぜRustからasm関数を呼び出す方がCから呼び出すよりも遅いのか？
 date: 2025-12-27T15:41:09.951Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 1373870731
 excerpt: "同じASMなのにRust呼出しで命令1つ分遅延、原因と即効改善策を徹底検証"
 ---
 
-# 同じASMなのにRustから呼ぶと遅くなる？rav1dで見つけた「たった1命令」の違い
+# Why is calling my asm function from Rust slower than calling it from C? - なぜRustからasm関数を呼び出す方がCから呼び出すよりも遅いのか？
 
 ## 要約
 同一の手書きASMを使っているのに、Rust実装（rav1d）から呼ぶとC実装（dav1d）より一部関数が遅くなる現象を解析。原因はコンパイラの最適化が関数ポインタ越しのRust抽象を消せず、結果としてスタック配置やロード命令の取り扱いが変わったことだった。

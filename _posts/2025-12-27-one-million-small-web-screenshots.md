@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One million (small web) screenshots
+title: One million (small web) screenshots - 100万枚の（スモールウェブ）スクリーンショット
 date: 2025-12-27 02:07:38.939000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Nathan Rooy
 source_id: 46354492
 excerpt: スクリーンショット×SOMで未発掘の小規模良サイトを視覚発見、デザインや知見を得る
 ---
-# 小さなウェブを可視化する：100万枚スクリーンショットで見つける“質のある”サイト群
+# One million (small web) screenshots - 100万枚の（スモールウェブ）スクリーンショット
 
 ## 要約
 人気順だけでは見つからない「良い小規模サイト」を、スクリーンショットの視覚埋め込みと自己組織化マップ（SOM）で可視化した試みを紹介。派手な人気サイトを避け、意外な良サイトを発見するための実装と考え方を解説する。

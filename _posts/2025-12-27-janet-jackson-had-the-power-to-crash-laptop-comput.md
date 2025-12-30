@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Janet Jackson had the power to crash laptop computers (2022)
+title: Janet Jackson had the power to crash laptop computers (2022) - ジャネット・ジャクソンにはノートパソコンをクラッシュさせる力があった (2022)
 date: 2025-12-27 17:41:12.385000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: Janet Jackson had the power to crash laptop computers - The Old Ne
 source_id: 46403291
 excerpt: ジャネット・ジャクソンの曲が一部ノートPCのHDDを共振で壊し、メーカーが周波数除去で対処した実話
 ---
-# 音でノートを止めたジャネット・ジャクソンの“必殺周波数”──音響共振が招く意外なハード障害
+# Janet Jackson had the power to crash laptop computers (2022) - ジャネット・ジャクソンにはノートパソコンをクラッシュさせる力があった (2022)
 
 ## 要約
 ジャネット・ジャクソンの楽曲を再生すると一部のノートPCのHDDが故障したという実話。原因は音声中に含まれる共振周波数が5400rpm世代のハードディスクの固有振動と一致したためで、メーカーは再生時にその周波数を除去するソフトウェアフィルタで回避した。

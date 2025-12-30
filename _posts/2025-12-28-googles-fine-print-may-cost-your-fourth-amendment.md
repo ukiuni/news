@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google’s fine print may cost your Fourth Amendment rights — Pennsylvania Supreme
+title: Google’s fine print may cost your Fourth Amendment rights — Pennsylvania Supreme - Googleの細かい規定があなたの修正第4条の権利を奪う可能性 — ペンシルベニア州最高裁
   Court allows authorities to access your search history without a warrant | The court
   says that accepting Google’s privacy policy waives privacy rights, allowing warrantless
   access to search.
@@ -16,7 +16,7 @@ source_title: Pennsylvania court rules Google searches are not private | Windows
 source_id: 436517721
 excerpt: ペンシルベニア最高裁、Google同意で令状不要に—検索履歴が捜査で差し出され得る衝撃判決
 ---
-# あなたの検索履歴は“利用規約で差し出す”ものに？ ペンシルベニア最高裁の判決が示す実務的インパクト
+# Google’s fine print may cost your Fourth Amendment rights — Pennsylvania Supreme - Googleの細かい規定があなたの修正第4条の権利を奪う可能性 — ペンシルベニア州最高裁
 
 ## 要約
 ペンシルベニア州最高裁が、Googleのプライバシーポリシーを受け入れることが検索履歴のプライバシー権放棄に当たると判断し、捜査当局が令状なしに検索履歴へアクセスできる余地を認めた。これは「第三者提供」や利用規約上の同意が米国における捜査権限にどのように作用するかを巡る重要判例だ。

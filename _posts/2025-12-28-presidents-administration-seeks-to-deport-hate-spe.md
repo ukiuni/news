@@ -1,6 +1,6 @@
 ---
 layout: post
-title: President's administration seeks to deport hate speech researcher previously
+title: President's administration seeks to deport hate speech researcher previously - 大統領政権、以前から標的にしていたヘイトスピーチ研究者の国外追放を画策
   sued by X
 date: 2025-12-28 22:16:36.762000+00:00
 categories:
@@ -15,7 +15,7 @@ source_title: Trump administration seeks to deport hate speech researcher previo
 source_id: 435931761
 excerpt: 米政権がXに訴えられたヘイト研究者の国外退去を追求、学術自由に緊急警報
 ---
-# 米政権が「憎悪発言」研究者を国外退去対象に──プラットフォーム監視と研究の自由に警報
+# President's administration seeks to deport hate speech researcher previously - 大統領政権、以前から標的にしていたヘイトスピーチ研究者の国外追放を画策
 
 ## 要約
 米国政府がオンライン上の憎悪表現や偽情報を研究する専門家らを国外退去対象に指定し、X（旧Twitter）に訴えられた研究者の国外退去差し止めが連邦裁判所で一時認められた。プラットフォーム監視と研究活動の安全性に直接関わる事件だ。

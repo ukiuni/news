@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Always Bet on Text
+title: Always Bet on Text - 常にテキストに賭けろ
 date: 2025-12-27 01:06:27.454000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: graydon2 | always bet on text
 source_id: 46397379
 excerpt: エンジニアが実務で活かせる、検索性と互換性で勝つ“テキスト最優先”の具体策を解説
 ---
-# 動画じゃ勝てない場面がある──「常にテキストに賭けよ」が示す現場の武器
+# Always Bet on Text - 常にテキストに賭けろ
 
 ## 要約
 視覚・音声コンテンツが花盛りの現在でも、テキストは最も耐久性が高く、効率的で拡張性のある情報媒体だという主張を、技術的観点と日本の現場事情に即して整理する。

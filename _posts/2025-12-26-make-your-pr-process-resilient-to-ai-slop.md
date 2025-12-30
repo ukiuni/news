@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Make your PR process resilient to AI slop"
+title: Make your PR process resilient to AI slop - PRプロセスをAIの「スロップ（ゴミ）」に耐性のあるものにする
 date: 2025-12-26T04:07:21.440Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -9,7 +9,7 @@ source_title: "Make your PR process resilient to AI slop"
 source_id: 437953366
 ---
 
-# AIの“スロップ”を受け流すPR術 — レビューが壊れないプロセス設計
+# Make your PR process resilient to AI slop - PRプロセスをAIの「スロップ（ゴミ）」に耐性のあるものにする
 
 ## 要約
 AIが生成する大量/低品質コード（いわゆる“slop”）は問題に見えても、堅牢なPRプロセスがあれば恐れる必要はない。小さな差分、厳格な依存管理、レビュー文化で吸収可能だ。

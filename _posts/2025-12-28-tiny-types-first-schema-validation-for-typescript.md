@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tiny, types-first schema validation for TypeScript
+title: Tiny, types-first schema validation for TypeScript - TypeScript向けの極小・型優先のスキーマバリデーション
 date: 2025-12-28 19:18:31.890000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'GitHub - easrng/schema: Tiny, types-first schema validation for T
 source_id: 751648051
 excerpt: Type優先で超軽量、VSCode補完で型と実装を即検証できるTS向けランタイムバリデータ
 ---
-# Type優先で超ミニマムなバリデーション — TypeScript開発がぐっと楽になる「@easrng/schema」
+# Tiny, types-first schema validation for TypeScript - TypeScript向けの極小・型優先のスキーマバリデーション
 
 ## 要約
 TypeScriptの型から直接ランタイムバリデータを作る軽量ライブラリ。エディタ補完と親和性が高く、導入コストが低いのが特徴。

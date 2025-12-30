@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rust Errors Without Dependencies"
+title: Rust Errors Without Dependencies - 依存関係なしのRustエラー処理
 date: 2025-12-28T07:15:42.895Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 764775186
 excerpt: "依存ゼロで学ぶ、標準ライブラリだけでエラー連鎖と文脈を保持するRust実践法"
 ---
 
-# 依存なしで書くRustのエラー設計 — 標準ライブラリだけで安全かつ可読性の高いエラーを作る方法
+# Rust Errors Without Dependencies - 依存関係なしのRustエラー処理
 
 ## 要約
 標準ライブラリだけで実用的なエラー型を作る手法を解説。依存を減らしつつ、エラーの連鎖（chaining）や文脈（context）を保持する実装パターンを示す。

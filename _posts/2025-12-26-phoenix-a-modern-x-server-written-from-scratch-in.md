@@ -1,6 +1,6 @@
 ---
 layout: post
-title: phoenix - A modern X server written from scratch in Zig
+title: phoenix - A modern X server written from scratch in Zig - phoenix - Zigでゼロから書かれたモダンなXサーバー
 date: 2025-12-26 04:03:05.772000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://git.dec05eba.com/phoenix/about/
 source_title: phoenix - A modern X server written from scratch
 source_id: 1696529663
 ---
-# Zigで一から書かれた次世代Xサーバー「phoenix」が示す — 安全性と最新ディスプレイ機能の実装案
+# phoenix - A modern X server written from scratch in Zig - phoenix - Zigでゼロから書かれたモダンなXサーバー
 
 ## 要約
 phoenixはZigで一から実装された新しいXサーバーで、モダンなハードウェア（drm/GBM）向けに軽量で安全、かつハードウェア加速（GLX/EGL/Vulkan）を前提とした設計を目指すプロジェクトです。現状はネスト実行のみで実用化前ですが、設計方針は既存のXorgと明確に差別化されています。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a Git-native tool to reduce manual task updates — looking for developer
+title: Building a Git-native tool to reduce manual task updates — looking for developer - 手動のタスク更新を減らすためのGitネイティブツールの構築 — 開発者募集中
   feedback
 date: 2025-12-28 08:17:04.054000+00:00
 categories:
@@ -17,7 +17,7 @@ source_title: 'GitHub - Princelad/forge: Forge is a developer-first, terminal-ba
 source_id: 436358259
 excerpt: ターミナルでGit差分とタスクを統合するTUI Forgeを試そう
 ---
-# ターミナルだけでタスクも差分も完結する時代へ — GitネイティブTUI「Forge」が描く開発の新常識
+# Building a Git-native tool to reduce manual task updates — looking for developer - 手動のタスク更新を減らすためのGitネイティブツールの構築 — 開発者募集中
 
 ## 要約
 Forgeはターミナル上でGitの変更・差分・ブランチ情報と軽量なタスク管理を一体化するプロトタイプTUI。エディタやブラウザを切り替えずに「コード文脈」のままプロジェクトを進められる可能性を提示する。

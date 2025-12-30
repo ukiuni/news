@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '‘All brakes are off’: Russia’s attempt to rein in illicit market for leaked
+title: ‘All brakes are off’: Russia’s attempt to rein in illicit market for leaked - 「すべてのブレーキが外れた」：流出データの不法市場を抑制しようとするロシアの試み
   data backfires'
 date: 2025-12-26 13:36:41.989000+00:00
 categories:
@@ -15,7 +15,7 @@ source_title: '‘All brakes are off’: Russia’s attempt to rein in illicit m
 source_id: 439052039
 excerpt: 摘発で分散化したprobiv市場が地下化し海外諜報や詐欺に利用拡大
 ---
-# 国が潰そうとしたら逆に拡散？ ロシアの「probiv」流出データ市場が示す危機と教訓
+# ‘All brakes are off’: Russia’s attempt to rein in illicit market for leaked - 「すべてのブレーキが外れた」：流出データの不法市場を抑制しようとするロシアの試み
 
 ## 要約
 ロシアの長年にわたる“probiv”（流出データ照会）市場を国家が取り締まろうとした結果、利用者・運用形態が分散化し、かえって悪用のリスクが高まっていると報じられています。個人情報の流通経路と国家的パラドックスが浮き彫りになりました。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds
+title: More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds - 新規YouTubeユーザーに表示される動画の20%以上が「AIスロップ」であるとの調査結果
 date: 2025-12-27 19:39:21.030000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: More than 20% of videos shown to new YouTube users are ‘AI slop�
 source_id: 438039045
 excerpt: 新規ユーザーに表示される動画の20％超が低品質AI生成ショートで収益化も進む危機
 ---
-# YouTubeが「AIスロップ」だらけに？新規ユーザーに20％超表示される低品質AI動画の衝撃
+# More than 20% of videos shown to new YouTube users are ‘AI slop’, study finds - 新規YouTubeユーザーに表示される動画の20%以上が「AIスロップ」であるとの調査結果
 
 ## 要約
 海外調査で、新規YouTubeアカウントに表示される動画のうち20％超が低品質なAI生成動画（所謂「AIスロップ」）だったと報告。短尺・量産型コンテンツが推薦経路を席巻し、広告収益も生んでいる。

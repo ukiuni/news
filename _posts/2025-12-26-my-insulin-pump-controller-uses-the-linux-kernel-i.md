@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My insulin pump controller uses the Linux kernel. It also violates the GPL
+title: My insulin pump controller uses the Linux kernel. It also violates the GPL - 私のインスリンポンプコントローラーはLinuxカーネルを使用している。そしてGPLにも違反している
 date: 2025-12-26 20:51:42.140000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'The device that controls my insulin pump uses the Linux kernel. I
 source_id: 46395184
 excerpt: インスリンポンプにLinuxが使われ、メーカーがGPL違反で安全性と透明性が脅かされる事実
 ---
-# インスリンポンプの裏で動く「Linux」とGPL違反の衝撃 — 見えないOSが問う安全と透明性
+# My insulin pump controller uses the Linux kernel. It also violates the GPL - 私のインスリンポンプコントローラーはLinuxカーネルを使用している。そしてGPLにも違反している
 
 ## 要約
 ある投稿者が、インスリンポンプの制御機器にLinuxカーネルが使われていることを突き止め、さらにGPL（オープンソースライセンス）違反の疑いを指摘している。医療機器の安全性・透明性という観点から見逃せない話題だ。

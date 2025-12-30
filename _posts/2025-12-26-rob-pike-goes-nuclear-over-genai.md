@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rob Pike Goes Nuclear over GenAI
+title: Rob Pike Goes Nuclear over GenAI - ロブ・パイク、生成AIに対して激怒
 date: 2025-12-26 14:28:16.645000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Skyview
 source_id: 46392115
 excerpt: ロブ・パイクが警鐘、生成AIの致命的リスクと実務対応策を問う
 ---
-# ロブ・パイクがGenAIを痛烈批判 — エンジニアが今すぐ知るべき論点
+# Rob Pike Goes Nuclear over GenAI - ロブ・パイク、生成AIに対して激怒
 
 ## 要約
 伝説的なコンピュータ科学者ロブ・パイクがGenAI（生成AI）に対して強い懸念を表明したスレッドで、技術的・社会的なリスクとエンジニアリング文化への影響をめぐる議論が白熱しています。

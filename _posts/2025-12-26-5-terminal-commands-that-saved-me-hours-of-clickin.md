@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Terminal Commands That Saved Me Hours of Clicking
+title: 5 Terminal Commands That Saved Me Hours of Clicking - クリックの時間を数時間節約してくれた5つのターミナルコマンド
 date: 2025-12-26 03:59:51.972000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://dev.to/maame-codes/5-terminal-commands-that-saved-me-hours-o
 source_title: 5 Terminal Commands That Saved Me Hours of Clicking - DEV Community
 source_id: 3114994
 ---
-# クリック地獄から解放される5つのターミナル技—マウス依存を一気に断つ方法
+# 5 Terminal Commands That Saved Me Hours of Clicking - クリックの時間を数時間節約してくれた5つのターミナルコマンド
 
 ## 要約
 GUIでの無駄なクリックを減らし、作業速度と正確性を劇的に上げるターミナルの五つの基本コマンドを実例とともに解説する。

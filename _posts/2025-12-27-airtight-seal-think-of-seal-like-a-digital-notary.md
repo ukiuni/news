@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Airtight SEAL: Think of SEAL like a digital notary. It verifies that a file
+title: Airtight SEAL: Think of SEAL like a digital notary. It verifies that a file - 気密性の高いSEAL：SEALをデジタル公証人のように考えてください。ファイルが...
   hasn''t changed since it was signed, and that the signer is who they say they are.'
 date: 2025-12-27 12:41:00.012000+00:00
 categories:
@@ -14,7 +14,7 @@ source_title: Airtight SEAL - The Hacker Factor Blog
 source_id: 436953397
 excerpt: DNSで署名検証する軽量デジタル公証SEAL、改ざん無効化で媒体や医療データの真正性を安価に保証
 ---
-# デジタル「公証人」SEALが示す——ファイル真正性をDNSで証明する新しい選択肢
+# Airtight SEAL: Think of SEAL like a digital notary. It verifies that a file - 気密性の高いSEAL：SEALをデジタル公証人のように考えてください。ファイルが...
 
 ## 要約
 ファイルの改ざん検知と署名者の実在確認に特化した軽量プロトコル「SEAL」を紹介。C2PAのような包括規格と比べ、シンプルかつ分散的でプライバシー配慮が強いのが特徴。

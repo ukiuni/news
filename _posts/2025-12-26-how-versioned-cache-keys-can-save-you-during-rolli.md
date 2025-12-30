@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Versioned Cache Keys Can Save You During Rolling Deployments"
+title: How Versioned Cache Keys Can Save You During Rolling Deployments - バージョン管理されたキャッシュキーがローリングデプロイ中にあなたを救う方法
 date: 2025-12-26T04:04:26.640Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -9,7 +9,7 @@ source_title: "How Versioned Cache Keys Can Save You During Rolling Deployments"
 source_id: 438104427
 ---
 
-# ローリングデプロイでキャッシュに泣かないための最短ルート — キャッシュキーを「バージョン化」せよ
+# How Versioned Cache Keys Can Save You During Rolling Deployments - バージョン管理されたキャッシュキーがローリングデプロイ中にあなたを救う方法
 
 ## 要約
 ローリングデプロイ中に古いインスタンスと新しいインスタンスが混在すると、キャッシュの互換性違反や予期せぬ不整合が発生する。解決策はシンプルで効果的：キャッシュキーにバージョン（ネームスペース）を組み込み、移行を安全に管理すること。

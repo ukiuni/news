@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Explained what problem consistent hashing solves and how it works."
+title: Explained what problem consistent hashing solves and how it works. - コンシステントハッシュ法が解決する問題とその仕組みの解説
 date: 2025-12-29T20:31:08.231Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435120889
 excerpt: "VNodesで負荷を分散し、ノード増減時の再配置コストを激減する一貫性ハッシュ入門"
 ---
 
-# サーバー増減で悲鳴を上げない！実践・一貫性ハッシュ（Consistent Hashing）の仕組みと導入ポイント
+# Explained what problem consistent hashing solves and how it works. - コンシステントハッシュ法が解決する問題とその仕組みの解説
 
 ## 要約
 ノードの追加・削除に強い「一貫性ハッシュ」は、再分散コストを最小化してキャッシュやシャードの安定運用を実現する。要点はリング上の配置と「仮想ノード（VNodes）」で負荷を平滑化すること。

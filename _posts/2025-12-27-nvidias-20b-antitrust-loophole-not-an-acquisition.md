@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nvidia's $20B Antitrust Loophole (Not an Acquisition)
+title: Nvidia's $20B Antitrust Loophole (Not an Acquisition) - Nvidiaの200億ドルの独占禁止法回避策（買収ではない）
 date: 2025-12-27 19:40:43.441000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Nvidia's $20B Antitrust Loophole | Ossama Chaib
 source_id: 46403559
 excerpt: Nvidiaが$200億でGroqのIP獲得、SRAM推論が国内データセンターを激変
 ---
-# Nvidiaが$200億で買った「会社ではないもの」──日本の現場が注目すべき本当の意味
+# Nvidia's $20B Antitrust Loophole (Not an Acquisition) - Nvidiaの200億ドルの独占禁止法回避策（買収ではない）
 
 ## 要約
 NvidiaがGroqのIPと経営陣を約200億ドルで獲得したが、運営会社であるGroqCloudは切り離されたまま存続するという異例のディール。ポイントは「何を買い、何を買わなかったか」にある。

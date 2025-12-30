@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Electronic Arts Shareholders Approve $55 Billion Sale to Saudis"
+title: Electronic Arts Shareholders Approve $55 Billion Sale to Saudis - エレクトロニック・アーツの株主、サウジアラビアへの550億ドルの売却を承認
 date: 2025-12-26T09:14:25.833Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 440224413
 excerpt: "EAが550億ドルでサウジ資本に売却、ゲーム業界と日本開発に巨大影響"
 ---
 
-# EAが550億ドルで“サウジ化”へ――ゲーム産業の地図が塗り替えられる瞬間
+# Electronic Arts Shareholders Approve $55 Billion Sale to Saudis - エレクトロニック・アーツの株主、サウジアラビアへの550億ドルの売却を承認
 
 ## 要約
 Electronic Arts（EA）の株主が総額550億ドルのサウジ側による買収提案を承認。巨大資本の流入は、クラウド化・ライブサービス・データ管理を軸にゲーム業界と日本の開発コミュニティへ直撃する可能性がある。

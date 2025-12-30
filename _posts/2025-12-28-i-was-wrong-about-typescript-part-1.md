@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I was wrong about typescript part 1
+title: I was wrong about typescript part 1 - TypeScriptについて私は間違っていた 第1部
 date: 2025-12-28 19:19:09.874000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Amadu's and Don'ts
 source_id: 1658036199
 excerpt: TypeScriptの落とし穴と即効対策を実務視点で具体解説
 ---
-# TypeScriptを見くびっていた—気付くべき限界と、今すぐできる現実的対処（前編）
+# I was wrong about typescript part 1 - TypeScriptについて私は間違っていた 第1部
 
 ## 要約
 TypeScriptは完璧ではないが、設定とパターン次第で実用的な型安全性を実現できる。本稿は「問題点の整理」と「日本の現場で使える即効対策」を中心に解説する（元記事は前編）。

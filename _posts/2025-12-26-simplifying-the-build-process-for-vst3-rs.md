@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simplifying the build process for vst3-rs
+title: Simplifying the build process for vst3-rs - vst3-rsのビルドプロセスの簡素化
 date: 2025-12-26 20:54:02.724000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Simplifying the build process for vst3-rs — Micah Johnston
 source_id: 737712605
 excerpt: vst3-rs 0.3で生成済みバインディング同梱、SDK/libclang不要で導入とCIが高速化
 ---
-# VST3のRustバインディングが劇的に簡単に──vst3-rs 0.3.0で何が変わったか？
+# Simplifying the build process for vst3-rs - vst3-rsのビルドプロセスの簡素化
 
 ## 要約
 SteinbergのVST 3 SDKがMIT化されたのを受け、vst3-rs 0.3.0ではビルド時のバインディング生成と外部依存（libclang + VST3 SDK）が不要になり、生成済みバインディングをクレートに同梱してセットアップとビルド時間を大幅に改善した。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developed using react+vite
+title: Developed using react+vite - react+viteを使用して開発
 date: 2025-12-26 18:23:36.385000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: BrainSpark - Interactive Quiz Platform
 source_id: 438787846
 excerpt: React＋Viteで作る瞬速インタラクティブQuizの設計と実践ノウハウを解説
 ---
-# BrainSparkで遊ぶだけじゃない。React＋Viteで作られた“瞬速”インタラクティブQuizの設計を読み解く
+# Developed using react+vite - react+viteを使用して開発
 
 ## 要約
 BrainSparkはReact＋Viteで作られたインタラクティブなクイズプラットフォーム。軽快な開発体験と迅速なUXで、学習や試験対策、社内トレーニングに適した構造を持つ可能性が高い。

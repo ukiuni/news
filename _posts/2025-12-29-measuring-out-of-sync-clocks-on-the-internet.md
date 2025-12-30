@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Measuring out-of-sync clocks on the Internet"
+title: Measuring out-of-sync clocks on the Internet - インターネット上の同期のずれた時計を測定する
 date: 2025-12-29T10:24:55.580Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 1355585530
 excerpt: "*HTTP Date調査：95%は一致だが一部で数百日ズレ発見、運用リスクを要確認*"
 ---
 
-# インターネットの「時刻ズレ」を全力で測ってみたら — あなたのサービスが未来を返す確率は？
+# Measuring out-of-sync clocks on the Internet - インターネット上の同期のずれた時計を測定する
 
 ## 要約
 数百万ドメインをHTTPのDateヘッダで調べると、約95%は時刻が合っているが、一部には数秒〜数百日単位の大きなズレが存在する。大半は小さな誤差だが、タイムゾーン誤設定や共有ホスティング、運用ミスで致命的なズレが発生することが分かった。

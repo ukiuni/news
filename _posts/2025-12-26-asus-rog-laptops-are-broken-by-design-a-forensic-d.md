@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS ROG Laptops are Broken by Design: A Forensic Deep Dive'
+title: ASUS ROG Laptops are Broken by Design: A Forensic Deep Dive - ASUS ROGノートパソコンは設計上壊れている：フォレンジックな深掘り
 date: 2025-12-26 11:23:31.147000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: mcepdfs - Google ドライブ
 source_id: 439019608
 excerpt: フォレンジックが示すROGノートの電源・ファーム不備が、突発的な停止やバッテリ劣化を招く危険性を暴露
 ---
-# ASUS ROGノートは設計でつまずいている？フォレンジックが示す「電源・ファームの盲点」
+# ASUS ROG Laptops are Broken by Design: A Forensic Deep Dive - ASUS ROGノートパソコンは設計上壊れている：フォレンジックな深掘り
 
 ## 要約
 フォレンジック資料（ASUS-G533ZW-MCE-2025-001.pdf）と関連の電源管理仕様書（CLKREQ/L1サブステート文書）から、ROG系ノートにおける電源管理・ファームウェアの取り扱いが原因で安定性や省電力挙動に問題を生じさせている可能性が示唆される。

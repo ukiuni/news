@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Never Use Pixelation to Hide Sensitive Text (2014)
+title: Never Use Pixelation to Hide Sensitive Text (2014) - 機密テキストを隠すためにピクセル化（モザイク）を決して使ってはいけない (2014)
 date: 2025-12-28 18:17:03.341000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Why You Should Never Use Pixelation To Hide Sensitive Text | dheer
 source_id: 46345412
 excerpt: モザイクは数秒で個人情報を復元され得る—写真公開前に削除・塗りつぶしで確実に保護する方法を解説
 ---
-# モザイクで安心してない？「ぼかし」が個人情報を露出させる理由と今すぐできる対策
+# Never Use Pixelation to Hide Sensitive Text (2014) - 機密テキストを隠すためにピクセル化（モザイク）を決して使ってはいけない (2014)
 
 ## 要約
 画像上のテキストや数字をモザイク（ピクセレーション）で隠すと、攻撃者が候補を総当たりして元の文字列を復元できる。確実な対策は「隠す（削除/塗りつぶし）」こと。

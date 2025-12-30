@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quickly restoring 1M+ files from backup"
+title: Quickly restoring 1M+ files from backup - バックアップから100万以上のファイルを素早く復元する
 date: 2025-12-29T13:28:49.869Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435474144
 excerpt: "ボリュームを一度だけフラッシュして100万ファイルを秒単位で復元する実用手法"
 ---
 
-# 100万ファイルを秒単位で「耐久的に」復元する——Windowsで実運用に耐える現実解
+# Quickly restoring 1M+ files from backup - バックアップから100万以上のファイルを素早く復元する
 
 ## 要約
 大規模（100万ファイル級）のリポジトリ復元でボトルネックになるのは「1ファイルごとの同期（Flush）」。全ファイルを個別にフラッシュすると数倍〜数時間の遅延が発生するが、ボリューム（またはボリュームのルートディレクトリ）を一度だけフラッシュすることで実用的な耐久性と高速性を両立できるという実践的な手法。

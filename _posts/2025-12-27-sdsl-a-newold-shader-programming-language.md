@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SDSL : a new/old shader programming language'
+title: SDSL : a new/old shader programming language - SDSL：新しくて古いシェーダープログラミング言語
 date: 2025-12-27 13:42:50.380000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Blog - Stride Game Engine
 source_id: 436963096
 excerpt: StrideのSDSLは低メモリ・高性能な式パーサでSPIR‑V連携を目指す新旧折衷のシェーダ言語だ
 ---
-# 新旧のいいとこ取りで描く“次世代シェーダ言語”──SDSLが示すパフォーマンスと実装の勘所
+# SDSL : a new/old shader programming language - SDSL：新しくて古いシェーダープログラミング言語
 
 ## 要約
 Stride が提案する SDSL（新旧折衷のシェーダ言語）は、SPIR‑V 対応を見据えつつ、低メモリ・高性能を実現する新しいパーサ設計を採用している。この記事では、Part 3 の「プロトタイプ式パーサ」実装を手がかりに、その技術的要点と日本の開発現場での意義を整理する。

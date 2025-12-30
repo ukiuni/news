@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What does the software engineering job market look like heading into 2026?"
+title: What does the software engineering job market look like heading into 2026? - 2026年に向けてソフトウェアエンジニアリングの求人市場はどうなるか？
 date: 2025-12-29T15:27:58.893Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435373526
 excerpt: "2026年に向け、AI活用と設計力で差をつける即戦力人材が高需要に—新卒枠減で育成戦略も必須"
 ---
 
-# 2026年のソフトウェアエンジニア市場はこう動く — 日本のエンジニアが今すべきこと
+# What does the software engineering job market look like heading into 2026? - 2026年に向けてソフトウェアエンジニアリングの求人市場はどうなるか？
 
 ## 要約
 過剰採用→調整の流れで市場は安定フェーズへ移行。AIは「職を奪う魔物」ではなく、仕事の中身を変える触媒であり、即戦力・設計力・AIの使いこなしが評価される時代になる。

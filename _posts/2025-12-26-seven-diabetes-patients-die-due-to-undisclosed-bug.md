@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors
+title: Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors - アボット社の血糖値モニターの未公開バグにより、7人の糖尿病患者が死亡
 date: 2025-12-26 03:59:07.347000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Con
   Glucose Monitors - Conservancy Blog - Software Freedom Conservancy
 source_id: 46388040
 ---
-# たった一つの「見えないバグ」が命を奪った — Abbott Freestyle Libreで起きた医療機器ソフトウェアの危機
+# Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors - アボット社の血糖値モニターの未公開バグにより、7人の糖尿病患者が死亡
 
 ## 要約
 米国でAbbottの連続血糖測定器（CGM）Freestyle Libreに関する未開示のソフトウェア不具合が原因とされ、7名の糖尿病患者が死亡したと報告された。FDAの発表と患者・薬局の通知で事態が明るみに出た。

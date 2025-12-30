@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The future of software development is software developers"
+title: The future of software development is software developers - ソフトウェア開発の未来はソフトウェア開発者である
 date: 2025-12-29T22:25:56.104Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46424233
 excerpt: "AIは補助に過ぎず、開発者の技能強化が企業の競争力と未来を決める"
 ---
 
-# 開発者こそ未来を作る：AIブームの後に残る「人間の仕事」
+# The future of software development is software developers - ソフトウェア開発の未来はソフトウェア開発者である
 
 ## 要約
 LLMやノーコードの台頭で「開発者不要論」が繰り返されるが、本質は変わらない。ソフトウェア開発の難しさは人間の曖昧さを論理に落とし込むことにあり、AIは補助にとどまる――むしろ需要は増える可能性が高い。

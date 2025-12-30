@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automating What Backblaze Lifecycle Rules Don't Do Instantly
+title: Automating What Backblaze Lifecycle Rules Don't Do Instantly - Backblazeのライフサイクルルールが即座に行わないことの自動化
 date: 2025-12-26 09:17:11.660000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'Automating What Backblaze Lifecycle Rules Don''t Do Instantly :: 
 source_id: 1424259147
 excerpt: B2の遅延で溜まる隠れバージョンをrcloneで即削除、請求を激減
 ---
-# Backblazeの「消えるはず」が消えない問題を即解決する方法 — 大容量バックアップで無駄な課金を防ぐ一手
+# Automating What Backblaze Lifecycle Rules Don't Do Instantly - Backblazeのライフサイクルルールが即座に行わないことの自動化
 
 ## 要約
 Backblaze B2のライフサイクルは即時ではなく最大48時間待機＋24時間ごとのクリーンアップで、大容量ファイルを頻繁に上書きすると「日毎請求」で不要な重複ストレージ費用が発生する。rcloneの cleanup を定期実行すれば即座に古いバージョンを削除できる。

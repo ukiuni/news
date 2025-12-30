@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SIMD City: Auto-Vectorisation'
+title: SIMD City: Auto-Vectorisation - SIMD City：自動ベクトル化
 date: 2025-12-27 06:40:21.391000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'SIMD City: Auto-vectorisation — Matt Godbolt’s blog'
 source_id: 46336019
 excerpt: この記事の詳細をチェック
 ---
-# SIMDで一度に8個を支配する — コンパイラの自動ベクトル化を読み解く
+# SIMD City: Auto-Vectorisation - SIMD City：自動ベクトル化
 
 ## 要約
 コンパイラは単純ループを自動的にSIMD命令に置き換え、要素ごとの更新を一度に処理して高速化する。条件付き更新では「マスク書き戻し」を使い、条件を外してしまえる場合はさらに効率化される。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chasing an Economic Boom, White House Dismisses Risks of A.I."
+title: Chasing an Economic Boom, White House Dismisses Risks of A.I. - 経済ブームを追い求め、ホワイトハウスはAIのリスクを退ける
 date: 2025-12-27T16:39:36.400Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 436855591
 excerpt: "この記事の詳細をチェック"
 ---
 
-# 成長を優先する政府と見落とされる危険──「経済ブーム追求」で変わるAI政策の落とし穴
+# Chasing an Economic Boom, White House Dismisses Risks of A.I. - 経済ブームを追い求め、ホワイトハウスはAIのリスクを退ける
 
 ## 要約
 ホワイトハウスがAIによる経済成長を最優先し、リスク評価や規制を後回しにしていると伝えられる。政策の方向性は短期的な景気刺激には有効でも、長期的な安全性や社会的影響を見落とす懸念がある。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building a macOS app to know when my Mac is thermal throttling
+title: Building a macOS app to know when my Mac is thermal throttling - Macがサーマルスロットリングを起こしているか知るためのmacOSアプリの構築
 date: 2025-12-28 14:58:03.259000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: Building a macOS app to know when my Mac is thermal throttling · 
 source_id: 46410402
 excerpt: ファンレスMacでRoot不要に熱状態を監視しサーマルスロットリングを即検知する方法
 ---
-# ファンレスMacで「いつサーマルスロットリングしているか」を見抜く方法 — MacThrottle開発から学ぶ実装手法
+# Building a macOS app to know when my Mac is thermal throttling - Macがサーマルスロットリングを起こしているか知るためのmacOSアプリの構築
 
 ## 要約
 M2系などファンレスMacでは熱による性能低下（サーマルスロットリング）が体感でしか分からないことが多い。powermetricsは詳細を出すがrootが必要。一方で thermald が Darwin 通知に書き出す情報を監視すれば、root不要でより細かい熱状態が取れる — これを利用したのが MacThrottle の肝だ。

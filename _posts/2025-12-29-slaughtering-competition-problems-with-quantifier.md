@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slaughtering Competition Problems with Quantifier Elimination
+title: Slaughtering Competition Problems with Quantifier Elimination - 限定記号消去法で競技問題を圧倒する
 date: 2025-12-29 01:01:12.550000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: Slaughtering Competition Problems with Quantifier Elimination | Ch
 source_id: 46415448
 excerpt: Sage＋QEPCADで競技数学の不等式や存在命題を自動解析・証明・反例列挙する実践手法を解説
 ---
-# 量化子消去で競技数学を“機械任せ”にする — Sage＋QEPCADで不等式を一撃
+# Slaughtering Competition Problems with Quantifier Elimination - 限定記号消去法で競技問題を圧倒する
 
 ## 要約
 量化子消去（quantifier elimination）を使えば、実数上の多項式（不）等式に含まれる「∃」「∀」を除去して同値な量化子なし式に変換できる。Sage＋QEPCAD を使えば競技数学の捻った不等式や条件付き存在命題を自動で解析・証明できる。

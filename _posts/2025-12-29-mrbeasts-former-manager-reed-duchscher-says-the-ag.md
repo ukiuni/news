@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MrBeast's former manager Reed Duchscher, says the age of social-media superstars is fading: \"As social-media algorithms get better at tailoring content to individual user interests, the opportunity for stars to show up across feeds becomes much harder,\" Duchscher said."
+title: MrBeast's former manager Reed Duchscher, says the age of social-media superstars is fading: \"As social-media algorithms get better at tailoring content to individual user interests, the opportunity for stars to show up across feeds becomes much harder,\" Duchscher said. - MrBeastの元マネージャー、リード・ダッシャー氏、ソーシャルメディア・スーパースターの時代は終わりつつあると語る
 date: 2025-12-29T02:49:51.642Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 436949326
 excerpt: "アルゴリズム最適化で巨大スターは衰退、ニッチ特化で稼ぐ新ルール"
 ---
 
-# 巨大スター時代の終わり？アルゴリズムが生む「ニッチ勝者」の台頭
+# MrBeast's former manager Reed Duchscher, says the age of social-media superstars is fading: \"As social-media algorithms get better at tailoring content to individual user interests, the opportunity for stars to show up across feeds becomes much harder,\" Duchscher said. - MrBeastの元マネージャー、リード・ダッシャー氏、ソーシャルメディア・スーパースターの時代は終わりつつあると語る
 
 ## 要約
 ソーシャルメディアの推薦アルゴリズムがユーザーごとの嗜好に最適化されるにつれ、全ユーザーのフィードを横断して露出する“MrBeast級”のスーパースターが生まれにくくなる。代わりに、特定ジャンルで深い信頼を築く「ニッチクリエイター」がビジネス的に有利になるという見立てだ。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When a driver challenges the kernel's assumptions"
+title: When a driver challenges the kernel's assumptions - ドライバーがカーネルの前提に挑むとき
 date: 2025-12-26T04:05:04.773Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -9,7 +9,7 @@ source_title: "When a driver challenges the kernel's assumptions"
 source_id: 46388059
 ---
 
-# USBディスプレイがカーネルの「常識」を壊した日 — DisplayLinkとOpenBSD開発者たちの攻防
+# When a driver challenges the kernel's assumptions - ドライバーがカーネルの前提に挑むとき
 
 ## 要約
 USB接続の小型ディスプレイ（DisplayLink製品）が、従来の「固定的なハードウェア＝ブート時決定」モデルを前提としたカーネル設計に矛盾を突きつけ、OpenBSDコミュニティがその対応に追われた実話。

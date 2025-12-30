@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Show: Twine - A tool to dynamically trace calls in production Elixir systems'
+title: Show: Twine - A tool to dynamically trace calls in production Elixir systems - Show: Twine - 本番環境のElixirシステムで呼び出しを動的にトレースするツール
 date: 2025-12-26 21:07:34.875000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'GitHub - ollien/twine: Trace calls in Elixir processes'
 source_id: 1601729135
 excerpt: 本番稼働中のElixirを安全に“生で覗き”、関数呼び出しを絞って即座に原因特定できるTwineツール紹介
 ---
-# 本番稼働中のElixirを“生で覗く” — Twineで安全に関数呼び出しをトレースする方法
+# Show: Twine - A tool to dynamically trace calls in production Elixir systems - Show: Twine - 本番環境のElixirシステムで呼び出しを動的にトレースするツール
 
 ## 要約
 TwineはFerdのrecon_traceをElixir寄りにラップしたツールで、本番BEAMプロセスの呼び出しを安全かつ可読なElixir構文で出力できる。問題箇所の特定を素早く行いたいエンジニアに最適。

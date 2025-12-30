@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The seepage of AI into Christian practice is disturbing | What does it mean when chatbots become digital pastors or religious music is bot-generated?"
+title: The seepage of AI into Christian practice is disturbing | What does it mean when chatbots become digital pastors or religious music is bot-generated? - キリスト教の習慣へのAIの浸透は不穏である | チャットボットがデジタル牧師になり、宗教音楽がボット生成されることは何を意味するのか？
 date: 2025-12-26T17:48:57.010Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 438824806
 excerpt: "AIがデジタル牧師や礼拝音楽を生成し、信仰と倫理の境界を揺るがす衝撃"
 ---
 
-# AIが「デジタル牧師」や自動生成礼拝音楽を生むとき — 信仰と生成AIの境界線が消える恐怖と実務
+# The seepage of AI into Christian practice is disturbing | What does it mean when chatbots become digital pastors or religious music is bot-generated? - キリスト教の習慣へのAIの浸透は不穏である | チャットボットがデジタル牧師になり、宗教音楽がボット生成されることは何を意味するのか？
 
 ## 要約
 生成AIがチャットボットを「牧師」のように振る舞わせ、宗教音楽や説教を自動生成する動きが広がると、誤情報・倫理・責任の問題が宗教実践の領域で露呈する可能性がある。

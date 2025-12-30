@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intertapes – collection of found cassette tapes from different locations
+title: Intertapes – collection of found cassette tapes from different locations - Intertapes – 様々な場所で見つかったカセットテープのコレクション
 date: 2025-12-27 12:40:11.341000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Intertapes
 source_id: 46345528
 excerpt: 発見カセットを修復・高解像度化して失われた地域記憶を可視化する実践ガイド
 ---
-# 発見カセットが語る記憶のアーカイブ — Intertapesに学ぶ「捨てられた音」を救う技術と実践
+# Intertapes – collection of found cassette tapes from different locations - Intertapes – 様々な場所で見つかったカセットテープのコレクション
 
 ## 要約
 世界中で見つかったカセットテープを集めたIntertapesは、忘れられたアナログ音源をデジタル化し、文化的／技術的価値を掘り起こすプロジェクトだ。音質劣化との戦い、適切なデジタル保存フォーマット、メタデータ設計が核心となる。

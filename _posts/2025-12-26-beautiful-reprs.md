@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beautiful reprs
+title: Beautiful reprs - 美しいrepr（表現）
 date: 2025-12-26 11:24:59.247000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Beautiful reprs | blinov
 source_id: 1102099719
 excerpt: 再現性ある美しいrepr生成と機密マスクでログを安全にする小型ライブラリprinto
 ---
-# Pythonの表示がプロ級に変わる — 美しいreprと小さなライブラリ「printo」でデバッグとログを磨く
+# Beautiful reprs - 美しいrepr（表現）
 
 ## 要約
 REPLやログでオブジェクトが読みやすいことはライブラリの使い勝手を左右する。元記事は、再現可能で安全な __repr__ を自動生成する小さなライブラリ printo を紹介している。

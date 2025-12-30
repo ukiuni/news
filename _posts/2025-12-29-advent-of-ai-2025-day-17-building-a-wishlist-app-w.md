@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Advent of AI 2025 - Day 17: Building a Wishlist App with Goose and MCP-UI"
+title: Advent of AI 2025 - Day 17: Building a Wishlist App with Goose and MCP-UI - AIのアドベント 2025 - 17日目：GooseとMCP-UIでウィッシュリストアプリを構築する
 date: 2025-12-29T13:27:59.278Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 3130302
 excerpt: "GooseとMCP‑UIでチャット内ウィッシュリストを即構築、iframe問題も解決"
 ---
 
-# チャット内に魔法の願い箱を描く：Goose＋MCP‑UIで作るウィッシュリスト実践ガイド
+# Advent of AI 2025 - Day 17: Building a Wishlist App with Goose and MCP-UI - AIのアドベント 2025 - 17日目：GooseとMCP-UIでウィッシュリストアプリを構築する
 
 ## 要約
 Goose（オープンソースAIエージェント）とMCP‑UIを使って、チャットクライアント内にインタラクティブなウィッシュリストUIを提供するMCPサーバを短期間で構築する手法を紹介。実装のコツや開発ワークフロー、躓きやすいiframeサイズ問題の解決法を押さえる。

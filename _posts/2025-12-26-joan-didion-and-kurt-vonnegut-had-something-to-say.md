@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joan Didion and Kurt Vonnegut had something to say. We have it on tape"
+title: Joan Didion and Kurt Vonnegut had something to say. We have it on tape - ジョーン・ディディオンとカート・ヴォネガットには言いたいことがあった。それをテープに収めている
 date: 2025-12-26T14:16:22.039Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46351836
 excerpt: "ディディオンとヴォネガットの録音が示す保存・解析の技術課題と実務対応策"
 ---
 
-# 聞くアーカイブが語る未来──ディディオンとヴォネガットの「声」を巡る技術的教訓
+# Joan Didion and Kurt Vonnegut had something to say. We have it on tape - ジョーン・ディディオンとカート・ヴォネガットには言いたいことがあった。それをテープに収めている
 
 ## 要約
 1960〜90年代の作家たちの肉声録音が「テープで残る」ことは、単なるノスタルジーではなく、デジタル時代の保存・解析・公開に関する技術課題と機会を照らす試金石になる。

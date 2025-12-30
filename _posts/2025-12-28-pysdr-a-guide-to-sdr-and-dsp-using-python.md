@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PySDR: A Guide to SDR and DSP Using Python'
+title: PySDR: A Guide to SDR and DSP Using Python - PySDR：Pythonを使用したSDRとDSPのガイド
 date: 2025-12-28 22:17:42.362000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'Introduction | PySDR: A Guide to SDR and DSP using Python'
 source_id: 46413975
 excerpt: 無料のPySDRでRTL-SDRからUSRPへ、実機とPythonでSDR/DSPを実習
 ---
-# Pythonで触るSDR入門 — 無料テキスト「PySDR」で見て学ぶRF信号処理
+# PySDR: A Guide to SDR and DSP Using Python - PySDR：Pythonを使用したSDRとDSPのガイド
 
 ## 要約
 PySDRは「視覚と実践」で学ぶソフトウェア無線（SDR）×デジタル信号処理（DSP）の入門テキスト。Pythonコードと豊富なアニメーションで、ハードウェア操作から高度な処理まで短期間で体得できます。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Show HN: Spice Cayenne – SQL acceleration built on Vortex'
+title: Show HN: Spice Cayenne – SQL acceleration built on Vortex - Show HN: Spice Cayenne – Vortex上に構築されたSQLアクセラレーション
 date: 2025-12-26 03:00:01.726000+00:00
 categories:
 - tech
@@ -15,7 +15,7 @@ hn_id: 46316991
 hn_score: 41
 hn_comments: 4
 ---
-# Spice Cayenne上陸：Vortexで再定義された「データアクセラレータ」の正体と使いどころ
+# Show HN: Spice Cayenne – SQL acceleration built on Vortex - Show HN: Spice Cayenne – Vortex上に構築されたSQLアクセラレーション
 
 ## 要約
 Spice Cayenneは、Vortex列指向フォーマットと軽量メタデータ層を組み合わせて、オブジェクトストレージ上の大規模データを低メモリで高速にクエリできる次世代データアクセラレータ。特にマルチテラバイト級のレイクワークロードで真価を発揮する。

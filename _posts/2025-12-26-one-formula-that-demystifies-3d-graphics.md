@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Formula That Demystifies 3D Graphics
+title: One Formula That Demystifies 3D Graphics - 3Dグラフィックスの謎を解き明かす一つの公式
 date: 2025-12-26 03:56:35.394000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://www.youtube.com/watch?v=qjWkNZ0SXfo
 source_title: One Formula That Demystifies 3D Graphics - YouTube
 source_id: 438480949
 ---
-# たった1式で3Dが腑に落ちる — レンダリング方程式で理解する光の流れ
+# One Formula That Demystifies 3D Graphics - 3Dグラフィックスの謎を解き明かす一つの公式
 
 ## 要約
 3Dグラフィックスの核は「光の移動」を表す一つの式、レンダリング方程式に集約される。式を分解して理解すると、リアルタイムレンダリングとオフラインレンダリングの違いや各近似手法の理由がすんなり見えてくる。

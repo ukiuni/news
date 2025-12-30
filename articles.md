@@ -17,7 +17,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/stranger-things-creator-says-turn-off-garbage-sett/' | relative_url }}">stranger things creator says turn off garbage sett</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/mongodb-server-security-update-december-2025/' | relative_url }}">mongodb server security update december 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/micro-center-lists-8tb-wd_black-ssd-at-2419-msrp-r/' | relative_url }}">micro center lists 8tb wd_black ssd at 2419 msrp r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/leonardo-dicaprio-says-ai-can-never-be-art-because/' | relative_url }}">leonardo dicaprio says ai can never be art because</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>

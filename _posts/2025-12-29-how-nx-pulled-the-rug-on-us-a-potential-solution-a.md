@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Nx \"pulled the rug\" on us, a potential solution and lessons learned"
+title: How Nx \"pulled the rug\" on us, a potential solution and lessons learned - Nxがいかにして私たちを裏切ったか、潜在的な解決策と教訓
 date: 2025-12-29T09:50:42.540Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435538555
 excerpt: "CIのファイルキャッシュ＋単一GoバイナリでNxのリモートキャッシュを追加サービス無しで実現"
 ---
 
-# Nxが“足元”を掬ったときに使う最速の裏技 — CIのファイルキャッシュで実現するNxリモートキャッシュ
+# How Nx \"pulled the rug\" on us, a potential solution and lessons learned - Nxがいかにして私たちを裏切ったか、潜在的な解決策と教訓
 
 ## 要約
 Nxがカスタムタスクランナーを廃止した問題に対し、CIのファイルキャッシュを利用するローカルHTTPキャッシュ（Go製の単一バイナリ）で代替する手法を紹介する。手間をかけずにリモートキャッシュ相当の効果を得られる現実的な解だ。

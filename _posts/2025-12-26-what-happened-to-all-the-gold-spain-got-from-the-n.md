@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What happened to all the gold Spain got from the New World? (1985)
+title: What happened to all the gold Spain got from the New World? (1985) - スペインが新世界から得たすべての金はどうなったのか？ (1985)
 date: 2025-12-26 15:27:16.730000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: What happened to all the gold Spain got from the New World? - The 
 source_id: 46352016
 excerpt: 新大陸の黄金はインフレと浪費で国外へ流出し、スペインの没落を招いた教訓
 ---
-# 新大陸の黄金はどこへ消えた？──16世紀スペインが教える「金＝富」神話の破綻
+# What happened to all the gold Spain got from the New World? (1985) - スペインが新世界から得たすべての金はどうなったのか？ (1985)
 
 ## 要約
 大量の金がスペインに流入したにも関わらず国力は衰えた。その理由は盗難や沈没だけでなく、貨幣量増加によるインフレ（Price Revolution）、輸入超過による金の流出、そして生産投資の欠如にある。

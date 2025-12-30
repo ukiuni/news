@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI Employees Don't Pay Taxes"
+title: AI Employees Don't Pay Taxes - AI従業員は税金を払わない
 date: 2025-12-29T23:30:02.425Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46426596
 excerpt: "AIが雇用を奪うと税収が消え、道路や医療は誰が守る？企業課税で埋まるか？"
 ---
 
-# AIが給料を奪うと、道路は誰が守るのか？——「AI従業員は税金を払わない」の核心
+# AI Employees Don't Pay Taxes - AI従業員は税金を払わない
 
 ## 要約
 AIによる労働代替は短期的な効率を生むが、給与課税が減ることで公共財の財源が失われるリスクがある。社会を維持する税基盤をどう設計するかが、技術的議論と同じくらい重要になる。

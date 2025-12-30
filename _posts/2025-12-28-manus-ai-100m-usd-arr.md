@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Manus AI 100M USD ARR
+title: Manus AI 100M USD ARR - Manus AI、年間経常収益（ARR）1億ドル
 date: 2025-12-28 09:14:56.436000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'Manus Update: $100M ARR, $125M revenue run-rate'
 source_id: 46409245
 excerpt: Manus、8か月でARR1億ドル達成、業務を任せるエージェントAIの時代へ
 ---
-# たった8か月で100Mドル達成――Manusが示す「タスク委譲型AI」の次フェーズ
+# Manus AI 100M USD ARR - Manus AI、年間経常収益（ARR）1億ドル
 
 ## 要約
 Manusがローンチ8か月で年次定常収益（ARR）100Mドルを突破。General AI Agentや「Context Engineering」「Wide Research」といった技術で、人とAIの協働を「質問応答」から「タスク委譲」へ進化させています。

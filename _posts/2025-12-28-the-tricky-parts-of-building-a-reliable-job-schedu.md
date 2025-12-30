@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The tricky parts of building a reliable job scheduler: leases, idempotency,
+title: The tricky parts of building a reliable job scheduler: leases, idempotency, - 信頼性の高いジョブスケジューラを構築する際の難しい部分：リース、べき等性
   and timezone-aware cron'
 date: 2025-12-28 23:18:31.313000+00:00
 categories:
@@ -17,7 +17,7 @@ source_title: 'GitHub - Spooled-Cloud/spooled-backend: High-performance webhook 
 source_id: 437103901
 excerpt: リース・冪等性・タイムゾーンCronで分散ジョブの落とし穴と実装指針を具体解説
 ---
-# 分散ジョブを“確実に”回すための地雷回避ガイド — リース、冪等性、タイムゾーンCronを徹底解説
+# The tricky parts of building a reliable job scheduler: leases, idempotency, - 信頼性の高いジョブスケジューラを構築する際の難しい部分：リース、べき等性
 
 ## 要約
 Spooled の設計から、分散ジョブスケジューラで実運用するときに必ず直面する「リース（lease）」「冪等性（idempotency）」「タイムゾーン対応Cron」の課題と、その現実的な回避策を技術的に整理する。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Activist group says it has scraped 86m music files from Spotify
+title: Activist group says it has scraped 86m music files from Spotify - 活動家グループ、Spotifyから8600万の音楽ファイルをスクレイピングしたと発表
 date: 2025-12-26 09:10:43.133000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: Activist group says it has scraped 86m music files from Spotify | 
 source_id: 441643740
 excerpt: Spotifyから8600万曲と2.56億メタデータ流出、AI悪用の危機
 ---
-# 8600万曲流出とAIの悪夢：Spotifyスクレイピング事件が日本の音楽業界に投げかける問い
+# Activist group says it has scraped 86m music files from Spotify - 活動家グループ、Spotifyから8600万の音楽ファイルをスクレイピングしたと発表
 
 ## 要約
 活動家グループ「Anna’s Archive」がSpotifyから約8600万の音声ファイルと2.56億件のメタデータをスクレイプしたと主張。Spotifyは不正アクセスとDRM回避を確認し、調査中だと発表している。問題は単なる海賊版流出に留まらず、AIモデルの学習データ化という二次被害を生む可能性が高い。

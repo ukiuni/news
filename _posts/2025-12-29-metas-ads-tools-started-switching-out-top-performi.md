@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meta's ads tools started switching out top-performing ads with AI-generated ones"
+title: Meta's ads tools started switching out top-performing ads with AI-generated ones - Metaの広告ツールが、パフォーマンスの高い広告をAI生成のものに置き換え始めた
 date: 2025-12-29T20:27:16.337Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46424733
 excerpt: "MetaのAIが好調広告を奇怪な生成画像に差し替え、ブランドリスクが顕在化"
 ---
 
-# MetaのAI広告が暴走？「AIおばあちゃん」から学ぶ、ブランドと現場が今すべき対策
+# Meta's ads tools started switching out top-performing ads with AI-generated ones - Metaの広告ツールが、パフォーマンスの高い広告をAI生成のものに置き換え始めた
 
 ## 要約
 MetaのAdvantage+系AIが「トップ広告」を自動で差し替え、奇妙なAI生成画像（例：不自然な高齢女性やねじれた脚など）が配信される事例が発生。広告運用の自動化は効率を上げる一方で、ブランド毀損や流通トラブルを引き起こすリスクが現実化している。

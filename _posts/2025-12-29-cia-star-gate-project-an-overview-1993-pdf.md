@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CIA Star Gate Project: An Overview (1993) [pdf]"
+title: CIA Star Gate Project: An Overview (1993) [pdf] - CIAスターゲート・プロジェクト：概要 (1993) [pdf]
 date: 2025-12-29T12:28:32.473Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46417110
 excerpt: "極秘文書で明かされるCIAの遠隔透視実験と、科学的検証が示す致命的な問題点とは？"
 ---
 
-# CIA極秘「スターゲート計画」が教える――科学と疑念のはざまで語られる“超感覚情報収集”の実録
+# CIA Star Gate Project: An Overview (1993) [pdf] - CIAスターゲート・プロジェクト：概要 (1993) [pdf]
 
 ## 要約
 冷戦期に米情報機関が資金を投じた「リモート・ビューイング（遠隔透視）」研究の全貌。成果と限界、そして現代の実証科学に投げかける教訓を短く整理する。

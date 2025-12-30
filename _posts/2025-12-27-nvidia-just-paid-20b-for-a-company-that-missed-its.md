@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75%
+title: Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75% - Nvidia、収益目標を75%下回った企業に200億ドルを支払う
 date: 2025-12-27 17:40:29.011000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: Nvidia Just Paid $20 Billion for a Company That Missed Its Revenue
 source_id: 46403041
 excerpt: Nvidiaが売上目標を75%下回るGroqを200億ドルで買収、低遅延LPUで勝負は成功するか？
 ---
-# 200億ドルで買われた「速さ」の会社が売上目標を75%カット — Nvidiaの賭けは当たるのか？
+# Nvidia Just Paid $20B for a Company That Missed Its Revenue Target by 75% - Nvidia、収益目標を75%下回った企業に200億ドルを支払う
 
 ## 要約
 NvidiaがGroqを約200億ドルで買収。GroqはLLM推論を極端に高速化するLPU（Language Processing Unit）で注目を集める一方、最近の売上見通しを$2B→$0.5Bに下方修正し、目標を$75\%$も削減している（元記事報告）。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ratings Tank For Kennedy Center Honors With US President as Host
+title: Ratings Tank For Kennedy Center Honors With US President as Host - 米国大統領がホストを務めたケネディ・センター名誉賞の視聴率が急落
 date: 2025-12-26 03:49:22.502000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://www.tmz.com/2025/12/25/trump-hosted-kennedy-center-honors-ta
 source_title: Ratings Tank For Kennedy Center Honors With President Trump as Host
 source_id: 438202109
 ---
-# トランプ司会で視聴率が激減──「政治×エンタメ」が示すメディア計測の盲点と実務的教訓
+# Ratings Tank For Kennedy Center Honors With US President as Host - 米国大統領がホストを務めたケネディ・センター名誉賞の視聴率が急落
 
 ## 要約
 米CBSで放送されたKennedy Center Honorsが、前大統領をホストに迎えた回で視聴率が大幅に落ち、Nielsenの予備集計で約2.65百万視聴者（前年比約35%減）を記録した。単なる話題性だけでは視聴数は確保できないことを示すケースだ。

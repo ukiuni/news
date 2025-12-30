@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI faces closing time at the cash buffet
+title: AI faces closing time at the cash buffet - AI、現金バッフェの閉店時間に直面
 date: 2025-12-26 03:52:41.303000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://www.theregister.com/2025/12/24/ai_spending_cooling_off/
 source_title: AI faces closing time at the cash buffet • The Register
 source_id: 438085156
 ---
-# AIの現金バフェットは閉店間近？1.5兆ドル投資の正体と日本企業が取るべき戦略
+# AI faces closing time at the cash buffet - AI、現金バッフェの閉店時間に直面
 
 ## 要約
 グローバルでAI投資が約1.5兆ドルに達する一方、目に見える事業価値は限定的で、データセンターや「AIエージェント」中心の投資が持続可能か疑問が出てきている。日本企業が取るべき現実的な対策を示す。

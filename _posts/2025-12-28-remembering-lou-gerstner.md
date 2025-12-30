@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remembering Lou Gerstner
+title: Remembering Lou Gerstner - ルー・ガースナーを偲んで
 date: 2025-12-28 20:18:10.936000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Remembering Lou Gerstner
 source_id: 46413365
 excerpt: 顧客起点でIBMを再生したゲルストナー流の組織と会議改革の実践術、今すぐ使える
 ---
-# 伝説の「顧客起点」で企業を救った男──ルー・ゲルストナーが残したテック企業の教科書
+# Remembering Lou Gerstner - ルー・ガースナーを偲んで
 
 ## 要約
 ルー・ゲルストナーは1993〜2002年のIBM再建で「顧客に価値を届けること」を起点に組織・文化・戦略を再設計し、IBMを一つにまとめて現代の企業向けソリューション志向へと変貌させた。彼の手法は技術経営の普遍的な教訓を含む。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Codex vs. Claude Code (today)
+title: Codex vs. Claude Code (today) - Codex vs. Claude Code（現在）
 date: 2025-12-26 13:43:29.319000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Codex vs. Claude Code (Today)
 source_id: 46391391
 excerpt: Codexは一括自動生成で高速成果、Claudeは対話で精緻化—現場別最適運用ガイド
 ---
-# Codex vs Claude Code — 2025年末、現場で使い分けるための“勝ち筋”ガイド
+# Codex vs. Claude Code (today) - Codex vs. Claude Code（現在）
 
 ## 要約
 Codexは「手放しても高品質を返す」バッチ志向の自動化に強く、Claude Codeは「細かくチューニングして対話的に作る」ことに向いている。両者は用途とワークスタイルで使い分けるのが現実的な最短ルートだ。

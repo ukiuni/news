@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feynman's Hughes Lectures: 950 pages of notes"
+title: Feynman's Hughes Lectures: 950 pages of notes - ファインマンのヒューズ講義：950ページのノート
 date: 2025-12-29T12:27:03.464Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46419273
 excerpt: "950ページのフェインマン講義で直感・近似・図解思考を実務に応用する手法が学べる"
 ---
 
-# フェインマンの“頭の中”を垣間見る950ページ――直感と省力化の物理学ノート
+# Feynman's Hughes Lectures: 950 pages of notes - ファインマンのヒューズ講義：950ページのノート
 
 ## 要約
 1966〜1971年の講義ノート計950ページに及ぶ資料は、フェインマンの直感的な思考法・教育法・計算の省力化が凝縮されており、現代の研究者や教育者が学び直すべき知見に富んでいる。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "All Delisted Steam Games"
+title: All Delisted Steam Games - Steamから削除されたすべてのゲーム
 date: 2025-12-29T20:28:46.669Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46424262
 excerpt: "Steamで消えた1000本超の実例から学ぶ、買ったゲームを失わない保存術と法的リスク"
 ---
 
-# Steamから消えたゲームたちが教えてくれる「デジタル資産の脆弱さ」
+# All Delisted Steam Games - Steamから削除されたすべてのゲーム
 
 ## 要約
 Steam上で掲載終了（delisted）になったタイトルは既に1,038本にのぼり、ライセンス切れや権利関係、サーバ停止などでデジタル配信が消える現象が恒常化している。これはプレイヤー、開発者、そしてアーカイブを志すエンジニアにとって無視できない問題だ。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster
+title: Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster - Windows x86-64向けのPython 3.15インタープリタは、15%高速化される見込み
 date: 2025-12-26 03:54:10.518000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Python 3.15’s interpreter for Windows x86-64 should hopefully be
   faster | Ken Jin’s Blog
 source_id: 46384167
 ---
-# Windows版CPythonが約15%速くなるかもしれない話 — 3.15で変わる“インタプリタの中身”
+# Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster - Windows x86-64向けのPython 3.15インタープリタは、15%高速化される見込み
 
 ## 要約
 Windows x86-64向けMSVCビルドで、インタプリタ実装を「tail-call（末尾呼び出し）方式」にすると pyperformance 上で約15% のジオメトリック平均向上が観測されたという報告。macOS AArch64 でも5%程度の改善が確認されている。

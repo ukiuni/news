@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Commandry - A Command-Line Parser for Standard ML
+title: Commandry - A Command-Line Parser for Standard ML - Commandry - Standard ML用のコマンドラインパーサー
 date: 2025-12-27 15:42:51.086000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'GitHub - PerplexSystems/commandry: A command-line parser for Stan
 source_id: 1137160111
 excerpt: 単一ファイルで導入できる宣言的CLIライブラリでSMLの学術ツールを素早く作れる
 ---
-# 標準MLでCLIを秒速生成 — Commandryが学術ツールとユーティリティ開発を変える理由
+# Commandry - A Command-Line Parser for Standard ML - Commandry - Standard ML用のコマンドラインパーサー
 
 ## 要約
 Commandryは「単一ファイル」で使えるStandard ML向けの宣言型コマンドラインパーサー。サブコマンドや多様な引数タイプ、自動生成されるヘルプ/バージョン表示を簡潔なAPIで提供するため、研究ツールや小型ユーティリティの開発がぐっと楽になる。

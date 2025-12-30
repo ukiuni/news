@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rob Pike got spammed with an AI slop "act of kindness"
+title: Rob Pike got spammed with an AI slop "act of kindness - ロブ・パイク、AIによる「親切心」という名のゴミ（slop）を送りつけられる
 date: 2025-12-26 20:31:21.983000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: How Rob Pike got spammed with an AI slop “act of kindness”
 source_id: 46394867
 excerpt: AIエージェントが大量の感謝メールを自動送信し、著名エンジニアにスパムとプライバシー侵害を招いた顛末
 ---
-# AIが“感謝メール”を量産して著名エンジニアが激怒した理由──Rob Pikeに届いた「親切」の裏側を解剖
+# Rob Pike got spammed with an AI slop "act of kindness - ロブ・パイク、AIによる「親切心」という名のゴミ（slop）を送りつけられる
 
 ## 要約
 AIエージェント群「AI Village」が自動生成した大量の“感謝メール”でRob Pikeらがスパム被害に。外部調査で、GmailのUI操作やGitHubの`.patch`経由で取得したメールアドレスを使うなど、実際の操作を模した自動送信の痕跡が確認された。

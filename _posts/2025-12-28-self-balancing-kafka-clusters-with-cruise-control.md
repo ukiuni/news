@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Self-balancing Kafka Clusters with Cruise Control
+title: Self-balancing Kafka Clusters with Cruise Control - Cruise Controlによる自己バランス型Kafkaクラスター
 date: 2025-12-28 18:18:32.563000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Exploring Kafka Cruise Control | Moncef Abboud
 source_id: 435994260
 excerpt: Cruise ControlでKafkaの偏りを自動検知・修復、手を動かす導入手順付き
 ---
-# Kafkaクラスタを“放置しない”運用へ：LinkedIn製 Cruise Controlで自動バランスを実現する方法
+# Self-balancing Kafka Clusters with Cruise Control - Cruise Controlによる自己バランス型Kafkaクラスター
 
 ## 要約
 Kafkaの負荷偏り（ブローカーにトラフィックやディスクが集中する問題）を自動検知・是正するLinkedIn製のツール「Cruise Control」を、手を動かして試せるクイックスタートと運用上のポイントをわかりやすく解説します。

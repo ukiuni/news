@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prompt Injection Isn’t a Prompting Problem, It’s an Authority Problem
+title: Prompt Injection Isn’t a Prompting Problem, It’s an Authority Problem - プロンプトインジェクションはプロンプトの問題ではなく、権限の問題である
 date: 2025-12-27 11:41:42.025000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'Authority Separation in AI Systems: Structural Guarantees Across 
 source_id: 436977835
 excerpt: プロンプト注入を防ぐ「実行権限分離」設計でAIの安全と運用コストを一挙に守る方法
 ---
-# Prompt Injectionは「プロンプト」の問題ではない――実行権限分離でAIの安全と信頼を取り戻す
+# Prompt Injection Isn’t a Prompting Problem, It’s an Authority Problem - プロンプトインジェクションはプロンプトの問題ではなく、権限の問題である
 
 ## 要約
 言語モデルは「提案者（generator）」に留め、実行の「認可（authority）」を分離する設計（Authority Separation）を提示。これにより、プロンプト注入・幻覚・コスト誤謬・不可逆的な学習などの失敗モードを構造的に軽減できると主張する。

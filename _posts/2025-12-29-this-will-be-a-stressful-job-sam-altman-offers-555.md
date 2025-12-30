@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI"
+title: ‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI - 「これはストレスの溜まる仕事になるだろう」：サム・アルトマン、AIで最も困難な役割に55万5千ドルの給与を提示
 date: 2025-12-29T19:25:54.966Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435235582
 excerpt: "OpenAIが$555kで備え責任者募集、AIの暴走や悪用を防ぐ実務整備を急げ"
 ---
 
-# AIが「最悪」に備える職務に年収$555k──サム・アルトマンが示した危機対策のリアルと、日本の現場が取るべき一手
+# ‘This will be a stressful job’: Sam Altman offers $555k salary to fill most daunting role in AI - 「これはストレスの溜まる仕事になるだろう」：サム・アルトマン、AIで最も困難な役割に55万5千ドルの給与を提示
 
 ## 要約
 OpenAIが「Head of Preparedness（備え責任者）」を高額報酬で公募。サイバー攻撃、メンタルヘルス被害、生物リスク、自己訓練する高能力モデルなど、多岐にわたる“前例のない”脅威に備える役割だ。企業とエンジニアは、対策とガバナンスの実務を急ぐ必要がある。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Asking Gemini 3 for Brainf*ck code puts it in an infinite loop"
+title: Asking Gemini 3 for Brainf*ck code puts it in an infinite loop - Gemini 3にBrainf*ckのコードを求めると無限ループに陥る
 date: 2025-12-29T11:26:43.078Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46418966
 excerpt: "Gemini 3にBrainf*ck生成を頼むと無限ループ化し、停止性と推論力の脆弱性を暴く実例解説"
 ---
 
-# Brainf*ckでLLMを「壊す」――単純さが暴く本当の知能
+# Asking Gemini 3 for Brainf*ck code puts it in an infinite loop - Gemini 3にBrainf*ckのコードを求めると無限ループに陥る
 
 ## 要約
 一見無意味な極小言語「Brainf*ck」は、巨大言語モデル（LLM）にとって記号的推論と停止性の両方を問う強力なストレステストになる。実際に最新モデルに複雑なBrainf*ck生成を頼むと無限ループ（出力の自己増幅）が発生することが観測されている。

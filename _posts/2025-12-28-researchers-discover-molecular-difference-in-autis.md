@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Researchers Discover Molecular Difference in Autistic Brains
+title: Researchers Discover Molecular Difference in Autistic Brains - 研究者、自閉症の脳における分子レベルの違いを発見
 date: 2025-12-28 23:44:36.462000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: Researchers Discover Molecular Difference in Autistic Brains | Yal
 source_id: 46415129
 excerpt: 米イェール研究：ASD成人でmGlu5低下が確認されEEGで非侵襲バイオマーカー化を示唆
 ---
-# 自閉スペクトラムの「分子地図」を見つけた──mGlu5低下が示す新たな診断と治療の道筋
+# Researchers Discover Molecular Difference in Autistic Brains - 研究者、自閉症の脳における分子レベルの違いを発見
 
 ## 要約
 Yaleの研究で、自閉スペクトラム（ASD）成人の脳においてグルタミン酸受容体の一種 mGlu5 の可用性が低いことがPETで確認され、脳の興奮/抑制バランス（E/Iバランス）仮説に分子レベルの実証的裏付けが得られた。EEGとの関連も示され、将来的に低侵襲なバイオマーカーや治療ターゲットにつながる可能性がある。

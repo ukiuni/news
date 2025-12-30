@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A short talk at CloudNexus made me rethink how students are using AI"
+title: A short talk at CloudNexus made me rethink how students are using AI - CloudNexusでの短い講演をきっかけに、学生のAI利用について考え直した
 date: 2025-12-29T09:49:41.906Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 3131008
 excerpt: "学生がChatGPT頼みで失敗する現場事例と、用途別AI使い分けとクラウド設計の実践法を具体解説"
 ---
 
-# 学生の「ChatGPTでコード出力だけ」依存が招く落とし穴 — CloudNexusで見えたAIの使い分け
+# A short talk at CloudNexus made me rethink how students are using AI - CloudNexusでの短い講演をきっかけに、学生のAI利用について考え直した
 
 ## 要約
 短いイベント講演から見えたのは、「AIを使っている」と自信を持つ学生の多くが、ツールを使い分けられておらず後で困っている、という現場の実感です。用途に応じたツール選びとクラウド前提の設計が重要になります。

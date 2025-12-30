@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Willie Nelson Sees America"
+title: How Willie Nelson Sees America - ウィリー・ネルソンが見るアメリカ
 date: 2025-12-29T19:28:14.848Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46366097
 excerpt: "92歳ウィリー・ネルソンのツアー運用に学ぶ、長期運用を支えるミニマリズムと再現性の設計術"
 ---
 
-# ウィリー・ネルソンに学ぶ「ツアー工学」──長寿オペレーションから考える持続性とミニマリズム設計
+# How Willie Nelson Sees America - ウィリー・ネルソンが見るアメリカ
 
 ## 要約
 92歳でステージに立ち続けるウィリー・ネルソンのツアー運用は、再現可能な環境設計、最小限のコア、そして柔軟なフェイルグレースを実現する「現場のアーキテクチャ」の教科書だ。

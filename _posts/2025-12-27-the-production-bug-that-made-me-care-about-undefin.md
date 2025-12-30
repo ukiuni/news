@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The production bug that made me care about undefined behavior"
+title: The production bug that made me care about undefined behavior - 未定義動作を気にするきっかけとなった本番環境のバグ
 date: 2025-12-27T18:41:03.731Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 438007156
 excerpt: "決済本番で発生した未初期化が原因の「両方true」不具合と具体的対策"
 ---
 
-# 決済APIで起きた「両方true」事件 — 未初期化が現場を壊す話
+# The production bug that made me care about undefined behavior - 未定義動作を気にするきっかけとなった本番環境のバグ
 
 ## 要約
 決済サービスの本番コードで、あるレスポンス構造体の未初期化メンバが原因で「error と succeeded が同時に true」になる現象が発生した。C++の初期化ルールの落とし穴と実務での対処法を解説する。

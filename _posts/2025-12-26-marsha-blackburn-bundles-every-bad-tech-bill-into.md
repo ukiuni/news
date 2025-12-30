@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marsha Blackburn Bundles Every Bad Tech Bill Into One, Slaps the President's Name On It"
+title: Marsha Blackburn Bundles Every Bad Tech Bill Into One, Slaps the President's Name On It - マーシャ・ブラックバーン、すべての悪い技術法案を一つにまとめ、大統領の名前を冠する
 date: 2025-12-26T09:12:42.123Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 440215587
 excerpt: "ブラックバーンが問題条項を束ね、米規制強化が日系プラットフォームの暗号・データ体制を脅かす"
 ---
 
-# 「悪法を一つにまとめて“あの人”の名を冠した」――米議会の“テック包み込み法案”が日本企業にもたらす波紋
+# Marsha Blackburn Bundles Every Bad Tech Bill Into One, Slaps the President's Name On It - マーシャ・ブラックバーン、すべての悪い技術法案を一つにまとめ、大統領の名前を冠する
 
 ## 要約
 米上院議員マーシャ・ブラックバーンが複数の問題あるテック関連法案を一つに束ね、トランプ前大統領の名前を前面に出して政治化していると報じられています。これが成立すれば、プラットフォーム運営やデータ政策、暗号化運用に広範な影響を与える可能性があります。

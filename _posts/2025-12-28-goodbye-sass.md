@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Goodbye Sass"
+title: Goodbye Sass - さよならSass
 date: 2025-12-28T02:18:22.614Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 1005325950
 excerpt: "Sassをやめ、ネイティブCSSとesbuildで依存を減らし長期運用を楽にする方法"
 ---
 
-# Sassにさよならを告げる理由 — 最小限の依存で長く維持できるサイトへ
+# Goodbye Sass - さよならSass
 
 ## 要約
 著者は長年使ってきたSassをやめ、ブラウザ実装されたCSS機能（変数・計算・ネスト）とesbuildによる最小化だけで運用を簡素化した。依存を減らすことで、将来のサイトメンテナンス負荷を下げる決断だ。

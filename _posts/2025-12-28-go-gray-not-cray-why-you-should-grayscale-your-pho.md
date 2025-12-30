@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go Gray, Not Cray: Why You Should Grayscale Your Phone"
+title: Go Gray, Not Cray: Why You Should Grayscale Your Phone - 「グレイ」になろう、「クレイジー」ではなく：なぜスマホをグレースケールにすべきか
 date: 2025-12-28T05:14:41.120Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46347893
 excerpt: "スマホをグレースケール化して画面時間・通知ストレスを減らし集中力とバッテリを回復する簡単な実践法"
 ---
 
-# 色を捨てて集中を取り戻す—スマホを「グレースケール」にする合理性
+# Go Gray, Not Cray: Why You Should Grayscale Your Phone - 「グレイ」になろう、「クレイジー」ではなく：なぜスマホをグレースケールにすべきか
 
 ## 要約
 画面の色を消すだけで、注意力の回復、画面時間の短縮、バッテリ延命、通知ストレスの低減など実利的な効果が得られる──という海外記事の主張を、日本の利用実情に合わせて解説する。

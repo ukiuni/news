@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft Is Finally Killing RC4
+title: Microsoft Is Finally Killing RC4 - Microsoft、ついにRC4を廃止
 date: 2025-12-26 04:06:25.435000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-
 source_title: Microsoft Is Finally Killing RC4 - Schneier on Security
 source_id: 1697350332
 ---
-# ついに終焉へ：MicrosoftがRC4を廃止 — 日本の現場が今すぐ確認すべき理由
+# Microsoft Is Finally Killing RC4 - Microsoft、ついにRC4を廃止
 
 ## 要約
 Microsoftが長年残っていたRC4対応をようやく廃止すると発表した。RC4フォールバックはKerberoastingなどのオフライン攻撃で悪用され、企業ネットワーク侵害の原因になってきた。

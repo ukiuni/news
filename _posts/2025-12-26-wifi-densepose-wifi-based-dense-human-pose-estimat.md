@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WiFi DensePose: WiFi-based dense human pose estimation system through walls'
+title: WiFi DensePose: WiFi-based dense human pose estimation system through walls - WiFi DensePose：壁越しにWiFiベースで高密度な人間のポーズを推定するシステム
 date: 2025-12-26 04:30:33.410000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'GitHub - ruvnet/wifi-densepose: Production-ready implementation o
   real-time full-body tracking through walls using commodity mesh routers'
 source_id: 46388904
 ---
-# 壁越しで人の全身ポーズを推定する未来──WiFiで「カメラなし」の密なポーズ推定を実現するWiFi DensePose
+# WiFi DensePose: WiFi-based dense human pose estimation system through walls - WiFi DensePose：壁越しにWiFiベースで高密度な人間のポーズを推定するシステム
 
 ## 要約
 WiFi信号のチャネル情報（CSI）を使い、メッシュWiFiルーターで壁越しにリアルタイムな密な全身ポーズ推定を行うオープン実装。カメラ不要でプライバシー配慮、サブ50msの低遅延で30FPS、最大10人同時追跡を謳うプロダクション向けリポジトリ。

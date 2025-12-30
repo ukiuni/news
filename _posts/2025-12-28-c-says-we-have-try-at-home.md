@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C++ says "We have try at home."
+title: C++ says "We have try at home. - C++は「家にはtryがある」と言う
 date: 2025-12-28 10:15:17.687000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: All the other cool languages have try...finally. C++ says "We have
 source_id: 46408984
 excerpt: C++でfinally相当をRAIIで安全に実装する方法と例外時の落とし穴を解説
 ---
-# C++はこう言う —「try…finally？ウチにあるよ」：RAIIで安全にスコープ脱出後の後片付けをする技術
+# C++ says "We have try at home. - C++は「家にはtryがある」と言う
 
 ## 要約
 他言語の finally 相当は C++ では「デストラクタ（RAII）」で実現する。だが、例外処理中にデストラクタが例外を投げるとプログラムが即時終了するので注意が必要だ。

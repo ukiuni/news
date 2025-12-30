@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nvidia insists it isn’t Enron, but its AI deals are testing investor faith
+title: Nvidia insists it isn’t Enron, but its AI deals are testing investor faith - Nvidiaはエンロンではないと主張するが、そのAI取引は投資家の信頼を試している
 date: 2025-12-28 16:16:25.712000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: Nvidia insists it isn’t Enron, but its AI deals are testing inve
 source_id: 436127445
 excerpt: NvidiaのAI向け巨額ファイナンスが投資家の信頼と財務持続性を試す
 ---
-# Nvidiaは本当に「Enron」ではないか？AIブームの裏で見える“丸く回る”取引構造の危うさ
+# Nvidia insists it isn’t Enron, but its AI deals are testing investor faith - Nvidiaはエンロンではないと主張するが、そのAI取引は投資家の信頼を試している
 
 ## 要約
 Nvidiaの巨額パートナーシップは株価と成長を押し上げる一方、ベンダー融資やSPVのような構造的リスクが投資家の不安を呼んでいる。AIの成否が同社の健全性を左右する状況だ。

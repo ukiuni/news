@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Geometric Algorithms for Translucency Sorting in Minecraft [pdf]"
+title: Geometric Algorithms for Translucency Sorting in Minecraft [pdf] - Minecraftにおける半透明ソートのための幾何学的アルゴリズム [pdf]
 date: 2025-12-26T10:24:18.100Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46390667
 excerpt: "Minecraftの半透明描画を劇的高速化する、ボクセル特化の幾何学的ソート＆OITハイブリッド手法まとめ"
 ---
 
-# マイクラ流体・半透明処理を劇的に速くする幾何アルゴリズム — 見逃せない最適化手法まとめ
+# Geometric Algorithms for Translucency Sorting in Minecraft [pdf] - Minecraftにおける半透明ソートのための幾何学的アルゴリズム [pdf]
 
 ## 要約
 マインクラフトのようなボクセル世界で「正しく」「速く」半透明（ガラス、水、葉など）を描画するための幾何学的ソート手法を整理した研究の要点を、実装寄りに噛み砕いて解説する。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We “solved” C10K years ago yet we keep reinventing it
+title: We “solved” C10K years ago yet we keep reinventing it - C10K問題は何年も前に「解決」したが、私たちはそれを再発明し続けている
 date: 2025-12-26 03:53:31.778000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://www.kegel.com/c10k.html
 source_title: The C10K problem
 source_id: 439824831
 ---
-# C10Kは本当に「解決」されたのか？──10,000接続を本気で支える現代的ロードマップ
+# We “solved” C10K years ago yet we keep reinventing it - C10K問題は何年も前に「解決」したが、私たちはそれを再発明し続けている
 
 ## 要約
 C10K問題（1台のサーバで10,000同時接続を扱う課題）はハードウェアの進化で現実的になったが、OSのI/Oモデルや設計選択を誤ると今でも壁にぶつかる。適切なイベント駆動設計・OS機能の活用で数万接続は実現可能だ。

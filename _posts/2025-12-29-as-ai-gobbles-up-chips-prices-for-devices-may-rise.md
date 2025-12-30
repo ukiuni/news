@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "As AI gobbles up chips, prices for devices may rise"
+title: As AI gobbles up chips, prices for devices may rise - AIがチップを食い尽くすにつれ、デバイスの価格が上昇する可能性がある
 date: 2025-12-29T04:49:52.390Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46415338
 excerpt: "AI向けDRAM需要急増でPCやスマホの価格・納期が急変、今すぐ対策を"
 ---
 
-# AIがメモリを食いつぶす──次のスマホ・PCが高くなる前に知るべきこと
+# As AI gobbles up chips, prices for devices may rise - AIがチップを食い尽くすにつれ、デバイスの価格が上昇する可能性がある
 
 ## 要約
 AI向けデータセンターの急拡大でDRAM需要が供給を大きく上回り、PCやスマホ向けメモリが品薄・値上がりする懸念が高まっている。短期的な解決策は乏しく、企業と個人の購買判断に影響を与える可能性がある。

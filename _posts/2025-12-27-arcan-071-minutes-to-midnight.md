@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arcan 0.7.1 – Minutes To Midnight
+title: Arcan 0.7.1 – Minutes To Midnight - Arcan 0.7.1 – 終末への数分前
 date: 2025-12-27 11:39:32.206000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Arcan 0.7.1 – Minutes To Midnight | Arcan
 source_id: 1152865091
 excerpt: Arcan 0.7.1：Waylandゲーム互換と接続再開、ML‑KEMで量子耐性を持つ軽量UI基盤
 ---
-# Arcan 0.7.1 — Waylandゲームから“量子耐性”ネットワークまで、デスクトップ環境を再発明する小さな大型アップデート
+# Arcan 0.7.1 – Minutes To Midnight - Arcan 0.7.1 – 終末への数分前
 
 ## 要約
 Arcan 0.7.1 がリリース。Wayland上でのゲーム互換性改善、再接続（connection resumption）とキャスト機能、そして前方秘匿性を強化するポスト量子暗号（ML‑KEM）の導入など、ネットワークとランタイムの実用機能が中心。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Show HN: Ez FFmpeg – Video editing in plain English'
+title: Show HN: Ez FFmpeg – Video editing in plain English - Show HN: Ez FFmpeg – 平易な英語でのビデオ編集
 date: 2025-12-27 09:39:15.137000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: ezff - npm
 source_id: 46400251
 excerpt: 英語で命令するだけで複雑なffmpeg処理を即実行できるオフラインCLIツール
 ---
-# これでコマンド忘れが終わる？「英語で話すだけ」FFmpegラッパー ezff の衝撃
+# Show HN: Ez FFmpeg – Video editing in plain English - Show HN: Ez FFmpeg – 平易な英語でのビデオ編集
 
 ## 要約
 ezff は「ff convert video.mp4 to gif」のような平易な英語を受け取り、内部で対応する ffmpeg コマンドを組み立てて実行する軽量CLI。Node.js とローカルの ffmpeg があればオフラインで動作する。

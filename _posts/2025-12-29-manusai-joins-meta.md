@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ManusAI Joins Meta"
+title: ManusAI Joins Meta - ManusAIがMetaに参画
 date: 2025-12-29T23:27:30.859Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46426534
 excerpt: "ManusがMeta参画、147兆トークン処理と8千万仮想環境で企業業務の自律自動化を本格化"
 ---
 
-# ManusがMeta入りで何が変わる？AIエージェントの「実行レイヤー」が拓く次世代の自動化
+# ManusAI Joins Meta - ManusAIがMetaに参画
 
 ## 要約
 ManusがMetaに参画し、汎用AIエージェントを「実行レイヤー」としてスケールさせる体制が整いました。既に膨大なトークン処理（約147兆）と仮想コンピュータ生成（約8千万）を達成しており、実業務での自律的タスク遂行を目指します。

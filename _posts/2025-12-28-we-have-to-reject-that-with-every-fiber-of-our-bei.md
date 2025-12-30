@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic"
+title: ‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic - 「私たちは全身全霊でそれを拒絶しなければならない」：デサンティス氏が主要なAI懐疑論者として浮上
 date: 2025-12-28T14:57:21.936Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 436194764
 excerpt: "デサンティスが州主導でAI規制を強硬推進、データセンターや雇用・偽情報に波紋"
 ---
 
-# 「機械が人間を代替するな」──デサンティス流・AI懐疑が示す米政界の分裂と日本への示唆
+# ‘We have to reject that with every fiber of our being’: DeSantis emerges as a chief AI skeptic - 「私たちは全身全霊でそれを拒絶しなければならない」：デサンティス氏が主要なAI懐疑論者として浮上
 
 ## 要約
 フロリダ州知事ロン・デサンティスがAIの急拡大に強く反対し、データセンター規制や労働保護、深刻な民主主義リスクを理由に州レベルでの抑制を推す。これはトランプら党内主流の「活用重視」と鋭く対立している。

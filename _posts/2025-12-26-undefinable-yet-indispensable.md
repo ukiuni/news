@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Undefinable yet Indispensable
+title: Undefinable yet Indispensable - 定義不可能だが不可欠なもの
 date: 2025-12-26 13:59:48.086000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: The word ‘religion’ resists definition but remains necessary |
 source_id: 46391744
 excerpt: 宗教は定義できないが、多文化プロダクト向けに誤分類や差別を防ぐデータ設計と運用指針を解説
 ---
-# 「宗教」は定義できないのにデータ化は必要──テック視点で学ぶ“カテゴリ化”の罠
+# Undefinable yet Indispensable - 定義不可能だが不可欠なもの
 
 ## 要約
 近代に形成された「religion」という概念は歴史的・文化的に構築されたものであり、それをそのままデータ設計や機械学習に持ち込むと誤分類やバイアスを生む。エンジニアはカテゴリーの揺らぎを設計に取り込む必要がある。

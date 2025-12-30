@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Get started with me & Kestra.io"
+title: Get started with me & Kestra.io - 私と一緒にKestra.ioを始めましょう
 date: 2025-12-29T04:51:03.017Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 3128800
 excerpt: "YAMLとノーコードUIで一画面設計、Kestraで連携自動化を即試せる"
 ---
 
-# 図で組むワークフロー革命 — Kestraで始める「コード×ノーコード」オーケストレーション入門
+# Get started with me & Kestra.io - 私と一緒にKestra.ioを始めましょう
 
 ## 要約
 宣言的なワークフローオーケストレーション基盤Kestraは、YAMLコード・ノーコード編集・トポロジ図を同一画面で操作でき、複数システムの連携やデータパイプライン作成を高速化する。OSSでまず触って、実運用はEnterprise/Cloudへ拡張するのが手堅い導入経路だ。

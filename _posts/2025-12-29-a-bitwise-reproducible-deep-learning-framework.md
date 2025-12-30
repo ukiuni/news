@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A bitwise reproducible deep learning framework"
+title: A bitwise reproducible deep learning framework - ビット単位で再現可能なディープラーニングフレームワーク
 date: 2025-12-29T05:50:37.145Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46352615
 excerpt: "異なるハードでビット単位の出力を保証する深層学習ライブラリ、PyTorch互換で既存モデルを置換可能"
 ---
 
-# デバイスをまたいで「同じビット列」を出す――深層学習の完全再現性に挑むライブラリ
+# A bitwise reproducible deep learning framework - ビット単位で再現可能なディープラーニングフレームワーク
 
 ## 要約
 ハードウェアが違っても「ビット単位で同一」の出力を保証する深層学習ライブラリの紹介。PyTorch上で再現性の低い演算を置き換え、学習／推論で同一のモデルハッシュやロジットを得られることを目指す。

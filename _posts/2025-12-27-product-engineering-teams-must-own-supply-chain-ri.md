@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Product engineering teams must own supply chain risk"
+title: Product engineering teams must own supply chain risk - 製品エンジニアリングチームはサプライチェーンのリスクに責任を持つべきだ
 date: 2025-12-27T00:06:59.379Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 437388227
 excerpt: "プロダクトチームがOSSやCIの供給網リスクを可視化・署名・強制し顧客信頼を守る方法"
 ---
 
-# その依存で大丈夫？プロダクトチームがサプライチェーンリスクを“所有”すべき本当の理由
+# Product engineering teams must own supply chain risk - 製品エンジニアリングチームはサプライチェーンのリスクに責任を持つべきだ
 
 ## 要約
 現代のソフトウェアは「組み立て」られるものであり、外部コンポーネントやパイプラインを介した信頼の破綻がプロダクト全体を危険にさらす。プロダクトエンジニアは供給網（サプライチェーン）を技術的かつ運用的に管理し、信頼を証明・強制する仕組みを導入する必要がある。

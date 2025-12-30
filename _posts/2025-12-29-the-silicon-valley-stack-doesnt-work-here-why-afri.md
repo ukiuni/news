@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web"
+title: The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web - シリコンバレーのスタックはここでは通用しない：なぜアフリカが「脱・肥大化」ウェブをリードするのか
 date: 2025-12-29T21:27:58.845Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 995945759
 excerpt: "回線と電池を節約するアフリカ発の“軽量ウェブ”設計が、日本の地方・災害対応や海外展開で勝ち筋になる"
 ---
 
-# シリコンバレー流はもう通用しない？アフリカ発「軽量ウェブ」が日本の次世代を変える理由
+# The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web - シリコンバレーのスタックはここでは通用しない：なぜアフリカが「脱・肥大化」ウェブをリードするのか
 
 ## 要約
 モバイルや回線品質が限られる環境に合わせて、サーバー中心・軽量ライブラリ・ローカルファーストを組み合わせる設計が注目されている。これは「遅延税」を回避し、バッテリとデータを節約する実践的なアプローチだ。

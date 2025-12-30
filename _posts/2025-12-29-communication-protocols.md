@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Communication Protocols"
+title: Communication Protocols - 通信プロトコル
 date: 2025-12-29T15:29:55.211Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435413327
 excerpt: "現場で使える通信プロトコルの最適選定を短時間で示す実践ガイド"
 ---
 
-# HTTPだけじゃない！現場で差がつく通信プロトコルの選び方 — WebSocket・SSE・gRPC・REST/GraphQLの“勝ち筋”
+# Communication Protocols - 通信プロトコル
 
 ## 要約
 通信要件（双方向性、リアルタイム性、ブラウザ対応、サービス間性能）に応じて、HTTP/REST、WebSocket、SSE、gRPC、GraphQLそれぞれが最適な場面を持つ。設計判断のための実務的な基準を短く整理。

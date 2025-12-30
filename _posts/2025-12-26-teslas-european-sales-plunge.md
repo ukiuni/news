@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesla’s European Sales Plunge"
+title: Tesla’s European Sales Plunge - テスラの欧州販売が急落
 date: 2025-12-26T13:26:38.438Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 438990284
 excerpt: "欧州でテスラ支持が急落、低価格競合と規制で市場逆転、日系にも対策示唆"
 ---
 
-# テスラ欧州販売が急落――EV覇者に起きた「潮目」の正体と日本への示唆
+# Tesla’s European Sales Plunge - テスラの欧州販売が急落
 
 ## 要約
 見出し通り、テスラの欧州での販売が大きく落ち込んだと報じられている。価格競争、ローカル競合、規制と技術適応の課題が重なり、単なる「景気後退」以上の構造変化を示唆している。

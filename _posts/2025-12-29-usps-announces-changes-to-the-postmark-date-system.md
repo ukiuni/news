@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "USPS Announces Changes to the Postmark Date System"
+title: USPS Announces Changes to the Postmark Date System - 米国郵便公社（USPS）、消印日付システムの変更を発表
 date: 2025-12-29T22:26:34.373Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46426131
 excerpt: "USPSの消印定義変更で投函日が証明できなくなる恐れ、対策は窓口証明や電子化"
 ---
 
-# 郵便の「消印」はもう信頼できない？USPSの新ルールが示す実務リスクと対策
+# USPS Announces Changes to the Postmark Date System - 米国郵便公社（USPS）、消印日付システムの変更を発表
 
 ## 要約
 米国郵便局（USPS）が「消印（postmark）」の定義と運用を明文化し、機械消印は「処理施設での最初の自動処理日時」を示すにとどまると規定した。これにより、投函日と消印日がズレるケースが増え、期日証明やSLAに影響が出る可能性がある。

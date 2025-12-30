@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Practical Guide to Taming Postgres Isolation Anomalies
+title: A Practical Guide to Taming Postgres Isolation Anomalies - Postgresの分離アノマリーを制御するための実用ガイド
 date: 2025-12-28 08:18:28.105000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: A Practical Guide to Taming Postgres Isolation Anomalies - dansvet
 source_id: 436343139
 excerpt: Postgresの分離レベルとロックで予約・在庫の競合を即防ぐ実践ガイド
 ---
-# Postgresの“トランザクションの落とし穴”を回避する実践ガイド
+# A Practical Guide to Taming Postgres Isolation Anomalies - Postgresの分離アノマリーを制御するための実用ガイド
 
 ## 要約
 Postgresの同時実行制御は強力だが、分かりにくい「分離性（Isolation）」の違いで意図しない不整合（lost update / write skew / phantom など）が起こる。適切な分離レベル、ロック、制約や楽観ロックを組み合わせることでこれらを実務で防げる。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs"
+title: Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs - Show HN: 広告なし、AIなし、DDG bangs対応の非営利検索エンジン
 date: 2025-12-29T07:50:00.018Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46417748
 excerpt: "寄付で成り立つ、広告・AI無しの全DDG bangs対応検索体験"
 ---
 
-# AIも広告もなし、寄付で成り立つ検索──全DDG bangs対応の“シンプル志向”な選択肢
+# Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs - Show HN: 広告なし、AIなし、DDG bangs対応の非営利検索エンジン
 
 ## 要約
 広告やAIによる最適化を排し、寄付で運営される軽量な検索エンジンが登場。DuckDuckGoの全bangコマンドに対応し、シンプルでプライバシー重視の検索体験を提供する試み。

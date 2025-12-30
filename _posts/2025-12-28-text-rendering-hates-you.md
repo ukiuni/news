@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Text rendering hates you
+title: Text rendering hates you - テキストレンダリングはあなたを嫌う - テキストレンダリングはあなたを嫌う
 date: 2025-12-28 01:12:03.430000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Text Rendering Hates You - Faultlore
 source_id: 46349988
 excerpt: 漢字・ルビ・絵文字混在で壊れる、文字描画の致命的落とし穴を解説
 ---
-# 文字表示は裏で大混乱 — 「Text Rendering Hates You」を日本向けに噛み砕く
+# Text rendering hates you - テキストレンダリングはあなたを嫌う - テキストレンダリングはあなたを嫌う
 
 ## 要約
 テキストレンダリングは見た目以上に複雑で、フォント、レイアウト、シェイピング、アンチエイリアスなどが互いに絡み合い「正解のない」問題を生む。多言語・絵文字・スタイル混在を正しく表示するには設計と実装で多数の落とし穴を避ける必要がある。

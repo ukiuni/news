@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brendan Carr Says Destroying Consumer Protection, Media Consolidation Rules, And Corporate Oversight Will Be Great For Everyone"
+title: Brendan Carr Says Destroying Consumer Protection, Media Consolidation Rules, And Corporate Oversight Will Be Great For Everyone - ブレンダン・カー氏、消費者保護やメディア集中ルールの撤廃、企業監視の廃止は「誰にとっても素晴らしいこと」と発言
 date: 2025-12-29T20:26:40.515Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435176358
 excerpt: "FCCの大規模規制撤廃が消費者保護と地域メディアを崩し、日本の通信市場にも波及する危機"
 ---
 
-# 米FCCトップが突きつけた「規制削減」の現実――消費者保護とメディア多様性が危ない理由
+# Brendan Carr Says Destroying Consumer Protection, Media Consolidation Rules, And Corporate Oversight Will Be Great For Everyone - ブレンダン・カー氏、消費者保護やメディア集中ルールの撤廃、企業監視の廃止は「誰にとっても素晴らしいこと」と発言
 
 ## 要約
 米連邦通信委員会（FCC）トップが大規模な規制削減を進め、消費者保護・メディア規制・企業監督の弱体化が進行中。目先の「効率化」は、長期的には市場の寡占化や詐欺・安全性のリスクを高める恐れがある。

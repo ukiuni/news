@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CONTRACT.md: The Naughty List for AI Coding Agents'
+title: CONTRACT.md: The Naughty List for AI Coding Agents - CONTRACT.md：AIコーディングエージェントのための「いたずらっ子リスト」
 date: 2025-12-27 02:08:29.316000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'Discuss, don''t code. | CONTRACT.md: The Naughty List for AI Codi
 source_id: 1736512109
 excerpt: CONTRACT.mdでAIの過剰設計を封じ、MVPと依存制限で品質と納期を守る
 ---
-# AIに「やりすぎ」をさせないための契約書──CONTRACT.mdで守るべきシンプルな掟
+# CONTRACT.md: The Naughty List for AI Coding Agents - CONTRACT.md：AIコーディングエージェントのための「いたずらっ子リスト」
 
 ## 要約
 AIコーディングエージェントは「未来を見越して複雑化」しがちだ。CONTRACT.mdはその暴走を止める短く厳しいルールブックで、許容する複雑さの上限を明確にする実務的な対策だ。

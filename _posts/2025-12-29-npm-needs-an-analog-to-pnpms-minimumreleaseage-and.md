@@ -1,6 +1,6 @@
 ---
 layout: post
-title: npm needs an analog to pnpm's minimumReleaseAge and yarn's npmMinimalAgeGate
+title: npm needs an analog to pnpm's minimumReleaseAge and yarn's npmMinimalAgeGate - npmにはpnpmのminimumReleaseAgeやyarnのnpmMinimalAgeGateに相当するものが必要だ
 date: 2025-12-29 01:48:49.689000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: npm needs an analog to pnpm's minimumReleaseAge and yarn's npmMini
 source_id: 436966445
 excerpt: npmにも年齢ゲート導入を提案、公開直後の攻撃をCIで防ぐ方法
 ---
-# npmにも欲しい「公開後の猶予」でサプライチェーンを守る — 新着パッケージに年齢ゲートを掛ける意味
+# npm needs an analog to pnpm's minimumReleaseAge and yarn's npmMinimalAgeGate - npmにはpnpmのminimumReleaseAgeやyarnのnpmMinimalAgeGateに相当するものが必要だ
 
 ## 要約
 pnpmのminimumReleaseAgeやyarnのnpmMinimalAgeGateは、新しく公開されたパッケージの即時導入を防ぎ、npmエコシステムに増えるサプライチェーン攻撃への対抗手段を提供する。npm本体には同等の柔軟な仕組みが未だ整っておらず、企業／チーム単位での対策が求められている。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "High-performance C++ hash table using grouped SIMD metadata scanning"
+title: High-performance C++ hash table using grouped SIMD metadata scanning - グループ化されたSIMDメタデータスキャンを使用した高性能C++ハッシュテーブル
 date: 2025-12-29T21:26:44.054Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46371120
 excerpt: "Grouped SIMDでSSE2活用、読み取り重視の百万規模検索を1.5倍高速化"
 ---
 
-# 検索が速すぎる！Grouped SIMDで大規模ハッシュテーブルを一気に高速化する手法
+# High-performance C++ hash table using grouped SIMD metadata scanning - グループ化されたSIMDメタデータスキャンを使用した高性能C++ハッシュテーブル
 
 ## 要約
 Grouped SIMD（グループ化されたSIMDメタデータ走査）を使ったC++ハッシュテーブルは、連続したスロットを一括でSSE2比較することで大規模テーブル（数十万〜百万以上）のルックアップ性能を劇的に向上させるアプローチだ。挿入コストはやや増えるが、読み取り中心のワークロードで有利になる。

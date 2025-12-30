@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Built a Production RAG System for $5/month (Most Alternatives Cost $100-200+)
+title: I Built a Production RAG System for $5/month (Most Alternatives Cost $100-200+) - 月額5ドルでプロダクションRAGシステムを構築（他は100〜200ドル以上かかる）
 date: 2025-12-28 04:17:09.687000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: I Built a Production RAG System for $5/month (Most Alternatives Co
 source_id: 3122739
 excerpt: Cloudflareエッジで埋め込み・検索を完結させ、RAGを月約$5で実運用する手法
 ---
-# 月5ドルで実運用できるRAGを作った話 — 月100〜200ドルの常識を覆すエッジ設計
+# I Built a Production RAG System for $5/month (Most Alternatives Cost $100-200+) - 月額5ドルでプロダクションRAGシステムを構築（他は100〜200ドル以上かかる）
 
 ## 要約
 Cloudflare Workers上で埋め込み生成＋ベクトル検索をエッジ側で完結させ、従来のRAG構成の月額$100–200を$5–10に抑えた実運用アーキテクチャの紹介。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Which Humans?"
+title: Which Humans? - どの人間か？
 date: 2025-12-29T21:27:13.683Z
 categories: [tech, world-news]
 tags: [tech-news, japan]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Staying ahead of censors in 2025"
+title: Staying ahead of censors in 2025 - 2025年に検閲の先を行く
 date: 2025-12-29T06:50:44.411Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46417844
 excerpt: "イラン・ロシアで有効なSnowflake等の新手法で検閲を突破"
 ---
 
-# 検閲を先回りする──2025年に学んだ反検閲ツールの最前線
+# Staying ahead of censors in 2025 - 2025年に検閲の先を行く
 
 ## 要約
 イランやロシアでの接続遮断・高度化する検閲に対応するため、TorプロジェクトはSnowflake、Conjure、WebTunnelといったプラグインや配布基盤を強化し、現地観測・分散配布・プロトコル多様化で「検閲に追随されにくい」仕組みを作り上げています。

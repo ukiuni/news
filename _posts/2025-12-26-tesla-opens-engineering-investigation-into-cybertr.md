@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tesla Opens Engineering Investigation into Cybertruck Wipers"
+title: Tesla Opens Engineering Investigation into Cybertruck Wipers - テスラ、サイバートラックのワイパーに関する技術調査を開始
 date: 2025-12-26T20:30:38.849Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 438783861
 excerpt: "テスラがCybertruckのギガワイパーを工学調査、交換とV3検証で視界とFSD安全を守る"
 ---
 
-# 巨大ワイパー「ギガワイパー」に再び暗雲──テスラがCybertruckのワイパーで工学調査を開始
+# Tesla Opens Engineering Investigation into Cybertruck Wipers - テスラ、サイバートラックのワイパーに関する技術調査を開始
 
 ## 要約
 テスラがCybertruckの一本物ワイパー（通称ギガワイパー）について公式に工学調査を開始。ソフトウェア更新で改善された点はあるが、物理部品側の欠陥が疑われ、アームごとの交換や改良部品（V3）テストが進行中です。

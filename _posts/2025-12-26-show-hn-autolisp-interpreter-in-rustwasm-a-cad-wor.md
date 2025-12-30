@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs
+title: Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs - Show HN: Rust/WASMによるAutoLISPインタープリタ – 33年前に発明されたCADワークフロー
   ago'
 date: 2025-12-26 17:29:30.727000+00:00
 categories:
@@ -14,7 +14,7 @@ source_title: AutoLISP Interpreter in Rust/WASM - acadlisp.de
 source_id: 46393271
 excerpt: ブラウザでAutoLISP実行、AutoCAD不要でCSV→DXF図面を即生成
 ---
-# ブラウザでよみがえるAutoLISP：33年前のCAD自動化ワークフローがRust＋WASMで復活
+# Show HN: AutoLISP interpreter in Rust/WASM – a CAD workflow invented 33 yrs - Show HN: Rust/WASMによるAutoLISPインタープリタ – 33年前に発明されたCADワークフロー
 
 ## 要約
 AutoLISPインタプリタをRustで実装しWASMにコンパイルした「acadlisp」により、AutoCAD不要でブラウザ上でAutoLISPを実行、SVG/DXFを出力できる。1991年に生まれたCSV＋テンプレート＋LISPによる設計自動化ワークフローを現代的に保存・再現したプロジェクトだ。

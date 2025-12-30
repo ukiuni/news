@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dolphin Progress Release 2512
+title: Dolphin Progress Release 2512 - Dolphin進捗リリース 2512
 date: 2025-12-28 22:18:51.615000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'Dolphin Emulator - Dolphin Progress Report: Release 2512'
 source_id: 46414916
 excerpt: Dolphin 2512で遅延を大幅短縮し滑らか表示実現、対戦やモバイルで即活用できる新機能を解説
 ---
-# Dolphinが「低遅延」と「滑らか表示」を両立するアップデート — Release 2512の注目点
+# Dolphin Progress Release 2512 - Dolphin進捗リリース 2512
 
 ## 要約
 Dolphin Release 2512で、遅延を大幅に削減する「Rush Frame Presentation」と、フレームのバラつきを抑える「Smooth Frame Presentation」、さらにXFB即時表示やAndroid版RetroAchievements対応、ローカルBBAモードなど実用的な改良が導入された。

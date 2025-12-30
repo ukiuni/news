@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Day I Stopped Chasing Everything and Found My One Thing
+title: The Day I Stopped Chasing Everything and Found My One Thing - すべてを追いかけるのをやめ、自分の「たった一つのこと」を見つけた日
 date: 2025-12-26 04:02:35.741000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://dev.to/toklas495/the-day-i-stopped-chasing-everything-and-fo
 source_title: The Day I Stopped Chasing Everything and Found My One Thing - DEV Community
 source_id: 3118133
 ---
-# 全部を追うのをやめて「一つ」を見つけた日 — 流浪エンジニアからバイナリ・ペンテスターへ
+# The Day I Stopped Chasing Everything and Found My One Thing - すべてを追いかけるのをやめ、自分の「たった一つのこと」を見つけた日
 
 ## 要約
 あれこれ手を出して迷走するより、一つの深い専門を持つことでキャリアの加速度が増す――著者の「サイバー／バイナリ探索」に落ち着いた実体験から学ぶキャリアと技術のヒント。

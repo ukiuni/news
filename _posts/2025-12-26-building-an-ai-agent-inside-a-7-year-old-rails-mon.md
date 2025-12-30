@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building an AI agent inside a 7-year-old Rails monolith
+title: Building an AI agent inside a 7-year-old Rails monolith - 7年前のRailsモノリス内にAIエージェントを構築する
 date: 2025-12-26 08:11:50.550000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Building an AI agent inside a 7-year old Rails application
 source_id: 46390055
 excerpt: AlgoliaとPunditで権限を保ち最小変更でRailsモノリスに安全なAIを実装
 ---
-# 7年物のRailsモノリスに“安全なAIエージェント”をそっと仕込む方法
+# Building an AI agent inside a 7-year-old Rails monolith - 7年前のRailsモノリス内にAIエージェントを構築する
 
 ## 要約
 大規模Railsモノリス（マルチテナント／厳格な権限制御）に対して、既存の検索インデックス（Algolia）とPunditを使い、RubyLLMの「ツール（関数呼び出し）」機能で安全にAIエージェントを組み込んだ実践記。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Libgodc: Write Go Programs for Sega Dreamcast"
+title: Libgodc: Write Go Programs for Sega Dreamcast - Libgodc：セガ・ドリームキャスト用のGoプログラムを書く
 date: 2025-12-29T14:27:18.285Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46420672
 excerpt: "16MBのDreamcastでGoランタイムを動かし実機ゲーム開発を叶えるlibgodc"
 ---
 
-# Goでドリームキャストを動かす時代が来た — libgodcでレトロ機にモダン言語を移植する方法
+# Libgodc: Write Go Programs for Sega Dreamcast - Libgodc：セガ・ドリームキャスト用のGoプログラムを書く
 
 ## 要約
 16MB RAM・単コアSH‑4という制約のDreamcast上で、gccgo＋KOSを使ってGoランタイムを動かすプロジェクト。ガベージコレクション、goroutine、チャネルなどGoのコア機能を小型ハード向けに最適化して提供する。

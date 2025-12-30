@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China Aims for 15 Gigawatts of Solar Thermal Power by 2030
+title: China Aims for 15 Gigawatts of Solar Thermal Power by 2030 - 中国、2030年までに15ギガワットの太陽熱発電を目指す
 date: 2025-12-26 09:15:37.779000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: China Aims for 15 Gigawatts of Solar Thermal Power by 2030 | OilPr
 source_id: 439797563
 excerpt: 中国のCSP15GW計画、夜間発電で日本の電力・産業熱戦略に変革の示唆
 ---
-# 中国の「夜も発電する太陽光」15GW計画が日本のエネルギー戦略に投げかける挑戦
+# China Aims for 15 Gigawatts of Solar Thermal Power by 2030 - 中国、2030年までに15ギガワットの太陽熱発電を目指す
 
 ## 要約
 中国が2030年までに太陽熱発電（CSP）で15GWを目指す計画は、単なる容量目標を超え、送配電の安定化や産業用熱需給の脱炭素化に直結する。日本の電力・技術コミュニティにとって重要な潮流だ。

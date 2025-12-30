@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows 2 for the Apricot PC/Xi"
+title: Windows 2 for the Apricot PC/Xi - Apricot PC/Xi用のWindows 2
 date: 2025-12-27T19:41:23.067Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46403915
 excerpt: "Apricot PC/XiへWindows 2を移植し実機でWord/Excelを動かした技術記録"
 ---
 
-# 幻の非互換機を救え：Apricot PC/XiにWindows 2を移植した2年半の技術物語
+# Windows 2 for the Apricot PC/Xi - Apricot PC/Xi用のWindows 2
 
 ## 要約
 イギリス製のレトロ機Apricot PC/Xi（Intel 8086非互換機）にWindows 2を移植し、結果的にWordやExcelが動作するようになったという2年半の技術的挑戦の記録。

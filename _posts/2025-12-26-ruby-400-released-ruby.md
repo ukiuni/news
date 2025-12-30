@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ruby 4.0.0 Released | Ruby"
+title: Ruby 4.0.0 Released | Ruby - Ruby 4.0.0がリリースされました | Ruby
 date: 2025-12-26T03:56:05.123Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -9,7 +9,7 @@ source_title: "Ruby 4.0.0 Released | Ruby"
 source_id: 438519320
 ---
 
-# Ruby 4.0到来 — 「Ruby Box」と「ZJIT」で何が変わるのか？今すぐ試したい実践ポイント付き解説
+# Ruby 4.0.0 Released | Ruby - Ruby 4.0.0がリリースされました | Ruby
 
 ## 要約
 Ruby 4.0は「Ruby Box」（定義の分離）と「ZJIT」（新世代JIT）を柱に、Ractorの改善や言語・コアクラスの細かな変更を導入。パフォーマンスと安全性の両面で次の世代に踏み出します。

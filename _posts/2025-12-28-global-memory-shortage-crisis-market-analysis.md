@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Global Memory Shortage Crisis: Market Analysis'
+title: Global Memory Shortage Crisis: Market Analysis - 世界的なメモリ不足危機：市場分析
 date: 2025-12-28 20:17:14.170000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'IDC - Global Memory Shortage Crisis: Market Analysis and the Pote
 source_id: 46411902
 excerpt: AI需要でメモリ逼迫、2026年にスマホ・PCが価格上昇・出荷減で直撃
 ---
-# 2026年、メモリ不足がデバイス市場を揺るがす――スマホとPCの価格上昇は日本にも直撃する
+# Global Memory Shortage Crisis: Market Analysis - 世界的なメモリ不足危機：市場分析
 
 ## 要約
 AIインフラ向けメモリ需要の急増でDRAM/NAND供給が逼迫。スマホとPCは部品コスト上昇と供給制約で出荷減・平均販売価格（ASP）上昇のリスクが高まっている。

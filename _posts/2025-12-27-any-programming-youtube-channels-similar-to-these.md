@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Any programming youtube channels similar to these?
+title: Any programming youtube channels similar to these? - これらに似たプログラミングYouTubeチャンネルはありますか？
 date: 2025-12-27 06:41:00.516000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Daniel Hirsch - YouTube
 source_id: 437178375
 excerpt: HirschDaniel風の実践的YouTubeチャンネルと探し方、すぐ使える学習法を厳選紹介
 ---
-# 動画で「作りながら学ぶ」──HirschDanielに似た良質プログラミング系YouTubeチャンネルの探し方とおすすめ
+# Any programming youtube channels similar to these? - これらに似たプログラミングYouTubeチャンネルはありますか？
 
 ## 要約
 元スレは「Any programming youtube channels similar to these?」という問いで、HirschDanielへのリンクが提示されています。この記事では「どういう観点で似たチャンネルを探すか」と、日本のエンジニアがすぐ活用できるおすすめチャンネルと実践的な学習法を短くまとめます。

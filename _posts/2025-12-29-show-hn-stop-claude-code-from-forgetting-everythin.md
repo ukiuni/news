@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Show HN: Stop Claude Code from forgetting everything"
+title: Show HN: Stop Claude Code from forgetting everything - Show HN: Claude Codeがすべてを忘れてしまうのを防ぐ
 date: 2025-12-29T23:31:11.380Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46426624
 excerpt: "会話をまたいで決定や調査を自動記録する永続メモリでClaudeをチームの記憶係にする方法"
 ---
 
-# Claudeを“忘れない”AIに変える — 会話をまたいで知識を蓄える永続メモリの作り方
+# Show HN: Stop Claude Code from forgetting everything - Show HN: Claude Codeがすべてを忘れてしまうのを防ぐ
 
 ## 要約
 会話ごとにゼロから始まるLLMの欠点を補い、対話の文脈・意思決定・調査ログを「知識ツリー」として永続化する仕組みの紹介。プラグイン連携で自動記録と手動の記憶操作ができ、開発ワークフローに溶け込ませられる。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Genin to Kage - Understanding the Test Pyramid with Naruto
+title: From Genin to Kage - Understanding the Test Pyramid with Naruto - 下忍から火影へ - NARUTOで理解するテストピラミッド
 date: 2025-12-26 10:23:30.513000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: From Genin to Kage - Understanding the Test Pyramid with Naruto - 
 source_id: 3123641
 excerpt: ナルトのランク比喩で学ぶ、CI高速化とテスト比率最適化の実践ガイド
 ---
-# ナルト流で理解するテストピラミッド — GeninからHokageへ、品質を育てる技術戦略
+# From Genin to Kage - Understanding the Test Pyramid with Naruto - 下忍から火影へ - NARUTOで理解するテストピラミッド
 
 ## 要約
 ナルトの忍者ランクを比喩に、テストピラミッドの各層（ユニット／統合／E2E）が何を担い、どの比率で投資すべきかを実務的に解説する。

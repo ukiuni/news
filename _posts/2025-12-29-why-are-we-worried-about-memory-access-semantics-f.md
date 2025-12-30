@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why are we worried about memory access semantics? Full barriers should be enough for anybody"
+title: Why are we worried about memory access semantics? Full barriers should be enough for anybody - なぜメモリアクセス・セマンティクスを心配するのか？フルバリアがあれば十分なはずだ
 date: 2025-12-29T14:28:49.394Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 1347693066
 excerpt: "全フェンスは安全だが性能を殺す、アーキで最小限のバリア選びが重要だ"
 ---
 
-# コア増加時代の盲点：なぜ「全部フェンス」で済ませないといけないわけではないのか？
+# Why are we worried about memory access semantics? Full barriers should be enough for anybody - なぜメモリアクセス・セマンティクスを心配するのか？フルバリアがあれば十分なはずだ
 
 ## 要約
 マルチコア化で性能を引き出すにはメモリアクセスの順序付けが重要。全てをフル・メモリフェンスで守れば確実だが、無駄な性能低下を招くため「必要最小限のバリア」を選ぶ技術が求められる。

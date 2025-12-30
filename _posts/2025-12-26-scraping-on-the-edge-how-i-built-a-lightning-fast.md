@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scraping on the Edge: How I Built a Lightning-Fast Manga Reader with SvelteKit'
+title: Scraping on the Edge: How I Built a Lightning-Fast Manga Reader with SvelteKit - エッジでのスクレイピング：SvelteKitで超高速マンガリーダーを構築した方法
 date: 2025-12-26 06:12:40.468000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: 'Scraping on the Edge: How I Built a Lightning-Fast Manga Reader w
 source_id: 3122583
 excerpt: エッジで動くSvelteKit×Workersで広告無し高速漫画リーダーを作る
 ---
-# エッジで高速スクレイピング：SvelteKit＋Cloudflare Workersで作るサクサク漫画リーダー
+# Scraping on the Edge: How I Built a Lightning-Fast Manga Reader with SvelteKit - エッジでのスクレイピング：SvelteKitで超高速マンガリーダーを構築した方法
 
 ## 要約
 海外開発者がSvelteKitとCloudflare Workersを使い、広告無しで高速に動く「漫画リーダー」をエッジで実装した事例を解説。スクレイピングをエッジで実行し、画像のホットリンク対策をプロキシで回避するアプローチが中心。

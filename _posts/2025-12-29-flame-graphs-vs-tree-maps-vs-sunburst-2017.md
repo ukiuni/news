@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flame Graphs vs. Tree Maps vs. Sunburst (2017)"
+title: Flame Graphs vs. Tree Maps vs. Sunburst (2017) - フレームグラフ vs ツリーマップ vs サンバースト (2017)
 date: 2025-12-29T20:28:03.891Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46401052
 excerpt: "会議や運用で使えるFlame/TreeMap/Sunburstの最適な使い分け法"
 ---
 
-# 視覚化で騙されるな！Flame Graph・Tree Map・Sunburstをプロが使い分ける理由
+# Flame Graphs vs. Tree Maps vs. Sunburst (2017) - フレームグラフ vs ツリーマップ vs サンバースト (2017)
 
 ## 要約
 ファイルサイズやプロファイルの階層データを可視化する代表的手法（Flame Graph／Tree Map／Sunburst）を比較し、どの場面でどれを選ぶべきかを実践的にまとめる。

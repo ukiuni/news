@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why the Internet Is Bad for Democracy (2005)"
+title: Why the Internet Is Bad for Democracy (2005) - なぜインターネットは民主主義に悪いのか (2005)
 date: 2025-12-29T22:28:30.647Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46425769
 excerpt: "アルゴリズムが生むエコーチェンバーが民主討論を崩す理由と対策を示す"
 ---
 
-# ネットは民主主義の味方か敵か？――「情報の泡」が公共圏を崩す理由
+# Why the Internet Is Bad for Democracy (2005) - なぜインターネットは民主主義に悪いのか (2005)
 
 ## 要約
 インターネットの個別最適化や拡散メカニズムは、情報の多様性を減らし、市民が共通の事実や反対意見に触れる機会を奪うことで、民主的な議論の質を損なう可能性がある。

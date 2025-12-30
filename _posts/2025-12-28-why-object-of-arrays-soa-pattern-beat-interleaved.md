@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole"
+title: Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole - なぜObject of Arrays (SoAパターン) がインターリーブ配列に勝るのか：JavaScriptパフォーマンスの深淵
 date: 2025-12-28T15:05:53.600Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 436117482
 excerpt: "数百万件の数値処理がTypedArrayを使ったSoAで大幅高速化する理由と実践法を解説"
 ---
 
-# JSで処理が劇的に速くなることも？SoA（Object of Arrays）がAoS（Interleaved Array）を打ち負かす理由
+# Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole - なぜObject of Arrays (SoAパターン) がインターリーブ配列に勝るのか：JavaScriptパフォーマンスの深淵
 
 ## 要約
 JavaScriptで数百万件の数値データを扱うとき、配列の「構造（Array of Structures, AoS）」よりも各フィールドを別々の配列にした「Object of Arrays / Structure of Arrays（SoA）」とTypedArrayを組み合わせると、メモリ局所性・JIT最適化・GC負荷の観点から大きく高速化することがある。

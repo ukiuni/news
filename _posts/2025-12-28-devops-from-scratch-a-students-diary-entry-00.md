@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DevOps From Scratch: A Student’s Diary (Entry #00)'
+title: DevOps From Scratch: A Student’s Diary (Entry #00) - ゼロからのDevOps：ある学生の日記（第00回）
 date: 2025-12-28 16:18:18.235000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'DevOps From Scratch: A Student’s Diary (Entry #00) - DEV Commun
 source_id: 3119996
 excerpt: 学生が実践で使えるDevOpsの全体感を日記で学べる導入、低コストで試せる手順付き
 ---
-# 「Works on my machine」卒業宣言！学生が綴るゼロからのDevOps日記
+# DevOps From Scratch: A Student’s Diary (Entry #00) - ゼロからのDevOps：ある学生の日記（第00回）
 
 ## 要約
 コンピュータサイエンス学生が「コードがローカルで動く」から「実際の運用で動く」へ移るために、ツール習得ではなく「システム全体の理解（System Awareness）」を目標にした学習計画を公開する日記の導入編です。

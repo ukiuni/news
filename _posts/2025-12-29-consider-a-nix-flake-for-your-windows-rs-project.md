@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Consider a Nix Flake for your windows-rs Project"
+title: Consider a Nix Flake for your windows-rs Project - windows-rsプロジェクトにNix Flakeを検討する
 date: 2025-12-29T03:50:48.427Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 774092537
 excerpt: "NixフレークでMacやNixOSからWindows向けRustをMSVCでビルド検証、CIで統一"
 ---
 
-# もうディスプレイを切り替えない — Nix FlakeでWindows向けRust開発をMac/NixOSから完結させるテクニック
+# Consider a Nix Flake for your windows-rs Project - windows-rsプロジェクトにNix Flakeを検討する
 
 ## 要約
 Nixのflakeを導入することで、Windows（MSVC）向けのRustプロジェクトをmacOS/NixOS上でビルド・検証できるようになり、ドキュメント生成やフォーマッタ／リンタの統合チェックまで一貫して実行できるようになります。

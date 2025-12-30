@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Package managers keep using git as a database, it never works out
+title: Package managers keep using git as a database, it never works out - パッケージマネージャーがgitをデータベースとして使い続けているが、決してうまくいかない
 date: 2025-12-26 03:58:16.567000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Package managers keep using git as a database, it never works out 
   Andrew Nesbitt
 source_id: 1374378779
 ---
-# パッケージ管理が毎回「gitをデータベースにする」と破綻する理由 — Cargo／Homebrew／CocoaPods／Nixpkgs／vcpkg から学ぶ現場対策
+# Package managers keep using git as a database, it never works out - パッケージマネージャーがgitをデータベースとして使い続けているが、決してうまくいかない
 
 ## 要約
 多くのパッケージマネージャがメタデータをgitリポジトリで配布し続けるが、履歴肥大やCIでの毎回クローンといった現実的コストで必ず問題化する。各プロジェクトが採った回避策と、そのトレードオフを整理する。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "You can make up HTML tags"
+title: You can make up HTML tags - HTMLタグは自分で作ることができる
 date: 2025-12-29T03:49:52.725Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46416945
 excerpt: "ハイフン入りの自作タグでdivネスト地獄を解消し、可読性と保守性を短時間で高める方法"
 ---
 
-# もうdivだらけにしない：自作HTMLタグでマークアップを読みやすくする小ワザ
+# You can make up HTML tags - HTMLタグは自分で作ることができる
 
 ## 要約
 ブラウザは未定義のHTMLタグを受け入れるため、意味のある名前（特にハイフン入り）を使えば、div/クラスのネスト地獄を避けつつシンプルで読みやすいHTMLを書ける。

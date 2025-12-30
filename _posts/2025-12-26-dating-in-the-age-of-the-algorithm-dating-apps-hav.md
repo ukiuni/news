@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dating in the Age of the Algorithm : Dating apps have transformed intimacy
+title: Dating in the Age of the Algorithm : Dating apps have transformed intimacy - アルゴリズム時代のデート：デートアプリが親密さを変えた
   into a marketplace of frustration. They fuel gender conflict while ruthlessly extracting
   value from our most intimate desires.'
 date: 2025-12-26 09:11:32.674000+00:00
@@ -15,7 +15,7 @@ source_title: Dating in the Age of the Algorithm
 source_id: 441563457
 excerpt: 出会いアプリが欲望を商品化し、社会的孤立とジェンダー対立を増幅する実態を暴く
 ---
-# 恋愛を搾取するアルゴリズム：出会いアプリが生む「欲望の市場」と日本への警告
+# Dating in the Age of the Algorithm : Dating apps have transformed intimacy - アルゴリズム時代のデート：デートアプリが親密さを変えた
 
 ## 要約
 出会い系アプリはアルゴリズムとマネタイズ設計によって、恋愛や欲望を市場化し、失望とジェンダー対立を助長している。テック側の設計とビジネスモデルが社会的な孤立や政治化を生んでいる点は、日本にとっても見過ごせない課題だ。

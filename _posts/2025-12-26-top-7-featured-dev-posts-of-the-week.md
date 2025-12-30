@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 7 Featured DEV Posts of the Week
+title: Top 7 Featured DEV Posts of the Week - 今週の注目のDEV投稿トップ7
 date: 2025-12-26 04:05:28.729000+00:00
 categories:
 - tech
@@ -12,7 +12,7 @@ source_url: https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2p6l
 source_title: Top 7 Featured DEV Posts of the Week - DEV Community
 source_id: 3123504
 ---
-# 今週のDEVトップ7：Vibe Codingの落とし穴と、40倍速いLLMゲートウェイまで押さえるべき短観
+# Top 7 Featured DEV Posts of the Week - 今週の注目のDEV投稿トップ7
 
 ## 要約
 DEV編集部が選ぶ今週の注目記事7本。AI支援コーディングの弊害、エッジでの設計哲学、実務観点のLinux評価、そして高速なLLMゲートウェイ「Bifrost」など、実務に直結する示唆が揃っています。

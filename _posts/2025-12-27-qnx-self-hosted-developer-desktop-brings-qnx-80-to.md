@@ -1,6 +1,6 @@
 ---
 layout: post
-title: QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop
+title: QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop - QNXセルフホスト型開発者デスクトップがQNX 8.0をWayland + Xfceデスクトップにもたらす
 date: 2025-12-27 11:40:14.616000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xf
 source_id: 755149109
 excerpt: QNX 8.0をWayland＋XfceでVM上に自己完結環境化、クロス開発を大幅短縮
 ---
-# QNXが“自己完結型”デスクトップに：QNX 8.0 を Wayland＋Xfce 上で手元で動かす意味
+# QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop - QNXセルフホスト型開発者デスクトップがQNX 8.0をWayland + Xfceデスクトップにもたらす
 
 ## 要約
 QNXが「Self‑Hosted Developer Desktop」を初公開。QNX 8.0 上に Wayland ベースの Xfce デスクトップを載せ、開発環境を仮想マシンで自己完結させられるため、従来の煩雑なクロスコンパイル作業を大幅に簡素化します。

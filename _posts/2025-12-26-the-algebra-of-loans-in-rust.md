@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Algebra of Loans in Rust
+title: The Algebra of Loans in Rust - Rustにおける借用の代数
 date: 2025-12-26 10:25:05.952000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: The Algebra of Loans in Rust | Nadri’s musings
 source_id: 46357814
 excerpt: 借用の代数学で&own・&pin・&uninitが安全なAPI設計を可能にする
 ---
-# Rust借用の代数学が示す未来 — &own・&pin・&uninitで借用がもっと「数学的」になる理由
+# The Algebra of Loans in Rust - Rustにおける借用の代数
 
 ## 要約
 Rustの借用（loan）を代数的に整理する試みが、&own / &pin / &uninit などの新しい参照種類を提示している。これにより「何ができて何ができないか」を形式的に扱えるようになり、コンパイラとライブラリ設計の柔軟性が増す可能性がある。

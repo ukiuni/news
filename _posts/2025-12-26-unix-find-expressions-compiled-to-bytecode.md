@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unix \"find\" expressions compiled to bytecode"
+title: Unix \"find\" expressions compiled to bytecode - バイトコードにコンパイルされたUnixの「find」式
 date: 2025-12-26T15:28:12.981Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46391448
 excerpt: "find式をバイトコード化して大規模ファイル走査を劇的に高速化する方法"
 ---
 
-# [Unix findを“バイトコード化”して高速化する技法 — nullprogram流コンパイラ設計]
+# Unix \"find\" expressions compiled to bytecode - バイトコードにコンパイルされたUnixの「find」式
 
 ## 要約
 Unixのfindの式を事前にバイトコードへコンパイルし、ファイルごとの評価コストを極小化する手法を解説する。実装の要点と実用上の注意（短絡評価・正規表現の遅延コンパイルなど）を実例ベースでまとめた。

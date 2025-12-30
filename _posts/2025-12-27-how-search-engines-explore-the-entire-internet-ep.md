@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Search Engines Explore the Entire Internet? EP: 2 Behind The Screen"
+title: How Search Engines Explore the Entire Internet? EP: 2 Behind The Screen - 検索エンジンはいかにしてインターネット全体を探索するのか？ 第2回：スクリーンの裏側
 date: 2025-12-27T08:40:13.688Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 437058795
 excerpt: "クローラーが世界中のページを発見・解析し検索結果を作る仕組みを実務視点で解説"
 ---
 
-# ウェブ全体を「巡回」する仕組みの裏側 — 検索エンジンのクローラー入門
+# How Search Engines Explore the Entire Internet? EP: 2 Behind The Screen - 検索エンジンはいかにしてインターネット全体を探索するのか？ 第2回：スクリーンの裏側
 
 ## 要約
 検索エンジンの「クローラー（スパイダー）」がどのように世界中のページを発見・取得・解析してインデックスを作るかを、主要コンポーネントと設計上の工夫を交えて平易に解説します。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More Dynamic Cronjobs
+title: More Dynamic Cronjobs - よりダイナミックなCronジョブ
 date: 2025-12-27 07:41:07.077000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: More dynamic cronjobs • George Mandis
 source_id: 46399576
 excerpt: crontabに簡単なシェル判定を入れて、月末火曜や祝日・天気でジョブ実行を柔軟に制御するワザ
 ---
-# 月末の火曜は飛ばすcron術 — 単行で「動的」なジョブを作る小技
+# More Dynamic Cronjobs - よりダイナミックなCronジョブ
 
 ## 要約
 crontab に小さなシェル判定を仕込むだけで、曜日や祝日、天気やニュースなどの条件に応じて実行を制御できる。複雑なスケジュールを外部ツールなしで簡潔に実現する実用テクニックを紹介する。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: At the edges of the AI data center boom, rural America is up against Silicon
+title: At the edges of the AI data center boom, rural America is up against Silicon - AIデータセンターブームの端で、アメリカの農村部がシリコンバレーと対峙
   Valley billions
 date: 2025-12-27 15:39:22.135000+00:00
 categories:
@@ -15,7 +15,7 @@ source_title: At the edges of the AI data center boom, rural America is up again
 source_id: 436859776
 excerpt: '**砂漠が巨大AIデータセンターに変わるとき、地方の電力・水が奪われる危機**'
 ---
-# 砂漠が「AIの工場」に変わる日──アリゾナ郊外の巨大データセンターが日本に突きつける課題と機会
+# At the edges of the AI data center boom, rural America is up against Silicon - AIデータセンターブームの端で、アメリカの農村部がシリコンバレーと対峙
 
 ## 要約
 アリゾナ州ハッサヤンパ牧場付近で進む2,000エーカー規模の産業再区分は、1.5GW級・数十億〜数百億ドル規模のAIデータセンターを呼び込もうとしている。電力・水・地域経済に与える影響は、日本の地方やインフラ計画にも示唆を与える。

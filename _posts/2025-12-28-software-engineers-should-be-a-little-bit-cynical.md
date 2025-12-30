@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Software engineers should be a little bit cynical"
+title: Software engineers should be a little bit cynical - ソフトウェアエンジニアは少し冷笑的であるべきだ
 date: 2025-12-28T22:17:10.305Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46414723
 excerpt: "組織の現実を見抜き、段階的にユーザー価値を実現する実践ガイド"
 ---
 
-# エンジニアは「ちょっとだけシニカル」でいい — 大規模プロダクトで本当に影響を出す現実主義
+# Software engineers should be a little bit cynical - ソフトウェアエンジニアは少し冷笑的であるべきだ
 
 ## 要約
 完璧主義か反抗かの二択ではなく、「少しのシニシズム」を持って組織の仕組みを理解しつつ、現実的にユーザー価値を作ることが最も実用的だという主張。

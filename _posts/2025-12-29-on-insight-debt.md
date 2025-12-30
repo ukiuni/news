@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On insight debt"
+title: On insight debt - 「インサイト負債」について
 date: 2025-12-29T08:52:40.486Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435612764
 excerpt: "AI生成コードが設計意図を消し、長期保守コストを急増させる危機と今取るべき対策"
 ---
 
-# AIが量産する「見えない負債」—Insight Debtが日本の開発現場にもたらす試練
+# On insight debt - 「インサイト負債」について
 
 ## 要約
 AIで大量のコードを短時間に生成できる一方、生成物に潜む「何故そう設計されたか」が失われることで、将来の保守性や柔軟性が損なわれる――これがInsight Debtの本質です。

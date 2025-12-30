@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AI Police Reports: Year in Review'
+title: AI Police Reports: Year in Review - AI警察レポート：今年の振り返り
 date: 2025-12-27 05:42:11.075000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'AI Police Reports: Year In Review | Electronic Frontier Foundatio
 source_id: 46367195
 excerpt: EFFとAxon事例で、生成AIが警察記録を不透明化し証拠破壊を招く危険と対策
 ---
-# AIが書く「実況報告」──警察レポート自動生成の危うさと日本への示唆
+# AI Police Reports: Year in Review - AI警察レポート：今年の振り返り
 
 ## 要約
 米EFFが警鐘を鳴らす、警察向け生成AI（特にAxonのDraft One）が報告書の透明性・証拠性を損ねる実例と対策をまとめた年次レビュー。日本でも同様の問題が起こり得る。

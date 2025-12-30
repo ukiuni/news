@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Easel Turns One! One year of building my own IDE in Clojure
+title: Easel Turns One! One year of building my own IDE in Clojure - Easelが1周年！Clojureで独自のIDEを構築した1年
 date: 2025-12-27 17:42:24.170000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Easel Turns One!
 source_id: 1075290319
 excerpt: ClojureでIDEをライブラリ化、ツール連携の未来を1年で示す挑戦
 ---
-# 「IDEをライブラリにする」— Clojure製Easelが描く“ツール同士がつながる”未来（1年の軌跡）
+# Easel Turns One! One year of building my own IDE in Clojure - Easelが1周年！Clojureで独自のIDEを構築した1年
 
 ## 要約
 Clojure + JVMで作られたEaselは、「ツールをモジュールとして共有し、IDE自体をライブラリ化する」ことを目指す実験的IDE。1年で到達した設計上の決断と、今後の可能性をまとめる。

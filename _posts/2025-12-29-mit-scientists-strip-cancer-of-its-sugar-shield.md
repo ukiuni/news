@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MIT scientists strip cancer of its sugar shield"
+title: MIT scientists strip cancer of its sugar shield - MITの科学者、癌から「糖の盾」を剥ぎ取る
 date: 2025-12-29T11:25:58.469Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435519732
 excerpt: "抗体とレクチン融合の新療法AbLecが腫瘍のシアル酸「糖鎧」を剥ぎ取り、免疫で転移を抑える可能性を示す"
 ---
 
-# がんの「糖の鎧」を剥ぐ新戦術――抗体×レクチンで免疫を解放するAbLecの衝撃
+# MIT scientists strip cancer of its sugar shield - MITの科学者、癌から「糖の盾」を剥ぎ取る
 
 ## 要約
 がん細胞表面のシアル酸を介した免疫抑制を、抗体にレクチン（糖結合タンパク）を結合した「AbLec」により標的化。ラボとヒト化マウスで免疫応答を強化し、既存抗体療法を上回る効果を示した。

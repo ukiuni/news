@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Global memory shortage could disrupt smartphone and PC markets in 2026: IDC
+title: Global memory shortage could disrupt smartphone and PC markets in 2026: IDC - 世界的なメモリ不足、2026年のスマートフォンおよびPC市場を混乱させる可能性：IDC
   |'
 date: 2025-12-26 15:26:43.191000+00:00
 categories:
@@ -15,7 +15,7 @@ source_title: 'Global memory shortage could disrupt smartphone and PC markets in
 source_id: 439058681
 excerpt: AI需要でメモリ逼迫、2026年にスマホ・PCで価格上昇と仕様抑制
 ---
-# 2026年、スマホとPCが「メモリ不足」で変わる：IDCの警告が日本にも突きつける現実
+# Global memory shortage could disrupt smartphone and PC markets in 2026: IDC - 世界的なメモリ不足、2026年のスマートフォンおよびPC市場を混乱させる可能性：IDC
 
 ## 要約
 IDCは、AIインフラ需要の急拡大でDRAM／NANDの供給が逼迫し、2026年にスマホ・PC市場で価格上昇と仕様抑制が起きる可能性を指摘している。中〜下位モデルや小規模メーカーが特に痛手を受ける見込みだ。

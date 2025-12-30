@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What an unprocessed photo looks like
+title: What an unprocessed photo looks like - 未加工の写真がどのように見えるか
 date: 2025-12-28 23:17:45.077000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'What an unprocessed photo looks like: (Maurycy''s blog)'
 source_id: 46415225
 excerpt: RAW生データが示すありのままの画と、ベイヤーやWB、ガンマなど現像の核心を解説
 ---
-# カメラの「生の視界」を覗く — RAWセンサーが捉える“ありのまま”の写真と現像の舞台裏
+# What an unprocessed photo looks like - 未加工の写真がどのように見えるか
 
 ## 要約
 カメラのRAWデータはセンサーが見るままの灰色に近い情報で、JPEGになるまでに複数の数理処理（レンジ補正、ベイヤー→デモザイク、ガンマ補正、ホワイトバランスなど）が加えられて「人間の見た目」に近づく。

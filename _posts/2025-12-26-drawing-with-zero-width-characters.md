@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drawing with zero-width characters
+title: Drawing with zero-width characters - ゼロ幅文字で描画する
 date: 2025-12-26 23:09:11.356000+00:00
 categories:
 - tech
@@ -22,7 +22,7 @@ source_title: Dۭۭۭۭۭۭۭۭۭۭۭۣۭۭۭۭۭۢۢۢۢۢۢۢۢۢۢۢۢۢۢۢ�
 source_id: 46395061
 excerpt: ゼロ幅文字と結合記号で隠し絵や注釈を作り、表示差や正規化対策まで実践解説
 ---
-# 見えないペンで描く──ゼロ幅文字で"隠れ絵"を作る方法と実践ガイド
+# Drawing with zero-width characters - ゼロ幅文字で描画する
 
 ## 要約
 ゼロ幅文字（Zero‑Width Characters）と結合文字（combining marks）を組み合わせることで、テキストの「見た目」を壊さずに画像的なパターンや隠し情報を埋め込む手法を解説する。表現の幅とプラットフォーム依存性、実用上の注意点を日本の開発者向けにまとめた。

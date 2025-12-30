@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Writing an NES emulator in Haskell
+title: Writing an NES emulator in Haskell - HaskellでNESエミュレータを書く
 date: 2025-12-26 08:10:58.479000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Writing an NES emulator in Haskell | Arthur Jamet
 source_id: 1158045137
 excerpt: HaskellでNESを再現し、関数型設計で性能と実装手法を探る挑戦記
 ---
-# HaskellでNESをエミュレートする意味 — FuNesが示す「関数型でハードを表現する」挑戦
+# Writing an NES emulator in Haskell - HaskellでNESエミュレータを書く
 
 ## 要約
 Haskellで書かれたNESエミュレータ「FuNes」の試みは、関数型パラダイムが古典的なハードウェアの振る舞いをどうモデル化できるかを検証する実験であり、実用的なフレームレートを目指しつつ設計・最適化のトレードオフを明らかにしている。

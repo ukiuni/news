@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "One incident, onion tech debt and layoffs - postmortem to gauge metric problem"
+title: One incident, onion tech debt and layoffs - postmortem to gauge metric problem - 一つのインシデント、玉ねぎのような技術的負債、そしてレイオフ - 指標の問題を測定するためのポストモーテム
 date: 2025-12-29T21:29:32.155Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435061290
 excerpt: "Prometheusの凍結ゲージが暴いた層状技術負債とサービス崩壊の全容"
 ---
 
-# 凍りついたゲージが暴いた「玉ねぎ式」技術負債とプロダクトの終焉
+# One incident, onion tech debt and layoffs - postmortem to gauge metric problem - 一つのインシデント、玉ねぎのような技術的負債、そしてレイオフ - 指標の問題を測定するためのポストモーテム
 
 ## 要約
 小さなPrometheusのゲージが “変わらない” ことから始まった障害対応は、例外処理の欠如→クライアント実装差→観測基盤選定→対象プロダクトの本質的問題…と層状に拡大し、最終的にサービス停止とレイオフに至った。

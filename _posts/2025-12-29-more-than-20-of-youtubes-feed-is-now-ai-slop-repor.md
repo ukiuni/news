@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "More than 20% of YouTube's feed is now \"AI slop,\" report finds"
+title: More than 20% of YouTube's feed is now \"AI slop,\" report finds - YouTubeフィードの20%以上が現在「AIスロップ」であるとの報告
 date: 2025-12-29T15:26:15.163Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435417478
 excerpt: "ユーチューブのショート約2割が低品質な人工知能生成動画に占拠、収益と推薦の危機"
 ---
 
-# もう見分けがつかない「AIスロップ」——YouTubeフィードの2割超が低品質自動生成動画に
+# More than 20% of YouTube's feed is now \"AI slop,\" report finds - YouTubeフィードの20%以上が現在「AIスロップ」であるとの報告
 
 ## 要約
 新規アカウントのショート動画500本を調査した結果、約21%が「AIスロップ」（手抜きの低品質自動生成コンテンツ）に該当し、さらに33%が「brainrot」と評価される雑多で没入破壊的なコンテンツだった。世界的にもAI生成チャンネルの閲覧・収益が急増している。

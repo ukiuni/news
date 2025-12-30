@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DJI drone ban has started in the US, but it won't happen overnight
+title: DJI drone ban has started in the US, but it won't happen overnight - 米国でDJIドローン禁止が開始されたが、一晩で起こるわけではない
 date: 2025-12-26 09:15:03.733000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: DJI drone ban has started in the US, but it won't happen overnight
 source_id: 440184256
 excerpt: 米FCCがDJIなどを事実上排除、部品供給と更新停止で日本の業務用ドローン運用は今すぐ対策必須
 ---
-# 米国がDJIを事実上締め出し──日本のドローン業界が知るべき現実と即効アクション
+# DJI drone ban has started in the US, but it won't happen overnight - 米国でDJIドローン禁止が開始されたが、一晩で起こるわけではない
 
 ## 要約
 米FCCがDJIやAutelを含む海外製ドローンを「国安対象（Covered List）」に追加し、新型機の米国内流通を事実上封鎖。既存機の利用は継続可能だが、今後の製品投入とサプライチェーンに大きな制約が生じる。

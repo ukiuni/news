@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of
+title: Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of - 理解までの平均時間 🤔：AI時代における還元不可能な人間的要素
   Infinite Code 🤖.'
 date: 2025-12-26 03:59:26.357000+00:00
 categories:
@@ -14,7 +14,7 @@ source_title: 'Mean Time to Understanding 🤔: The Irreducible Human Element in
   Age of Infinite Code 🤖. - DEV Community'
 source_id: 3119359
 ---
-# スピードはもう評価基準じゃない：AI時代に注目すべき「Mean Time to Understanding（理解までの平均時間）」
+# Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of - 理解までの平均時間 🤔：AI時代における還元不可能な人間的要素
 
 ## 要約
 コード生成が容易になった今、注目すべきは「どれだけ早く人がそのコードを理解できるか（Mean Time to Understanding）」であり、速度偏重は将来の運用コストと事故リスクを増やすだけだ、という主張。

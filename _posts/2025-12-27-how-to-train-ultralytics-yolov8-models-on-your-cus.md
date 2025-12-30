@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Train Ultralytics YOLOv8 models on Your Custom Dataset | 196 classes
+title: How to Train Ultralytics YOLOv8 models on Your Custom Dataset | 196 classes - カスタムデータセットでUltralytics YOLOv8モデルをトレーニングする方法 | 196クラス
   | Image classification
 date: 2025-12-27 17:43:06.589000+00:00
 categories:
@@ -14,7 +14,7 @@ source_title: 'YOLOv8 Tutorial: Build A Strong Car Classifier'
 source_id: 438094718
 excerpt: YOLOv8で196クラスの車種分類を高精度学習し、軽量化・エッジ展開まで実践するガイド
 ---
-# たった数行で高精度化！YOLOv8で作る「196クラス車種分類」実践ガイド
+# How to Train Ultralytics YOLOv8 models on Your Custom Dataset | 196 classes - カスタムデータセットでUltralytics YOLOv8モデルをトレーニングする方法 | 196クラス
 
 ## 要約
 UltralyticsのYOLOv8を使い、Stanford Carsの196クラスで学習・推論するフルパイプラインの解説。インストールからデータ整備、学習、推論、エッジ向け出力までの実践ノウハウを短時間で把握できる。

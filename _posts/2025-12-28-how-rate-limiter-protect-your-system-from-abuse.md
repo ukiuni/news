@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Rate Limiter protect your system from abuse!
+title: How Rate Limiter protect your system from abuse! - レートリミッターがいかにしてシステムを悪用から守るか！
 date: 2025-12-28 15:15:25.916000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: 'How Rate Limiter protect your system from abuse! EP: 3 Behind The
 source_id: 436113700
 excerpt: SMS/OTPコストや過負荷を防ぐ、実践的レートリミッタ設計指南
 ---
-# APIを守る最前線：レートリミッタが不正利用とコストを同時に止める理由
+# How Rate Limiter protect your system from abuse! - レートリミッターがいかにしてシステムを悪用から守るか！
 
 ## 要約
 レートリミッタはサービスへの過剰アクセスやコスト高騰を防ぐための最前線の仕組みで、アルゴリズム選定と適切な設計で「正当な利用を阻害せずに悪用だけを防ぐ」ことができる。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git's HTTP server side design does not scale"
+title: Git's HTTP server side design does not scale - GitのHTTPサーバー側の設計はスケールしない
 date: 2025-12-29T19:29:53.857Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 1316747096
 excerpt: "公開GitをHTTPで提供すると同時クローンで負荷爆発、事前パック等で即座に緩和可能"
 ---
 
-# GitのHTTPサーバは本当に「スケールしない」のか？ — 見えないDDoSの仕組みと現場対策
+# Git's HTTP server side design does not scale - GitのHTTPサーバー側の設計はスケールしない
 
 ## 要約
 GitのHTTP（smart/dumb HTTPいずれも）には、クライアントごとにサーバ側で重い処理を行わせる設計上の特性があり、多数の同時リクエストで容易にサーバ負荷が高まる。準備済みの対策がなければ、分散的なアクセス（意図的/非意図的問わず）が「見えないDDoS」を引き起こす可能性が高い。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "China Is Banning Tesla-Style Retractable Door Handles Over Safety Concerns"
+title: China Is Banning Tesla-Style Retractable Door Handles Over Safety Concerns - 中国、安全上の懸念からテスラ式の格納式ドアハンドルを禁止
 date: 2025-12-28T11:14:55.112Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 436312127
 excerpt: "中国が安全性問題でテスラ式格納ドアハンドルを禁止へ、設計・供給に大波紋"
 ---
 
-# 中国が「テスラ式」格納ドアハンドルを禁止へ — 見た目と安全性の衝突
+# China Is Banning Tesla-Style Retractable Door Handles Over Safety Concerns - 中国、安全上の懸念からテスラ式の格納式ドアハンドルを禁止
 
 ## 要約
 中国当局が、車体にフラッシュ収まる「テスラ式」モーター駆動の格納ドアハンドルを安全上の懸念から禁止する方針と報じられています。外観・空力と利便性を狙った設計が、緊急時の脱出や故障時のリスクを生んでいる点が問題視されています。

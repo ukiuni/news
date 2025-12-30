@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One year of keeping a tada list
+title: One year of keeping a tada list - 「タダ（できたこと）」リストを付け始めて1年
 date: 2025-12-28 14:26:59.353000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: One year of keeping a tada list - by Aditya Bhargava
 source_id: 46354282
 excerpt: 毎日のtada記録で学びと創作の積み重ねが可視化され具体成果に結びつく
 ---
-# 「やったことリスト（tada list）」で1年を可視化したら、仕事と学びの回路が変わった話
+# One year of keeping a tada list - 「タダ（できたこと）」リストを付け始めて1年
 
 ## 要約
 毎日の「やったこと」を書き留めるだけで、学習や創作の積み重ねが見える化され、技術的な成果やクリエイティブなプロジェクトが因果関係でつながる。筆者は紙の月別ページで1年続け、ペインティングやTypeScriptライブラリ開発など具体的成果が生まれた。

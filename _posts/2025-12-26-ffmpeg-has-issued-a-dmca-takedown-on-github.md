@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FFmpeg has issued a DMCA takedown on GitHub"
+title: FFmpeg has issued a DMCA takedown on GitHub - FFmpegがGitHubでDMCA削除要請を発行
 date: 2025-12-26T20:31:58.667Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46394327
 excerpt: "FFmpegがGitHubにDMCA申立て、あなたの製品は今すぐ依存確認を"
 ---
 
-# FFmpegがGitHubにDMCA申立て — オープンソース界に波紋、あなたのプロダクトは大丈夫か？
+# FFmpeg has issued a DMCA takedown on GitHub - FFmpegがGitHubでDMCA削除要請を発行
 
 ## 要約
 FFmpegが「GitHubに対してDMCA申立てを行った」との公式ツイートが出ました。詳細は不足していますが、オープンソース依存の多い開発現場では即座に影響を受け得る出来事です。

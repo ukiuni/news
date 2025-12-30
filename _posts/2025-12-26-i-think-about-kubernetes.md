@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Think about Kubernetes
+title: I Think about Kubernetes - Kubernetesについて考える
 date: 2025-12-26 21:07:05.035000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: How I think about Kubernetes | Georgi Arnaudov
 source_id: 46396043
 excerpt: Kubernetesを「宣言的ランタイム」として再定義し、運用・デバッグとGitOps導入を劇的に速める視点
 ---
-# Kubernetesを「オーケストレータ」だけで片付けていませんか？ 宣言的ランタイムとして再定義する思考法
+# I Think about Kubernetes - Kubernetesについて考える
 
 ## 要約
 Kubernetesは単なるコンテナオーケストレータではなく、「型（type）を持つ宣言的インフラのランタイム」だと捉えると全体像と運用の振る舞いが腑に落ちる。

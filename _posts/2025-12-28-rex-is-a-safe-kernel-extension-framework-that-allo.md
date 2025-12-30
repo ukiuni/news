@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rex is a safe kernel extension framework that allows Rust in the place of eBPF
+title: Rex is a safe kernel extension framework that allows Rust in the place of eBPF - RexはeBPFの代わりにRustを使用できる安全なカーネル拡張フレームワークである
 date: 2025-12-28 06:15:38.068000+00:00
 categories:
 - tech
@@ -15,7 +15,7 @@ source_title: 'GitHub - rex-rs/rex: Rex is a safe and usable kernel extension fr
 source_id: 46361927
 excerpt: RustでeBPFの検証エラーを回避しネイティブ最適化で高速安全なカーネル拡張を提供するRex
 ---
-# Rustでカーネル拡張を再定義する「Rex」――eBPFの代替となる安全で高速な選択肢
+# Rex is a safe kernel extension framework that allows Rust in the place of eBPF - RexはeBPFの代わりにRustを使用できる安全なカーネル拡張フレームワークである
 
 ## 要約
 Rexは、eBPFの代わりに「安全なRustサブセット」を使ってカーネル拡張をロード・実行するフレームワークで、カーネル内のバリファイアを回避してネイティブコードを生成することで、制約の緩和と性能向上を目指すプロジェクトです。

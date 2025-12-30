@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leaker Who Apple Is Suing Says 'Screw It,' Here's the Foldable iPhone Early"
+title: Leaker Who Apple Is Suing Says 'Screw It,' Here's the Foldable iPhone Early - Appleに訴えられているリーカーが「もういいや」と折りたたみiPhoneを早期公開
 date: 2025-12-26T19:10:51.857Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 438783086
 excerpt: "訴訟中のリーカーが披露、薄型重視の折りたたみiPhoneレンダと詳細仕様"
 ---
 
-# クリスマスに早撃ちリーク──折りたたみiPhoneは本当に来るのか？ ジョン・プロッサーの“大胆”レンダリングを読む
+# Leaker Who Apple Is Suing Says 'Screw It,' Here's the Foldable iPhone Early - Appleに訴えられているリーカーが「もういいや」と折りたたみiPhoneを早期公開
 
 ## 要約
 YouTuberのJon Prosserが公開した“折りたたみiPhone”の高精細レンダリングと仕様主張を紹介。Appleが訴訟を起こしている人物のリークで、来年発売噂の新型に関する注目ポイントが詰まっている。

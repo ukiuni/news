@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What I Learned Building a Storage Engine That Outperforms RocksDB
+title: What I Learned Building a Storage Engine That Outperforms RocksDB - RocksDBを凌駕するストレージエンジンを構築して学んだこと
 date: 2025-12-28 01:13:54.394000+00:00
 categories:
 - tech
@@ -14,7 +14,7 @@ source_title: What I Learned Building a Storage Engine That Outperforms RocksDB 
 source_id: 436669288
 excerpt: ロックフリー設計と動的コンパクションでRocksDBを上回るTidesDBの実践知
 ---
-# RocksDBを超えたストレージエンジンが示す“次世代の正解”：TidesDBの設計と実戦的インサイト
+# What I Learned Building a Storage Engine That Outperforms RocksDB - RocksDBを凌駕するストレージエンジンを構築して学んだこと
 
 ## 要約
 TidesDBはロックフリー設計、キー／値分離（WiscKey風）、適応型コンパクションなどを組み合わせて、特定条件下でRocksDBを上回る性能を示した。設計哲学は「最新ハードと実運用を前提にした再設計」であり、実務での応用価値が高い。

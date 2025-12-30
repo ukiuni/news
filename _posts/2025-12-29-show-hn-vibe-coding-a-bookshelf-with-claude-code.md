@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Show HN: Vibe coding a bookshelf with Claude Code"
+title: Show HN: Vibe coding a bookshelf with Claude Code - Show HN: Claude Codeで本棚を「バイブス・コーディング」する
 date: 2025-12-29T14:26:31.121Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46420453
 excerpt: "AIに本棚デジタル化を一任し、手作業との境界を明確にしつつ約460冊を短時間で再現した実践ガイド"
 ---
 
-# AIに本棚を「ビルド」させたら見えた、本当に人間がやるべきこと
+# Show HN: Vibe coding a bookshelf with Claude Code - Show HN: Claude Codeで本棚を「バイブス・コーディング」する
 
 ## 要約
 AI（この記事ではClaude相当のエージェント）に写真を渡してメタデータ抽出→カバー取得→見た目再現まで自動化させ、約460冊の私家本棚を短期間でデジタル化した実例。実行はAI、判断は人間——その境界線がはっきりしたプロジェクトだ。

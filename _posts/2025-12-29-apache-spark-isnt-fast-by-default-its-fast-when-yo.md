@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apache Spark Isn’t “Fast” by Default; It’s Fast When You Use It Correctly"
+title: Apache Spark Isn’t “Fast” by Default; It’s Fast When You Use It Correctly - Apache Sparkはデフォルトで「速い」わけではない。正しく使えば速いのだ
 date: 2025-12-29T20:31:47.026Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435149815
 excerpt: "Sparkはデフォルトで遅く、パーティションやシリアライザ最適化で劇的に高速化できる方法を解説"
 ---
 
-# Sparkは「速い」わけではない — 正しく使って初めて速くなる7つの鉄則
+# Apache Spark Isn’t “Fast” by Default; It’s Fast When You Use It Correctly - Apache Sparkはデフォルトで「速い」わけではない。正しく使えば速いのだ
 
 ## 要約
 Apache Sparkは高性能をうたうが、デフォルト設定では最適化されておらず、正しいデータ設計・チューニング・実行パターンを適用したときに初めて真価を発揮する。

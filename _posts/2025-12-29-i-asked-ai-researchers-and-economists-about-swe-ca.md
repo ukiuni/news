@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I asked AI researchers and economists about SWE career strategies given AI"
+title: I asked AI researchers and economists about SWE career strategies given AI - AIを前提としたSWEのキャリア戦略について、AI研究者と経済学者に聞いてみた
 date: 2025-12-29T12:27:52.308Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46401569
 excerpt: "日本市場でAIに取られないためMLOpsとドメイン特化で高付加価値を作る戦略"
 ---
 
-# AI時代のSWE戦略 — 研究者と経済学者が導く「価値を残す」ための道筋
+# I asked AI researchers and economists about SWE career strategies given AI - AIを前提としたSWEのキャリア戦略について、AI研究者と経済学者に聞いてみた
 
 ## 要約
 AIがソフトウェア開発の大量の作業を自動化する中で、研究者と経済学者の議論は「単純作業の自動化に耐えるスキル」の獲得と「AIと補完関係にある高付加価値能力」の育成を勧めている。

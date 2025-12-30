@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI data centers are forcing dirty ‘peaker’ power plants back into service"
+title: AI data centers are forcing dirty ‘peaker’ power plants back into service - AIデータセンターが汚い「ピーク時用」発電所の再稼働を強いている
 date: 2025-12-27T05:39:58.777Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 437515148
 excerpt: "AI需要の急増で旧式ピーカープラントが再稼働、電力・排出リスクが日本のデータセンターを直撃"
 ---
 
-# AIラッシュで“旧式ピーカープラント”再稼働──日本のデータセンターは電力地獄に巻き込まれるか？
+# AI data centers are forcing dirty ‘peaker’ power plants back into service - AIデータセンターが汚い「ピーク時用」発電所の再稼働を強いている
 
 ## 要約
 AIモデルの急増でデータセンターの突発的かつ大容量の電力需要が増え、短時間用の古い「ピーカープラント」が再稼働している。これは温室効果ガス増加やグリッド運用の難化を招き、日本でも無視できない課題だ。

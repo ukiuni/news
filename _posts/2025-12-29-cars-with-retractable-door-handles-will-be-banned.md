@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cars with retractable door handles will be banned in China"
+title: Cars with retractable door handles will be banned in China - 中国で格納式ドアハンドルを備えた車が禁止へ
 date: 2025-12-29T17:26:12.309Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 435270134
 excerpt: "中国が2027年からテスラ式引込ドアを事実上禁止、メーカーは即時設計見直し必須"
 ---
 
-# 中国が「テスラ式」引っ込むドアハンドルを禁止へ — EVの設計常識が変わる前触れ
+# Cars with retractable door handles will be banned in China - 中国で格納式ドアハンドルを備えた車が禁止へ
 
 ## 要約
 中国の工業情報化部が、車両総重量3.5トン未満の新車に対し「室内外ともに機械的な非常開放装置（メカニカルリリース）」を義務付ける案を公表。これにより、電動で引っ込むフラッシュハンドル（いわゆるテスラ式）は事実上2027年1月1日以降の新車で使えなくなる見込みです。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Show HN: My app just won best iOS Japanese learning tool of 2025 award'
+title: Show HN: My app just won best iOS Japanese learning tool of 2025 award - Show HN: 私のアプリが2025年のベストiOS日本語学習ツール賞を受賞しました
 date: 2025-12-29 00:59:59.533000+00:00
 categories:
 - tech
@@ -13,7 +13,7 @@ source_title: Best Japanese Learning Tools 2025 Award Show 🏆
 source_id: 46415819
 excerpt: 遊びながら即Anki化、OCRでゲームや動画を学習コンテンツ化する最前線ツール
 ---
-# ゲームもNetflixも“即学習化”する日本語学習ツール最前線 — 2025年版ベストピック
+# Show HN: My app just won best iOS Japanese learning tool of 2025 award - Show HN: 私のアプリが2025年のベストiOS日本語学習ツール賞を受賞しました
 
 ## 要約
 ブラウザ拡張やOCR、Anki周りのエコシステムが成熟し、ゲーム・動画・電子書籍を即座に「学習コンテンツ化」するツール群が学習効率を劇的に上げている。導入コストはあるが、正しく組み合わせれば短期間で読解量と語彙定着が伸びる。

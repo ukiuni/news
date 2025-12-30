@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB"
+title: Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB - Show HN: Z80-μLM、40KBに収まる「対話型AI」
 date: 2025-12-29T06:52:42.627Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
@@ -10,7 +10,7 @@ source_id: 46417815
 excerpt: "4MHzのZ80で40KB実行、会話する超小型AIの仕組み紹介"
 ---
 
-# 4MHzで会話するレトロAI — 40KBに収まるZ80向け「2ビット」言語モデル
+# Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB - Show HN: Z80-μLM、40KBに収まる「対話型AI」
 
 ## 要約
 わずか約40KBのCP/M .COMバイナリで、1970年代のZ80（4MHz、64KB RAM）上で会話風の応答を生成する2ビット量子化言語モデル。レトロマシンでチャットを楽しめるだけでなく、極限まで制約された環境でのML設計の教科書的実装でもある。
