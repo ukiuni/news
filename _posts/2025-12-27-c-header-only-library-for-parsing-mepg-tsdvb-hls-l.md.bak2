@@ -1,0 +1,60 @@
+---
+layout: post
+title: "C header only library for parsing MEPG-TS/DVB (hls) live streams + m3u8 Playlists"
+date: 2025-12-27 02:09:22.771000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://github.com/Jaysmito101/libpico/blob/main/include/pico/picoMpegTS.h
+source_title: libpico/include/pico/picoMpegTS.h at main · Jaysmito101/libpico · GitHub
+source_id: 437324931
+excerpt: ヘッダオンリーの軽量CライブラリでMPEG‑TS/DVBとm3u8を即解析
+---
+# C header only library for parsing MEPG-TS/DVB (hls) live streams + m3u8 Playlists
+見逃せない軽量Cヘッダだけライブラリ：MPEG‑TS/DVB（HLS）とm3u8をパッと解析する「libpico」の紹介
+
+
+## 要約
+ヘッダオンリーのCライブラリで、MPEG‑TS/DVB（HLS）ライブストリームとm3u8プレイリストの解析を最小限の依存で行える。組み込みやツールチェーンに組み込みやすい軽量設計が最大の魅力。
+
+## この記事を読むべき理由
+放送系ストリーム（MPEG‑TS/DVB）やHLSは日本でも広く使われている技術で、低レイヤで正しくパースできる小さなライブラリはストリーム監視、試作デコーダ、テストツール、組み込み機器の解析用途で即戦力になるから。
+
+## 詳細解説
+- ヘッダオンリー設計のメリット
+  - ソースにインクルードするだけで使えるためビルドが簡単。外部依存を避けたい組み込み開発や小型ツールに最適。
+  - コンパイル時に最適化されやすく、フットプリントを抑えられる。
+
+- サポート対象プロトコル／構造
+  - MPEG‑TS（トランスポートストリーム）: 188バイトパケット、同期バイト（0x47）、PID、アダプテーションフィールド、連続カウンタの解析。
+  - DVB系のPSI/SIテーブル（PAT/PMTなど）: サービス→PID→ストリーム型の紐付けを抽出可能。
+  - PES（Packetized Elementary Stream）単位でのペイロード再構築とPTS/DTSの取り出し。
+  - HLS/m3u8プレイリスト: m3u8ファイルのパース（EXTINF、EXT-X-* ヘッダ類）、セグメントURIの抽出、ライブ・VOD両対応の基本処理。
+  - ライブストリーム向け滑動ウィンドウ・不連続（discontinuity）フラグへの配慮。
+
+- 実装の特徴（典型的な設計）
+  - コールバック／イベント駆動型で、PAT/PMT検出時やPES切出し完了時にユーザー関数が呼ばれる構造が多い。
+  - バイト列単位でのストリームフィード（ストリーム断片ごとにparse呼び出し）を想定しており、部分受信でも使える。
+  - 最低限のエラー検出（同期ずれや連続カウンタ飛び）を備え、復帰処理が組める。
+
+- 利用上の注意点
+  - 「デマルチプレクス」までは行えるが、実際のデコード（H.264やAACのデコード）は別途ライブラリが必要。
+  - PCRやPTSの精度やタイムベース取り扱いは実装によるため、厳密な同期が必要な用途では十分な検証が必要。
+  - スレッドセーフ化は利用側で行うのが一般的。
+
+## 実践ポイント
+- まずはローカルのTSファイルやffmpegで作ったHLSを用意し、ライブラリに小さな「受け口」を作ってみる。
+  - 例: m3u8を取得 → セグメントURLを順にダウンロード → 各セグメントのデータを解析関数にfeed。
+- 組み込み向けの運用
+  - 少量メモリを前提にリングバッファで受信データを蓄える。TSは188バイト境界で同期を取る処理を最初に入れる。
+  - 連続カウンタの欠落・飛び（discontinuity）を検知してバッファをリセットする。
+- テスト手法
+  - ffmpegで意図的に連続カウンタ欠落やPAT/PMTの入替を作って挙動を確認する。
+  - m3u8ライブではセグメントスライドやEXT-X-DISCONTINUITYの扱いを重点的に検証する。
+- 拡張アイデア
+  - 解析結果を社内ログに送りやすくするため、JSONでイベントをエクスポートするラッパーを作る。
+  - GStreamerやFFmpegと連結し、解析→メタデータ抽出→外部処理というパイプラインにする。
+

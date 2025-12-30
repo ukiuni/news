@@ -1,0 +1,74 @@
+---
+layout: post
+title: "How to make a markdown viewer in java"
+date: 2025-12-27 00:07:38.392000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://youtu.be/9gYIRrlQm-4?si=ddo3I7pcVrmUp3Fc
+source_title: Markdown viewer with java and neutron - YouTube
+source_id: 437416750
+excerpt: JavaとNeutron/JavaFXで一晩で作るライブMarkdownビューアの実践手順
+---
+# How to make a markdown viewer in java
+JavaでMarkdownビューアを一晩で作る — Neutronと組み合わせた実践ガイド
+
+
+## 要約
+動画「How to make a markdown viewer in java」は、JavaとUIライブラリ（Neutron）を使ってMarkdownを読み込んで表示する一連の手順を示します。Markdown→HTML変換、UI表示、ライブプレビューやスタイル適用といった実用的なポイントを学べます。
+
+## この記事を読むべき理由
+日本の開発現場でもドキュメント閲覧ツールやノートアプリ、READMEプレビュー機能は頻出要件です。既存のWeb技術をJavaデスクトップへ安全に持ち込む実装パターンは、そのまま業務ツールや社内ユーティリティに応用できます。
+
+## 詳細解説
+動画の流れを技術的な観点で整理すると、主要なステップは次の通りです。
+
+1. Markdownの解析とHTML変換  
+   - 推奨ライブラリ：flexmark-java、commonmark-javaなど。これらでMarkdownをASTにし、HTMLへ変換する。  
+   - 生HTMLの扱いに注意：外部コンテンツや生HTMLブロックを許すとXSSにつながる可能性があるため、必要ならHTMLサニタイズを入れる（OWASP Java HTML Sanitizer 等）。
+
+2. HTMLの表示（UI側）  
+   - JavaFXのWebViewや、Neutronが提供するブラウザコンポーネントを用いてHTMLをレンダリング。ネイティブUIでWebレンダリングを使うのが最も互換性が高い。  
+   - CSSを埋め込んでMarkdownスタイル（見出し、コードブロック、表）を整える。コードハイライトはHighlight.jsやPrism.jsをHTML内で利用可能。
+
+3. ライブプレビュー/ファイル監視  
+   - 編集時に即時プレビューを出す場合は、編集イベントでMarkdownを再変換してUI更新。重い処理は別スレッドで行い、UIスレッドへの反映はPlatform.runLaterなどで行う。  
+   - ファイル変更検知はJavaのWatchServiceで実装すれば、外部で編集されたときも自動更新できる。
+
+4. 画像・相対パスの扱い  
+   - ローカルファイルを表示するなら、HTML内のimg srcをfile:// パスに変換してWebViewに渡す。セキュリティ設定に注意。
+
+5. 配布とランタイム  
+   - JavaFXを使う場合はモジュール管理（jlink等）で実行環境をバンドルすると配布が楽。単一の実行可能JARにするか、インストーラー化するか検討。
+
+技術的な注意点：
+- 大きなMarkdownを頻繁に再レンダリングするとCPU負荷が上がる → 差分更新や変換結果のキャッシュを検討。  
+- 外部JS/CSSを読み込む場合、オフライン環境の取り扱いとライセンス確認を忘れずに。
+
+## 実践ポイント
+- まずはflexmark-java + JavaFX WebViewでPoCを作る：MarkdownをHTMLに変換してWebViewに表示する基本パイプラインを確立する。  
+- CSSとHighlight.jsを埋め込めば見た目は一気に良くなる。社内用なら独自CSSで統一感を出す。  
+- セキュリティ：外部から受け取るMarkdownは必ずサニタイズ。社内ツールでも油断しない。  
+- 配布：ユーザーがJavaランタイムを持たないことを想定して、jlinkで最小ランタイムを同梱する。  
+- 拡張案：編集機能（左右分割のライブプレビュー）、PDFエクスポート、Markdown拡張（図表や数式）などを段階的に追加する。
+
+コード例（最小構成：flexmark + JavaFX WebView）
+
+```java
+// java
+Parser parser = Parser.builder().build();
+HtmlRenderer renderer = HtmlRenderer.builder().build();
+
+String markdown = "# Hello\\nThis is *Markdown*!";
+String bodyHtml = renderer.render(parser.parse(markdown));
+
+String html = "<html><head><meta charset='utf-8'><style>/* your CSS */</style></head>"
+    + "<body>" + bodyHtml + "</body></html>";
+
+WebView webView = new WebView();
+webView.getEngine().loadContent(html);
+```
+

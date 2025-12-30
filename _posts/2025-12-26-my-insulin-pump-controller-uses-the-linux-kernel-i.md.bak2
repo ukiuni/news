@@ -1,0 +1,44 @@
+---
+layout: post
+title: "My insulin pump controller uses the Linux kernel. It also violates the GPL"
+date: 2025-12-26 20:51:42.140000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/
+source_title: 'The device that controls my insulin pump uses the Linux kernel. It
+  also violates the GPL. : linux'
+source_id: 46395184
+excerpt: インスリンポンプにLinuxが使われ、メーカーがGPL違反で安全性と透明性が脅かされる事実
+---
+# My insulin pump controller uses the Linux kernel. It also violates the GPL
+インスリンポンプの裏で動く「Linux」とGPL違反の衝撃 — 見えないOSが問う安全と透明性
+
+
+## 要約
+ある投稿者が、インスリンポンプの制御機器にLinuxカーネルが使われていることを突き止め、さらにGPL（オープンソースライセンス）違反の疑いを指摘している。医療機器の安全性・透明性という観点から見逃せない話題だ。
+
+## この記事を読むべき理由
+医療機器は命に直結する。OSやミドルウェアがブラックボックス化していると、安全性・セキュリティ検証や監査が困難になる。日本の医療関係者、組み込み開発者、OSSに関心のある技術者は、この問題の技術的・法的側面と現場で取るべき具体的アクションを知っておくべきだ。
+
+## 詳細解説
+- 事例の要点：元投稿では、制御デバイスのファームウェアやログからLinuxカーネルの痕跡（カーネル文字列やuname出力など）が見つかり、製造元がGPLに基づくソースコード提供やライセンス表示を行っていないと指摘されている。
+- 技術的な裏取り方法：組み込み機器でLinux使用を推定するには、ファームウェア抽出→binwalkでの解析→stringsやELFヘッダの確認が有効。busyboxやinitスクリプト、/proc/versionの文字列、モジュール名などが手がかりになる。
+- GPLの実務的意味：GPL（特にv2/v3）で配布されたバイナリは「対応するソースコード」を提供する義務がある。組み込み製品でも、配布時にソースの入手方法（ウェブURLや書面での提供）を明示する必要がある点が問題になる。
+- リスクと影響：GPL違反は法的リスクだけでなく、セキュリティ透明性の欠如により脆弱性の発見・修正が遅れる懸念がある。医療機器ではこれが患者の安全に直結する。
+
+## 実践ポイント
+- 確認手順（技術者向け）
+  1. 製品のファームウェアを取得し、binwalk/stringsでLinux痕跡を探索する。
+  2. busyboxやカーネル文字列、ライブラリ名を手がかりにライセンスファイルを探す。
+  3. ベンダーサイトや製品ドキュメントにGPLに基づくソース提供情報があるか確認する。
+- 行動提案（利用者/管理者向け）
+  - ベンダーに対してソースの入手方法やセキュリティ更新方針を文書で求める。
+  - 医療機器管理者はPMDA（医薬品医療機器総合機構）のサイバーセキュリティガイドラインに基づき、ベンダーの対応を評価する。
+  - コミュニティやOSS権利者に違反を知らせることで、改善の圧力を掛ける選択肢もある。
+- 開発者への助言
+  - 組み込み製品にOSSを使う場合はライセンス管理とソース公開の仕組みを設計段階で組み込む。OpenChainなどのベストプラクティスを参照する。
+

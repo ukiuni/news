@@ -1,0 +1,83 @@
+---
+layout: post
+title: "Koine"
+date: 2025-12-29T10:23:51.428Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://github.com/pattern-zones-co/koine"
+source_title: "GitHub - pattern-zones-co/koine: Claude Code as a service: HTTP gateway with TypeScript &amp; Python SDKs"
+source_id: 46389325
+excerpt: "Claude Code相当のエージェントを社内向けRESTで安全統合する最短手順"
+---
+
+# Koine
+Claude Codeを社内サービスに組み込む最短ルート：Agent的LLMをRESTで呼び出す方法
+
+
+## 要約
+Anthropicのエージェント型ツール（ファイル操作・コマンド実行・スキル連携を備えた「Claude Code」相当）を、コンテナ化したHTTPゲートウェイ＋TypeScript/PythonのSDKで安全にアプリへ組み込む手法を紹介する。
+
+## この記事を読むべき理由
+エージェント型LLMは「ただのテキスト生成」よりも強力だが、そのままCLIで使うとサービス連携や運用が難しい。社内API化すればCI/CD、SRE自動化、社内ツールとの統合が容易になり、日本のセキュアな開発現場でも実用的に使えるからだ。
+
+## 詳細解説
+- コア概念  
+  - エージェント型ツールの強み：ツール呼び出し、ファイル読み書き、シェルコマンド実行、外部ツール（MCP）連携がランタイムで自動処理されるため、独自のオーケストレーションをほぼ不要にできる。  
+  - ゲートウェイの役割：CLIベースのエージェントをネットワーク越しに呼べるREST層へ変換し、任意言語からの呼び出し、セッション管理、ストリーミング、型付き出力を提供する。
+
+- 技術スタックと機能  
+  - Docker-firstでの配布：コンテナでプロセス・ファイル系の分離を担保。  
+  - OpenAPI準拠のRESTエンドポイント：自動生成クライアントやドキュメント（/docs）が使える。  
+  - TypeScript / Python SDK：非同期呼び出し・型安全をサポート。  
+  - ストリーミング（SSE）：リアルタイムでの応答受信が可能。  
+  - 構造化出力：Zod（TypeScript）やPydantic（Python）でスキーマ検証・型抽出できるため、パイプラインで安全に扱える。  
+  - セッション管理：マルチターン会話のコンテキスト永続化、ジョブ的な連続処理が可能。  
+  - 拡張性：カスタムスキルやスラッシュコマンドでドメイン固有ワークフローを追加できる。  
+  - 運用機能：同時実行上限やリトライ設計でリソース枯渇を防ぐ。
+
+- セキュリティ／コンプライアンス上の注意点  
+  - エージェントはファイル・シェル・ネットワークにアクセス可能 → 必ずコンテナやVMで隔離する。  
+  - 公開ネットワークに直接置かないこと（内部ネットワークやVPN推奨）。  
+  - APIキー管理と最小権限、監査ログの整備を必須にする。  
+  - 法規制・社内規程に応じてオンプレ運用やアクセス制御を行う。
+
+## 実践ポイント
+- 最短導入手順（例）  
+  - コンテナを起動（環境変数でゲートキー・モデルAPIキーを渡す）:
+```bash
+# 実例イメージ名は置き換えて使用
+docker run -d -p 3100:3100 \
+  -e GATEWAY_API_KEY=your-gateway-key \
+  -e MODEL_API_KEY=your-model-key \
+  your-gateway-image:latest
+```
+  - 初回呼び出し（簡単なPOST）:
+```bash
+curl -X POST http://localhost:3100/generate-text \
+  -H "Authorization: Bearer your-gateway-key" \
+  -H "Content-Type: application/json" \
+  -d '{"prompt":"Hello!"}'
+```
+
+- SDKからの呼び出し（TypeScript 例）:
+```typescript
+import { createGatewayClient } from 'your-sdk';
+
+const client = createGatewayClient({ baseUrl: 'http://localhost:3100', authKey: 'your-gateway-key' });
+const res = await client.generateText({ prompt: 'プロジェクトのREADMEを改善して' });
+console.log(res.text);
+```
+
+- 運用ベストプラクティス  
+  - ネットワーク: 社内VPC/VPN内に限定し、Ingressは内部LB経由にする。  
+  - リソース制御: コンテナのCPU/メモリ制限、同時実行数上限を設定。  
+  - 監査: 実行コマンド・ファイル操作のログを中央収集。  
+  - スキーマ駆動設計: 出力をZod/Pydanticで検証してパイプラインに安全に流す。  
+  - CI連携: テストジョブや自動リファクタリングのワークフローに組み込む（例：PR作成時のコード補助）。
+
+- 日本市場での活用シナリオ  
+  - 金融・医療のような規制領域で、オンプレ版を社内限定で運用しつつ運用自動化を実現。  
+  - 社内開発プラットフォームでの「AI-as-internal-service」としてプラットフォームチームが提供。  
+  - データパイプラインで型付き出力を利用し、下流処理の信頼性を担保。
+
+このアプローチは、「エージェントの自動化力」を社内サービスの一部として安全に活用したい日本の開発チームにとって即効性の高い選択肢になる。まずは内部ネットワーク上でコンテナを動かし、OpenAPIからクライアントを生成してスキーマ検証を導入することを推奨する。

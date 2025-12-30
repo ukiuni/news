@@ -8,6 +8,22 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/we-own-the-hardware-but-not-the-experience-anymore/' | relative_url }}">we own the hardware but not the experience anymore</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/vitest-browser-mode-guide/' | relative_url }}">vitest browser mode guide</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/micro-center-lists-8tb-wd_black-ssd-at-2419-msrp-r/' | relative_url }}">micro center lists 8tb wd_black ssd at 2419 msrp r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/50000-drums-of-radioactive-wastes-were-dumped-near/' | relative_url }}">50000 drums of radioactive wastes were dumped near</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">12/29</span>
   <h3><a href="{{ '/2025/12/29/you-can-make-up-html-tags/' | relative_url }}">you can make up html tags</a></h3>
 </div>

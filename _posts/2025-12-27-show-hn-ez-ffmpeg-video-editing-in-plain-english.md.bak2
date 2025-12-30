@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Show HN: Ez FFmpeg – Video editing in plain English"
+date: 2025-12-27 09:39:15.137000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: http://npmjs.com/package/ezff
+source_title: ezff - npm
+source_id: 46400251
+excerpt: 英語で命令するだけで複雑なffmpeg処理を即実行できるオフラインCLIツール
+---
+# Show HN: Ez FFmpeg – Video editing in plain English
+これでコマンド忘れが終わる？「英語で話すだけ」FFmpegラッパー ezff の衝撃
+
+
+## 要約
+ezff は「ff convert video.mp4 to gif」のような平易な英語を受け取り、内部で対応する ffmpeg コマンドを組み立てて実行する軽量CLI。Node.js とローカルの ffmpeg があればオフラインで動作する。
+
+## この記事を読むべき理由
+複雑な ffmpeg オプションを毎回検索・暗記している開発者や動画処理の自動化を手軽に始めたいエンジニアにとって、学習コストとミスを激減させる即戦力ツールだから。日本のスタートアップや放送系、マーケ担当エンジニアにもすぐ使える実用性が高い。
+
+## 詳細解説
+- 何をするツールか  
+  ezff は CLI で「平易な英語文」を受け取って、内部のパーサー→ビルダーで対応する ffmpeg コマンドに変換し、実行する。AI や外部APIは使わず、パターンマッチングで高速にオフライン処理する点が特徴。
+
+- 主な操作例（そのまま使える自然文）
+  - 形式変換: ff convert video.mp4 to gif
+  - トリミング: ff trim video.mp4 from 0:30 to 1:00
+  - 圧縮: ff compress video.mp4 to 10mb
+  - 音声抽出: ff extract audio from video.mp4
+  - リサイズ: ff resize video.mp4 to 1280x720
+  - 速度変更: ff speed up video.mp4 by 2x
+  - その他: reverse / mute / rotate / thumbnail / merge / denoise など多数
+
+- ドライランと出力
+  --dry-run で実行前に生成される ffmpeg コマンドを確認可能。出力ファイルは元ファイル名に _output を付けて同ディレクトリに保存される（例: video_output.gif）。
+
+- 要件・導入
+  - Node.js >= 16
+  - ffmpeg が PATH にあること（macOS: brew、Ubuntu: apt、Windows: choco）
+  - インストール: npm i -g ezff
+
+- 実装の肝
+  パーサーが自然文から action（compress 等）、ファイル名、パラメータ（サイズ/時間/率）を抽出→ビルダーが標準的な ffmpeg オプションへマッピング→ffmpeg を実行、という単純で堅牢な3段構成。ミニマム設計で拡張やローカル運用が容易。
+
+## 日本市場との関連性
+- コンテンツ制作の現場（広告・SNS用短尺動画、ゲームのクリップ生成）、社内での動画自動処理パイプライン、CI やデスクトップ開発環境での手早い確認など、日本でもニーズが高い用途にマッチする。  
+- 日本語リソースが少ない ffmpeg の「コマンド記憶コスト」を下げられるため、社内教育や非専門職の導入障壁を下げる効果が期待できる。  
+- 注意点として、複雑なフィルタチェーンや特殊なコーデック調整は生成コマンドが想定通りでないことがあるため、重要なワークフローでは --dry-run で確認を推奨。
+
+## 実践ポイント
+- まずはローカルにインストールして --dry-run で生成コマンドを確認する。  
+- 単純な変換・トリム・抽出ワークフローを ezff に置き換えて工数削減を検証する。  
+- CI に組み込む際は ffmpeg のバージョン差異や環境依存に注意。Docker イメージに ffmpeg を固定して運用すると安定する。  
+- 高度なフィルタが必要なケースは、ezff の出力コマンドをベースに手動で微調整して使うと効率的。  
+- ライセンスは MIT。社内導入のハードルは低い。
+

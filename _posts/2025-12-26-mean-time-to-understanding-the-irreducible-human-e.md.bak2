@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of"
+  Infinite Code 🤖.'
+date: 2025-12-26 03:59:26.357000+00:00
+categories:
+- tech
+- world-news
+tags:
+- tech-news
+- japan
+source_url: https://dev.to/grahamthedev/mean-time-to-understanding-the-irreducible-human-element-in-the-age-of-infinite-code--i2o
+source_title: 'Mean Time to Understanding 🤔: The Irreducible Human Element in the
+  Age of Infinite Code 🤖. - DEV Community'
+source_id: 3119359
+---
+# Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of
+スピードはもう評価基準じゃない：AI時代に注目すべき「Mean Time to Understanding（理解までの平均時間）」
+
+
+## 要約
+コード生成が容易になった今、注目すべきは「どれだけ早く人がそのコードを理解できるか（Mean Time to Understanding）」であり、速度偏重は将来の運用コストと事故リスクを増やすだけだ、という主張。
+
+## この記事を読むべき理由
+AIでコードが大量に出力される現在、日本の開発現場でも「早く出す」文化が残る組織は多い。短期的なリリース速度が中長期の保守性・安全性を蝕む問題を現場視点で理解し、具体的な対策に落とし込む必要があるため。
+
+## 詳細解説
+元記事の核は「ソフトウェア工学の価値が『構文を生み出す能力』から『理解力（人間が意味を解釈する能力）』へシフトしている」という観点だ。過去50年、エンジニアはビジネスの意図をプログラム言語へ翻訳する希少技能だった。しかしLLMやコード生成ツールの普及で、その翻訳タスクはコモディティ化しつつある。代わりに重要になるのが、生成されたコードの意図・設計・副作用を人間が短時間で正確に把握できること、すなわち「Mean Time to Understanding（MTTU）」だ。
+
+速度（velocity）だけをKPIにすると、チームは「より速く・より多く」コードを増やすが、それは理解できない資産（技術的負債）を蓄積することを意味する。理解できないコードはバグ修正が遅くなり、デプロイのリスクを高め、運用工数を跳ね上げる。さらにAI生成コードには意図しない依存やセキュリティホールが混入しやすく、人的レビューやドメイン知識が不可欠になる。
+
+技術的対策としては、型付け／静的解析／自動テスト／観測性（トレーシング・メトリクス）などのガードレール、そしてADR（Architecture Decision Records）やドキュメント、コードツアーといった「理解を助ける資産」が重要になる。AIはコードを書く手段だが、コードを理解し安全に運用するのは結局ヒトであり、その時間を短くする仕組みが価値になる。
+
+## 実践ポイント
+- MTTUを計測するメトリクスを導入する（例：新規コンポーネントのレビュー→承認までの平均時間、オンボーディングでの理解完了までの時間）。
+- コード生成は「提案」として扱い、必ずペアレビュー／ペアプログラミングで意図確認を行う。
+- ADRやREADME、設計図を「コードと同じリポジトリでテスト可能な形」で管理する（docs-as-code）。
+- 自動テストを Living Docs にする（ユースケース駆動のテストで振る舞いを記載）。
+- 観測性を初期要件に含める（ログ・メトリクス・トレースで振る舞いを即座に把握）。
+- 速度指標に「理解／保守性」の指標を組み込む（デプロイ頻度だけでなく復旧時間や修正コストも見る）。
+- AIツールの使用ルール（どこまで自動生成OKか、レビュー基準、セキュリティチェック）を社内で標準化する。
+

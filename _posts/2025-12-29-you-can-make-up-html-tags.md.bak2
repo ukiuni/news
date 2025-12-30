@@ -1,0 +1,60 @@
+---
+layout: post
+title: "You can make up HTML tags"
+date: 2025-12-29T03:49:52.725Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://maurycyz.com/misc/make-up-tags/"
+source_title: "You can make up HTML tags"
+source_id: 46416945
+excerpt: "ハイフン入りの自作タグでdivネスト地獄を解消し、可読性と保守性を短時間で高める方法"
+---
+
+# You can make up HTML tags
+もうdivだらけにしない：自作HTMLタグでマークアップを読みやすくする小ワザ
+
+
+## 要約
+ブラウザは未定義のHTMLタグを受け入れるため、意味のある名前（特にハイフン入り）を使えば、div/クラスのネスト地獄を避けつつシンプルで読みやすいHTMLを書ける。
+
+## この記事を読むべき理由
+日本の開発現場ではレガシーHTMLやテンプレートエンジンでdivとクラスが乱立しがち。可読性と保守性を短時間で改善できる実践的なテクニックを紹介する。
+
+## 詳細解説
+ブラウザは未定義のタグをパースしてDOMに追加し、既定の振る舞いはブラウザ依存（多くはインライン扱い）になる。CSSで表示・振る舞いを指定すれば通常の要素と同様に扱えるため、次のように書ける。
+
+```html
+<!-- html -->
+<cool-thing> Hello, World! </cool-thing>
+```
+
+```css
+/* css */
+cool-thing {
+  display: block;
+  font-weight: bold;
+  text-align: center;
+  color: #ff0;
+  filter: drop-shadow(0 0 0.5em #ff0);
+}
+```
+
+ポイント：
+- 名前にハイフンを含めれば将来のHTML仕様と衝突しない（Custom Elementsの命名規則に準拠）。
+- 未定義タグは単にDOM要素（HTMLUnknownElement）として扱われる。ライフサイクルを持たせたい場合はJavaScriptで customElements.define を使って正式なカスタム要素として登録する。
+- 意味的タグ（article, header, nav など）がある場合はそちらを優先する。だが、div + 長いクラス名のネストを避けるための読みやすいラッパーとして有効。
+
+注意点：
+- アクセシビリティ：スクリーンリーダーなどは意味を推測できないため、必要なら role や aria-* を付与する。
+- 古いブラウザ（主に非常に古いIE系）ではスタイル適用やパースの挙動に問題が出ることがあるが、現代の主要ブラウザでは問題ない。
+- 一部のCMSやHTMLサニタイズ処理が未知タグを消去する場合があるため、導入前に確認する。
+
+## 実践ポイント
+- まずは局所導入：既存の複雑なネスト箇所を対象に、意味のあるタグ名（例：article-quote, quote-body）で置換して可読性を比べる。
+- 命名規則：カスタムタグ名には必ずハイフンを含める（例：site-hero, product-card）。
+- スタイルの初期化：レイアウト目的の場合は必ず display を明示する（block / inline-block / flex など）。
+- アクセシビリティ補強：semantic 情報が必要なら role="article" や aria-label を追加する。
+- 必要ならカスタム要素化：DOMの初期化や振る舞いが必要なら customElements.define で正式に定義する。
+- エディタ連携：VSCode等でHTMLの補完やリントが欲しい場合はカスタムHTMLデータやスニペットを設定する。
+
+短時間で読みやすさと保守性を上げたい場合、意味ある自作タグは非常に有効。ただし既存の意味的要素やアクセシビリティ要件を無視しないこと。
