@@ -37,6 +37,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/the-poison-pill-request-how-one-bad-request-can-ki/' | relative_url }}">the poison pill request how one bad request can ki</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/the-british-empires-resilient-subsea-telegraph-net/' | relative_url }}">the british empires resilient subsea telegraph net</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/streaming-compression-beats-framed-compression/' | relative_url }}">streaming compression beats framed compression</a></h3>
 </div>
 <div class="article-row">
@@ -129,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/good-technology-blogs-a-reading-list-for-the-holid/' | relative_url }}">good technology blogs a reading list for the holid</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/go-away-python/' | relative_url }}">go away python</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/eclipse-collection-vs-jdk-collection/' | relative_url }}">eclipse collection vs jdk collection</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/disneys-embarrassing-ai-generated-star-wars-video/' | relative_url }}">disneys embarrassing ai generated star wars video</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
@@ -157,11 +173,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/approachable-swift-concurrency/' | relative_url }}">approachable swift concurrency</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/an-introduction-to-jackson-3-in-spring-7-and-sprin/' | relative_url }}">an introduction to jackson 3 in spring 7 and sprin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/aflac-data-breach-affects-2265-million-ssns-health/' | relative_url }}">aflac data breach affects 2265 million ssns health</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/a-billionaire-wants-to-reinvent-appalachia-with-a/' | relative_url }}">a billionaire wants to reinvent appalachia with a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/700credit-data-breach-exposes-58-million-peoples-s/' | relative_url }}">700credit data breach exposes 58 million peoples s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>

@@ -1,0 +1,85 @@
+---
+layout: post
+title: "Good technology blogs: a reading list for the holidays - ホリデーに読みたい技術ブログ厳選リスト"
+date: 2025-12-30T14:41:43.040Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://clickhouse.com/blog/tech-blogs"
+source_title: "Good technology blogs: a reading list for the holidays"
+source_id: 434578569
+excerpt: "ClickHouse開発者推奨の高速化・圧縮・分散検証に強い厳選技術ブログ集"
+---
+
+# Good technology blogs: a reading list for the holidays - ホリデーに読みたい技術ブログ厳選リスト
+驚くほど実践的な“技術の良書案内”：年末年始の技術インスピレーションをこれ一本で
+
+## 要約
+高性能化、データベース、コンパイラ、圧縮、プロファイリング、分散検証などに強い海外技術ブログの読みどころを厳選したリスト。実務で役立つライブラリや手法への導線も紹介する。
+
+## この記事を読むべき理由
+日本のエンジニアは「高速化」「大規模データ処理」「信頼性検証」の需要が高まっています。本リストはClickHouseの開発者が実際に参照・貢献している、現場で使える知見とライブラリを効率よく学べるため、技術力向上やプロダクト改良に直結します。
+
+## 詳細解説
+以下は元記事で紹介された主要ブログと、そこから得られる技術的ポイントの抜粋。各項目は「何を学べるか」「実務での応用例」を中心に整理しました。
+
+- Daniel Lemire
+  - 何を学べるか：低レイヤーの処理（パース、UTF-8検証、数値→文字列変換、圧縮の基礎など）。
+  - 応用例：高速パーサやシリアライザの最適化。simdjsonやRoaringBitmapなどの採用判断に役立つ。
+
+- Ash Vardanyan
+  - 何を学べるか：ハードウェアに根ざした最適化、ベクトル検索（HNSW）、文字列処理。
+  - 応用例：ベクトル検索エンジンや文字列処理パイプラインの性能改善。
+
+- Wojciech Muła / Bruce Dawson / Peter Kankowski
+  - 何を学べるか：SIMD最適化、浮動小数点処理、ビット・トリックなどの極小最適化テクニック。
+  - 応用例：数値集計や圧縮処理の高速化。
+
+- Daniel Kutenin
+  - 何を学べるか：部分ソート（Miniselect）、文字列探索アルゴリズム、コンパイラ寄りの最適化。
+  - 応用例：ランキング処理や高速マッチングの改善。
+
+- Yann Collet / 圧縮系（Charles Bloom 等）
+  - 何を学べるか：LZ4、zstdの仕組みと実運用での採用ノウハウ。
+  - 応用例：データ圧縮の選定と圧縮パラメータ調整（ストレージコストと性能のバランス）。
+
+- Dan Luu / Brendan Gregg
+  - 何を学べるか：プロファイリング、CPU挙動、トレース、インスツルメンテーション。
+  - 応用例：パフォーマンスボトルネック特定と改善サイクルの確立。
+
+- Russ Cox / Hyperscan (Vectorscan) 等
+  - 何を学べるか：正規表現や高速パターンマッチの本質、uninitialized memoryなどの安全性問題。
+  - 応用例：ユーザー入力を安全に高速検索処理に通す設計。
+
+- Kyle Kingsbury（Jepsen）
+  - 何を学べるか：分散システムの整合性テストと破壊的検証手法。
+  - 応用例：分散DBやクラスタの耐障害性評価にJepsenの考え方を取り入れる。
+
+- Andrej Karpathy / Simon Willison
+  - 何を学べるか：最新のML/AIモデルの実践的知見とハンズオンレビュー。
+  - 応用例：ビジネス適用時の評価ポイント（精度・コスト・推論速度）。
+
+- その他注目
+  - コンパイラ：MaskRay、LLVMブログ
+  - OS/ブラウザ：LWN、v8
+  - 小ネタ／短記事：Julia Evans、Rachel（手元で役立つトリック集）
+
+元記事の筆者は、これらの著者が書いたライブラリ（simdjson、Roaring、Miniselect、LZ4、zstd、Hyperscanなど）がClickHouse開発で実際に使われ、しばしばバグ修正や機能統合で双方向に関係している点を強調しています。現場で成果を出した事例が多い点が信頼性の源泉です。
+
+## 実践ポイント
+- 今すぐやること（短期）
+  - RSS/FeedとGitHubウォッチを設定して、主要著者（Lemire, Collet, Gregg, Kingsburyなど）を追跡する。
+  - 自分のプロジェクトで使っているライブラリ（圧縮、検索、パーサ）を上記記事で紹介されている実装と比較する。
+
+- 技術的に試す（中期）
+  - 小さなベンチマークを作り、LZ4/zstd/自作圧縮パラメータでのトレードオフを計測する。
+  - Jepsenスタイルの整合性テストを簡易化してCIに組み込み、分散処理の耐性を検証する。
+
+- 組織的アクション（長期）
+  - パフォーマンス観測（プロファイリング/トレース）を文化として根付かせ、GreggやLuuの手法を共有する。
+  - オープンソースの有益なライブラリを採用する際は、コミュニティ貢献（バグ報告／PR）を前提にして長期的なメンテナンスを確保する。
+
+日本の現場では「短納期で安定運用」かつ「コスト制約」があるため、上の実践ポイントを小さく回して成果を示すことが有効です。特に圧縮やプロファイリングは短期間で投資回収につながりやすい領域です。
+
+## 引用元
+- タイトル: Good technology blogs: a reading list for the holidays
+- URL: https://clickhouse.com/blog/tech-blogs
