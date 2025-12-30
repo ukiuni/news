@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/streaming-compression-beats-framed-compression/' | relative_url }}">streaming compression beats framed compression</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/stranger-things-creator-says-turn-off-garbage-sett/' | relative_url }}">stranger things creator says turn off garbage sett</a></h3>
 </div>
 <div class="article-row">
