@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/zpdf-pdf-text-extraction-in-zig-5x-faster-than-mup/' | relative_url }}">zpdf pdf text extraction in zig 5x faster than mup</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/your-interview-process-for-senior-engineers-is-wro/' | relative_url }}">your interview process for senior engineers is wro</a></h3>
 </div>
 <div class="article-row">
@@ -246,6 +250,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/devops-from-scratch-entry-01/' | relative_url }}">devops from scratch entry 01</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/data-as-a-product-is-a-promise/' | relative_url }}">data as a product is a promise</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
