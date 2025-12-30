@@ -21,6 +21,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/show-hn-a-claude-code-plugin-that-catch-destructiv/' | relative_url }}">show hn a claude code plugin that catch destructiv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/outside-dungeon-town-integrating-the-three-places/' | relative_url }}">outside dungeon town integrating the three places</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/nvidia-spends-5b-on-intel-bailout-instantly-gets-2/' | relative_url }}">nvidia spends 5b on intel bailout instantly gets 2</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/mongodb-server-security-update-december-2025/' | relative_url }}">mongodb server security update december 2025</a></h3>
 </div>
 <div class="article-row">
@@ -29,7 +41,31 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/loss32-lets-build-a-win32linux/' | relative_url }}">loss32 lets build a win32linux</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/leonardo-dicaprio-says-ai-can-never-be-art-because/' | relative_url }}">leonardo dicaprio says ai can never be art because</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/kernel-mode-bugs-are-different/' | relative_url }}">kernel mode bugs are different</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/incremental-backups-of-gmail-takeouts/' | relative_url }}">incremental backups of gmail takeouts</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/hacking-washing-machines-video/' | relative_url }}">hacking washing machines video</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/devops-from-scratch-entry-01/' | relative_url }}">devops from scratch entry 01</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/30</span>
+  <h3><a href="{{ '/2025/12/30/curl-removes-all-calls-to-strcpy/' | relative_url }}">curl removes all calls to strcpy</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
