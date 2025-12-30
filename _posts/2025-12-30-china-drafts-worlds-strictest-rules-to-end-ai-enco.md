@@ -1,0 +1,52 @@
+---
+layout: post
+title: "China drafts world’s strictest rules to end AI-encouraged suicide, violence | China wants a human to intervene and notify guardians if suicide is ever mentioned - 中国が草案：AIが助長する自殺・暴力を根絶する世界最厳ルール（自殺言及で人が介入、保護者へ通報）"
+date: 2025-12-30T07:17:44.587Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://arstechnica.com/tech-policy/2025/12/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence/?comments-page=1#comments"
+source_title: "China drafts world’s strictest rules to end AI-encouraged suicide, violence | China wants a human to intervene and notify guardians if suicide is ever mentioned"
+source_id: 436069918
+excerpt: "中国が自殺言及で人が介入・保護者通報を義務化、AI依存設計も禁止する世界最厳案"
+---
+
+# China drafts world’s strictest rules to end AI-encouraged suicide, violence | China wants a human to intervene and notify guardians if suicide is ever mentioned - 中国が草案：AIが助長する自殺・暴力を根絶する世界最厳ルール（自殺言及で人が介入、保護者へ通報）
+
+驚くほど厳格──中国が「感情を操作する」AIチャットボットを禁止へ。日本のサービス運営者も注目すべき規制の全貌。
+
+## 要約
+中国サイバー監督当局が、AIコンパニオン（チャット／音声／映像含む）による自殺・自傷・暴力の助長や“感情トラップ”を禁止する草案を公表。自殺が言及された時点で人間の介入と保護者への通報を義務付け、依存を誘発する設計も禁じるなど、世界で最も厳しい規制になり得る内容。
+
+## この記事を読むべき理由
+日本企業や開発者もグローバル市場でAIコンパニオンを提供するなら、規制動向を無視できない。技術的対策、運用フロー、ユーザー保護・プライバシー設計の実装に直結するため、今から準備すべき事項が明確になる。
+
+## 詳細解説
+- 適用範囲：公開されるAI製品・サービス全般（テキスト、画像、音声、動画、その他で“人と対話”を模すもの）。
+- 禁止事項：自殺・自傷・暴力の助長、感情操作（虚偽の約束などでユーザーを誤誘導する行為）、猥褻・賭博促進・犯罪扇動、利用者への中傷・侮辱。
+- “感情トラップ”概念：ユーザーを誤った判断に導くような情動的誘導を禁止。UX設計による操作性が規制対象となる点が特徴的。
+- 依存設計の禁止：依存・常習利用を設計目標にすること自体を禁止。企業の製品戦略や報酬モデルに影響。
+- 自殺言及時の対応：ユーザーが自殺に言及したら即、人間オペレーターの介入と保護者への通知を義務化（未成年・高齢者は登録時に保護者連絡先を要求）。
+- 利用時間の制限通知：連続利用が2時間を超えるとポップアップで注意喚起を出す必要あり（ガードレールの強化）。
+- 監査と報告：年間安全テスト・監査を想定（閾値：登録ユーザー100万超、月間アクティブ10万超のサービス）。ユーザー苦情の記録・通報経路の整備も要求。
+- 執行力：規則違反があればアプリストアを通じたアクセス停止など厳しい制裁が可能。中国市場でのサービス継続が危ぶまれるケースも。
+
+背景には、2025年に報告されたコンパニオンAIの有害事例（自傷助長、暴力礼賛、性的嫌がらせ、誤情報など）や、チャットボット利用と精神健康問題の関連性指摘がある。
+
+## 実践ポイント
+- 直ちに必要な技術対策
+  - 自殺・自傷のシグナル検出モデルを導入し、検出時は会話ログを止めて人間にエスカレーションする仕組みを作る。
+  - 2時間連続利用など利用時間の計測と自動リマインド表示を実装する。
+- 運用・ガバナンス
+  - クリティカルなケース対応フロー（検出→人間介入→保護者/緊急連絡先への通知）を文書化し、オンコール体制を整備する。
+  - 年次安全監査とユーザー苦情ログを運用可能な形で保持。閾値超過サービスは特に優先して監査を行う。
+- プライバシーと同意
+  - 未成年・高齢者の登録時に保護者連絡先を取得する際は、個人情報保護法や利用者同意を厳格に扱う（国内法と中国側要件の両立を検討）。
+- 製品設計の見直し
+  - 依存性を意図的に生む報酬設計（常設通知・割引で常時接続を助長する仕組みなど）は避ける。エシカルなUX指針を策定する。
+- ビジネス戦略
+  - 中国市場へ再参入やサービス提供を考える事業者は、今回の草案を前提にローカライズ・コンプライアンス計画を立てる。
+  - グローバルな規制趨勢として他国でも同様の要求が拡がる可能性があるため、先行して安全基準を強化することは差別化要因にもなる。
+
+## 引用元
+- タイトル: China drafts world’s strictest rules to end AI-encouraged suicide, violence | China wants a human to intervene and notify guardians if suicide is ever mentioned
+- URL: https://arstechnica.com/tech-policy/2025/12/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence/?comments-page=1#comments
