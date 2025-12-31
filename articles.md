@@ -77,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/stewart-cheifet-creator-of-the-computer-chronicles/' | relative_url }}">stewart cheifet creator of the computer chronicles</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/stardew-valley-developer-made-a-125k-donation-to-t/' | relative_url }}">stardew valley developer made a 125k donation to t</a></h3>
 </div>
 <div class="article-row">
@@ -121,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/privacy-and-control-my-tech-setup/' | relative_url }}">privacy and control my tech setup</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/poland-calls-for-eu-action-against-ai-generated-ti/' | relative_url }}">poland calls for eu action against ai generated ti</a></h3>
 </div>
 <div class="article-row">
@@ -158,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/javafx-mysql-user-management-list-all-users-in-tab/' | relative_url }}">javafx mysql user management list all users in tab</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/i-canceled-my-book-deal/' | relative_url }}">i canceled my book deal</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -209,11 +221,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/emacs-on-the-jvm/' | relative_url }}">emacs on the jvm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/efficient-method-to-capture-co2-from-the-atmospher/' | relative_url }}">efficient method to capture co2 from the atmospher</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/doom-in-django-testing-the-limits-of-liveview-at-6/' | relative_url }}">doom in django testing the limits of liveview at 6</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/court-report-detailing-chatgpts-involvement-with-a/' | relative_url }}">court report detailing chatgpts involvement with a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
