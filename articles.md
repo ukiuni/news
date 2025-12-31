@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/who-invented-the-transistor/' | relative_url }}">who invented the transistor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/when-square-pixels-arent-square/' | relative_url }}">when square pixels arent square</a></h3>
 </div>
 <div class="article-row">
@@ -69,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/stardew-valley-developer-made-a-125k-donation-to-t/' | relative_url }}">stardew valley developer made a 125k donation to t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/small-bash-terminal-based-keyboard-typing-trainer/' | relative_url }}">small bash terminal based keyboard typing trainer</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/show-hn-i-built-a-universal-clipboard-that-syncs-r/' | relative_url }}">show hn i built a universal clipboard that syncs r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/scaffolding-to-superhuman-how-curriculum-learning/' | relative_url }}">scaffolding to superhuman how curriculum learning</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -169,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/fears-mount-that-us-federal-cybersecurity-is-stagn/' | relative_url }}">fears mount that us federal cybersecurity is stagn</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/end-to-end-static-type-checking-postgresql-to-type/' | relative_url }}">end to end static type checking postgresql to type</a></h3>
 </div>
 <div class="article-row">
@@ -222,6 +238,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/a-solid-load-of-bull/' | relative_url }}">a solid load of bull</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/2026-the-year-of-java-in-the-terminal/' | relative_url }}">2026 the year of java in the terminal</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
