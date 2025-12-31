@@ -17,7 +17,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/what-if-heavy-files-felt-heavy/' | relative_url }}">what if heavy files felt heavy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/what-are-some-interesting-projects-that-youve-done/' | relative_url }}">what are some interesting projects that youve done</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/we-dont-need-more-contributors-who-arent-programme/' | relative_url }}">we dont need more contributors who arent programme</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/users-of-generative-ai-struggle-to-accurately-asse/' | relative_url }}">users of generative ai struggle to accurately asse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -45,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/javafx-mysql-user-management-list-all-users-in-tab/' | relative_url }}">javafx mysql user management list all users in tab</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/how-i-authenticate-a-product-identity-from-the-bro/' | relative_url }}">how i authenticate a product identity from the bro</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/gog-acquired-by-co-founder-micha-kiciski-reiterate/' | relative_url }}">gog acquired by co founder micha kiciski reiterate</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/claude-insider-tips-tricks-amp-documentation-for-c/' | relative_url }}">claude insider tips tricks amp documentation for c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
