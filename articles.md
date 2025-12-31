@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/show-hn-i-built-a-universal-clipboard-that-syncs-r/' | relative_url }}">show hn i built a universal clipboard that syncs r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/sabotaging-bitcoin/' | relative_url }}">sabotaging bitcoin</a></h3>
 </div>
 <div class="article-row">
