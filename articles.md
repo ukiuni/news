@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/runst-does-not-prevent-resources-from-escaping/' | relative_url }}">runst does not prevent resources from escaping</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/readings-in-database-systems-5th-edition/' | relative_url }}">readings in database systems 5th edition</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/privacy-may-be-dead-but-civilians-are-turning-conv/' | relative_url }}">privacy may be dead but civilians are turning conv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/odin-moving-towards-a-new-coreos/' | relative_url }}">odin moving towards a new coreos</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -74,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/gog-acquired-by-co-founder-micha-kiciski-reiterate/' | relative_url }}">gog acquired by co founder micha kiciski reiterate</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/flu-activity-rises-sharply-across-the-us-with-at-l/' | relative_url }}">flu activity rises sharply across the us with at l</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
