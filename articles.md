@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/the-compiler-is-your-best-friend/' | relative_url }}">the compiler is your best friend</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/tesla-press-release-predicts-sales-decline/' | relative_url }}">tesla press release predicts sales decline</a></h3>
 </div>
 <div class="article-row">
@@ -145,6 +149,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/lispme-an-implementation-of-scheme-for-the-palm-pi/' | relative_url }}">lispme an implementation of scheme for the palm pi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/javafx-mysql-user-management-list-all-users-in-tab/' | relative_url }}">javafx mysql user management list all users in tab</a></h3>
 </div>
 <div class="article-row">
@@ -166,6 +174,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/gog-acquired-by-co-founder-micha-kiciski-reiterate/' | relative_url }}">gog acquired by co founder micha kiciski reiterate</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/frontend-development-in-2025-indepth-recap/' | relative_url }}">frontend development in 2025 indepth recap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/france-aims-to-ban-under-15s-from-social-media-fro/' | relative_url }}">france aims to ban under 15s from social media fro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -217,6 +233,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/back-to-the-future-the-story-of-squeak-a-practical/' | relative_url }}">back to the future the story of squeak a practical</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/archunitts-vs-eslint-plugin-import-my-side-project/' | relative_url }}">archunitts vs eslint plugin import my side project</a></h3>
 </div>
 <div class="article-row">
@@ -230,6 +250,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/ai-labs-are-solving-the-power-problem/' | relative_url }}">ai labs are solving the power problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/advice-regarding-oops-and-learning-in-general/' | relative_url }}">advice regarding oops and learning in general</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
