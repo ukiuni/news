@@ -145,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/microtonal-spiral-piano/' | relative_url }}">microtonal spiral piano</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/mastodon-stories-for-systemd-v259/' | relative_url }}">mastodon stories for systemd v259</a></h3>
 </div>
 <div class="article-row">
@@ -250,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/ai-labs-are-solving-the-power-problem/' | relative_url }}">ai labs are solving the power problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/ai-generated-videos-showing-young-and-attractive-w/' | relative_url }}">ai generated videos showing young and attractive w</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
