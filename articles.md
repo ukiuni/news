@@ -8,6 +8,18 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/tidesdb-a-modern-rocksdb-replacement/' | relative_url }}">tidesdb a modern rocksdb replacement</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/sabotaging-bitcoin/' | relative_url }}">sabotaging bitcoin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/privacy-may-be-dead-but-civilians-are-turning-conv/' | relative_url }}">privacy may be dead but civilians are turning conv</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/zpdf-pdf-text-extraction-in-zig-5x-faster-than-mup/' | relative_url }}">zpdf pdf text extraction in zig 5x faster than mup</a></h3>
 </div>

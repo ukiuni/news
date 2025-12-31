@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Privacy may be dead, but civilians are turning conventional wisdom on its head by surveilling the cops as much as the cops surveil them - プライバシーは終わったのか？ 市民が警察を“撮る”新しい監視社会"
+date: 2025-12-31T00:37:05.556Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://www.wired.com/story/expired-tired-wired-surveillance-state/"
+source_title: "Privacy may be dead, but civilians are turning conventional wisdom on its head by surveilling the cops as much as the cops surveil them"
+source_id: 434150779
+excerpt: "スマホで市民が警察を撮影し、公権力の不正を暴く監視革命—ライブ配信で責任追及が加速"
+---
+
+# Privacy may be dead, but civilians are turning conventional wisdom on its head by surveilling the cops as much as the cops surveil them - プライバシーは終わったのか？ 市民が警察を“撮る”新しい監視社会
+
+監視が一方向から双方向へ逆転しつつある――市民がスマホで警察や移民取り締まりを撮影・配信し、公権力の透明性を強制する動きが急増している。
+
+## 要約
+スマホとソーシャルメディアの普及で、市民による「警察の撮影・監視」が一般化。米国では当局の隠匿や強硬措置に対抗して市民が記録・拡散を行い、法的・政治的摩擦を生んでいる。
+
+## この記事を読むべき理由
+デジタル記録と配信は、単に個人の備忘録ではなく公権力の説明責任を担う工具になった。日本でも同様の技術・法的課題が現実味を帯びており、エンジニアやプロダクト担当者、活動家はプラットフォーム設計や運用、法対応を理解しておく必要がある。
+
+## 詳細解説
+- 市民による記録の急拡大：スマホでの高画質撮影、ライブ配信、投稿の即時拡散が、警察や移民取り締まりの場面を瞬時に可視化。LAのRodney Kingや2020年のGeorge Floyd事件が象徴的な転換点となり、記録行為が社会運動を加速させた。  
+- 双方向の監視構造：政府・捜査機関はカメラ網、ナンバープレート読み取り、通信傍受など強力な監視手段を持つ一方、市民は分散した録画・配信ネットワークで当局を監視し、情報公開の圧力をかけている。  
+- 法的・制度的対立：米国では「公務員を撮る権利」は一般的に認められる一方、当局側は“doxing（個人特定）”や安全を理由に投稿削除や発信者特定を求める動き、捜査・立法の試みがある（例：書籍で触れられた法案提案や捜査・召喚）。SNS事業者への法的要請やコンテンツ削除圧力が発生している。  
+- 技術的リスクと対策：動画には顔や位置情報、メタデータが含まれ、無加工で拡散すると被写体・撮影者双方に二次被害をもたらす可能性がある。加えて顔認識や自動追跡技術によるプライバシー侵害、プラットフォームの検出アルゴリズムによる誤削除も問題。  
+- プラットフォームの役割：配信・保存インフラは、証拠性、耐改ざん性、プライバシー保護（モザイク、音声処理、メタデータ除去）といった機能を求められる。さらに、法的な召喚や削除要求に対する対応方針（透明性レポートや抗告手続き）も重要になる。  
+- 日本との関連：日本でも監視・記録のツールは普及中で、交番や警察官の行為を記録して問題を指摘するケースが増えている。日米で法制度や裁判例は異なるが、技術的課題（位置情報、顔認識、プラットフォーム対応）は共通しており、企業はローカル法令と利用者保護を両立する設計が求められる。
+
+## 実践ポイント
+- 公共の場での録画は法的権利だが、地元の法律や裁判例を確認する（法的助言は専門家へ）。  
+- 証拠性を高めるには連続録画、タイムスタンプ、信頼できるバックアップを使う。  
+- 公開時は顔や無関係な個人のプライバシーを配慮してモザイクや音声処理を行う。メタデータ（位置情報など）を削除するツールを活用する。  
+- プラットフォーム運営者は透明性レポート、削除／召喚対応フロー、ユーザー保護機能（匿名化ツール、アクセス制御）を整備する。  
+- 市民・市民団体は地域の監視ガイドラインや「記録の安全な拡散」のベストプラクティスを共有し、法的支援ネットワークと連携する。
+
+## 引用元
+- タイトル: Privacy may be dead, but civilians are turning conventional wisdom on its head by surveilling the cops as much as the cops surveil them  
+- URL: https://www.wired.com/story/expired-tired-wired-surveillance-state/
