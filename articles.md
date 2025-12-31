@@ -9,11 +9,23 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/zero-code-instrumentation-of-an-envoy-tcp-proxy-us/' | relative_url }}">zero code instrumentation of an envoy tcp proxy us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/winnie-the-pooh-brings-100-years-of-fame-to-forest/' | relative_url }}">winnie the pooh brings 100 years of fame to forest</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/why-we-trust-strangers-open-source-more-than-our-c/' | relative_url }}">why we trust strangers open source more than our c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/why-c-isnt-dead-in-2025-how-the-c23-standard-and-l/' | relative_url }}">why c isnt dead in 2025 how the c23 standard and l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/when-square-pixels-arent-square/' | relative_url }}">when square pixels arent square</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -54,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/tesla-press-release-predicts-sales-decline/' | relative_url }}">tesla press release predicts sales decline</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/small-bash-terminal-based-keyboard-typing-trainer/' | relative_url }}">small bash terminal based keyboard typing trainer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -121,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/i-built-a-form-backend-in-a-weekend-because-paying/' | relative_url }}">i built a form backend in a weekend because paying</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/how-i-authenticate-a-product-identity-from-the-bro/' | relative_url }}">how i authenticate a product identity from the bro</a></h3>
 </div>
 <div class="article-row">
@@ -149,6 +169,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/end-to-end-static-type-checking-postgresql-to-type/' | relative_url }}">end to end static type checking postgresql to type</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/efficient-method-to-capture-co2-from-the-atmospher/' | relative_url }}">efficient method to capture co2 from the atmospher</a></h3>
 </div>
 <div class="article-row">
@@ -170,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/california-schools-will-be-required-to-restrict-pr/' | relative_url }}">california schools will be required to restrict pr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/building-a-lightweight-jsts-statistical-library-ch/' | relative_url }}">building a lightweight jsts statistical library ch</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
