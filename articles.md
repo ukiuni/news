@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/readings-in-database-systems-5th-edition/' | relative_url }}">readings in database systems 5th edition</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/quality-of-drinking-water-varies-significantly-by/' | relative_url }}">quality of drinking water varies significantly by</a></h3>
 </div>
 <div class="article-row">
@@ -33,7 +37,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/gog-acquired-by-co-founder-micha-kiciski-reiterate/' | relative_url }}">gog acquired by co founder micha kiciski reiterate</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/california-schools-will-be-required-to-restrict-pr/' | relative_url }}">california schools will be required to restrict pr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/animated-ai/' | relative_url }}">animated ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
