@@ -33,7 +33,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/tixl-open-source-realtime-motion-graphics/' | relative_url }}">tixl open source realtime motion graphics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/tidesdb-a-modern-rocksdb-replacement/' | relative_url }}">tidesdb a modern rocksdb replacement</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/the-rise-of-industrial-software/' | relative_url }}">the rise of industrial software</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/simple-bidirectional-type-inference/' | relative_url }}">simple bidirectional type inference</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/show-hn-use-claude-code-to-query-600-gb-indexes-ov/' | relative_url }}">show hn use claude code to query 600 gb indexes ov</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -62,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/new-yini-configsettings-parser-release-focus-on-co/' | relative_url }}">new yini configsettings parser release focus on co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/mastodon-stories-for-systemd-v259/' | relative_url }}">mastodon stories for systemd v259</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -94,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/california-schools-will-be-required-to-restrict-pr/' | relative_url }}">california schools will be required to restrict pr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/archunitts-vs-eslint-plugin-import-my-side-project/' | relative_url }}">archunitts vs eslint plugin import my side project</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
