@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Why C Isn't Dead in 2025: How the C23 Standard and Legacy Power Keep It Alive - なぜCは2025年でも死んでいないのか：C23規格とレガシーが支える理由"
+date: 2025-12-31T04:37:33.947Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://freedium-mirror.cfd/https://medium.com/@muruganantham52524/why-c-isnt-dead-in-2025-how-the-c23-standard-and-legacy-power-keep-it-alive-5618ef00668d"
+source_title: "Why C Isn't Dead in 2025: How the C23 Standard and Legacy Keep It Alive"
+source_id: 475901797
+excerpt: "C23の実用機能とレガシー資産で、組込み/OS分野でCが未だ最有力"
+---
+
+# Why C Isn't Dead in 2025: How the C23 Standard and Legacy Power Keep It Alive - なぜCは2025年でも死んでいないのか：C23規格とレガシーが支える理由
+C23で磨かれた「古株」言語が、まだシステム開発の主戦場で最も信頼される理由
+
+## 要約
+Cは派手さではなく「予測可能性」「速度」「資産の蓄積」で2025年も現役。C23で追加された実用的な機能群が、その価値を現代に合わせて更新している。
+
+## この記事を読むべき理由
+組み込み、OS開発、自動車やネットワーク機器、レガシー保守──日本企業で多いこれらの領域では、Cの存在が直接的に事業継続性や性能に結びつく。C23の変化を知ることは、現場での選択肢とリスク管理の精度を上げる。
+
+## 詳細解説
+C23（正式発行：2024年10月）は「古いが手堅い」Cに、使い勝手と安全性を付け加えた進化版だ。注目点を簡潔にまとめる。
+
+- 読みやすい数値表現
+  - 2進リテラル（例: 0b1010）や桁区切り（例: 1'000'000）でビットや大きな定数が直感的に表現でき、低レイヤーコードの可読性が向上する。
+
+- 整数演算のチェック
+  - オーバーフロー検出を容易にするチェック付き算術関数群（例: ckd_add 等）が標準で使えるようになり、未検出の整数オーバーフローによる脆弱性を減らせる。
+
+- 文字コードとセキュリティ
+  - char8_t によるネイティブな UTF-8 型の明示と、memset_explicit のような明示的メモリ消去関数で機密データの安全なクリアがしやすくなる。
+
+- ビット操作とユーティリティ
+  - ポピュレーションカウント（ビットの立っている数）など、低レイヤーでよく使うビット操作の利便性が標準化されつつあるため、プラットフォーム最適化が書きやすくなる。
+
+- 互換性と現場での強み
+  - Linuxカーネル、RTOS、ファームウェア、車載ソフトウェアなど多数の既存資産はCで書かれており、C23は後方互換性を保ちながら現代的なニーズに応える設計になっている。
+
+短いサンプル（C23記法のイメージ）:
+```c
+// (言語: c)
+#include <stdckdint.h>
+#include <uchar.h>
+#include <string.h>
+
+int main(void) {
+    int x;
+    if (ckd_add(2147483640, 100, &x)) {
+        // オーバーフロー検出の例
+    }
+    char8_t *g = u8"こんにちは, 🌏";
+    int mask = 0b1010'1100;
+    // ビット操作やメモリ消去の利用が想定される
+    memset_explicit((void*)g, 0, 16);
+    return 0;
+}
+```
+
+（注）コンパイラや標準ライブラリのサポート状況は実装依存のため、使う前にツールチェーンのドキュメントを確認すること。
+
+## 実践ポイント
+- 今すぐできること
+  - 開発環境で -std=c2x / -std=c23 を試し、どの機能がコンパイラで使えるか確認する（GCC/Clangのバージョン依存）。
+  - 整数オーバーフロー検出や memset_explicit といったセキュリティ寄りの関数をコードレビューで導入検討する。
+  - 新規機能を即採用せず、既存の互換性とテストカバレッジを優先して段階的に移行する。
+
+- 日本市場での応用
+  - 組み込み/車載のツールチェーンでC23サポート状況を評価し、サプライチェーンや認証要件に合うかを確認する。
+  - レガシー資産の最適化ポイント（ビット操作の高速化や安全なメモリ操作）を洗い出し、C23の機能で改善できる箇所を優先的に対応する。
+
+## 引用元
+- タイトル: Why C Isn't Dead in 2025: How the C23 Standard and Legacy Keep It Alive
+- URL: https://freedium-mirror.cfd/https://medium.com/@muruganantham52524/why-c-isnt-dead-in-2025-how-the-c23-standard-and-legacy-power-keep-it-alive-5618ef00668d

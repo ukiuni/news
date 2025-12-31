@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/why-c-isnt-dead-in-2025-how-the-c23-standard-and-l/' | relative_url }}">why c isnt dead in 2025 how the c23 standard and l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/we-dont-need-more-contributors-who-arent-programme/' | relative_url }}">we dont need more contributors who arent programme</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/tidesdb-a-modern-rocksdb-replacement/' | relative_url }}">tidesdb a modern rocksdb replacement</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/new-yini-configsettings-parser-release-focus-on-co/' | relative_url }}">new yini configsettings parser release focus on co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/how-i-authenticate-a-product-identity-from-the-bro/' | relative_url }}">how i authenticate a product identity from the bro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
