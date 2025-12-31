@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/warren-buffett-steps-down-as-berkshire-hathaway-ce/' | relative_url }}">warren buffett steps down as berkshire hathaway ce</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/using-the-corne-split-keyboard-for-half-a-year/' | relative_url }}">using the corne split keyboard for half a year</a></h3>
 </div>
 <div class="article-row">
@@ -169,11 +173,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/lawsuit-over-president-rejecting-medical-research/' | relative_url }}">lawsuit over president rejecting medical research</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/javafx-mysql-user-management-list-all-users-in-tab/' | relative_url }}">javafx mysql user management list all users in tab</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/introduction-create-your-own-programming-language/' | relative_url }}">introduction create your own programming language</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/instacart-to-halt-price-tests-amid-scrutiny-of-its/' | relative_url }}">instacart to halt price tests amid scrutiny of its</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
