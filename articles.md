@@ -20,6 +20,18 @@ permalink: /articles/
   <h3><a href="{{ '/2025/12/31/privacy-may-be-dead-but-civilians-are-turning-conv/' | relative_url }}">privacy may be dead but civilians are turning conv</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/new-yini-configsettings-parser-release-focus-on-co/' | relative_url }}">new yini configsettings parser release focus on co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/honeys-dieselgate-detecting-and-tricking-testers/' | relative_url }}">honeys dieselgate detecting and tricking testers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/california-schools-will-be-required-to-restrict-pr/' | relative_url }}">california schools will be required to restrict pr</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">12/30</span>
   <h3><a href="{{ '/2025/12/30/zpdf-pdf-text-extraction-in-zig-5x-faster-than-mup/' | relative_url }}">zpdf pdf text extraction in zig 5x faster than mup</a></h3>
 </div>

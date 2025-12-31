@@ -1,0 +1,45 @@
+---
+layout: post
+title: "California schools will be required to restrict, prohibit student cell phone use in 2026 - カリフォルニア州、2026年に学生の携帯電話使用を制限・禁止する義務化"
+date: 2025-12-31T01:37:19.556Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://ktla.com/news/california/california-schools-will-be-required-to-restrict-prohibit-student-cell-phone-use-in-2026/"
+source_title: "California schools will be required to restrict, prohibit student cell phone use in 2026"
+source_id: 434133911
+excerpt: "2026年施行：カリフォルニア公立校で生徒の携帯使用を制限・禁止へ、教育現場とEdTechに波及"
+---
+
+# California schools will be required to restrict, prohibit student cell phone use in 2026 - カリフォルニア州、2026年に学生の携帯電話使用を制限・禁止する義務化
+学びの現場からスマホを取り戻す？ 2026年施行のカリフォルニア新規則が示す、教育×テックの再設計
+
+## 要約
+カリフォルニア州は2026年から公立学校に対し生徒の携帯電話使用を制限または禁止することを義務付ける方針を示している。学習環境改善、テスト不正防止、メンタルヘルス対策が背景にある。
+
+## この記事を読むべき理由
+テクノロジーは教育を変える一方で「いつ・どこで」使うかの規範が必要になっている。日本の学校や教育系スタートアップ、学校IT担当者にとって、米国での政策動向は方針策定や技術選定の参考になり得る。
+
+## 詳細解説
+- 背景と目的：教室でのスマホは学習の中断、いじめ・ソーシャルプレッシャー、試験不正、睡眠・精神衛生悪化の要因として指摘されている。州レベルで義務化することで学校間の対応バラツキを減らす狙い。
+- 施行方法の想定案：授業中の電源オフ・ロッカー保管、登校時の回収、休み時間のみ許可など複数の運用モデルが考えられる。個別教育計画(IEP)や安全連絡用の例外措置も必要となる。
+- 技術的対策と限界：ネットワーク側のフィルタリング、モバイル端末管理(MDM)、教育アプリのホワイトリスト化などで管理はできるが、電波遮断装置(ジマー)は法律や安全面で使えないケースが多い。運用面（教師の負担、保護者説明）も重要。
+- 法的・教育的論点：学区の自治権、表現の自由、保護者の懸念といった法的争点が生じ得る。加えて、デジタルリテラシー教育を同時に強化しないと規制は「禁止するだけ」で終わるリスクがある。
+
+## 日本市場との関連
+- 現状照合：日本でも学校単位でスマホ持ち込みや利用ルールは広がっているが、全国統一の義務化はない。カリフォルニアの動きは「国や都道府県レベルでの方針検討」に弾みをつける可能性がある。
+- EdTech企業への示唆：教育用途に特化したアプリの認定制度や、授業で安全に使える機能（試験モード、プロクター機能、端末ロック）への需要が高まる。
+- 保護者・自治体の視点：通学路での安全連絡や緊急時の連絡手段は確保しつつ、学習時間の質を上げる運用設計が求められる。
+
+## 実践ポイント
+- 学校側（IT担当／管理職）
+  - まずは利害関係者（保護者・教員・生徒）を巻き込むパイロット実施を設計する。
+  - Acceptable Use Policy（利用規程）を明文化し、例外や罰則を明確にする。
+  - MDMやネットワークフィルタを導入して、教育アプリのみを許可する運用を検討する。
+- EdTech事業者
+  - 教室向けの試験モードや端末制御APIを提供し、学校の承認プロセスに対応する。
+- 保護者・コミュニティ
+  - 規制だけでなくデジタルリテラシー教育（スマホとの付き合い方）を求める声をあげる。
+
+## 引用元
+- タイトル: California schools will be required to restrict, prohibit student cell phone use in 2026
+- URL: https://ktla.com/news/california/california-schools-will-be-required-to-restrict-prohibit-student-cell-phone-use-in-2026/
