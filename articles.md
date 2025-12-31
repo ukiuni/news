@@ -273,7 +273,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/best-engineering-leaders-know-how-to-switch-off/' | relative_url }}">best engineering leaders know how to switch off</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/back-to-the-future-the-story-of-squeak-a-practical/' | relative_url }}">back to the future the story of squeak a practical</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/asus-officially-announces-price-hikes-from-january/' | relative_url }}">asus officially announces price hikes from january</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -281,7 +289,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/apple-file-system-reference/' | relative_url }}">apple file system reference</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/animated-ai/' | relative_url }}">animated ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/all-optical-synthesis-chip-for-large-scale-intelli/' | relative_url }}">all optical synthesis chip for large scale intelli</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
