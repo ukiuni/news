@@ -121,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/doom-in-django-testing-the-limits-of-liveview-at-6/' | relative_url }}">doom in django testing the limits of liveview at 6</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/claude-insider-tips-tricks-amp-documentation-for-c/' | relative_url }}">claude insider tips tricks amp documentation for c</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/animated-ai/' | relative_url }}">animated ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/akins-laws-of-spacecraft-design-pdf/' | relative_url }}">akins laws of spacecraft design pdf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
