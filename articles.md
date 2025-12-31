@@ -149,6 +149,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/my-role-as-a-founder-cto-year-8/' | relative_url }}">my role as a founder cto year 8</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/my-2025-year-in-review/' | relative_url }}">my 2025 year in review</a></h3>
 </div>
 <div class="article-row">
@@ -166,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/javafx-mysql-user-management-list-all-users-in-tab/' | relative_url }}">javafx mysql user management list all users in tab</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/introduction-create-your-own-programming-language/' | relative_url }}">introduction create your own programming language</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -233,7 +241,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/demystifying-dvds/' | relative_url }}">demystifying dvds</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/court-report-detailing-chatgpts-involvement-with-a/' | relative_url }}">court report detailing chatgpts involvement with a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/cloudsweeper-cutting-cloud-waste-with-an-ai-finops/' | relative_url }}">cloudsweeper cutting cloud waste with an ai finops</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -290,6 +306,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/a-solid-load-of-bull/' | relative_url }}">a solid load of bull</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/39c3-grafana-dashboard/' | relative_url }}">39c3 grafana dashboard</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
