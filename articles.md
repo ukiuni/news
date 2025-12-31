@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/three-norths-alignment-about-to-end/' | relative_url }}">three norths alignment about to end</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/the-rise-of-industrial-software/' | relative_url }}">the rise of industrial software</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/privacy-may-be-dead-but-civilians-are-turning-conv/' | relative_url }}">privacy may be dead but civilians are turning conv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/on-why-we-wont-have-nice-things/' | relative_url }}">on why we wont have nice things</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -109,7 +117,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/fixing-a-buffer-overflow-in-unix-v4-like-its-1973/' | relative_url }}">fixing a buffer overflow in unix v4 like its 1973</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/claude-insider-tips-tricks-amp-documentation-for-c/' | relative_url }}">claude insider tips tricks amp documentation for c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/cheap-solar-is-transforming-lives-and-economies-ac/' | relative_url }}">cheap solar is transforming lives and economies ac</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -122,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/animated-ai/' | relative_url }}">animated ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/a-solid-load-of-bull/' | relative_url }}">a solid load of bull</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/30</span>
