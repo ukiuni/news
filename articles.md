@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/why-we-trust-strangers-open-source-more-than-our-c/' | relative_url }}">why we trust strangers open source more than our c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/why-c-isnt-dead-in-2025-how-the-c23-standard-and-l/' | relative_url }}">why c isnt dead in 2025 how the c23 standard and l</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/honeys-dieselgate-detecting-and-tricking-testers/' | relative_url }}">honeys dieselgate detecting and tricking testers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/google-opal/' | relative_url }}">google opal</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
