@@ -89,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/poland-calls-for-eu-action-against-ai-generated-ti/' | relative_url }}">poland calls for eu action against ai generated ti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/on-why-we-wont-have-nice-things/' | relative_url }}">on why we wont have nice things</a></h3>
 </div>
 <div class="article-row">
@@ -97,7 +101,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/new-york-wants-social-media-to-carry-tobacco-style/' | relative_url }}">new york wants social media to carry tobacco style</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/new-yini-configsettings-parser-release-focus-on-co/' | relative_url }}">new yini configsettings parser release focus on co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/my-2025-year-in-review/' | relative_url }}">my 2025 year in review</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -137,7 +149,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/efficient-method-to-capture-co2-from-the-atmospher/' | relative_url }}">efficient method to capture co2 from the atmospher</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/doom-in-django-testing-the-limits-of-liveview-at-6/' | relative_url }}">doom in django testing the limits of liveview at 6</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/claude-wrote-a-functional-nes-emulator-using-my-en/' | relative_url }}">claude wrote a functional nes emulator using my en</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -162,6 +182,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/akins-laws-of-spacecraft-design-pdf/' | relative_url }}">akins laws of spacecraft design pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/ai-labs-are-solving-the-power-problem/' | relative_url }}">ai labs are solving the power problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/a-super-fast-website-using-cloudflare-workers/' | relative_url }}">a super fast website using cloudflare workers</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>

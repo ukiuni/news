@@ -1,0 +1,38 @@
+---
+layout: post
+title: "My 2025 Year in Review - 私の2025年総括"
+date: 2025-12-31T14:40:37.545Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://dev.to/nickytonline/my-2025-year-in-review-3nom"
+source_title: "My 2025 Year in Review"
+source_id: 3136399
+excerpt: "元エンジニアが語るIAP/MCP導入とゼロトラスト実践の舞台裏"
+---
+
+# My 2025 Year in Review - 私の2025年総括
+注目の転機が詰まった「セキュリティ×AI×コミュニティ」一年の舞台裏
+
+## 要約
+元エンジニアがアプリ開発からアイデンティティ対応プロキシ（IAP）とセキュリティ領域へ転身し、MCP（Model Context Protocol）やゼロトラスト、カンファレンス登壇、コミュニティ受賞を通して見つけた学びと成果をまとめた年次回顧。
+
+## この記事を読むべき理由
+日本でもゼロトラストやAIサービスの普及が進む今、IAPやMCPのような新しい設計・運用パターンを理解することはプロダクト設計・運用、セキュリティ対策、開発者のキャリア形成に直結します。本記事は現場で得た実践的な洞察を短く掴めます。
+
+## 詳細解説
+- キャリアの転換：著者はOpenSaucedの買収後、PomeriumでDeveloper Advocate（DevRel）に職種変更。アプリ開発からネットワーク・セキュリティ寄りの領域へ進出した点が特徴。現場での学習曲線は急だが、コミュニティ活動が学習と機会獲得の大きな鍵になった。
+- IAP と MCP の関係：IAPはOSIモデルのレイヤ7（アプリ層）で動作し、主にHTTPトラフィックを扱う。MCP（Model Context Protocol）はリモートのモデル／コンテキストサーバと連携するためのプロトコル群で、IAPを通じて安全にモデルを呼び出したり、コンテキストを伝搬する設計が注目された。
+- カンファレンスとデモ：BlackHat、All Things Open、SREday、MCP Dev Summit などで15〜20回の登壇を行い、ゼロトラスト、Kubernetes 上での実装、Agentic Access（OAuth＋Zero Trustの考え方）などを複数の観客向けに磨き上げた。Kubernetesデモは直前で動作させて成功させるなど、ライブデモ運用の現実的ノウハウも得ている。
+- コミュニティ評価：GitHub Star と Microsoft MVP を受賞。こうした第三者評価が、イベント招致やネットワーク拡大に直結している点も示される。
+- 執筆・OSS：2025年に42本の記事を公開。MCPサーバ実装、TypeScriptテンプレート、ChatGPTアプリテンプレートなど実用的なOSSを公開し、他者が同じスタックを再利用しやすくした。
+
+## 実践ポイント
+- MCP と IAP の基礎を押さえる：アプリ層（HTTP）での認可設計とモデル呼び出しの安全な架け橋を理解することで、AIサービスの安全設計ができる。
+- 小さなデモを作る：Kubernetes や Pomerium の簡単なデモをローカルで動かして、デプロイや認証フローを体験する（ライブデモ経験は登壇で強みになる）。
+- OSSテンプレートを活用・寄与する：著者の TypeScript MCP テンプレやMCPサーバ実装などを参考にして、自社ユースケース向けにカスタマイズすると学習効率が上がる。
+- コミュニティ発信を継続する：週1の簡潔なニュースレターや週次のストリーミングで蓄積を作ると長期的な認知・ネットワークにつながる。
+- 日本市場での応用：ゼロトラスト導入やAIサービスの安全運用は国内企業でもニーズが高まっている。セキュリティ担当、SRE、プロダクトマネージャーは本稿の技術観点を社内PoCに落とし込もう。
+
+## 引用元
+- タイトル: My 2025 Year in Review
+- URL: https://dev.to/nickytonline/my-2025-year-in-review-3nom
