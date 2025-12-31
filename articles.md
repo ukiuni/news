@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/quality-of-drinking-water-varies-significantly-by/' | relative_url }}">quality of drinking water varies significantly by</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/privacy-may-be-dead-but-civilians-are-turning-conv/' | relative_url }}">privacy may be dead but civilians are turning conv</a></h3>
 </div>
 <div class="article-row">
