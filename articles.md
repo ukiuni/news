@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/writing-windows-95-software-in-2025/' | relative_url }}">writing windows 95 software in 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/winnie-the-pooh-brings-100-years-of-fame-to-forest/' | relative_url }}">winnie the pooh brings 100 years of fame to forest</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/the-rise-of-industrial-software/' | relative_url }}">the rise of industrial software</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/the-most-durable-tech-is-boring-old-and-everywhere/' | relative_url }}">the most durable tech is boring old and everywhere</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -142,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/odin-moving-towards-a-new-coreos/' | relative_url }}">odin moving towards a new coreos</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/observed-agent-sandbox-bypasses/' | relative_url }}">observed agent sandbox bypasses</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
@@ -253,6 +265,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/distributed-multithreaded-web-crawler-beginner/' | relative_url }}">distributed multithreaded web crawler beginner</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/demystifying-dvds/' | relative_url }}">demystifying dvds</a></h3>
 </div>
 <div class="article-row">
@@ -282,6 +298,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/building-a-lightweight-jsts-statistical-library-ch/' | relative_url }}">building a lightweight jsts statistical library ch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">12/31</span>
+  <h3><a href="{{ '/2025/12/31/blog-pypi-in-2025-a-year-in-review/' | relative_url }}">blog pypi in 2025 a year in review</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
