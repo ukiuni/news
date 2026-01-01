@@ -1,0 +1,38 @@
+---
+  layout: post
+  title: "Meta made scam ads harder to find instead of removing them - Metaは詐欺広告を完全排除せず「見つかりにくく」した"
+  date: 2026-01-01T14:47:31.183Z
+  categories: [tech, world-news]
+  tags: [tech-news, japan]
+  source_url: "https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/"
+  source_title: "Rather than fully cracking down on scam ads, Meta worked to make them harder to find - Sherwood News"
+  source_id: 46453582
+  excerpt: "内部文書が示すMetaの手口：詐欺広告を削除せず発見しにくくして規制と監視をすり抜け、広告収益保全の実態"
+  ---
+
+# Meta made scam ads harder to find instead of removing them - Metaは詐欺広告を完全排除せず「見つかりにくく」した
+Metaが詐欺広告を「消す」代わりにジャーナリストや規制当局から見えにくくした驚きの実態 — 日本の規制・広告運用に突きつける問題点
+
+## 要約
+Reutersが入手した内部文書によれば、Metaは詐欺広告を完全に排除する代わりに「発見されにくくする」措置を取り、これは世界各地での規制対応用プレイブックにも組み込まれている。日本での普遍的な広告主認証導入を回避する目的があったとされる。
+
+## この記事を読むべき理由
+国内でもプラットフォーム広告と消費者被害の監督は重要課題。Metaの対応は、技術的な検出・遮断だけでなく「透明性」と「発見可能性」の操作が監督をかいくぐる手段になり得ることを示しており、日本の規制設計や広告技術（AdTech）側の対策に直結する示唆がある。
+
+## 詳細解説
+- 問題の核心：Reutersの調査で、Metaは詐欺や違法商品に関する広告を単純に残置したり完全削除したりするのではなく、「検索結果やレポートで見つかりにくくする」処置（search-result cleanup）を実行していた。  
+- ビジネス動機：内部では日本での全広告主認証が導入されれば約20億ドルの実装コスト、収益で最大約5%減の試算があり、規制負担回避が背景にあったとされる。  
+- グローバル展開：この手法は「一般的なグローバルプレイブック」として米・欧・印・豪・ブラジル・タイなどでも使われた記録がある。  
+- 規模の示唆：過去報道では「2024年収益の約10%が詐欺・禁止品に関連する広告から来る」とする内部推計があった（中国ではさらに高いという指摘も）。
+
+技術的には、プラットフォームはコンテンツの表示優先度、検索/レポートAPIのフィルタ、メタデータの隠蔽などで「発見性」を操作できる。これにより第三者監査や報道の追跡が困難になる。
+
+## 実践ポイント
+- 規制担当者へ：広告主認証や第三者監査の要件を「発見可能性」やログアクセス権まで含めて設計する。単なる削除要求だけでは不十分。  
+- AdTechエンジニアへ：広告インベントリのサンプリング監査、ランディングページ自動クロール、ドメイン年齢/決済情報分析、NLPでの詐欺パターン抽出を組み込む。  
+- ジャーナリスト/調査者へ：プラットフォーム側の検索・レポート結果に頼らず、広告コピーやクリエイティブ、トラッキングリンクを定期的にアーカイブして比較する。  
+- 事業者/消費者保護団体へ：透明性レポートの要求、インシデントのログ提供や第三者による検証を求める。
+
+## 引用元
+- タイトル: Meta made scam ads harder to find instead of removing them  
+- URL: https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/

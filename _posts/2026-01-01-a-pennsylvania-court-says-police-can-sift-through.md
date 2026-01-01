@@ -1,0 +1,44 @@
+---
+  layout: post
+  title: "A Pennsylvania court says police can sift through Google searches to find suspects - ペンシルベニア州裁、警察は容疑者特定のためにGoogle検索履歴を精査できると判断"
+  date: 2026-01-01T14:48:05.757Z
+  categories: [tech, world-news]
+  tags: [tech-news, japan]
+  source_url: "https://www.techspot.com/news/110749-pennsylvania-court-police-can-sift-through-google-searches.html"
+  source_title: "A Pennsylvania court says police can sift through Google searches to find suspects"
+  source_id: 474957253
+  excerpt: "ペンシルベニア裁がGoogle検索履歴の捜査利用を容認、プライバシーの境界が揺らぐ"
+  ---
+
+# A Pennsylvania court says police can sift through Google searches to find suspects - ペンシルベニア州裁、警察は容疑者特定のためにGoogle検索履歴を精査できると判断
+あなたの検索履歴が捜査の“引き金”に？ 逆キーワード捜査が示すプライバシーの境界線
+
+## 要約
+ペンシルバニア州最高裁は、警察による「逆キーワード捜査」（特定期間のGoogle検索語句の照会）を認める判断を示した。判決は第三者理論に基づき、検索データを銀行記録や電話記録と同列に扱っている。
+
+## この記事を読むべき理由
+日本でもクラウドサービスや検索履歴を扱う開発・運用、あるいは個人のプライバシー意識が高まる中で、海外判例は運用・設計・法的リスクの観点から重大な示唆を与える。技術者・プロダクト担当者はログ設計やユーザーデータの取り扱い方針を見直す必要がある。
+
+## 詳細解説
+- 事件概観：2016年の強姦事件で、州警察は被害者が連れ去られる直前の1週間分のGoogle検索キーワードを令状で入手。複数回被害者住所を検索していた人物が特定され、その後のDNAや自白で有罪となった（事案名：Commonwealth v. Kurtz）。
+- 裁判所の論点：逆キーワード捜査は特定個人を直接名指ししない「広範な照会」だが、裁判長ウェクトは「第三者理論」を適用。検索をGoogleに送信した時点でユーザーはその情報について合理的な秘匿期待を放棄したと判断した。
+- 例外と争点：裁判はいくつかの留保を加えた。被告がVPNなどで保護措置を取っていれば秘匿期待を認める余地があると述べた一方、反対意見は同期間に同一キーワードで検索した多くの無関係な人々のプライバシーが侵害される点を問題視した。
+- 海外の類似判例：2023年のコロラド州判決でも逆キーワード令状の脆弱性が指摘されたが、捜査公務員の善意を理由に救済が制限された例がある。民間団体（ACLU、EFF）はこの手法の全面禁止を主張している。
+
+## 実践ポイント
+- 個人ユーザー向け
+  - Googleアカウントの「アクティビティ管理」や保存期間を見直す。
+  - 検索や位置情報の削除・自動削除設定を活用する。
+  - 法的リスクやプライバシーを懸念する場合はVPNやプライベートブラウジングの併用を検討する（ただし法的保護が必ずしも保証されるわけではない）。
+- 開発者／プロダクト担当者向け
+  - ログ設計で「必要最小限」の原則を徹底する（保存期間の短縮、PⅡの別処理）。
+  - サーバー側での識別子保存を最小化し、可能なら匿名化・集計処理を採用する。
+  - ユーザー向けに透明性の高いプライバシーポリシーとログ保持方針を明示する。
+  - 法的要求（令状・保全要請）に備えた対応手順を整備し、法務と連携する。
+- 企業のインフラ設計
+  - クライアントサイド暗号化やエンドツーエンド暗号化を導入できる箇所は検討する。
+  - 第三者に渡るログの範囲を見直し、外部プロバイダ依存のリスクを管理する。
+
+## 引用元
+- タイトル: A Pennsylvania court says police can sift through Google searches to find suspects
+- URL: https://www.techspot.com/news/110749-pennsylvania-court-police-can-sift-through-google-searches.html
