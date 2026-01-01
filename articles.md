@@ -93,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/noteplus-text-editor-a-free-lightweight-browser-ba/' | relative_url }}">noteplus text editor a free lightweight browser ba</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/nerd-the-first-programming-language-not-built-for/' | relative_url }}">nerd the first programming language not built for</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/if-childhood-is-half-of-subjective-life-how-should/' | relative_url }}">if childhood is half of subjective life how should</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/i-rebooted-my-social-life/' | relative_url }}">i rebooted my social life</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -165,11 +173,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/china-drafts-worlds-strictest-rules-to-end-ai-enco/' | relative_url }}">china drafts worlds strictest rules to end ai enco</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/bluetooth-headphone-jacking-a-key-to-your-phone-vi/' | relative_url }}">bluetooth headphone jacking a key to your phone vi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/application-prohibited-internationally/' | relative_url }}">application prohibited internationally</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/a-christmas-present-to-myself-vector-network-analy/' | relative_url }}">a christmas present to myself vector network analy</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
