@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/web-browsers-have-stopped-blocking-pop-ups/' | relative_url }}">web browsers have stopped blocking pop ups</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/the-tech-weve-lost-in-2025/' | relative_url }}">the tech weve lost in 2025</a></h3>
 </div>
 <div class="article-row">
@@ -53,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/pixars-true-story/' | relative_url }}">pixars true story</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/nerd-the-first-programming-language-not-built-for/' | relative_url }}">nerd the first programming language not built for</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/judge-to-texas-you-cant-age-gate-the-entire-intern/' | relative_url }}">judge to texas you cant age gate the entire intern</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/javafx-user-management-system-bcrypt-password-hash/' | relative_url }}">javafx user management system bcrypt password hash</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
