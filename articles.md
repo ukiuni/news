@@ -69,11 +69,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/only-5-sears-stores-remain-in-the-us/' | relative_url }}">only 5 sears stores remain in the us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/nerd-the-first-programming-language-not-built-for/' | relative_url }}">nerd the first programming language not built for</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/nasas-largest-library-is-closing-amid-staff-and-la/' | relative_url }}">nasas largest library is closing amid staff and la</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/meta-is-sued-by-us-virgin-islands-over-ads-for-sca/' | relative_url }}">meta is sued by us virgin islands over ads for sca</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -114,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/evaluating-kafka-for-ai-orchestration-should-we-sw/' | relative_url }}">evaluating kafka for ai orchestration should we sw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/corroded-illegal-rust/' | relative_url }}">corroded illegal rust</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
