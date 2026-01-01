@@ -13,7 +13,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/the-tech-weve-lost-in-2025/' | relative_url }}">the tech weve lost in 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/the-delete-act/' | relative_url }}">the delete act</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/stressed-rats-keep-returning-to-cannabis-and-scien/' | relative_url }}">stressed rats keep returning to cannabis and scien</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/show-hn-bustermq-thread-per-core-nats-server-in-zi/' | relative_url }}">show hn bustermq thread per core nats server in zi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -25,11 +37,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/nerd-the-first-programming-language-not-built-for/' | relative_url }}">nerd the first programming language not built for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/judge-to-texas-you-cant-age-gate-the-entire-intern/' | relative_url }}">judge to texas you cant age gate the entire intern</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/graphqlite-graph-database-capabilities-inside-sqli/' | relative_url }}">graphqlite graph database capabilities inside sqli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/evaluating-kafka-for-ai-orchestration-should-we-sw/' | relative_url }}">evaluating kafka for ai orchestration should we sw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/application-prohibited-internationally/' | relative_url }}">application prohibited internationally</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/2025-the-year-in-llms/' | relative_url }}">2025 the year in llms</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
