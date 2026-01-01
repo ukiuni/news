@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/why-have-c-and-rust-been-the-fastest-growing-major/' | relative_url }}">why have c and rust been the fastest growing major</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/what-are-you-planning-to-learn-in-2026/' | relative_url }}">what are you planning to learn in 2026</a></h3>
 </div>
 <div class="article-row">
@@ -45,7 +49,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/hp-ux-hits-end-of-life-today-and-im-sad/' | relative_url }}">hp ux hits end of life today and im sad</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/graphqlite-graph-database-capabilities-inside-sqli/' | relative_url }}">graphqlite graph database capabilities inside sqli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/finnish-authorities-seize-cargo-ship-fitburg-and-c/' | relative_url }}">finnish authorities seize cargo ship fitburg and c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>

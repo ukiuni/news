@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Why have C++ and Rust been the fastest-growing major programming languages from 2022 to 2025? - なぜC++とRustは2022〜2025年で最も急成長した主要言語になったのか？"
+date: 2026-01-01T02:37:45.994Z
+categories: [tech, world-news]
+tags: [tech-news, japan]
+source_url: "https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/"
+source_title: "Why have C++ and Rust been the fastest-growing major programming languages from 2022 to 2025?"
+source_id: 473972222
+excerpt: "電力制約の時代、性能/ワット重視でC++26とRustが復権した理由"
+---
+
+# Why have C++ and Rust been the fastest-growing major programming languages from 2022 to 2025? - なぜC++とRustは2022〜2025年で最も急成長した主要言語になったのか？
+ギガワット時代の生存戦略：電力制約が生んだ「C++とRust復権」の本当の理由
+
+## 要約
+ハードウェアの進化よりもソフトウェア需要の増大が先回りしているため、性能あたり（特に性能/ワット）を最大化できる言語――C++やRust――が2022〜2025年に急成長した。C++は新標準（C++26）で並列・安全機能を強化し、AI時代のインフラでも中心的役割を維持している。
+
+## この記事を読むべき理由
+日本の企業や組込み／クラウド事業者にとって「電力とチップがボトルネック」の現実は無視できない。省電力で高性能を引き出す技術や言語選択が、コスト・サービス競争力に直結するため、C++/Rustの台頭は実務上の重要な示唆を与える。
+
+## 詳細解説
+- ハードウェア制約の現実：2025年の計算リソースで最も不足しているのは「電力（power）」で、次に「チップ」。データセンターやAIインフラはギガワット単位の電力確保を競っており、性能/ワットが直接収益に結びつく状況になっている。  
+- なぜC++とRustか：限られたワットやトランジスタで最大の仕事をするには低レイヤで効率を出せる言語が有利。可搬性と制御性を保ちながら効率を追求できるのがC/C++/Rustの強みで、特にC++は既存資産の量と最適化の蓄積で大きな市場を保持する。  
+- C++26の技術的な進化（要点）:  
+  - SIMD型の強化やCPU/GPU並列を扱うための std::execution の Sender/Receiver モデルなど、ハードウェア並列性のサポート拡充。  
+  - 標準ライブラリの「ハード化」：広く使われる境界操作に対する境界チェックを導入するモードで、実運用でのバグ防止に有効（実装例で低オーバーヘッドが報告されている）。  
+  - 未初期化ローカル変数に関する未定義動作の除去や、前条件/後条件などを扱う契約（contracts）導入で機能安全性と実行時検査が向上。  
+- 安全性と脅威の実情：多くの脆弱性レポートはCとC++を混同しており、言語そのものだけが問題とは限らない。実際、攻撃手法は「ソフト／非ソフト両面」へシフトしており、言語外の対策や運用面の強化も重要。  
+- AIとの関係：推論・デプロイの多くはCUDAやTensorFlowなどC++に近い実装基盤に依存するため、高性能実行基盤の最適化能力が求められる。高効率な低レイヤ言語の需要はAIブームでむしろ増している。
+
+## 実践ポイント
+- C++26を試す：コンパイルオプションやハード化モードを有効にして既存コードを再ビルドし、パフォーマンスとバグ削減の効果を評価する。  
+- 性能/ワットでベンチを回す：単純なレイテンシやスループットだけでなく、実測の消費電力あたりの処理量を測る（クラウドのインスタンスでも測定可）。  
+- 並列・SIMDの活用：ホットパスに対するSIMD最適化やSender/Receiverを学んで適用し、CPU/GPUの利用効率を上げる。  
+- 言語戦略の使い分け：新規コンポーネントや安全性重視の部分はRust、既存資産や最終的な実行効率が鍵の部分はC++（C++26）というハイブリッド運用を検討する。  
+- 運用と対策強化：言語の安全機能だけに頼らず、ランタイム監視・ホワイトリスト化・ユーザ教育など運用層の対策もセットで実施する。  
+- 日本市場への配慮：電力制約や施設スペースの制限が厳しい国内エッジ・組込み領域、車載やファクトリーIoTでは性能/ワット最適化が直接の競争力になるため早めの技術評価を推奨。
+
+## 引用元
+- タイトル: Why have C++ and Rust been the fastest-growing major programming languages from 2022 to 2025?  
+- URL: https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/
