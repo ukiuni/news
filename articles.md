@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/the-8-fallacies-of-distributed-computing-all-you-n/' | relative_url }}">the 8 fallacies of distributed computing all you n</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/thanks-dad-for-the-inspiration/' | relative_url }}">thanks dad for the inspiration</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +102,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/residues-time-change-amp-uncertainty-in-software-a/' | relative_url }}">residues time change amp uncertainty in software a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/researchers-are-hunting-america-for-hidden-datacen/' | relative_url }}">researchers are hunting america for hidden datacen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/quickemu-quickly-create-and-run-optimised-windows/' | relative_url }}">quickemu quickly create and run optimised windows</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -274,6 +286,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/c-events-yet-another-event-loop-simpler-smaller-fa/' | relative_url }}">c events yet another event loop simpler smaller fa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/build-a-deep-learning-library/' | relative_url }}">build a deep learning library</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
