@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/small-experiment-with-timing-based-interactions-in/' | relative_url }}">small experiment with timing based interactions in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/show-hn-i-created-a-tool-to-design-and-create-foam/' | relative_url }}">show hn i created a tool to design and create foam</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/one-number-i-trust-plain-text-accounting-for-a-mul/' | relative_url }}">one number i trust plain text accounting for a mul</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/numstore-a-database-for-the-machine-learning-era/' | relative_url }}">numstore a database for the machine learning era</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -177,6 +185,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/explaining-memory-barriers-and-javas-happens-befor/' | relative_url }}">explaining memory barriers and javas happens befor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/evaluating-kafka-for-ai-orchestration-should-we-sw/' | relative_url }}">evaluating kafka for ai orchestration should we sw</a></h3>
 </div>
 <div class="article-row">
@@ -197,7 +209,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/amazon-visa-delays-prompt-india-remote-work-with-s/' | relative_url }}">amazon visa delays prompt india remote work with s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/a-pennsylvania-court-says-police-can-sift-through/' | relative_url }}">a pennsylvania court says police can sift through</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/a-font-with-built-in-tex-syntax-highlighting/' | relative_url }}">a font with built in tex syntax highlighting</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
