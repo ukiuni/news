@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/straussian-memes/' | relative_url }}">straussian memes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/statically-linking-pipewire/' | relative_url }}">statically linking pipewire</a></h3>
 </div>
 <div class="article-row">
@@ -189,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/join-the-new-year-new-you-portfolio-challenge-3000/' | relative_url }}">join the new year new you portfolio challenge 3000</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/javafx-user-management-system-bcrypt-password-hash/' | relative_url }}">javafx user management system bcrypt password hash</a></h3>
 </div>
 <div class="article-row">
@@ -265,6 +273,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/flock-decides-cops-cant-be-trusted-with-cop-data/' | relative_url }}">flock decides cops cant be trusted with cop data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/finnish-authorities-seize-cargo-ship-fitburg-and-c/' | relative_url }}">finnish authorities seize cargo ship fitburg and c</a></h3>
 </div>
 <div class="article-row">
@@ -326,6 +338,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/bluetooth-headphone-jacking-a-key-to-your-phone-vi/' | relative_url }}">bluetooth headphone jacking a key to your phone vi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/bernie-sanders-and-ron-desantis-speak-out-against/' | relative_url }}">bernie sanders and ron desantis speak out against</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
