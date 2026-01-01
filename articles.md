@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/sony-ps5-rom-keys-leaked-jailbreaking-could-be-mad/' | relative_url }}">sony ps5 rom keys leaked jailbreaking could be mad</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/snapshot-of-software-engineering-job-openings-in-u/' | relative_url }}">snapshot of software engineering job openings in u</a></h3>
 </div>
 <div class="article-row">
@@ -85,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/python-numbers-every-programmer-should-know/' | relative_url }}">python numbers every programmer should know</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/pokmon-team-optimization/' | relative_url }}">pokmon team optimization</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/pidgin-30-experimental-5-2940-has-been-released/' | relative_url }}">pidgin 30 experimental 5 2940 has been released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/openworkers-self-hosted-cloudflare-workers-in-rust/' | relative_url }}">openworkers self hosted cloudflare workers in rust</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -121,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/my-other-post-deleted-but-if-anyone-wants-to-play/' | relative_url }}">my other post deleted but if anyone wants to play</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/meta-made-scam-ads-harder-to-find-instead-of-remov/' | relative_url }}">meta made scam ads harder to find instead of remov</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/javafx-user-management-system-bcrypt-password-hash/' | relative_url }}">javafx user management system bcrypt password hash</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/implementing-hnsw-hierarchical-navigable-small-wor/' | relative_url }}">implementing hnsw hierarchical navigable small wor</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -162,6 +182,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/hindsight-github-style-git-activity-visualizer-for/' | relative_url }}">hindsight github style git activity visualizer for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/heap-overflow-in-ffmpeg-exif/' | relative_url }}">heap overflow in ffmpeg exif</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/have-to-make-a-game/' | relative_url }}">have to make a game</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -197,6 +225,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/common-lisp-sdk-for-the-datastar-hypermedia-framew/' | relative_url }}">common lisp sdk for the datastar hypermedia framew</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/china-drafts-worlds-strictest-rules-to-end-ai-enco/' | relative_url }}">china drafts worlds strictest rules to end ai enco</a></h3>
 </div>
 <div class="article-row">
@@ -209,7 +241,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/an-anti-ai-movement-is-coming-which-party-will-lea/' | relative_url }}">an anti ai movement is coming which party will lea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/amazon-visa-delays-prompt-india-remote-work-with-s/' | relative_url }}">amazon visa delays prompt india remote work with s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/acm-is-now-open-access/' | relative_url }}">acm is now open access</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -225,7 +265,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/50-of-us-vinyl-buyers-dont-own-a-record-player/' | relative_url }}">50 of us vinyl buyers dont own a record player</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/2025-the-year-in-llms/' | relative_url }}">2025 the year in llms</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/2025-letter/' | relative_url }}">2025 letter</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">12/31</span>
