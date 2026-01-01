@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/snapshot-of-software-engineering-job-openings-in-u/' | relative_url }}">snapshot of software engineering job openings in u</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/show-hn-bustermq-thread-per-core-nats-server-in-zi/' | relative_url }}">show hn bustermq thread per core nats server in zi</a></h3>
 </div>
 <div class="article-row">
