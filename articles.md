@@ -133,6 +133,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/hindsight-github-style-git-activity-visualizer-for/' | relative_url }}">hindsight github style git activity visualizer for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/happy-new-year-your-code-from-last-year-still-does/' | relative_url }}">happy new year your code from last year still does</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/graphqlite-graph-database-capabilities-inside-sqli/' | relative_url }}">graphqlite graph database capabilities inside sqli</a></h3>
 </div>
 <div class="article-row">
@@ -154,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/corroded-illegal-rust/' | relative_url }}">corroded illegal rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/bluetooth-headphone-jacking-a-key-to-your-phone-vi/' | relative_url }}">bluetooth headphone jacking a key to your phone vi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
