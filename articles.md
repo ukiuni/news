@@ -57,7 +57,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/pokmon-team-optimization/' | relative_url }}">pokmon team optimization</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/pixars-true-story/' | relative_url }}">pixars true story</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/pidgin-30-experimental-5-2940-has-been-released/' | relative_url }}">pidgin 30 experimental 5 2940 has been released</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -77,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/i-built-devbench-an-offline-first-developer-deskto/' | relative_url }}">i built devbench an offline first developer deskto</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/hp-ux-hits-end-of-life-today-and-im-sad/' | relative_url }}">hp ux hits end of life today and im sad</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/graphqlite-graph-database-capabilities-inside-sqli/' | relative_url }}">graphqlite graph database capabilities inside sqli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/google-wraps-up-best-year-on-wall-street-since-200/' | relative_url }}">google wraps up best year on wall street since 200</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
