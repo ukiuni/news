@@ -181,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/linux-is-good-now-to-feel-like-you-actually-own-yo/' | relative_url }}">linux is good now to feel like you actually own yo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/judge-to-texas-you-cant-age-gate-the-entire-intern/' | relative_url }}">judge to texas you cant age gate the entire intern</a></h3>
 </div>
 <div class="article-row">
@@ -253,6 +257,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/gemini-30-deciphered-the-mystery-of-a-nuremberg-ch/' | relative_url }}">gemini 30 deciphered the mystery of a nuremberg ch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/flow5-released-to-open-source/' | relative_url }}">flow5 released to open source</a></h3>
 </div>
 <div class="article-row">
@@ -305,6 +313,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/byd-sells-46m-vehicles-in-2025-meets-revised-sales/' | relative_url }}">byd sells 46m vehicles in 2025 meets revised sales</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/building-an-internal-agent-code-driven-vs-llm-driv/' | relative_url }}">building an internal agent code driven vs llm driv</a></h3>
 </div>
 <div class="article-row">
@@ -330,6 +342,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/acm-is-now-open-access/' | relative_url }}">acm is now open access</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/a-website-to-destroy-all-websites/' | relative_url }}">a website to destroy all websites</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
