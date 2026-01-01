@@ -165,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/memory-subsystem-optimizations/' | relative_url }}">memory subsystem optimizations</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/judge-to-texas-you-cant-age-gate-the-entire-intern/' | relative_url }}">judge to texas you cant age gate the entire intern</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/if-childhood-is-half-of-subjective-life-how-should/' | relative_url }}">if childhood is half of subjective life how should</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/i-used-an-old-school-security-trick-to-catch-promp/' | relative_url }}">i used an old school security trick to catch promp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -245,6 +253,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/despite-crackdown-on-activism-tech-employees-are-s/' | relative_url }}">despite crackdown on activism tech employees are s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/corroded-illegal-rust/' | relative_url }}">corroded illegal rust</a></h3>
 </div>
 <div class="article-row">
@@ -258,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/cameras-and-lenses/' | relative_url }}">cameras and lenses</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/c-events-yet-another-event-loop-simpler-smaller-fa/' | relative_url }}">c events yet another event loop simpler smaller fa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -282,6 +298,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/a-pennsylvania-court-says-police-can-sift-through/' | relative_url }}">a pennsylvania court says police can sift through</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/a-lightweight-client-only-spreadsheet-web-applicat/' | relative_url }}">a lightweight client only spreadsheet web applicat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
