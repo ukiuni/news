@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/writing-load-balancer-from-scratch-in-250-line-of/' | relative_url }}">writing load balancer from scratch in 250 line of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/why-have-c-and-rust-been-the-fastest-growing-major/' | relative_url }}">why have c and rust been the fastest growing major</a></h3>
 </div>
 <div class="article-row">
@@ -49,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/nasas-largest-library-is-closing-amid-staff-and-la/' | relative_url }}">nasas largest library is closing amid staff and la</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/judge-to-texas-you-cant-age-gate-the-entire-intern/' | relative_url }}">judge to texas you cant age gate the entire intern</a></h3>
 </div>
 <div class="article-row">
@@ -57,7 +65,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/how-do-you-secure-access-to-your-self-hostedhomela/' | relative_url }}">how do you secure access to your self hostedhomela</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/graphqlite-graph-database-capabilities-inside-sqli/' | relative_url }}">graphqlite graph database capabilities inside sqli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/flow5-released-to-open-source/' | relative_url }}">flow5 released to open source</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
