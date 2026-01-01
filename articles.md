@@ -8,6 +8,30 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/what-are-you-planning-to-learn-in-2026/' | relative_url }}">what are you planning to learn in 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/the-delete-act/' | relative_url }}">the delete act</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/scientists-unlock-brains-natural-clean-up-system-f/' | relative_url }}">scientists unlock brains natural clean up system f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/resistance-training-load-does-not-determine-hypert/' | relative_url }}">resistance training load does not determine hypert</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/judge-to-texas-you-cant-age-gate-the-entire-intern/' | relative_url }}">judge to texas you cant age gate the entire intern</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/evaluating-kafka-for-ai-orchestration-should-we-sw/' | relative_url }}">evaluating kafka for ai orchestration should we sw</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">12/31</span>
   <h3><a href="{{ '/2025/12/31/zero-code-instrumentation-of-an-envoy-tcp-proxy-us/' | relative_url }}">zero code instrumentation of an envoy tcp proxy us</a></h3>
 </div>
