@@ -249,11 +249,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/gene-a-homoiconic-general-purpose-language-built-a/' | relative_url }}">gene a homoiconic general purpose language built a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/flow5-released-to-open-source/' | relative_url }}">flow5 released to open source</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/finnish-authorities-seize-cargo-ship-fitburg-and-c/' | relative_url }}">finnish authorities seize cargo ship fitburg and c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/finland-detains-ship-and-its-crew-after-critical-u/' | relative_url }}">finland detains ship and its crew after critical u</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -269,6 +277,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/dells-version-of-the-dgx-spark-fixes-pain-points/' | relative_url }}">dells version of the dgx spark fixes pain points</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/corroded-illegal-rust/' | relative_url }}">corroded illegal rust</a></h3>
 </div>
 <div class="article-row">
@@ -281,11 +293,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/canvas-vm-piet-language-runtime/' | relative_url }}">canvas vm piet language runtime</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/cameras-and-lenses/' | relative_url }}">cameras and lenses</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/c-events-yet-another-event-loop-simpler-smaller-fa/' | relative_url }}">c events yet another event loop simpler smaller fa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/building-an-internal-agent-code-driven-vs-llm-driv/' | relative_url }}">building an internal agent code driven vs llm driv</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
