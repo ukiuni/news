@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/windows-11-outperforming-linux-on-an-intel-arrow-l/' | relative_url }}">windows 11 outperforming linux on an intel arrow l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/why-have-c-and-rust-been-the-fastest-growing-major/' | relative_url }}">why have c and rust been the fastest growing major</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/rust-rust-without-the-borrow-checker/' | relative_url }}">rust rust without the borrow checker</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/resistance-training-load-does-not-determine-hypert/' | relative_url }}">resistance training load does not determine hypert</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/javafx-user-management-system-bcrypt-password-hash/' | relative_url }}">javafx user management system bcrypt password hash</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/if-childhood-is-half-of-subjective-life-how-should/' | relative_url }}">if childhood is half of subjective life how should</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
