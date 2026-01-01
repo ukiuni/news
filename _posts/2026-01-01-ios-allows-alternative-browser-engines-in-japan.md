@@ -1,0 +1,63 @@
+---
+  layout: post
+  title: "iOS allows alternative browser engines in Japan - iOSが日本で代替ブラウザエンジンを許可"
+  date: 2026-01-01T17:56:57.562Z
+  categories: [tech, world-news]
+  tags: [tech-news, japan]
+  source_url: "https://developer.apple.com/support/alternative-browser-engines-jp/"
+  source_title: "Using alternative browser engines in Japan - Support - Apple Developer"
+  source_id: 46453950
+  excerpt: "日本のiOSで代替ブラウザエンジンが解禁、導入は厳格な技術・セキュリティ要件必須"
+  ---
+
+# iOS allows alternative browser engines in Japan - iOSが日本で代替ブラウザエンジンを許可
+iOSで“Safari以外の心臓部”が動く――日本限定で代替ブラウザエンジンが解禁、だが条件は超ハイバー
+
+## 要約
+iOS 26.2以降、Appleは日本国内向けに「代替ブラウザエンジン」の利用を認める。専用ブラウザアプリとアプリ内埋め込み（in‑app）で別エンジンを使えるが、厳格な技術・セキュリティ・プライバシー要件のクリアが前提。
+
+## この記事を読むべき理由
+日本市場向けのiOSアプリ開発者やブラウザエンジン運営者は、これまでのWebKit縛りから解放される可能性がある一方、実務上のコストとコンプライアンス対応が不可避となる。新しい商機と厳しい技術的責務が同時に来るため、早めの準備が競争優位につながる。
+
+## 詳細解説
+- 2種類の権限（Entitlement）
+  - Web Browser Engine Entitlement（専用ブラウザアプリ向け）
+    - 日本向けiOSで単独バイナリで配布、システムのデフォルトブラウザ権限も必要。
+    - Web Platform Testsで上位ブラウザの90%相当、Test262で80%相当を満たすこと（JIT無効時も要件クリア）。
+  - Embedded Browser Engine Entitlement（アプリ内ブラウジング向け）
+    - 「ブラウザエンジン・スチュワード（運営主体）」のみ申請可。埋め込みは“主目的がウェブ閲覧”でUI要件（画面占有、既定ブラウザへ飛ばすボタン、表示ドメインの可視化）あり。
+
+- セキュリティ要件（共通・厳格）
+  - 脆弱性公開ポリシーの提示、報告窓口、公表ページ。
+  - 攻撃に使われる脆弱性は迅速対応が必須（単純なケースで30日目標）。
+  - メモリ安全性の担保（Webコンテンツ処理コードはメモリ安全言語か安全機能を使用）。
+  - 最新の防御機構採用（Pointer Authentication CodesやMemory Integrity Enforcement等）、プロセス分離、IPC検証。
+  - 依存ライブラリの継続的監視と速やかなアップデート。保守されないフレームワークは使用不可。
+
+- プライバシー要件
+  - デフォルトでクロスサイト（サードパーティ）クッキーをブロック。
+  - ストレージや状態はトップレベルサイト単位で分離するか、クロスサイト観測を不可に。
+  - アプリ間での状態同期や端末識別子共有は明示的同意が無ければ不可。
+  - App Privacy Reportに対応するための接続ラベリングが必要。
+  - Web APIの利用可否はユーザーアクティベーションや同意に準拠。
+
+- 運用・リリース要件
+  - 埋め込みエンジンのバージョンはバイナリ提出時に明示。エンジン更新が出たら15日以内にアプリを更新する義務。
+
+## 実践ポイント
+- ビジネス判断: 日本限定配布の要件を満たすか確認。グローバル提供を目指すなら別戦略が必要。
+- 技術チェックリスト（着手直後）
+  - WPT/Test262の現状スコアを測定し、ギャップを特定。
+  - Webコンテンツ処理部をメモリ安全言語へ移行する計画を立てる。
+  - 脆弱性開示ページと対応フロー（SLA）を整備。
+- セキュリティ体制
+  - サプライチェーン監視、自動スキャン、脆弱性管理プロセスを構築。
+  - PAC/MIEなどハードウェア/OS防御の活用可否を確認。
+- 法務・プライバシー対応
+  - 同意取得フロー、端末ID扱い、クッキー管理の適合性を法務と照合（個人情報保護法との整合性）。
+- 開発ロードマップ
+  - エンジン切替や独自エンジン導入は「セキュリティ優先」で計画。新機能より脆弱性対応を優先することを明文化。
+
+## 引用元
+- タイトル: iOS allows alternative browser engines in Japan
+- URL: https://developer.apple.com/support/alternative-browser-engines-jp/

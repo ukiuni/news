@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/using-git-as-a-backend-for-other-tools/' | relative_url }}">using git as a backend for other tools</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/uk-company-shoots-a-1000-degree-furnace-into-space/' | relative_url }}">uk company shoots a 1000 degree furnace into space</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/stressed-rats-keep-returning-to-cannabis-and-scien/' | relative_url }}">stressed rats keep returning to cannabis and scien</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/statically-linking-pipewire/' | relative_url }}">statically linking pipewire</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -89,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/residues-time-change-amp-uncertainty-in-software-a/' | relative_url }}">residues time change amp uncertainty in software a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/python-numbers-every-programmer-should-know/' | relative_url }}">python numbers every programmer should know</a></h3>
 </div>
 <div class="article-row">
@@ -117,11 +129,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/nyc-mayoral-inauguration-bans-flipper-zero-raspber/' | relative_url }}">nyc mayoral inauguration bans flipper zero raspber</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/numstore-a-database-for-the-machine-learning-era/' | relative_url }}">numstore a database for the machine learning era</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/noteplus-text-editor-a-free-lightweight-browser-ba/' | relative_url }}">noteplus text editor a free lightweight browser ba</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/no-iphone-18-launch-this-year-reports-suggest/' | relative_url }}">no iphone 18 launch this year reports suggest</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -150,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/javafx-user-management-system-bcrypt-password-hash/' | relative_url }}">javafx user management system bcrypt password hash</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/ios-allows-alternative-browser-engines-in-japan/' | relative_url }}">ios allows alternative browser engines in japan</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
@@ -230,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/01</span>
   <h3><a href="{{ '/2026/01/01/china-drafts-worlds-strictest-rules-to-end-ai-enco/' | relative_url }}">china drafts worlds strictest rules to end ai enco</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/01</span>
+  <h3><a href="{{ '/2026/01/01/cameras-and-lenses/' | relative_url }}">cameras and lenses</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
