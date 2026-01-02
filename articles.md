@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/software-tool-for-sony-nw-a306/' | relative_url }}">software tool for sony nw a306</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/show-hn-enroll-a-tool-to-reverse-engineer-servers/' | relative_url }}">show hn enroll a tool to reverse engineer servers</a></h3>
 </div>
 <div class="article-row">
@@ -45,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/open-source-music-production-a-potential-github-pa/' | relative_url }}">open source music production a potential github pa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/moving-images-related-to-the-apollo-missions-19671/' | relative_url }}">moving images related to the apollo missions 19671</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/instagrams-head-adam-mosseri-says-the-aesthetic-th/' | relative_url }}">instagrams head adam mosseri says the aesthetic th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/im-a-developer-for-a-major-food-delivery-app/' | relative_url }}">im a developer for a major food delivery app</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/grok-claims-safeguards-tightened-after-users-misus/' | relative_url }}">grok claims safeguards tightened after users misus</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/freebsd-home-nas-part-1-configuring-zfs-mirror-rai/' | relative_url }}">freebsd home nas part 1 configuring zfs mirror rai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
@@ -86,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/coco-a-simple-stackless-single-threaded-and-header/' | relative_url }}">coco a simple stackless single threaded and header</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/chinas-byd-set-to-overtake-tesla-as-worlds-top-ev/' | relative_url }}">chinas byd set to overtake tesla as worlds top ev</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
