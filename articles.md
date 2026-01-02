@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/which-programming-resource-changed-your-career/' | relative_url }}">which programming resource changed your career</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/what-you-need-to-know-before-touching-a-video-file/' | relative_url }}">what you need to know before touching a video file</a></h3>
 </div>
 <div class="article-row">
@@ -97,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/punkt-unveils-mc03-smartphone/' | relative_url }}">punkt unveils mc03 smartphone</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/patching-the-boring-security-practice-that-could-s/' | relative_url }}">patching the boring security practice that could s</a></h3>
 </div>
 <div class="article-row">
@@ -110,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/offergridai-side-by-side-comparison-of-real-estate/' | relative_url }}">offergridai side by side comparison of real estate</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/new-york-teachers-stunned-to-learn-some-students-c/' | relative_url }}">new york teachers stunned to learn some students c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
@@ -201,6 +213,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/destination-driven-compilation/' | relative_url }}">destination driven compilation</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/designing-type-safe-syncasync-mode-support-in-type/' | relative_url }}">designing type safe syncasync mode support in type</a></h3>
 </div>
 <div class="article-row">
@@ -238,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/apple-reportedly-cuts-vision-pro-production-due-to/' | relative_url }}">apple reportedly cuts vision pro production due to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/apple-docs-parser-that-actually-works/' | relative_url }}">apple docs parser that actually works</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
