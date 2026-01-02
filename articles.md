@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/tesla-sales-fell-by-9-percent-in-2025-its-second-y/' | relative_url }}">tesla sales fell by 9 percent in 2025 its second y</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/tesla-loses-title-as-worlds-biggest-electric-vehic/' | relative_url }}">tesla loses title as worlds biggest electric vehic</a></h3>
 </div>
 <div class="article-row">
@@ -277,6 +281,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/darktable-styles-mimicing-fujifilms-film-simulatio/' | relative_url }}">darktable styles mimicing fujifilms film simulatio</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/corsair-cancels-users-3499-pc-order-then-rises-the/' | relative_url }}">corsair cancels users 3499 pc order then rises the</a></h3>
 </div>
 <div class="article-row">
@@ -286,6 +294,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/clicks-communicator/' | relative_url }}">clicks communicator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/classroom-phone-bans-work-so-why-dont-all-schools/' | relative_url }}">classroom phone bans work so why dont all schools</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
