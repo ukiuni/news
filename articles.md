@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/show-hn-muad-dib-open-source-tool-to-detect-npm-su/' | relative_url }}">show hn muad dib open source tool to detect npm su</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/show-hn-i-built-a-clipboard-tool-to-stripkeep-spec/' | relative_url }}">show hn i built a clipboard tool to stripkeep spec</a></h3>
 </div>
 <div class="article-row">
@@ -141,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/instagram-says-in-the-age-of-ai-you-cant-assume-wh/' | relative_url }}">instagram says in the age of ai you cant assume wh</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/instagram-ceo-more-practical-to-label-real-content/' | relative_url }}">instagram ceo more practical to label real content</a></h3>
 </div>
 <div class="article-row">
@@ -210,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/change-is-the-root-of-all-evil-bugs/' | relative_url }}">change is the root of all evil bugs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/bespoke-software-is-the-future/' | relative_url }}">bespoke software is the future</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
