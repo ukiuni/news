@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/the-one-true-way-fallacy-why-mature-developers-don/' | relative_url }}">the one true way fallacy why mature developers don</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/the-genesis-of-the-hello-world-programs/' | relative_url }}">the genesis of the hello world programs</a></h3>
 </div>
 <div class="article-row">
@@ -137,6 +141,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/miri-practical-undefined-behavior-detection-for-ru/' | relative_url }}">miri practical undefined behavior detection for ru</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/microsofts-satya-nadella-wants-you-to-stop-saying/' | relative_url }}">microsofts satya nadella wants you to stop saying</a></h3>
 </div>
 <div class="article-row">
@@ -197,6 +205,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/grok-blames-lapses-in-safeguards-after-posting-sex/' | relative_url }}">grok blames lapses in safeguards after posting sex</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/going-immutable-on-macos-using-nix-darwin/' | relative_url }}">going immutable on macos using nix darwin</a></h3>
 </div>
 <div class="article-row">
@@ -234,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/day-one-of-learning-javascript/' | relative_url }}">day one of learning javascript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/corsair-cancels-users-3499-pc-order-then-rises-the/' | relative_url }}">corsair cancels users 3499 pc order then rises the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
