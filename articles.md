@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/the-gdb-jit-interface/' | relative_url }}">the gdb jit interface</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/show-hn-enroll-a-tool-to-reverse-engineer-servers/' | relative_url }}">show hn enroll a tool to reverse engineer servers</a></h3>
 </div>
 <div class="article-row">
@@ -25,7 +29,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/grok-claims-safeguards-tightened-after-users-misus/' | relative_url }}">grok claims safeguards tightened after users misus</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/email-privacy-tester/' | relative_url }}">email privacy tester</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/change-is-the-root-of-all-evil-bugs/' | relative_url }}">change is the root of all evil bugs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/article-why-big-tech-turns-everything-into-a-knife/' | relative_url }}">article why big tech turns everything into a knife</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/apple-reportedly-cuts-vision-pro-production-due-to/' | relative_url }}">apple reportedly cuts vision pro production due to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
