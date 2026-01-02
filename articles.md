@@ -13,6 +13,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/why-i-switched-away-from-zig-to-c3/' | relative_url }}">why i switched away from zig to c3</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/were-not-concerned-enough-about-the-death-of-the-j/' | relative_url }}">were not concerned enough about the death of the j</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/webassembly-as-a-python-extension-platform/' | relative_url }}">webassembly as a python extension platform</a></h3>
 </div>
 <div class="article-row">
@@ -105,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/i-built-a-tool-to-stop-wasting-time-on-toxic-open/' | relative_url }}">i built a tool to stop wasting time on toxic open</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/happy-public-domain-day-2026/' | relative_url }}">happy public domain day 2026</a></h3>
 </div>
 <div class="article-row">
@@ -170,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/a-confession-from-a-mainstream-food-delivery-app-e/' | relative_url }}">a confession from a mainstream food delivery app e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/a-comment-preserving-cabal-parser/' | relative_url }}">a comment preserving cabal parser</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
