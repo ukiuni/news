@@ -59,6 +59,3 @@ json
 - 外部サービス依存はモックを同梱してローカルで完結させる。  
 - 最終的に「コンテンツもコードでレビューする」文化を育てる（マーケとエンジニアが同じPRフローで協業）。
 
-## 引用元
-- タイトル: Everything as Code: How We Manage Our Company In One Monorepo
-- URL: https://www.kasava.dev/blog/everything-as-code-monorepo

@@ -49,6 +49,3 @@ excerpt: "洗濯機の基板・通信を解析してクラウド不要で安全�
 - 法律・保証・倫理
   - 分解や改変は保証対象外になり得る。商用目的や製造元の利用規約違反になる可能性もあるため、個人研究は自己責任で、重要な場面ではメーカーと協議する。
 
-## 引用元
-- タイトル: Hacking Washing Machines [video]  
-- URL: https://media.ccc.de/v/39c3-hacking-washing-machines

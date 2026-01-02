@@ -47,6 +47,3 @@ CustomPasteはWindows上で動作するローカルなクリップボード変�
 4. VS CodeやExcel、Wordなど主要アプリでの互換性を確認し、Quick Menuのホットキーを自分の習慣に割り当てる。  
 5. 既存のクリップボードマネージャと併用する場合は優先順位（どちらがCtrl+Vに介入するか）を確認する。
 
-## 引用元
-- タイトル: Show HN: I built a clipboard tool to strip/keep specific formatting like Italics  
-- URL: https://custompaste.com

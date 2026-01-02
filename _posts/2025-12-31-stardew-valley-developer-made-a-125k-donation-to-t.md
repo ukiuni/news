@@ -31,6 +31,3 @@ MonoGameはXNA互換のC#ベースでクロスプラットフォームなゲー�
 - 財政支援の活用方法: バウンティ制度を活用して外部開発者に報酬を与えることで、短期的に機能追加やバグ修正を進められる。日本語でのバウンティ募集やハッカソン開催も有効な手段。  
 - 技術移行の注意点: Unityなど大規模エンジンと比較して機能実装はより手作業になるため、開発リソースと目的に応じた選定を。
 
-## 引用元
-- タイトル: Stardew Valley developer made a $125k donation to the FOSS C# framework MonoGame  
-- URL: https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/

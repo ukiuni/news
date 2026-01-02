@@ -41,6 +41,3 @@
 - 付加価値提供：翻訳、注釈、音声化、縦書きEPUB化など、日本語市場向けに再編集・再配布できる分野が多い（ただし権利確認は必須）。
 - コントリビュート：Standard Ebooksはボランティア参加を受け入れている。校正やローカライズで貢献すると、コミュニティと高品質データにアクセスできる。
 
-## 引用元
-- タイトル: Standard Ebooks: Public Domain Day 2026 in Literature  
-- URL: https://standardebooks.org/blog/public-domain-day-2026

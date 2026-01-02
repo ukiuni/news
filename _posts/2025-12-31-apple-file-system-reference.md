@@ -39,6 +39,3 @@ macOS/iOSエコシステムで動くアプリやバックアップ、ストレ�
 - 運用の鉄則：APFSに変換・アップグレードする前に完全バックアップを取得。特にFusion Driveや外部ストレージでの挙動は事前検証を。
 - トラブル時の初動：ディスク関連問題が疑われたらすぐにスナップショット一覧とdiskutilの出力を保存して運用チームやAppleサポートへ共有する。
 
-## 引用元
-- タイトル: Apple File System Reference
-- URL: https://developer.apple.com/support/downloads/Apple-File-System-Reference.pdf

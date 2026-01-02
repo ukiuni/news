@@ -101,6 +101,3 @@ def solve_pokemon_team(number_pkmn, number_types, types_matrix, pkmn_base_stat, 
 - 計算負荷が増えたら：LP緩和で上界を確認、ヒューリスティックで初期解を与える、ソルバーの切り替えを検討。
 - 教育用途として有用：ゲーム題材でORの基本（LP、MIP、ビッグM、分枝限定）を学ぶのは非常に効果的。
 
-## 引用元
-- タイトル: Pokémon Team Optimization
-- URL: https://nchagnet.pages.dev/blog/pokemon-team-optimization/

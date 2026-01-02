@@ -46,6 +46,3 @@ excerpt: "フランス、2026年9月から15歳未満のSNS利用を原則禁止
   - 外部の年齢認証APIを試験導入して運用コストと効果を評価する。  
   - 行動ベースのリスクスコアリングを補助的に使い、疑わしいアカウントに追加確認を要求する。
 
-## 引用元
-- タイトル: France aims to ban under-15s from social media from September 2026  
-- URL: https://www.reuters.com/world/france-aims-ban-under-15s-social-media-september-2026-le-monde-reports-2025-12-31/

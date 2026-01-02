@@ -42,6 +42,3 @@ AIコーディング支援が普及する今、日本のOSSコミュニティや
 - 企業内運用
   - 社内でAI支援を使う場合もOSS寄稿時の明記ルールを作り、法務・著作権チェックを組み込む。
 
-## 引用元
-- タイトル: We don't need more contributors who aren't programmers to contribute code
-- URL: https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159

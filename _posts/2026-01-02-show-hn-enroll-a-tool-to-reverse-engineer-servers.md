@@ -63,6 +63,3 @@ enroll diff --old /path/to/harvestA --new /path/to/harvestB --format markdown
 ```
 - 運用上の注意：--no-sudoは情報が制限されるので、完全な再現性が必要ならsudo権限でのHarvestを検討する。
 
-## 引用元
-- タイトル: Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt  
-- URL: https://enroll.sh

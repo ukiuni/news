@@ -57,6 +57,3 @@ PostgreSQLの関数定義を「型の単一原典」にして、NpgsqlRestで自
 - NpgsqlRestで生成したTypeScriptクライアントはコミットせず、CIで毎回生成してコンパイルを通す運用にすると古い型の残存を防げる。
 - 日本のチームでは、DB管理者とフロント/バックエンドの責任分担を明確化し、関数定義の変更はレビュープロセス（DBとAPI契約のレビュー）を必須にする。
 
-## 引用元
-- タイトル: End-to-End Static Type Checking: PostgreSQL to TypeScript | NpgsqlRest
-- URL: https://npgsqlrest.github.io/blog/end-to-end-static-type-checking-postgresql-typescript.html

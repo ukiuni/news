@@ -88,6 +88,3 @@ ORDER BY embedding <=> '[...]'
 LIMIT 10;
 ```
 
-## 引用元
-- タイトル: Postgres extension complements pgvector for performance and scale
-- URL: https://github.com/timescale/pgvectorscale

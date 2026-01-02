@@ -121,6 +121,3 @@ Otel Collector 側での PID フィルタ（概念）:
 - 多数コンテナ環境では Otel Collector 側で service.instance_id を使ってフィルタ処理するのが現実的。OBI の PID フィルタが未成熟な場合の回避策として有効。
 - 監視体制に組み込む際は Prometheus/Grafana/Jaeger を組み合わせてダッシュボード化し、アラート閾値を設定しておく。
 
-## 引用元
-- タイトル: Zero-Code Instrumentation of an Envoy TCP Proxy Using eBPF
-- URL: https://sergiocipriano.com/beyla-envoy.html

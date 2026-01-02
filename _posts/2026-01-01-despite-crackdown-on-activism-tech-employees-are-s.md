@@ -38,6 +38,3 @@
   - 日本企業は直接対立を回避しがちだが、早期の対話文化整備や安全な通報チャネルは海外での学びを取り入れやすい。
   - AI倫理やサプライチェーン問題など、グローバル基準に合わせたガバナンス整備は海外市場での信頼維持に直結する。
 
-## 引用元
-- タイトル: Despite Crackdown on Activism, Tech Employees Are Still Picking Fights
-- URL: https://www.nytimes.com/2025/12/26/business/tech-employees-activism-kickstarter.html

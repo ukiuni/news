@@ -73,6 +73,3 @@ data, err := os.read_entire_file("path/to/file.txt", context.allocator)
 - プラットフォーム固有コードの削除依存を排除：移植性を高めるため platform-specific なAPIに頼る箇所を抽象化する。  
 - 依存管理：core:os の正式移行時に備え、バージョンピン／リリースノート監視で破壊的変更を見逃さない。
 
-## 引用元
-- タイトル: Odin: Moving Towards a New "core:OS"  
-- URL: https://odin-lang.org/news/moving-towards-a-new-core-os/

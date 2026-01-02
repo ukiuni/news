@@ -55,6 +55,3 @@ Hidden Palace のリリースで明かされたE3版Shadow the Hedgehogなどの
 - コミュニティと連携：Hidden Palace のような保存コミュニティはノウハウ共有の場。技術的相談や比較検証に参加する。  
 - 法的確認：公開前に権利関係を確認し、合法的な範囲でアーカイブを行う。
 
-## 引用元
-- タイトル: Demystifying DVDs  
-- URL: https://hiddenpalace.org/News/One_Bad_Ass_Hedgehog_-_Shadow_the_Hedgehog#Demystifying_DVDs

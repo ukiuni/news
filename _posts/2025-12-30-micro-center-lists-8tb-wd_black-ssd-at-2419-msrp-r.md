@@ -38,6 +38,3 @@ Micro Centerの店頭表示をきっかけに、8TBクラスのNVMe SSDが今年
 - 分散調達と在庫ポリシーの見直し：企業は調達期間の長期化や安全在庫の見直しを検討する価値あり。
 - 情報源をチェック：TrendForce、DRAMeXchangeなどのレポートや主要メーカーの発表、販売サイトの実勢価格を定期的に監視する。
 
-## 引用元
-- タイトル: Micro Center lists 8TB WD_Black SSD at $2,419 MSRP, real price tag up 50% since October — pricing surges on high-capacity SSDs in response to AI demand  
-- URL: https://www.tomshardware.com/pc-components/ssds/micro-center-puts-up-8tb-wd-black-ssd-at-usd2-419-msrp-real-price-tag-up-50-percent-since-october-pricing-surges-on-high-capacity-ssds-in-response-to-ai-demand

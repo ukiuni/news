@@ -65,6 +65,3 @@ it('presentation should not depend on database', async () => {
 - Nxを使っているならプロジェクトグラフ検証を有効化して、命名規約／タイプ境界を自動チェックする。  
 - 空テスト保護を有効にして、パターン指定ミスによるスルーを防ぐ。
 
-## 引用元
-- タイトル: ArchUnitTS vs eslint-plugin-import: My side project reached 200 stars on GitHub  
-- URL: https://lukasniessen.medium.com/archunitts-vs-eslint-plugin-import-my-side-project-reached-200-stars-on-github-63629fad96ab

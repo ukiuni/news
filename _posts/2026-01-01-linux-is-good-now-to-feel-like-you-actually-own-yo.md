@@ -37,6 +37,3 @@ WindowsのUI・サービスの強化やAI周りの商業化に不満を持つ日
 - ドライバとファームウェア：NVIDIAやAMDの固有ドライバ、ファームウェアは公式ドキュメントを参照して導入。オープンソースドライバ（Mesa等）も性能向上中なので比較検討を。  
 - 運用の工夫：メディアサーバならDebianで長期運用、開発・実験ならスナップショット・コンテナを活用して環境管理を楽にする。
 
-## 引用元
-- タイトル: Linux is good now; to feel like you actually own your PC, put Linux on it  
-- URL: https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/

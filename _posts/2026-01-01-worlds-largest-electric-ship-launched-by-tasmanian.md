@@ -33,6 +33,3 @@ excerpt: "全長130m・40MWh電池の世界最大電動フェリーが進水、�
 - 産業側の注目点：船体設計、熱管理モジュール、パワーエレクトロニクス、高出力充電器はビジネスチャンス。二次利用（陸上蓄電）設計も検討を。
 - 技術ウォッチ：比エネルギー向上（固体電池等）や充電速度向上が進めば、同種の電化は短期間で拡大するためサプライチェーンの整備を急ぐ。
 
-## 引用元
-- タイトル: Worlds largest electric ship launched by Tasmanian boatbuilder
-- URL: https://www.theguardian.com/australia-news/2025/may/02/hull-096-worlds-largest-electric-ship-battery-power-launched

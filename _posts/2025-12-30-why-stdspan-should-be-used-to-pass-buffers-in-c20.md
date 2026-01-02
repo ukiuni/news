@@ -73,6 +73,3 @@ int main() {
 - コピー・アロケーションが問題になるパス（組込み、ゲーム、低レイテンシ）では、std::spanで不要なコピーを排除して性能と安全性を両立する。
 - CIで使うコンパイラのC++20サポート状況を確認し、std::span利用に伴うビルドポリシーを整備する。
 
-## 引用元
-- タイトル: Why std::span Should Be Used to Pass Buffers in C++20
-- URL: https://techfortalk.co.uk/2025/12/30/stdspan-c20-when-to-use-and-not-use-for-safe-buffer-passing/

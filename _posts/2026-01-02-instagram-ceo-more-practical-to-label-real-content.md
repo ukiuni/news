@@ -38,6 +38,3 @@ AI時代に効く「本物バッジ」戦略──インスタCEOが示す、信
 - クリエイター：AIを使う場合は明確に開示し、可能なら撮影原本（RAW）や署名付きファイルを保存しておく。  
 - 一般ユーザー：信頼シグナル（認証バッジや署名情報）を確認し、出所不明の「らしさ」にだけ依存しない習慣を付ける。
 
-## 引用元
-- タイトル: Instagram CEO: More practical to label real content versus AI
-- URL: https://mashable.com/article/instagram-ceo-label-real-content

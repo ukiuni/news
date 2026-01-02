@@ -43,6 +43,3 @@ HSBCのモバイルアプリが、F‑DroidからインストールしたBitward
 - 開発者はアプリが行う端末検査の実装を理解しておく。署名やビルド環境の違いで動作が変わる点は特に注意。  
 - 金融サービス利用時は、事前に利用規約やサポート文書で対応環境を確認する。
 
-## 引用元
-- タイトル: HSBC blocks its app due to F-Droid-installed Bitwarden  
-- URL: https://mastodon.neilzone.co.uk/@neil/115807834298031971

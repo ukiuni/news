@@ -34,6 +34,3 @@
 - 研究/投資：卵子凍結やIVF、長寿技術はニッチだが注目分野。倫理・法規制・コストの壁をプロダクト設計でどう緩和するかが勝負。  
 - 組織設計：エンジニアやマネージャーは「育児・介護で失われる“現場時間”」を前提にした柔軟な勤務モデル（非同期コミュニケーション、時間バジェット設計）を導入する。
 
-## 引用元
-- タイトル: Real Biological Clock Is You're Going to Die  
-- URL: https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/

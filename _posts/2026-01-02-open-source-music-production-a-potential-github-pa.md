@@ -52,6 +52,3 @@ StemHub（リポジトリ: disbelief2389/stem）は、音楽制作をソフト�
 - ライセンス確認:
   - CC0は自由だが、サンプルやボーカル素材は別途権利処理が必要。提供素材は明記する。
 
-## 引用元
-- タイトル: Open-source music production - a potential GitHub parallel  
-- URL: https://github.com/disbelief2389/stem

@@ -46,6 +46,3 @@ Squeakの「イメージ＋軽量VM」という設計は、ライブコーディ
 - モダン化のヒント
   - イメージの長所（状態の丸ごと保存）を、現代のコンテナや継続性保存と組み合わせて使う。例えば実験環境のスナップショット運用や、開発中の状態をCIに持ち込む等。
 
-## 引用元
-- タイトル: Back to the future: the story of Squeak, a practical Smalltalk written in itself (1997)
-- URL: http://www.vpri.org/pdf/tr1997001_backto.pdf

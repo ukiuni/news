@@ -41,6 +41,3 @@ excerpt: "ヘルシンキ大が低温・低エネルギーでCO2を回収する�
 - エコシステム構築：
   - この種の新手法は単独では完結しない。捕集したCO2の利用（合成燃料、化学原料、鉱化）や貯留のパートナーと連携するロードマップを早期に描く。
 
-## 引用元
-- タイトル: Efficient method to capture carbon dioxide from the atmosphere developed at the University of Helsinki  
-- URL: https://www.helsinki.fi/en/news/innovations/efficient-method-capture-carbon-dioxide-atmosphere-developed-university-helsinki

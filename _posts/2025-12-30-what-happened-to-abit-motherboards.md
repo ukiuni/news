@@ -42,6 +42,3 @@ Abitは1990年代のオーバークロッカーと自作派を熱狂させた名
   3. BIOSを吸出し／バックアップしてから起動。  
 - 学び：価格競争で部品が落ちるとブランドは致命的ダメージを受ける。ハードウェア設計者の流出やガバナンス問題も長期的信頼に直結する。
 
-## 引用元
-- タイトル: What Happened to Abit Motherboards  
-- URL: https://dfarq.homeip.net/what-happened-to-abit-motherboards/

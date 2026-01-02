@@ -57,6 +57,3 @@ const avgScore = statistics.mean(students, 'score');
 - 標本か母集団かを明示：variance/stdev のオプション（isSample）をデータの性質に応じて使い分ける。
 - 実データでベンチ：ライブラリの「5–10x」という数値はデータ分布や実装環境で変わるため、自分のデータセットでベンチマークを取り検証する。
 
-## 引用元
-- タイトル: Building a lightweight JS/TS statistical library: challenges and design choices
-- URL: https://webpeakkofficial.web.app/mintstats/

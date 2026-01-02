@@ -67,6 +67,3 @@ docker compose up -d
   - サンドボックスは強いが完全無謬ではないため、定期的なセキュリティレビューとアップデート運用が必要。  
   - 大量リクエストや重いCPU処理はランナー数/リソース設計でコストが変わるため事前検証を推奨。
 
-## 引用元
-- タイトル: OpenWorkers: Self-Hosted Cloudflare Workers in Rust  
-- URL: https://openworkers.com/introducing-openworkers

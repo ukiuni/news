@@ -37,6 +37,3 @@ excerpt: "電力制約の時代、性能/ワット重視でC++26とRustが復権
 - 運用と対策強化：言語の安全機能だけに頼らず、ランタイム監視・ホワイトリスト化・ユーザ教育など運用層の対策もセットで実施する。  
 - 日本市場への配慮：電力制約や施設スペースの制限が厳しい国内エッジ・組込み領域、車載やファクトリーIoTでは性能/ワット最適化が直接の競争力になるため早めの技術評価を推奨。
 
-## 引用元
-- タイトル: Why have C++ and Rust been the fastest-growing major programming languages from 2022 to 2025?  
-- URL: https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/

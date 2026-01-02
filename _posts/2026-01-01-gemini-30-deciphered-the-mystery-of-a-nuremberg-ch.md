@@ -66,6 +66,3 @@ Gemini 3.0（マルチモーダルLLM）が、1493年刊行のニュルンベル
 - コスト感と効率  
   元記事では高解像度画像を与えた上での解析が低コスト（数セント相当）だったと報告されており、試験運用は比較的リーズナブルに行える。まずは小規模なコレクションでPOCを回すのが現実的。
 
-## 引用元
-- タイトル: Gemini 3.0 Deciphered the Mystery of a Nuremberg Chronicle Leaf's  
-- URL: https://blog.gdeltproject.org/gemini-as-indiana-jones-how-gemini-3-0-deciphered-the-mystery-of-a-nuremberg-chronicle-leafs-500-year-old-roundels/

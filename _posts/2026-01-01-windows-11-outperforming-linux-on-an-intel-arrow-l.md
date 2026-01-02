@@ -44,6 +44,3 @@ Phoronixのベンチマークで、Lenovo ThinkPad P1 Gen 8（Intel Core Ultra 7
   - OEM固有のACPI設定や firmware 動作をログで調査
 - 運用方針：短期的に「Windowsを採用する」選択肢も現実的。長期的にはメーカーやコミュニティの対応を見て再検討する。
 
-## 引用元
-- タイトル: Windows 11 Outperforming Linux on an Intel Arrow Lake H Laptop
-- URL: https://www.phoronix.com/review/windows-beats-linux-arl-h

@@ -64,6 +64,3 @@ excerpt: "設計・性能・低レイヤを学べる73の実践プロジェク�
 - 倫理面の配慮：顔合成や監視技術などは利用目的とリスクを明確にし、法令順守する。
 - ローカルデータ活用：地図や交通データは国土地理院やオープンデータを活用して日本実装を試す。
 
-## 引用元
-- タイトル: Project ideas to appreciate the art of programming
-- URL: https://codecrafters.io/blog/programming-project-ideas

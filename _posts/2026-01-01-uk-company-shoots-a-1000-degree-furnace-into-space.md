@@ -32,6 +32,3 @@ excerpt: "英企業が宇宙で1000℃炉を稼働、数千倍純度チップを
 - 政策・環境面：打ち上げによる環境負荷と国際的な輸出管理・安全基準（技術管理）を織り込んだ長期投資評価が必要。
 - 実務レベル：大学・公的研究機関は短期での軌道実験（小型衛星/キューブサット）を利用した検証を進め、産学連携でエビデンスを積むことが現実的な第一歩。
 
-## 引用元
-- タイトル: UK company shoots a 1000-degree furnace into space to study off-world chip manufacturing — semiconductors made in space could be 'up to 4,000 times purer' than Earthly equivalents
-- URL: https://www.tomshardware.com/tech-industry/semiconductors/uk-company-shoots-a-1000-degree-furnace-into-space-to-study-off-world-chip-manufacturing-semiconductors-made-in-space-could-be-up-to-4-000-times-purer-than-earthly-equivalents

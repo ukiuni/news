@@ -40,6 +40,3 @@ BYDの台頭は単なる販売台数の話ではなく、量産力・コスト�
 - 海外戦略の再評価：特に東南アジア・欧州での価格競争に対する参入障壁（ブランド、サービス）を整備する。  
 - 政策連携と標準化：政府や業界団体と連携し、充電網やリサイクル法規制への対応を進める。
 
-## 引用元
-- タイトル: BYD Sells 4.6M Vehicles in 2025, Meets Revised Sales Goal  
-- URL: https://www.bloomberg.com/news/articles/2026-01-01/byd-sells-4-6-million-vehicles-in-2025-meets-revised-sales-goal

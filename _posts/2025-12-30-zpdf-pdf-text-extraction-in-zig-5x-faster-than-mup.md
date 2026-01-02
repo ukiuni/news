@@ -62,6 +62,3 @@ pub fn main() !void {
 - パフォーマンスTips：必ず ReleaseFast ビルド、メモリマップが可能な環境で動かす。大量ページの処理では並列モードが有効。
 - 安定性・採用判断：MITライセンスで導入しやすいが、リポジトリはまだ小規模（スター数など）なので、プロダクション採用時は耐障害性とエッジケース（特殊フォント・壊れたPDF）を自前で検証・補完すること。
 
-## 引用元
-- タイトル: Zpdf: PDF text extraction in Zig – 5x faster than MuPDF
-- URL: https://github.com/Lulzx/zpdf

@@ -53,6 +53,3 @@ while ((*q = getchar()) != '\n') {
 - レガシー環境の修正は、必ずテスト（長大入力、境界値、異常終了）を行い、setuid バイナリの権限設定と署名／監査を併用する。  
 - 歴史的資料としての意味も大きい：ソースとツールが揃っていれば「その場で直して動かして学べる」環境は教育資産になる。
 
-## 引用元
-- タイトル: Fixing a Buffer Overflow in UNIX v4 Like It's 1973  
-- URL: https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/

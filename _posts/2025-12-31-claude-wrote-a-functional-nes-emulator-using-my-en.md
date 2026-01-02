@@ -37,6 +37,3 @@ AI（Claude）が、CarimboというゲームエンジンのAPIを利用して�
 - 法的・倫理的注意：ゲームROMは著作権物。検証は自分が所有するROMか、公開が許諾されたテストROMで行う。  
 - 日本市場での応用例：レトロゲームの教育コンテンツ、ゲームプログラミングの教材、ハッカソンやゲームジャムでのプロトタイピング。AIを使った「解説付き学習教材」を作れば、ファミコン世代の学習ニーズに刺さる。
 
-## 引用元
-- タイトル: Claude wrote a functional NES emulator using my engine's API  
-- URL: https://carimbo.games/games/nintendo/

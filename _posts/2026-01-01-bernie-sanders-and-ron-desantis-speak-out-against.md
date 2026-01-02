@@ -38,6 +38,3 @@ AI時代の「電力負荷」と政治リスク：データセンター反対運
 - コミュニティと前向きに対話：地域の電気料金や雇用、環境影響について透明に説明し、地域還元策を用意する。
 - 規制・政策対応を注視：自治体の新ルールや国の再エネ政策、送配電の優先順位変更などが事業計画に与える影響を常時モニタリングする。
 
-## 引用元
-- タイトル: Bernie Sanders and Ron DeSantis speak out against data center boom. It's a bad sign for AI industry
-- URL: https://www.cnbc.com/2026/01/01/ai-data-centers-bernie-sanders-ron-desantis-electricity-prices.html

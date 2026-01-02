@@ -52,6 +52,3 @@ Dafnyで状態遷移を形式検証し、検証済みの状態管理をJavaScrip
   - 変換結果をロギングしてJS側の形状を確認する
   - 証明は別ファイルにしてCIで再検証可能にする
 
-## 引用元
-- タイトル: Building a React App with Formally Verified State  
-- URL: https://midspiral.com/blog/building-a-react-app-with-formally-verified-state/

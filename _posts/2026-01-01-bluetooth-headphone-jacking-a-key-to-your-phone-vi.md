@@ -34,6 +34,3 @@
 - 専門家向け: 研究チームが公開したツールで検査し、ファーム書き換えが必要な場合は信頼できる手順で対応する（不慣れな操作はデバイス破損や保証消失のリスクあり）。
 - 企業は供給網をチェック: ブランドだけでなくSoC/ODMの出自を確認し、脆弱性対応体制をベンダーに要求する。
 
-## 引用元
-- タイトル: Bluetooth Headphone Jacking: A Key to Your Phone [video]
-- URL: https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone

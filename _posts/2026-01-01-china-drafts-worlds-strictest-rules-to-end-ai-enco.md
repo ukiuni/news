@@ -42,6 +42,3 @@
 - グローバル戦略：中国市場向けに追加要件を満たす設計を行うと、同基準が他市場の期待値になる可能性が高い。日本展開でも同様のガバナンス導入を検討する。
 - 法務・運用連携：規制順守のためプロダクト・法務・カスタマーサポートを早期に連携させる。
 
-## 引用元
-- タイトル: China drafts world’s strictest rules to end AI-encouraged suicide, violence
-- URL: https://arstechnica.com/tech-policy/2025/12/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence/

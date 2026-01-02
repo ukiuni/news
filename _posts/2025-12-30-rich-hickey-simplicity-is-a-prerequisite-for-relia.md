@@ -50,6 +50,3 @@ excerpt: "絡み合いを排して不変性と純関数で保守コストを下�
 - 変更のコストを測る：1つの変更が波及する箇所数を指標化し、改善前後で比較する（複雑さの定量的評価）。  
 - チーム文化：短期の「動くもの優先」ではなく、将来の保守性に投資する判断をドキュメント化する。POやマネジメントに説明できる形でメリットを示す。
 
-## 引用元
-- タイトル: Rich Hickey: Simplicity is a prerequisite for reliability  
-- URL: https://www.infoq.com/presentations/Simple-Made-Easy/

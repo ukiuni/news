@@ -55,6 +55,3 @@ SNSに「たばこ式」警告表示を導入──若年利用の長時間利�
 - 法務・コンプライアンスと連携する  
   ログ保存や違反リスク評価のための監査体制、地域別の法対応戦略を早期に確立する。
 
-## 引用元
-- タイトル: New York wants social media to carry tobacco-style health warnings  
-- URL: https://www.techspot.com/news/110761-social-media-faces-tobacco-style-health-warnings-new.html

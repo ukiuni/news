@@ -54,6 +54,3 @@ excerpt: "億万長者がアパラチアに巨大ユートピア都市Telosaを�
   - 大規模ビジョンは機会とリスクが両面あるため、段階的な意思決定と撤退基準を明確にする。  
   - 日本企業は技術提供だけでなく、地域能力強化や雇用創出に寄与するコミットメントを示すと受け入れられやすい。
 
-## 引用元
-- タイトル: A Billionaire Wants to Reinvent Appalachia with a Utopian City, And the Plan Is Bigger Than Anyone Expected  
-- URL: https://appalachianmemories.org/2025/12/30/a-billionaire-wants-to-reinvent-appalachia-with-a-utopian-city-and-the-plan-is-bigger-than-anyone-expected/

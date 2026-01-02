@@ -45,6 +45,3 @@ Henryの論考は、インターネットの「工業化」と注意経済が個
 - 組織的な一歩
   - 企業ではブランドサイトのCMS設計に「エクスポート可能」「APIロックイン回避」を要件に加える。クリエイター支援なら収益分配の透明性とコンテンツ所有の確保を優先する。
 
-## 引用元
-- タイトル: A website to destroy all websites
-- URL: https://henry.codes/writing/a-website-to-destroy-all-websites/

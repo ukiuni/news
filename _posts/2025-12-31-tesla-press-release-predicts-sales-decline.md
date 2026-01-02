@@ -39,6 +39,3 @@ excerpt: "テスラが2025年販売減と蓄電拡大を示し、日本市場と
 - 自動車エンジニア／製品企画：モデル更新のスピードが差別化要因。UX・ソフト・運用サービスで競争優位を作る。
 - 投資家・アナリスト：公開された「アナリスト合意」は参考値に過ぎないため、四半期ごとの実績と政策・ブランドリスク（CEOの発言等）を組み合わせてリスク評価する。
 
-## 引用元
-- タイトル: Tesla Press Release Predicts Sales Decline
-- URL: https://cleantechnica.com/2025/12/30/tesla-press-release-predicts-sales-decline/

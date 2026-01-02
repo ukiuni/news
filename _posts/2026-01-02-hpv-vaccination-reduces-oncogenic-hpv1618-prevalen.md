@@ -50,6 +50,3 @@
 - 日本への示唆
   - 日本では過去の接種率低下や再開状況から、デンマークの「高接種・安定効果」をそのまま期待できない可能性がある。まずは接種カバレッジ向上と、型別監視体制の強化が重要。
 
-## 引用元
-- タイトル: HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark  
-- URL: https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820

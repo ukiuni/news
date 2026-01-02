@@ -45,6 +45,3 @@
 - 日本の銀行対応：ドイツ向けの実装例を参照しつつ、日本の銀行CSVフォーマットに合わせたインポーターを自作またはコミュニティ実装を探す（銀行ごとにエクスポート仕様が異なるため、テンプレート化が鍵）。  
 - すぐ使えるコマンド：bean-queryで年別集計やカテゴリ別集計を作り、月次レビューで使いこなす。
 
-## 引用元
-- タイトル: 10 years of personal finances in plain text files  
-- URL: https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/

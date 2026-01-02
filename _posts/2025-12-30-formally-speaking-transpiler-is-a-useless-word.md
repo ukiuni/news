@@ -50,6 +50,3 @@ PLコミュニティは言語操作を厳密に考えるためのモデルをい
 - 新機能を古いランタイムへ落とす（Babel型）なら「局所変換」で済むことも多いが、this、例外、メタプログラミングなどはグローバルな対応が必要。既存の成熟したトランスパイラ／コンパイラを活用するのが現実的。
 - 自作のトランスパイラを作るなら、意味保存を証明するか、少なくとも仕様に基づくテストスイートを必須にする。
 
-## 引用元
-- タイトル: Formally speaking, "Transpiler" is a useless word
-- URL: https://people.csail.mit.edu/rachit/post/transpiler-formal/

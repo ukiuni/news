@@ -80,6 +80,3 @@ excerpt: "ClickHouse開発者推奨の高速化・圧縮・分散検証に強い
 
 日本の現場では「短納期で安定運用」かつ「コスト制約」があるため、上の実践ポイントを小さく回して成果を示すことが有効です。特に圧縮やプロファイリングは短期間で投資回収につながりやすい領域です。
 
-## 引用元
-- タイトル: Good technology blogs: a reading list for the holidays
-- URL: https://clickhouse.com/blog/tech-blogs

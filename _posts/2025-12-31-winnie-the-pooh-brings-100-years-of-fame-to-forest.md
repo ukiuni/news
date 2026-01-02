@@ -33,6 +33,3 @@ excerpt: "プーさん100年でアッシュダウンの森が観光DX化、保�
 - ビジネス側: 長年にわたるIPの価値化モデル（商品、イベント、体験収益）から学び、日本の地域IPの育成やライセンス戦略を検討する。
 - 保全とUXの両立: 新しいトレイルやインフラは保護区域を避ける設計が必要。ジオフェンシングやデジタル案内で来訪者を誘導すると有効。
 
-## 引用元
-- タイトル: Winnie-the-Pooh brings 100 years of fame to forest
-- URL: https://www.bbc.com/news/articles/c4g9dzj1xj3o

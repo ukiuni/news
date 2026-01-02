@@ -33,6 +33,3 @@ excerpt: "海底ケーブル切断で貨物船Fitburgが押収、地域と日本
 - 法制度・罰則整備：故意・過失を問うための証拠保全（AISログ、錨痕、酸化・摩耗痕のサンプル採取）と国際協力を推進する。
 - 企業の対策：サプライチェーンで“海底ケーブル依存度”を可視化し、衛星通信やローカルキャッシュの活用など事業継続計画（BCP）を見直す。
 
-## 引用元
-- タイトル: Finnish authorities seize cargo ship Fitburg and crew after undersea cable cut, pursuing criminal charges — Finnish special forces board ship, detain all 14 crewmembers | Cables and pipelines in the Gulf of Finland have been damaged four times in less than 1.5 years.
-- URL: https://www.tomshardware.com/peripherals/cables-connectors/finnish-authorities-seize-ship-and-crew-after-undersea-cable-cut-pursuing-criminal-charges-finnish-special-forces-board-ship-detain-all-14-crewmembers

@@ -37,6 +37,3 @@ Claude Insiderは、Claude AI（Anthropic系）を実運用まで導くための
 - プロンプト資産を再利用: Claude Insiderのプロンプトライブラリをベースに、日本語向けに微調整してテンプレート化する。
 - コミュニティに貢献: 日本固有のユースケース（例: 法務文書、カスタマーサポート日本語テンプレ）をリソースとして投稿すれば相互恩恵が得られる。
 
-## 引用元
-- タイトル: Claude Insider - Tips, Tricks & Documentation for Claude AI
-- URL: https://www.claudeinsider.com

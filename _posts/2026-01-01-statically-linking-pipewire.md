@@ -59,6 +59,3 @@ pub export fn __wrap_dlsym(handle: ?*anyopaque, name: [*:0]u8) callconv(.c) ?*an
 }
 ```
 
-## 引用元
-- タイトル: Statically Linking PipeWire
-- URL: https://gamesbymason.com/blog/2025/statically-linking-pipewire/

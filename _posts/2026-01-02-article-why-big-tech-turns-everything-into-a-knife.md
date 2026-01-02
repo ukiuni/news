@@ -45,8 +45,3 @@
 - 規制リスクを監視する：プラットフォーマーの行動や政策動向を継続監視し、法務・政府対応を準備する。
 - 人材の定着力を高める：魅力的なプロダクトミッション、成長機会、柔軟な働き方で人材流出を抑える。
 
-## 引用元
-- タイトル: Article: Why Big Tech Turns Everything Into a Knife Fight
-- URL: https://medium.com/@dmitrytrifonov/why-big-tech-turns-everything-into-a-knife-fight-42e221944ec8
-
-（注）元記事はアクセス制限により本文を直接取得できなかったため、公開されたタイトルと一般的な業界知見に基づいて要点を再構成しています。

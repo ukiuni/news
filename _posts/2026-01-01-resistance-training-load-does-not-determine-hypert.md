@@ -45,8 +45,3 @@ excerpt: "重さだけじゃない！追い込みと総負荷が筋肥大を決�
   - モニタリング：RPE（主観的運動強度）やレップス・イン・レザーブ（RIR）を使って「どれだけ追い込んだか」を定量化する。  
   - 回復管理：頻度・栄養（十分な蛋白質）・睡眠を最適化する。負荷だけでなく回復が総合的な成果を決める。
 
-## 引用元
-- タイトル: Resistance training load does not determine hypertrophy  
-- URL: https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684
-
-

@@ -58,6 +58,3 @@ excerpt: "推論とコーディングエージェントで2025年の開発現場
 - 人材とスキル投資を怠らない  
   - 推論の「ダイヤル」（reasoning量）やツールチェイン設計を理解できるエンジニアは希少。社内で知識共有とハンズオンを行う。
 
-## 引用元
-- タイトル: 2025: The Year in LLMs  
-- URL: https://simonwillison.net/2025/Dec/31/the-year-in-llms/

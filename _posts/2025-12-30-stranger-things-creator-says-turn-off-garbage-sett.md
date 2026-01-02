@@ -45,6 +45,3 @@ excerpt: "ストレンジャー・シングス制作者が警告、視聴前に�
 - 日本市場向けメモ：BRAVIAやパナソニックなどの日本メーカーでも同様の名称やプリセットがあるので、上記用語に対応する項目を探す（例：フレーム補間は「モーション補間」「倍速」表記のことが多い）。
 - 簡易テスト：暗いシーンや肌のトーンが出るシーンで違いを比べ、監督意図に近い落ち着いた色調・自然な動きか確認する。
 
-## 引用元
-- タイトル: Stranger Things Creator Says Turn Off "Garbage" Settings
-- URL: https://screenrant.com/stranger-things-creator-turn-off-settings-premiere/

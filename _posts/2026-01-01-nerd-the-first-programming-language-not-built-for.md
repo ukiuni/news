@@ -42,6 +42,3 @@ fn calc a b op
 - ガバナンス設計：誰が要件を出し、誰が監査するのかを明確化。LLM出力の責任とトレーサビリティを定義する。
 - 技術観察：LLVM連携、トークナイザ挙動、生成コストの変動、OSSの成熟度（NERDはApache 2.0で公開）を継続的にウォッチする。
 
-## 引用元
-- タイトル: Nerd: The First Programming Language Not Built for Humans  
-- URL: https://www.nerd-lang.org/about

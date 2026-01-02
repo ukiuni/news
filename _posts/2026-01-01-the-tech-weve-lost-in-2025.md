@@ -46,6 +46,3 @@ excerpt: "AOLダイヤル終了、Humane撤退、iPhoneホーム削除…2025年
 - モバイルアプリやWebはジェスチャー操作を前提にしたUX/アクセシビリティテストを実施する（物理操作を好む層向けの設定も残す）。  
 - メモリやPCパーツの購入は計画的に。大口メーカーの戦略変更で在庫が動くため、主要ブランド（Samsung、SK Hynixなど）や互換性を確認して早めに手配する。
 
-## 引用元
-- タイトル: The Tech We've Lost in 2025  
-- URL: https://www.cnet.com/tech/the-tech-weve-lost-in-2025/

@@ -46,6 +46,3 @@
 - プラットフォームが表示する手数料と実際の財務フローの整合性を監査対象に加える。
 - 労働者を対象にしたアルゴリズムによる差別・搾取の検出手法を整備する。
 
-## 引用元
-- タイトル: I'm a developer for a major food delivery app
-- URL: https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/

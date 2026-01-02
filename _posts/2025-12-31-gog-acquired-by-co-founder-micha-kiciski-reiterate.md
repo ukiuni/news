@@ -37,6 +37,3 @@ CD ProjektからGOGを共同創業者ミハウ・キチンスキ氏が買収。�
 - 開発者/パブリッシャー（日本の小規模/中規模チーム向け）：DRMフリーを掲げることで国際的な信頼を得られる可能性がある。販売プラットフォーム選定時にライフタイム所有やバックアップ権を明示することを検討する。
 - 業界ウォッチ：配信プラットフォームの買収・統合動向、サブスクの契約条項（タイトル撤去条項等）を注視する。権利関係が複雑なタイトルは特に影響を受けやすい。
 
-## 引用元
-- タイトル: GOG acquired by co-founder Michał Kiciński, reiterates philosophy of ‘freedom, independence, and genuine control’ — CD Projekt sells platform to focus on creating games | GOG will continue releasing DRM-free games for gamers to enjoy forever.
-- URL: https://www.tomshardware.com/video-games/gog-acquired-by-co-founder-reiterates-philosophy-of-freedom-independence-and-genuine-control-cd-projekt-sells-platform-to-focus-on-creating-games

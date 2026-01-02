@@ -36,6 +36,3 @@ AIワークフローの要（データ/イベント基盤）としてKafkaを評
 - 大きなペイロードは参照化：モデル/埋め込みはオブジェクトストレージ＋URIを推奨。
 - 運用力の可視化：運用チームの経験やSRE体制を勘案し、選定基準に含める。
 
-## 引用元
-- タイトル: Evaluating Kafka for AI Orchestration – Should We Switch to Pulsar or Another Alternative?
-- URL: https://grok.com/share/bGVnYWN5_69e5dcb8-9609-45d3-bc70-c73440584384

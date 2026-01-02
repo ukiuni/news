@@ -40,6 +40,3 @@ excerpt: "Aflacで2265万人分のSSNや医療情報が流出、あなたのデ�
 - サードパーティ監査: ベンダーのセキュリティ評価とSLA、インシデント時の報告義務を契約で定める。
 - 利用者向けコミュニケーション: 簡潔で透明な通知、推奨アクション（パスワード変更、クレジット監視）を用意する。
 
-## 引用元
-- タイトル: Aflac data breach affects 22.65 million: SSNs, health info, and claims exposed
-- URL: https://www.yahoo.com/news/articles/aflac-data-breach-affects-22-204408345.html

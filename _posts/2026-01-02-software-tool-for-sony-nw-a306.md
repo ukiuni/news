@@ -46,6 +46,3 @@ SonyのNW-A306は「デジタルメディアプレーヤー」として公式ペ
 - 購入前にレビューとサポート情報を確認：日本国内での修理対応やファームウェア配布の有無で長期運用コストが変わります。  
 - 支払いオプションや返品ポリシーを活用：公式ページは分割や拡張返品を案内しているため、購入リスクを下げる手段があります。
 
-## 引用元
-- タイトル: Software tool for Sony NW-A306  
-- URL: https://electronics.sony.com/audio/walkman-digital-recorders/walkman-mp3-players/p/nwa306-b?srsltid=AfmBOopyZRPWAFEf-PnNvp5wePg_xgBTgv2nlWtco0e3v-lbBJUJ7ssp

@@ -45,6 +45,3 @@ The Coding Problemは「3問・3言語・毎日」を掲げる軽量なデイリ
 - 共有とレビュー：社内の勉強会やSlackで毎日の学びを共有してフィードバックをもらう。
 - 面接対策との結合：デイリー問題で出たパターンをタグ分けし、週1回は「面接想定問題」を集中演習する。
 
-## 引用元
-- タイトル: My other post deleted but if anyone wants to play a daily coding game I found this  
-- URL: https://www.thecodingproblem.com/

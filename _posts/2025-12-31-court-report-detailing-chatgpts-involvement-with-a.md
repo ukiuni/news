@@ -43,6 +43,3 @@ AIチャットボットの利用が日常化する中で、生成AIの出力や�
 - 組織全体へ  
   - 社内外でのAI利用教育とメンタルヘルス支援を強化し、危機予防を実務に落とし込む。
 
-## 引用元
-- タイトル: Court report detailing ChatGPT's involvement with a recent murder suicide [pdf]  
-- URL: https://storage.courtlistener.com/recap/gov.uscourts.cand.461878/gov.uscourts.cand.461878.1.0.pdf

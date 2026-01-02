@@ -50,6 +50,3 @@
   - 音声管理：Web Audio API / Howler.js
 - 日本向けの広報アイデア：地域イベントでの「ミニ国家ブース」や、SNSでの「市民登録キャンペーン」を連動させ、QRコードでPWAへ誘導する。
 
-## 引用元
-- タイトル: Have to make a game
-- URL: http://www.auralisrepublic.site

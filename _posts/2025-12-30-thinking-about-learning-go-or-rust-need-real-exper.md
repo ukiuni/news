@@ -55,6 +55,3 @@ excerpt: "GoとRustを実プロジェクトで比較し、採用判断を迅速�
 5. 学習リソースとコミュニティで回路を作る
    - 公式ドキュメントを読みつつ、OSSの既存プロジェクトをリード/参照して実務的知見を得る。
 
-## 引用元
-- タイトル: Thinking About Learning Go or Rust Need Real Experiences!!
-- URL: http://rust.com  (注: 現在このURLは 500 Internal Server Error を返しています)

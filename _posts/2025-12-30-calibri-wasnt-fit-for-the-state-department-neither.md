@@ -38,6 +38,3 @@ excerpt: "国務省のフォント回帰は単なる伝統回帰に非ず、政�
 - 代替フォントとフォールバック設定：Webや配布ファイルではユーザー環境で代替される可能性があるため、フォールバックの優先順を設定する。
 - ガイドライン化：組織内での一貫性確保のため、用途別の推奨書体リストと使用ルール（サイズ、行間、マージン）を文書化する。
 
-## 引用元
-- タイトル: Calibri Wasn't Fit for the State Department; Neither Is Times New Roman
-- URL: https://hsu.cy/2025/12/times-new-american/

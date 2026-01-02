@@ -38,6 +38,3 @@ NASA図書館閉鎖が突きつける「データ保全の空白」 — エン�
   4. 技術者向け：重要設計資料やプロジェクト報告書はPDF/A/TIFFで保管し、メタデータ（作成日、バージョン、参照元）を付与する。
   5. 組織的対応：希少コレクションは優先順位を決めてデジタル化資金を割り当て、国際的なアーカイブ組織へ協力を依頼する。
 
-## 引用元
-- タイトル: NASA's Largest Library To Permanently Close On Jan 2, Books Will Be 'Tossed Away'
-- URL: https://www.ndtv.com/world-news/nasas-largest-library-to-permanently-close-on-jan-2-books-will-be-tossed-away-10170584

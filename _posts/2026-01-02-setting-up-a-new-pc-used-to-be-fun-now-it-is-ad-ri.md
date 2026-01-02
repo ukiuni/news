@@ -34,6 +34,3 @@
 - 自動化・ツール：Niniteなどで必要なアプリだけ一括導入、O&O ShutUp10やWindowsのグループポリシー/レジストリ（例: ContentDeliveryManager関連の設定）で「提案を無効化」。企業はAutopilotやMDMで標準イメージを配布するのが最善。
 - 注意点：クリーンインストールやレジストリ変更はメーカーのリカバリ領域やサポートに影響する場合があるため、保証やサポートポリシーを確認する。業務端末はIT部門と調整。
 
-## 引用元
-- タイトル: Setting up a new PC used to be fun, now it is ad-ridden nightmare
-- URL: https://www.neowin.net/editorials/setting-up-a-new-pc-used-to-be-fun-now-it-is-ad-ridden-nightmare/

@@ -32,6 +32,3 @@
 - ガバナンス体制：導入前に市議会や市民向け説明会を実施し、透明性ポリシーと監査アクセスを公開する。
 - 技術的チェックリスト：UUID/オペレータIDの保持、検索理由・フィルタの自由記述と記録、アクセス制御ログの保持期間を確認。
 
-## 引用元
-- タイトル: Flock Decides Cops Can't Be Trusted with Cop Data
-- URL: https://haveibeenflocked.com/news/secret-searches-part2

@@ -47,6 +47,3 @@ excerpt: "第三者API経由の侵害で約580万件のSSNが流出、長期的�
   - 重要識別子流出時は早期にクレジットモニタリング、必要なら信用凍結や警察届出を検討
   - 社内外で「最悪ケース」を想定したテスト（テーブルトップ演習）を定期実施
 
-## 引用元
-- タイトル: 700Credit data breach exposes 5.8 million people's Social Security numbers
-- URL: https://www.foxnews.com/tech/700credit-data-breach-exposes-ssns-5-8m-consumers

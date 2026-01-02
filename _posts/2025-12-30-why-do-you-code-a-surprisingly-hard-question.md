@@ -37,6 +37,3 @@ excerpt: "もし仕事が消えたらそれでもコードを書くか？動機�
 - 転職・業務選定：求人は「使う技術」だけでなく「プロダクトの目的」「利害関係者」を確認して選ぶ。
 - 燃え尽き対策：意味あるタスクを混ぜる、メンター/コミュニティ参加、スキルの再定義（ツール→問題解決）を行う。
 
-## 引用元
-- タイトル: “Why Do You Code?” - A Surprisingly Hard Question
-- URL: https://dev.to/sylwia-lask/why-do-you-code-a-surprisingly-hard-question-4ak4

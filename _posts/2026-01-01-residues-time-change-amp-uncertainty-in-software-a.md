@@ -44,6 +44,3 @@ Barry O'Reillyが示す「Residues（残留物）」は、過去の設計決定�
 - ADRと運用プレイブックを整備して、将来の残留物を意図的に管理する。  
 - 日本の現場では経営や規制の制約が強いので、短期ROIが示せる「小さな勝ち」を積み重ねる。
 
-## 引用元
-- タイトル: Residues: Time, Change & Uncertainty in Software Architecture • Barry O'Reilly  
-- URL: https://youtu.be/D8qQUHrksrE?list=PLEx5khR4g7PINwOsYrkwz3lTTJUYoXC53

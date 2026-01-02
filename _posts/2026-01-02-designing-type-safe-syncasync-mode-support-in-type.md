@@ -96,8 +96,3 @@ API UX の改善点として、run()/parse()/suggest() に対して自動判定�
 - 実装複雑性を受け入れられない場合は Option C/D を検討。学習コストを抑えつつ機能を絞る選択も現実的。
 - TypeScript の条件型は強力だが、IDE 補完や型推論の現実挙動を実プロトタイプで確認すること。
 
-## 引用元
-- タイトル: Designing type-safe sync/async mode support in TypeScript
-- URL: https://hackers.pub/@hongminhee/2026/typescript-sync-async-type-safety
-
-もし試してみたい場合は、Optique の pre-release（@optique/core@0.9.0-dev...）や該当 PR を参照すると実装の生データが見られます。

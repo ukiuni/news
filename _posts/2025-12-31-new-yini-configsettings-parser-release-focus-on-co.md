@@ -42,6 +42,3 @@ TypeScriptで実装されたYINI設定フォーマットのパーサーが v1.3.
 - CLI展開を想定するなら：YINI-CLIの今後の強化に合わせて、ユースケースやエッジケースをフィードバックすると実装に反映されやすい。
 - 日本の現場では、特に多環境（開発・ステージング・本番）やセキュリティ要件が厳しい現場で恩恵が大きいはず。
 
-## 引用元
-- タイトル: New YINI (config/settings) parser release: focus on correctness, regression tests & metadata guarantees
-- URL: https://www.reddit.com/r/SideProject/comments/1pzyrtq/i_spent_over_a_week_strengthening_the_reliability/

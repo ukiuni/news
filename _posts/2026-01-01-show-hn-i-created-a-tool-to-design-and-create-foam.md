@@ -32,6 +32,3 @@ Boxsertは、ボードゲームのコンポーネントに合わせたフォー�
 - 日本の素材とツールを活用：100円ショップやホームセンターのフォームボードを試し、富士通や地元のレーザーカット工房にSVGデータを持ち込むとコストを抑えられる。
 - コミュニティで共有：ユーザー作成テンプレートを共有すれば、人気タイトルのインサート設計が短時間で手に入る。
 
-## 引用元
-- タイトル: Show HN: I created a tool to design and create foamcore inserts for boardgames
-- URL: https://boxinsertdesigner.com/

@@ -37,6 +37,3 @@ excerpt: "ブラウザの防御が緩みポップアップ広告が再増殖、�
 - 業界／ブラウザ提言
   - ブラウザ開発チームに対して「デフォルトで厳格なブロック」と、誤検出時のユーザー向け復元UIを要求する声を上げる。成功すれば大きなPR効果が期待できる。
 
-## 引用元
-- タイトル: Web Browsers have stopped blocking pop-ups  
-- URL: https://www.smokingonabike.com/2025/12/31/web-browsers-have-stopped-blocking-pop-ups/

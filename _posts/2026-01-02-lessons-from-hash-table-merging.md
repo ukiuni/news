@@ -70,6 +70,3 @@ public:
 - キーの重複率が高いワークロードでは事前確保がメモリの無駄になるので注意。必ず実データでプロファイルすること。
 - 大規模バッチマージでは、マージ順序（ランダム化）やシャッフルを挟むだけで改善することがある。
 
-## 引用元
-- タイトル: Lessons from hash table merging  
-- URL: https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338

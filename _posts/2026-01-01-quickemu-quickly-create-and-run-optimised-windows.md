@@ -52,6 +52,3 @@ QuickemuはQEMUのラッパーで、ISOの取得からハードウェア列挙�
 - ストレージ運用: VMイメージを外付けUSBや社内共有場所に置けば、開発機をまたいだ持ち運び/再現が容易。  
 - セキュリティ/運用上の留意点: 企業で利用する際は社内ポリシー、ライセンス（特にmacOS/Windowsの商用利用条件）を確認する。
 
-## 引用元
-- タイトル: Quickemu: Quickly create and run optimised Windows, macOS and Linux VMs  
-- URL: https://github.com/quickemu-project/quickemu

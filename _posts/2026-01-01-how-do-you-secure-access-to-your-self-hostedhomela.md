@@ -42,6 +42,3 @@ excerpt: "WireGuardやリバプロ+SSOで家庭サーバを安全かつ実用的
 - クライアント証明書は強力だが配布運用コストが高いので、用途を限定して導入する。
 - 定期的にアクセスログと脆弱性情報をチェックし、証明書や鍵をローテーションする。
 
-## 引用元
-- タイトル: How do you secure access to your self-hosted/homelab services?
-- URL: https://lobste.rs/s/rmenr4

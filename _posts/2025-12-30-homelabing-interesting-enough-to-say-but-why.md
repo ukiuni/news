@@ -44,6 +44,3 @@ excerpt: "Pi Zero 2Wで始める512MBの低コスト自宅サーバー構築と�
 - IPv4グローバルアドレスが無い（CGNAT）環境では、次回の「ローカル→オンライン接続」記事を参照してNAT越え手段を学ぶ（ポート開放、VPN、自己ホストのトンネリング設計など）。  
 - セキュリティは後回しにしない。小さな個人サーバーほど、初期設定での防御が重要。
 
-## 引用元
-- タイトル: Homelabing interesting enough to say but why  
-- URL: https://dev.to/priyanshuverma/homelabing-interesting-enough-to-say-but-why-2fhh

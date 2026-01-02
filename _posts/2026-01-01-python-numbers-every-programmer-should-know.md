@@ -58,6 +58,3 @@ CPython 3.14上で計測された実測値から、基本操作・コレクシ�
 - 小さな関数を大量に呼ぶ設計は問題ないが、async タスクを大量生成する場合はオーバーヘッドに注意。短時間のIO待ちを伴わない非常に細かいasync処理は同期実装の方が速いこともある。
 - DB選択はユースケース次第：頻繁書き込み→diskcache、単純キー読み→SQLiteでも高速、分散性が必要ならMongoDB。ただしネットワーク遅延の影響を考慮する。
 
-## 引用元
-- タイトル: Python Numbers Every Programmer Should Know
-- URL: https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/

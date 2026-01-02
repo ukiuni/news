@@ -48,6 +48,3 @@ PufferLibの超高速環境と徹底したハイパーパラメータ探索、�
 - 意図せぬ挙動（バグ）から学ぶ：早期のノイズやランダム化はロバスト性向上に使える（ただし慎重に評価を）。  
 - 日本の小〜中規模チームでも、ゲーミングPC一台＋工夫で世界水準に挑める設計思想を採る。
 
-## 引用元
-- タイトル: Scaffolding to Superhuman: How Curriculum Learning Solved 2048 and Tetris  
-- URL: https://kywch.github.io/blog/2025/12/curriculum-learning-2048-tetris/

@@ -62,8 +62,3 @@ excerpt: "マージン・テスト・ヘリテージ重視の実務向け8原則
 - 要求→設計→試験のトレーサビリティをツールで管理（例：軽量なExcel/ReqIFやMBSEツール）。  
 - 小型衛星やスタートアップでは、外部機関（JAXAや大学の試験設備）を活用して試験コストを削減する。
 
-## 引用元
-- タイトル: Akin's Laws of Spacecraft Design [pdf]  
-- URL: https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf
-
-以上を踏まえ、まずは自分のプロジェクトで最も致命的な単一点故障と重要マージン（質量・電力）を洗い出すことをおすすめします。

@@ -72,6 +72,3 @@ async function handle(req) {
 - 長期キャッシュを使う場合はバージョニング戦略を必ず実装すること（破壊的変更対策）。  
 - エッジでの処理はCold startやWorkersのCPU/実行時間制限を考慮する。
 
-## 引用元
-- タイトル: A super fast website using Cloudflare workers  
-- URL: https://crazyfast.website

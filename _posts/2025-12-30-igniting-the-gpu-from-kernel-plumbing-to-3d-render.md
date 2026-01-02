@@ -64,6 +64,3 @@ RISC-V機器や組み込み機器のグラフィックス有効化には、単�
   ```
 - 日本の現場での応用例：産業用HMI、車載用途、IoT端末のローカル3D処理やAI可視化で、SoC固有の電源制御を正しく扱えば安定したハードウェアアクセラレーションが可能になる。
 
-## 引用元
-- タイトル: Igniting the GPU: From Kernel Plumbing to 3D Rendering on RISC-V  
-- URL: https://mwilczynski.dev/posts/riscv-gpu-zink/

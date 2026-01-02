@@ -59,6 +59,3 @@ excerpt: "データをプロダクト化してSLOと所有権で信頼性と再�
 - プラットフォームは「やるべきこと」を自動化して、ドメインチームは意味と責任に集中できるようにする。  
 - 規制業界（金融・医療など）は特にアクセス・監査・マスキングルールを早期に設計する。
 
-## 引用元
-- タイトル: Data as a Product is a Promise  
-- URL: https://yusufaytas.com/data-as-a-product-a-new-frontier/

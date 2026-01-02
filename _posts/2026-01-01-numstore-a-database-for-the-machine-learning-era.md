@@ -50,6 +50,3 @@ Numstoreは、機械学習ワークロード向けに多次元数値配列を効
   - ソースをクローンしてローカルで簡単な配列読み書きベンチを回す（GitLab上に公開）。  
   - データレイアウトやアクセスパターン（ストライドやバッチ挿入）を実運用に近い形で再現して、再バランスやI/O特性を観察する。
 
-## 引用元
-- タイトル: Numstore - a database for the machine learning era  
-- URL: https://numstore-7fd8a9.gitlab.io/2025/01/01/announcing-numstore.html

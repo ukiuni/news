@@ -62,6 +62,3 @@ git log refs/users/* --topo-order
 - セキュリティ：公開チャット以外はメッセージ暗号化と署名を必須にする。Gitの参照は容易に複製される点に注意。
 - 運用面：オブジェクト肥大化に備えたガベージコレクション（git gc）やバックアップ計画を用意。
 
-## 引用元
-- タイトル: Using Git as a Backend for other Tools
-- URL: https://www.ephraimsiegfried.ch/posts/git-as-a-fancy-dag

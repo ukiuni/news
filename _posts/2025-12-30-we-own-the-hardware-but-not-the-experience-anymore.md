@@ -46,6 +46,3 @@ excerpt: "所有しているのに操れない—更新や追跡で収益化さ�
 - 通信・テレメトリの無効化や権限設定を徹底する（設定画面・グループポリシー・ファイアウォールで制御）。  
 - エンタープライズ側は更新管理（WSUS/MDM）を導入し、検証済みの更新だけをロールアウトする。
 
-## 引用元
-- タイトル: We own the hardware, but not the experience anymore — Big Tech keeps building smarter, more connected devices, but user experience feels more intrusive, confusing, and less human | The line between helpful tech and quiet surveillance is blurring — and devices no longer feel fully under our control  
-- URL: https://www.windowscentral.com/hardware/big-tech-or-big-brother-our-devices-dont-feel-like-theyre-working-for-us

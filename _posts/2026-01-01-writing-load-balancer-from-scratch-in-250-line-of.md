@@ -72,6 +72,3 @@ excerpt: "250行のGo実装でRound Robinを実演、負荷分散の実践ノウ
   - 小規模サービスの自作LB学習やオンプレ環境での簡易フロントに最適。  
   - KubernetesやクラウドLB導入前に挙動確認をしたい時のローカル検証用。
 
-## 引用元
-- タイトル: Writing Load Balancer From Scratch In 250 Line of Code in Golang  
-- URL: https://sushantdhiman.substack.com/p/writing-load-balancer-from-scratch

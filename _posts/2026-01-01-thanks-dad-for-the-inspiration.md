@@ -35,6 +35,3 @@ excerpt: "父のBASICコードで学ぶスピーカー設計の原点と現代�
 - モダン移植案：アルゴリズム部分をPython（NumPy/SciPy）やWeb（JavaScript）に移植すると再利用性が高まる。移植時のチェックポイントは単位整合、サンプリングの扱い、境界条件の扱い。  
 - 学びの活用：Thiele/Smallの実験データを入手して実装を検証し、結果を実測値と比較することで設計精度を高められる。DIYスピーカー製作、日本の小規模メーカーやコミュニティでのプロトタイプ設計にも応用可能。
 
-## 引用元
-- タイトル: Thanks Dad for the inspiration  
-- URL: https://github.com/adampresley/michael-presley-speaker-program

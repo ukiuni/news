@@ -71,6 +71,3 @@ sysrc zfs_enable="YES"
 - 監視・UI：運用時は zpool status / zfs list を定期確認。GUIが欲しければ Seafile や FileBrowser 等を検討。  
 - バックアップ方針：ミラーはディスク故障から守るが誤削除やランサムウェアは防げない。別媒体/クラウドへの定期バックアップを設定する。
 
-## 引用元
-- タイトル: FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)  
-- URL: https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/

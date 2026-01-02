@@ -46,6 +46,3 @@ excerpt: "39C3の実測Grafanaで大規模Wi‑Fi運用の設計課題とピー�
 - 物理環境（NOC温度など）を監視に入れることでハードウェア障害や冷却不足を早期発見できる。
 - SSIDごとの利用傾向を定期的に確認し、ゲスト/スタッフ/出展者で帯域制御やQoSを調整する。
 
-## 引用元
-- タイトル: 39C3 Grafana Dashboard
-- URL: https://dashboard.congress.ccc.de/public-dashboards/e6cf86b287304662b4d1b8eb31b5ab50

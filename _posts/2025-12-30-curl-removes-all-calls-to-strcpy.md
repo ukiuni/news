@@ -53,6 +53,3 @@ curl プロジェクトが strncpy に続き strcpy の呼び出しもコード�
 - 日本市場での適用例  
   - 組み込みファームウェア、ルーター、IoT デバイスなど、長期運用される C コードが多い領域で即効性が高い。安全性重視の製品では標準実装に採用する価値あり。
 
-## 引用元
-- タイトル: Curl removes all calls to strcpy  
-- URL: https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/

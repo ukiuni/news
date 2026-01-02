@@ -35,6 +35,3 @@ AIエージェントを「任せる道具」から「制御する武器」へ―
 - プロンプト履歴を保存して再現可能にする：同じタスクをチームで共有できる。  
 - 社内ルール化：レビュー基準や「いつエージェントを使うか」をチームの開発プロセスに組み込む。
 
-## 引用元
-- タイトル: Professional Software Developers Don't Vibe, They Control: AI Agent Use for Coding in 2025  
-- URL: https://arxiv.org/abs/2512.14012

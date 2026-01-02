@@ -36,6 +36,3 @@ AIツールの普及が進む今、映画・音楽・ゲームなど創作現場
 - 「AIでできること」と「人にしか出せない表現」を分けてタスク設計：ルーティン作業や試作生成はAI、最終的な演技・脚色・物語の核は人間が担う。
 - 小さく実験する：社内ハッカソンや短編プロジェクトで、人間主導のハイブリッド制作を試し、受容性と法的リスクを評価する。
 
-## 引用元
-- タイトル: Leonardo DiCaprio Says AI Can Never Be Art Because It Lacks Humanity: Even ‘Brilliant’ Examples Just ‘Dissipate Into the Ether of Internet Junk’
-- URL: https://variety.com/2025/film/news/leonardo-dicaprio-ai-lacks-humanity-cant-replace-art-1236603310/

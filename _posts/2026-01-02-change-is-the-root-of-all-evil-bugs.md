@@ -51,6 +51,3 @@
 - 変更履歴を必ず残し、バグ対応時はまず「何が変わったか」を確認する習慣を付ける。  
 - 組織変更や要件変更も「システムの変化」と捉え、影響範囲を明示してから実行する。
 
-## 引用元
-- タイトル: Change is the root of all (evil) bugs  
-- URL: https://fhur.me/posts/2026/change-is-the-root-of-all-evil-bugs

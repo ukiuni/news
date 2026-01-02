@@ -32,6 +32,3 @@ excerpt: "入国審査強化で海外ハイテク人材が米渡航を避け、�
 - 技術者・研究者：海外学会参加は事前にビザ審査動向を確認、発表はオンライン併用や録画提出の代替策を用意する。
 - 政策ウォッチ：米国政策の変化は速いので、海外連携や資金調達、共同研究の拠点分散を検討する。
 
-## 引用元
-- タイトル: Foreign tech workers are avoiding travel to the US
-- URL: https://www.computerworld.com/article/4110681/foreign-tech-workers-are-avoiding-travel-to-the-us.html

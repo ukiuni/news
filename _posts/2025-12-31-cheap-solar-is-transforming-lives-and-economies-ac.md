@@ -48,6 +48,3 @@ excerpt: "中国製安価太陽光と蓄電でアフリカ経済と暮らしが�
   - 日本企業は高品質なPCS（パワーコンディショナ）、BMS、制御ソフト、長寿命の蓄電池技術で勝負できる。さらに、地域電力網の安定化や災害対応でのマイクログリッド事例は日本国内の地方創生に直接役立つ。
   - また、日本のファイナンス・メカニズム（自治体・JAや共同出資スキーム）を応用して海外・国内で包摂的な展開が考えられる。
 
-## 引用元
-- タイトル: Cheap Solar Is Transforming Lives and Economies Across Africa  
-- URL: https://www.nytimes.com/2025/12/30/climate/solar-south-africa-china.html?unlocked_article_code=1.A1A.8XQ2.vzYTtOaiZTF2

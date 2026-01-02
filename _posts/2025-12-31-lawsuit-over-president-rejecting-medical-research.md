@@ -36,6 +36,3 @@ excerpt: "大統領の政治介入で却下された医療研究助成がNIHで�
 - 産業界への示唆
   - 資金配分の透明性・審査の独立性は国際協力に直結する。グローバルに共同研究を進める企業は資金リスクを分散する設計を検討すべき。
 
-## 引用元
-- タイトル: Lawsuit over President rejecting medical research grants is settled | Settlement forces NIH to review grants previously rejected on ideological grounds
-- URL: https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/

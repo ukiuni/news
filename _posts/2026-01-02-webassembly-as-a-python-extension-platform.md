@@ -63,6 +63,3 @@ memory.write(store, b"data", ptr)
 - ストア/インスタンスのライフサイクル設計を前もって決める（毎回再コンパイルが発生するか確認）。  
 - セキュリティ：境界チェックやマスク忘れによりホストメモリ破壊のリスクあり。CIで静的／動的検査を導入すること。
 
-## 引用元
-- タイトル: WebAssembly as a Python Extension Platform  
-- URL: https://nullprogram.com/blog/2026/01/01/

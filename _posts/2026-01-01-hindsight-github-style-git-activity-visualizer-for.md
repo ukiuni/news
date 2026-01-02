@@ -65,6 +65,3 @@ hindsight --export-tsv 2025_stats.tsv
   - Windowsネイティブで使う場合はWSLやGit for Windows＋cargoのセットアップが現実的。  
   - 大規模ワークスペースでは走査時間がかかるため--depthや--pathで調整する。
 
-## 引用元
-- タイトル: hindsight: GitHub-style git activity visualizer for terminal  
-- URL: https://github.com/chaosprint/hindsight

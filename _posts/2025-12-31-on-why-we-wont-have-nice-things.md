@@ -37,6 +37,3 @@ SaaSや開発ツール、OSSに依存する現場は、突如仕様変更・有�
 - 小さく、フォーカスして使う：機能を分割し、置き換えが容易な設計にする（疎結合）。
 - コミュニティと関わる：重要なOSSにはコントリビューションやスポンサーで影響力を持つ。維持コミュニティの健全性は長期的な安定性の指標。
 
-## 引用元
-- タイトル: On Why We Won't Have Nice Things
-- URL: https://radekmie.dev/blog/on-why-we-wont-have-nice-things/

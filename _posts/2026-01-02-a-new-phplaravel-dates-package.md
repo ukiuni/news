@@ -70,6 +70,3 @@ class JstDatetimeCast implements CastsAttributes
 }
 ```
 
-## 引用元
-- タイトル: A new PHP/Laravel dates package  
-- URL: http://githu.com/hanifhefa/dcter

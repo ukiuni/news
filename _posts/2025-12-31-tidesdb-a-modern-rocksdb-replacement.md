@@ -49,6 +49,3 @@ RocksDBは多くのクラウドサービスや組み込みデータ層で基盤�
 - 小さく始める：まずは読み取り集中の非クリティカルなサービスやステージング環境で運用負荷の削減効果を検証する。
 - コミュニティとサポート：プロジェクトの活発度、バグ対応速度、ドキュメントの充実度を確認する。
 
-## 引用元
-- タイトル: TidesDB - A Modern RocksDB Replacement
-- URL: https://www.youtube.com/watch?v=gkxTqd_LaCQ&t=9s

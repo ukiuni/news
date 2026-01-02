@@ -83,6 +83,3 @@ try {
 }
 ```
 
-## 引用元
-- タイトル: How I authenticate a product identity from the browser using asymmetric JWT
-- URL: https://sushantdhiman.substack.com/p/i-never-knew-jwt-could-be-used-this

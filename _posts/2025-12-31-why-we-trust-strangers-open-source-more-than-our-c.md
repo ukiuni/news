@@ -40,6 +40,3 @@ Frank DENIS氏の観察を日本向けに整理すると、主な心理要因は
 
 短期的には「採用チェックリスト」を作るだけで導入判断が安定し、中長期では組織的ホスティングとガバナンスが社内OSSを資産に変える。
 
-## 引用元
-- タイトル: Why we trust strangers’ open source more than our colleagues’
-- URL: https://00f.net/2025/09/01/opensource-by-internal-contributors/

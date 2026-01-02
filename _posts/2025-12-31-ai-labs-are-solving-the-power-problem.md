@@ -49,6 +49,3 @@ AI向け大規模データセンター需要が電力網の供給能力を超え
 - 日本特有の観点：LNG依存・燃料コスト、土地の制約、厳しい環境規制、地震対策が意思決定に影響。港湾側や工業団地など既存インフラ近接地を優先検討すると現実的。  
 - 技術ロードマップ：水素混焼や燃料電池、SMRなど低炭素オプションを視野に入れつつ、短期的には燃料効率と供給確実性のバランスを取る。
 
-## 引用元
-- タイトル: AI Labs Are Solving the Power Problem  
-- URL: https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power

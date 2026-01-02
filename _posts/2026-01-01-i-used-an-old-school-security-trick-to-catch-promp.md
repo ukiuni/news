@@ -50,6 +50,3 @@ Beelzebubは、LLMを使って高相互作用に見せかける低リスクな�
 - 運用ガイド
   - 隔離された環境で実行し、テストスイート（make test.unit / make test.integration）で挙動を検証してから本番に持ち込む。
 
-## 引用元
-- タイトル: I used an old-school security trick to catch prompt injection on AI agents
-- URL: https://github.com/mariocandela/beelzebub

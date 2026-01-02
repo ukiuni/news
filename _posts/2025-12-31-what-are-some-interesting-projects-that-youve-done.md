@@ -45,6 +45,3 @@ Lobstersのスレッドでは、今年取り組まれた個人プロジェクト
 - ベンチデータは自作してCIに組み込む：tpchgen系のツールで性能回帰を早期検出。Rustのツールは運用コストが低い場合が多い。  
 - ブレッドスファーストで幅を取る→次年は深掘り：まず複数小プロジェクトで可能性を確かめ、その後有望なものを育てる。
 
-## 引用元
-- タイトル: What are some interesting projects that you've done this year?  
-- URL: https://lobste.rs/s/npnchn

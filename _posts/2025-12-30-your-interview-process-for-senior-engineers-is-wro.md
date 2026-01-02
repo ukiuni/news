@@ -35,6 +35,3 @@ excerpt: "アルゴリズム重視の面接は無駄、現場で通用する判�
 - 評価基準を明確化：質問力（どんな質問をするか）、仮定の明示、ステークホルダーへの説明力、振り返りと学習の度合いを採点項目に含める。
 - 日本市場向けの調整：合意形成や既存運用との折衝が重要な環境では、利害調整シナリオを入れ、ドキュメント読み取り能力を確認する。
 
-## 引用元
-- タイトル: Your interview process for senior engineers is wrong
-- URL: https://www.blog4ems.com/p/why-you-cant-hire-great-senior-engineers

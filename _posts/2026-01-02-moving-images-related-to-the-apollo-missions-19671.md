@@ -42,8 +42,3 @@
   5. 商用利用時は著作権・許諾を確認する（NARAへ問い合わせ）。  
 - 日本での活用アイデア：博物館展示用のインタラクティブ映像、大学の宇宙工学教材、VFXリファレンス素材、CV研究用の歴史映像データセット（クロスドメイン学習）。
 
-## 引用元
-- タイトル: Moving Images Related to the Apollo Missions, 1967–1969  
-- URL: https://catalog.archives.gov/id/133360601
-
-（アーカイブ所蔵所：National Archives at College Park - Motion Pictures）

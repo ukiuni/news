@@ -40,6 +40,3 @@ excerpt: "2026年施行：カリフォルニア公立校で生徒の携帯使用
 - 保護者・コミュニティ
   - 規制だけでなくデジタルリテラシー教育（スマホとの付き合い方）を求める声をあげる。
 
-## 引用元
-- タイトル: California schools will be required to restrict, prohibit student cell phone use in 2026
-- URL: https://ktla.com/news/california/california-schools-will-be-required-to-restrict-prohibit-student-cell-phone-use-in-2026/

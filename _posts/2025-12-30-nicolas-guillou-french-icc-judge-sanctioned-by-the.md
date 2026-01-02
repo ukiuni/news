@@ -41,6 +41,3 @@ excerpt: "米国制裁で国際刑事裁判所判事が事実上デバンキン�
   - 法的リスクが高い案件は早期に法務と外部専門家に相談。欧州の「ブロッキング規定」等の動向を注視する。
   - 開発チームはコンプライアンス要件を仕様段階で組み込み、監査ログや決定根拠を保存できる設計にする。
 
-## 引用元
-- タイトル: Nicolas Guillou, French ICC judge sanctioned by the US: 'You are effectively blacklisted by much of the world's banking system'
-- URL: https://www.lemonde.fr/en/international/article/2025/11/19/nicolas-guillou-french-icc-judge-sanctioned-by-the-us-you-are-effectively-blacklisted-by-much-of-the-world-s-banking-system_6747628_4.html

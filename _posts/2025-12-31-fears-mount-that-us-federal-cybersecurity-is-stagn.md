@@ -32,6 +32,3 @@ excerpt: "米連邦サイバー防衛の人員流出で世界的な攻撃面拡�
 4. 可観測性の強化：ログ保管ポリシー、冗長なSIEM/ログ転送経路、クラウド環境での監視整備を優先する。
 5. 情報共有ルートの確保：国内外のISACやCERTと継続的に連携し、脅威インテリをリアルタイムで受け取れる仕組みを維持する。
 
-## 引用元
-- タイトル: Fears Mount That US Federal Cybersecurity Is Stagnating—or Worse
-- URL: https://www.wired.com/story/expired-tired-wired-federal-cybersecurity/

@@ -116,6 +116,3 @@ spec:
 - 小規模ならexternalIPsトリックは早く済むが、Traefik互換性や可観測性が必要なら専用CCM（metacontroller＋Webhook）の導入を検討する。  
 - AWSの1:1 NAT問題は見落としがち：publicのみを投げる設計は内部ルーティングで機能しないため、内部向けServiceの自動生成が必須。
 
-## 引用元
-- タイトル: Article: The Tale of Kubernetes Loadbalancer "Service" In The Agnostic World of Clouds  
-- URL: https://hamzabouissi.github.io/posts/cloud_agnostic_lb_for_kubernetes/

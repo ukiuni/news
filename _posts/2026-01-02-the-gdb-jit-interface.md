@@ -54,6 +54,3 @@ JITを使うランタイム（JSエンジン、VM、ゲームや高速トレー�
 - 性能対策：登録データ構造が単純な linked list だとスケールしない（$O(n^2)$）。多数の小オブジェクトを登録する場合はバッチ化や再パッキング（V8 の RepackEntries 的な工夫）を検討する。  
 - テスト：JIT生成直後に `__jit_debug_register_code` を呼んだり、カスタムリーダを GDB の共有オブジェクトとしてロードしてブレーク時の表示を確認する。  
 
-## 引用元
-- タイトル: The GDB JIT interface  
-- URL: https://bernsteinbear.com/blog/gdb-jit/

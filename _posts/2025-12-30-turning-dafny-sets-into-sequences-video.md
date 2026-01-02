@@ -67,6 +67,3 @@ method SetToSeq<T>(s: set<T>) returns (r: seq<T>)
 - 大きい集合を頻繁に扱うなら、性能観点でソート／列挙のコストを検討する（ghost codeで仕様と実装を分離）。
 - Lemmaを小分けにして可読性高く：終了性／被覆／重複排除それぞれを独立した補題にするのが保守的。
 
-## 引用元
-- タイトル: Turning Dafny Sets into Sequences [video]
-- URL: https://youtu.be/-zAhtW8YFKM?t=210

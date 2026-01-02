@@ -57,6 +57,3 @@ aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/TechblogAsse
 - BlenderやNukeのスクリプトが含まれるタイトルでCI化や自動レンダーパイプラインのテストケースを作成する。
 - ライセンスはCC BY 4.0なので、社内デモや研究成果に使う場合は必ず帰属表記を入れる。
 
-## 引用元
-- タイトル: Netflix: Open Content
-- URL: https://opencontent.netflix.com/

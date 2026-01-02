@@ -36,6 +36,3 @@ AI生成コンテンツとアルゴリズム配信の組み合わせが民主プ
 - 運用／法務：DSA類似の透明性・リスク評価要件を想定した報告体制・エスカレーション手順を整備する。国際的な情報共有（CERT、プラットフォーム間のIOC共有）に参加する。
 - ジャーナリスト／市民：投稿元アカウントの履歴、言語・音声の不自然さ、逆画像検索や複数ソース確認で検証する習慣を持つ。疑わしい場合はプラットフォームの通報機能を活用する。
 
-## 引用元
-- タイトル: Poland calls for EU action against AI-generated TikTok videos calling for “Polexit”
-- URL: https://notesfrompoland.com/2025/12/31/poland-calls-for-eu-action-against-ai-generated-tiktok-videos-calling-for-polexit/

@@ -35,6 +35,3 @@ WebリアルタイムUIの限界とトレードオフが一目で分かるため
   - 負荷試験は実際の接続数・帯域で再現してボトルネックを測定する
 - アイデア用途：リアルタイムダッシュボードやコラボレーション機能のプロトタイプ検証に向く。極端なデモはフレームワークの耐久力を可視化する良い指標になる。
 
-## 引用元
-- タイトル: Doom in Django: testing the limits of LiveView at 600.000 divs/segundo  
-- URL: https://en.andros.dev/blog/7b1b607b/doom-in-django-testing-the-limits-of-liveview-at-600000-divssegundo/

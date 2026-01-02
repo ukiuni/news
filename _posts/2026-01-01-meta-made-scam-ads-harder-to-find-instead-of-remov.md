@@ -33,6 +33,3 @@ Reutersが入手した内部文書によれば、Metaは詐欺広告を完全に
 - ジャーナリスト/調査者へ：プラットフォーム側の検索・レポート結果に頼らず、広告コピーやクリエイティブ、トラッキングリンクを定期的にアーカイブして比較する。  
 - 事業者/消費者保護団体へ：透明性レポートの要求、インシデントのログ提供や第三者による検証を求める。
 
-## 引用元
-- タイトル: Meta made scam ads harder to find instead of removing them  
-- URL: https://sherwood.news/tech/rather-than-fully-cracking-down-on-scam-ads-meta-worked-to-make-them-harder/

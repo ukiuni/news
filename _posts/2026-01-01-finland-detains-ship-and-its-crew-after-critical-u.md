@@ -37,6 +37,3 @@
   - ケーブル修理のための海底工事業者や船舶との事前協定を持ち、修理リードタイムを短縮する。
   - 業界横断でのインシデント情報共有と国家レベルの防護計画への参加を検討する。
 
-## 引用元
-- タイトル: Finland detains ship and its crew after critical undersea cable damaged
-- URL: https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl

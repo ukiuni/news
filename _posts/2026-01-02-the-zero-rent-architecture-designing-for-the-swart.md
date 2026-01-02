@@ -59,8 +59,3 @@
   - マイクログリッドは基本は自律運転、必要時にのみ遠隔接続でログ収集するハイブリッド運用。  
   - 設計ファイル（CAD／BOM）とファームウェアはオープンライセンスで公開し、地域ごとのローカライズを促す。
 
-## 引用元
-- タイトル: The Zero-Rent Architecture: Designing for the Swartland Farmer  
-- URL: https://medium.com/@paulallies/the-zero-rent-architecture-designing-for-the-swartland-farmer-b022ce7d440c
-
-（注：公開元ページがアクセス制限で直接参照できないため、タイトルと入手可能な断片情報を基に要点を再構成しています。原文の細部や具体的事例は原典参照を推奨します。）

@@ -39,6 +39,3 @@ excerpt: "カーネル特有の致命的バグを専用ツールと運用で防�
 - 運用：クラッシュダンプ（kdump）を収集し、再現不能バグはダンプから逆解析する習慣を作る。  
 - 設計：可能なら危険処理はユーザ空間へ移し、カーネルコードを極力小さく保つ（最小特権の原則）。
 
-## 引用元
-- タイトル: Kernel Mode Bugs Are Different  
-- URL: https://youtu.be/-gybqdT1MV8?si=oBO_ziO4zDBG8OMf

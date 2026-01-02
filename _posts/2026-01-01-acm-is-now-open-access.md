@@ -39,6 +39,3 @@ ACMは計算機科学分野で最大級の学会であり、その論文群が�
   - オープンコーパスを活用した教材・社内トレーニングの作成、大学の講義資料への組み込みを検討する。
   - 研究資金申請時に「成果の公開・再利用計画」を明示することで、オープンサイエンスの評価を得やすくする。
 
-## 引用元
-- タイトル: ACM Is Now Open Access
-- URL: https://www.acm.org/articles/bulletins/2026/january/acm-open-access

@@ -42,6 +42,3 @@ excerpt: "Mongobleedで緊急パッチ必須—Atlasは適用済、セルフホ�
 4. 運用改善：緊急パッチ時の運用フロー（検証環境→ロールアウト手順、通信周知、メンテナンスウィンドウの扱い）を見直す。自動化された脆弱性検出とテストを導入すると効果的。
 5. 情報収集：公式ブログ／セキュリティアドバイザリ、CVE情報を定期的に監視し、社内の依存管理やSBOMに反映する。
 
-## 引用元
-- タイトル: MongoDB Server Security Update, December 2025
-- URL: https://www.mongodb.com/company/blog/news/mongodb-server-security-update-december-2025

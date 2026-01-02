@@ -34,6 +34,3 @@ excerpt: "コンパイラ主導の最適化とAI活用で、法令対応しつ�
 - エッジとSSRの活用：初期表示速度改善のためにエッジレンダリングや部分的サーバーサイドレンダリングを検討。日本のモバイルユーザーや低帯域環境で効果が高い。
 - 観測性とフィードバックループ：実ユーザーのパフォーマンス計測とエラートラッキングを強化し、改善活動をKPIに紐付ける。
 
-## 引用元
-- タイトル: Frontend development in 2025 - indepth recap
-- URL: https://medium.com/@iammidhul/frontend-development-in-2025-an-in-depth-ecosystem-recap-c38d30ac9b6f?sk=fe167a4ed2fcc3c06f12c2fa596ad77c

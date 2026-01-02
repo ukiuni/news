@@ -67,6 +67,3 @@ print(df.tail())
   - 大きなJOINやOLAP処理はDuckDBにインポートすると高速。
   - WALモードや適切なインデックス、VACUUMでレスポンスを改善。
 
-## 引用元
-- タイトル: Show HN: 22 GB of Hacker News in SQLite
-- URL: https://hackerbook.dosaygo.com

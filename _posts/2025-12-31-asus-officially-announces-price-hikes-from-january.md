@@ -32,6 +32,3 @@ CES 2026直前のタイミングでの値上げ発表は、新製品の価格期
 - 価格監視：SSD・DRAMの相場指標や主要ベンダーの通知をウォッチし、CES発表後の実売価格動向をチェック。
 - 日本市場特有の注意点：国内在庫が少ないモデルは為替・輸送の影響も受けやすい。信頼できる販売店での保証やサポート条件を確認しておく。
 
-## 引用元
-- タイトル: ASUS officially announces price hikes from January 5, right before CES 2026
-- URL: https://videocardz.com/newz/asus-officially-announces-price-hikes-from-january-5-right-before-ces-2026

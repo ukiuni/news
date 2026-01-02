@@ -43,6 +43,3 @@ Dealta FoundationのGitHubには、ゲーム理論を核に据えたL1ブロッ�
 - 日本の実務への適用可能性を検討：規制（金融商品取引法、商品先物法等）、実物決済インフラ、参加者認証の要件を整理してPoCを計画する。
 - 貢献／監査：公開コードはMITなので、セキュリティ監査やフォークして実験が可能。早期にセキュリティレビューを行うこと。
 
-## 引用元
-- タイトル: Show HN: Dealta – A game-theoretic decentralized trading protocol
-- URL: https://github.com/orgs/Dealta-Foundation/repositories

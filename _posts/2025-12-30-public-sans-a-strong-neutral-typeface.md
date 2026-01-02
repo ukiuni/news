@@ -36,6 +36,3 @@ font-family: "Public Sans", "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Meiryo
 - パフォーマンス対策：必要なウェイトだけを読み込む、フォント表示のフォールバックを設定するなどページロード対策を行う。
 - 貢献とカスタマイズ：不具合や改善提案はGitHubのリポジトリで受け付けられているため、プロジェクトでの課題があればPull RequestやIssueで参加可能。
 
-## 引用元
-- タイトル: Public Sans – A strong, neutral typeface
-- URL: https://public-sans.digital.gov/

@@ -54,6 +54,3 @@ Palm Pilotという極小デバイス上でSchemeを動作させた研究・実�
 - メモリが最重要ならマーク／スキャンGCが現実的。余裕があれば世代GCや書き込みバリアで改善を検討。  
 - レトロ端末向けの工夫は、現代のIoT機器やファームウェアにもそのまま応用できる。倉庫管理やフィールドデータ収集、教育用のオフラインスクリプト実行環境に有効。
 
-## 引用元
-- タイトル: LispMe: An Implementation of Scheme for the Palm Pilot  
-- URL: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=62b505a67fdaf3f9bc0212536b65ac26aaedabd1

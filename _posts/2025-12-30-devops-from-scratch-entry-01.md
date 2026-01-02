@@ -53,6 +53,3 @@ journalctl -u myservice | grep ERROR > errors.log
 - 日本市場への応用
   - 日本企業のクラウド／オンプレ運用案件でもLinuxスキルは需要が高い。運用保守やDevOps職の転職・昇進で有利になります。
 
-## 引用元
-- タイトル: DevOps From Scratch: Entry #01  
-- URL: https://dev.to/maame-codes/devops-from-scratch-entry-01-47pm

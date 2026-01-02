@@ -48,6 +48,3 @@ excerpt: "AQP4と髄膜リンパを標的に脳の“掃除”改善で脳卒中
 - 日本市場での応用チャンス  
   高齢者ケア、脳卒中後リハビリ、診断イメージング分野において、グリンパティック関連の診断デバイス・モニタリング、睡眠改善テクノロジー、AQP4を標的とした創薬は大きな需要が見込めます。国内の臨床ネットワークを活かした早期臨床試験が実現しやすい環境です。
 
-## 引用元
-- タイトル: Scientists unlock brain's natural clean-up system to develop new treatments for stroke and other neurological diseases  
-- URL: https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases

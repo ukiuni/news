@@ -55,6 +55,3 @@ Day 1で無理に深掘りするのではなく、まず「動かす→観察す
 - 必携リソース: MDN Web Docs（日本語あり）とブラウザDevToolsの公式ドキュメントをブックマークする。  
 - 翌日の準備: パッケージマネージャ（npm）と簡単なプロジェクト構成、Gitでの管理を学ぶ計画を立てる。
 
-## 引用元
-- タイトル: Day One of learning JavaScript
-- URL: https://www.youtube.com/shorts/b07VbY565wQ

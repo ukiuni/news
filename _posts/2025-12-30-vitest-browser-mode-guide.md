@@ -68,6 +68,3 @@ test('非同期テキスト更新を待つ例', async () => {
 - ビジュアル回帰が重要なコンポーネントにはスクリーンショット比較を組み込む。  
 - CIでのブラウザバイナリ（Chromium等）の確保とタイムアウト設定は事前に整備する。
 
-## 引用元
-- タイトル: Vitest Browser Mode Guide  
-- URL: https://howtotestfrontend.com/resources/vitest-browser-mode-guide-and-setup-info

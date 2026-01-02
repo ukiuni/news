@@ -54,6 +54,3 @@ excerpt: "エミュレータと旧コンパイラで実機代替し、Win95向�
   - レガシー資産の棚卸しを行い、サポート継続のリスク／コストを可視化する。  
   - 工場や流通現場の機器はオフライン化やネットワーク分離で脆弱性を緩和する。移行プロジェクト提案の余地あり。
 
-## 引用元
-- タイトル: Writing Windows 95 software in 2025  
-- URL: https://tlxdev.hashnode.dev/writing-windows-95-software-in-2025

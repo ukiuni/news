@@ -69,6 +69,3 @@ int main(void) {
   - 組み込み/車載のツールチェーンでC23サポート状況を評価し、サプライチェーンや認証要件に合うかを確認する。
   - レガシー資産の最適化ポイント（ビット操作の高速化や安全なメモリ操作）を洗い出し、C23の機能で改善できる箇所を優先的に対応する。
 
-## 引用元
-- タイトル: Why C Isn't Dead in 2025: How the C23 Standard and Legacy Keep It Alive
-- URL: https://freedium-mirror.cfd/https://medium.com/@muruganantham52524/why-c-isnt-dead-in-2025-how-the-c23-standard-and-legacy-power-keep-it-alive-5618ef00668d

@@ -94,6 +94,3 @@ pub fn check(tracked_expr: TrackedExpr, ty: Type, context: &mut HashMap<String, 
 - VSCode 連携：言語サーバー（LSP）を作れば、位置情報付きエラーやインライン注釈候補を表示でき、開発者体験が向上する。  
 - 日本語ドキュメント化：エラーメッセージのローカライズは採用する国内企業や OSS コミュニティでの導入障壁を下げる。
 
-## 引用元
-- タイトル: Simple Bidirectional Type Inference  
-- URL: https://ettolrach.com/blog/bidirectional_inference.html

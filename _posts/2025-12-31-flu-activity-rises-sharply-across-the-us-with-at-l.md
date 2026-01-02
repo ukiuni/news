@@ -42,6 +42,3 @@ CDCは今シーズンの米国インフルを少なくとも750万人の感染�
 - 環境対策：換気の徹底、共有物の消毒、会議のオンライン化を優先。
 - 監視：自社拠点と主要パートナーの欠勤率や地域の保健所発表を定期的にチェックし、触発条件をBCPに組み込む。
 
-## 引用元
-- タイトル: Flu activity rises sharply across the U.S. with at least 7.5 million illnesses: CDC | CDC data shows 81,000 hospitalizations and 3,100 deaths this season so far.
-- URL: https://abcnews.go.com/US/flu-activity-rises-sharply-us-75-million-illnesses/story?id=128765018

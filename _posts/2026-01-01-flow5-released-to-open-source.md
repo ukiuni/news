@@ -50,6 +50,3 @@ Flow5 がオープンソース化され、Gmsh SDK 統合やモデル/ソルバ�
 - 環境要件の確認
   - OpenGL 4.6、Qt6 周りのサポート状況を確認し、特に Linux + Wayland 環境での表示・互換性テストを実施する。
 
-## 引用元
-- タイトル: Flow5 Released to Open Source
-- URL: https://flow5.tech/docs/releasenotes.html

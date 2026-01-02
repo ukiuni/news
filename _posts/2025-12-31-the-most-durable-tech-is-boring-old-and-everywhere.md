@@ -44,6 +44,3 @@ excerpt: "銀行や社会インフラを支える古くて地味な技術（COBO
 - 標準とオープンを優先：新規導入は可能な限りオープン規格／オープンソースに寄せ、将来のロックインを避ける。  
 - テストと自動化：既存ロジックの再現性を確保する自動テストを早期に整備する。
 
-## 引用元
-- タイトル: The most durable tech is boring, old, and everywhere  
-- URL: https://www.theregister.com/2025/12/31/long_lived_tech/

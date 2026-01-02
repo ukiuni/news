@@ -45,6 +45,3 @@
   - 会社の飲み会文化が薄れている今、社外コミュニティはキャリア・メンタル双方で価値がある。
   - デジタルではLINE/Connpass/Peatixが参加導線として有効（若年層はTwitter、ビジネス層はLinkedInも）。
 
-## 引用元
-- タイトル: I rebooted my social life  
-- URL: https://takes.jamesomalley.co.uk/p/this-might-be-oversharing

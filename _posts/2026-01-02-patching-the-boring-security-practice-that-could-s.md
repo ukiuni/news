@@ -50,6 +50,3 @@
 
 短い方針メッセージ: パッチは「完璧」を求める必要はない。最も危険な箇所を確実に減らすことが価値を生む。
 
-## 引用元
-- タイトル: Patching: The Boring Security Practice That Could Save You $700 Million  
-- URL: https://lukasniessen.medium.com/patching-the-boring-security-practice-that-could-save-you-700-million-4d8f8b4b56a1?source=user_profile_page---------2-------------e997ef2a34b8----------------------

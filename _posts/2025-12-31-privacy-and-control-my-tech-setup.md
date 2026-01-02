@@ -60,6 +60,3 @@ excerpt: "脅威モデル重視でコントロール回復する実践設定：P
 - 連絡先・カレンダーのローカル同期（Raspberry Pi + Baïkal + DAVx⁵）で外部依存を減らす。
 - DNSやレジストラの選択は機能だけでなく「その企業のインセンティブ」を評価して決める。
 
-## 引用元
-- タイトル: Privacy and control. My tech setup
-- URL: https://toidiu.com/blog/2025-12-25-privacy-and-control/

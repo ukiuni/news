@@ -49,6 +49,3 @@
 - 言語ツールに貢献する：エラーメッセージ改善やLSPプラグイン作成は採用率を高める実践的貢献。  
 - コミュニティを観察・参加する：RustやGoの哲学と実装トレードオフは学びが大きい。
 
-## 引用元
-- タイトル: Reasons to Love the Field of Programming Languages  
-- URL: https://danilafe.com/blog/i_love_programming_languages/

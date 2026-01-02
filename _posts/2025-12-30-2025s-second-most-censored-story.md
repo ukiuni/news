@@ -49,6 +49,3 @@ Drop Site Newsの内部データに基づく報告では、Metaがイスラエ�
   - 海外の国家要請が日本ユーザーの投稿に影響を与える可能性があるため、日系サービスも国境を超えた削除圧力に備えるべき。特に多言語サポートや海外拠点を持つ企業は、国別ポリシーと対応フローを整備すること。
   - 国内での表現規制や事業継続の観点から、透明性と利害関係者の声を反映するガバナンス体制が差別化要素になり得る。
 
-## 引用元
-- タイトル: 2025’s Second Most Censored Story
-- URL: https://shepherdexpress.com/news/features/2025s-second-most-censored-story/

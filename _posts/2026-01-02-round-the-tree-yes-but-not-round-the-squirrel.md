@@ -57,6 +57,3 @@ def winding_number(path, px, py):
     return round(total / (2*math.pi))
 ```
 
-## 引用元
-- タイトル: Round the tree, yes, but not round the squirrel
-- URL: https://www.futilitycloset.com/2026/01/02/round-and-round/

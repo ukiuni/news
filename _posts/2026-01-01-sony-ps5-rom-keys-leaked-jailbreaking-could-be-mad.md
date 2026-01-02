@@ -42,6 +42,3 @@ PS5のROMキー（BootROMで使われるハードウェアに焼き込まれた�
 - 企業（メーカー）側が取り得る対策（参考）：
   - 新規ロットでは改訂チップの導入、流通済み機体への対応方針策定（コストと法的制約を考慮）。
 
-## 引用元
-- タイトル: Sony PS5 ROM keys leaked – jailbreaking could be made easier with BootROM codes  
-- URL: https://www.tomshardware.com/video-games/playstation/playstation-5-rom-keys-leaked-jailbreaking-could-be-made-easier-with-bootrom-codes

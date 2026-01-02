@@ -58,6 +58,3 @@ iOS 26.2以降、Appleは日本国内向けに「代替ブラウザエンジン�
 - 開発ロードマップ
   - エンジン切替や独自エンジン導入は「セキュリティ優先」で計画。新機能より脆弱性対応を優先することを明文化。
 
-## 引用元
-- タイトル: iOS allows alternative browser engines in Japan
-- URL: https://developer.apple.com/support/alternative-browser-engines-jp/

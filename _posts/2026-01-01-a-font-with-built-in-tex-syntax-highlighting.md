@@ -41,6 +41,3 @@ OpenTypeのカラー機能（COLR v0 / v1）を使い、フォント自体にTeX
   - 日本語TeX（pLaTeX/uplatex/platex）や和文混在のスニペットで表示挙動を確認する。フォントの半角英数字部分だけで完結する設計なら影響は少ない。
   - 校正・印刷時は色だけで意味を伝えない代替（記号や太字）も検討する。
 
-## 引用元
-- タイトル: A font with built-in TeX syntax highlighting
-- URL: https://rajeeshknambiar.wordpress.com/2025/12/27/a-font-with-built-in-tex-syntax-highlighting/

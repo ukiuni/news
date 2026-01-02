@@ -68,6 +68,3 @@ OSや並列処理の内部を実際に動くコードで理解したいエンジ
 - 日本の環境での注意点：x86_64向け実装なので、ARM系（Raspberry Pi等）で試す場合はアセンブリ部分の移植が必要。ビルドは一般的なGCC/clangで動作します。
 - 貢献・拡張案：スタックオーバーフロー検知、IO待ちの回避策、より堅牢なシグナルハンドリング、ドキュメントの日本語化などが貢献しやすい箇所です。
 
-## 引用元
-- タイトル: Thread scheduler in c ( green threads)
-- URL: https://github.com/FreezB11/thread_scheduler

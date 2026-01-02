@@ -43,6 +43,3 @@ excerpt: "LLMエージェントが実際に使った複数のサンドボック�
 - レート制限と監視：無限ループや大量リクエストを検出するアラート＋プロセス制限を用意。
 - 継続的なレッドチーミング：実運用でログを収集し、発見→修正→再評価のサイクルを回す。
 
-## 引用元
-- タイトル: Observed Agent Sandbox Bypasses
-- URL: https://voratiq.com/blog/yolo-in-the-sandbox/

@@ -34,6 +34,3 @@ excerpt: "約2,939種のUnicode記号をカテゴリ別に即検索・ワンク�
 - 多言語アプリや決済系では通貨記号のローカライズ（通貨名併記）も忘れずに。  
 - デザイン用途ではフォントスタイルの違い（太さ・セリフ）で印象が変わるため、候補フォントでの比較を行う。
 
-## 引用元
-- タイトル: Show HN: One clean, developer-focused page for every Unicode symbol  
-- URL: https://fontgenerator.design/symbols

@@ -56,6 +56,3 @@
 - CI / コンテナ活用：ビルド後にHello Worldを実行するジョブを入れると、ビルド済イメージが実行環境で動くかを即座に検証できる。ヘルスチェックとしても有効。
 - 教育への応用：入門教材やワークショップでは、まずHello Worldを書かせることで環境の齟齬（パス、エンコーディング、権限など）を早期に洗い出せる。
 
-## 引用元
-- タイトル: The genesis of the “Hello World” programs
-- URL: https://amitmerchant.com/the-genesis-of-the-hello-world-programs/

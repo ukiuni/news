@@ -54,8 +54,3 @@ Toroはアプリケーションを小さなunikernelイメージ（マイクロV
   - 高速ブートが求められるCIジョブや実験的なエッジデプロイ
   - MPIやHPC用途の研究事例あり（既存の採用事例や発表が複数）
 
-## 引用元
-- タイトル: Toro: Deploy Applications as Unikernels
-- URL: https://github.com/torokernel/torokernel
-
-

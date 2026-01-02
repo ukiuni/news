@@ -53,6 +53,3 @@ Appleの戦略転換はハード・ソフト双方の市場機会を再定義す
   - 価格以外の価値（安全性、協働体験、業務効率）を中心に訴求。消費者向けなら試用体験・デモで不安を解消する施策を優先。  
   - AI機能や軽量ウェアラブルへのシフトを見越したロードマップを用意する。
 
-## 引用元
-- タイトル: Apple Reportedly Cuts Vision Pro Production Due to Weak Demand; Analysts Question Future of High-End Spatial Computing  
-- URL: https://www.theguardian.com/technology/2026/jan/01/apple-reportedly-cuts-production-vision-pro-headset-poor-sales

@@ -49,6 +49,3 @@ Corne（分割＋オルソリニア）を自作して半年使った結果、初
 - マウスは垂直マウス併用を検討するとさらに姿勢改善が見込める。
 - 日本では秋葉原や国内ショップでパーツ入手やコミュニティ支援を得やすいので、部品調達や修理は国内ルートを優先するのも手。
 
-## 引用元
-- タイトル: Using The Corne Split Keyboard For Half A Year  
-- URL: https://rugu.dev/en/blog/corne/

@@ -75,6 +75,3 @@ me   # mark 'e'
 ```
 短時間で効率化したければ、「&（フィルタ）」「/@*（全ファイル検索）」「-S（その場で行折り返し切替）」の3つをまず試してみてください。
 
-## 引用元
-- タイトル: Assorted less(1) tips
-- URL: https://blog.thechases.com/posts/assorted-less-tips/

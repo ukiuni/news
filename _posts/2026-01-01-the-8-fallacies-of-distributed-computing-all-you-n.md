@@ -73,6 +73,3 @@
 - 製造業や組み込み系ではエッジ＋MQTTなど不安定環境を前提にした設計が必須。  
 - 生成AI導入でAPI費用や応答待ちが事業性に影響するため、推論のバッチ化・キャッシュ・オンデバイス化を検討すること。
 
-## 引用元
-- タイトル: The 8 Fallacies of Distributed Computing: All You Need To Know + Why It’s Still Relevant In 2026  
-- URL: https://lukasniessen.medium.com/the-8-fallacies-of-distributed-computing-all-you-need-to-know-why-it-s-still-relevant-in-2026-078b4d8a98f1

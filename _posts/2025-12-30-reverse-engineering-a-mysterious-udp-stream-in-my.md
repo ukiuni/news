@@ -64,6 +64,3 @@ excerpt: "ホテルWi‑Fiの謎UDPを解析→実はマルチキャストMP3（
 - セキュリティ面：BSSIDやネットワーク分離が不十分だと、音声配信や監視機器がゲストと同一ネットワークに露出するリスクがある。企業や施設ではネットワークセグメント分離とACLの実装を推奨。
 - 注意：他者のネットワークに対するパケット注入や配信の改変は不正行為にあたる可能性があるため実験は必ず管理者の許可を得て行う。
 
-## 引用元
-- タイトル: Reverse Engineering a Mysterious UDP Stream in My Hotel
-- URL: https://www.gkbrk.com/hotel-music

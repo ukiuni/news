@@ -38,6 +38,3 @@ IDCは、AIインフラ向けのメモリ需要が加速した結果、PC出荷�
 - ソフト開発者・運用者向け：メモリ効率の改善（メモリプロファイリング、メモリ節約アルゴリズム、スワップ最小化）を優先し、低メモリ環境での動作検証を行う。
 - 代替手段検討：クラウドリソース（一時的なレンタル）やメモリ効率の高いアクセラレータを活用して、オンプレ機器への投資を分散する。
 
-## 引用元
-- タイトル: IDC warns PC market could shrink up to 9% in 2026 due to skyrocketing RAM pricing — even moderate forecast hits 5% drop as AI-driven shortages slam into PC market  
-- URL: https://www.tomshardware.com/tech-industry/idc-warns-pc-market-could-shrink-up-to-9-percent-in-2026-due-to-skyrocketing-ram-pricing-even-moderate-forecast-hits-5-percent-drop-as-ai-driven-shortages-slam-into-pc-market

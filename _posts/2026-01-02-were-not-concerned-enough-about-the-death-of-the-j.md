@@ -44,6 +44,3 @@
   - 実務に近い問題設定を取り入れたカリキュラム（運用、インフラ、テスト駆動）を強化する。
   - 企業と連携したインターン・共同プロジェクトで「実装以外の技能」も経験させる。
 
-## 引用元
-- タイトル: We’re not concerned enough about the death of the junior-level software engineer
-- URL: https://medium.com/@austin-starks/the-death-of-the-code-monkey-why-i-fear-for-the-class-of-2026-13dbf531a76f

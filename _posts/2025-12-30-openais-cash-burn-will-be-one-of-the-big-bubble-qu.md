@@ -42,6 +42,3 @@ OpenAIは大規模な資金調達と投資継続で成長を加速している�
 - 契約の柔軟性を確保する：大口契約ではスケーリング条項や価格ミックスを交渉し、長期的なキャッシュアウトを平準化する。  
 - シナリオプランニング：ベスト／ベース／ワーストでキャッシュバーン・収益化の時間軸を作り、資本調達のトリガーを定義する。
 
-## 引用元
-- タイトル: OpenAI's cash burn will be one of the big bubble questions of 2026  
-- URL: https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026

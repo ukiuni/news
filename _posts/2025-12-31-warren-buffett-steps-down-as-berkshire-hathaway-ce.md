@@ -38,6 +38,3 @@ excerpt: "バフェット60年のCEO退任で、巨額現金の使途が市場�
 - 日本のCIO/経営者はバークシャー流の「分権×長期視点」を自社の後継計画やM&A統合方針に応用できるか検討する。買収後の現地経営者の権限委譲は離職抑止とパフォーマンス維持に有効。
 - スタートアップは「独立性を保ったまま大手の傘下に入る」提案（例：運営の自由度＋成果主義）を交渉材料にすると、米国式買収モデルに合致しやすい。
 
-## 引用元
-- タイトル: Warren Buffett steps down as Berkshire Hathaway CEO after six decades
-- URL: https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades

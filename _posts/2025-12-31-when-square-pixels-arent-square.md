@@ -78,6 +78,3 @@ def get_display_size(path: Path):
 - ffprobe の JSON 出力を使えば自動化が容易。パイプラインやビルド時に DAR を算出してメタデータとして保存しておくとフロントエンド側での再計算を防げる。
 - 丸めは round() を使う：float での計算や int() の切り捨てはピクセル単位で見たときに差異を生むことがある。
 
-## 引用元
-- タイトル: When square pixels aren't square  
-- URL: https://alexwlchan.net/2025/square-pixels/

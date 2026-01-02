@@ -34,6 +34,3 @@ excerpt: "AI加速で株価65％高、Geminiと画像生成・クラウドが次
 - 規制リスク管理：データ共有やプライバシー制約の変化が日常化するため、データガバナンスと代替戦略（自社データの強化等）を準備する。
 - 投資判断：市場期待は高い一方で外部ショック（主要顧客の支出削減など）で株価変動が大きくなるリスクもある。事業の「AI実行力」を評価軸に。
 
-## 引用元
-- タイトル: Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens
-- URL: https://www.cnbc.com/2025/12/31/google-stock-wraps-best-year-since-2009-as-ai-excites-wall-street-.html

@@ -44,6 +44,3 @@ GUIに頼る便利さは学習の機会を奪い、リモートや制約下で�
   - tmuxでセッション管理、ssh + tmuxで切れない作業環境を確保
 - 小さな勝利を積む：最初は遅くても、毎日1回はGUIを使わず問題を解くことを習慣化する。
 
-## 引用元
-- タイトル: You Need to Ditch VS Code  
-- URL: https://jrswab.com/blog/ditch-vs-code

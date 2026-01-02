@@ -71,6 +71,3 @@ inkwell = { version = "0.7", features = ["llvm20-1"] } # LLVMのバージョン�
 - JITを試す際はローカルのLLVMバージョンとinkwellのfeatureを揃えること。DockerやHomebrewでLLVMを管理すると環境差が減る。  
 - 学びの単位を小さく保ち、各段階で「小さく動く」変更を加えることで理解が定着する。
 
-## 引用元
-- タイトル: Introduction - Create Your Own Programming Language with Rust  
-- URL: https://createlang.rs

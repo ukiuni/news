@@ -57,6 +57,3 @@
               ))
 ```
 
-## 引用元
-- タイトル: Extensibility: The "100% Lisp" Fallacy  
-- URL: https://kyo.iroiro.party/en/posts/100-percent-lisp/

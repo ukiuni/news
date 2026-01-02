@@ -29,6 +29,3 @@ Computer Chroniclesは1984〜2002年に400本以上のエピソードでパー�
 - 技術ドキュメントやデモ映像は将来の研究資源になるため、社内のプロトタイプやプレゼン資料も長期保存の仕組みを検討する（メタデータ付与、公開ポリシー）。  
 - 日本の初期PC・ネット史と比較してみると、ローカルな市場差やユーザー文化の違いが見えてくる。教育カリキュラムやイベントで史料を題材にするのも有効。
 
-## 引用元
-- タイトル: Stewart Cheifet, creator of The Computer Chronicles, has died
-- URL: https://obits.goldsteinsfuneral.com/stewart-cheifet

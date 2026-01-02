@@ -77,6 +77,3 @@
 
 日本市場での適用例：EC の検索インデックス高速化、金融のリアルタイム集計、組み込み機器の消費電力改善、オンプレ／クラウドの運用コスト削減などで即効性が高い。
 
-## 引用元
-- タイトル: Memory Subsystem Optimizations  
-- URL: https://johnnysswlab.com/memory-subsystem-optimizations/

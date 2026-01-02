@@ -44,6 +44,3 @@ excerpt: "米調査で航空会社ごとに機内給水の安全性が大差、�
 - 政策提言（短く）
   - 空港・自治体は給水供給業者の第三者監査を義務化し、違反が続く場合の公表・罰則の運用を強化すべき。
 
-## 引用元
-- タイトル: Quality of drinking water varies significantly by airline  
-- URL: https://foodmedcenter.org/2026-center-for-food-as-medicine-longevity-airline-water-study/

@@ -80,6 +80,3 @@ for ($lc = $maxLevel; $lc >= 1; $lc--) {
 - 距離計算（コサイン等）はホットスポットになるため最適化（SIMD、拡張モジュール、事前正規化）を検討。  
 - メトリクス：検索遅延、召喚率（recall）とスループットを常にモニタリングする。
 
-## 引用元
-- タイトル: Implementing HNSW (Hierarchical Navigable Small World) Vector Search in PHP  
-- URL: https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en

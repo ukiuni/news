@@ -35,6 +35,3 @@ excerpt: "スマホで市民が警察を撮影し、公権力の不正を暴く�
 - プラットフォーム運営者は透明性レポート、削除／召喚対応フロー、ユーザー保護機能（匿名化ツール、アクセス制御）を整備する。  
 - 市民・市民団体は地域の監視ガイドラインや「記録の安全な拡散」のベストプラクティスを共有し、法的支援ネットワークと連携する。
 
-## 引用元
-- タイトル: Privacy may be dead, but civilians are turning conventional wisdom on its head by surveilling the cops as much as the cops surveil them  
-- URL: https://www.wired.com/story/expired-tired-wired-surveillance-state/

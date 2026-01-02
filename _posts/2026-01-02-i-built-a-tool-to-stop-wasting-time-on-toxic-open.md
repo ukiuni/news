@@ -73,6 +73,3 @@ function extractFilePaths(text: string): string[] {
 - 初回貢献は「Hidden Gems（古いが影響が大きいIssue）」や Crackability が低いチケットを狙うと成功率が高い。  
 - チームでOSS貢献を勧めるなら、リポジトリ選定に今回のようなスコア基準を導入すると新人の学習効率が上がる。
 
-## 引用元
-- タイトル: I Built a Tool to Stop Wasting Time on Toxic Open Source Projects  
-- URL: https://dev.to/elsad_humbetli_0971c995ce/i-built-a-tool-to-stop-wasting-time-on-toxic-open-source-projects-5h12

@@ -30,6 +30,3 @@ excerpt: "電気分解で不分解性汚染物質（PFAS等）を現場で安全
 - エネルギーとCO2観点：電気を大量に使うため、再エネや余剰電力との組合せでカーボンフットプリントを低減する設計を検討する。
 - 規制・安全性対応：処理後の生成物や処理スラッジの化学的成分を明確にし、地方自治体や環境規制に合わせたモニタリング計画を策定する。
 
-## 引用元
-- タイトル: Electrolysis can solve one of our biggest contamination problems
-- URL: https://ethz.ch/en/news-and-events/eth-news/news/2025/11/electrolysis-can-solve-one-of-our-biggest-contamination-problems.html

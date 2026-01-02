@@ -35,6 +35,3 @@ SNSや短尺コンテンツ、AI生成メディアが普及する今、意図せ
 - メディアリテラシー: 開発者／ユーザー双方に多層メッセージの教育を提供し、特にAI生成コンテンツに対する懐疑的な検証ルールを共有する。  
 - 政策提言: 日本のガイドラインでは「悪用されやすい曖昧表現」の届出や透明性要求を議論しておくことが望ましい。
 
-## 引用元
-- タイトル: Straussian Memes  
-- URL: https://www.lesswrong.com/posts/CAwnnKoFdcQucq4hG/straussian-memes-a-lens-on-techniques-for-mass-persuasion

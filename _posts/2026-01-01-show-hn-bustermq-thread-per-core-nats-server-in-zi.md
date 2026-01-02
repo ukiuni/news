@@ -54,6 +54,3 @@ BusterMQはZigで書かれ、io_uringとスレッド毎コア（thread-per-core�
   - カーネル/ネットワーク設定やハードウェアに強く依存するため、ベンチ結果は環境差が大きい。
   - プロトコル互換を謳うが、細かなクライアント挙動の差異はテスト必須。
 
-## 引用元
-- タイトル: Show HN: BusterMQ, Thread-per-core NATS server in Zig with io_uring
-- URL: https://bustermq.sh/

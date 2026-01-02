@@ -44,6 +44,3 @@ OSS運営や外部貢献をする日本のエンジニアにとって、単に�
 - Issue化を望む場合：Discussion内で「これは再現でき、作業に値する問題です」と結論づけることでメンテナがIssueに移しやすくなる。
 - プロジェクトのCONTRIBUTING.mdを必ず確認：プロジェクト固有の手順やテンプレが載っている。
 
-## 引用元
-- タイトル: Why users cannot create Issues directly (Ghostty)  
-- URL: https://github.com/ghostty-org/ghostty/issues/3558

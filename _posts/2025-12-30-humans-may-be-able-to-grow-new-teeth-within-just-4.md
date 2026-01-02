@@ -42,6 +42,3 @@ excerpt: "2030年実用化目標、抗体で歯を再生する臨床試験が始
 - 一般読者／患者向け：現時点では臨床試験段階。過度な期待は禁物だが、新しい選択肢として情報を追う価値あり。適格な試験があれば参加の検討も可能。
 - 投資家／事業開発：2030年を見据えた市場予測と規制動向をチェック。日本発の技術が国際展開する可能性も高い。
 
-## 引用元
-- タイトル: Humans May Be Able to Grow New Teeth Within Just 4 Years  
-- URL: https://www.popularmechanics.com/science/health/a69878870/human-new-tooth-regrowth-trials-japan-timeline/

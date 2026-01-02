@@ -37,6 +37,3 @@ excerpt: "リーダーが休む具体策でチームの自律化と生産性を�
 5. リーダー自身の習慣改変  
    - 夜間の即レスポンスをやめ、返信は業務時間内にまとめる。スケジュールで「思考のための非稼働時間」を確保する。
 
-## 引用元
-- タイトル: Best Engineering Leaders Know How To Switch Off
-- URL: https://newsletter.eng-leadership.com/p/best-engineering-leaders-know-how

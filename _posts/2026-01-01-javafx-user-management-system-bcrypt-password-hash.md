@@ -75,6 +75,3 @@ try (PreparedStatement ps = conn.prepareStatement(sql)) {
   - DB 接続に TLS を使う、最小権限の DB アカウントを用いる  
   - パスワードリセットは短期トークン＋検証済みメールで実装
 
-## 引用元
-- タイトル: JavaFX User Management System – BCrypt Password Hashing (Part 6)  
-- URL: https://www.youtube.com/watch?v=LDD1Kan7tOI&t=4s

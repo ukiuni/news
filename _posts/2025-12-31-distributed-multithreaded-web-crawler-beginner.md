@@ -62,6 +62,3 @@ excerpt: "RedisとJsoupで作る、robots対応の分散ECクローラ実践ガ�
 - 運用監視を設計に含める：queue長、retryカウント、deadキューの増加をアラート化する。
 - 法律・利用規約の確認：日本国内でもスクレイピングは景表法・利用規約や著作権に関する配慮が必要。robots.txtは技術的ガイドラインだが、法的リスク回避のため運用ルールを整備すること。
 
-## 引用元
-- タイトル: Distributed MultiThreaded Web Crawler (beginner)
-- URL: https://github.com/DhairyaVardhanChauhan/WebCrawler

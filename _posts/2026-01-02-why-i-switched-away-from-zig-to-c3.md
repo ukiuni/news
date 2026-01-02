@@ -56,6 +56,3 @@ ZigからC3へ移行した理由は、「Cの直感性を保ちつつ、実用�
 - 標準ライブラリ（io/stream 等）やABI互換の箇所はソースを読み、Cとの相互運用で期待とズレがないか確認する。  
 - コミュニティ（DiscordやGitHub）でのやり取りが活発なので、実装上の疑問はIssueやPRで改善に貢献すると学びが早い。
 
-## 引用元
-- タイトル: Why I switched away from Zig to C3  
-- URL: https://lowbytefox.dev/blog/from-zig-to-c3/

@@ -44,6 +44,3 @@ var nowGood = DateTime.UtcNow.ToString(RFC1123Pattern, CultureInfo.InvariantCult
   - テスト: 非英語ロケール（ja-JP, pt-PT, fr-FR など）でのエンドツーエンド/API結合テストを自動化する。
 - 日本市場への注意点: ja-JP でも曜日や月の表現が異なるため、海外/国内混在環境で同様の問題が再現し得る。多言語サービスや海外拠点との連携があるプロダクトは要チェック。
 
-## 引用元
-- タイトル: Application Prohibited Internationally
-- URL: https://tuckersiemens.com/posts/application-prohibited-internationally/

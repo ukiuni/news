@@ -41,6 +41,3 @@ AIによる画像改変は技術的には容易になり、被害は拡散の速
   - APIやモデル公開時は利用規約と技術的制約（レート制限、用途制限、監査ログ）を明確化。
 - 開発者：NSFW分類器や合成検出器（ディープフェイク検出）の最新研究を追い、 adversarial な回避手法を想定した評価を行うこと。
 
-## 引用元
-- タイトル: Grok claims safeguards tightened after users misuse AI to morph images of women, children
-- URL: https://www.cnbctv18.com/technology/grok-claims-safeguards-tightened-after-users-misuse-ai-to-morph-images-of-women-children-ws-l-19811512.htm

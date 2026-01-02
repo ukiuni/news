@@ -62,6 +62,3 @@ excerpt: "デリバティブとハッシュパワーでビットコインを潰�
 - 開発者／運用者向け  
   - ノード運用におけるリオーグ・再編のログ・アラートを整備し、短時間でのネットワーク異常検出を自動化する。  
 
-## 引用元
-- タイトル: Sabotaging Bitcoin  
-- URL: https://blog.dshr.org/2025/12/sabotaging-bitcoin.html

@@ -43,6 +43,3 @@ excerpt: "米領ヴァージン諸島がメタを提訴、詐欺広告や児童�
 - 法務・運用へ  
   - 広告ポリシー、出稿者KYC、対応プロセスを文書化し、監査トレイルを確保する。規制対応のロードマップを早めに準備する。
 
-## 引用元
-- タイトル: Meta is sued by US Virgin Islands over ads for scams, dangers to children
-- URL: https://www.reuters.com/legal/litigation/meta-is-sued-by-us-virgin-islands-over-ads-scams-dangers-children-2025-12-30/

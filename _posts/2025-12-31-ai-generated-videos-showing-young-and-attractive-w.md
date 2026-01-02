@@ -51,6 +51,3 @@ AIで生成した若い女性の映像がTikTokなどで「Polexit（ポーラ�
 - 政策・社会的対応の示唆  
   事実確認体制の強化、学校やコミュニティでのデジタルリテラシー教育拡充、プラットフォームへの透明性要求（広告・レコメンドの説明）を推進すべき。
 
-## 引用元
-- タイトル: AI-generated videos showing young and attractive women promote Poland's EU exit  
-- URL: https://www.euronews.com/2025/12/30/ai-generated-videos-showing-young-and-attractive-women-promote-polands-eu-exit

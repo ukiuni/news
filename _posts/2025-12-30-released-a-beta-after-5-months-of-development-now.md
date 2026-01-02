@@ -51,6 +51,3 @@ GitDynamicはGitHubリポジトリをワンクリックで取り込み、if/else
 - セキュリティ/コンプライアンス観点で必要なファイル（監査用設定、依存の許可リストなど）をテンプレに組み込み、公開テンプレと社内テンプレで管理ポリシーを分ける。
 - 公開テンプレを作るならREADMEやオプションの推奨組合せを明記して、採用側が迷わないようにする。
 
-## 引用元
-- タイトル: Released a beta after ~5 months of development — now wondering if it was worth it  
-- URL: https://www.gitdynamic.io

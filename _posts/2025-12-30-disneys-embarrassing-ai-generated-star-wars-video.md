@@ -41,6 +41,3 @@ excerpt: "ディズニーのバラバラ動物AI映像炎上が示す、AI導入
 - 危機対応プランを用意する：不祥事発生時の広報、撤回フロー、修正リリース案を事前に設計する。  
 - 日本市場向け配慮：文化的センシティビティや表現規範が海外と異なるため、ローカライズ段階での追加検査を必須化する。
 
-## 引用元
-- タイトル: Disney's embarrassing AI-generated Star Wars video of scrambled-up animals was the opening salvo in a year full of AI humiliation  
-- URL: https://www.pcgamer.com/software/ai/disneys-embarrassing-ai-generated-star-wars-video-of-scrambled-up-animals-was-the-opening-salvo-in-a-year-full-of-ai-humiliation/

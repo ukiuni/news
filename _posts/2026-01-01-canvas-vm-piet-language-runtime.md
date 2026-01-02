@@ -49,6 +49,3 @@ Hello World!
 ```
 - 教育用途での提案：色・形で制御を表現するPietは、アルゴリズム教育やビジュアルプログラミング入門に向く。日本のカリキュラムや勉強会での導入を検討すると受け入れられやすいです。
 
-## 引用元
-- タイトル: Canvas VM - Piet Language Runtime
-- URL: https://www.canvasvm.com/

@@ -48,6 +48,3 @@ Honeyがテスターやアフィリエイト関係者をブラウザ拡張側で
 - 開発者（プロダクト）向け対策
   - 自社が拡張を提供／利用している場合は、テスター判定に用いる条件（アカウント年齢・ポイント等）を公開しない設計は監査リスクを高める。透明性と第三者監査の導入を検討する。
 
-## 引用元
-- タイトル: Honey's Dieselgate: Detecting and tricking testers  
-- URL: https://vptdigital.com/blog/honey-detecting-testers/

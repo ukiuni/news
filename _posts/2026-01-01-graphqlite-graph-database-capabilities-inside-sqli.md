@@ -45,6 +45,3 @@ g.louvain()
 - 性能留意点: 大規模なグラフ解析はメモリ／I/Oの制約が出るため、アルゴリズム実行前にサブグラフに絞る設計を検討する。  
 - ライセンスと導入: MITライセンス。組織導入ではバイナリ組み込み方法やサポート体制を確認する。
 
-## 引用元
-- タイトル: GraphQLite - Graph database capabilities inside SQLite using Cypher
-- URL: https://github.com/colliery-io/graphqlite

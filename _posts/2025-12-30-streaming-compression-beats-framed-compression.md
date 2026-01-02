@@ -93,6 +93,3 @@ impl Decoder {
 }
 ```
 
-## 引用元
-- タイトル: Streaming compression beats framed compression
-- URL: https://bou.ke/blog/compressed/

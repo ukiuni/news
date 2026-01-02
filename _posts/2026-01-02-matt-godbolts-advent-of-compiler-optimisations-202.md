@@ -72,6 +72,3 @@ int mul5(int x) {
 - 浮動小数点の順序依存を意識して、正確性と性能のトレードオフを明確にする（例：-ffast-mathの使用は注意）。  
 - モバイル/組込み向けにはARMのアドレッシングやバレルシフタ特性を理解すると手書き最適化が減らせる。
 
-## 引用元
-- タイトル: Matt Godbolt's Advent of Compiler Optimisations 2025  
-- URL: https://xania.org/AoCO2025-archive

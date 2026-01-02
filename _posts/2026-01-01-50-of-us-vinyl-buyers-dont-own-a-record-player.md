@@ -39,6 +39,3 @@
   - 少量生産の限定EPやアートワークに投資すると、ファンの購買モチベーションが高まる。
   - 海外トレンドを踏まえた国内コラボ（カフェ、セレクトショップ）での販売を検討する。
 
-## 引用元
-- タイトル: 50% of U.S. vinyl buyers don't own a record player  
-- URL: https://lightcapai.medium.com/the-great-return-from-digital-abundance-to-analog-meaning-cfda9e428752

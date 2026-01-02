@@ -32,6 +32,3 @@ F‑Droidは自由なAndroidアプリ配布の重要な基盤です。サーバ�
 - コントリビュータ向け：透明性ログや公開頻度をモニタリングして、ビルド失敗やパッケージ問題の早期報告・修正に協力する。
 - 運用/インフラ担当者向け：クラウド一辺倒ではなく、物理的な管理者との協力モデルを検討すると、透明性・耐障害性の向上につながる。
 
-## 引用元
-- タイトル: A faster heart for F-Droid. Our new server is here
-- URL: https://f-droid.org/2025/12/30/a-faster-heart-for-f-droid.html

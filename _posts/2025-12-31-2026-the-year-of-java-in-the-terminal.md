@@ -47,6 +47,3 @@ Javaはもはや「起動が遅い」「端末向きでない」と言わせな�
 - リリース自動化：JReleaserでHomebrew/SDKMAN/Dockerなどへの配布を設定して「インストールはこれだけ」で試せる状態にする。  
 - 共有する：ブログやGitHubで「Javaでこんなに快適に作れた」を発信し、コミュニティに貢献する。日本企業の業務ユースケース（運用ツール、ログ解析、社内AIアシスタント）を狙うと採用されやすい。  
 
-## 引用元
-- タイトル: 2026: The Year of Java in the Terminal  
-- URL: https://xam.dk/blog/lets-make-2026-the-year-of-java-in-the-terminal/

@@ -34,6 +34,3 @@ Rubyは技術史上、フレームワーク（Rails）とコミュニティの�
 - 歴史から学ぶ：Programming Ruby や初期Railsのデモを振り返り、設計思想（可読性、開発者体験）をプロダクトに適用する。
 - コミュニティの雰囲気を育てる：技術力だけでなく「親切さ（MINASWAN）」や継続的なメンターシップを重視することで長期的なエコシステムを維持する。
 
-## 引用元
-- タイトル: Matz 2/2: The trajectory of Ruby's growth, Open-Source Software today etc.
-- URL: https://en.kaigaiiju.ch/episodes/matz2

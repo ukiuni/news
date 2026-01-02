@@ -45,6 +45,3 @@ excerpt: "コスト・法令・運用を踏まえ、説明できる意思決定�
 - 実戦訓練: Chaos EngineeringやGameDayで障害対応を実演し、設計の弱点を洗い出す。
 - 日本固有の要件をチェックリスト化: データ居住、ログ保管、法令対応、ベンダーSLAをチェックリストにする。
 
-## 引用元
-- タイトル: Being a Cloud Architect Isn’t About Tools; It’s About Decisions You Can Defend
-- URL: https://www.netcomlearning.com/blog/what-is-a-cloud-architect

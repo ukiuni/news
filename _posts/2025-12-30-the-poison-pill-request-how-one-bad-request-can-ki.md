@@ -46,6 +46,3 @@ excerpt: "たった1件の毒リクエストがロードバランサ再試行で
   - 即時停止用のキルスイッチ（フラグ/FeatureFlag）を用意し、問題APIやルートをデプロイなしで切れるようにする。
 - ツール例：Envoyのリトライ予算、WAF、ログ集約（ELK/Fluentd/Datadog）、FeatureFlagサービス
 
-## 引用元
-- タイトル: The Poison Pill Request: How One Bad Request Can Kill Your Entire Fleet  
-- URL: https://systemdr.substack.com/p/the-poison-pill-request-how-one-bad

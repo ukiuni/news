@@ -39,6 +39,3 @@ excerpt: "実務直結の読本第5版：関係DBから分散トランザクシ�
 - 読書会・勉強会に使う：章ごとに論点がまとまっているため、チームの学習教材として最適。各章の示唆を設計レビューに組み込む。
 - 日本市場への応用：FinTechやEC、IoT系でのスケール要件やレイテンシ要件に対し、Red Bookの判断軸（整合性 vs 可用性、バッチ vs ストリーム）を基準にアーキテクチャ検討を行う。
 
-## 引用元
-- タイトル: Readings in Database Systems (5th Edition)
-- URL: http://www.redbook.io/

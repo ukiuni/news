@@ -60,8 +60,3 @@ excerpt: "週末で自前のフォームバックエンドを作り、月額数�
 - コスト判断：トラブルシューティングにかかる時間とSaaSの年間コストを比較して、自力運用が割に合うか判断する。
 - カスタマイズ性：必要ならWebhookやZapier連携を追加して既存ワークフローに接続可能。
 
-## 引用元
-- タイトル: I Built a Form Backend in a Weekend Because Paying $20/Month for Contact Forms is Stupid
-- URL: https://dev.to/varshithvhegde/i-built-a-form-backend-in-a-weekend-because-paying-20month-for-contact-forms-is-stupid-1o34
-
-（参考：元プロジェクトはMITライセンスで公開。Supabase／Vercel／Resend の無料枠をうまく使うことで、週末プロジェクトとして低コストに導入可能です。）

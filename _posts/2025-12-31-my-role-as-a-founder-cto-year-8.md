@@ -51,6 +51,3 @@ RevenueCat創業者兼CTOが、買収提案を受けながらも独立を選び�
 - AIツールはチーム主導で実験導入し、ベストプラクティスだけを横展開する。  
 - コンプライアンス（SOC2 など）は早めに自走化し、創業者の手離れを図る。
 
-## 引用元
-- タイトル: My role as a founder-CTO: year 8  
-- URL: https://miguelcarranza.es/cto-year-8

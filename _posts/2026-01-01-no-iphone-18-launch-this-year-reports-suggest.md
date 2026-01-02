@@ -40,6 +40,3 @@ iPhoneの「秋まとめて発表」が終わるかもしれない――Appleが
   - 在庫計画を分散化し、秋は高単価のPro系アクセサリ中心、春はスタンダード向けのボリューム戦略に切り替える準備を。
   - キャンペーン時期を再調整し、春の新製品需要を取り込むプロモーションを設計する。
 
-## 引用元
-- タイトル: No iPhone 18 Launch This Year, Reports Suggest
-- URL: https://www.macrumors.com/2026/01/01/no-iphone-18-launch-this-year/

@@ -34,6 +34,3 @@ excerpt: "海底ケーブルの歴史と脆弱性が国家経済に直結する�
 - ビジネス／政策担当：太平洋諸島との協力は単なる慈善ではなく、地域接続性向上による新市場開拓とサプライチェーン強化の機会となる。
 - 一般の関心層：主要な海底ケーブルマップや着陸点を確認し、サービスの可用性や法的・政治的リスクを理解する。
 
-## 引用元
-- タイトル: The Legacy of Undersea Cables
-- URL: https://blog.sciencemuseumgroup.org.uk/the-legacy-of-undersea-cables/

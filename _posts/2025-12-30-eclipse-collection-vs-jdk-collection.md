@@ -43,6 +43,3 @@ JMHベンチマークで比較すると、Eclipse Collections（EC）はArrayLis
 - ソート済みMapがほしい場合はTreeMap系で差は小さいので互換性・APIを優先。  
 - 本番導入前にベンチとプロファイルを必ず実行：差は「わずか」なことが多く、運用コストとトレードオフを評価する。
 
-## 引用元
-- タイトル: eclipse collection vs JDK collection
-- URL: https://ozkanpakdil.github.io/posts/my_collections/2025/eclipse-collections-vs-jdk-collections/

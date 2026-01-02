@@ -50,6 +50,3 @@
 - 規制・事業者向け
   - 手数料の用途開示、アルゴリズム監査、第三者による独立したテストを検討する。A/Bテストで意図的にサービス品質を下げる運用は倫理的・法的リスクが高い。
 
-## 引用元
-- タイトル: A confession from a mainstream food delivery app engineer
-- URL: https://www.reddit.com/r/confession/s/gbrh2zxeou

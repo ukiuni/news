@@ -41,6 +41,3 @@ excerpt: "NYC就任式がRaspberry PiとFlipper Zeroを持込禁止に、メイ�
 - 企業やコミュニティはイベントポリシー作成時に、例外手続きや技術説明窓口を用意しておくと摩擦を減らせる。  
 - 日本のメイカースペースや教育現場は、今回の事例を契機に「外部イベントでのデバイス持込ガイドライン」を整備しておくと安心。
 
-## 引用元
-- タイトル: NYC Mayoral Inauguration bans Raspberry Pi and Flipper Zero alongside explosives  
-- URL: https://blog.adafruit.com/2025/12/30/nyc-mayoral-inauguration-bans-raspberry-pi-and-flipper-zero-alongside-explosives/

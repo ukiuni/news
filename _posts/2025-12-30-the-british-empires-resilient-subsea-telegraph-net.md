@@ -43,6 +43,3 @@ excerpt: "英帝国の海底電信網の冗長設計と自前修繕力が示す�
 - 国家レベルでの備えを検討する（政策提言）  
   - 海底ケーブルは経済インフラであり、国家レベルの冗長化計画や修理支援、製造・敷設の国内能力育成は戦略的投資となる。
 
-## 引用元
-- タイトル: The British Empire's Resilient Subsea Telegraph Network  
-- URL: https://subseacables.blogspot.com/2025/12/the-british-empires-resilient-subsea.html

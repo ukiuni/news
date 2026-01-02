@@ -58,6 +58,3 @@ GitHubの公式ライセンステンプレートをAPIから取得して、タ�
 - コントリビューション: 小さな改善（例: 日本語ローカライズ、SPDX識別子の挿入、Linuxサポート）ならリポジトリにPRを投げやすい。  
 - 法務連携: 自動化しても法務チェックは不要にはならない。生成後に必ず社内法務／ライセンス担当が確認するプロセスを残す。
 
-## 引用元
-- タイトル: Got tired of copy-pasting LICENSE files, so I built a tiny CLI for it (Homebrew)  
-- URL: https://github.com/kushvinth/lic

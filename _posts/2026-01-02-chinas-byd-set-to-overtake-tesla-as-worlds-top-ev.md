@@ -33,6 +33,3 @@ BYDの台頭は単なる販売数の話にとどまらず、「低価格で量�
 - 海外展開とローカライゼーション：関税や規制に対応するため、現地生産・パートナーシップを早期に検討することが有効。
 - 市場モニタリング：BYDのモデル仕様・価格・販売チャネルを定点観測し、自社戦略に素早く反映する。
 
-## 引用元
-- タイトル: China's BYD set to overtake Tesla as world's top EV seller
-- URL: https://www.bbc.com/news/articles/cj9rjwpvmpzo

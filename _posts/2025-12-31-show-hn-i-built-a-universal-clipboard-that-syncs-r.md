@@ -42,6 +42,3 @@ QuickClipはクリップボード（テキスト・画像・ファイル）を�
 - チーム運用なら利用規約・データ削除手順を明確にし、共有ルールを作る。
 - 競合ツール（OSネイティブのクリップ同期、KDE Connect、1Passwordの共有クリップなど）と比較して速度・対応ファイル・セキュリティの優先順位を決める。
 
-## 引用元
-- タイトル: Show HN: I built a universal clipboard that syncs realtime on multiple devices  
-- URL: https://www.quickclip.space/

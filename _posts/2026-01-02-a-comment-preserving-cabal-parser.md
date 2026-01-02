@@ -51,6 +51,3 @@ CabalはHaskellパッケージ管理の中心であり、コメントやレイ�
 - エディタ/拡張開発者（VS Codeなど）：Language Serverやフォーマッタ拡張でCabal編集を行う際、exact print対応によりユーザーの手書きスタイルを守った自動編集が可能になる。拡張は新APIに対応する準備を。  
 - コントリビューションの勧め：コメント・トリビアを壊す既存のpretty-printのテストケース（特殊な空白、カンマ表記、elifの形など）を用意して、exact printing統合時の回帰防止に貢献すると効果的。
 
-## 引用元
-- タイトル: A Comment-Preserving Cabal Parser  
-- URL: https://blog.haskell.org/a-comment-preserving-cabal-parser/

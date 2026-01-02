@@ -44,6 +44,3 @@ excerpt: "米国製AIが中国で少数民族監視に転用、日系技術者�
 - コミュニティへ
   - 日本の研究者・企業は国際ルール作りや技術的標準化（プロビナンス、ウォーターマーク等）に積極的に参加する。
 
-## 引用元
-- タイトル: China is using American AI against the U.S. Here’s how to stop it.
-- URL: https://www.washingtonpost.com/opinions/2025/12/29/ai-labs-china-security-standards/

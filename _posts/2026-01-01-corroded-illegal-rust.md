@@ -42,6 +42,3 @@ corrodedはRustの安全性チェック（借用検査や境界チェックな�
 - 研究・ツール評価用途:
   - ファジングやUB検出ツールのテストベッドとして有用。既存の解析器や静的解析ルールの検出率比較に使える。
 
-## 引用元
-- タイトル: corroded: Illegal rust
-- URL: https://github.com/buyukakyuz/corroded

@@ -40,6 +40,3 @@ Email Privacy Testerは、メールクライアントが外部コンテンツや
 - 運用：従業員向けには「画像自動読み込みを無効化する」「HTMLメールの危険性を周知する」などの最低限の教育を実施する。  
 - 参考リスト活用：Known Bad Email Clientsの情報を受信者ターゲット別に整理し、配信戦略（プレーンテキスト版の提供等）を検討する。
 
-## 引用元
-- タイトル: Email Privacy Tester  
-- URL: https://www.emailprivacytester.com/

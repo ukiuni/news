@@ -64,6 +64,3 @@ Homebrewなどの命令的な運用で起こる「環境の劣化（imperative r
   - まずは小さな部分（シェル設定、コンパイラ）から移行して慣れる。  
   - GUIアプリや macOS 特有の振る舞いはドキュメントとコミュニティ（nix-darwin のマニュアル）を参照しつつ段階的に調整する。
 
-## 引用元
-- タイトル: Going immutable on macOS  
-- URL: https://carette.xyz/posts/going_immutable_macos/

@@ -35,6 +35,3 @@ excerpt: "幼少期の初体験が時間密度を決め、開発者はユーザ�
 - 親でない人へ：ボランティアやメンター活動で他者の「初めて」に関わるだけでも時間の豊かさを体感できる。
 - 習慣化の工夫：年一回の「新しいことチャレンジ」をカレンダーに入れ、意図的に非日常を取り入れる。
 
-## 引用元
-- タイトル: If childhood is half of subjective life, how should that change how we live?
-- URL: https://moultano.wordpress.com/2025/12/30/children-and-helical-time/

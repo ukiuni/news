@@ -38,6 +38,3 @@ alias shtyper='~/path/to/shtyper/shtyper.sh 3'
   - VSCode の統合ターミナルや WSL 上で動かして日常環境に組み込む。
 - カスタマイズ例：出題ソースを自分のコード断片やよく使うコマンドに差し替えると実用性が上がる。
 
-## 引用元
-- タイトル: small bash terminal-based keyboard typing trainer
-- URL: https://github.com/skig/shtyper

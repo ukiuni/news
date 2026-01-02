@@ -42,6 +42,3 @@ Xousは純Rustで書かれたメッセージパッシング型のマイクロカ
 - IPC設計はRustの所有権モデルに合わせる（move/borrowベースのデータ移動）とバグの被害範囲を限定できる。  
 - ツールチェーン：riscvツールチェーン、cargo + cross、メモリ/仮想化デバッグツール（QEMU等）を整備する。
 
-## 引用元
-- タイトル: Xous: A Pure-Rust Rethink of the Embedded Operating System  
-- URL: https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system

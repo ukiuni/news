@@ -45,6 +45,3 @@ NvidiaはIntel株を約50億ドル分、1株あたり$23.28で取得（2.14億�
 - 調達・購買担当へ：Intel・Nvidiaの優先供給や新SoC投入スケジュールを注視し、長期調達契約の見直しを検討する。  
 - 経営／投資判断者へ：戦略的出資が短期的に含み益を生む一方、規制リスクは常に存在するため、ニュースの解釈を定量的に行う（シナリオ分析を推奨）。
 
-## 引用元
-- タイトル: Nvidia spends $5B on Intel bailout, instantly gets $2.5B richer  
-- URL: https://www.theregister.com/2025/12/29/nvidia_intel_5_billion/

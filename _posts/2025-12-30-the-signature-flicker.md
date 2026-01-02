@@ -33,6 +33,3 @@ AnthropicがClaude Codeの長年の「画面チラつき（flicker）」をカ�
 - alt-screenはダッシュボード向けに有効だが、選択・検索・スクロールが重要なユースケースでは慎重に。ユーザービリティを実機で必ず確認する。
 - 既存ライブラリ（Inkやopentui等）の最新動向を追い、必要ならレンダラーをカスタムする判断をする。
 
-## 引用元
-- タイトル: The Signature Flicker
-- URL: https://steipete.me/posts/2025/signature-flicker

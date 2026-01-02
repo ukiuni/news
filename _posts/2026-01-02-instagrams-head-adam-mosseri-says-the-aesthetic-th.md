@@ -35,6 +35,3 @@ AI画像生成が一般化する中で、ソーシャルメディアの信頼性
 - ブランドの差別化：AIで作れる“見た目の美しさ”に依存せず、ストーリーテリングや信頼性、専門性で価値を築く。  
 - 技術投資の検討：企業や大規模クリエイターは検出ツール、デジタル署名、コンテンツ検証インフラへの投資を評価する。
 
-## 引用元
-- タイトル: Instagram's head Adam Mosseri says the aesthetic that helped the app become popular is dead — and AI helped kill it  
-- URL: https://www.businessinsider.com/instagram-head-ai-images-polished-feed-dead-adam-mosseri-2026-1

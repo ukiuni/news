@@ -46,6 +46,3 @@
 - 難易度調整は「成功で待ち時間を短縮する」方式が簡単で中毒性が高い。初回は緩めにして学習曲線を作る。
 - ハイスコアは localStorage に保存して、デバイス間比較よりもローカルでの改善を促すUXにする。
 
-## 引用元
-- タイトル: Small experiment with timing-based interactions in the browser  
-- URL: https://reflex-tap-lemon.vercel.app/

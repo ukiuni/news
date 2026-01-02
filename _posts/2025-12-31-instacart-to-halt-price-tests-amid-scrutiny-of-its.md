@@ -42,6 +42,3 @@ AIを用いた価格最適化は、単に収益を伸ばす施策ではなく「
   - 日本の個人情報保護法（APPI）や消費者関連法を踏まえ、同意やデータ利用目的を明確にする。
   - 規制対応チームとプロダクトの連携を早期に確立する。
 
-## 引用元
-- タイトル: Instacart to halt 'price tests' amid scrutiny of its AI tool for retailers. Instacart will no longer let retailers use its AI-driven software to run price tests following criticism over different prices appearing for the same item.
-- URL: https://www.nbcnews.com/business/consumer/instacart-ai-price-tests-scrutiny-rcna250454

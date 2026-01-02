@@ -39,6 +39,3 @@ excerpt: "米国求人が示す、クラウドとKubernetes人材の即戦力需
 - キャリア投資: AWS認定やKubernetes認定（CKA）などの資格はスキル証明として有効だが、実務での成果を示すことがより重要。  
 - 日本市場への適用: 日系企業でもクラウド／DevOps需要は増加中。米国トレンドを踏まえた社内研修や採用要件の見直しを提案すると差別化できる。
 
-## 引用元
-- タイトル: Snapshot of software engineering job openings in US  
-- URL: https://jobswithgpt.com/blog/software-engineering_jobs_december_2025/

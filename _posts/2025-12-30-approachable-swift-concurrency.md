@@ -92,6 +92,3 @@ iOS/Swiftの現場では非同期I/Oや並列処理が増え、UIフリーズや
 - CPU重めの処理は`@concurrent`や専用のバックグラウンドTaskで実行してUIスレッドを守る。  
 - 単体テスト／並行シナリオのテストでキャンセルやデータ競合を検証する習慣をつける。
 
-## 引用元
-- タイトル: Approachable Swift Concurrency  
-- URL: https://fuckingapproachableswiftconcurrency.com/en/

@@ -50,6 +50,3 @@
   - 教育用途ではファイル配布を省いて即時演習に使えるため、授業での導入コストが低い。
 - 開発者向け：拡張ポイントは式の種類追加、URL短縮サービスとの連携、サーバ不要の共同編集（CRDT等）検討。社内ツール化するなら、許容できるURL長と暗号ポリシーを事前に評価する。
 
-## 引用元
-- タイトル: A lightweight, client-only spreadsheet web application. All data persists in the URL hash for instant sharing, No backend required. Optional AES-GCM password protection keeps shared links locked without a server
-- URL: https://github.com/supunlakmal/spreadsheet

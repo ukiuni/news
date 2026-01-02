@@ -46,6 +46,3 @@ Googleの公式ランディングには「Opal [Experiment]」の表記のみで
 - ビジネス面
   - 法務と連携してAPPI適合性を確認。特に個人データのクロスボーダー処理やログ保持期間のルールを明確化する。
 
-## 引用元
-- タイトル: Google Opal
-- URL: https://opal.google/landing/

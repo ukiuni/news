@@ -33,6 +33,3 @@ excerpt: "HP-UXのサポート終了で、稼働中システムの移行と保�
 - セキュリティ対策：ネットワーク隔離・アクセス制限、侵入検知、必要に応じてWAFやプロキシでレガシー脆弱性に対処する。
 - アーカイブ活動に参加：忘れ去られる前にOSイメージやドライバを保存するボランティアやコミュニティ（レトロコンピューティング、OSSアーカイブ）と協力すると将来的な再現性が高まる。
 
-## 引用元
-- タイトル: HP-UX hits end-of-life today, and I’m sad
-- URL: https://www.osnews.com/story/144094/hp-ux-hits-end-of-life-today-and-im-sad/

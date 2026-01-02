@@ -41,6 +41,3 @@ SDR‑KitsのVNWA 3Eは、AD9859 DDSやオーディオADCを巧妙に使い低�
 - ノイズ対策（筐体作業）：スイッチングノイズが気になる場合は軽微な接着・制振で改善可能。ただし保証や改造のリスクは自己責任。  
 - 日本での導入：SDR‑Kits経由での輸入が一般的。送料・サポート・ファームウェアの互換性（WindowsのドライバやサウンドAPI）を事前に確認すること。
 
-## 引用元
-- タイトル: A Christmas Present to Myself – Vector Network Analyzer (2014)  
-- URL: https://axotron.se/blog/vector-network-analyzer-a-christmas-present-to-myself/

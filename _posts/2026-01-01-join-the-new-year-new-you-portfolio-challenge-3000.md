@@ -42,6 +42,3 @@ Google AI主催のポートフォリオチャレンジが2026年1月1日〜2月1
 - 日本向けの工夫：英語版と日本語版を両方用意しておくと応募審査や海外クライアント対応で有利。ポートフォリオに業務委託や採用面接で話せる“短いデモ”を用意する。  
 - 早めに応募すること：締切直前はトラブルが起きやすいため、デプロイと埋め込み検証は最低3日前に完了させる。
 
-## 引用元
-- タイトル: Join the New Year, New You Portfolio Challenge: $3,000 in Prizes + Feedback from Google AI Team (For Winners and Runner Ups!)  
-- URL: https://dev.to/devteam/join-the-new-year-new-you-portfolio-challenge-3000-in-prizes-feedback-from-google-ai-team-4e7g

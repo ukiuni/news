@@ -83,6 +83,3 @@ public void initialize() {
   - テーブルの日本語カラムや日付を適切に表示するフォーマット処理を行う。
   - 開発時はローカルでMySQLコンテナ（Docker）を使うと環境差が出にくい。
 
-## 引用元
-- タイトル: JavaFX + MySQL User Management: List All Users in Table (MVC & DAO)
-- URL: https://www.youtube.com/watch?v=GbdzaSQTZ8g

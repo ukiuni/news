@@ -47,6 +47,3 @@ excerpt: "イスラエルが100kWレーザー『Iron Beam』を実戦配備、�
   - 高出力レーザーは軍民の両用途（dual-use）技術であり、輸出管理や法規制、倫理面の検討が必須。  
   - 自治体や農業現場での低出力レーザー応用（鳥害対策など）から段階的に技術を成熟させるアプローチが現実的。
 
-## 引用元
-- タイトル: 100,000-Watt Iron Beam laser becomes world’s first drone defense zapper to be operationally deployed — it can also shoot down rockets, mortars, and other aerial threats  
-- URL: https://www.tomshardware.com/tech-industry/100kw-iron-beam-laser-becomes-worlds-first-drone-defense-zapper-to-be-operationally-deployed-it-can-also-shoot-down-rockets-mortars-and-other-aerial-threats

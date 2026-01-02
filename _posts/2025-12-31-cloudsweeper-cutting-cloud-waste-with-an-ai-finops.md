@@ -53,6 +53,3 @@ CloudSweeperは、AWS/Azure環境を読み取り専用でスキャンし、利�
 - Slack/Teamsのワークフローと連携し、ヒューマンレビューを標準化する（削除は必ず人の承認を挟む）。  
 - 定期スキャンを自動化し、月次レポートから費用トレンドとリスクの可視化を行う。これで「放置によるムダ」を継続的に抑制できる。
 
-## 引用元
-- タイトル: CloudSweeper: Cutting Cloud Waste with an AI FinOps Agent  
-- URL: https://dev.to/qlooptech/cloudsweeper-cutting-cloud-waste-with-an-ai-finops-agent-580l

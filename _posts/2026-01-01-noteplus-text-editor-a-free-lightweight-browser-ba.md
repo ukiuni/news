@@ -38,6 +38,3 @@ NotePlusはJavaScriptで動作する、外部依存がない軽量ブラウザ�
 - ネットワーク監査: FetchやAI機能が外部APIを使う場合を想定し、開発環境や機密データを扱う端末では通信ログを確認する。
 - キーボードショートカットを覚える: 素早い操作でエディタの軽快さを最大化できる（新規、保存、開く、検索など）。
 
-## 引用元
-- タイトル: NotePlus Text Editor a free lightweight browser based text editor with zero dependencies
-- URL: https://note-plus-mu.vercel.app

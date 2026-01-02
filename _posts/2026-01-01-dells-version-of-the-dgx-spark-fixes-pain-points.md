@@ -43,6 +43,3 @@ DellのGB10（“AI Superchip”搭載ミニワークステーション）は、
   - まずはllama.cppなど軽量な推論実装でプロンプト遅延とトークン処理速度を測定し、クラスタ設計や経路最適化の判断材料にする。  
   - ConnectX‑7を活かすなら、実運用前にRDMA/Infinibandの小規模検証環境を構築してボトルネックを洗い出す。
 
-## 引用元
-- タイトル: Dell's version of the DGX Spark fixes pain points  
-- URL: https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points

@@ -41,6 +41,3 @@ excerpt: "一度の申請で500社超に個人情報削除を要求できる新�
 - 法改正・DROPの運用ルールをウォッチし、技術・運用を早めに検証しておく（テスト用シナリオ、監査対応の準備）。
 - 消費者向けUI/UXも重要：本人確認のUX設計と悪用防止のバランスを考える。
 
-## 引用元
-- タイトル: The Delete Act  
-- URL: https://privacy.ca.gov/drop/about-drop-and-the-delete-act/

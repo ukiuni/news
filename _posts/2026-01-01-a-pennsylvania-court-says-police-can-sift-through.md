@@ -39,6 +39,3 @@
   - クライアントサイド暗号化やエンドツーエンド暗号化を導入できる箇所は検討する。
   - 第三者に渡るログの範囲を見直し、外部プロバイダ依存のリスクを管理する。
 
-## 引用元
-- タイトル: A Pennsylvania court says police can sift through Google searches to find suspects
-- URL: https://www.techspot.com/news/110749-pennsylvania-court-police-can-sift-through-google-searches.html

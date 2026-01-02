@@ -91,6 +91,3 @@ class JsonTests {
 - 外部システムと Locale や日付フォーマットで契約がある場合は、Jackson 3 の出力形式に合わせるか、互換レイヤを用意する。
 - どうしても互換性が必要なら Jackson 2 を再指定できるが、長期的には Jackson 3 前提での移行計画を立てる。
 
-## 引用元
-- タイトル: An Introduction to Jackson 3 in Spring 7 and Spring Boot 4
-- URL: https://hantsy.medium.com/an-introduction-to-jackson-3-in-spring-7-and-spring-boot-4-cba114aa36b1?source=friends_link&sk=223b72099dabd422595f79b7f6f45db7

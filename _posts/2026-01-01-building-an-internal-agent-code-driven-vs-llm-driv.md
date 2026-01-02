@@ -46,6 +46,3 @@ coordinator_script: scripts/pr_merged.py
 - ロギングとエバリュエーション（evals）を用意し、誤判定の頻度を定量化する。閾値越えでコード化を検討。
 - サブエージェント設計で「必要時のみLLMを呼ぶ」パターンを採用するとコストと信頼性のバランスが取れる。
 
-## 引用元
-- タイトル: Building an internal agent: Code-driven vs. LLM-driven workflows
-- URL: https://lethain.com/agents-coordinators/

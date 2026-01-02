@@ -52,6 +52,3 @@ loss32は「Linux上でWin32ソフトだけでデスクトップを構成する�
 - コミュニケーション
   - プロジェクトはIRC（#loss32 on irc.libera.chat）などで議論中。興味ある技術分野（WINE、ReactOS、Wayland、パッケージング等）で参加してみるのが早道です。
 
-## 引用元
-- タイトル: loss32: let's build a Win32/Linux
-- URL: https://loss32.org/

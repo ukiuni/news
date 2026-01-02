@@ -49,6 +49,3 @@ excerpt: "屋外・ダンジョン・街の境界を曖昧にして驚きと探�
 - 日本市場向けの留意点
   - JRPG的な“拠点＝完全安全”の期待を逆手に取ると効果的。ただしストーリーやセーブ運用での配慮（プレイヤーの不満回避）は必須。
 
-## 引用元
-- タイトル: Outside, Dungeon, Town: Integrating the Three Places in Videogames (2024)  
-- URL: https://keithburgun.net/outside-dungeon-town-integrating-the-three-places-in-videogames/

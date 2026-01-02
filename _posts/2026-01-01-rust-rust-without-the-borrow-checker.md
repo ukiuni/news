@@ -67,6 +67,3 @@ fn main() {
 }
 ```
 
-## 引用元
-- タイトル: Rust–: Rust without the borrow checker  
-- URL: https://github.com/buyukakyuz/rustmm

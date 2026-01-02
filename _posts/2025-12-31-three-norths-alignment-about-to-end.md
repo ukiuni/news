@@ -35,6 +35,3 @@ $$\frac{511\ \text{m}}{86400\ \text{s}} \approx 5.9\times10^{-3}\ \text{m/s} = 5
 - 測量データのメタデータ化：観測時の磁場モデルバージョンや偏差値を測量ログに残しておく（再現性・トレーサビリティ確保）。
 - 異常値の収集：地磁気の局所異常（磁気異常）が発見できれば、将来のモデル改善に資するためログを共有する仕組みを検討する。
 
-## 引用元
-- タイトル: 'Three norths' alignment about to end  
-- URL: https://www.spatialsource.com.au/three-norths-alignment-about-to-end/

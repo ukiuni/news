@@ -47,6 +47,3 @@ excerpt: "中国が自殺言及で人が介入・保護者通報を義務化、A
   - 中国市場へ再参入やサービス提供を考える事業者は、今回の草案を前提にローカライズ・コンプライアンス計画を立てる。
   - グローバルな規制趨勢として他国でも同様の要求が拡がる可能性があるため、先行して安全基準を強化することは差別化要因にもなる。
 
-## 引用元
-- タイトル: China drafts world’s strictest rules to end AI-encouraged suicide, violence | China wants a human to intervene and notify guardians if suicide is ever mentioned
-- URL: https://arstechnica.com/tech-policy/2025/12/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence/?comments-page=1#comments

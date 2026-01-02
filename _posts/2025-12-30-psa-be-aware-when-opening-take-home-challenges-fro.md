@@ -48,6 +48,3 @@ excerpt: "リクルーター経由の持ち帰り課題はマルウェアや資�
 - 身元確認：送付元のリクルーターや企業の公式ドメイン、LinkedIn等での確認、求人の正式な掲示と照合する。
 - 疑わしければ断る／企業に確認：正規の採用プロセスであれば別の渡し方（スクリーン共有、オンラインIDE、公式レポジトリ）を提案してくれるはずです。
 
-## 引用元
-- タイトル: PSA: Be aware when opening "take home challenges" from untrusted recruiters
-- URL: https://bitbucket.org/brain0xlab/challenge/src/master/

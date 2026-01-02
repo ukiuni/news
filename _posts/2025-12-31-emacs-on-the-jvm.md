@@ -57,6 +57,3 @@ Emacs愛用者だけでなく、Java/GraalVMエコシステムやポリグロッ
 - 活用ケース
   - 教育・研究目的でJITや言語実装を学ぶ実験台として最適。企業ではまだ「実運用」向けではないが、GraalVM導入検討時の参考例になる。
 
-## 引用元
-- タイトル: Emacs on the JVM
-- URL: https://github.com/gudzpoz/Juicemacs

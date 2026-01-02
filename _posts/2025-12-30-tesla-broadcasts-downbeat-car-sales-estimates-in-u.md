@@ -31,6 +31,3 @@ excerpt: "テスラが異例に納車見通しを下方提示、EV需給と部�
 - 日本の自動車メーカー・技術者：ハイブリッドなど差別化戦略、ソフトウェア/サービスでの収益化、グローバル需給のショックを想定した生産柔軟性の強化を優先する。  
 - プロダクト/開発チーム：OTAや車載ソフトのマネタイズ、フリートデータを使った需要予測・運用最適化の実装を加速する。
 
-## 引用元
-- タイトル: Tesla Broadcasts Downbeat Car Sales Estimates in Unusual Move  
-- URL: https://www.bloomberg.com/news/articles/2025-12-30/tesla-tsla-compiles-downbeat-average-estimates-for-its-vehicle-sales?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2NzEyNjU4NSwiZXhwIjoxNzY3NzMxMzg1LCJhcnRpY2xlSWQiOiJUODJQRTdLSzNOWTkwMCIsImJjb25uZWN0SWQiOiIyODEwRTI4NDA4QkE0NTdBOTBERDFGRjU4QjhCN0Y4RiJ9.5sOgN4dbwCK-4hmAoCYo6cfIKZbXT0eeRqe3DK9BciE

@@ -48,6 +48,3 @@
 - 労力配分：
   - 日常の家計管理だけなら過剰投資。複数通貨や投資・配偶者等で複雑なら有力な選択肢。
 
-## 引用元
-- タイトル: One Number I Trust: Plain-Text Accounting for a Multi-Currency Household
-- URL: https://lalitm.com/post/one-number-i-trust/

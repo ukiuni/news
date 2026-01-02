@@ -52,6 +52,3 @@ excerpt: "出版社との契約が崩壊した実例から学ぶ、技術書出�
 - AI時代の教材設計
   - LLMが生成可能な「即席チュートリアル」と、深い学びを提供する「プロジェクトで得られる理解」は別物。両者の差別化点を明確にする（設計上の挑戦、誤りの解析、拡張案など）。
 
-## 引用元
-- タイトル: I canceled my book deal  
-- URL: https://austinhenley.com/blog/canceledbookdeal.html

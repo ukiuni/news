@@ -78,6 +78,3 @@ int main(void) {
 }
 ```
 
-## 引用元
-- タイトル: C-events, yet another event loop, simpler, smaller, faster, safer  
-- URL: https://zelang-dev.github.io/c-events/

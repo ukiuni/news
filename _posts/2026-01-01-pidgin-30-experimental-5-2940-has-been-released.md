@@ -40,6 +40,3 @@ Pidgin 3.0 の5回目実験版（公式バージョン2.94.0）が公開され�
 - UX改善のヒント：HSLuv による色付けやプレゼンス管理は、組織内チャットツールの視認性改善に活用可能。社内で試験導入してフィードバックを集めると良い。
 - 追跡：Experimental 6 のチケットや Burndown Chart、月次の state‑of‑the‑bird ポストをウォッチして機能の実装状況を把握する。
 
-## 引用元
-- タイトル: Pidgin 3.0 Experimental 5 (2.94.0) has been released  
-- URL: https://discourse.imfreedom.org/t/pidgin-3-0-experimental-5-2-94-0-has-been-released/338

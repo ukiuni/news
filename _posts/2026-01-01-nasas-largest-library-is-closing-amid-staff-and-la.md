@@ -34,6 +34,3 @@ excerpt: "NASA最大のゴダード図書館閉鎖で研究資産が危機に、
 - コミュニティ運動に参加する：アーカイブ保全の重要性を発信し、学会や基金に対して長期保存の支援を求める。  
 - 海外機関との連携強化：共同研究契約にデータ管理計画（DMP）を盛り込み、データ提供義務や代替保管場所を明記する。
 
-## 引用元
-- タイトル: NASA’s Largest Library Is Closing Amid Staff and Lab Cuts  
-- URL: https://www.nytimes.com/2025/12/31/climate/nasa-goddard-library-closing.html

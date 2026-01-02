@@ -34,6 +34,3 @@ excerpt: "高基底ストレスのラットは認知柔軟性低下と内因性�
   - 認知柔軟性を組み込んだスクリーニングと早期介入の効果を検証する。
 - 個人向け: ストレス対処技術（認知行動的アプローチ、運動、睡眠改善）を優先することが長期的なリスク低減につながる可能性が高い。
 
-## 引用元
-- タイトル: Stressed rats keep returning to cannabis and scientists know why
-- URL: https://www.sciencedaily.com/releases/2025/12/251211100615.htm

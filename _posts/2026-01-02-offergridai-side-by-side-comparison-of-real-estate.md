@@ -50,6 +50,3 @@ OfferGridAIは複数の買付書PDF（DOC/DOCX/TXTも可、スキャンはOCR対
   2. 抽出項目の誤りパターンをリスト化し、チェックリストを作る（頭金・手付・期日・特約）。
   3. 売主向けフォーマットに合わせてPDF出力をテンプレート化する。
 
-## 引用元
-- タイトル: OfferGridAI – side-by-side comparison of real estate offers from PDFs
-- URL: https://offergridai.com

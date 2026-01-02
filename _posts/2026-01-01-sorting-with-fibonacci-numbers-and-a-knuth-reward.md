@@ -54,6 +54,3 @@ $$\gcd(F_a,F_b)=F_{\gcd(a,b)}$$
 - 検証：ランダムと最悪入力（逆順など）でベンチを行い、実測での定数項やキャッシュ振る舞いを確認すること。  
 - 学習用途：Shellsort と数論（Frobenius 問題、フィボナッチの $\gcd$ 性質）を結びつける教材として非常に良い題材。競技プログラミングでの洞察にも使える。
 
-## 引用元
-- タイトル: Sorting with Fibonacci Numbers and a Knuth Reward Check  
-- URL: https://orlp.net/blog/fibonacci-sort/

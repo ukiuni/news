@@ -44,6 +44,3 @@ Pythonのshebang問題を一撃で回避する — 小さなスクリプトを�
 - スクリプトに互換性チェックを入れる（起動時に必要なバージョンを検査して明確なエラーメッセージを出す）。  
 - 短期的な実験や個人ツールはlorentz appのような「軽い実験」を経て、必要なら段階的にパッケージ化する。
 
-## 引用元
-- タイトル: Go Away Python
-- URL: https://lorentz.app/blog-item.html?id=go-shebang

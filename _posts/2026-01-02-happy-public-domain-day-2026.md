@@ -50,6 +50,3 @@
   - 公有領域とはいえ、パブリッシャーが付けた商標や肖像権（被写体の人物）には別ルールが適用される場合あり。
   - 出典やメタデータをきちんと残すことで、再利用や信頼性向上につながる。
 
-## 引用元
-- タイトル: Happy Public Domain Day 2026
-- URL: https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/

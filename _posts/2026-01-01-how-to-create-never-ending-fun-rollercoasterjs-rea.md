@@ -65,6 +65,3 @@ velocity = Math.max(minV, Math.min(maxV, velocity + accel));
 - AIの活用
   - コメント付与やバリエーション生成（色・周波数の候補）をAIに任せると高速に試行錯誤できる。UIでパラメータをスライダー化すれば非開発者に説明しやすくなる。
 
-## 引用元
-- タイトル: How to Create Never-Ending Fun (🎢RollerCoaster.js + React Three Fiber + AI)  
-- URL: https://dev.to/webdeveloperhyper/how-to-create-never-ending-fun-rollercoasterjs-react-three-fiber-ai-57c5

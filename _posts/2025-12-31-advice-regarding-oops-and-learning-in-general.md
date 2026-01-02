@@ -54,6 +54,3 @@ OOPは大規模システム、チーム開発、保守性に直結するスキ�
   - レガシーシステムと連携する場面が多い日本企業では、外部仕様を崩さず内部設計を改善する「アダプター」パターンの理解が特に有用。
   - チーム開発ではコメントよりも明快な型付けとテストが信頼を生む。CIで自動化して品質を保とう。
 
-## 引用元
-- タイトル: advice  regarding OOPS and learning in general
-- URL: https://www.youtube.com/watch?v=IbMDCwVm63M

@@ -44,8 +44,3 @@ HaskellやFFIを使う日本のエンジニアにとって、runSTや地域（re
   - 「S付き型を隠蔽して外に返すラッパーはレビュー必須」とルール化する。
   - alloca系の戻り値は純粋に使い切る（callback内完結）か、持ち出すならコピーを作る。
 
-## 引用元
-- タイトル: runST does not prevent resources from escaping
-- URL: https://welltypedwit.ch/posts/runst-does-not-prevent-resources-from-escaping.html
-
-簡潔に言うと：runSTのランク型トリックは強力だが万能ではない。型と実行時の両面で設計／検査を行えば安心度は大きく上がる。

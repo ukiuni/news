@@ -40,6 +40,3 @@
   - 地方支店が多い日本では支店削減の社会的影響が大きい。デジタルチャネル整備と高齢顧客向け支援はセットで進める必要がある。
   - 金融庁や地銀協と連携した実証実験で規制期待値を早期に確定させることが競争優位につながる。
 
-## 引用元
-- タイトル: European banks plan to cut 200,000 jobs as AI takes hold
-- URL: https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/

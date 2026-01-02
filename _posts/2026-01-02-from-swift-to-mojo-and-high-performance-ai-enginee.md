@@ -38,6 +38,3 @@
 - ハードウェア視点で設計：アクセラレータのメモリ階層や通信用チューニングを早期に評価する（NVIDIA系だけでなく国内のアクセラレータ動向も注視）。  
 - 採用判断：生産性vs性能の基準を定め、全面移行ではなく段階的導入（PoC→短期成果→拡張）を推奨。
 
-## 引用元
-- タイトル: From Swift to Mojo and high-performance AI Engineering with Chris Lattner  
-- URL: https://www.youtube.com/watch?v=Fxp3131i1yE

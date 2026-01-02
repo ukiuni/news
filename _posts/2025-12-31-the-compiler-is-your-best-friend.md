@@ -50,6 +50,3 @@ excerpt: "コンパイラを味方にして深夜の障害を防ぐ、現場で�
 - 技術選定の視点
   - 高信頼性を求めるインフラや低レイテンシ処理には Rust、エコシステムと移行コスト重視なら Kotlin/Java（Kotlin の null 安全）、フロントエンドは TypeScript の厳格化を検討
 
-## 引用元
-- タイトル: The compiler is your best friend
-- URL: https://blog.daniel-beskin.com/2025-12-22-the-compiler-is-your-best-friend-stop-lying-to-it

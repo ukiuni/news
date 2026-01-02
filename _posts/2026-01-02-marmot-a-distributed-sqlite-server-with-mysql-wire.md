@@ -54,6 +54,3 @@ lock_lease_seconds = 30
 enable_idempotent = true
 ```
 
-## 引用元
-- タイトル: Marmot – A distributed SQLite server with MySQL wire compatible interface
-- URL: https://github.com/maxpert/marmot

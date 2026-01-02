@@ -40,6 +40,3 @@ excerpt: "シアーズ僅か5店へ、REIT失敗が示す再開発の罠と日�
 - 技術で差をつける：IoT・ロボティクス・空間解析を使って運営コストと体験価値を同時に改善する。
 - 関係者の合意形成：地主・自治体・投資家・小売りオペレーターを巻き込むガバナンス設計を早期に始める。
 
-## 引用元
-- タイトル: Only 5 Sears stores remain in the U.S.
-- URL: https://www.nytimes.com/2025/12/26/business/sears-seritage-edward-lampert.html

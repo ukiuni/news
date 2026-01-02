@@ -40,6 +40,3 @@ NYCの市長就任式でFlipper ZeroやRaspberry Piなどの持ち込みが禁�
   - 社内イベントや会議でも同様のガイドラインを整備し、来場者とスタッフに周知する。  
   - 重要会場ではIoT/無線トラフィックの監視と、物理セキュリティの強化を組み合わせる。
 
-## 引用元
-- タイトル: NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices  
-- URL: https://www.bleepingcomputer.com/news/security/nyc-mayoral-inauguration-bans-flipper-zero-raspberry-pi-devices/

@@ -54,6 +54,3 @@ Googleアカウントの一時ロックや消失は現実的なリスクであ�
 - 即効で試せる小技  
   - 分割の過剰発生を抑えるため「From行のハッシュが偶数のときのみ分割」といった簡易ルールを導入するとチャンク総数を下げられる（復元性は変わらず保持可能）。
 
-## 引用元
-- タイトル: Incremental Backups of Gmail Takeouts  
-- URL: https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/

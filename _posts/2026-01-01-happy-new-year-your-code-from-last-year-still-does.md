@@ -38,6 +38,3 @@
 - サイドプロジェクト運用：小さなMVPで続ける、週1で進捗ログを残す、学んだ点を短いメモにまとめる（採用面接やポートフォリオに使える）。
 - 文化面：オンコール／障害対応のローテーション設計と、事故後の心理的安全性を確保する簡単な振り返りルールを作る。
 
-## 引用元
-- タイトル: Happy New Year! 🎉 | Your Code from Last Year Still Doesn't Work 😂
-- URL: https://dev.to/thebitforge/happy-new-year-your-code-from-last-year-still-doesnt-work-50k8

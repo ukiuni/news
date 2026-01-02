@@ -32,6 +32,3 @@
 - 日本市場向けローカライズ：日本の道路事情・法制度・ユーザー期待（品質・安全）に合わせた検証・UX改善を進めること。ローカルパートナーやインフラ事業者との連携が有効。
 - 投資判断における「期待値リスク」を管理する：AI関連の将来期待が株価を押し上げる局面では、実需指標（小売販売、月次出荷、キャンセル率）を重視してリスクを調整する。
 
-## 引用元
-- タイトル: Tesla Sales Outlook Darkens Despite Musk’s Self-Driving Euphoria
-- URL: https://www.bloomberg.com/news/articles/2026-01-01/tesla-sales-outlook-darkens-despite-musk-s-self-driving-euphoria?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc2NzI4MDA1NSwiZXhwIjoxNzY3ODg0ODU1LCJhcnRpY2xlSWQiOiJUN0pIRjdLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJFQjZCRTEyREEyNzE0RDE5Qjc3Q0IyMjM2RTgyQ0MzQSJ9.dhkaW0PH7TeESVVwFf-kY4hzwikx8dd79fpW0hQ9waQ

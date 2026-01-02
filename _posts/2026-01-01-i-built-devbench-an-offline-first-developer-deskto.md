@@ -44,6 +44,3 @@ DevBenchはAPIクライアント、ノート、図、日次プランナー、JS�
 - セキュリティ運用の注意：アプリは未署名の配布があるため導入時に社内ポリシーとの整合を確認。エンドツーエンド暗号化の設定とバックアップ戦略は必須。
 - 拡張案：既存CIやドキュメント生成ツールと組み合わせ、Mermaid→PNGやMarkdown生成をCIに組み込むことで自動化を進める。
 
-## 引用元
-- タイトル: I built DevBench – an offline-first developer desktop tool with API client, planner, notes, diagrams & Git sync
-- URL: https://devbench.in/

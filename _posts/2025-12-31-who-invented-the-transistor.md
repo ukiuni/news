@@ -48,6 +48,3 @@ excerpt: "1925年の特許が示す真のトランジスタ発明者リリエン
 - 一般読者向け
   - 技術の「誰が最初か」だけでなく、どの設計がなぜ産業的に成功したのか（実装容易性、材料技術、製造性）を見る習慣を持つ。
 
-## 引用元
-- タイトル: Who Invented the Transistor?  
-- URL: https://people.idsia.ch/~juergen/who-invented-the-transistor.html

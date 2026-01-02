@@ -36,6 +36,3 @@ excerpt: "デモは華やかだが、コスト・安全性・触覚などの技�
 - 技術投資先：触覚センシング、堅牢な動的バランス制御、シミュレーションでのスケール学習が重要な研究投資領域。
 - 日本向け配慮：狭い住宅や高齢者ケアでは、安全性・ユーザー受容性・プライバシーが鍵。現場での実ユーザーテストを重ねること。
 
-## 引用元
-- タイトル: The people building humanoid robots say the hype is running ahead of reality
-- URL: https://www.techspot.com/news/110738-people-building-humanoid-robots-hype-running-ahead-reality.html

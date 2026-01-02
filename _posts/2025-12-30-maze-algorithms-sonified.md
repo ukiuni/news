@@ -31,6 +31,3 @@ Maze Visualizerのデモでは、迷路の生成・探索アルゴリズムを�
 - 実装技術：ブラウザならWebAudio API + requestAnimationFrameで視覚同期、NodeやDAWならMIDI出力で可視化ツールと連携。
 - 教育利用：授業やワークショップでアルゴリズムの違いを「聴かせる」ことで初心者の理解が深まる。アクセシビリティ観点から視覚障害者向け教材にも適用可能。
 
-## 引用元
-- タイトル: Maze algorithms sonified
-- URL: https://www.youtube.com/watch?v=Yr6sOimsF-E

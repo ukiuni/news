@@ -59,6 +59,3 @@ systemd はサーバー／組込み／デスクトップいずれでも基盤と
 
 短い投稿群だが、運用やデバッグの効率を上げる実務的な追加が多い。まずは自分の重要なユースケース（コンテナ、組込み、サーバー）に合う数項目をピックして検証することを推奨する。
 
-## 引用元
-- タイトル: Mastodon Stories for systemd v259  
-- URL: https://0pointer.net/blog/mastodon-stories-for-systemd-v259.html

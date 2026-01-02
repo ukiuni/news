@@ -77,6 +77,3 @@ class SomeClass {
 
 短くまとめると、volatileは「参照や単純なフラグの即時可視化」、synchronizedは「複数操作の原子性と確実な可視化」を保証するための道具であり、JMMはそれらの「どこまで保証するか」を定めたルールセットである。実運用では設計段階でどのレベルの保証が必要かを見極め、適切なプリミティブを選ぶことが重要。
 
-## 引用元
-- タイトル: Explaining Memory Barriers and Java’s Happens Before Guarantees  
-- URL: https://medium.com/@kusoroadeolu/explaining-memory-barriers-and-javas-happens-before-guarantees-34309c5b60c0

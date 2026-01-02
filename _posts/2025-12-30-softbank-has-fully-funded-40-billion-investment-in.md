@@ -32,6 +32,3 @@ excerpt: "ソフトバンクのOpenAI向け400億ドル出資完了で日本のA
 - スタートアップ／投資家：生成AI関連のスケール需要はさらに加速。OpenAIエコシステムとの協業機会や、代替モデル・差別化戦略を早めに検討する。  
 - 法務・規制対応：データ利用、著作権、輸出管理などの法規制対応を強化。海外資本と結ぶ際のガバナンス設計も重要。
 
-## 引用元
-- タイトル: Softbank has fully funded $40 billion investment in OpenAI  
-- URL: https://www.cnbc.com/2025/12/30/softbank-openai-investment.html

@@ -56,6 +56,3 @@ byte[] digest = md.digest();
 // digestを16進で表示するなどして比較に使う
 ```
 
-## 引用元
-- タイトル: RSYNC but in java with jpm
-- URL: https://youtu.be/jJ3x_BlbL24?si=w_axs3YZkdPoRG7-

@@ -50,6 +50,3 @@ DevCompareは主要なAIコーディングツールを毎日自動更新で横�
 - CLIとCI連携を試す：開発フローに組み込めるか（自動PR生成やヘッドレス実行）は運用コストに直結する。  
 - チームルールと統合管理：企業向け機能（ルール配布、チェックポイント、サンドボックス）を評価し、ガバナンス設計を並行して検討する。
 
-## 引用元
-- タイトル: I built an auto-updating comparison of AI coding tools (Cursor, Windsurf, Claude Code, Copilot)  
-- URL: https://www.devcompare.io/

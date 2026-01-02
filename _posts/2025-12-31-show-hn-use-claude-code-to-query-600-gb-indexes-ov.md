@@ -74,6 +74,3 @@ LIMIT 25;
 - 大量検索は分割して実行：complete結果が必要なら `search_exhaustive()` をページングで回す設計にする。  
 - セキュリティ：Claudeにネットワーク権を与える際は、プロンプトインジェクションやAPI権限の扱いを明確に。
 
-## 引用元
-- タイトル: Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.  
-- URL: https://exopriors.com/scry

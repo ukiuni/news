@@ -70,6 +70,3 @@ int main() {
 - co_await を補助関数内で直接使わない設計規約をチームで徹底する（代わりに go(...).join() を使う）。
 - ローカル参照や生ポインタを跨いだサスペンドは禁止。代わりにスマートポインタや値渡しで安全性を保つ。
 
-## 引用元
-- タイトル: coco: a simple stackless, single-threaded, and header-only C++20 coroutine library
-- URL: http://luajit.io/posts/coco-cpp20-coroutine/

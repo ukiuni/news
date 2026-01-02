@@ -57,6 +57,3 @@ export SAFETY_NET_STRICT=1
 - 監査ログは定期的にレビューして誤検知や試行を把握、必要ならルール調整を行う。  
 - 新人や非専門者がAIを使うチームでは導入効果が大きい（被害の回避、教育効果）。
 
-## 引用元
-- タイトル: Show HN: A Claude Code plugin that catch destructive Git and filesystem commands  
-- URL: https://github.com/kenryu42/claude-code-safety-net

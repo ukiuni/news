@@ -45,6 +45,3 @@ excerpt: "月4ユーロVPSでFreeBSDと簡素スクリプトが数千都市の�
 - セキュリティ注意点：デバッグ出力にAPIキーや秘密情報を含めない。CI/デプロイ前に環境変数やログ出力をチェックする。
 - アクセシビリティ重視：JS不要、テキストベースでも意味が伝わる表現（絵文字＋簡潔文）を心掛けると受容性が上がる。
 
-## 引用元
-- タイトル: FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands
-- URL: https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/

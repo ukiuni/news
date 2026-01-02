@@ -77,6 +77,3 @@ Bubbletea.run(Counter.new)
   - 一部gemはまだ移行中（例: huhはGitHub経由の利用）なので商用導入前に安定性を確認する。
   - ターミナル互換性（iTerm, Windows Terminal等）や文字エンコーディングに留意する。
 
-## 引用元
-- タイトル: Glamorous Christmas: Bringing Charm to Ruby
-- URL: https://marcoroth.dev/posts/glamorous-christmas

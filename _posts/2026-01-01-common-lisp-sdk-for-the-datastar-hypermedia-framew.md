@@ -48,6 +48,3 @@ ASDF ソース配置の目安: ~/src/lisp 等。
 - サンプル活用: test/ と Horizons / Data SPICE サンプルを動かして、実際のストリーミング挙動と切断処理を確認する。  
 - コントリビュート: MIT ライセンスのため、改善提案やパッチを送りやすい。日本語ドキュメントや互換性テストを追加するとコミュニティで歓迎される可能性が高い。
 
-## 引用元
-- タイトル: Common Lisp SDK for the Datastar Hypermedia Framework  
-- URL: https://github.com/fsmunoz/datastar-cl

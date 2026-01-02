@@ -37,6 +37,3 @@ NumPyだけを使い、空のファイルから始めて自分で動く深層学
 - プロファイルして最適化：NumPyベースは計算効率で限界があるため、ホットスポットをCythonやNumba、ベクトル化で改善する余地がある。
 - 応用案：教育用ツール、軽量推論エンジン、カスタム演算のプロトタイピングに活用可能。組込みやエッジ推論向けに不要な機能を削ぎ落とす演習も有益。
 
-## 引用元
-- タイトル: Build a Deep Learning Library
-- URL: https://zekcrates.quarto.pub/deep-learning-library/

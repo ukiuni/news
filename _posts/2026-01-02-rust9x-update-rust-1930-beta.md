@@ -50,6 +50,3 @@ Rust9xがRust 1.93.0-betaをベースに大規模なフォールバック実装�
 - 貢献・相談  
   Discord等でメンテナに連絡すれば協力や技術相談が得られます。ローカルでの互換性向上やテストケース提供は歓迎。
 
-## 引用元
-- タイトル: Rust9x update: Rust 1.93.0-beta  
-- URL: https://seri.tools/blog/rust9x-1-93/

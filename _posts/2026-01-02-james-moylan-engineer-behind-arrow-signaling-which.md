@@ -37,6 +37,3 @@
 - 日本市場での配慮：右側通行（左ハンドル・右ハンドルの混在）、輸入車レンタカー、観光客向け車両などで給油口の位置は多様。明確な視覚表示は顧客満足につながる。
 - アイコンの国際化：文字列よりアイコンが有効。新車・中古車のUI改良、EVの充電口方向表示への流用を検討する。
 
-## 引用元
-- タイトル: James Moylan, engineer behind arrow signaling which side to refuel a car, dies  
-- URL: https://fordauthority.com/2025/12/ford-engineer-that-designed-gas-tank-indicator-passes-away/

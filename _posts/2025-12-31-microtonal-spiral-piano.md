@@ -58,6 +58,3 @@ const freq = centsToFreq(thetaToCents(theta));
 - 応用案：ゲーム音響で非西洋音階や不穏なムードを出す、音楽教育ツールで微分音の耳を鍛える、UIとして触覚的に音律を可視化するなど。  
 - 日本市場向けヒント：和風音楽や伝統楽器の倍音構造を組み合わせると、邦楽アレンジで新しいテクスチャを生みやすい。
 
-## 引用元
-- タイトル: Microtonal Spiral Piano  
-- URL: https://shih1.github.io/spiral/

@@ -43,6 +43,3 @@ AIラッシュが生む「巨大コンピュート工場」を衛星写真と書
 - 自社でのOSINT活用：主要地域の衛星画像や建築許可データを定期的に監視し、GPU供給ショックや電力問題の早期察知に役立てる。  
 - 技術者向け：データセンターの電力・熱設計と実際の衛星観測の差分を学び、自社のオンプレ／エッジ戦略に反映する。
 
-## 引用元
-- タイトル: Researchers Are Hunting America for Hidden Datacenters  
-- URL: https://www.404media.co/researchers-are-hunting-america-for-hidden-datacenters/

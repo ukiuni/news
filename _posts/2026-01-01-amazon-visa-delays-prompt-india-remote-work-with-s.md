@@ -47,6 +47,3 @@ Amazonが「コード禁止」のリモート許可を出した理由と、グ�
   - 海外拠点や外注先との契約・業務分担を見直し、単一国依存／個人依存のリスクを低減。
   - グローバルタレント戦略で「物理的移動が滞った時の業務設計」を組み込むことが必要。
 
-## 引用元
-- タイトル: Amazon Visa Delays Prompt India Remote Work With Strict Restrictions  
-- URL: https://www.businessinsider.com/amazon-visa-delays-prompt-india-remote-work-with-strict-restrictions-2025-12
