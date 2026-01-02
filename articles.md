@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/what-you-need-to-know-before-touching-a-video-file/' | relative_url }}">what you need to know before touching a video file</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/the-gdb-jit-interface/' | relative_url }}">the gdb jit interface</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/teslas-fourth-quarter-sales-fell-a-lot-more-than-e/' | relative_url }}">teslas fourth quarter sales fell a lot more than e</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
@@ -86,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/patching-the-boring-security-practice-that-could-s/' | relative_url }}">patching the boring security practice that could s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/parental-controls-arent-for-parents/' | relative_url }}">parental controls arent for parents</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
