@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/why-users-cannot-create-issues-directly-ghostty/' | relative_url }}">why users cannot create issues directly ghostty</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/webassembly-as-a-python-extension-platform/' | relative_url }}">webassembly as a python extension platform</a></h3>
 </div>
 <div class="article-row">
@@ -29,7 +33,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/marmot-a-distributed-sqlite-server-with-mysql-wire/' | relative_url }}">marmot a distributed sqlite server with mysql wire</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/happy-public-domain-day-2026/' | relative_url }}">happy public domain day 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/grok-claims-safeguards-tightened-after-users-misus/' | relative_url }}">grok claims safeguards tightened after users misus</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/extensibility-the-100-lisp-fallacy/' | relative_url }}">extensibility the 100 lisp fallacy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/european-banks-plan-to-cut-200000-jobs-as-ai-takes/' | relative_url }}">european banks plan to cut 200000 jobs as ai takes</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
