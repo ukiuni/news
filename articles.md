@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/the-genesis-of-the-hello-world-programs/' | relative_url }}">the genesis of the hello world programs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/the-gdb-jit-interface/' | relative_url }}">the gdb jit interface</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/show-hn-enroll-a-tool-to-reverse-engineer-servers/' | relative_url }}">show hn enroll a tool to reverse engineer servers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/show-hn-dealta-a-game-theoretic-decentralized-trad/' | relative_url }}">show hn dealta a game theoretic decentralized trad</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/open-source-music-production-a-potential-github-pa/' | relative_url }}">open source music production a potential github pa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/offergridai-side-by-side-comparison-of-real-estate/' | relative_url }}">offergridai side by side comparison of real estate</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
@@ -114,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/instagrams-head-adam-mosseri-says-the-aesthetic-th/' | relative_url }}">instagrams head adam mosseri says the aesthetic th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/instagram-ceo-more-practical-to-label-real-content/' | relative_url }}">instagram ceo more practical to label real content</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
@@ -165,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/designing-type-safe-syncasync-mode-support-in-type/' | relative_url }}">designing type safe syncasync mode support in type</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/day-one-of-learning-javascript/' | relative_url }}">day one of learning javascript</a></h3>
 </div>
 <div class="article-row">
@@ -206,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/a-comment-preserving-cabal-parser/' | relative_url }}">a comment preserving cabal parser</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/39th-chaos-communication-congress-videos/' | relative_url }}">39th chaos communication congress videos</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
