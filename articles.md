@@ -77,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/matt-godbolts-advent-of-compiler-optimisations-202/' | relative_url }}">matt godbolts advent of compiler optimisations 202</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/marmot-a-distributed-sqlite-server-with-mysql-wire/' | relative_url }}">marmot a distributed sqlite server with mysql wire</a></h3>
 </div>
 <div class="article-row">
@@ -126,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/email-privacy-tester/' | relative_url }}">email privacy tester</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/day-one-of-learning-javascript/' | relative_url }}">day one of learning javascript</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
