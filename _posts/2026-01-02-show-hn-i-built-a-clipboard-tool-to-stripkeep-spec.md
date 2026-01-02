@@ -1,0 +1,52 @@
+---
+  layout: post
+  title: "Show HN: I built a clipboard tool to strip/keep specific formatting like Italics - 斜体だけ残すなど書式を選べるクリップボードツールを作りました"
+  date: 2026-01-02T13:05:36.001Z
+  categories: [tech, world-news]
+  tags: [tech-news, japan]
+  source_url: "https://custompaste.com"
+  source_title: "CustomPaste - Stop Fighting Your Clipboard. Start Pasting Perfectly."
+  source_id: 46463992
+  excerpt: "WindowsでCtrl+V一発、斜体だけ残すなど書式を自在に制御するローカルなクリップボードツール"
+  image: "https://www.custompaste.com/meta.jpg"
+---
+
+# Show HN: I built a clipboard tool to strip/keep specific formatting like Italics - 斜体だけ残すなど書式を選べるクリップボードツールを作りました
+貼り付けの「直す時間」をゼロにする——Ctrl+Vで完璧に貼れるWindows専用ユーティリティ
+
+## 要約
+CustomPasteはWindows上で動作するローカルなクリップボード変換ツール。保存した「レシピ」で貼り付け時に自動で書式を除去・保持・整形し、スマートクオートや余分な改行、重複行の削除まで行う。
+
+## この記事を読むべき理由
+日常的にWebやPDF、メールからテキストをコピペする日本のエンジニア・ライター・調査者は、見えない書式やスマートクオートに何度も足を止められる。CustomPasteは社内でWindowsが主流の環境にフィットし、ローカル処理でセキュリティ要件の高い現場でも使える実用的な解決策を提示する。
+
+## 詳細解説
+- 動作環境と所在地処理
+  - Windows 7以降に対応。全処理はローカルで完結するため、クリップボードの内容はネット送信されない（オフラインアクティベーションも用意）。
+- 基本概念：レシピ（recipes）
+  - ダッシュボードでチェックボックスを組み合わせるだけで「理想の貼り付け方」を定義。スクリプト不要で直感的に設定可能。
+  - 例：斜体は保持、太字は除去、リンクは維持、フォント強制、スマートクオート→ASCIIに変換。
+- 変換機能の幅
+  - 書式操作：Plain Textで全消去、特定の書式だけ保持（斜体・太字・リンクなど）。
+  - テキスト整形：大文字/小文字/Title Case変換、重複行削除、ソート、余分な空行や空白の正規化。
+  - Webリッチコンテンツ対応：HTMLテーブルや画像の扱いを細かく設定可能（画像を無視する、表は保持する、等）。
+  - 開発者向け：スマートクオートやダッシュの自動修正、コード貼り付け時の余計な空白除去。
+- 利便性
+  - Ctrl+Vに統合され、バックグラウンドで常駐。ホットキーまたはマウスで呼べるQuick Menuからワンオフでレシピ適用。
+  - 非テキスト（画像／ファイル）なら処理をスキップして通常貼り付け。
+- 価格と配布
+  - 100回の無料トライアル（機能制限なし）。開発者は小規模チーム（Joseph氏）で、現在はWindows版のみ。セールで一度買い切りのライフタイムライセンスが提供されることがある。
+
+## 実践ポイント
+1. まずは100回トライアルで自分のワークフローを検証：コード貼り付け／引用貼り付け／表の貼り付けで動作確認する。  
+2. 代表的レシピ例を作成して切替：  
+   - 「コード用」：スマートクオート→通常クオート、余分空白削除。  
+   - 「引用用」：斜体保持、フォント強制、引用符の整形。  
+   - 「データ整形」：重複削除＋ソート＋CSV整形。  
+3. 企業環境ではローカル処理・オフラインアクティベーションが有利。情報システムに相談して導入を検討する。  
+4. VS CodeやExcel、Wordなど主要アプリでの互換性を確認し、Quick Menuのホットキーを自分の習慣に割り当てる。  
+5. 既存のクリップボードマネージャと併用する場合は優先順位（どちらがCtrl+Vに介入するか）を確認する。
+
+## 引用元
+- タイトル: Show HN: I built a clipboard tool to strip/keep specific formatting like Italics  
+- URL: https://custompaste.com
