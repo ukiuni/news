@@ -37,6 +37,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/lessons-from-hash-table-merging/' | relative_url }}">lessons from hash table merging</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/james-moylan-engineer-behind-arrow-signaling-which/' | relative_url }}">james moylan engineer behind arrow signaling which</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/happy-public-domain-day-2026/' | relative_url }}">happy public domain day 2026</a></h3>
 </div>
 <div class="article-row">
