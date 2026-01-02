@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/the-anthology-of-a-creative-developer-a-2026-portf/' | relative_url }}">the anthology of a creative developer a 2026 portf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/teslas-fourth-quarter-sales-fell-a-lot-more-than-e/' | relative_url }}">teslas fourth quarter sales fell a lot more than e</a></h3>
 </div>
 <div class="article-row">
@@ -185,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/linux-kernel-security-work/' | relative_url }}">linux kernel security work</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/lessons-from-hash-table-merging/' | relative_url }}">lessons from hash table merging</a></h3>
 </div>
 <div class="article-row">
@@ -282,6 +290,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/darktable-styles-mimicing-fujifilms-film-simulatio/' | relative_url }}">darktable styles mimicing fujifilms film simulatio</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/daft-punk-easter-egg-in-the-bpm-tempo-of-harder-be/' | relative_url }}">daft punk easter egg in the bpm tempo of harder be</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
