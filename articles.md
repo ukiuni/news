@@ -37,6 +37,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/real-biological-clock-is-youre-going-to-die/' | relative_url }}">real biological clock is youre going to die</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/patching-the-boring-security-practice-that-could-s/' | relative_url }}">patching the boring security practice that could s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/moving-images-related-to-the-apollo-missions-19671/' | relative_url }}">moving images related to the apollo missions 19671</a></h3>
 </div>
 <div class="article-row">
@@ -93,7 +101,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/a-new-phplaravel-dates-package/' | relative_url }}">a new phplaravel dates package</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/a-confession-from-a-mainstream-food-delivery-app-e/' | relative_url }}">a confession from a mainstream food delivery app e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/10-years-of-personal-finances-in-plain-text-files/' | relative_url }}">10 years of personal finances in plain text files</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/01</span>
