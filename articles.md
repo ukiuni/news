@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/webassembly-as-a-python-extension-platform/' | relative_url }}">webassembly as a python extension platform</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/show-hn-enroll-a-tool-to-reverse-engineer-servers/' | relative_url }}">show hn enroll a tool to reverse engineer servers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/reasons-to-love-the-field-of-programming-languages/' | relative_url }}">reasons to love the field of programming languages</a></h3>
 </div>
 <div class="article-row">
