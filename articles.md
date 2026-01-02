@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/was-it-really-a-billion-dollar-mistake/' | relative_url }}">was it really a billion dollar mistake</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/tinytinytpu-22-systolic-array-tpu-style-matrix-mul/' | relative_url }}">tinytinytpu 22 systolic array tpu style matrix mul</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/tesla-sales-outlook-darkens-despite-ceos-self-driv/' | relative_url }}">tesla sales outlook darkens despite ceos self driv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/tesla-loses-title-as-worlds-biggest-electric-vehic/' | relative_url }}">tesla loses title as worlds biggest electric vehic</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
