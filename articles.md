@@ -17,11 +17,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/the-zero-rent-architecture-designing-for-the-swart/' | relative_url }}">the zero rent architecture designing for the swart</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/the-gdb-jit-interface/' | relative_url }}">the gdb jit interface</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/tesla-sales-outlook-darkens-despite-ceos-self-driv/' | relative_url }}">tesla sales outlook darkens despite ceos self driv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/standard-ebooks-public-domain-day-2026-in-literatu/' | relative_url }}">standard ebooks public domain day 2026 in literatu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
@@ -34,6 +42,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/setting-up-a-new-pc-used-to-be-fun-now-it-is-ad-ri/' | relative_url }}">setting up a new pc used to be fun now it is ad ri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/rust9x-update-rust-1930-beta/' | relative_url }}">rust9x update rust 1930 beta</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/round-the-tree-yes-but-not-round-the-squirrel/' | relative_url }}">round the tree yes but not round the squirrel</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
@@ -54,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/moving-images-related-to-the-apollo-missions-19671/' | relative_url }}">moving images related to the apollo missions 19671</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/matz-22-the-trajectory-of-rubys-growth-open-source/' | relative_url }}">matz 22 the trajectory of rubys growth open source</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
@@ -82,6 +102,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/02</span>
   <h3><a href="{{ '/2026/01/02/grok-claims-safeguards-tightened-after-users-misus/' | relative_url }}">grok claims safeguards tightened after users misus</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/going-immutable-on-macos-using-nix-darwin/' | relative_url }}">going immutable on macos using nix darwin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/02</span>
+  <h3><a href="{{ '/2026/01/02/from-swift-to-mojo-and-high-performance-ai-enginee/' | relative_url }}">from swift to mojo and high performance ai enginee</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
