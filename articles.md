@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/verified-model-based-conformance-testing-for-dummi/' | relative_url }}">verified model based conformance testing for dummi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/thompson-tells-how-he-developed-the-go-language-at/' | relative_url }}">thompson tells how he developed the go language at</a></h3>
 </div>
 <div class="article-row">
