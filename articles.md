@@ -41,11 +41,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/tally-a-tool-to-help-agents-classify-your-bank-tra/' | relative_url }}">tally a tool to help agents classify your bank tra</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/show-hn-website-that-plays-the-lottery-every-secon/' | relative_url }}">show hn website that plays the lottery every secon</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/report-microsoft-quietly-kills-official-way-to-act/' | relative_url }}">report microsoft quietly kills official way to act</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/reddit-overtakes-tiktok-in-uk-thanks-to-search-alg/' | relative_url }}">reddit overtakes tiktok in uk thanks to search alg</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
@@ -66,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/new-data-serialization-tool/' | relative_url }}">new data serialization tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/microsoft-killed-his-dream-mmo-despite-apparently/' | relative_url }}">microsoft killed his dream mmo despite apparently</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
@@ -114,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/caterpillars-surging-stock-is-fueled-by-ai-not-yel/' | relative_url }}">caterpillars surging stock is fueled by ai not yel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/benchmarking-windows-against-itself-from-windows-x/' | relative_url }}">benchmarking windows against itself from windows x</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
