@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/new-data-serialization-tool/' | relative_url }}">new data serialization tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/microsoft-ceo-satya-nadella-is-now-blogging-about/' | relative_url }}">microsoft ceo satya nadella is now blogging about</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/adventure-751-1980/' | relative_url }}">adventure 751 1980</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/a-beginners-two-component-crystal-style-wi-fi-dete/' | relative_url }}">a beginners two component crystal style wi fi dete</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
