@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/worlds-largest-functioning-musical-instrument-wana/' | relative_url }}">worlds largest functioning musical instrument wana</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/why-developer-expertise-matters-more-than-ever-in/' | relative_url }}">why developer expertise matters more than ever in</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/tally-a-tool-to-help-agents-classify-your-bank-tra/' | relative_url }}">tally a tool to help agents classify your bank tra</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/sirius-db/' | relative_url }}">sirius db</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
@@ -161,6 +169,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/grok-is-undressing-anyone-including-minors/' | relative_url }}">grok is undressing anyone including minors</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/french-ministers-report-groks-sex-related-content/' | relative_url }}">french ministers report groks sex related content</a></h3>
 </div>
 <div class="article-row">
@@ -181,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/drake-faces-us-lawsuit-over-ties-to-online-gamblin/' | relative_url }}">drake faces us lawsuit over ties to online gamblin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/chain-flinger/' | relative_url }}">chain flinger</a></h3>
 </div>
 <div class="article-row">
@@ -198,6 +214,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/built-a-workflow-orchestration-engine-with-python/' | relative_url }}">built a workflow orchestration engine with python</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/bold-december-summary-text-editor-with-lsp-and-dap/' | relative_url }}">bold december summary text editor with lsp and dap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/bluesky-is-not-the-good-place/' | relative_url }}">bluesky is not the good place</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
