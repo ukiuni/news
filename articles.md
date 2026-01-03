@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/whos-hiring-q1-2026/' | relative_url }}">whos hiring q1 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/verified-model-based-conformance-testing-for-dummi/' | relative_url }}">verified model based conformance testing for dummi</a></h3>
 </div>
 <div class="article-row">
@@ -113,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/foss-how-i-automated-android-dark-mode-based-on-th/' | relative_url }}">foss how i automated android dark mode based on th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/explosions-reported-in-venezuelan-capital-caracas/' | relative_url }}">explosions reported in venezuelan capital caracas</a></h3>
 </div>
 <div class="article-row">
@@ -129,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/california-launched-a-free-tool-on-january-1-that/' | relative_url }}">california launched a free tool on january 1 that</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/benchmarking-windows-against-itself-from-windows-x/' | relative_url }}">benchmarking windows against itself from windows x</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/adventure-751-1980/' | relative_url }}">adventure 751 1980</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/a-high-performance-embedded-vector-database-writte/' | relative_url }}">a high performance embedded vector database writte</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
