@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/why-developer-expertise-matters-more-than-ever-in/' | relative_url }}">why developer expertise matters more than ever in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/why-451-is-good-for-you-greylisting-perspectives-f/' | relative_url }}">why 451 is good for you greylisting perspectives f</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/2026-will-be-my-year-of-the-linux-desktop/' | relative_url }}">2026 will be my year of the linux desktop</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/10-python-libraries-that-build-dashboards-in-minut/' | relative_url }}">10 python libraries that build dashboards in minut</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/02</span>
