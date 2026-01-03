@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/tool-to-parse-net-stack-traces-highlighting-the-ro/' | relative_url }}">tool to parse net stack traces highlighting the ro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/thompson-tells-how-he-developed-the-go-language-at/' | relative_url }}">thompson tells how he developed the go language at</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/show-hn-website-that-plays-the-lottery-every-secon/' | relative_url }}">show hn website that plays the lottery every secon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/show-hn-vibe-coding-a-static-site-on-a-25-walmart/' | relative_url }}">show hn vibe coding a static site on a 25 walmart</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
@@ -138,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/not-for-human-consumption/' | relative_url }}">not for human consumption</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/no-grok-cant-really-apologize-for-posting-non-cons/' | relative_url }}">no grok cant really apologize for posting non cons</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
@@ -217,6 +229,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/experiments-with-ableton-mcp/' | relative_url }}">experiments with ableton mcp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/encapsulating-audio-metadata-and-edit-logic-in-a-s/' | relative_url }}">encapsulating audio metadata and edit logic in a s</a></h3>
 </div>
 <div class="article-row">
@@ -266,6 +282,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/at-least-7-explosions-and-low-flying-aircraft-are/' | relative_url }}">at least 7 explosions and low flying aircraft are</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/as-deep-sea-mining-race-ramps-up-mission-will-asse/' | relative_url }}">as deep sea mining race ramps up mission will asse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/amiga-desktops-worth-seeing/' | relative_url }}">amiga desktops worth seeing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
