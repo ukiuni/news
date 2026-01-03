@@ -8,7 +8,7 @@
   source_title: "WebAssembly as a Python extension platform"
   source_id: 46458624
   excerpt: "WasmでPython拡張を配布・高速化、実務的落とし穴と対策を具体解説（事例付き）"
-  ---
+---
 
 # WebAssembly as a Python Extension Platform - Python拡張プラットフォームとしてのWebAssembly
 PythonにWasmを埋め込み、ビルド不要で高速化や埋め込み機能を実現する──意外と実用的で注意点も多いWasm×Pythonの実情を整理。

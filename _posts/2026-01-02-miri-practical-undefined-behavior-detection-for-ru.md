@@ -8,7 +8,7 @@
   source_title: "Miri: Practical Undefined Behavior Detection for Rust [pdf]"
   source_id: 46414152
   excerpt: "MiriでunsafeやFFIの隠れたUBをCIに組み込み自動検出して致命バグを未然に防ぐ"
-  ---
+---
 
 # Miri: Practical Undefined Behavior Detection for Rust - Miri：実践的な Rust 未定義動作検出
 現場で使える「UBチェッカー」──Miriで見落としがちな unsafe の穴を暴く

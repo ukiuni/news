@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/x-clacks-overhead/' | relative_url }}">x clacks overhead</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/why-developer-expertise-matters-more-than-ever-in/' | relative_url }}">why developer expertise matters more than ever in</a></h3>
 </div>
 <div class="article-row">
@@ -69,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/nyc-phone-ban-reveals-some-students-cant-read-cloc/' | relative_url }}">nyc phone ban reveals some students cant read cloc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/ny-fed-cash-transfers-to-banks-increase-dramatical/' | relative_url }}">ny fed cash transfers to banks increase dramatical</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/iquest-coder-a-new-open-source-code-model-beats-cl/' | relative_url }}">iquest coder a new open source code model beats cl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/identity-is-a-physical-property-not-a-digital-perm/' | relative_url }}">identity is a physical property not a digital perm</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>

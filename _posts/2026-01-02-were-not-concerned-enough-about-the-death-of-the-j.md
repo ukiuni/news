@@ -8,7 +8,7 @@
   source_title: "We’re not concerned enough about the death of the junior-level software engineer"
   source_id: 472955220
   excerpt: "AIと自動化、即戦力採用で若手の実務機会が消え、技術継承が枯渇する危機"
-  ---
+---
 
 # We’re not concerned enough about the death of the junior-level software engineer - ジュニア・ソフトウェアエンジニア消滅への警鐘
 若手“コードモンキー”の職は本当に消えるのか？――日本の新卒・若手エンジニアが直面する現実と対策
