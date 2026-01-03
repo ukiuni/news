@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/ukrainian-soldiers-m1-macbook-air-takes-direct-shr/' | relative_url }}">ukrainian soldiers m1 macbook air takes direct shr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/thompson-tells-how-he-developed-the-go-language-at/' | relative_url }}">thompson tells how he developed the go language at</a></h3>
 </div>
 <div class="article-row">
@@ -69,6 +73,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/profiling-with-ctrl-c-2024/' | relative_url }}">profiling with ctrl c 2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/part-7-user-management-system-in-javafx-amp-mysql/' | relative_url }}">part 7 user management system in javafx amp mysql</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/of-boot-vectors-and-double-glitches-bypassing-rp23/' | relative_url }}">of boot vectors and double glitches bypassing rp23</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/new-data-serialization-tool/' | relative_url }}">new data serialization tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/native-android-application-development-in-swift/' | relative_url }}">native android application development in swift</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>

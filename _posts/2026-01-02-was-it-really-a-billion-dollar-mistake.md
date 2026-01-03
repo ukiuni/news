@@ -8,7 +8,7 @@
   source_title: "Was it really a Billion Dollar Mistake? - gingerBill"
   source_id: 1279714964
   excerpt: "ヌル参照は本当に禁忌か？実務での盲点と言語設計のトレードオフ"
-  ---
+---
 
 # Was it really a Billion Dollar Mistake? - 本当に「10億ドルの失敗」だったのか？
 「ヌルポ」は悪者か？Cっぽい設計を目指す言語設計者が語る、意外と見落とされがちな“トレードオフ”
