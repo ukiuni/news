@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/thompson-tells-how-he-developed-the-go-language-at/' | relative_url }}">thompson tells how he developed the go language at</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/the-pgp-problem-2019/' | relative_url }}">the pgp problem 2019</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/the-future-of-personalization/' | relative_url }}">the future of personalization</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
@@ -17,7 +25,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/proving-liveness-with-tla/' | relative_url }}">proving liveness with tla</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/ny-fed-cash-transfers-to-banks-increase-dramatical/' | relative_url }}">ny fed cash transfers to banks increase dramatical</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/microsoft-ceo-satya-nadella-is-now-blogging-about/' | relative_url }}">microsoft ceo satya nadella is now blogging about</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
