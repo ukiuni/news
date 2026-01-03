@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/writing-a-simd-optimized-parquet-library-in-pure-c/' | relative_url }}">writing a simd optimized parquet library in pure c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/worlds-largest-functioning-musical-instrument-wana/' | relative_url }}">worlds largest functioning musical instrument wana</a></h3>
 </div>
 <div class="article-row">
@@ -121,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/nyc-wegmans-is-storing-biometric-data-on-shoppers/' | relative_url }}">nyc wegmans is storing biometric data on shoppers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/nyc-phone-ban-reveals-some-students-cant-read-cloc/' | relative_url }}">nyc phone ban reveals some students cant read cloc</a></h3>
 </div>
 <div class="article-row">
@@ -181,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/how-i-browse-the-web-in-2026/' | relative_url }}">how i browse the web in 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/grok-is-undressing-anyone-including-minors/' | relative_url }}">grok is undressing anyone including minors</a></h3>
 </div>
 <div class="article-row">
@@ -198,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/explosions-reported-in-venezuelan-capital-caracas/' | relative_url }}">explosions reported in venezuelan capital caracas</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/exploring-dithering-on-spectra-6-color-e-ink-displ/' | relative_url }}">exploring dithering on spectra 6 color e ink displ</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
@@ -242,6 +258,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/benchmarking-windows-against-itself-from-windows-x/' | relative_url }}">benchmarking windows against itself from windows x</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/beating-myself-at-chess/' | relative_url }}">beating myself at chess</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
