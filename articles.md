@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/xr0-verifier-guarantee-the-safety-of-c-programs-at/' | relative_url }}">xr0 verifier guarantee the safety of c programs at</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/x-clacks-overhead/' | relative_url }}">x clacks overhead</a></h3>
 </div>
 <div class="article-row">
@@ -53,11 +57,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/total-monthly-number-of-stackoverflow-questions-ov/' | relative_url }}">total monthly number of stackoverflow questions ov</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/tool-to-parse-net-stack-traces-highlighting-the-ro/' | relative_url }}">tool to parse net stack traces highlighting the ro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/thompson-tells-how-he-developed-the-go-language-at/' | relative_url }}">thompson tells how he developed the go language at</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/the-riven-1997-diffs/' | relative_url }}">the riven 1997 diffs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
@@ -85,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/take-one-small-step/' | relative_url }}">take one small step</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/sirius-db/' | relative_url }}">sirius db</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/show-hn-offline-tiles-and-routing-and-geocoding-in/' | relative_url }}">show hn offline tiles and routing and geocoding in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/scaling-latent-reasoning-via-looped-language-model/' | relative_url }}">scaling latent reasoning via looped language model</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
@@ -217,6 +237,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/free-online-developer-utility-toolkit-and-simulato/' | relative_url }}">free online developer utility toolkit and simulato</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/foss-how-i-automated-android-dark-mode-based-on-th/' | relative_url }}">foss how i automated android dark mode based on th</a></h3>
 </div>
 <div class="article-row">
@@ -233,7 +257,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/enterprise-integration-patterns-the-routing-slip/' | relative_url }}">enterprise integration patterns the routing slip</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/encapsulating-audio-metadata-and-edit-logic-in-a-s/' | relative_url }}">encapsulating audio metadata and edit logic in a s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/ed25519-cli-command-line-interface-for-the-ed25519/' | relative_url }}">ed25519 cli command line interface for the ed25519</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
