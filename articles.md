@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/who-owns-the-memory-part-1-what-is-an-object/' | relative_url }}">who owns the memory part 1 what is an object</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/verified-model-based-conformance-testing-for-dummi/' | relative_url }}">verified model based conformance testing for dummi</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/show-hn-website-that-plays-the-lottery-every-secon/' | relative_url }}">show hn website that plays the lottery every secon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/show-hn-offline-tiles-and-routing-and-geocoding-in/' | relative_url }}">show hn offline tiles and routing and geocoding in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
@@ -166,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/california-launched-a-free-tool-on-january-1-that/' | relative_url }}">california launched a free tool on january 1 that</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/big-techs-fast-expanding-plans-for-data-centers-ar/' | relative_url }}">big techs fast expanding plans for data centers ar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
