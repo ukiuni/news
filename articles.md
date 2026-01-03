@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/zero-dependency-genetics-engine-in-vanilla-php-14/' | relative_url }}">zero dependency genetics engine in vanilla php 14</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/verified-model-based-conformance-testing-for-dummi/' | relative_url }}">verified model based conformance testing for dummi</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/is-tree-sitter-good-enough-2022/' | relative_url }}">is tree sitter good enough 2022</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/iquest-coder-a-new-open-source-code-model-beats-cl/' | relative_url }}">iquest coder a new open source code model beats cl</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
