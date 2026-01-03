@@ -29,7 +29,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/report-microsoft-quietly-kills-official-way-to-act/' | relative_url }}">report microsoft quietly kills official way to act</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/proving-liveness-with-tla/' | relative_url }}">proving liveness with tla</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/of-boot-vectors-and-double-glitches-bypassing-rp23/' | relative_url }}">of boot vectors and double glitches bypassing rp23</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
@@ -41,11 +49,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/malleable-software-restoring-user-agency-in-a-worl/' | relative_url }}">malleable software restoring user agency in a worl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/is-tree-sitter-good-enough-2022/' | relative_url }}">is tree sitter good enough 2022</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/chain-flinger/' | relative_url }}">chain flinger</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
   <h3><a href="{{ '/2026/01/03/caterpillars-surging-stock-is-fueled-by-ai-not-yel/' | relative_url }}">caterpillars surging stock is fueled by ai not yel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/03</span>
+  <h3><a href="{{ '/2026/01/03/adventure-751-1980/' | relative_url }}">adventure 751 1980</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
