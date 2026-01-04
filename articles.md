@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/where-good-ideas-come-from-for-software-engineers/' | relative_url }}">where good ideas come from for software engineers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/when-stdshared_mutex-outperforms-stdmutex-a-google/' | relative_url }}">when stdshared_mutex outperforms stdmutex a google</a></h3>
 </div>
 <div class="article-row">
@@ -73,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/minikv-a-little-kv-store-implementation-in-ocaml-t/' | relative_url }}">minikv a little kv store implementation in ocaml t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/meeting-seed7-by-norman-feske/' | relative_url }}">meeting seed7 by norman feske</a></h3>
 </div>
 <div class="article-row">
@@ -97,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/from-silicon-to-darude-sandstorm-breaking-famous-s/' | relative_url }}">from silicon to darude sandstorm breaking famous s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/finger-nose-stylus-for-touch-screens/' | relative_url }}">finger nose stylus for touch screens</a></h3>
 </div>
 <div class="article-row">
@@ -110,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/chinas-tokamak-experiments-exceed-plasma-density-l/' | relative_url }}">chinas tokamak experiments exceed plasma density l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/cars-gobbling-up-your-data-and-showing-ads-are-bec/' | relative_url }}">cars gobbling up your data and showing ads are bec</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
@@ -134,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/anti-aging-injection-regrows-knee-cartilage-and-pr/' | relative_url }}">anti aging injection regrows knee cartilage and pr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/anatomy-of-boltzgen/' | relative_url }}">anatomy of boltzgen</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
