@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/street-fighter-ii-the-world-warrier/' | relative_url }}">street fighter ii the world warrier</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/software-craftsmanship-is-dead/' | relative_url }}">software craftsmanship is dead</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/autonomous-discovery-of-physical-invariants-from-r/' | relative_url }}">autonomous discovery of physical invariants from r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/anti-aging-injection-regrows-knee-cartilage-and-pr/' | relative_url }}">anti aging injection regrows knee cartilage and pr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
