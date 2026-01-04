@@ -161,6 +161,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/linear-address-spaces-unsafe-at-any-speed/' | relative_url }}">linear address spaces unsafe at any speed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/lessons-from-14-years-at-google/' | relative_url }}">lessons from 14 years at google</a></h3>
 </div>
 <div class="article-row">
