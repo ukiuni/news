@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/saying-goodbye-to-the-servers-at-our-physical-data/' | relative_url }}">saying goodbye to the servers at our physical data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/react-neumorphism/' | relative_url }}">react neumorphism</a></h3>
 </div>
 <div class="article-row">
@@ -85,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/maybe-comments-_should_-explain-what/' | relative_url }}">maybe comments _should_ explain what</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/language-gives-authority-to-weak-ideas/' | relative_url }}">language gives authority to weak ideas</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/from-silicon-to-darude-sandstorm-breaking-famous-s/' | relative_url }}">from silicon to darude sandstorm breaking famous s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/freebsd-home-nas-part-3-wireguard-vpn-routing-and/' | relative_url }}">freebsd home nas part 3 wireguard vpn routing and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
