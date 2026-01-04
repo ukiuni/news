@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/when-stdshared_mutex-outperforms-stdmutex-a-google/' | relative_url }}">when stdshared_mutex outperforms stdmutex a google</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/torchts-building-pytorch-in-typescript-from-scratc/' | relative_url }}">torchts building pytorch in typescript from scratc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/the-suck-is-why-were-here/' | relative_url }}">the suck is why were here</a></h3>
 </div>
 <div class="article-row">
