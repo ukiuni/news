@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/the-gentle-seduction/' | relative_url }}">the gentle seduction</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/street-fighter-ii-the-world-warrier/' | relative_url }}">street fighter ii the world warrier</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/mytorch-minimalist-autograd-in-450-lines-of-python/' | relative_url }}">mytorch minimalist autograd in 450 lines of python</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/meeting-seed7-by-norman-feske/' | relative_url }}">meeting seed7 by norman feske</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
@@ -101,7 +109,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/can-i-finally-start-using-wayland-in-2026/' | relative_url }}">can i finally start using wayland in 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/building-a-tls-13-implementation-in-pure-common-li/' | relative_url }}">building a tls 13 implementation in pure common li</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/building-a-mobile-app-to-reduce-privacy-exposure-l/' | relative_url }}">building a mobile app to reduce privacy exposure l</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
