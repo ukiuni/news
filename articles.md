@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/why-does-a-least-squares-fit-appear-to-have-a-bias/' | relative_url }}">why does a least squares fit appear to have a bias</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/who-owns-the-memory-part-2-who-calls-free/' | relative_url }}">who owns the memory part 2 who calls free</a></h3>
 </div>
 <div class="article-row">
@@ -97,7 +101,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/stop-forwarding-errors-start-designing-them/' | relative_url }}">stop forwarding errors start designing them</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/speed-test-pits-six-generations-of-windows-against/' | relative_url }}">speed test pits six generations of windows against</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/software-craftsmanship-is-dead/' | relative_url }}">software craftsmanship is dead</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/show-hn-terminal-ui-for-aws/' | relative_url }}">show hn terminal ui for aws</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
@@ -138,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/mytorch-minimalist-autograd-in-450-lines-of-python/' | relative_url }}">mytorch minimalist autograd in 450 lines of python</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/modern-neovim-configuration-for-polyglot-developme/' | relative_url }}">modern neovim configuration for polyglot developme</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
@@ -193,6 +213,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/i-changed-my-personality-in-six-weeks/' | relative_url }}">i changed my personality in six weeks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/how-to-help-engineers-define-their-growth-goals/' | relative_url }}">how to help engineers define their growth goals</a></h3>
 </div>
 <div class="article-row">
@@ -241,6 +265,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/claude-code-on-the-go/' | relative_url }}">claude code on the go</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/classify-agricultural-pests-complete-yolov8-classi/' | relative_url }}">classify agricultural pests complete yolov8 classi</a></h3>
 </div>
 <div class="article-row">
@@ -270,6 +298,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/bison-return-to-illinois-kane-county-after-200-yea/' | relative_url }}">bison return to illinois kane county after 200 yea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/beyond-the-linear-cv/' | relative_url }}">beyond the linear cv</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
