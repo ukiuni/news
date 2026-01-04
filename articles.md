@@ -13,11 +13,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/video-games-may-be-a-surprisingly-good-way-to-get/' | relative_url }}">video games may be a surprisingly good way to get</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/torchts-building-pytorch-in-typescript-from-scratc/' | relative_url }}">torchts building pytorch in typescript from scratc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/the-suck-is-why-were-here/' | relative_url }}">the suck is why were here</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/the-late-arrival-of-16-bit-cpm-by-nemanja-trifunov/' | relative_url }}">the late arrival of 16 bit cpm by nemanja trifunov</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/the-hot-key-crisis-in-consistent-hashing-when-virt/' | relative_url }}">the hot key crisis in consistent hashing when virt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
@@ -62,6 +74,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/chinas-tokamak-experiments-exceed-plasma-density-l/' | relative_url }}">chinas tokamak experiments exceed plasma density l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/building-a-tls-13-implementation-in-pure-common-li/' | relative_url }}">building a tls 13 implementation in pure common li</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/autonomous-discovery-of-physical-invariants-from-r/' | relative_url }}">autonomous discovery of physical invariants from r</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
