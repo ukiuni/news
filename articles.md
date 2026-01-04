@@ -97,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/the-complete-full-stack-developer-roadmap-for-2026/' | relative_url }}">the complete full stack developer roadmap for 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/street-fighter-ii-the-world-warrier/' | relative_url }}">street fighter ii the world warrier</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/odoo-open-source-erp/' | relative_url }}">odoo open source erp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/north-dakota-law-lists-fake-critical-minerals-base/' | relative_url }}">north dakota law lists fake critical minerals base</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
@@ -250,6 +258,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/family-blame-teslas-autosteer-feature-for-veering/' | relative_url }}">family blame teslas autosteer feature for veering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/eurostar-ai-vulnerability-when-a-chatbot-goes-off/' | relative_url }}">eurostar ai vulnerability when a chatbot goes off</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
