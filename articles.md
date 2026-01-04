@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/xai-silent-after-grok-sexualized-images-of-kids-dr/' | relative_url }}">xai silent after grok sexualized images of kids dr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/who-owns-the-memory-part-2-who-calls-free/' | relative_url }}">who owns the memory part 2 who calls free</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/video-games-may-be-a-surprisingly-good-way-to-get/' | relative_url }}">video games may be a surprisingly good way to get</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/using-hinge-as-a-command-and-control-server/' | relative_url }}">using hinge as a command and control server</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
@@ -58,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/the-pgp-problem-2019/' | relative_url }}">the pgp problem 2019</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/the-making-of-digital-identity-network-era/' | relative_url }}">the making of digital identity network era</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
@@ -137,6 +149,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/local-residents-block-billion-dollar-data-center-p/' | relative_url }}">local residents block billion dollar data center p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/lessons-from-14-years-at-google/' | relative_url }}">lessons from 14 years at google</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/language-gives-authority-to-weak-ideas/' | relative_url }}">language gives authority to weak ideas</a></h3>
 </div>
 <div class="article-row">
@@ -166,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/gdi-effects-from-the-pc-cracking-scene/' | relative_url }}">gdi effects from the pc cracking scene</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/gamers-desert-intel-in-droves-as-steam-share-plumm/' | relative_url }}">gamers desert intel in droves as steam share plumm</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
@@ -257,7 +281,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/a-japanese-team-built-a-sensor-so-precise-it-might/' | relative_url }}">a japanese team built a sensor so precise it might</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/83-remove-duplicates-from-sorted-list/' | relative_url }}">83 remove duplicates from sorted list</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/4-ways-to-improve-a-perfect-join-algorithm/' | relative_url }}">4 ways to improve a perfect join algorithm</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
