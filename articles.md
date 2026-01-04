@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/web-development-is-fun-again/' | relative_url }}">web development is fun again</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/video-games-may-be-a-surprisingly-good-way-to-get/' | relative_url }}">video games may be a surprisingly good way to get</a></h3>
 </div>
 <div class="article-row">
@@ -141,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/microslop-trends-in-backlash-to-microsofts-ai-obse/' | relative_url }}">microslop trends in backlash to microsofts ai obse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/meeting-seed7-by-norman-feske/' | relative_url }}">meeting seed7 by norman feske</a></h3>
 </div>
 <div class="article-row">
@@ -178,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/instagram-reels-went-from-tiktok-clone-to-a-50-bil/' | relative_url }}">instagram reels went from tiktok clone to a 50 bil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/how-to-help-engineers-define-their-growth-goals/' | relative_url }}">how to help engineers define their growth goals</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
@@ -225,6 +237,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/classify-agricultural-pests-complete-yolov8-classi/' | relative_url }}">classify agricultural pests complete yolov8 classi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/chinas-tokamak-experiments-exceed-plasma-density-l/' | relative_url }}">chinas tokamak experiments exceed plasma density l</a></h3>
 </div>
 <div class="article-row">
@@ -246,6 +262,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/building-a-mobile-app-to-reduce-privacy-exposure-l/' | relative_url }}">building a mobile app to reduce privacy exposure l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/bison-return-to-illinois-kane-county-after-200-yea/' | relative_url }}">bison return to illinois kane county after 200 yea</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
