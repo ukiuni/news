@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/utopian-scholastic/' | relative_url }}">utopian scholastic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/using-hinge-as-a-command-and-control-server/' | relative_url }}">using hinge as a command and control server</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/torchts-building-pytorch-in-typescript-from-scratc/' | relative_url }}">torchts building pytorch in typescript from scratc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/the-year-of-the-3d-printed-miniature-and-other-lie/' | relative_url }}">the year of the 3d printed miniature and other lie</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
