@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/gdi-effects-from-the-pc-cracking-scene/' | relative_url }}">gdi effects from the pc cracking scene</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/finger-nose-stylus-for-touch-screens/' | relative_url }}">finger nose stylus for touch screens</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/anti-aging-injection-regrows-knee-cartilage-and-pr/' | relative_url }}">anti aging injection regrows knee cartilage and pr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/83-remove-duplicates-from-sorted-list/' | relative_url }}">83 remove duplicates from sorted list</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/03</span>
