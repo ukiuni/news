@@ -137,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/ripple-a-puzzle-game-about-2nd-and-3rd-order-effec/' | relative_url }}">ripple a puzzle game about 2nd and 3rd order effec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/react-neumorphism/' | relative_url }}">react neumorphism</a></h3>
 </div>
 <div class="article-row">
@@ -145,11 +149,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/on-scannerless-parsing-again/' | relative_url }}">on scannerless parsing again</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/odoo-open-source-erp/' | relative_url }}">odoo open source erp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/north-dakota-law-lists-fake-critical-minerals-base/' | relative_url }}">north dakota law lists fake critical minerals base</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/no-longer-a-rumour-microsoft-silently-kills-window/' | relative_url }}">no longer a rumour microsoft silently kills window</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
