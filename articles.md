@@ -21,11 +21,39 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/the-great-gatsby-is-the-most-misunderstood-novel/' | relative_url }}">the great gatsby is the most misunderstood novel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/software-craftsmanship-is-dead/' | relative_url }}">software craftsmanship is dead</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/react-neumorphism/' | relative_url }}">react neumorphism</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/new-page-added-what-is-yini-and-why-a-config-forma/' | relative_url }}">new page added what is yini and why a config forma</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/mytorch-minimalist-autograd-in-450-lines-of-python/' | relative_url }}">mytorch minimalist autograd in 450 lines of python</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/language-gives-authority-to-weak-ideas/' | relative_url }}">language gives authority to weak ideas</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/kde-onboarding-is-good-now/' | relative_url }}">kde onboarding is good now</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/how-thomas-mann-wrote-the-magic-mountain/' | relative_url }}">how thomas mann wrote the magic mountain</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/developing-a-blas-library-for-the-amd-ai-engine-pd/' | relative_url }}">developing a blas library for the amd ai engine pd</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
