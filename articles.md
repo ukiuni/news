@@ -49,7 +49,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/odoo-open-source-erp/' | relative_url }}">odoo open source erp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/new-page-added-what-is-yini-and-why-a-config-forma/' | relative_url }}">new page added what is yini and why a config forma</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/neural-networks-zero-to-hero/' | relative_url }}">neural networks zero to hero</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
@@ -65,7 +73,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/jack-white-blasts-republican-congressman-tim-burch/' | relative_url }}">jack white blasts republican congressman tim burch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/how-thomas-mann-wrote-the-magic-mountain/' | relative_url }}">how thomas mann wrote the magic mountain</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/finger-nose-stylus-for-touch-screens/' | relative_url }}">finger nose stylus for touch screens</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
