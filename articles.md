@@ -21,6 +21,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/mytorch-minimalist-autograd-in-450-lines-of-python/' | relative_url }}">mytorch minimalist autograd in 450 lines of python</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
+  <h3><a href="{{ '/2026/01/04/kde-onboarding-is-good-now/' | relative_url }}">kde onboarding is good now</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/determining-current-arm-cortex-m-security-state-wi/' | relative_url }}">determining current arm cortex m security state wi</a></h3>
 </div>
 <div class="article-row">
