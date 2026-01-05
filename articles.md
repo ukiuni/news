@@ -105,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/i-switched-from-vscode-to-zed/' | relative_url }}">i switched from vscode to zed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/i-charged-18k-for-a-static-html-page-2019/' | relative_url }}">i charged 18k for a static html page 2019</a></h3>
 </div>
 <div class="article-row">
@@ -117,11 +121,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/how-speeding-up-rl-led-to-pufferlib-48k-stars-inte/' | relative_url }}">how speeding up rl led to pufferlib 48k stars inte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/got-an-idea-or-a-problem-lets-work-on-it/' | relative_url }}">got an idea or a problem lets work on it</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/gossip-gloomers-in-rust/' | relative_url }}">gossip gloomers in rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/gog-patrons-join-gamers-keeping-classics-alive/' | relative_url }}">gog patrons join gamers keeping classics alive</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/functors-applicatives-and-monads-the-scary-words-y/' | relative_url }}">functors applicatives and monads the scary words y</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -158,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/cudatext-a-native-vscode-alternative-that-nobody-k/' | relative_url }}">cudatext a native vscode alternative that nobody k</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/cigarette-smoke-effect-using-shaders/' | relative_url }}">cigarette smoke effect using shaders</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
