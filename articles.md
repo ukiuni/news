@@ -73,6 +73,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/cudatext-a-native-vscode-alternative-that-nobody-k/' | relative_url }}">cudatext a native vscode alternative that nobody k</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/can-a-social-app-fix-the-terrible-devastation-of-s/' | relative_url }}">can a social app fix the terrible devastation of s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/california-residents-can-use-new-tool-to-demand-br/' | relative_url }}">california residents can use new tool to demand br</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/california-residents-can-now-request-all-data-brok/' | relative_url }}">california residents can now request all data brok</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/applying-the-unix-philosophy-to-agents/' | relative_url }}">applying the unix philosophy to agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/a-spider-web-unlike-any-seen-before-2025/' | relative_url }}">a spider web unlike any seen before 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/04</span>
