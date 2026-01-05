@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/so-you-want-to-chunk-really-fast/' | relative_url }}">so you want to chunk really fast</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/simple-and-efficient-visualization-of-embedded-sys/' | relative_url }}">simple and efficient visualization of embedded sys</a></h3>
 </div>
 <div class="article-row">
@@ -109,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/rebuilding-event-driven-read-models-in-a-safe-and/' | relative_url }}">rebuilding event driven read models in a safe and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/murder-suicide-case-shows-openai-selectively-hides/' | relative_url }}">murder suicide case shows openai selectively hides</a></h3>
 </div>
 <div class="article-row">
@@ -145,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/ice-is-using-facial-recognition-technology-to-quic/' | relative_url }}">ice is using facial recognition technology to quic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/i-thought-i-knew-silicon-valley-i-was-wrong/' | relative_url }}">i thought i knew silicon valley i was wrong</a></h3>
 </div>
 <div class="article-row">
@@ -157,11 +169,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/i-built-a-desktop-app-that-commits-to-github-so-i/' | relative_url }}">i built a desktop app that commits to github so i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/how-y-combinator-made-it-smart-to-trust-founders/' | relative_url }}">how y combinator made it smart to trust founders</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/how-urs-hlzle-8th-employee-of-google-built-a-world/' | relative_url }}">how urs hlzle 8th employee of google built a world</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/how-twitch-tamed-a-million-lines-of-typescript/' | relative_url }}">how twitch tamed a million lines of typescript</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
