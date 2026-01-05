@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/the-showa-hundred-year-problem/' | relative_url }}">the showa hundred year problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/the-250000-camera-city-wide-network-a-bug-in-flock/' | relative_url }}">the 250000 camera city wide network a bug in flock</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/should-a-bilateral-filter-library-automatically-ma/' | relative_url }}">should a bilateral filter library automatically ma</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -18,6 +26,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/french-and-malaysian-authorities-are-investigating/' | relative_url }}">french and malaysian authorities are investigating</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/everything-you-need-to-know-about-email-encryption/' | relative_url }}">everything you need to know about email encryption</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/audio-dongles-and-the-ghost-of-usb-1/' | relative_url }}">audio dongles and the ghost of usb 1</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
