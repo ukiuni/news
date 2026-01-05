@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/you-spelled-it-wrong/' | relative_url }}">you spelled it wrong</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/who-owns-the-memory-part-3-how-big-is-your-type/' | relative_url }}">who owns the memory part 3 how big is your type</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
 </div>
 <div class="article-row">
@@ -81,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/samsung-co-ceo-says-prices-might-rise-including-tv/' | relative_url }}">samsung co ceo says prices might rise including tv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/revisiting-the-original-roomba-and-its-simple-arch/' | relative_url }}">revisiting the original roomba and its simple arch</a></h3>
 </div>
 <div class="article-row">
@@ -145,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/how-github-monopoly-is-destroying-the-open-source/' | relative_url }}">how github monopoly is destroying the open source</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/got-an-idea-or-a-problem-lets-work-on-it/' | relative_url }}">got an idea or a problem lets work on it</a></h3>
 </div>
 <div class="article-row">
@@ -154,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/gog-patrons-join-gamers-keeping-classics-alive/' | relative_url }}">gog patrons join gamers keeping classics alive</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/github-rossbergcamp-old-school-audio-player-with-d/' | relative_url }}">github rossbergcamp old school audio player with d</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -201,6 +221,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/css-sucks-because-we-dont-bother-learning-it-2022/' | relative_url }}">css sucks because we dont bother learning it 2022</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/common-architectures-monolithic-distributed-and-se/' | relative_url }}">common architectures monolithic distributed and se</a></h3>
 </div>
 <div class="article-row">
@@ -242,6 +266,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/annas-archive-loses-org-domain-after-surprise-susp/' | relative_url }}">annas archive loses org domain after surprise susp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/all-ai-videos-are-harmful-2025/' | relative_url }}">all ai videos are harmful 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
