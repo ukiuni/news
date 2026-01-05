@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/vs-code-extension-for-rv/' | relative_url }}">vs code extension for rv</a></h3>
 </div>
 <div class="article-row">
@@ -37,6 +41,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/tesla-dominated-evs-for-years-byd-just-left-it-in/' | relative_url }}">tesla dominated evs for years byd just left it in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/simple-and-efficient-visualization-of-embedded-sys/' | relative_url }}">simple and efficient visualization of embedded sys</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/show-hn-circuit-artist-circuit-simulator-with-prop/' | relative_url }}">show hn circuit artist circuit simulator with prop</a></h3>
 </div>
 <div class="article-row">
@@ -45,11 +57,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/scientists-uncover-the-universal-geometry-of-geolo/' | relative_url }}">scientists uncover the universal geometry of geolo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/samsung-puts-gemini-ai-in-your-fridge-because-appa/' | relative_url }}">samsung puts gemini ai in your fridge because appa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/revisiting-the-original-roomba-and-its-simple-arch/' | relative_url }}">revisiting the original roomba and its simple arch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/murder-suicide-case-shows-openai-selectively-hides/' | relative_url }}">murder suicide case shows openai selectively hides</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -118,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/designing-long-term-memory-for-ai-agents-beyond-tr/' | relative_url }}">designing long term memory for ai agents beyond tr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/default4j-default-parameter-values-for-java-via-an/' | relative_url }}">default4j default parameter values for java via an</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
