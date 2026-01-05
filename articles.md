@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/vs-code-extension-for-rv/' | relative_url }}">vs code extension for rv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/thoughts-on-go-vs-rust-vs-zig/' | relative_url }}">thoughts on go vs rust vs zig</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/the-showa-hundred-year-problem/' | relative_url }}">the showa hundred year problem</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/got-an-idea-or-a-problem-lets-work-on-it/' | relative_url }}">got an idea or a problem lets work on it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/french-and-malaysian-authorities-are-investigating/' | relative_url }}">french and malaysian authorities are investigating</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/applying-the-unix-philosophy-to-agents/' | relative_url }}">applying the unix philosophy to agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/annas-archive-loses-org-domain-after-surprise-susp/' | relative_url }}">annas archive loses org domain after surprise susp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
