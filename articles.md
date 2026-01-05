@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/i-charged-18k-for-a-static-html-page-2019/' | relative_url }}">i charged 18k for a static html page 2019</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/french-and-malaysian-authorities-are-investigating/' | relative_url }}">french and malaysian authorities are investigating</a></h3>
 </div>
 <div class="article-row">
