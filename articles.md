@@ -65,6 +65,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/show-hn-tailsnitch-a-security-auditor-for-tailscal/' | relative_url }}">show hn tailsnitch a security auditor for tailscal</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/show-hn-open-source-8-ch-bci-board-esp32-and-ads12/' | relative_url }}">show hn open source 8 ch bci board esp32 and ads12</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/show-hn-donotnotify-log-and-intelligently-block-no/' | relative_url }}">show hn donotnotify log and intelligently block no</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/revisiting-the-original-roomba-and-its-simple-arch/' | relative_url }}">revisiting the original roomba and its simple arch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/researcher-wipes-white-supremacist-dating-sites-le/' | relative_url }}">researcher wipes white supremacist dating sites le</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -145,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/how-y-combinator-made-it-smart-to-trust-founders/' | relative_url }}">how y combinator made it smart to trust founders</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/how-urs-hlzle-8th-employee-of-google-built-a-world/' | relative_url }}">how urs hlzle 8th employee of google built a world</a></h3>
 </div>
 <div class="article-row">
@@ -185,11 +201,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/experienced-software-developers-assumed-ai-would-s/' | relative_url }}">experienced software developers assumed ai would s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/everything-you-need-to-know-about-email-encryption/' | relative_url }}">everything you need to know about email encryption</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/environmental-group-sues-over-energy-demand-foreca/' | relative_url }}">environmental group sues over energy demand foreca</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/easy-horizontal-scrollbar-fixes-for-your-blog-css/' | relative_url }}">easy horizontal scrollbar fixes for your blog css</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -233,6 +257,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/career-guidance-software-developer-database-admini/' | relative_url }}">career guidance software developer database admini</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/can-a-social-app-fix-the-terrible-devastation-of-s/' | relative_url }}">can a social app fix the terrible devastation of s</a></h3>
 </div>
 <div class="article-row">
@@ -270,6 +298,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/all-ai-videos-are-harmful-2025/' | relative_url }}">all ai videos are harmful 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/a-web-developer-posted-a-payment-shaming-message-o/' | relative_url }}">a web developer posted a payment shaming message o</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
