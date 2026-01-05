@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/winter-madness-postmortem-go-ebitengine-tetra3d/' | relative_url }}">winter madness postmortem go ebitengine tetra3d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/who-owns-the-memory-part-3-how-big-is-your-type/' | relative_url }}">who owns the memory part 3 how big is your type</a></h3>
 </div>
 <div class="article-row">
@@ -53,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/the-lottery-ticket-hypothesis-finding-sparse-train/' | relative_url }}">the lottery ticket hypothesis finding sparse train</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/the-law-of-leaky-abstractions/' | relative_url }}">the law of leaky abstractions</a></h3>
 </div>
 <div class="article-row">
@@ -73,7 +81,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/teslas-diner-went-from-viral-sensation-to-empty-pi/' | relative_url }}">teslas diner went from viral sensation to empty pi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/tesla-dominated-evs-for-years-byd-just-left-it-in/' | relative_url }}">tesla dominated evs for years byd just left it in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/spark-formal-verification-and-proving-program-corr/' | relative_url }}">spark formal verification and proving program corr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -245,11 +261,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/home-electricity-bills-are-skyrocketing-for-data-c/' | relative_url }}">home electricity bills are skyrocketing for data c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/got-an-idea-or-a-problem-lets-work-on-it/' | relative_url }}">got an idea or a problem lets work on it</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/gossip-gloomers-in-rust/' | relative_url }}">gossip gloomers in rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/google-broke-my-heart/' | relative_url }}">google broke my heart</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
