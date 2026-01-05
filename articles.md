@@ -37,7 +37,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/show-hn-circuit-artist-circuit-simulator-with-prop/' | relative_url }}">show hn circuit artist circuit simulator with prop</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/should-a-bilateral-filter-library-automatically-ma/' | relative_url }}">should a bilateral filter library automatically ma</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/samsung-puts-gemini-ai-in-your-fridge-because-appa/' | relative_url }}">samsung puts gemini ai in your fridge because appa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -69,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/its-hard-to-justify-tahoe-icons/' | relative_url }}">its hard to justify tahoe icons</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/i-thought-i-knew-silicon-valley-i-was-wrong/' | relative_url }}">i thought i knew silicon valley i was wrong</a></h3>
 </div>
 <div class="article-row">
@@ -89,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/gossip-gloomers-in-rust/' | relative_url }}">gossip gloomers in rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/french-and-malaysian-authorities-are-investigating/' | relative_url }}">french and malaysian authorities are investigating</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/during-helene-i-just-wanted-a-plain-text-website/' | relative_url }}">during helene i just wanted a plain text website</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/designing-long-term-memory-for-ai-agents-beyond-tr/' | relative_url }}">designing long term memory for ai agents beyond tr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
