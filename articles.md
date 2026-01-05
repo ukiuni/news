@@ -8,6 +8,22 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/the-250000-camera-city-wide-network-a-bug-in-flock/' | relative_url }}">the 250000 camera city wide network a bug in flock</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/millennium-challenge-a-corrupted-military-exercise/' | relative_url }}">millennium challenge a corrupted military exercise</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/french-and-malaysian-authorities-are-investigating/' | relative_url }}">french and malaysian authorities are investigating</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/applying-the-unix-philosophy-to-agents/' | relative_url }}">applying the unix philosophy to agents</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/04</span>
   <h3><a href="{{ '/2026/01/04/xmake-v306-released-android-native-apps-flang-appi/' | relative_url }}">xmake v306 released android native apps flang appi</a></h3>
 </div>
