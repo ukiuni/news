@@ -29,6 +29,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/uncloud-self-hosted-cloud-seen-by-a-developer-for/' | relative_url }}">uncloud self hosted cloud seen by a developer for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/try-to-take-my-position-the-best-promotion-advice/' | relative_url }}">try to take my position the best promotion advice</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/thoughts-on-go-vs-rust-vs-zig/' | relative_url }}">thoughts on go vs rust vs zig</a></h3>
 </div>
 <div class="article-row">
@@ -93,6 +101,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/setting-up-a-public-url-that-flashes-my-office-lig/' | relative_url }}">setting up a public url that flashes my office lig</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/sega-co-founder-david-rosen-has-died/' | relative_url }}">sega co founder david rosen has died</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/scientists-uncover-the-universal-geometry-of-geolo/' | relative_url }}">scientists uncover the universal geometry of geolo</a></h3>
 </div>
 <div class="article-row">
@@ -113,7 +129,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/refactoring-not-on-the-backlog-2014/' | relative_url }}">refactoring not on the backlog 2014</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/rebuilding-event-driven-read-models-in-a-safe-and/' | relative_url }}">rebuilding event driven read models in a safe and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/pipe-dreams-the-life-and-times-of-yahoo-pipes-2023/' | relative_url }}">pipe dreams the life and times of yahoo pipes 2023</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/o-ring-automation/' | relative_url }}">o ring automation</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -150,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/imagine-130m-washing-machines/' | relative_url }}">imagine 130m washing machines</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/im-watching-myself-on-youtube-saying-things-i-woul/' | relative_url }}">im watching myself on youtube saying things i woul</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -209,7 +241,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/go-126-interactive-tour/' | relative_url }}">go 126 interactive tour</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/github-rossbergcamp-old-school-audio-player-with-d/' | relative_url }}">github rossbergcamp old school audio player with d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/gatekeepers-of-law-inside-the-westlaw-and-lexisnex/' | relative_url }}">gatekeepers of law inside the westlaw and lexisnex</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -273,6 +313,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/clean-code-vs-a-philosophy-of-software-design/' | relative_url }}">clean code vs a philosophy of software design</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/cigarette-smoke-effect-using-shaders/' | relative_url }}">cigarette smoke effect using shaders</a></h3>
 </div>
 <div class="article-row">
@@ -298,6 +342,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/building-a-monitoring-system-for-jobs-that-never-r/' | relative_url }}">building a monitoring system for jobs that never r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/board-votes-to-dissolve-corporation-for-public-bro/' | relative_url }}">board votes to dissolve corporation for public bro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
