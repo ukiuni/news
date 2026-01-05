@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/venezuela-loses-president-but-gains-empty-starlink/' | relative_url }}">venezuela loses president but gains empty starlink</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/using-ebpf-to-load-balance-traffic-across-udp-sock/' | relative_url }}">using ebpf to load balance traffic across udp sock</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/thoughts-on-go-vs-rust-vs-zig/' | relative_url }}">thoughts on go vs rust vs zig</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/there-were-bgp-anomalies-during-the-venezuela-blac/' | relative_url }}">there were bgp anomalies during the venezuela blac</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -153,6 +161,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/microsoft-office-has-been-renamed-to-microsoft-365/' | relative_url }}">microsoft office has been renamed to microsoft 365</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/managing-database-schema-changes-for-beginners/' | relative_url }}">managing database schema changes for beginners</a></h3>
 </div>
 <div class="article-row">
@@ -174,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/its-hard-to-justify-tahoe-icons/' | relative_url }}">its hard to justify tahoe icons</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/its-a-horse/' | relative_url }}">its a horse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -342,6 +358,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/building-a-monitoring-system-for-jobs-that-never-r/' | relative_url }}">building a monitoring system for jobs that never r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/boston-dynamics-and-google-deepmind-form-new-ai-pa/' | relative_url }}">boston dynamics and google deepmind form new ai pa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
