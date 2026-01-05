@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/managing-database-schema-changes-for-beginners/' | relative_url }}">managing database schema changes for beginners</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/making-my-own-toy-language/' | relative_url }}">making my own toy language</a></h3>
 </div>
 <div class="article-row">
@@ -57,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/how-to-integrate-nextjs-server-components-and-serv/' | relative_url }}">how to integrate nextjs server components and serv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/french-and-malaysian-authorities-are-investigating/' | relative_url }}">french and malaysian authorities are investigating</a></h3>
 </div>
 <div class="article-row">
@@ -69,7 +77,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/decorative-cryptography/' | relative_url }}">decorative cryptography</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/decentralized-identifiers-dids-the-future-of-digit/' | relative_url }}">decentralized identifiers dids the future of digit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/databases-in-2025-a-year-in-review/' | relative_url }}">databases in 2025 a year in review</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
@@ -94,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/building-a-monitoring-system-for-jobs-that-never-r/' | relative_url }}">building a monitoring system for jobs that never r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/blu-ray-hits-20-years-old-and-it-isnt-dead-yet-opt/' | relative_url }}">blu ray hits 20 years old and it isnt dead yet opt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
