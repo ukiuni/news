@@ -25,11 +25,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/i-thought-i-knew-silicon-valley-i-was-wrong/' | relative_url }}">i thought i knew silicon valley i was wrong</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/french-and-malaysian-authorities-are-investigating/' | relative_url }}">french and malaysian authorities are investigating</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/everything-you-need-to-know-about-email-encryption/' | relative_url }}">everything you need to know about email encryption</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/05</span>
+  <h3><a href="{{ '/2026/01/05/during-helene-i-just-wanted-a-plain-text-website/' | relative_url }}">during helene i just wanted a plain text website</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
