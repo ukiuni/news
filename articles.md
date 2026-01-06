@@ -141,6 +141,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/ring-programming-language-version-125-is-released/' | relative_url }}">ring programming language version 125 is released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/researchers-poison-stolen-data-to-make-ai-systems/' | relative_url }}">researchers poison stolen data to make ai systems</a></h3>
 </div>
 <div class="article-row">
@@ -174,6 +178,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/passing-of-joe-mancuso-author-of-masonite-python-w/' | relative_url }}">passing of joe mancuso author of masonite python w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/oral-microbiome-sequencing-after-taking-probiotics/' | relative_url }}">oral microbiome sequencing after taking probiotics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/opus-45-is-not-the-normal-ai-agent-experience-that/' | relative_url }}">opus 45 is not the normal ai agent experience that</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -321,7 +333,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/comparing-ai-agents-to-cybersecurity-professionals/' | relative_url }}">comparing ai agents to cybersecurity professionals</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/chinas-artificial-sun-just-broke-a-fusion-limit-sc/' | relative_url }}">chinas artificial sun just broke a fusion limit sc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/calling-all-hackers-how-money-works-2024/' | relative_url }}">calling all hackers how money works 2024</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
