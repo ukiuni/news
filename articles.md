@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/tube-trains-could-navigate-the-underground-using-t/' | relative_url }}">tube trains could navigate the underground using t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/the-post-american-internet/' | relative_url }}">the post american internet</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/pre-tenuring-in-v8/' | relative_url }}">pre tenuring in v8</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/poison-fountain/' | relative_url }}">poison fountain</a></h3>
 </div>
 <div class="article-row">
@@ -69,11 +77,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/mapping-protests-in-iran/' | relative_url }}">mapping protests in iran</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/javascripts-for-of-loops-are-fast/' | relative_url }}">javascripts for of loops are fast</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/io-is-no-longer-the-bottleneck-2022/' | relative_url }}">io is no longer the bottleneck 2022</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/interpreter-offline-screen-translator-for-japanese/' | relative_url }}">interpreter offline screen translator for japanese</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -122,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/corporation-for-public-broadcasting-votes-itself-o/' | relative_url }}">corporation for public broadcasting votes itself o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/ai-tools-for-java-developers-categorized-by-real-d/' | relative_url }}">ai tools for java developers categorized by real d</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
