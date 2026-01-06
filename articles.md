@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/why-german-strings-are-everywhere/' | relative_url }}">why german strings are everywhere</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/why-didnt-ai-join-the-workforce-in-2025/' | relative_url }}">why didnt ai join the workforce in 2025</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/the-post-american-internet/' | relative_url }}">the post american internet</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/the-best-line-length-is-88/' | relative_url }}">the best line length is 88</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -105,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/java-is-one-step-closer-to-value-classes/' | relative_url }}">java is one step closer to value classes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/istio-spring-boot-library-released-piotrs-techblog/' | relative_url }}">istio spring boot library released piotrs techblog</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/gosum-is-not-a-lockfile/' | relative_url }}">gosum is not a lockfile</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/google-cloud-training-paths-worth-checking-out/' | relative_url }}">google cloud training paths worth checking out</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
