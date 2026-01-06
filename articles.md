@@ -17,11 +17,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/strangewebsite/' | relative_url }}">strangewebsite</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/six-decade-math-puzzle-solved-by-korean-mathematic/' | relative_url }}">six decade math puzzle solved by korean mathematic</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/programming-on-your-phone/' | relative_url }}">programming on your phone</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/i-built-an-app-in-every-frontend-framework/' | relative_url }}">i built an app in every frontend framework</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/gosum-is-not-a-lockfile/' | relative_url }}">gosum is not a lockfile</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
