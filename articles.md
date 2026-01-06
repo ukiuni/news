@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/javascripts-for-of-loops-are-fast/' | relative_url }}">javascripts for of loops are fast</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/io-is-no-longer-the-bottleneck-2022/' | relative_url }}">io is no longer the bottleneck 2022</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/gmail-preparing-to-drop-pop3-mail-fetching/' | relative_url }}">gmail preparing to drop pop3 mail fetching</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/github-compiled-2025/' | relative_url }}">github compiled 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
