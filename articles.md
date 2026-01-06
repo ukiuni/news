@@ -65,11 +65,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/the-perfect-code-review-how-to-reduce-cognitive-lo/' | relative_url }}">the perfect code review how to reduce cognitive lo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/the-best-line-length-is-88/' | relative_url }}">the best line length is 88</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/that-video-of-happy-crying-venezuelans-after-madur/' | relative_url }}">that video of happy crying venezuelans after madur</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/testing-distributed-systems-via-deterministic-simu/' | relative_url }}">testing distributed systems via deterministic simu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -86,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/show-hn-prismtools-free-and-privacy-focused-develo/' | relative_url }}">show hn prismtools free and privacy focused develo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/show-hn-jax-js-array-library-in-javascript-targeti/' | relative_url }}">show hn jax js array library in javascript targeti</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -125,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/passing-of-joe-mancuso-author-of-masonite-python-w/' | relative_url }}">passing of joe mancuso author of masonite python w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/new-study-shows-alzheimers-disease-can-be-reversed/' | relative_url }}">new study shows alzheimers disease can be reversed</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +154,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/mamdani-targets-junk-fees-and-hidden-charges-in-tw/' | relative_url }}">mamdani targets junk fees and hidden charges in tw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/loongarch-improvements-with-box64/' | relative_url }}">loongarch improvements with box64</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/locating-a-photo-of-a-vehicle-in-30-seconds-with-g/' | relative_url }}">locating a photo of a vehicle in 30 seconds with g</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -258,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/built-a-new-hybrid-programming-language-epoxy/' | relative_url }}">built a new hybrid programming language epoxy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/brave-overhauls-adblock-engine-cutting-its-memory/' | relative_url }}">brave overhauls adblock engine cutting its memory</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
