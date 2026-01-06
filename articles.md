@@ -25,11 +25,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/why-devs-need-devops/' | relative_url }}">why devs need devops</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/when-to-use-a-columnar-database/' | relative_url }}">when to use a columnar database</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/welcome-to-gas-town/' | relative_url }}">welcome to gas town</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/valve-amended-the-steam-survey-for-december-2025-l/' | relative_url }}">valve amended the steam survey for december 2025 l</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -181,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/gemini-protocol-deployment-statistics/' | relative_url }}">gemini protocol deployment statistics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/gbc-boot-animation-8831-web-button/' | relative_url }}">gbc boot animation 8831 web button</a></h3>
 </div>
 <div class="article-row">
@@ -229,6 +241,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/a-reference-grade-c-hello-world-project/' | relative_url }}">a reference grade c hello world project</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/a-guide-to-ninjascript-part-3/' | relative_url }}">a guide to ninjascript part 3</a></h3>
 </div>
 <div class="article-row">
@@ -238,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/a-calif-teen-trusted-chatgpt-for-drug-advice-he-di/' | relative_url }}">a calif teen trusted chatgpt for drug advice he di</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/65-of-hacker-news-posts-have-negative-sentiment-an/' | relative_url }}">65 of hacker news posts have negative sentiment an</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/05</span>
