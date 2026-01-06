@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/state-of-the-fin-2026-01-06-jellyfin/' | relative_url }}">state of the fin 2026 01 06 jellyfin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/six-decade-math-puzzle-solved-by-korean-mathematic/' | relative_url }}">six decade math puzzle solved by korean mathematic</a></h3>
 </div>
 <div class="article-row">
@@ -117,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/mamdani-targets-junk-fees-and-hidden-charges-in-tw/' | relative_url }}">mamdani targets junk fees and hidden charges in tw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/javascripts-for-of-loops-are-fast/' | relative_url }}">javascripts for of loops are fast</a></h3>
 </div>
 <div class="article-row">
@@ -166,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/how-i-detect-the-current-paragraph-on-arbitrary-we/' | relative_url }}">how i detect the current paragraph on arbitrary we</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/high-performance-header-only-container-library-for/' | relative_url }}">high performance header only container library for</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -234,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/ai-tools-for-java-developers-categorized-by-real-d/' | relative_url }}">ai tools for java developers categorized by real d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/ai-deepfakes-are-impersonating-pastors-to-try-to-s/' | relative_url }}">ai deepfakes are impersonating pastors to try to s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
