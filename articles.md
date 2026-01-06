@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/show-hn-prismtools-free-and-privacy-focused-develo/' | relative_url }}">show hn prismtools free and privacy focused develo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/show-hn-i-replaced-beads-with-a-faster-simpler-mar/' | relative_url }}">show hn i replaced beads with a faster simpler mar</a></h3>
 </div>
 <div class="article-row">
@@ -117,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/inspector-dangerfuck-ansi-art-comic-from-1994/' | relative_url }}">inspector dangerfuck ansi art comic from 1994</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/insert-html-from-another-file-with-1-line-of-raw-j/' | relative_url }}">insert html from another file with 1 line of raw j</a></h3>
 </div>
 <div class="article-row">
@@ -130,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/i-built-an-app-in-every-frontend-framework/' | relative_url }}">i built an app in every frontend framework</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/i-built-a-codebase-that-evolves-itself-through-dem/' | relative_url }}">i built a codebase that evolves itself through dem</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -169,7 +181,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/countries-are-outlawing-online-gambling-ads-meta-i/' | relative_url }}">countries are outlawing online gambling ads meta i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/corporation-for-public-broadcasting-votes-itself-o/' | relative_url }}">corporation for public broadcasting votes itself o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/c-is-best/' | relative_url }}">c is best</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/built-a-new-hybrid-programming-language-epoxy/' | relative_url }}">built a new hybrid programming language epoxy</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
