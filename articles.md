@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/why-markdown-emphasis-fails-in-cjk-a-deep-dive-int/' | relative_url }}">why markdown emphasis fails in cjk a deep dive int</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/welcome-to-gas-town/' | relative_url }}">welcome to gas town</a></h3>
 </div>
 <div class="article-row">
@@ -29,11 +33,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/show-hn-how-sql-parsers-work/' | relative_url }}">show hn how sql parsers work</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/scientific-production-in-the-era-of-large-language/' | relative_url }}">scientific production in the era of large language</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/released-extractpdf4j-20/' | relative_url }}">released extractpdf4j 20</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/programming-on-your-phone/' | relative_url }}">programming on your phone</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/poison-fountain/' | relative_url }}">poison fountain</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -61,7 +77,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/gmail-preparing-to-drop-pop3-mail-fetching/' | relative_url }}">gmail preparing to drop pop3 mail fetching</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/general-thoughts-on-git-commit-hooks/' | relative_url }}">general thoughts on git commit hooks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/gbc-boot-animation-8831-web-button/' | relative_url }}">gbc boot animation 8831 web button</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
