@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/scizes-classic-warez-collection/' | relative_url }}">scizes classic warez collection</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/scientific-production-in-the-era-of-large-language/' | relative_url }}">scientific production in the era of large language</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/new-study-shows-alzheimers-disease-can-be-reversed/' | relative_url }}">new study shows alzheimers disease can be reversed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/mysql-vs-postgresql-performance-throughput-amp-lat/' | relative_url }}">mysql vs postgresql performance throughput amp lat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/insert-html-from-another-file-with-1-line-of-raw-j/' | relative_url }}">insert html from another file with 1 line of raw j</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/i-built-ctrl-execution-control-plane-for-high-stak/' | relative_url }}">i built ctrl execution control plane for high stak</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -142,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/corporation-for-public-broadcasting-votes-itself-o/' | relative_url }}">corporation for public broadcasting votes itself o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/basically-zero-garbage-renowned-mathematician-joel/' | relative_url }}">basically zero garbage renowned mathematician joel</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
