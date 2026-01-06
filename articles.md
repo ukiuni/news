@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/why-is-the-gmail-app-700-mb/' | relative_url }}">why is the gmail app 700 mb</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/why-german-strings-are-everywhere/' | relative_url }}">why german strings are everywhere</a></h3>
 </div>
 <div class="article-row">
@@ -37,6 +41,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/volkswagen-brings-back-physical-buttons/' | relative_url }}">volkswagen brings back physical buttons</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/vienam-bans-unskippable-ads-requires-skip-button-t/' | relative_url }}">vienam bans unskippable ads requires skip button t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/valve-amended-the-steam-survey-for-december-2025-l/' | relative_url }}">valve amended the steam survey for december 2025 l</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/the-best-line-length-is-88/' | relative_url }}">the best line length is 88</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/that-video-of-happy-crying-venezuelans-after-madur/' | relative_url }}">that video of happy crying venezuelans after madur</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -157,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/i-wanted-a-camera-that-doesnt-exist-so-i-built-it/' | relative_url }}">i wanted a camera that doesnt exist so i built it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/i-made-a-new-compiler-using-nim-that-uses-fortran/' | relative_url }}">i made a new compiler using nim that uses fortran</a></h3>
 </div>
 <div class="article-row">
@@ -229,6 +249,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/chinas-artificial-sun-just-broke-a-fusion-limit-sc/' | relative_url }}">chinas artificial sun just broke a fusion limit sc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/c-is-best/' | relative_url }}">c is best</a></h3>
 </div>
 <div class="article-row">
@@ -250,6 +274,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/ai-deepfakes-are-impersonating-pastors-to-try-to-s/' | relative_url }}">ai deepfakes are impersonating pastors to try to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/agents-and-gradle-dont-get-along-i-fixed-it-in-two/' | relative_url }}">agents and gradle dont get along i fixed it in two</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
