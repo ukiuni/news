@@ -29,11 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/the-post-american-internet/' | relative_url }}">the post american internet</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/strangewebsite/' | relative_url }}">strangewebsite</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/six-decade-math-puzzle-solved-by-korean-mathematic/' | relative_url }}">six decade math puzzle solved by korean mathematic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/show-hn-i-replaced-beads-with-a-faster-simpler-mar/' | relative_url }}">show hn i replaced beads with a faster simpler mar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
@@ -65,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/intel-core-ultra-series-3-debut-as-first-built-on/' | relative_url }}">intel core ultra series 3 debut as first built on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/insert-html-from-another-file-with-1-line-of-raw-j/' | relative_url }}">insert html from another file with 1 line of raw j</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/gbc-boot-animation-8831-web-button/' | relative_url }}">gbc boot animation 8831 web button</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/enclosehorse/' | relative_url }}">enclosehorse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
