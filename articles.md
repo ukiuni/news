@@ -8,6 +8,34 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/worldss-first-all-solid-state-battery-ready-to-pow/' | relative_url }}">worldss first all solid state battery ready to pow</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/userspace-unikernel-that-achieves-lt10ns-context-s/' | relative_url }}">userspace unikernel that achieves lt10ns context s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/six-decade-math-puzzle-solved-by-korean-mathematic/' | relative_url }}">six decade math puzzle solved by korean mathematic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/programming-on-your-phone/' | relative_url }}">programming on your phone</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/adding-insular-script-like-its-1626/' | relative_url }}">adding insular script like its 1626</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/a-guide-to-ninjascript-part-3/' | relative_url }}">a guide to ninjascript part 3</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/a-calif-teen-trusted-chatgpt-for-drug-advice-he-di/' | relative_url }}">a calif teen trusted chatgpt for drug advice he di</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/05</span>
   <h3><a href="{{ '/2026/01/05/you-spelled-it-wrong/' | relative_url }}">you spelled it wrong</a></h3>
 </div>
