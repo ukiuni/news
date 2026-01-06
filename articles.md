@@ -101,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/statistical-methods-for-reliable-benchmarks/' | relative_url }}">statistical methods for reliable benchmarks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/state-of-the-fin-2026-01-06-jellyfin/' | relative_url }}">state of the fin 2026 01 06 jellyfin</a></h3>
 </div>
 <div class="article-row">
@@ -341,6 +345,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/ces-2026-taking-the-lids-off-amds-venice-and-mi400/' | relative_url }}">ces 2026 taking the lids off amds venice and mi400</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/calling-all-hackers-how-money-works-2024/' | relative_url }}">calling all hackers how money works 2024</a></h3>
 </div>
 <div class="article-row">
@@ -394,6 +402,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/a-calif-teen-trusted-chatgpt-for-drug-advice-he-di/' | relative_url }}">a calif teen trusted chatgpt for drug advice he di</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/a-30b-qwen-model-walks-into-a-raspberry-pi-and-run/' | relative_url }}">a 30b qwen model walks into a raspberry pi and run</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
