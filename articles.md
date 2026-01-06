@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
+  <h3><a href="{{ '/2026/01/06/io-is-no-longer-the-bottleneck-2022/' | relative_url }}">io is no longer the bottleneck 2022</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/i-built-an-app-in-every-frontend-framework/' | relative_url }}">i built an app in every frontend framework</a></h3>
 </div>
 <div class="article-row">
