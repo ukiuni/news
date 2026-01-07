@@ -353,6 +353,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/bose-open-sources-its-soundtouch-home-theater-smar/' | relative_url }}">bose open sources its soundtouch home theater smar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/billg-the-manager/' | relative_url }}">billg the manager</a></h3>
 </div>
 <div class="article-row">
