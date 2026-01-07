@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/microsoft-probably-killed-my-snapdragon-dev-kit/' | relative_url }}">microsoft probably killed my snapdragon dev kit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/microsoft-msft-eyes-major-january-layoffs-as-ai-co/' | relative_url }}">microsoft msft eyes major january layoffs as ai co</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/canada-has-just-broken-a-world-record-in-nuclear-f/' | relative_url }}">canada has just broken a world record in nuclear f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/a-viral-reddit-post-alleging-fraud-from-a-food-del/' | relative_url }}">a viral reddit post alleging fraud from a food del</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
