@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/self-exchange-leaves-us-in-a-valid-but-unspecified/' | relative_url }}">self exchange leaves us in a valid but unspecified</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/president-white-house-launches-new-website-to-defe/' | relative_url }}">president white house launches new website to defe</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/microsoft-msft-eyes-major-january-layoffs-as-ai-co/' | relative_url }}">microsoft msft eyes major january layoffs as ai co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/mcp-servers-rarely-crash-thats-the-problem/' | relative_url }}">mcp servers rarely crash thats the problem</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
