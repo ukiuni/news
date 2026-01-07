@@ -21,11 +21,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/vector-graphics-on-gpu/' | relative_url }}">vector graphics on gpu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/the-psychology-of-bad-code/' | relative_url }}">the psychology of bad code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/the-data-center-boom-is-concentrated-in-the-us/' | relative_url }}">the data center boom is concentrated in the us</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/the-creator-of-claude-codes-claude-setup/' | relative_url }}">the creator of claude codes claude setup</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/show-hn-tcp-chat-server-written-in-c-and-net-9-use/' | relative_url }}">show hn tcp chat server written in c and net 9 use</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -46,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/president-white-house-launches-new-website-to-defe/' | relative_url }}">president white house launches new website to defe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/postgresql-18-returning-enhancements-a-game-change/' | relative_url }}">postgresql 18 returning enhancements a game change</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
