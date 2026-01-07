@@ -21,7 +21,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/the-creator-of-claude-codes-claude-setup/' | relative_url }}">the creator of claude codes claude setup</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/show-hn-smtp-tunnel-a-socks5-proxy-disguised-as-em/' | relative_url }}">show hn smtp tunnel a socks5 proxy disguised as em</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/sergey-brins-unretirement/' | relative_url }}">sergey brins unretirement</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/passseeds-hijacking-passkeys-to-unlock-new-cryptog/' | relative_url }}">passseeds hijacking passkeys to unlock new cryptog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/on-the-slow-death-of-scaling/' | relative_url }}">on the slow death of scaling</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
