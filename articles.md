@@ -105,7 +105,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/gothub-ssh-signup/' | relative_url }}">gothub ssh signup</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/freestyle-linked-lists-tricks/' | relative_url }}">freestyle linked lists tricks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/formal-methods-only-solve-half-my-problems/' | relative_url }}">formal methods only solve half my problems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/firefox-extension-to-redirect-xcom-to-xcancelcom/' | relative_url }}">firefox extension to redirect xcom to xcancelcom</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -122,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/canada-has-just-broken-a-world-record-in-nuclear-f/' | relative_url }}">canada has just broken a world record in nuclear f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/c-from-scratch-learn-to-build-safety-critical-syst/' | relative_url }}">c from scratch learn to build safety critical syst</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
