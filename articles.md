@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/volkswagen-brings-back-physical-buttons-in-its-lat/' | relative_url }}">volkswagen brings back physical buttons in its lat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/vector-graphics-on-gpu/' | relative_url }}">vector graphics on gpu</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/the-most-popular-go-dependency-is/' | relative_url }}">the most popular go dependency is</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/the-first-new-compass-since-1936/' | relative_url }}">the first new compass since 1936</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -125,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/htmx-high-power-tools-for-html/' | relative_url }}">htmx high power tools for html</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/how-do-you-stay-updated-on-everything-happening-ar/' | relative_url }}">how do you stay updated on everything happening ar</a></h3>
 </div>
 <div class="article-row">
@@ -166,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/c-from-scratch-learn-to-build-safety-critical-syst/' | relative_url }}">c from scratch learn to build safety critical syst</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/a4-paper-stories/' | relative_url }}">a4 paper stories</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
