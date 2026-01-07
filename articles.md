@@ -89,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/single-sign-on-for-furries/' | relative_url }}">single sign on for furries</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/show-hn-tcp-chat-server-written-in-c-and-net-9-use/' | relative_url }}">show hn tcp chat server written in c and net 9 use</a></h3>
 </div>
 <div class="article-row">
@@ -205,7 +209,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/here-is-the-agreement-giving-ice-medicaid-patients/' | relative_url }}">here is the agreement giving ice medicaid patients</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/health-care-data-breach-affects-over-600k-patients/' | relative_url }}">health care data breach affects over 600k patients</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/gothub-ssh-signup/' | relative_url }}">gothub ssh signup</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/google-search-ai-hallucinations-push-google-to-hir/' | relative_url }}">google search ai hallucinations push google to hir</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -245,7 +261,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/devaluation-of-work/' | relative_url }}">devaluation of work</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/dells-finally-admitting-consumers-just-dont-care-a/' | relative_url }}">dells finally admitting consumers just dont care a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/creators-of-tailwind-laid-off-75-of-their-engineer/' | relative_url }}">creators of tailwind laid off 75 of their engineer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -270,6 +294,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/a-viral-reddit-post-alleging-fraud-from-a-food-del/' | relative_url }}">a viral reddit post alleging fraud from a food del</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/a-tab-hoarders-journey-to-sanity/' | relative_url }}">a tab hoarders journey to sanity</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
