@@ -8,6 +8,14 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/where-are-all-the-low-level-jits/' | relative_url }}">where are all the low level jits</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/diffs-js-library-for-rendering-diffs/' | relative_url }}">diffs js library for rendering diffs</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/06</span>
   <h3><a href="{{ '/2026/01/06/zero-heap-allocation-http-server-using-oxcaml/' | relative_url }}">zero heap allocation http server using oxcaml</a></h3>
 </div>
