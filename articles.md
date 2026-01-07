@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/rust-is-beyond-object-oriented-part-3-inheritance/' | relative_url }}">rust is beyond object oriented part 3 inheritance</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/president-white-house-launches-new-website-to-defe/' | relative_url }}">president white house launches new website to defe</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/on-the-slow-death-of-scaling/' | relative_url }}">on the slow death of scaling</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/my-experiences-with-manually-creating-almost-50000/' | relative_url }}">my experiences with manually creating almost 50000</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
