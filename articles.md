@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/yes-true-true-2-and-no-javascript-isnt-broken/' | relative_url }}">yes true true 2 and no javascript isnt broken</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/why-the-trans-flag-emoji-is-the-5-codepoint-sequen/' | relative_url }}">why the trans flag emoji is the 5 codepoint sequen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/why-developers-are-moving-away-from-stack-overflow/' | relative_url }}">why developers are moving away from stack overflow</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -29,11 +37,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/the-most-popular-go-dependency-is/' | relative_url }}">the most popular go dependency is</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/the-eric-and-wendy-schmidt-observatory-system/' | relative_url }}">the eric and wendy schmidt observatory system</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/the-data-center-boom-is-concentrated-in-the-us/' | relative_url }}">the data center boom is concentrated in the us</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/the-creator-of-claude-codes-claude-setup/' | relative_url }}">the creator of claude codes claude setup</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/stop-designing-languages-write-libraries-instead/' | relative_url }}">stop designing languages write libraries instead</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -97,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/i-built-a-gpu-accelerated-sqlite-on-apple-silicon/' | relative_url }}">i built a gpu accelerated sqlite on apple silicon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/hyundai-introduces-its-next-gen-atlas-robot-at-ces/' | relative_url }}">hyundai introduces its next gen atlas robot at ces</a></h3>
 </div>
 <div class="article-row">
@@ -126,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/diffs-js-library-for-rendering-diffs/' | relative_url }}">diffs js library for rendering diffs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/dells-finally-admitting-consumers-just-dont-care-a/' | relative_url }}">dells finally admitting consumers just dont care a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
