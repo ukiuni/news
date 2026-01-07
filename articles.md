@@ -25,6 +25,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/most-websites-dont-need-cookie-consent-banners/' | relative_url }}">most websites dont need cookie consent banners</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/microsoft-msft-eyes-major-january-layoffs-as-ai-co/' | relative_url }}">microsoft msft eyes major january layoffs as ai co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/io_uring-for-systems-engineers/' | relative_url }}">io_uring for systems engineers</a></h3>
 </div>
 <div class="article-row">
