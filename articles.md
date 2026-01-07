@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/why-i-hate-webkit-a-non-love-letter-from-a-tauri-d/' | relative_url }}">why i hate webkit a non love letter from a tauri d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/why-developers-are-moving-away-from-stack-overflow/' | relative_url }}">why developers are moving away from stack overflow</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/vector-graphics-on-gpu/' | relative_url }}">vector graphics on gpu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/us-job-openings-decline-to-lowest-level-in-more-th/' | relative_url }}">us job openings decline to lowest level in more th</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -65,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/sugar-industry-influenced-researchers-and-blamed-f/' | relative_url }}">sugar industry influenced researchers and blamed f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/stop-designing-languages-write-libraries-instead/' | relative_url }}">stop designing languages write libraries instead</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/show-hn-smtp-tunnel-a-socks5-proxy-disguised-as-em/' | relative_url }}">show hn smtp tunnel a socks5 proxy disguised as em</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/shipmaporg/' | relative_url }}">shipmaporg</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -125,7 +141,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/meditation-as-wakeful-relaxation-unclenching-smoot/' | relative_url }}">meditation as wakeful relaxation unclenching smoot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/mcp-servers-rarely-crash-thats-the-problem/' | relative_url }}">mcp servers rarely crash thats the problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/many-hells-of-webdav-writing-a-clientserver-in-go/' | relative_url }}">many hells of webdav writing a clientserver in go</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/llm-problems-observed-in-humans/' | relative_url }}">llm problems observed in humans</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -161,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/hermes-studio-demo-my-react-native-decompiler-and/' | relative_url }}">hermes studio demo my react native decompiler and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/gothub-ssh-signup/' | relative_url }}">gothub ssh signup</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +214,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/electronic-nose-for-indoor-mold-detection-and-iden/' | relative_url }}">electronic nose for indoor mold detection and iden</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/effortless-animations-with-css-view-transitions/' | relative_url }}">effortless animations with css view transitions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
