@@ -105,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/freestyle-linked-lists-tricks/' | relative_url }}">freestyle linked lists tricks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/electronic-nose-for-indoor-mold-detection-and-iden/' | relative_url }}">electronic nose for indoor mold detection and iden</a></h3>
 </div>
 <div class="article-row">
