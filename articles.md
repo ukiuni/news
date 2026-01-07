@@ -173,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/notion-ai-unpatched-data-exfiltration/' | relative_url }}">notion ai unpatched data exfiltration</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/nes-top-gun-landing-hotfix/' | relative_url }}">nes top gun landing hotfix</a></h3>
 </div>
 <div class="article-row">
@@ -341,6 +345,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/california-lawmaker-proposes-a-four-year-ban-on-ai/' | relative_url }}">california lawmaker proposes a four year ban on ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/c-from-scratch-learn-to-build-safety-critical-syst/' | relative_url }}">c from scratch learn to build safety critical syst</a></h3>
 </div>
 <div class="article-row">
@@ -362,6 +370,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/a-2025-retrospective-how-often-executives-predicte/' | relative_url }}">a 2025 retrospective how often executives predicte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/2026-predictions-scorecard/' | relative_url }}">2026 predictions scorecard</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
