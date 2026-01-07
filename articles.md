@@ -9,11 +9,43 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/why-the-trans-flag-emoji-is-the-5-codepoint-sequen/' | relative_url }}">why the trans flag emoji is the 5 codepoint sequen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/where-are-all-the-low-level-jits/' | relative_url }}">where are all the low level jits</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/the-data-center-boom-is-concentrated-in-the-us/' | relative_url }}">the data center boom is concentrated in the us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/passseeds-hijacking-passkeys-to-unlock-new-cryptog/' | relative_url }}">passseeds hijacking passkeys to unlock new cryptog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/io_uring-for-systems-engineers/' | relative_url }}">io_uring for systems engineers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/hyundai-introduces-its-next-gen-atlas-robot-at-ces/' | relative_url }}">hyundai introduces its next gen atlas robot at ces</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/electronic-nose-for-indoor-mold-detection-and-iden/' | relative_url }}">electronic nose for indoor mold detection and iden</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/diffs-js-library-for-rendering-diffs/' | relative_url }}">diffs js library for rendering diffs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/canada-has-just-broken-a-world-record-in-nuclear-f/' | relative_url }}">canada has just broken a world record in nuclear f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/200-million-records-exposed-in-massive-pornhub-dat/' | relative_url }}">200 million records exposed in massive pornhub dat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/06</span>
