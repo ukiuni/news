@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/windows-11-performs-worse-than-older-windows-versi/' | relative_url }}">windows 11 performs worse than older windows versi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/why-the-trans-flag-emoji-is-the-5-codepoint-sequen/' | relative_url }}">why the trans flag emoji is the 5 codepoint sequen</a></h3>
 </div>
 <div class="article-row">
@@ -97,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/openai-is-reportedly-getting-ready-to-test-ads-in/' | relative_url }}">openai is reportedly getting ready to test ads in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/on-the-slow-death-of-scaling/' | relative_url }}">on the slow death of scaling</a></h3>
 </div>
 <div class="article-row">
@@ -121,7 +129,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/latex-coffee-stains-pdf/' | relative_url }}">latex coffee stains pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/io_uring-for-systems-engineers/' | relative_url }}">io_uring for systems engineers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/i-got-paid-minimum-wage-to-solve-an-impossible-pro/' | relative_url }}">i got paid minimum wage to solve an impossible pro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -134,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/htmx-high-power-tools-for-html/' | relative_url }}">htmx high power tools for html</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/how-we-built-a-website-hook-sdk-to-track-user-inte/' | relative_url }}">how we built a website hook sdk to track user inte</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -154,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/firefox-extension-to-redirect-xcom-to-xcancelcom/' | relative_url }}">firefox extension to redirect xcom to xcancelcom</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/everyone-hates-onedrive-microsofts-cloud-app-that/' | relative_url }}">everyone hates onedrive microsofts cloud app that</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
