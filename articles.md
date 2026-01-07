@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/the-haskell-debugger-for-ghc-914/' | relative_url }}">the haskell debugger for ghc 914</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/the-first-new-compass-since-1936/' | relative_url }}">the first new compass since 1936</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/the-case-for-nushell-2023/' | relative_url }}">the case for nushell 2023</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/tailscale-state-file-encryption-no-longer-enabled/' | relative_url }}">tailscale state file encryption no longer enabled</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -157,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/native-amiga-filesystems-on-macos-linux-windows-wi/' | relative_url }}">native amiga filesystems on macos linux windows wi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/my-experiences-with-manually-creating-almost-50000/' | relative_url }}">my experiences with manually creating almost 50000</a></h3>
 </div>
 <div class="article-row">
@@ -205,6 +217,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/i-built-a-game-engine-from-scratch-in-c-heres-what/' | relative_url }}">i built a game engine from scratch in c heres what</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/hyundai-introduces-its-next-gen-atlas-robot-at-ces/' | relative_url }}">hyundai introduces its next gen atlas robot at ces</a></h3>
 </div>
 <div class="article-row">
@@ -230,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/health-care-data-breach-affects-over-600k-patients/' | relative_url }}">health care data breach affects over 600k patients</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/grok-ai-generated-thousands-of-undressed-images-pe/' | relative_url }}">grok ai generated thousands of undressed images pe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -286,6 +306,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/creators-of-tailwind-laid-off-75-of-their-engineer/' | relative_url }}">creators of tailwind laid off 75 of their engineer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/claude-code-emergent-behavior-when-skills-combine/' | relative_url }}">claude code emergent behavior when skills combine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/claude-code-cli-broken/' | relative_url }}">claude code cli broken</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
