@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/xmpp-and-metadata/' | relative_url }}">xmpp and metadata</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/windows-11-performs-worse-than-older-windows-versi/' | relative_url }}">windows 11 performs worse than older windows versi</a></h3>
 </div>
 <div class="article-row">
@@ -73,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/the-case-for-nushell-2023/' | relative_url }}">the case for nushell 2023</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/sugar-industry-influenced-researchers-and-blamed-f/' | relative_url }}">sugar industry influenced researchers and blamed f</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/on-the-slow-death-of-scaling/' | relative_url }}">on the slow death of scaling</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/nes-top-gun-landing-hotfix/' | relative_url }}">nes top gun landing hotfix</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -197,6 +209,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/gamestop-unveils-35-billion-performance-based-pay/' | relative_url }}">gamestop unveils 35 billion performance based pay</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/freestyle-linked-lists-tricks/' | relative_url }}">freestyle linked lists tricks</a></h3>
 </div>
 <div class="article-row">
@@ -221,6 +237,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/eat-real-food-introducing-the-new-pyramid/' | relative_url }}">eat real food introducing the new pyramid</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/diffs-js-library-for-rendering-diffs/' | relative_url }}">diffs js library for rendering diffs</a></h3>
 </div>
 <div class="article-row">
@@ -238,6 +258,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/c-from-scratch-learn-to-build-safety-critical-syst/' | relative_url }}">c from scratch learn to build safety critical syst</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/billg-the-manager/' | relative_url }}">billg the manager</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
