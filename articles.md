@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/we-recreated-steve-jobss-1975-atari-horoscope-prog/' | relative_url }}">we recreated steve jobss 1975 atari horoscope prog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/the-data-center-boom-is-concentrated-in-the-us/' | relative_url }}">the data center boom is concentrated in the us</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/sergey-brins-unretirement/' | relative_url }}">sergey brins unretirement</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/president-white-house-launches-new-website-to-defe/' | relative_url }}">president white house launches new website to defe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -61,11 +69,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/how-do-you-stay-updated-on-everything-happening-ar/' | relative_url }}">how do you stay updated on everything happening ar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/electronic-nose-for-indoor-mold-detection-and-iden/' | relative_url }}">electronic nose for indoor mold detection and iden</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/diffs-js-library-for-rendering-diffs/' | relative_url }}">diffs js library for rendering diffs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/chat-platform-discord-files-confidentially-for-us/' | relative_url }}">chat platform discord files confidentially for us</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
