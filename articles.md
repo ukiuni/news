@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/the-data-center-rebellion-is-here-and-its-reshapin/' | relative_url }}">the data center rebellion is here and its reshapin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/the-data-center-boom-is-concentrated-in-the-us/' | relative_url }}">the data center boom is concentrated in the us</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/the-case-for-nushell-2023/' | relative_url }}">the case for nushell 2023</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/tesla-door-design-is-targeted-by-new-us-automotive/' | relative_url }}">tesla door design is targeted by new us automotive</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -134,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/rust-is-beyond-object-oriented-part-3-inheritance/' | relative_url }}">rust is beyond object oriented part 3 inheritance</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/relax-for-the-same-result/' | relative_url }}">relax for the same result</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
@@ -194,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/07</span>
   <h3><a href="{{ '/2026/01/07/many-hells-of-webdav-writing-a-clientserver-in-go/' | relative_url }}">many hells of webdav writing a clientserver in go</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/07</span>
+  <h3><a href="{{ '/2026/01/07/lmarena-is-a-cancer-on-ai/' | relative_url }}">lmarena is a cancer on ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
