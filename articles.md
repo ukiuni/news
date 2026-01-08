@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/open-infrastructure-map/' | relative_url }}">open infrastructure map</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/nvidias-jensen-huang-would-have-to-pay-about-8-bil/' | relative_url }}">nvidias jensen huang would have to pay about 8 bil</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/dont-let-the-grocery-store-scan-your-face-how-to-s/' | relative_url }}">dont let the grocery store scan your face how to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/chase-to-become-new-issuer-of-apple-card/' | relative_url }}">chase to become new issuer of apple card</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
