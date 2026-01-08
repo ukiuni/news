@@ -197,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/jujutsu-v0370-released/' | relative_url }}">jujutsu v0370 released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/join-the-algolia-agent-studio-challenge-3000-in-pr/' | relative_url }}">join the algolia agent studio challenge 3000 in pr</a></h3>
 </div>
 <div class="article-row">
@@ -226,6 +230,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/how-to-code-claude-code-in-200-lines-of-code/' | relative_url }}">how to code claude code in 200 lines of code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/how-terminals-work/' | relative_url }}">how terminals work</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -358,6 +366,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/ai-coding-assistants-are-getting-worse/' | relative_url }}">ai coding assistants are getting worse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/agent-factory-recap-a-deep-dive-into-agent-evaluat/' | relative_url }}">agent factory recap a deep dive into agent evaluat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
