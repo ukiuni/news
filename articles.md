@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/tech-blogging-lessons-learned/' | relative_url }}">tech blogging lessons learned</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/tailwind-labs-loses-80-of-revenue-and-75-of-engine/' | relative_url }}">tailwind labs loses 80 of revenue and 75 of engine</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/sonos-smapi-developer-program-my-worst-integration/' | relative_url }}">sonos smapi developer program my worst integration</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/some-things-ive-learned-about-software/' | relative_url }}">some things ive learned about software</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -125,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/minnesota-officials-say-they-cant-access-evidence/' | relative_url }}">minnesota officials say they cant access evidence</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/microsoft-revealed-as-company-behind-controversial/' | relative_url }}">microsoft revealed as company behind controversial</a></h3>
 </div>
 <div class="article-row">
@@ -149,7 +161,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/join-the-algolia-agent-studio-challenge-3000-in-pr/' | relative_url }}">join the algolia agent studio challenge 3000 in pr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/japanese-electronics-store-pleads-for-old-pcs-amid/' | relative_url }}">japanese electronics store pleads for old pcs amid</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/ices-tool-to-monitor-phones-in-neighborhoods/' | relative_url }}">ices tool to monitor phones in neighborhoods</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/i-used-lego-to-design-a-farm-for-people-who-are-bl/' | relative_url }}">i used lego to design a farm for people who are bl</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -246,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/ai-is-still-easy-to-trick-katharine-jarmul/' | relative_url }}">ai is still easy to trick katharine jarmul</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/ai-generated-police-report-states-utah-officer-was/' | relative_url }}">ai generated police report states utah officer was</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
