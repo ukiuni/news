@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/project-patchouli-open-source-electromagnetic-draw/' | relative_url }}">project patchouli open source electromagnetic draw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/practical-collision-attack-against-long-key-ids-in/' | relative_url }}">practical collision attack against long key ids in</a></h3>
 </div>
 <div class="article-row">
@@ -49,11 +53,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/microsoft-revealed-as-company-behind-controversial/' | relative_url }}">microsoft revealed as company behind controversial</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/kernel-bugs-hide-for-2-years-on-average-some-hide/' | relative_url }}">kernel bugs hide for 2 years on average some hide</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/how-should-effectiveness-of-coderabbit-pr-reviews/' | relative_url }}">how should effectiveness of coderabbit pr reviews</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/how-dependabot-works/' | relative_url }}">how dependabot works</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/fun-with-algebraic-effects-from-toy-examples-to-ha/' | relative_url }}">fun with algebraic effects from toy examples to ha</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -62,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/dont-let-the-grocery-store-scan-your-face-how-to-s/' | relative_url }}">dont let the grocery store scan your face how to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/do-standups-and-retros-actually-surface-real-bottl/' | relative_url }}">do standups and retros actually surface real bottl</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
