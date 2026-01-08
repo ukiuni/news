@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/tiktok-deletes-polish-far-right-leaders-videos-fol/' | relative_url }}">tiktok deletes polish far right leaders videos fol</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/the-virtual-amigaos-runtime-aka-wine-for-amiga/' | relative_url }}">the virtual amigaos runtime aka wine for amiga</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/the-hidden-backdoor-in-claude-code-why-its-power-i/' | relative_url }}">the hidden backdoor in claude code why its power i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/texas-blocks-samsung-from-using-its-smart-tvs-to-s/' | relative_url }}">texas blocks samsung from using its smart tvs to s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -169,7 +177,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/iran-goes-into-ipv6-blackout/' | relative_url }}">iran goes into ipv6 blackout</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/ices-tool-to-monitor-phones-in-neighborhoods/' | relative_url }}">ices tool to monitor phones in neighborhoods</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/ibm-ai-bob-downloads-and-executes-malware/' | relative_url }}">ibm ai bob downloads and executes malware</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -209,6 +225,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/gamestop-starts-2026-by-closing-hundreds-of-stores/' | relative_url }}">gamestop starts 2026 by closing hundreds of stores</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/fun-with-algebraic-effects-from-toy-examples-to-ha/' | relative_url }}">fun with algebraic effects from toy examples to ha</a></h3>
 </div>
 <div class="article-row">
@@ -229,6 +249,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/dynamic-large-concept-models-latent-reasoning-in-a/' | relative_url }}">dynamic large concept models latent reasoning in a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/dont-let-the-grocery-store-scan-your-face-how-to-s/' | relative_url }}">dont let the grocery store scan your face how to s</a></h3>
 </div>
 <div class="article-row">
@@ -238,6 +262,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/dialogue-between-a-developer-and-a-kid/' | relative_url }}">dialogue between a developer and a kid</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/cursorless-voice-coding-at-the-speed-of-thought/' | relative_url }}">cursorless voice coding at the speed of thought</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
