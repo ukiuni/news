@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/the-virtual-amigaos-runtime-aka-wine-for-amiga/' | relative_url }}">the virtual amigaos runtime aka wine for amiga</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/the-q-k-v-matrices/' | relative_url }}">the q k v matrices</a></h3>
 </div>
 <div class="article-row">
@@ -29,11 +33,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/openai-must-turn-over-20-million-chatgpt-logs-judg/' | relative_url }}">openai must turn over 20 million chatgpt logs judg</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/nvidias-jensen-huang-would-have-to-pay-about-8-bil/' | relative_url }}">nvidias jensen huang would have to pay about 8 bil</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/musashi-motorola-680x0-emulator-written-in-c/' | relative_url }}">musashi motorola 680x0 emulator written in c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/kernel-bugs-hide-for-2-years-on-average-some-hide/' | relative_url }}">kernel bugs hide for 2 years on average some hide</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/how-dependabot-works/' | relative_url }}">how dependabot works</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/flutter-ecs-testing-strategies-that-actually-work/' | relative_url }}">flutter ecs testing strategies that actually work</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
