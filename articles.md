@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/what-would-make-ocaml-serverless-ready/' | relative_url }}">what would make ocaml serverless ready</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/the-virtual-amigaos-runtime-aka-wine-for-amiga/' | relative_url }}">the virtual amigaos runtime aka wine for amiga</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/microsoft-revealed-as-company-behind-controversial/' | relative_url }}">microsoft revealed as company behind controversial</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/leaked-meta-documents-reveal-ai-was-permitted-to-f/' | relative_url }}">leaked meta documents reveal ai was permitted to f</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
