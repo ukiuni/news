@@ -8,7 +8,7 @@
   source_title: "Everyone hates OneDrive, Microsoft&#039;s cloud app that steals then deletes all your files - Boing Boing"
   source_id: 46526376
   excerpt: "知らぬ間にファイルがクラウドへ移動しローカルから消えるOneDriveの危険と対処法"
-  ---
+---
 
 # Everyone hates OneDrive, Microsofts cloud app that steals and deletes files - OneDriveがファイルを奪い削除する？Microsoftのクラウドアプリに批判噴出
 魅力的な日本語タイトル: 「気づいたらファイルが消えている？OneDriveの“知らない間に同期・削除”問題を分かりやすく解説」

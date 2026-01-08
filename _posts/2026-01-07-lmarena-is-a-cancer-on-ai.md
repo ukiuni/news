@@ -8,7 +8,7 @@
   source_title: "LMArena is a cancer on AI"
   source_id: 46522632
   excerpt: "LMArenaは見た目で票を稼ぎ、AI評価を歪めて医療・金融で危険を招く可能性を暴露"
-  ---
+---
 
 # LMArena is a cancer on AI - LMArenaはAIの癌
 見た目で勝つAIが増える時代――LMArenaが壊す「正しさ」の評価基準

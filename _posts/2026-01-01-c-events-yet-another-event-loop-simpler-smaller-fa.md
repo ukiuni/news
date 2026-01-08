@@ -8,7 +8,7 @@
   source_title: "events | c-events"
   source_id: 46392095
   excerpt: "小型・高速で移植性高いC製イベントループc-eventsで実務向け"
-  ---
+---
 
 # C-events, yet another event loop, simpler, smaller, faster, safer - C-events — もう一つのイベントループ、よりシンプルに、小さく、速く、安全に
 

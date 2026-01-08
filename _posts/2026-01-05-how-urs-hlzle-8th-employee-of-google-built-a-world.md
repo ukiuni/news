@@ -8,7 +8,7 @@
   source_title: "Urs Hölzle: The Professor Who Built Google&#8217;s Brain using Cheap Hardware Strategy &#8211; deepsystemstuff.com"
   source_id: 474444558
   excerpt: "LEGO発想で安価サーバを連結、Googleが数百万ドルを節約し超高可用性達成"
-  ---
+---
 
 # How Urs Hölzle 8th employee of Google built a world-class infra using LEGO and saved millions of dollars of Infra cost for Google. Not only he built Infra which was cheap for Google but Infra that was super reliable for Google users. - グーグル8人目の社員、ウルス・ヘルツレが“安価なハードで作った頭脳”でインフラを変えた話
 

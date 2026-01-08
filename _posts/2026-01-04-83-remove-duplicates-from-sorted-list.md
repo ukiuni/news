@@ -8,7 +8,7 @@
   source_title: "83. Remove Duplicates from Sorted List"
   source_id: 471499150
   excerpt: "ソート済みリストの重複をO(n)/O(1)で一掃する実践解説、コード例付き"
-  ---
+---
 
 # 83. Remove Duplicates from Sorted List - ソート済みリストの重複削除
 手早くO(n)/O(1)で解く！LeetCode 83 — ソート済み単方向リストの重複を一掃する賢いポインタテクニック

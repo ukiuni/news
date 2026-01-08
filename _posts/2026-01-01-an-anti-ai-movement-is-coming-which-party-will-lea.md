@@ -8,7 +8,7 @@
   source_title: "An Anti-A.I. Movement Is Coming. Which Party Will Lead It?"
   source_id: 474926126
   excerpt: "反AI運動が米国で台頭、雇用や民主、国家安全を巡り左右が支配権を競う"
-  ---
+---
 
 # An Anti-A.I. Movement Is Coming. Which Party Will Lead It? - 反AI運動が来る。どの政党が主導するか？
 

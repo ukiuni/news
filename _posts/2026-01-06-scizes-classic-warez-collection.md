@@ -8,7 +8,7 @@
   source_title: "SCiZE's CLASSIC WAREZ COLLECTION"
   source_id: 46510625
   excerpt: "失われかけた90年代BBSのNFOとウェアズを時系列で照合できる宝庫"
-  ---
+---
 
 # SCiZE's Classic Warez Collection - SCiZEのクラシック・ウェアズ・コレクション
 90年代BBS文化の“生の声”を読む──失われかけたウェアズ／NFOアーカイブの宝庫

@@ -8,7 +8,7 @@
   source_title: "A modern guide to SQL JOINs | Database Design Book"
   source_id: 471315589
   excerpt: "LEFT優先＆ONは外部キー=主キーのみで、給与や請求のJOINバグと性能事故を防ぐ実践ガイド"
-  ---
+---
 
 # A modern guide to SQL JOINs - SQL JOINsのモダンガイド
 JOINの“落とし穴”を一瞬で見抜く――現場で効く「LEFT優先＋ID一致」メソッド

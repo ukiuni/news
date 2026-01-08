@@ -8,7 +8,7 @@
   source_title: "Rather than fully cracking down on scam ads, Meta worked to make them harder to find - Sherwood News"
   source_id: 46453582
   excerpt: "内部文書が示すMetaの手口：詐欺広告を削除せず発見しにくくして規制と監視をすり抜け、広告収益保全の実態"
-  ---
+---
 
 # Meta made scam ads harder to find instead of removing them - Metaは詐欺広告を完全排除せず「見つかりにくく」した
 Metaが詐欺広告を「消す」代わりにジャーナリストや規制当局から見えにくくした驚きの実態 — 日本の規制・広告運用に突きつける問題点

@@ -8,7 +8,7 @@
   source_title: "PostgreSQL 18 RETURNING Enhancements: A Game Changer for Modern Applications"
   source_id: 1543461989
   excerpt: "Postgres18のRETURNINGで旧値・新値を単文取得、同期と監査を簡素化"
-  ---
+---
 
 # PostgreSQL 18 RETURNING Enhancements: A Game Changer for Modern Applications - PostgreSQL 18 の RETURNING 強化：モダンアプリに効く革命
 Postgres 18で「変更前／変更後」を一発で取れる！MERGE＋RETURNINGの新機能で同期・監査が劇的にシンプルに

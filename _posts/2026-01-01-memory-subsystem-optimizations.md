@@ -8,7 +8,7 @@
   source_title: "Memory Subsystem Optimizations - Johnny&#039;s Software Lab"
   source_id: 46456215
   excerpt: "メモリ使用を劇的改善する18手法で運用コストとレイテンシを同時削減"
-  ---
+---
 
 # Memory Subsystem Optimizations - メモリ・サブシステム最適化
 メモリで差をつける：実運用で使える「速く・省メモリ」な最適化テクニック集

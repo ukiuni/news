@@ -8,7 +8,7 @@
   source_title: "Bespoke software is the future | Farid Zakaria’s Blog"
   source_id: 1481250273
   excerpt: "LLMとNixで短期開発、専用ソフトで中小が差をつけるで運用負担と技術負債を削減"
-  ---
+---
 
 # Bespoke software is the future - オーダーメイドソフトこそ未来
 FAANGの真似をするな：LLM時代に中小〜スタートアップが勝つ「小さく強い専用ソフト」の作り方

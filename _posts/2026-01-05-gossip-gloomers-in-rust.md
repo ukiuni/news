@@ -8,7 +8,7 @@
   source_title: "Gossip Gloomers in Rust"
   source_id: 470567899
   excerpt: "同期RustでMaelstrom攻略：Broadcast・CRDT・ログ実装の実践解説"
-  ---
+---
 
 # Gossip Gloomers in Rust - Rustで挑むGossip Gloomers
 同期RustでMaelstromに挑戦したらこうなった — 依存を絞って同期実装で分散システム課題を解く実践レポート

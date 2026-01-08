@@ -8,7 +8,7 @@
   source_title: "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household - Lalit Maganti"
   source_id: 1060096751
   excerpt: "Beancountで多通貨家計をプレーンテキスト管理し、週20分で一つの信頼できる純資産を作る方法"
-  ---
+---
 
 # One Number I Trust: Plain-Text Accounting for a Multi-Currency Household - 単一の信頼できる数値：多通貨家計のプレーンテキスト会計
 「通貨が違っても、たった1つの“信頼できる純資産”を作る方法 — エンジニア視点のPlain‑Text会計」

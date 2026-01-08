@@ -8,7 +8,7 @@
   source_title: "10 years of personal finances in plain text files | Siddhant Goel"
   source_id: 794946033
   excerpt: "BeancountとGitで10年分の取引・領収書をプレーンテキストで安全に自主管理する方法"
-  ---
+---
 
 # 10 years of personal finances in plain text files - プレーンテキストで10年分の個人財務を管理する
 エクセルや家計アプリに頼らない「自分だけの会計台帳」──プレーンテキスト×Beancountで築いた10年分の資産管理術

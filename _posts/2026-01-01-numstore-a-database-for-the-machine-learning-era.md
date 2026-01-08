@@ -8,7 +8,7 @@
   source_title: "Numstore - a database for the machine learning era"
   source_id: 474897560
   excerpt: "バイナリ配列をネイティブに扱い、ML向けに高速な部分アクセスを実現するDB"
-  ---
+---
 
 # Numstore - a database for the machine learning era - Numstore：機械学習時代のデータベース
 

@@ -8,7 +8,7 @@
   source_title: "$25 Walmart Phone for Hackers - Stetson Blake.md"
   source_id: 46480677
   excerpt: "25ドルのWalmartスマホで静的サイトを編集・プレビューし、出先検証や教育に使える低コスト開発法"
-  ---
+---
 
 # Show HN: Vibe Coding a static site on a $25 Walmart Phone - $25のWalmartフォンで静的サイトをコーディングする
 思わず試したくなる「格安スマホでローカル開発」──たった25ドルの端末でできることとは？

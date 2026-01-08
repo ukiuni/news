@@ -8,7 +8,7 @@
   source_title: "Setting up a new PC used to be fun, now it is ad-ridden nightmare"
   source_id: 473224349
   excerpt: "新品PCの初期設定が広告まみれに—不要ソフト除去とクリーン再構築法を短く解説"
-  ---
+---
 
 # Setting up a new PC used to be fun, now it is ad-ridden nightmare - 新品PCのセットアップはかつて楽しかったが、今や広告だらけの悪夢に
 新品PCの初期設定で「メーカーのおすすめ」「お得なオファー」に次々と誘導され、ワクワク感が台無しになっている――その現状と回避策を短く解説。

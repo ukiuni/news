@@ -8,7 +8,7 @@
   source_title: "Xr0 – C But Safe"
   source_id: 46479673
   excerpt: "コンパイル時に未定義動作を検出してCの安全を保証するXr0、導入価値大"
-  ---
+---
 
 # Xr0 verifier, guarantee the safety of C programs at compile time - Xr0 検証器：コンパイル時にCプログラムの安全性を保証
 Cの“未定義動作”をコンパイル時に封じる――Xr0がもたらす次世代の静的検証

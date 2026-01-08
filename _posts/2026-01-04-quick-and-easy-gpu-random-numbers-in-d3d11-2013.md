@@ -8,7 +8,7 @@
   source_title: "Quick And Easy GPU Random Numbers In D3D11 – Nathan Reed’s coding blog"
   source_id: 1041561143
   excerpt: "D3D11でWangハッシュ＋軽量PRNGにより高速並列乱数を低コストで生成する実践ガイド"
-  ---
+---
 
 # Quick And Easy GPU Random Numbers In D3D11 - D3D11で手早くGPU乱数を作る方法
 GPU上で「見た目ランダム」にする最短ルート — 低コストで並列生成するための実践テクニック

@@ -8,7 +8,7 @@
   source_title: "Moving Images Related to the Apollo Missions, 1967–1969"
   source_id: 46388912
   excerpt: "1967–1969のアポロ映像182点を高精細デジタルで復元・研究・VR活用できる一次資料集"
-  ---
+---
 
 # Moving Images Related to the Apollo Missions, 1967–1969 - アポロ計画に関連する動画像（1967–1969）
 アポロの“舞台裏”がデジタルで蘇る──1967–1969年の映像アーカイブを技術で活用する方法

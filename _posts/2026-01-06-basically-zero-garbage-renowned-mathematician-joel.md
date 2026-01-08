@@ -8,7 +8,7 @@
   source_title: "'Basically zero, garbage': Renowned mathematician Joel David Hamkins declares AI Models useless for solving math. Here's why - The Economic Times"
   source_id: 469792267
   excerpt: "著名数学者が警告：現行AIは定理証明で誤りを自信満々に出す、実務での注意点と対策を解説"
-  ---
+---
 
 # 'Basically zero, garbage': Renowned mathematician Joel David Hamkins declares AI Models useless for solving math. Here's why - 『ほぼゼロ、ゴミ』：著名数学者ジョエル・デイヴィッド・ハムキンズがAIモデルは数学を解くのに役立たないと断言、その理由
 

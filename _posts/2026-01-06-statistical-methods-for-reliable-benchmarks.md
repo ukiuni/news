@@ -8,7 +8,7 @@
   source_title: "Statistical Methods for Reliable Benchmarks | modulovalue"
   source_id: 469242448
   excerpt: "中央値・CV%・ランダム化で誤差を排し、信頼できるベンチ結果を得る実践ガイド"
-  ---
+---
 
 # Statistical Methods for Reliable Benchmarks - 信頼できるベンチマークのための統計手法
 ベンチマークの“嘘”を見抜く：実運用で使える統計的測定ガイド

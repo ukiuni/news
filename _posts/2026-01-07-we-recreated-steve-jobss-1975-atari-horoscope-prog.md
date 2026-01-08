@@ -8,7 +8,7 @@
   source_title: "We recreated Steve Jobs's 1975 Atari horoscope program"
   source_id: 46521029
   excerpt: "ジョブズ関与の1975年アタリ星占いをブラウザで復元、当時の制約と技術が学べる"
-  ---
+---
 
 # We recreated Steve Jobs's 1975 Atari horoscope program - スティーブ・ジョブズの1975年アタリ用ホロスコーププログラムを再現
 ジョブズの“はじめての占い”を手元で動かす — 1975年アタリ再現プロジェクトの舞台裏

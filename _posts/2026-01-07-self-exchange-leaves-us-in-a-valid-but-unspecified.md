@@ -8,7 +8,7 @@
   source_title: "Self-exchange leaves us in a valid but unspecified state"
   source_id: 698810602
   excerpt: "std::exchangeや自己ムーブでオブジェクトが有効だが未定義になり致命バグの原因に"
-  ---
+---
 
 # Self-exchange leaves us in a valid but unspecified state - セルフ・エクスチェンジは「有効だが未定義状態」を生む
 

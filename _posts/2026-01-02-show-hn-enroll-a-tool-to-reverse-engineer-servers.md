@@ -8,7 +8,7 @@
   source_title: "Enroll - Reverse-engineering servers into Ansible"
   source_id: 46449852
   excerpt: "既存Linuxサーバを解析して短時間でAnsibleのroles/playbook化するツール"
-  ---
+---
 
 # Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt - Enroll：サーバーを逆解析してAnsible構成管理に変換するツール
 レガシーサーバーを“秒でコード化”する――Enrollで「雪だるまサーバ」をAnsible管理下へ

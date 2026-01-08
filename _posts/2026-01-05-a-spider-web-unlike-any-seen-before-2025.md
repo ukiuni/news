@@ -8,7 +8,7 @@
   source_title: "A spider web unlike any seen before (2025)"
   source_id: 46496054
   excerpt: "硫黄洞窟で11万匹が共存する巨大スポンジ状クモの巣が発見、暗闇が捕食を抑え進化に影響"
-  ---
+---
 
 # A spider web unlike any seen before (2025) - 臭くてスポンジ状、暗闇の巨大クモの巣
 暗闇がもたらした“共生系”──国境の洞窟にできた11万匹のクモのメトロポリス

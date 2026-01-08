@@ -8,7 +8,7 @@
   source_title: "Insert HTML from another file with 1 line of raw JS (works on github pages)"
   source_id: 471220372
   excerpt: "1行の生JavaScriptでGitHub Pagesに外部HTMLを簡単挿入"
-  ---
+---
 
 # Insert HTML from another file with 1 line of raw JS (works on github pages) - 1行の生JSで別ファイルのHTMLを挿入（GitHub Pagesで動く）
 

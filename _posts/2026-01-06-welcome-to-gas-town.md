@@ -8,7 +8,7 @@
   source_title: "Welcome to Gas Town"
   source_id: 46458936
   excerpt: "Gas Townが示す複数Claudeエージェントの実運用設計と安全なマージ・監視ワークフロー"
-  ---
+---
 
 # Welcome to Gas Town - ガスタウンへようこそ
 破壊的オーケストレーター「Gas Town」が見せる、Claude系エージェント大量運用の実務像

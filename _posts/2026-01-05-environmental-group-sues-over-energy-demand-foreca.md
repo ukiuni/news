@@ -8,7 +8,7 @@
   source_title: "Environmental group sues over energy demand forecasts for Meta&#x27;s planned AI data center campus in Beaver Dam, Wisconsin - DCD"
   source_id: 470552410
   excerpt: "メタの大型AIキャンパスが地域の電力・水網を圧迫、需要予測の非開示で訴訟に発展"
-  ---
+---
 
 # Environmental group sues over energy demand forecasts for Meta's planned AI data center campus in Beaver Dam, Wisconsin - メタのBeaver Dam計画：AIデータセンターの電力需要予測を巡る環境団体の訴訟
 クリックを誘う邦題: メタの“秘密の”電力需要――AIキャンパスが地域の電力・水問題を直撃する日

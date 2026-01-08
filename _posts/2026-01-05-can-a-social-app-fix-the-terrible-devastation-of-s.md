@@ -8,7 +8,7 @@
   source_title: "Can a social app fix the 'terrible devastation' of social media?"
   source_id: 470693916
   excerpt: "設計と技術でSNSの破壊を和らげる実践策と限界を日本視点で解説"
-  ---
+---
 
 # Can a social app fix the 'terrible devastation' of social media? - ソーシャルアプリはソーシャルメディアの「ひどい破壊」を修復できるか？
 ソーシャルメディアが生んだ“壊れた関係性”を直す――設計と技術で試みる次世代ソーシャルアプリのリアリティチェック

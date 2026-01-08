@@ -8,7 +8,7 @@
   source_title: "Open Infrastructure Map"
   source_id: 46536866
   excerpt: "海底ケーブルやIXを地図で可視化し、通信の脆弱点や冗長経路を直感的に確認できるツールです。"
-  ---
+---
 
 # Open Infrastructure Map - オープンインフラストラクチャーマップ
 地図で見る「インターネットの骨格」──国内ネットワーク設計や災害対策に使える可視化ツール

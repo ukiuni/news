@@ -8,7 +8,7 @@
   source_title: "Audio dongles and the ghost of USB 1"
   source_id: 1442240383
   excerpt: "USB-CドングルがFS帯域で録音・通話にノイズが出る理由と対策"
-  ---
+---
 
 # Audio dongles and the ghost of USB 1 - オーディオドングルとUSB1の亡霊
 消えたヘッドフォン端子の“裏側”：USB-Cオーディオドングルがなぜ今も古いUSBの制約に悩まされるのか

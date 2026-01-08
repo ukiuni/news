@@ -8,7 +8,7 @@
   source_title: "Open source - Wikipedia"
   source_id: 473236566
   excerpt: "オープンソースの落とし穴と実務ルールを具体事例で徹底解説、今すぐ確認"
-  ---
+---
 
 # One character change in Open Source Software - オープンソースソフトウェアにおける「一文字」の変化
 「1文字で世界が変わる──オープンソースの思想と日本の現場が今すぐ取り入れるべき実践ルール」

@@ -8,7 +8,7 @@
   source_title: "L.B.Stanza"
   source_id: 46525640
   excerpt: "言語を作る前に、実務で役立つライブラリが何を可能にするか検証せよ"
-  ---
+---
 
 # Stop Designing Languages. Write Libraries Instead - 言語を作るな、ライブラリを書け
 言語の力で「使いやすいライブラリ」を設計する——Rails が教える本質

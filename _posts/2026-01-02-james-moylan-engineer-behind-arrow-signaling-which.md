@@ -8,7 +8,7 @@
   source_title: "James Moylan, engineer behind arrow signaling which side to refuel a car, dies"
   source_id: 46398235
   excerpt: "雨の経験から給油口矢印を生み出しUXを変えたジェームズ・モイルラン氏が死去"
-  ---
+---
 
 # James Moylan, engineer behind arrow signaling which side to refuel a car, dies - ガソリン給油口の方向を示す矢印を設計したエンジニア、ジェームズ・モイルラン氏死去
 

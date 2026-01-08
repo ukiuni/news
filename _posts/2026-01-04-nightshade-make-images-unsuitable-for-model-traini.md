@@ -8,7 +8,7 @@
   source_title: "Nightshade: Make images unsuitable for model training"
   source_id: 46487342
   excerpt: "著作権侵害に抵抗、無断収集画像を毒化してAI学習と生成を破綻させる"
-  ---
+---
 
 # Nightshade: Make images unsuitable for model training - Nightshade：モデル学習に使えない画像を作る
 無断スクレイピングに“毒”を仕込む——クリエイターが取れる新しい反撃手段

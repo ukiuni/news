@@ -8,7 +8,7 @@
   source_title: "Dell&#039;s version of the DGX Spark fixes pain points | Jeff Geerling"
   source_id: 46457027
   excerpt: "DellのGB10はDGX Sparkの熱設計と静音性を改善し、RDMAで威力を発揮する開発向け小型機"
-  ---
+---
 
 # Dell's version of the DGX Spark fixes pain points - DellのDGX Spark版が抱える痛点を解消
 開発者向け“ポケットDGX”の実力：GB10は誰のためのマシンか？

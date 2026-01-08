@@ -8,7 +8,7 @@
   source_title: "Instagram Reels went from TikTok clone to a $50 billion business for Meta"
   source_id: 471300448
   excerpt: "Reelsが年500億ドル規模へ成長、AI推薦とTV展開で短尺動画の新収益モデルに"
-  ---
+---
 
 # Instagram Reels went from TikTok clone to a $50 billion business for Meta - Instagram ReelsはTikTokのクローンからMetaの500億ドルビジネスへ
 Instagram Reelsが示す次の成長波 — モバイルを超えてテレビまで席巻する狙いと、日本市場への実務的示唆

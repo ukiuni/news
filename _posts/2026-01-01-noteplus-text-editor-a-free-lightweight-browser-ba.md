@@ -8,7 +8,7 @@
   source_title: "NotePlus | Free Browser Based Text Editor Online"
   source_id: 475008902
   excerpt: "インストール不要で依存ゼロ、ブラウザ上で高速メモ＆AI補助が使える軽量テキストエディタ"
-  ---
+---
 
 # NotePlus Text Editor a free lightweight browser based text editor with zero dependencies - NotePlus | 依存ゼロの軽量ブラウザベーステキストエディタ
 

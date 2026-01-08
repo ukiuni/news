@@ -8,7 +8,7 @@
   source_title: "Aardwolf MUD - Home Page"
   source_id: 46534777
   excerpt: "無料テキストRPGAardwolfでLua拡張や28クラスを楽しめる今風MUD。"
-  ---
+---
 
 # Play Aardwolf MUD - Aardwolf MUDを遊ぼう
 

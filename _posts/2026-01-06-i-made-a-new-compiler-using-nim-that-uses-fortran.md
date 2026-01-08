@@ -8,7 +8,7 @@
   source_title: "I made a new compiler using Nim that uses Fortran as a backend"
   source_id: 469747116
   excerpt: "Nimでフロントエンドを実装しFortranバックエンドで数値性能を引き出す新コンパイラ"
-  ---
+---
 
 # I made a new compiler using Nim that uses Fortran as a backend - Nimで書いた、Fortranをバックエンドにする新しいコンパイラを作った
 Nimの軽さで前処理と型検査を行い、数値性能は信頼のFortranコンパイラに委ねる――そんな“いいとこ取り”のコンパイラを試したレポート。

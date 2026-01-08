@@ -8,7 +8,7 @@
   source_title: "Unix v4 (1973) - Live Terminal | Run Vintage Unix"
   source_id: 46468283
   excerpt: "1973年のオリジナルUnix第4版をブラウザで忠実再現、当時のコードや挙動をそのまま体験できる"
-  ---
+---
 
 # 4th Edition Unix in the Browser - ブラウザで動く Unix 第4版
 1973年の「本物」をブラウザで体験する――発掘された“唯一の原本”を今すぐ動かして歴史に触れる

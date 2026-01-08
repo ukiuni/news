@@ -8,7 +8,7 @@
   source_title: "A Basic Just-In-Time Compiler"
   source_id: 46471712
   excerpt: "演算列をネイティブ機械語に変換し再帰式を高速化するJIT実装入門"
-  ---
+---
 
 # A Basic Just-In-Time Compiler (2015) - 基本的なJITコンパイラ（2015）
 数行の定義をそのままネイティブ機械語へ――自作JITで再帰式を一気に高速化する方法

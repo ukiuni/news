@@ -8,7 +8,7 @@
   source_title: "Article: Why Big Tech Turns Everything Into a Knife Fight"
   source_id: 473406820
   excerpt: "ビッグテックがナイフ戦で勝つ理由と日本企業が取る差別化・連携・規制対応の具体戦術"
-  ---
+---
 
 # Article: Why Big Tech Turns Everything Into a Knife Fight - なぜビッグテックはすべてを「ナイフ戦」に変えるのか
 なぜ巨大テック企業は常に「全力で切り合う」競争構造を作り出すのか — その戦略と日本企業が取るべき対策

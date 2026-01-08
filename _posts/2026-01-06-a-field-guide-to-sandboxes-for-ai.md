@@ -8,7 +8,7 @@
   source_title: "A field guide to sandboxes for AI"
   source_id: 1147203594
   excerpt: "WASMやマイクロVMで未知入力を隔離し、データ漏洩やコスト暴走を防ぐ実用的サンドボックス設計指南"
-  ---
+---
 
 # A field guide to sandboxes for AI - AIのサンドボックス実践ガイド
 魅惑のタイトル: AIを“安全に”遊ばせる設計図 — サンドボックスで守る実運用の鉄則

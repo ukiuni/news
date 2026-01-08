@@ -8,7 +8,7 @@
   source_title: "Total monthly number of StackOverflow questions over time"
   source_id: 46482345
   excerpt: "月別質問数の推移で注目技術の急上昇を見つけ、採用や製品戦略に即活用できる分析を提示"
-  ---
+---
 
 # Total monthly number of StackOverflow questions over time - 月別Stack Overflow質問数の推移
 魅力的タイトル: 「Stack Overflowの勢いは今どう動いているか？月別質問数で読み解く開発者トレンド」

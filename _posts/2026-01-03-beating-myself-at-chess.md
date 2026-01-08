@@ -8,7 +8,7 @@
   source_title: "Beating myself at chess"
   source_id: 46433967
   excerpt: "6KBのC製チェスAIでレトロ機へ移植、実践的最小開発術とテスト教訓"
-  ---
+---
 
 # Beating myself at chess - チェスで自分に勝つ
 レトロ環境で作る「6KB」のチェスAI — 自分に勝てるほどシンプルなチェスエンジンの作り方

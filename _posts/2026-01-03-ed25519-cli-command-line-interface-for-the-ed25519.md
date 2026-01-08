@@ -8,7 +8,7 @@
   source_title: "lib25519: Ed CLI"
   source_id: 46412070
   excerpt: "シェルとCIで秘密を露出せずに扱える、監査しやすいEd25519署名CLI"
-  ---
+---
 
 # Ed25519-CLI – command-line interface for the Ed25519 signature system - Ed25519-CLI：Ed25519署名システムのコマンドラインインターフェース
 シェルだけで高強度署名を扱う──ed25519-cliの実力と即戦力テクニック

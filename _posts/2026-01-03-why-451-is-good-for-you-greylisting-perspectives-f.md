@@ -8,7 +8,7 @@
   source_title: "That grumpy BSD guy: Why 451 is Good for You - Greylisting Perspectives From the Early Noughties"
   source_id: 46414653
   excerpt: "451応答でライセンスメールが届かない原因とRFC準拠の再試行対策を具体的に解説"
-  ---
+---
 
 # Why 451 Is Good for You – Greylisting Perspectives from the Early Noughties - なぜ451はあなたの味方なのか — 2000年代初頭から見たグレイリスティングの視点
 ライセンスメールが届かない原因は「451」かも？失敗に強いSMTP設計で顧客信頼を守る

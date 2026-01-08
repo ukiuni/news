@@ -8,7 +8,7 @@
   source_title: "Joseph Smith Furniture Maker, Cabinet maker and Joinery"
   source_id: 46501975
   excerpt: "未払いで開発者が顧客サイトに督促表示、法的・信用リスクと安全対処法"
-  ---
+---
 
 # A Web Developer Posted a Payment Shaming Message on Their Client's Site - ウェブ開発者がクライアントのサイトに支払い督促メッセージを掲載
 未払いトラブルがウェブ上で公開化──「支払え、さもなくばアクセスできない」とサイトに直書きされたときに起こること

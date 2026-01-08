@@ -8,7 +8,7 @@
   source_title: "Explaining Memory Barriers and Java’s Happens Before Guarantees"
   source_id: 474954277
   excerpt: "volatileとsynchronizedで学ぶJMMのhappens‑beforeとメモリバリア"
-  ---
+---
 
 # Explaining Memory Barriers and Java’s Happens Before Guarantees - JavaのメモリバリアとHappens‑Before保証を分かりやすく
 CPUとコンパイラが「勝手に並べ替える」世界で、volatileとsynchronizedがスレッド間の可視性と順序をどう守るかを明快に解説する

@@ -8,7 +8,7 @@
   source_title: "Extensibility: The \"100% Lisp\" Fallacy | Kyou is kyou is kyou is kyou"
   source_id: 46460394
   excerpt: "Lisp万能論を撃破、IMEやフォントなど日本語特有の拡張課題を具体的に示す"
-  ---
+---
 
 # Extensibility: The "100% Lisp" Fallacy - 「100% Lisp」の誤謬
 「Lispで書けば何でも拡張できる」は本当か？――エディタ拡張の現実と、日本で気をつけるべきポイント

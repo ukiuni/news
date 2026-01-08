@@ -8,7 +8,7 @@
   source_title: "Gemini Proxy"
   source_id: 46512707
   excerpt: "軽量でプライバシー志向のGemini、自己署名証明書と日本語不足が普及の鍵"
-  ---
+---
 
 # Gemini Protocol Deployment Statistics - Geminiプロトコル展開統計
 静かに拡大する“ミニマルWeb”Geminiの今：規模・安全性・日本ユーザーが押さえるべきポイント

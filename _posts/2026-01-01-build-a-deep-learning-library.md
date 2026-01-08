@@ -8,7 +8,7 @@
   source_title: "Build a Simple Deep Learning Library"
   source_id: 46454587
   excerpt: "NumPyだけでゼロから自作オートグラッドやCNN/ResNetを実装する実践ハンズオン"
-  ---
+---
 
 # Build a Deep Learning Library - 深層学習ライブラリを作る
 ゼロから動く！NumPyだけで自作オートグラッドとCNNを構築する実践ガイド

@@ -8,7 +8,7 @@
   source_title: "Assorted less(1) tips | Tim's blog"
   source_id: 1094105101
   excerpt: "lessの小技でログ検索・絞り込みやブックマークが劇的に捗る"
-  ---
+---
 
 # Assorted less(1) tips - less(1) の雑多な小技集
 lessが手放せなくなる、実践に効く小技だけを厳選したガイド

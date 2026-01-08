@@ -8,7 +8,7 @@
   source_title: "Why is the Gmail app 700 MB? | seize the dev"
   source_id: 46514692
   excerpt: "スマホ容量を圧迫するGmail約700MBの原因と即効対策を解説"
-  ---
+---
 
 # Why is the Gmail app 700 MB? - なぜGmailアプリは700MBもあるのか?
 GmailがiPhoneで約760MBも占める理由を読み解く――「スマホが容量不足になる本当の理由」と開発者・ユーザが今すぐ知るべき対処法

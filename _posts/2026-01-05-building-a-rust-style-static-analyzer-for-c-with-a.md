@@ -8,7 +8,7 @@
   source_title: "The Story of Building a Rust-Style Static Analyzer for C++ with AI | Home"
   source_id: 46495539
   excerpt: "AIで短期間に作ったプロトタイプで、既存C++へRust風借用チェックを段階導入してメモリ安全を実現"
-  ---
+---
 
 # Building a Rust-style static analyzer for C++ with AI - C++にRust風静的解析器をAIで作る話
 AIと実装力で実現した「C++に部分的にRustの安全性を持ち込む」現実的アプローチ

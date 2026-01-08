@@ -8,7 +8,7 @@
   source_title: "POSSE - IndieWeb"
   source_id: 46468600
   excerpt: "自サイトを原典にしてSNSへ配信し、資産化と発見性を高めるPOSSE術"
-  ---
+---
 
 # Publish (On Your) Own Site, Syndicate Elsewhere - 自分のサイトで公開し、他へ配信する（POSSE）
 自分のドメインを主役にする術 — POSSEでSNSに操られない発信を

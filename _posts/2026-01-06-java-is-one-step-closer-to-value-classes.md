@@ -8,7 +8,7 @@
   source_title: "Porting to support JEP 401: Value Classes and Objects (Preview)"
   source_id: 469648632
   excerpt: "JEP401で値クラスが現実味、JVMと開発ツールは今すぐ対応準備を"
-  ---
+---
 
 # Java is one step closer to Value Classes! - JavaがValue Classesへ一歩近づく！
 Javaの「値クラス（Value Classes）」到来で何が変わるのか――今すぐ押さえておくべき実務インパクト

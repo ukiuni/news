@@ -8,7 +8,7 @@
   source_title: "The creator of Claude Code's Claude setup"
   source_id: 46470017
   excerpt: "たった一枚の「JavaScript無効」画面が暴く、Web設計の落とし穴と即効対策"
-  ---
+---
 
 # The creator of Claude Code's Claude setup - Claude Codeの作者によるClaudeのセットアップ
 JavaScriptが無効でも"止まらない"作りを考える — たった一枚のエラーメッセージが突きつける設計の本質

@@ -8,7 +8,7 @@
   source_title: "ACM Is Now Open Access"
   source_id: 46454763
   excerpt: "ACMが完全オープンアクセス化、全論文と関連データが無料で即利用可能に"
-  ---
+---
 
 # ACM Is Now Open Access - ACMが完全オープンアクセスに
 魅力的な知識の宝庫が無料化 — 日本の研究と開発に与える“次の1年”のインパクト

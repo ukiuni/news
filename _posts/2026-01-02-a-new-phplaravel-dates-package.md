@@ -8,7 +8,7 @@
   source_title: "A new PHP/Laravel dates package"
   source_id: 473111964
   excerpt: "未完成のLaravel日付パッケージを日本現場向けに評価・導入する手順とチェック項目を解説"
-  ---
+---
 
 # A new PHP/Laravel dates package - 新しいPHP/Laravel日付パッケージ
 Laravelの日付処理を一段上げる？日本の現場で試したくなる“日付パッケージ”の可能性

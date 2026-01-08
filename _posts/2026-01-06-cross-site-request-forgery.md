@@ -8,7 +8,7 @@
   source_title: "Cross-Site Request Forgery"
   source_id: 469765150
   excerpt: "Spring BootでCSRF対策の実践設定と実例で管理画面乗っ取りを防ぐ方法を解説"
-  ---
+---
 
 # Cross-Site Request Forgery - クロスサイトリクエストフォージェリ（CSRF）
 Spring Bootで絶対に知っておきたいCSRF対策 — ワンクリックで管理画面が乗っ取られる前に

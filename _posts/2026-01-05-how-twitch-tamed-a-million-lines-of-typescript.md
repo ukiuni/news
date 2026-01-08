@@ -8,7 +8,7 @@
   source_title: "How Twitch Tamed a Million Lines of TypeScript - Josh Ribakoff"
   source_id: 46496718
   excerpt: "ESLintスナップショットで例外を見える化し規約劣化を防いだTwitch流運用"
-  ---
+---
 
 # How Twitch tamed a million lines of TypeScript - Twitchが100万行のTypeScriptを制した方法
 「例外を見える化して守る」Twitch流：大規模TypeScriptコードベースのための実践的ルール運用

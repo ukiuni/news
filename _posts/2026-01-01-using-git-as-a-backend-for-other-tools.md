@@ -8,7 +8,7 @@
   source_title: "Git as a fancy DAG"
   source_id: 475032715
   excerpt: "既存のGitインフラをDAGとして使い、オフライン・P2Pチャットや同期機能を短期間で実現する方法"
-  ---
+---
 
 # Using Git as a Backend for other Tools - ツールのバックエンドとしてのGit活用
 Gitを「DAGストレージ」として使う——既存の開発インフラをそのまま分散アプリの基盤にする発想

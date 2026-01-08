@@ -8,7 +8,7 @@
   source_title: "Tesla Door Design Is Targeted by New US Automotive Safety Bill | Financial Post"
   source_id: 468522712
   excerpt: "閉じ込め事故で注目、米法案がテスラ式電動把手に手動開放義務化を要求"
-  ---
+---
 
 # Tesla Door Design Is Targeted by New US Automotive Safety Bill - テスラの電動ドアが標的に、新米国法案が手動開放を要求
 思わず手を止める「閉じ込めリスク」—電動式ドア把手が安全規制の標的に

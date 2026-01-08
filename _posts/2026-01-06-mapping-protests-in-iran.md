@@ -8,7 +8,7 @@
   source_title: "Mapping Protests in Iran"
   source_id: 46509788
   excerpt: "地図とOSINTでイラン抗議を可視化、実務向けの技術と倫理課題を解説"
-  ---
+---
 
 # Mapping Protests in Iran - イランにおける抗議活動の地図化
 驚くほど“見える化”が進む──地図とデータで暴く抗議の瞬間とそのリスク

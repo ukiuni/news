@@ -8,7 +8,7 @@
   source_title: "Going immutable on macOS | A journey into a wild pointer"
   source_id: 46462719
   excerpt: "nix-darwinでmacOSを宣言的管理し、環境再現・ロールバックとGUI対処を実践的に解説"
-  ---
+---
 
 # Going immutable on macOS - macOSを不変にする（Nix‑Darwin を使う）
 もう「環境の崩壊」で時間を失わないための、nix-darwinによるmacOS不変化ガイド

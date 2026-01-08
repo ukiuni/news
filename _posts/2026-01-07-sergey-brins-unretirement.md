@@ -8,7 +8,7 @@
   source_title: "Sergey Brin's Unretirement"
   source_id: 46452641
   excerpt: "セルゲイ・ブリンが退職撤回した本当の理由とAI復帰の舞台裏が示す教訓"
-  ---
+---
 
 # Sergey Brin's Unretirement - セルゲイ・ブリンの“アンリタイア”
 ビリオネアが「退職撤回」した本当の理由――AI時代に考える働き方と生きがい

@@ -8,7 +8,7 @@
   source_title: "LaTeX Coffee Stains [pdf]"
   source_id: 46526933
   excerpt: "LaTeX/TikZでベクターのリアルなコーヒー染みを作り、資料に手作り感を簡単追加。"
-  ---
+---
 
 # LaTeX Coffee Stains [pdf] - LaTeX コーヒー染み
 手描き感を一瞬でプラス：LaTeX/TikZで「コーヒーの染み」を自在に作る方法

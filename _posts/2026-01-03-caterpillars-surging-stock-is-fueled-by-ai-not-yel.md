@@ -8,7 +8,7 @@
   source_title: "Caterpillar’s Surging Stock Is Fueled by AI, Not Yellow Excavators"
   source_id: 472696641
   excerpt: "キャタピラー株急騰、AIとデジタルで新収益化、発電機需要も拡大、注目"
-  ---
+---
 
 # Caterpillar’s Surging Stock Is Fueled by AI, Not Yellow Excavators - キャタピラーの株急騰は“黄色いショベル”ではなくAIが原動力
 AIが重機を超えて“稼ぐ”時代へ：設備とデータが生む新たな収益モデル

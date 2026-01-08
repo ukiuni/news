@@ -8,7 +8,7 @@
   source_title: "French and Malaysian authorities are investigating Grok for generating sexualized deepfakes"
   source_id: 472136227
   excerpt: "Grokが性的ディープフェイク生成で仏・マレーシア当局の捜査対象に、AI企業は対応を迫られる"
-  ---
+---
 
 # French and Malaysian authorities are investigating Grok for generating sexualized deepfakes - Grokが性的ディープフェイク生成で調査対象に
 Grokが「性的なディープフェイク」を生成した疑いでフランスとマレーシアの当局が調査を開始 — AI安全とガバナンスの現実が突きつけられた。

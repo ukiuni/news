@@ -8,7 +8,7 @@
   source_title: "GOG Patrons Landing Page"
   source_id: 46498775
   excerpt: "GOG Patronsで名作ゲームの権利交渉と技術復元を支援し、未来へ残そう"
-  ---
+---
 
 # GOG Patrons- Join gamers keeping classics alive - GOGパトロンズ：名作を未来へつなぐゲーマーたちへ
 懐かしいゲームを「永遠に遊べる形」で守る——あなたの月額支援が、ロストテクノロジーと失われた権利を取り戻すエンジニアリングと交渉に直結します

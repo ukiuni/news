@@ -8,7 +8,7 @@
   source_title: "Canvas VM - Piet Language Runtime"
   source_id: 473551283
   excerpt: "画像をアップロードして即実行、絵をそのまま高速動作するPiet VM"
-  ---
+---
 
 # Canvas VM - Piet Language Runtime - Canvas VM: Piet言語ランタイム
 魅せるコードをそのまま実行する──「絵画コンパイラ」Canvas VMが示す新しいプログラミングの愉しみ方

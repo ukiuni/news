@@ -8,7 +8,7 @@
   source_title: "39th Chaos Communication Congress Videos"
   source_id: 46464426
   excerpt: "39C3動画でBitLocker抽出や0‑click、AI悪用など実例付きで学べる"
-  ---
+---
 
 # 39th Chaos Communication Congress Videos - 第39回カオス・コミュニケーション・コングレスの動画
 39C3ハイライト：セキュリティと社会問題が交差する“Power Cycles”から学ぶ今すぐ知るべき13のセッション

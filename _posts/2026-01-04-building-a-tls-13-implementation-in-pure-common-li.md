@@ -8,7 +8,7 @@
   source_title: "Building a TLS 1.3 Implementation in Pure Common Lisp | REPL Yell!"
   source_id: 711090239
   excerpt: "Common LispだけでOpenSSL不要のTLS1.3を実装し依存を排除"
-  ---
+---
 
 # Building a TLS 1.3 Implementation in Pure Common Lisp - 純粋な Common Lisp で書く TLS 1.3 実装
 OpenSSL不要へ：Common Lispだけで動くTLS 1.3を作ったら何が変わるのか？

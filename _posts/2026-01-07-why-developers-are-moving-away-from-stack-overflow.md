@@ -8,7 +8,7 @@
   source_title: "Why Developers are Moving Away from Stack Overflow?"
   source_id: 468928535
   excerpt: "生成AI台頭でStack Overflow利用が激減、社内ナレッジ設計が急務"
-  ---
+---
 
 # Why Developers are Moving Away from Stack Overflow? - 開発者がStack Overflowから離れる理由
 魅力的なタイトル: AI時代に「昔の聖域」が崩れた — Stack Overflow衰退の本当の理由と日本の開発現場への示唆

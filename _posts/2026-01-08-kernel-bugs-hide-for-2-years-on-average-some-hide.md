@@ -8,7 +8,7 @@
   source_title: "Kernel bugs hide for 2 years on average. Some hide for 20. - Pebblebed"
   source_id: 46536340
   excerpt: "Linuxカーネルの脆弱性は平均2年潜伏、最長20年放置の原因と対策"
-  ---
+---
 
 # Kernel bugs hide for 2 years on average. Some hide for 20 - カーネルのバグは平均2年潜伏、最長20年も
 魅力的な日本語タイトル: カーネルの「潜伏バグ」裁判 — 発見まで平均2年、あるいは20年放置される理由と今すぐできる対策

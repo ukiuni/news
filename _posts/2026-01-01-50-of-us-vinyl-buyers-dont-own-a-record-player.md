@@ -8,7 +8,7 @@
   source_title: "50% of U.S. vinyl buyers don't own a record player"
   source_id: 46454944
   excerpt: "デジタル疲れで若年層が所有目的にレコード購入、米国では買い手の半数がプレーヤー非所有"
-  ---
+---
 
 # 50% of U.S. vinyl buyers don't own a record player - 米国のレコード購入者の50％はプレーヤーを持っていない
 デジタル疲れが生んだ「触れる価値」──若い世代がレコードを買う、本当の理由

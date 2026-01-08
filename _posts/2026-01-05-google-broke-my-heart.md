@@ -8,7 +8,7 @@
   source_title: "Google Broke My Heart | Perishable Press"
   source_id: 46505518
   excerpt: "GoogleがDMCA申立てを却下、海賊版を強制撤去できない著者の実録と対処法"
-  ---
+---
 
 # Google broke my heart - Googleが私の心を壊した
 Googleに裏切られた著者の叫び：検索結果に残る海賊版をどう取り除くか

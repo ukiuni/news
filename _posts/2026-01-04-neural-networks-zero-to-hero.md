@@ -8,7 +8,7 @@
   source_title: "Neural Networks: Zero To Hero"
   source_id: 46485090
   excerpt: "手を動かしてバックプロパゲーションからGPTを自力で実装し理解する実践入門"
-  ---
+---
 
 # Neural Networks: Zero to Hero - ニューラルネットワーク：ゼロからヒーロー
 カレパシー流「ゼロからGPTへ」──手を動かして学ぶ、実践的ディープラーニング入門

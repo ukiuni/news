@@ -8,7 +8,7 @@
   source_title: "Flutter ECS: Testing Strategies That Actually Work"
   source_id: 468244216
   excerpt: "ECSでFlutterテストが高速かつ安定化する実践的手法を学べる入門ガイド"
-  ---
+---
 
 # Flutter ECS: Testing Strategies That Actually Work - Flutter ECS：実際に効くテスト戦略
 テストが苦手なFlutter開発者に贈る — 「ECSでテストが楽しくなる」ための実践ガイド

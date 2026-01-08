@@ -8,7 +8,7 @@
   source_title: "Windows 11 performs worse than older Windows versions in nearly every benchmark"
   source_id: 468837355
   excerpt: "古いThinkPad検証でWindows11は多くのベンチで最下位、SSD換装で改善可能"
-  ---
+---
 
 # Windows 11 performs worse than older Windows versions in nearly every benchmark - Windows 11はほとんどのベンチで古いWindowsに負ける
 Windows 11が“遅い”理由を同一ThinkPadで徹底検証したら、想像以上の結果に

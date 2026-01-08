@@ -8,7 +8,7 @@
   source_title: "Report: Microsoft quietly kills official way to activate Windows 11/10 without internet"
   source_id: 472447115
   excerpt: "オフラインでのWindows有効化が公式に廃止か、企業と個人の運用に重大影響"
-  ---
+---
 
 # Report: Microsoft quietly kills official way to activate Windows 11/10 - 報告: マイクロソフトがインターネットなしでWindows 11/10を有効化する公式手段をひっそりと廃止
 オフラインでのWindows有効化はもう古い？「ネット接続なし」が通用しなくなるかもしれない現実

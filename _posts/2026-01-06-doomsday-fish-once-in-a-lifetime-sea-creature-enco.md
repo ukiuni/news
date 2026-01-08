@@ -8,7 +8,7 @@
   source_title: "'Doomsday fish': Once-in-a-lifetime sea creature encountered in Monterey Bay"
   source_id: 46475222
   excerpt: "モントレー湾で極めて稀な深海生物が出現、センサー×AIで見逃せない終末魚の一生に一度の瞬間"
-  ---
+---
 
 # Doomsday fish: Once-in-a-lifetime sea creature encountered in Monterey Bay - 「終末の日の魚」：モントレー湾での一生に一度の出会い
 「『終末魚』が教える海洋観測の次の一手 — センサー×AIで希少生物を逃すな」

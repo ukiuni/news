@@ -8,7 +8,7 @@
   source_title: "JavaScript engines zoo"
   source_id: 46486978
   excerpt: "実機ベンチでJSエンジンの速度・バイナリ・ES対応を比較して最適候補を提示"
-  ---
+---
 
 # JavaScript engines zoo – Compare every JavaScript engine - JavaScript エンジン図鑑
 目を奪われる実機ベンチで一目瞭然：次のJSランタイム選びがこれ1つで分かる

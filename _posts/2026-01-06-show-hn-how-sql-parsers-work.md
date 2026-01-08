@@ -8,7 +8,7 @@
   source_title: "Understanding SQL Parsers &middot; nishchith shetty"
   source_id: 46442354
   excerpt: "複数DB環境での移行や補完に効く、方言対応から系譜解析まで分かるSQLパーサ入門"
-  ---
+---
 
 # Show HN: How SQL Parsers Work - SQLパーサの仕組み
 知らなきゃ損するSQLパーサの“中身”──解析から方言対応、カラム単位の系譜まで一気理解

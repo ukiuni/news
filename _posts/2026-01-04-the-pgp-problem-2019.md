@@ -8,7 +8,7 @@
   source_title: "The PGP problem | Latacora"
   source_id: 46486326
   excerpt: "PGPの油断が招く日本企業の重大リスクと即実践できる移行策を紹介"
-  ---
+---
 
 # The PGP Problem - PGPの問題点
 PGPを捨てるべき理由：なぜ古典的な暗号ツールは日本の開発現場で危険なのか

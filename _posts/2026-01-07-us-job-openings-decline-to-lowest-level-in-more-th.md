@@ -8,7 +8,7 @@
   source_title: "US Job Openings Decline to Lowest Level in More Than a Year"
   source_id: 46527533
   excerpt: "米求人が1年超ぶり低水準、テック企業は採用・資金戦略を即見直す警告サイン"
-  ---
+---
 
 # US Job Openings Decline to Lowest Level in More Than a Year - 米国の求人件数、1年超ぶりの低水準に減少
 米求人が示す“採用の潮目”──テック企業はどう備えるべきか

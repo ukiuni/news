@@ -8,7 +8,7 @@
   source_title: "Refactoring -- Not on the backlog!"
   source_id: 46503439
   excerpt: "バックログに載せず、触るたびに少しずつ技術負債を消す実践法で確実に改善"
-  ---
+---
 
 # Refactoring – Not on the backlog (2014) - リファクタリングはバックログに載せるな
 魅力的なタイトル: 「大改修に頼らない“こまめな掃除”で技術負債を解決する方法 — バックログにRefactorを書いてはいけない理由」

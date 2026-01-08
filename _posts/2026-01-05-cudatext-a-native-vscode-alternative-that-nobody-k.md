@@ -8,7 +8,7 @@
   source_title: "CudaText: A Native VSCode Alternative That Nobody Knows"
   source_id: 470751611
   excerpt: "FreePascal製の軽快エディタCudaTextが古いPCでVSCode代替として速さを実感"
-  ---
+---
 
 # CudaText: A Native VSCode Alternative That Nobody Knows - 誰も知らないネイティブなVSCode代替
 誰も教えてくれない「軽くて速いGUIエディタ」――Free Pascal製の隠れた一手、CudaTextを試す価値。

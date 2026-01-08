@@ -8,7 +8,7 @@
   source_title: "Abdul.Dev Portfolio"
   source_id: 470595864
   excerpt: "ターミナル風ポートフォリオで即戦力のフロント実装とスケーラブル運用を学べる実践ガイド"
-  ---
+---
 
 # Got an Idea or a Problem? Let’s Work on It - アイデアや課題がある？一緒に取り組みましょう
 Abdul.Dev のターミナル風ポートフォリオに学ぶ、アイデアをプロダクションに繋げるための実践アプローチ

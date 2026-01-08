@@ -8,7 +8,7 @@
   source_title: "Predictions Scorecard, 2026 January 01 &#8211; Rodney Brooks"
   source_id: 46533343
   excerpt: "MITのブルックスが外れも晒す2026予測でAI・自動運転・宇宙の勝敗と実務指針を明快に示す"
-  ---
+---
 
 # 2026 Predictions Scorecard - 2026年予測スコアカード
 「外れも包み隠さず」MIT研究者が自己採点する2026年版予測まとめ：AI・自動運転・宇宙開発の現状と今後

@@ -8,7 +8,7 @@
   source_title: "NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices"
   source_id: 474890667
   excerpt: "NY就任式がFlipper ZeroやRaspberry Piを禁止、無線や認証悪用を警戒"
-  ---
+---
 
 # NYC mayoral inauguration bans Flipper Zero, Raspberry Pi devices - NY市長就任式でFlipper ZeroやRaspberry Piの持ち込みを禁止
 就任式で“趣味のガジェット”が締め出しに——なぜ市はフリッパーやRaspberry Piを警戒したのか？

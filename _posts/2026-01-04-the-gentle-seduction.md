@@ -8,7 +8,7 @@
   source_title: "The Gentle Seduction"
   source_id: 46486135
   excerpt: "老いと日常を守りつつ徐々に迫るナノ技術とBCIの現実的な到来を描く短編"
-  ---
+---
 
 # The Gentle Seduction - 優しい誘惑
 未来を「そっと」受け入れる──シンギュラリティとナノ技術が日常を変える瞬間

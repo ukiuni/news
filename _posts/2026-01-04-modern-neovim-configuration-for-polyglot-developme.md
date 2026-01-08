@@ -8,7 +8,7 @@
   source_title: "Memory Leaks | Modern Neovim Configuration for Polyglot Development"
   source_id: 472360101
   excerpt: "NvMegaChadで短時間にLSP/フォーマッタ/デバッグを統合し多言語開発環境を構築"
-  ---
+---
 
 # Modern Neovim Configuration for Polyglot Development - ポリグロット開発のためのモダンな Neovim 設定
 Neovimで「軽量×IDE並み」を実現する――NvMegaChadで始める最短カスタム開発環境

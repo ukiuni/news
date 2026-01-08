@@ -8,7 +8,7 @@
   source_title: "On the Slow Death of Scaling by Sara Hooker :: SSRN"
   source_id: 46522308
   excerpt: "スケーリング限界が示す転換点、データ質と省電力で日本が勝つ道"
-  ---
+---
 
 # On the slow death of scaling - スケーリングの緩やかな死
 「巨大化万能」は終わるのか？――スケール神話が崩れるとき、日本の現場が取るべき選択

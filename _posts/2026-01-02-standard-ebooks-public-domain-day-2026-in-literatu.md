@@ -8,7 +8,7 @@
   source_title: "Public Domain Day 2026 in Literature - Blog - Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover"
   source_id: 46462702
   excerpt: "1930年刊行の名作20作が米国でPD化、AIや電子書籍開発に使える高品質EPUBが無料公開"
-  ---
+---
 
 # Standard Ebooks: Public Domain Day 2026 in Literature - パブリックドメインデイ 2026（文芸）
 1930年刊行の名作20作が“無料化”に――アーカイブとAI時代に活かすための実践ガイド

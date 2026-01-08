@@ -8,7 +8,7 @@
   source_title: "Is tree-sitter good enough? – Jake Zimmerman"
   source_id: 1010068151
   excerpt: "高速で多言語対応のtree-sitterがIDE級補完や未完成コードで誤認する実例と対策を解説"
-  ---
+---
 
 # Is tree-sitter good enough? (2022) - tree-sitterは十分か？
 tree-sitter、便利だけど「実務での一歩先」は任せられるか？

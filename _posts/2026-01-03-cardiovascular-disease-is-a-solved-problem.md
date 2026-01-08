@@ -8,7 +8,7 @@
   source_title: "Cardiovascular disease is a solved problem &#8211; Total Health Optimization"
   source_id: 46478398
   excerpt: "若いうちからLDL（apoB/Lp(a)）を極低に保てば心血管疾患はほぼ根絶可能"
-  ---
+---
 
 # Cardiovascular disease is a solved problem - 心血管疾患は既に解決された問題
 心臓病は「治せる」か？LDL撲滅で考える——今すぐ知っておきたい最新の根拠と実務的インパクト

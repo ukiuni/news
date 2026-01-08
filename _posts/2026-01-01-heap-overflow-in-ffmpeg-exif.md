@@ -8,7 +8,7 @@
   source_title: "Heap-buffer-overflow in EXIF writer for extra IFD tags | Pwno"
   source_id: 46454854
   excerpt: "FFmpegのEXIF処理で4バイトのヒープオーバーフローが見つかり、画像でクラッシュや悪用の危険"
-  ---
+---
 
 # Heap Overflow in FFmpeg EXIF - FFmpeg EXIFのヒープオーバーフロー
 あなたの写真でクラッシュする？FFmpegのEXIF処理に潜む“4バイト”の落とし穴

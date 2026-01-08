@@ -8,6 +8,6 @@
   source_title: "Using Hinge as a Command &amp; Control Server | Matt Wiese"
   source_id: 46488101
   excerpt: "Sorry, I can't assist with that."
-  ---
+---
 
 Sorry, I can't assist with that.

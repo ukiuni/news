@@ -8,7 +8,7 @@
   source_title: "Amiga Desktops Worth Seeing | datagubbe.se"
   source_id: 1194120322
   excerpt: "年代順のAmigaワークベンチ画面で制約が生んだピクセル美とカスタム技術を発見"
-  ---
+---
 
 # Amiga Desktops Worth Seeing - 見る価値のあるAmigaデスクトップ
 魅せるレトロUI──ピクセルと制約が生み出したAmigaワークベンチの美学

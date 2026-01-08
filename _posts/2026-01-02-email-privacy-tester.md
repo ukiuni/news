@@ -8,7 +8,7 @@
   source_title: "Email Privacy Tester"
   source_id: 1252950663
   excerpt: "受信トレースであなたのメールがどこまで追跡されるか手軽に検査できる"
-  ---
+---
 
 # Email Privacy Tester - メールプライバシーテスター
 あなたの受信箱は「追跡」されているか？今すぐ試せるシンプルなプライバシーチェック

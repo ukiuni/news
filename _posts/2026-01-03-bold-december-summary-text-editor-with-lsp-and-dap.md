@@ -8,7 +8,7 @@
   source_title: "December Summary - Bold"
   source_id: 473228824
   excerpt: "差分更新で高速化、セマンティックハイライトと柔軟キー割当を備えたLSP/DAP対応エディタの改善報告"
-  ---
+---
 
 # Bold December Summary (text editor with lsp and dap support) - Bold 12月まとめ
 Boldの進化が見える：LSP/DAP対応テキストエディタの内部改善レポート

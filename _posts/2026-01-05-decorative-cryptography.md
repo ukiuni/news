@@ -8,7 +8,7 @@
   source_title: "Decorative Cryptography | Chris Fenner’s Personal Blog"
   source_id: 1398160742
   excerpt: "TPMの見た目だけの暗号化がバス改ざんで破られる危険を実例で解説"
-  ---
+---
 
 # Decorative Cryptography - 装飾的暗号学
 魅せかけの暗号に騙されるな：TPMの「安全そう」に潜む落とし穴

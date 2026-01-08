@@ -8,7 +8,7 @@
   source_title: "ICE Is Using Facial-Recognition Technology to Quickly Arrest People"
   source_id: 470344933
   excerpt: "ICEが現場で顔認識を使い瞬時に逮捕、捜査高速化の裏で誤認や透明性欠如の重大リスク"
-  ---
+---
 
 # ICE Is Using Facial-Recognition Technology to Quickly Arrest People - ICEが顔認識技術で迅速に逮捕を行う
 

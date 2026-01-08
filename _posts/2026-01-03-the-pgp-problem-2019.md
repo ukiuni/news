@@ -8,7 +8,7 @@
   source_title: "The PGP problem | Latacora"
   source_id: 46409473
   excerpt: "PGPは古く脆弱で業務向けに危険、Signal等の用途別近代ツールへ移行を"
-  ---
+---
 
 # The PGP Problem - PGPの問題点
 PGPはもう安全じゃない？暗号エンジニアが怒る「古い設計」の致命的欠陥と日本の現場で今すぐできる対策

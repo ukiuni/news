@@ -8,7 +8,7 @@
   source_title: "Introducing OpenWorkers – Self-hosted Cloudflare Workers in Rust"
   source_id: 46454693
   excerpt: "自社でWorkers互換を動かし、Rust製OpenWorkersで安全にエッジ処理を内製化"
-  ---
+---
 
 # OpenWorkers: Self-Hosted Cloudflare Workers in Rust - OpenWorkers：Rustで作るセルフホスト型Cloudflare Workers
 自社サーバで“Cloudflare Workers”の使い勝手を実現する――OpenWorkersが示すエッジの内製化パス

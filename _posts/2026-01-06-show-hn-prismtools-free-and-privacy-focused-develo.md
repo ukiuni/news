@@ -8,7 +8,7 @@
   source_title: "Prism.Tools - Developer Utilities"
   source_id: 46511469
   excerpt: "ブラウザだけで機密データを送らず使える38種の開発ツール集"
-  ---
+---
 
 # Show HN: Prism.Tools – Free and privacy-focused developer utilities - Show HN: Prism.Tools — 無料・プライバシー重視の開発者ユーティリティ
 

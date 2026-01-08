@@ -8,7 +8,7 @@
   source_title: "Top Gun: 1.0.0a Landing Hotfix"
   source_id: 1122679570
   excerpt: "NES版Top Gunの着陸ウィンドウを可視化し海に捧げる回数を激減させる改良案"
-  ---
+---
 
 # NES Top Gun: landing hotfix - NES版Top Gun：着陸ホットフィックス
 NES版Top Gunの「着陸のコツ」を可視化してくれる改良案 — 何度も海に機体を捧げる必要はもうない！

@@ -8,7 +8,7 @@
   source_title: "Rust9x update: Rust 1.93.0-beta - seri.tools"
   source_id: 1716402473
   excerpt: "Rust9xが1.93βでWindows95〜XP向け互換性とビルドを大幅改善"
-  ---
+---
 
 # Rust9x update: Rust 1.93.0-beta - Rust9xアップデート: Rust 1.93.0-beta
 レガシーWindowsにもう一度Rustを動かす——Rust9xが1.93β上で大幅リファクタ＆機能強化

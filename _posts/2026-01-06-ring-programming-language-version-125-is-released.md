@@ -8,7 +8,7 @@
   source_title: "What is new in Ring 1.25 &mdash; Ring 1.25.0 documentation"
   source_id: 469324057
   excerpt: "Ring 1.25はC生成・ML高速化・Pico対応で試作と組込みが高速化"
-  ---
+---
 
 # Ring programming language version 1.25 is released! - Ring 1.25がリリースされました！
 Ring 1.25で広がる可能性：C生成・機械学習アクセラレーション・セキュリティ強化でプロトタイプがもっと速くなる

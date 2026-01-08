@@ -8,7 +8,7 @@
   source_title: "Microsoft (MSFT) Eyes Major January Layoffs as AI Costs Rise"
   source_id: 470439132
   excerpt: "マイクロソフトがAI投資で1月に1万〜2万規模の人員削減を検討、日本企業と技術者は対策必須"
-  ---
+---
 
 # Microsoft (MSFT) Eyes Major January Layoffs as AI Costs Rise - マイクロソフト、AIコスト増で1月に大規模レイオフを検討
 マイクロソフトの“AI投資リスク”：1月に1万〜2万の人員削減か — 日本の技術者と企業が今すべきこと

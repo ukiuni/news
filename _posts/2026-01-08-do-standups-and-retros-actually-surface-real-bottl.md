@@ -8,7 +8,7 @@
   source_title: "DayTrace"
   source_id: 469497320
   excerpt: "短い日次ログで未計画作業の原因を可視化し、スプリント効率を回復する方法"
-  ---
+---
 
 # Do standups and retros actually surface real bottlenecks anymore? - スタンドアップやレトロは本当にボトルネックを浮き彫りにしているのか？
 日々の「雑音」を価値あるシグナルに変える——短い日次ログで見逃しやすいボトルネックを可視化する方法

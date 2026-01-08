@@ -8,7 +8,7 @@
   source_title: "Implementing HNSW (Hierarchical Navigable Small World) Vector Search in PHP"
   source_id: 46454968
   excerpt: "PHPで10万〜百万件をミリ秒で検索するHNSW実装ガイド（具体例付き）"
-  ---
+---
 
 # Implementing HNSW (Hierarchical Navigable Small World) Vector Search in PHP - PHPで実装するHNSW（階層型ナビゲーブル・スモールワールド）ベクトル検索
 PHPでミリ秒レベルの近傍探索を実現する――10万〜百万件規模のベクトルから“針”を素早く見つける技術ガイド

@@ -8,7 +8,7 @@
   source_title: "Why German Strings Are Everywhere?"
   source_id: 46511981
   excerpt: "短い文字列が多い現場でメモリ削減と比較高速化を実現する16B「German Strings」設計とは？"
-  ---
+---
 
 # Why German Strings Are Everywhere? - なぜドイツ式文字列が至る所に？
 ドイツ流「16バイト文字列」でデータ処理が劇的に速くなる理由

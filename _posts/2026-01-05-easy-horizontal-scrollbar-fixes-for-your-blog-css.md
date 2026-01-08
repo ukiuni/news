@@ -8,7 +8,7 @@
   source_title: "Easy (Horizontal Scrollbar) Fixes for Your Blog CSS"
   source_id: 470337533
   excerpt: "ブログの謎の横スクロールを5分で特定・修正する実践的CSSチェックリスト"
-  ---
+---
 
 # Easy (Horizontal Scrollbar) Fixes for Your Blog CSS - ブログの横スクロールバー問題を簡単に直す方法
 魅力的な日本語タイトル: 「ブログの“謎の横スクロール”を5分で解決するCSSチェックリスト」

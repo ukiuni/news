@@ -8,7 +8,7 @@
   source_title: "Using alternative browser engines in Japan - Support - Apple Developer"
   source_id: 46453950
   excerpt: "日本のiOSで代替ブラウザエンジンが解禁、導入は厳格な技術・セキュリティ要件必須"
-  ---
+---
 
 # iOS allows alternative browser engines in Japan - iOSが日本で代替ブラウザエンジンを許可
 iOSで“Safari以外の心臓部”が動く――日本限定で代替ブラウザエンジンが解禁、だが条件は超ハイバー

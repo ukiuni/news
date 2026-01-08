@@ -8,7 +8,7 @@
   source_title: "Sign-up for Game of Trees Hub"
   source_id: 1147785161
   excerpt: "SSHで完結、Stripe決済と独自サブドメインで即使えるGoTHubの登録手順"
-  ---
+---
 
 # GoTHub SSH Signup - GoTHub の SSH サインアップ
 SSHで完結する古き良きGitホスティング体験──Game of Trees Hubのサインアップを分かりやすく解説

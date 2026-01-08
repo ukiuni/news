@@ -8,7 +8,7 @@
   source_title: "It&apos;s a horse!"
   source_id: 470182540
   excerpt: "少ない仕様からアプリをほぼ自動生成、AIエージェントで開発が劇的に高速化する"
-  ---
+---
 
 # It's a horse! - それは馬だ！
 歩行者から馬乗りへ──AIエージェントで「開発スタイル」が変わった瞬間

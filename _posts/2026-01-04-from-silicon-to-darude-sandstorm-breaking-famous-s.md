@@ -8,7 +8,7 @@
   source_title: "From silicon to Darude – Sandstorm: breaking famous synthesizer DSPs [video]"
   source_id: 46438258
   excerpt: "顕微鏡とプローブでJP-8000のDSPを復元し、SuperSawをビット精度で再現する解説"
-  ---
+---
 
 # From Silicon to Darude Sand-storm: breaking famous synthesizer DSPs - シリコンからDarudeの「Sandstorm」へ — 有名シンセのDSPを解体する
 思わず再生したくなる：伝説のJP-8000の“中身”を自動化リバースエンジニアリングで暴いた話

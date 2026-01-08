@@ -8,7 +8,7 @@
   source_title: "Emergent Behavior: When Skills Combine - Vibe and Scribe"
   source_id: 46531794
   excerpt: "Claudeがスキルを組合せSwiftのJSONボトルネックを自動検出・改善する実例"
-  ---
+---
 
 # Claude Code Emergent Behavior: When Skills Combine - Claudeの行動原理：スキルが組み合わさるとき
 AIが「スキル」を掛け合わせて問題解決する瞬間 — デバッグから設計思考までを一気通貫で実行した実例

@@ -8,7 +8,7 @@
   source_title: "Understanding the bin, sbin, usr/bin , usr/sbin split"
   source_id: 46487921
   excerpt: "起源から実務的移行手順まで解説、/binと/usr/bin分割の整理法"
-  ---
+---
 
 # Understanding the bin, sbin, usr/bin, usr/sbin split - bin、sbin、usr/bin、usr/sbin の分割を理解する
 シンプルな歴史と現代的な結論：なぜ「/bin と /usr/bin の分離」は残っているのか、そして今どう扱うべきか

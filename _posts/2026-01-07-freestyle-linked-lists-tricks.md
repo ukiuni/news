@@ -8,7 +8,7 @@
   source_title: "Freestyle linked lists tricks"
   source_id: 1233443916
   excerpt: "連結リストを壊さず後から高速検索や定数時間索引を付与する実践テクニック集"
-  ---
+---
 
 # Freestyle linked lists tricks - フリースタイル連結リストの小技
 連結リストを捨てないで！「後から」高速検索やインデックスを付けられる小さな工夫

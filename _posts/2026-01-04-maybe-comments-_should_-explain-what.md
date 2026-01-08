@@ -8,7 +8,7 @@
   source_title: "Maybe Comments SHOULD Explain &#39;What&#39;"
   source_id: 46486780
   excerpt: "大規模分散コードでは短い「what」コメントが調査時間とバグを劇的に減らす"
-  ---
+---
 
 # Maybe Comments _Should_ Explain 'What' - コメントは「何」を説明すべきか
 「コメントは“なぜ”だけでなく“何をしているか”も書こう」——メソッド分割と文脈切り替えを考え直す短く強烈な反論

@@ -8,7 +8,7 @@
   source_title: "Classroom Phone Bans Work. So Why Don’t All Schools Do It?"
   source_id: 472748690
   excerpt: "授業中のスマホ禁止で成績や集中力が改善、実務負担や安全確保が導入の壁に"
-  ---
+---
 
 # Classroom Phone Bans Work. So Why Don’t All Schools Do It? - 教室の携帯電話禁止は効果がある。ではなぜ全ての学校が実施しないのか？
 成績が上がる“スマホ締め出し”──日本の教室で本当に使えるのか？

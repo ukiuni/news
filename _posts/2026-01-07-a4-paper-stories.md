@@ -8,7 +8,7 @@
   source_title: "A4 Paper Stories - Susam Pal"
   source_id: 46525888
   excerpt: "A4一枚でモニタのインチ換算まで手早く概測する折り方付き実用テク"
-  ---
+---
 
 # A4 Paper Stories - A4用紙の小話
 魅力的な日本語タイトル: A4一枚で何でも測る？「ジャパニーズ即席定規」技ありテクニック

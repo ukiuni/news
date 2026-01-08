@@ -8,7 +8,7 @@
   source_title: "OpenChaos.dev"
   source_id: 469776301
   excerpt: "プルリクを投票で自動マージし、CI連携と安全対策で民主的に進化するコード基盤"
-  ---
+---
 
 # I built a codebase that evolves itself through democracy - 私は「民主」で進化するコードベースを作った
 コードが“投票”で進化する──OpenChaos.devが提示する、開発の民主化とその現実的な課題

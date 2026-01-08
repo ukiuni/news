@@ -8,7 +8,7 @@
   source_title: "Pluralistic: The Post-American Internet (01 Jan 2026) &#8211; Pluralistic: Daily links from Cory Doctorow"
   source_id: 46509019
   excerpt: "トランプの貿易混乱が生む、囲い込みを崩す「ポスト米国」インターネットの商機とは？"
-  ---
+---
 
 # The Post-American Internet - ポスト・アメリカン・インターネット
 トランプが“壊した”世界から生まれるチャンス：アメリカ依存を断つ「ポスト米国」インターネットの夜明け

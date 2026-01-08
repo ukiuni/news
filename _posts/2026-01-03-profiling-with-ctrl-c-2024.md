@@ -8,7 +8,7 @@
   source_title: "Profiling with Ctrl-C"
   source_id: 46475296
   excerpt: "Ctrl-Cで実行中プロセスのホットスポットを即発見し対処につなぐ実用法"
-  ---
+---
 
 # Profiling with Ctrl-C (2024) - Ctrl-Cでプロファイリングする
 Ctrl-Cで「迷走中のプログラム」を一発で暴く――手抜き環境で効く即席プロファイル術

@@ -8,7 +8,7 @@
   source_title: "Winter Madness Postmortem - Winter Madness by rocketnine"
   source_id: 470102622
   excerpt: "Go＋Ebitengine＋Tetra3Dでの3Dゲーム開発で直面した性能・物理・WASM問題と対策"
-  ---
+---
 
 # Winter Madness Postmortem - Winter Madness（振り返り）
 「Goで3D？Ebitengine＋Tetra3Dで作った24時間前の“完成品”が教えてくれること」

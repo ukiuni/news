@@ -8,7 +8,7 @@
   source_title: "Autonomous Discovery of Low-Dimensional Physical Invariants from Real-World Data"
   source_id: 471616504
   excerpt: "ターゲット不要で実データから電池劣化を熱とエネルギーの不変量で説明可能に"
-  ---
+---
 
 # Autonomous discovery of physical invariants from real data (no target variable, no predefined equations) - 実データから物理的不変量を自律発見する（ターゲット変数不要・事前方程式不要）
 驚くほど「説明的」な機械学習――バッテリー劣化から熱とエネルギーで見つけた“効率不変量”

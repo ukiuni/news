@@ -8,7 +8,7 @@
   source_title: "Devaluation of work"
   source_id: 468634659
   excerpt: "AI生成PRで短期効率は上がるが、理解・保守を蝕む現場の対策とは？"
-  ---
+---
 
 # Devaluation of work - 仕事の価値の低下
 AIが書いたプルリクで開発力が削がれる？現場で起きている「見た目だけ」最適化の危機

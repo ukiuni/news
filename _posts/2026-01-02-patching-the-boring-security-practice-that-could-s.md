@@ -8,7 +8,7 @@
   source_title: "Patching: The Boring Security Practice That Could Save You $700 Million"
   source_id: 473166008
   excerpt: "退屈なパッチ適用を自動化で強化し、巨額損失を防ぐ具体手法と短期実行プラン"
-  ---
+---
 
 # Patching: The Boring Security Practice That Could Save You $700 Million - パッチ適用：退屈だが7億ドルを節約するかもしれないセキュリティ習慣
 魅力的な日本語タイトル: 「面倒な“パッチ当て”が会社を救う — たった数手順で巨額損失を防ぐ現場の知恵」

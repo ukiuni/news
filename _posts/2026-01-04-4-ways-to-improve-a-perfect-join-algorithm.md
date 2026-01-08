@@ -8,7 +8,7 @@
   source_title: "4 Ways to Improve A Perfect Join Algorithm"
   source_id: 1234660369
   excerpt: "Yannakakis結合を実運用で劇的に高速化する4策：Bloom、集約、遅延展開、半結合"
-  ---
+---
 
 # 4 Ways to Improve A Perfect Join Algorithm - 完璧な結合アルゴリズムを速くする4つの方法
 次世代DBで「理論的最適」を実務で速くする——実践的に効く4つの改良手法

@@ -8,7 +8,7 @@
   source_title: "Robots Are Hard"
   source_id: 46472930
   excerpt: "初代Roombaの単純設計が示す、低コストで堅牢なロボ開発の秘訣"
-  ---
+---
 
 # Revisiting the original Roomba and its simple architecture - 初代Roombaとその単純なアーキテクチャを再検討
 失われた「シンプルの美学」：初代Roombaが教える、現代ロボット開発への逆説的な処方箋

@@ -8,7 +8,7 @@
   source_title: "AoCO2025 Archive &#8212; Matt Godbolt&#8217;s blog"
   source_id: 473015812
   excerpt: "日替わりでコンパイラの実際の生成コードと最適化トリックを学び、パフォーマンス改善に直結する"
-  ---
+---
 
 # Matt Godbolt's Advent of Compiler Optimisations 2025 - Matt Godboltのコンパイラ最適化アドベント2025
 思わずアセンブリを覗きたくなる！コンパイラ最適化の「ツボ」を日替わりで学べるガイド

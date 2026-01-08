@@ -8,7 +8,7 @@
   source_title: "Anti-Aging Injection Regrows Knee Cartilage and Prevents Arthritis"
   source_id: 471612501
   excerpt: "老化抑制薬の関節注射が膝軟骨を再生し関節炎発症を防ぎ、臨床応用で手術回避の切り札となる可能性"
-  ---
+---
 
 # Anti-Aging Injection Regrows Knee Cartilage and Prevents Arthritis - 老化抑制注射が膝軟骨を再生し関節炎を防ぐ
 老化タンパク質を狙って「失われた軟骨を再生」する新戦略――膝置換を変える可能性を秘めた研究

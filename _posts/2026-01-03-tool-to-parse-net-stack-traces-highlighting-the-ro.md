@@ -8,7 +8,7 @@
   source_title: "TraceLens"
   source_id: 473051226
   excerpt: "貼り付けるだけで.NET例外の根本原因とユーザーコードを即可視化"
-  ---
+---
 
 # Tool to parse .Net stack traces highlighting the root exception and user code for faster debugging - .NETスタックトレースを解析し、根本例外とユーザーコードを強調表示してデバッグを高速化するツール
 数秒で「どこが悪いか」を指摘する：.NETスタックトレース解析ツールでデバッグ時間を劇的に短縮する方法

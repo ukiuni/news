@@ -8,7 +8,7 @@
   source_title: "Street Fighter II, The World Warrier"
   source_id: 1338160118
   excerpt: "ROMを焼き直さずタイルとパレットの重ね技で誤植『Warrier』を見かけ上修正した裏話"
-  ---
+---
 
 # Street Fighter II, The World Warrier - ストリートファイターII：ザ・ワールド・ウォーリア（タイプミス事件）
 ストIIの「Warrier」誤植をハードウェア制約と“職人の工夫”で直した、アーケード開発の舞台裏ストーリー

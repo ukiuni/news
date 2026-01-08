@@ -8,7 +8,7 @@
   source_title: "The 8 Fallacies of Distributed Computing: All You Need To Know + Why It’s Still Relevant In 2026"
   source_id: 473566357
   excerpt: "マイクロサービス／生成AI時代に必須、ネットワーク失敗を想定した8つの設計対策ガイド"
-  ---
+---
 
 # The 8 Fallacies of Distributed Computing: All You Need To Know + Why It’s Still Relevant In 2026 - 分散コンピューティングの8つの誤謬：知るべきことと、2026年でも重要な理由
 ネットワークは「当たり前」に壊れる — マイクロサービス／生成AI時代に必携の設計チェックリスト

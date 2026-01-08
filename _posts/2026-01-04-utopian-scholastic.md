@@ -8,7 +8,7 @@
   source_title: "Michael Wolf | Utopian Scholastic"
   source_id: 1124467328
   excerpt: "90年代の図鑑的UIを復活させ、偶然の学びを取り戻す方法を示す"
-  ---
+---
 
 # Utopian Scholastic - ユートピアン・スコラスティック
 図書館の匂いがするインターネット：学びを「探索」させた90sデザインと、それが失われた理由

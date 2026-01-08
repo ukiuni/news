@@ -8,7 +8,7 @@
   source_title: "Electronic Nose for Indoor Mold Detection and Identification"
   source_id: 46520935
   excerpt: "電子ノーズで匂いパターンから室内カビを即時検知・同定、建物メンテが変わる"
-  ---
+---
 
 # Electronic Nose for Indoor Mold Detection and Identification - 室内カビ検知・同定のための電子ノーズ
 魅力タイトル: 「においで判別する室内カビ検知――電子ノーズが変える建物メンテの未来」

@@ -8,7 +8,7 @@
   source_title: "Formal Methods Only Solve Half My Problems - Marc's Blog"
   source_id: 46473400
   excerpt: "形式手法で検証した安全性を保ちつつ、遅延・コスト・スケールを定量化する統合ツールの必要性を訴える"
-  ---
+---
 
 # Formal Methods Only Solve Half My Problems - 形式手法は問題の半分しか解かない
 形式手法だけでは見えない「性能」と「コスト」を定量化する次の一手

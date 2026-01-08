@@ -8,7 +8,7 @@
   source_title: "Developing a BLAS Library for the AMD AI Engine [pdf]"
   source_id: 46483811
   excerpt: "AIEの小メモリとDMAを活かしたタイル化GEMM最適化手法"
-  ---
+---
 
 # Developing a BLAS Library for the AMD AI Engine - AMD AI Engine向けBLASライブラリ開発
 魅力的なタイトル: 「AMDのAI Engineで高速線形代数をつくる — 小さなメモリで大きな行列演算を回す技術」

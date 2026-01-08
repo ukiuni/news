@@ -8,7 +8,7 @@
   source_title: "LLM problems observed in humans"
   source_id: 46527581
   excerpt: "AIが露わにする人間のLLM的欠点と組織改善策、会議と採用を変える実践的警鐘"
-  ---
+---
 
 # LLM Problems Observed in Humans - 人間に見られるLLM的問題
 「人はAIに似てきた？」会話で見える“モデル的失敗”を読み解く

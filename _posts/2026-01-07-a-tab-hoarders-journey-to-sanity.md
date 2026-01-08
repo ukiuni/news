@@ -8,7 +8,7 @@
   source_title: "A tab hoarder's journey to sanity"
   source_id: 46529797
   excerpt: "JavaScript無効や拡張が壊す表示を、タブ整理とホワイトリストで即解決"
-  ---
+---
 
 # A tab hoarder's journey to sanity - タブ溜め込み症の正気への旅
 「『JavaScriptが無効です』でページが真っ白…」にもう悩まない。タブ地獄から抜け出すための実戦テクニック

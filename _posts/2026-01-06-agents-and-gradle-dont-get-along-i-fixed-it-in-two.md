@@ -8,7 +8,7 @@
   source_title: "How to Give AI Agents Kotlin Library Source Search in Gradle for Claude and Codex | nek12.dev"
   source_id: 469526887
   excerpt: "Gradleの複雑なキャッシュをksrcで2コマンドに短縮し、依存ソース参照を即解決！"
-  ---
+---
 
 # Agents and Gradle Dont Get Along - I Fixed It in Two Commands - エージェントとGradleは相性最悪だった — 2つのコマンドで解決した話
 

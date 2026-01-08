@@ -8,7 +8,7 @@
   source_title: "Effortless animations with CSS view transitions"
   source_id: 695123757
   excerpt: "数行のCSSで驚くほど滑らかな、JavaScript不要のページ遷移を実現"
-  ---
+---
 
 # Effortless animations with CSS view transitions - CSSのView Transitionsで手軽に作る滑らかなアニメーション
 たった数行で「動く」サイトに見違える。JavaScript不要で実現するモダンなページ遷移の作り方

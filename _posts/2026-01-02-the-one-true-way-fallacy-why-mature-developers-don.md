@@ -8,7 +8,7 @@
   source_title: "The One-True-Way Fallacy: Why Mature Developers Don’t Worship a Single Programming Paradigm &#8211; www.CodeRancher.Us"
   source_id: 473997747
   excerpt: "最強のパラダイムはない：リスクに応じて手法を使い分ける実践法"
-  ---
+---
 
 # The One-True-Way Fallacy: Why Mature Developers Don’t Worship a Single Programming Paradigm - 唯一正しい道の誤謬：成熟した開発者が単一のパラダイムを崇拝しない理由
 教科書の呪縛を破れ：最強のパラダイムは存在しない — 実戦で勝つのは「使い分ける技術」

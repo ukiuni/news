@@ -8,7 +8,7 @@
   source_title: "Managing database schema changes for beginners"
   source_id: 470657260
   excerpt: "高稼働環境でのダウンタイム回避術：安全なDBスキーマ変更7つの実践手順"
-  ---
+---
 
 # Managing database schema changes for beginners - データベーススキーマ変更の基本
 運用で失敗しない！データベーススキーマ変更の実践ガイド — 初心者が知るべき7つの鉄則

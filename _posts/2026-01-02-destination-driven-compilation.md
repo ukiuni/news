@@ -8,7 +8,7 @@
   source_title: "DestinationDrivenCompilation"
   source_id: 1013668428
   excerpt: "コンパイラ設計でIIFEや一時変数を削減し、可読性と実行効率を高める宛先駆動手法"
-  ---
+---
 
 # Destination Driven Compilation - 宛先駆動コンパイル
 IIFE を激減させ、生成コードを人間に近づける「宛先駆動」コンパイラ設計

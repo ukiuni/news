@@ -8,7 +8,7 @@
   source_title: "As deep-sea mining race ramps up, mission will assess whether ecosystems recover"
   source_id: 46480373
   excerpt: "深海採掘が生態系を数十年でどこまで回復させ得るかを実証する調査ミッション"
-  ---
+---
 
 # As deep-sea mining race ramps up, mission will assess whether ecosystems recover - 深海採掘レースが加速する中、生態系が回復するかを調査するミッション
 深海資源バブルの裏側：掘っても本当に戻るのか？海底の“リカバリー”実験に迫る

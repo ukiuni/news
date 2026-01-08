@@ -8,7 +8,7 @@
   source_title: "A Pennsylvania court says police can sift through Google searches to find suspects"
   source_id: 474957253
   excerpt: "ペンシルベニア裁がGoogle検索履歴の捜査利用を容認、プライバシーの境界が揺らぐ"
-  ---
+---
 
 # A Pennsylvania court says police can sift through Google searches to find suspects - ペンシルベニア州裁、警察は容疑者特定のためにGoogle検索履歴を精査できると判断
 あなたの検索履歴が捜査の“引き金”に？ 逆キーワード捜査が示すプライバシーの境界線

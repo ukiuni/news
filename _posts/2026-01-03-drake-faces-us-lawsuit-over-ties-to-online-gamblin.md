@@ -8,7 +8,7 @@
   source_title: "Drake faces U.S. lawsuit over ties to online gambling firm, scheme to inflate streams"
   source_id: 471953506
   excerpt: "ドレイクがStake Cashで再生数水増し疑惑、音楽配信の信頼が危機"
-  ---
+---
 
 # Drake faces U.S. lawsuit over ties to online gambling firm, scheme to inflate streams - ドレイク、オンライン賭博業者との関係と再生回数水増しを巡る訴訟
 

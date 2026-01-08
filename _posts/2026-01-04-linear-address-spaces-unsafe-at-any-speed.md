@@ -8,7 +8,7 @@
   source_title: "Linear Address Spaces: Unsafe at any speed"
   source_id: 46442282
   excerpt: "線形アドレス空間の限界が性能と安全を侵食、CHERIが実用的解決策を示す"
-  ---
+---
 
 # Linear Address Spaces: Unsafe at any speed - 線形アドレス空間：どの速度でも安全ではない
 「ポインタにシートベルトを」——線形アドレス空間の限界と、能力（capability）ベース設計がもたらす未来

@@ -8,7 +8,7 @@
   source_title: "Boolean Biotech"
   source_id: 46518804
   excerpt: "30日間のプロバイオティクス摂取で目的菌は検出されず、口腔でS. salivariusが約20%に急増した驚きのシーケンス結果"
-  ---
+---
 
 # Oral microbiome sequencing after taking probiotics - プロバイオティクス摂取後の口腔マイクロバイオームシーケンシング
 プロバイオティクスを30日間舐めてみたら、目的の菌は見つからずに「S. salivariusが20%に急増」──シークエンスでわかった意外な変化

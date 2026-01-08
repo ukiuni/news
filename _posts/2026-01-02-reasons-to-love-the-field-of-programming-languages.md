@@ -8,7 +8,7 @@
   source_title: "Reasons to Love the Field of Programming Languages"
   source_id: 1409479601
   excerpt: "型やツールで実務と数学を結び、現場で使える言語の魅力と実践法を紹介"
-  ---
+---
 
 # Reasons to Love the Field of Programming Languages - プログラミング言語という分野を愛する理由
 言語が思考を変える瞬間──プログラミング言語に夢中になる10の理由

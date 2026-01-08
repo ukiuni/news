@@ -8,7 +8,7 @@
   source_title: "The Riven (1997) Diffs"
   source_id: 46482642
   excerpt: "Rivenのレンダー差分で90年代開発の痕跡や未完成箇所が鮮やかに露出"
-  ---
+---
 
 # The Riven (1997) Diffs - Riven（1997）の差分解析
 Rivenの「隠された時間」を視覚化する――レンダー差分ツールが暴く90年代ゲーム開発の痕跡

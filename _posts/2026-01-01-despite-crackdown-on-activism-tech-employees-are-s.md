@@ -8,7 +8,7 @@
   source_title: "Despite Crackdown on Activism, Tech Employees Are Still Picking Fights"
   source_id: 474895381
   excerpt: "弾圧を受けても、テック社員がAI倫理や軍事案件で巧妙に連携し反撃を続ける"
-  ---
+---
 
 # Despite Crackdown on Activism, Tech Employees Are Still Picking Fights - 弾圧下でもテック社員は戦いを挑み続ける
 黙らされても動く──テック業界で続く「現場からの抵抗」が示す次の波

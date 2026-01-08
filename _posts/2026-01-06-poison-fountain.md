@@ -8,6 +8,6 @@
   source_title: "RNSAFFN"
   source_id: 471171623
   excerpt: "閲覧拒否されたPoison Fountainの真相と潜む危険を探る"
-  ---
+---
 
 Sorry, I can't assist with that.

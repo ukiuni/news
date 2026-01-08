@@ -8,7 +8,7 @@
   source_title: "C3 | An evolution, not a revolution"
   source_id: 46478647
   excerpt: "C互換を保ちつつ安全性・生産性を高めるCの進化版言語、C3の導入で既存資産を活かしつつモダン化可能"
-  ---
+---
 
 # The C3 Programming Language - C3 プログラミング言語
 ワークホースなCを「進化」させた新世代言語 — 親しみやすく、低レイヤーで使えるCの延長線上にある選択肢

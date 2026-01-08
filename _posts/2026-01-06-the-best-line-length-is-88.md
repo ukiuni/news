@@ -8,7 +8,7 @@
   source_title: "Deciphering Glyph ::         The Best Line Length"
   source_id: 919083434
   excerpt: "視覚生理・歴史・ツールを踏まえ、レビュー効率と可読性を両立する実務的な88文字規約の根拠"
-  ---
+---
 
 # The Best Line Length - 最適な行長
 88文字が“ちょうどいい”理由：人間の目・歴史・ツールが導く行幅の最適解

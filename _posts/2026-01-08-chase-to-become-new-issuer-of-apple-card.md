@@ -8,7 +8,7 @@
   source_title: "Chase to become new issuer of Apple Card"
   source_id: 46536848
   excerpt: "ChaseがApple Cardの新発行体に移行、約200億ドルの与信移管とトークン再発行で決済運用が変わる"
-  ---
+---
 
 # Chase to become new issuer of Apple Card - ChaseがApple Cardの新発行会社に
 魅力見出し: 米アップルの「Apple Card」が発行銀行をゴールドマンからChaseへ移行──支払いの裏側で何が変わるのか？

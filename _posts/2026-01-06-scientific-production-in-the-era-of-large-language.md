@@ -8,7 +8,7 @@
   source_title: "Scientific production in the era of large language models [pdf]"
   source_id: 46505296
   excerpt: "LLMは論文執筆・検証・評価を高速化する一方、誤生成やデータ汚染で研究体制の再設計を迫る"
-  ---
+---
 
 # Scientific production in the era of large language models - 大規模言語モデル時代の科学的生産
 魅力タイトル: 研究はもう「書く」時代を越えるか？LLMが科研の舞台を根本から変える7つの衝撃

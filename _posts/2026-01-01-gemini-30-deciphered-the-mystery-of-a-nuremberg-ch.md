@@ -8,7 +8,7 @@
   source_title: "Gemini As Indiana Jones: How Gemini 3.0 Deciphered The Mystery Of A Nuremberg Chronicle Leaf&#8217;s 500-Year-Old Roundels &#8211; The GDELT Project"
   source_id: 46456387
   excerpt: "ジェミニ3.0がニュルンベルク年代記の余白注記を解読し年代換算の二系統を再現"
-  ---
+---
 
 # Gemini 3.0 Deciphered the Mystery of a Nuremberg Chronicle Leaf's - ジェミニ3.0が解き明かしたニュルンベルク年代記の500年もの書込みの謎
 「AIが500年前の余白文字を読んだら――ジェミニが示した“年代変換表”の謎解き」

@@ -8,7 +8,7 @@
   source_title: "California residents can now request all data brokers delete personal info"
   source_id: 46495220
   excerpt: "カリフォルニアが個人情報一括削除ポータルを公開、ボット対策で利用上の落とし穴も"
-  ---
+---
 
 # California residents can now request all data brokers delete personal info - カリフォルニア州民が全データブローカーに個人情報削除を請求可能に
 個人情報を“消す”ための入口──だがポータルはボット対策でガードされている

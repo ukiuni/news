@@ -8,7 +8,7 @@
   source_title: "Xmake v3.0.6 Released, Android Native Apps, Flang, AppImage/dmg Support | Xmake"
   source_id: 471295340
   excerpt: "Xmake 3.0.6でAndroid強化、bin2obj高速化とAppImage対応"
-  ---
+---
 
 # Xmake v3.0.6 Released, Android Native Apps, Flang, AppImage/dmg Support - Xmake v3.0.6 公開、Android ネイティブアプリ・Flang・AppImage/dmg 対応
 Androidゲームのカスタムエントリから、FortranビルドやAppImage/dmg配布まで──Xmake 3.0.6で「速さ」と「実用性」が一段と向上。

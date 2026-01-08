@@ -8,7 +8,7 @@
   source_title: "Uncloud, self hosted Cloud, seen by a developer for developers"
   source_id: 1477686898
   excerpt: "Kubernetesの負担を避け、単一コマンドでComposeデプロイする代替案Uncloud"
-  ---
+---
 
 # Uncloud, self hosted Cloud, seen by a developer for developers - Uncloud：開発者のためのセルフホスト型クラウド
 魅力的タイトル: 「Kubernetesに疲れたらこれを試せ——『Uncloud』が提示する“最小限で回る”セルフホスティングの世界」

@@ -8,7 +8,7 @@
   source_title: "Corsair cancels users $3499 PC order, then raises the price by $800 - VideoCardz.com"
   source_id: 474002624
   excerpt: "Corsairが3499ドル注文を取消し、同機を800ドル高で再出品した騒動"
-  ---
+---
 
 # Corsair cancels users $3499 PC order, then rises the price by $800 - Corsairが$3,499のPC注文をキャンセル、再掲載で$800値上げ
 魅力：年始ギフトが一転トラブルに — 「注文確認」が消え、再注文で価格が急騰した話

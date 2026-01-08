@@ -8,7 +8,7 @@
   source_title: "DoNotNotify — Regain Your Focus"
   source_id: 46499646
   excerpt: "端末内で通知を解析・ログ化し、LINEや銀行OTPは保護して不要通知を自動遮断する"
-  ---
+---
 
 # Show HN: DoNotNotify – log and intelligently block notifications on Android - DoNotNotify — 通知を賢く制御して集中を取り戻す
 「通知の洪水」に終止符を。オフラインで動く通知ファイアウォールで、本当に重要な通知だけを受け取る。

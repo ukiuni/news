@@ -8,7 +8,7 @@
   source_title: "MCP Servers Rarely Crash. That’s the Problem."
   source_id: 470227187
   excerpt: "落ちないサーバーが招く見えない劣化と実害を、監視改善とSLOで防ぐ具体策を解説"
-  ---
+---
 
 # MCP Servers Rarely Crash. That’s the Problem. - MCPサーバーは滅多にクラッシュしない。そこが問題だ
 見えない劣化が勝手に広がる：落ちないサーバーが招く「静かな故障」の正体

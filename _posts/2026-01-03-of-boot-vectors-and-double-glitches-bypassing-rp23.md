@@ -8,7 +8,7 @@
   source_title: "Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot"
   source_id: 46403062
   excerpt: "RP2350のブートベクタ改竄とダブルグリッチでセキュアブートとOTP秘密鍵が奪われる実証攻撃"
-  ---
+---
 
 # Of Boot Vectors and Double Glitches: Bypassing RP2350's Secure Boot - ブートベクタとダブルグリッチ：RP2350のセキュアブートを迂回する
 

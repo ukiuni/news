@@ -8,7 +8,7 @@
   source_title: "The Zero-Rent Architecture: Designing for the Swartland Farmer"
   source_id: 473088730
   excerpt: "ゼロ・レント設計で太陽光・LoRaWANと地域資源を活用し、維持費を極小化する自立農場"
-  ---
+---
 
 # The Zero-Rent Architecture: Designing for the Swartland Farmer - ゼロ・レント・アーキテクチャ：スワートランドの農家のための設計
 “家賃ゼロ”で現場が自走する──スワートランド発、低コスト・自立型アーキテクチャの実践ガイド

@@ -8,7 +8,7 @@
   source_title: "JeffGeerling.com has been Migrated to Hugo - Jeff Geerling"
   source_id: 46487498
   excerpt: "20年分のコンテンツを保ちつつDrupalからHugoへ移行し執筆に集中でき、運用負担を削減"
-  ---
+---
 
 # Jeffgeerling.com has been Migrated to Hugo - JeffGeerling.com は Hugo に移行されました
 20年分のコンテンツを捨てずに軽量化したい人へ — Drupal を離れて Hugo を選んだ理由と実践知

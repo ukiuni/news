@@ -8,7 +8,7 @@
   source_title: "Flock Decides Cops Can&#39;t Be Trusted with Cop Data | Have I Been Flocked"
   source_id: 473495981
   excerpt: "Flockが警察向け監査ログの識別情報を削除、透明性と契約を崩壊させる危機"
-  ---
+---
 
 # Flock Decides Cops Can't Be Trusted with Cop Data - フロックが「警察は警察データを信用できない」と判断
 監査ログが“不可侵”を失った日：自治体の監視データは誰のものか？

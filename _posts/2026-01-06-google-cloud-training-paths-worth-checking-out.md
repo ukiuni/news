@@ -8,7 +8,7 @@
   source_title: "Transform Your Workforce with Google Cloud Courses"
   source_id: 469646978
   excerpt: "役割別のハンズオン学習で即戦力化するGCP認定取得法を短期間で実践解説"
-  ---
+---
 
 # Google Cloud training paths worth checking out - Google Cloud のトレーニング経路（要チェック）
 クラウド人材を“変革”する：今すぐ始めたい実務直結のGoogle Cloud学習ロードマップ

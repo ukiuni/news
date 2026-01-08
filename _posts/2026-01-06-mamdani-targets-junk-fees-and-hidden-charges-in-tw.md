@@ -8,7 +8,7 @@
   source_title: "Mamdani Targets Junk Fees and Hidden Charges in Two Executive Orders"
   source_id: 46514059
   excerpt: "NY市長の行政命令がジャンク料金と解約阻害を封じ、サブスク設計を直ちに見直す必要を示す"
-  ---
+---
 
 # Mamdani Targets Junk Fees and Hidden Charges in Two Executive Orders - マムダニ氏が「ジャンク料金」や隠れた手数料を標的にする2つの大統領令
 ニューヨーク市長が「隠れコスト」に切り込み、日々の生活コストを下げるための即効策を打ち出した話を、テック視点で読み解く

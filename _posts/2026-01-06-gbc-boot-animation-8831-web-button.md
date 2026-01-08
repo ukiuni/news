@@ -8,7 +8,7 @@
   source_title: "GBC Boot Animation 88×31 Web Button | Zakhary&#39;s Home"
   source_id: 46507963
   excerpt: "Game Boy Colorの起動画面を88×31のレトロWebバッジに忠実移植する方法を実践解説"
-  ---
+---
 
 # GBC Boot Animation 88×31 Web Button - GBC ブートアニメーション 88×31 Web ボタン
 懐かしのGame Boy Color起動画面を88×31のレトロWebバッジに“丸ごと”移植する方法

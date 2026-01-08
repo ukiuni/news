@@ -8,7 +8,7 @@
   source_title: "Cold-blooded software"
   source_id: 46488261
   excerpt: "数年放置でも確実に動く冷血ソフトの設計原則と実践テクニックを具体例付きで解説"
-  ---
+---
 
 # Cold-Blooded Software - 冷血（コールドブラッド）なソフトウェア
 6年放置しても動くソフトを作る方法 ── “冷血”プロジェクトの哲学

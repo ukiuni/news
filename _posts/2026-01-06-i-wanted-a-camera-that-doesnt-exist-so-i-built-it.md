@@ -8,7 +8,7 @@
   source_title: "I wanted a camera that doesn't exist – so I built it"
   source_id: 46466843
   excerpt: "ライカ風外装にLumix G9ii中身を詰めた、失敗と学びの1年自作記"
-  ---
+---
 
 # I wanted a camera that doesn't exist – so I built it - 存在しないカメラが欲しかった――だから作った
 Leica風の外装にLumix G9iiの中身を詰めた、プログラマ出身の男が1年かけて「理想のカメラ」を自作した記録

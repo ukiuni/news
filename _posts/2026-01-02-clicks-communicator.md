@@ -8,7 +8,7 @@
   source_title: "Clicks Communicator: the ultimate communciation companion"
   source_id: 46467057
   excerpt: "物理キーボード×小型AMOLEDで長文作業を高速化する業務向けスマホ"
-  ---
+---
 
 # Clicks Communicator - Clicks Communicator（クリックス・コミュニケーター）
 物理キー×小型ディスプレイで「やること」に戻るスマホ──仕事効率を取り戻す新提案

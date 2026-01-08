@@ -8,7 +8,7 @@
   source_title: "Making sure you&#39;re not a bot!"
   source_id: 46471199
   excerpt: "ライブUSBで即試せる、2026年こそ日本向けに実用化したLinuxデスクトップの年だ"
-  ---
+---
 
 # 2026 will be my year of the Linux desktop - 2026年は私のLinuxデスクトップ元年
 あなたも「今年こそLinuxデスクトップ」を本気で試すべき理由 — 日本のワークフローにフィットする実践ガイド

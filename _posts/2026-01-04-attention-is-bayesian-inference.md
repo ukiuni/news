@@ -8,7 +8,7 @@
   source_title: "Attention Is Bayesian Inference"
   source_id: 46439064
   excerpt: "トランスフォーマーの注意は20の質問のようにベイズ推論で仮説分布を逐次更新し出力の確信度を形成する"
-  ---
+---
 
 # Attention Is Bayesian Inference - 注意はベイズ推論である
 驚愕の発見：トランスフォーマーは「20の質問」を実行していた — 注意機構はベイズ推論そのものだった

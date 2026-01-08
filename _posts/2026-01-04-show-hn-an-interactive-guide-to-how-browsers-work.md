@@ -8,7 +8,7 @@
   source_title: "How Browsers Work"
   source_id: 46488654
   excerpt: "対話式でURL入力から描画まで学び、表示遅延を即改善できるブラウザ内部の実践ガイド"
-  ---
+---
 
 # Show HN: An interactive guide to how browsers work - ブラウザの仕組みを対話式で学ぶガイド
 ブラウザの“黒箱”を可視化する──対話式で腑に落ちる内部動作ガイド

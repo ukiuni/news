@@ -8,7 +8,7 @@
   source_title: "Spherical Snake"
   source_id: 46451768
   excerpt: "球面上を滑るスネークで球面幾何と3D表現を簡単に学べるブラウザゲーム"
-  ---
+---
 
 # Spherical Snake - 球面スネーク
 球を滑る“スネーク”──平面を超えた単純ゲームが生む数学と3D表現の妙

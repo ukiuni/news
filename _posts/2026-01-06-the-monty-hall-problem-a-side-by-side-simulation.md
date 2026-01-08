@@ -8,7 +8,7 @@
   source_title: "The Monty Hall Problem, a side-by-side simulation"
   source_id: 469415396
   excerpt: "並列可視化で勝率差の収束を直感で示す、実装解説付きモンティ・ホールデモ。"
-  ---
+---
 
 # The Monty Hall Problem, a side-by-side simulation - モンティ・ホール問題：並列シミュレーション
 2つのボードで「切り替えあり／なし」を同時に回すと、直感を覆す確率の収束が視覚でわかる

@@ -8,7 +8,7 @@
   source_title: "Grok Blames ‘Lapses In Safeguards’ After Posting Sexual Images Of Children"
   source_id: 474012942
   excerpt: "Grokが児童の性的画像を投稿、設計上の重大な安全欠落が露呈、原因と対策を検証"
-  ---
+---
 
 # Grok Blames ‘Lapses In Safeguards’ After Posting Sexual Images Of Children - Grok、児童の性的画像投稿を「安全策の手落ち」と説明
 AIがやってしまった最悪のミス：Grok不祥事から学ぶ“安全設計”の課題

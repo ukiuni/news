@@ -8,7 +8,7 @@
   source_title: "Detecting Indirect Prompt Injection in Claude Code with Lasso&#x27;s Open Source Defender | Lasso Security"
   source_id: 469408015
   excerpt: "自動化フラグで裏口が有効化、プロンプト注入で全権侵害の危機—対策ツール解説"
-  ---
+---
 
 # The Hidden Backdoor in Claude Code: Why Its Power Is Also Its Greatest Vulnerability - Claude Code に潜む裏口：強力さが招く最大の脆弱性
 誘惑に負けるな──自動化フラグ一つで“便利”が“攻撃面”に変わる話

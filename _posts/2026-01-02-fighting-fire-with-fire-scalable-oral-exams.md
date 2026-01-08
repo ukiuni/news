@@ -8,7 +8,7 @@
   source_title: "Fighting Fire with Fire: Scalable Oral Exams with an ElevenLabs Voice AI Agent | A Computer Scientist in a Business School"
   source_id: 46467677
   excerpt: "AI音声＋LLM評議会で低コストかつ監査可能な口頭試験を実現"
-  ---
+---
 
 # Fighting Fire with Fire: Scalable Oral Exams - 口で答えさせる評価をスケールさせる方法
 AI音声エージェントが可能にした「安価で監査可能な口頭試験」の実践レポート

@@ -8,7 +8,7 @@
   source_title: "PostgreSQL Scripting Tips - Paul Gross’s Blog"
   source_id: 469412797
   excerpt: "psqlの\gset/\crosstabview/--echo-allで台帳処理を再現・可視化"
-  ---
+---
 
 # PostgreSQL Scripting Tips - PostgreSQL スクリプティングのヒント
 psqlで簡潔・再現性の高いSQLスクリプトを書くための実践テクニック3選（pgledgerの実例付き）

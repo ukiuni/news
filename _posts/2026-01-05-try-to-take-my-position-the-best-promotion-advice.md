@@ -8,7 +8,7 @@
   source_title: "Try to Take My Position: The Best Promotion Advice I Ever Got - AGY"
   source_id: 46466027
   excerpt: "上司の役割を先取りしRFCとデータで示して、6ヶ月で昇進を掴む具体戦略"
-  ---
+---
 
 # Try to take my position: The best promotion advice I ever got - 役割を奪ってみろ：私が受けた最高の昇進アドバイス
 今すぐ上司の仕事を“先取り”せよ――6ヶ月で昇進を現実にする「責任先行」戦略

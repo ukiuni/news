@@ -8,7 +8,7 @@
   source_title: "Reddit - The heart of the internet"
   source_id: 46461578
   excerpt: "元エンジニアが暴露、優先料や手数料で客と配達員が搾取される実態"
-  ---
+---
 
 # A confession from a mainstream food delivery app engineer - メジャーなフードデリバリーアプリのエンジニアからの告白
 「優先配達」は演出に過ぎない――元エンジニアが暴く、利用者もドライバーも知らない“仕組み”

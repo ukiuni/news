@@ -8,7 +8,7 @@
   source_title: "Application Development - Swift for Android"
   source_id: 472038985
   excerpt: "Swiftで宣言的に書いてAndroidネイティブUIを高速構築、iOS人材を活かす"
-  ---
+---
 
 # Native Android Application Development in Swift - SwiftでネイティブAndroidアプリ開発
 魅せるUIをSwiftでそのまま書ける――iOSエンジニアが慣れ親しんだ言語でAndroidをネイティブ開発できる時代が来た

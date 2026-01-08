@@ -8,7 +8,7 @@
   source_title: "Software craftsmanship is dead"
   source_id: 471659646
   excerpt: "速さ優先で腐った現場を再生する、技術負債返済と匠の復権論を実践的改善策で示す"
-  ---
+---
 
 # Software craftsmanship is dead - ソフトウェア職人技は死んだ
 速く作る文化が奪った「匠の心」を取り戻すための処方箋

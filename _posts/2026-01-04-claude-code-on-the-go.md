@@ -8,7 +8,7 @@
   source_title: "Claude Code On-The-Go - granda"
   source_id: 46491486
   excerpt: "スマホ＋クラウドでtmux/Claudeを動かし、通知で非同期開発を回す実践ガイド"
-  ---
+---
 
 # Claude Code On-the-Go - Claude Code モバイルで動かす
 通勤・隙間時間で「開発を回す」──スマホ + クラウドで実現する非同期コーディングの新常識

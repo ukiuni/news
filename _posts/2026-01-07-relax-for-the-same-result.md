@@ -8,7 +8,7 @@
   source_title: "Relax for the same result | Derek Sivers"
   source_id: 1644631076
   excerpt: "自転車の話から学ぶ、半分の力で同等成果を続ける働き方で疲れず生産性を高める"
-  ---
+---
 
 # Relax for the same result - 同じ結果なら力を抜け
 力を抜いてもほとんど変わらない――サンタモニカの自転車が示す「ほぼ同じ成果を、疲れずに出す方法」

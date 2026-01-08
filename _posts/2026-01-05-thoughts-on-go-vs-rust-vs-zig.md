@@ -8,7 +8,7 @@
   source_title: "Thoughts on Go vs. Rust vs. Zig | Sinclair Target"
   source_id: 470626368
   excerpt: "現場目線でGo（速く簡単）、Rust（安全高速）、Zig（低層制御）をどう選ぶか解説"
-  ---
+---
 
 # Thoughts on Go vs. Rust vs. Zig - Go vs Rust vs Zig に関する考察
 Go、Rust、Zig――現場で「どれを採るべきか」を価値観で見抜く

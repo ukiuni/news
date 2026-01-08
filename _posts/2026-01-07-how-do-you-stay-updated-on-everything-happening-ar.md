@@ -8,7 +8,7 @@
   source_title: "Sourcd - Your repo is exposed to things you're not tracking. v3"
   source_id: 470279616
   excerpt: "見落としを防ぐリポジトリ専用監視で依存や上流変更を検出、必要な対応だけ通知"
-  ---
+---
 
 # How do you stay updated on everything happening around your codebase? - コードベースを取り巻く変化をどう追うか
 見落としを防ぐ「リポジトリ専用の監視層」──Sourcdが届ける、あなたのコードに本当に必要な情報

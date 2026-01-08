@@ -8,7 +8,7 @@
   source_title: "Samsung Co-CEO Says Prices Might Rise, Including TVs and Home Appliances"
   source_id: 470398085
   excerpt: "サムスンCEO、テレビや家電の値上げ示唆—買い替えは今が得か？"
-  ---
+---
 
 # Samsung Co-CEO Says Prices Might Rise, Including TVs and Home Appliances - サムスン共同CEO「テレビや家電の価格が上昇する可能性がある」
 サムンが示唆する“家電値上げ”――次の買い時は今か、それとも待つべきか？

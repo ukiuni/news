@@ -8,7 +8,7 @@
   source_title: "I/O is no longer the bottleneck?"
   source_id: 46506994
   excerpt: "手作業SIMDで読み取り速度に迫るが、CPU最適化が現代ストレージの制約となる"
-  ---
+---
 
 # I/O is no longer the bottleneck? - I/Oはもはやボトルネックではないか?
 「ディスクが速くなった今、プログラムのボトルネックはCPUとアルゴリズムだ」——手作業でSIMDを入れたら何が変わったか

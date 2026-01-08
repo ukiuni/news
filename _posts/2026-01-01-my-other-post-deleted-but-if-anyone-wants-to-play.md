@@ -8,7 +8,7 @@
   source_title: "The Coding Problem - 3 problems. 3 languages. Everyday."
   source_id: 474859227
   excerpt: "毎日3問×3言語を20〜40分で解き、面接・実務力を効率的に鍛える"
-  ---
+---
 
 # My other post deleted but if anyone wants to play a daily coding game I found this - 他の投稿は削除されたが、毎日遊べるコーディングゲームを見つけた
 毎日3問×3言語で実力を磨く──忙しいエンジニアのための最短インターバルトレーニング

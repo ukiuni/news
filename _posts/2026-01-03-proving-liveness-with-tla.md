@@ -8,7 +8,7 @@
   source_title: "Proving liveness with TLA - Thomas Leonard's blog"
   source_id: 46471699
   excerpt: "TLA+/TLAPSで必ず起きることをXen vchan事例で実証する手順と回避策"
-  ---
+---
 
 # Proving Liveness with TLA - TLAで生存性（liveness）を証明する
 魅力的な日本語タイトル: TLA+で「必ず起きること」を証明する技術 — Xen vchanで学ぶ生存性の作法

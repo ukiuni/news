@@ -8,7 +8,7 @@
   source_title: "The case for Nushell"
   source_id: 46528142
   excerpt: "構造化データを直接扱い、混在環境で作業効率を飛躍的に高める新世代シェル"
-  ---
+---
 
 # The Case for Nushell (2023) - Nushellを推す理由 (2023)
 もう「テキストのパイプ」だけで終わらせない──Nushellでターミナルがデータツールに進化する理由

@@ -8,7 +8,7 @@
   source_title: "The 250,000+ Camera &quot;City-Wide&quot; Network | Have I Been Flocked"
   source_id: 472207127
   excerpt: "Flockのバグで257,806台が「ICE抑留」検索に—データ未閲覧と主張も州法違反の恐れ"
-  ---
+---
 
 # The 250,000+ Camera "City-Wide" Network: A bug in Flock's system swept 257,806 cameras into an "ICE detainer" search. Flock claims no data was accessed—but California, Illinois, and Virginia prohibit such searches regardless. - 25万台超の“市域”カメラネットワーク：Flockのバグで257,806台が「ICE抑留」検索に巻き込まれた。Flockはデータ未閲覧と主張—だが各州ではそのような検索が禁止されている
 

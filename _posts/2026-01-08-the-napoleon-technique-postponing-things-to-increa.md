@@ -8,7 +8,7 @@
   source_title: "The Napoleon Technique: Postponing Things to Increase Productivity"
   source_id: 46493785
   excerpt: "ナポレオン流の一定期間先送りで即レスを減らし、時間とチームの自律性を劇的に高める方法"
-  ---
+---
 
 # The Napoleon Technique: Postponing Things to Increase Productivity - ナポレオン流「先送り」生産性術
 「今すぐ対応しない」だけで、あなたの時間とチームの自律性が劇的に変わる理由

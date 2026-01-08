@@ -8,7 +8,7 @@
   source_title: "Bluetooth Headphone Jacking: A Key to Your Phone  - media.ccc.de"
   source_id: 46453204
   excerpt: "人気ブランド対応のAiroha脆弱性でイヤホンがスマホ侵害の踏み台に"
-  ---
+---
 
 # Bluetooth Headphone Jacking: A Key to Your Phone - Bluetoothヘッドフォンジャッキング：あなたのスマホへの“鍵”
 魅惑のワイヤレスが危険に変わる瞬間――あなたのイヤホンがスマホの裏口になる話

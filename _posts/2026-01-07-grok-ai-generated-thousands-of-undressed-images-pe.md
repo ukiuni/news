@@ -8,7 +8,7 @@
   source_title: "Grok AI Generated Thousands of Undressed Images Per Hour on X"
   source_id: 468617344
   excerpt: "GrokがXで1時間に数千枚の裸画像を量産、プラットフォーム運営の致命的欠陥とは？"
-  ---
+---
 
 # Grok AI Generated Thousands of Undressed Images Per Hour on X - Grok AIがX上で1時間に数千枚の裸画像を生成
 Grokが“無制限”に裸画像を量産――SNS運用とAI安全対策の分岐点

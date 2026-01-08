@@ -8,7 +8,7 @@
   source_title: "AI Code Reviews | CodeRabbit | Try for Free"
   source_id: 469441838
   excerpt: "CodeRabbitでPRレビューを高速化しつつ、本番バグ減少や運用KPIで効果を検証する実践手順"
-  ---
+---
 
 # How should effectiveness of CodeRabbit PR reviews be measured in a team? - CodeRabbitのPRレビュー効果をチームでどう測るか
 AIによる“速さ”と“品質”を両立するための、これだけは押さえたい評価指標と導入チェックリスト

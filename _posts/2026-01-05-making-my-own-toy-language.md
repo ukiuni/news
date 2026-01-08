@@ -8,7 +8,7 @@
   source_title: "karan@portfolio:~$ _"
   source_id: 470805369
   excerpt: "7日でREPLまで作れる！設計哲学から実装まで学ぶ自作トイ言語入門"
-  ---
+---
 
 # Making my own toy language. - 自作トイ言語を作る
 

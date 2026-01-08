@@ -8,7 +8,7 @@
   source_title: "Loongarch Improvements with Box64"
   source_id: 46514807
   excerpt: "Box64 v0.4.0でLoongArch上にSteam/Wine/Protonが実用域へ急接近"
-  ---
+---
 
 # Loongarch Improvements with Box64 - Loongarch向けBox64の改善
 LoongArchでSteamが動く？Box64 v0.4.0が切り拓く非x86ゲーミングの実用化

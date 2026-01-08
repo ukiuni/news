@@ -8,7 +8,7 @@
   source_title: "Instagram says in the age of AI, you can't assume what you see online is real"
   source_id: 472901575
   excerpt: "Instagramトップが警告：AI時代、合成画像で写真は証拠にならずまず検証を"
-  ---
+---
 
 # Instagram says in the age of AI, you can't assume what you see online is real - AI時代、オンラインで「見たもの」は本物だと限らない
 「目で見ても信じるな」──Instagramトップが示す、写真文化の“検証”への大転換

@@ -8,7 +8,7 @@
   source_title: "Don't Let the Grocery Store Scan Your Face: How to Stop Wegmans"
   source_id: 46535514
   excerpt: "Wegmansの顔認証を拒否し記録・通報で対抗する初心者向け実践ガイド"
-  ---
+---
 
 # Don't Let the Grocery Store Scan Your Face: How to Stop Wegmans - 食料品店に顔をスキャンさせるな：Wegmansの顔認証に対抗する方法
 

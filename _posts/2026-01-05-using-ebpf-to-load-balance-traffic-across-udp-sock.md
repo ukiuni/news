@@ -8,7 +8,7 @@
   source_title: "Using eBPF to load-balance traffic across UDP sockets with Go"
   source_id: 832749615
   excerpt: "eBPFでSO_REUSEPORTの偏りを解消しGoでUDPを均等負荷分散"
-  ---
+---
 
 # Using eBPF to load-balance traffic across UDP sockets with Go - eBPFでUDPソケット群の負荷分散を行う（Go版）
 魅惑の見出し: 「GoでUDP受信を劇的に改善するeBPFトリック — SO_REUSEPORTの弱点を破り、パケットロスを消す方法」

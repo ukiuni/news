@@ -8,7 +8,7 @@
   source_title: "Why Developer Expertise Matters More Than Ever in the Age of AI"
   source_id: 472228422
   excerpt: "AIが自動生成するコードを安全に運用し価値化するには、現場の設計力と熟練開発者の判断が不可欠だ"
-  ---
+---
 
 # Why Developer Expertise Matters More Than Ever in the Age of AI - AI時代にますます重要になる開発者の専門性
 AIがコードを書く今こそ輝く「現場の匠技」 — 単なるプロンプトでは代替できない価値とは

@@ -8,7 +8,7 @@
   source_title: "Project Patchouli Documentation"
   source_id: 46537489
   excerpt: "商用ペンが使える低遅延EMR描画タブレットをオープンソースで自作する方法を解説"
-  ---
+---
 
 # Project Patchouli: Open-source electromagnetic drawing tablet hardware - Project Patchouli：オープンソースEMR描画タブレットハードウェア
 商用ペンがそのまま使える！低遅延・オープンソースのEMRタブレットを自作する方法

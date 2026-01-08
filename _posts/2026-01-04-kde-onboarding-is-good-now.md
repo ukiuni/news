@@ -8,7 +8,7 @@
   source_title: "KDE onboarding is good now :: rabbiticTranslator"
   source_id: 1566559662
   excerpt: "ドキュメント刷新でKDE貢献が実際にビルドして動く入門ガイドに"
-  ---
+---
 
 # KDE onboarding is good now - KDE のオンボーディングは今や良好
 「KDE開発入門がついに快適に――ドキュメント整備で敷居が下がった理由と、今すぐ使える実践ガイド」

@@ -8,7 +8,7 @@
   source_title: "Jason Eckert&#39;s Website and Blog"
   source_id: 46521860
   excerpt: "Windows更新でSnapdragon開発キットが文鎮化、復旧手段ゼロの実例と回避策"
-  ---
+---
 
 # Microsoft probably killed my Snapdragon Dev Kit - Microsoftがおそらく私のSnapdragon開発キットを“殺した”
 Windowsアップデートで“燦然と輝いていた32GBのARM開発マシン”が突然起動不能に——開発キット廃棄の危機から学ぶ現場の教訓

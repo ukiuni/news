@@ -8,7 +8,7 @@
   source_title: "ReflexTap"
   source_id: 474895377
   excerpt: "0.2秒で決まる、ブラウザで高精度な反射測定ゲームの作り方を実践的に解説"
-  ---
+---
 
 # Small experiment with timing-based interactions in the browser - ブラウザでのタイミングベースのインタラクションに関する小さな実験
 0.2秒で勝負が決まる — ブラウザ上で反射神経を極限に挑む小さなゲームの技術と実装ポイント

@@ -8,7 +8,7 @@
   source_title: "npm to Implement Staged Publishing After Turbulent Shift Off..."
   source_id: 46530448
   excerpt: "npmがclassic token廃止の混乱受け段階公開導入、CIと供給網への影響を検討せよ"
-  ---
+---
 
 # NPM to implement staged publishing after turbulent shift off classic tokens - npm、従来トークン廃止の混乱を受けて段階的公開を導入へ
 npmが「公開の一時停止」を導入――サプライチェーン攻撃で露呈した運用の脆弱性に対する新しい防御策

@@ -8,7 +8,7 @@
   source_title: "GameStop Unveils $35 Billion Performance-Based Pay Plan for CEO Ryan Cohen"
   source_id: 468703405
   excerpt: "GameStopがコーエンCEOに約350億ドルの業績連動報酬を提示、成長賭けと株主対立の焦点に"
-  ---
+---
 
 # GameStop Unveils $35 Billion Performance-Based Pay Plan for CEO Ryan Cohen - GameStop、ライアン・コーエンCEOに対する350億ドルの業績連動報酬プラン発表
 リテール反撃の“勝負賭け”か、ガバナンスの試金石か — 350億ドルの報酬プランが示すもの

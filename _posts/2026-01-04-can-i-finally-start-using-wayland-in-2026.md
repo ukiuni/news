@@ -8,7 +8,7 @@
   source_title: "Can I finally start using Wayland in 2026?"
   source_id: 791174336
   excerpt: "2026年、WaylandはSwayやPipeWireで実用域に到達—NVIDIAやIMEは要検証。"
-  ---
+---
 
 # Can I finally start using Wayland in 2026? - 2026年にようやくWaylandを使い始められるか？
 Waylandで日常運用へ踏み切るべき今が来た？：SwayやPipeWireの進化で見えてきた“実用ライン”の現状解説

@@ -8,7 +8,7 @@
   source_title: "SPARK: Formal Verification and Proving Program Correctness in Ada"
   source_id: 470105583
   excerpt: "SPARKでAdaコードを数学的に証明しランタイム欠陥を根絶する実践入門"
-  ---
+---
 
 # SPARK: Formal Verification and Proving Program Correctness in Ada - SPARK：形式手法でAdaプログラムの正しさを証明する
 実行前に「ありえないバグ」を数学的に消し去る――実務で使えるSPARK入門

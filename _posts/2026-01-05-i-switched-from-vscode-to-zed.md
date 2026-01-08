@@ -8,7 +8,7 @@
   source_title: "I switched from VSCode to Zed"
   source_id: 46498735
   excerpt: "VSCodeの重さに疲れた人向け、軽快なZed移行とPython設定の実践ガイド"
-  ---
+---
 
 # I switched from VSCode to Zed - VSCodeからZedに乗り換えた話
 Zedで戻る「快適さ」──AI機能に疲れたエンジニアが選んだ軽快な代替案

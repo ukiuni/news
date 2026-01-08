@@ -8,7 +8,7 @@
   source_title: "Making sure you&#39;re not a bot!"
   source_id: 1514463217
   excerpt: "トランス旗が5コードポイントな理由と表示・処理で起きる落とし穴を簡潔解説"
-  ---
+---
 
 # why the trans flag emoji is the 5-codepoint sequence it is - トランス旗絵文字が5コードポイント列である理由
 トランス旗絵文字は「なぜ5つのコードポイントで作られているのか？」──Unicode設計と表示互換性の必然

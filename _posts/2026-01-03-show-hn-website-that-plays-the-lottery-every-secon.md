@@ -8,7 +8,7 @@
   source_title: "Lottery Every Second - Watch the Odds Fail in Real-Time"
   source_id: 46471171
   excerpt: "1秒ごとに宝くじ抽選を再現し確率の奇跡を可視化するデモサイト"
-  ---
+---
 
 # Show HN: Website that plays the lottery every second - 1秒ごとに宝くじを引くサイト
 「1秒ごとに宝くじが引かれるサイト」を覗いてみたくなるタイトル

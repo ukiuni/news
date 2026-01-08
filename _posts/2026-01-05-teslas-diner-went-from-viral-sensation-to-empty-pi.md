@@ -8,7 +8,7 @@
   source_title: "Tesla’s Diner Went From Viral Sensation to Empty Pit Stop in Six Months"
   source_id: 470092265
   excerpt: "テスラ風ダイナー、SNSで一躍話題→半年で閑散、バズを収益化できなかった理由とは？"
-  ---
+---
 
 # Tesla’s Diner Went From Viral Sensation to Empty Pit Stop in Six Months - テスラのダイナー、バズから閑散へ：わずか6カ月で起きたこと
 バズで満席、半年後はガラガラ──「インスタ映え」とリアル世界のギャップが教える、テックと実店舗の厳しい現実

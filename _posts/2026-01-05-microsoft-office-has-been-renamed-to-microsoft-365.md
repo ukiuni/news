@@ -8,7 +8,7 @@
   source_title: "The Microsoft 365 app transition to the Microsoft 365 Copilot app - Microsoft Support"
   source_id: 470188227
   excerpt: "Officeが「Microsoft 365 Copilot app」に改名、ライセンス対応が急務"
-  ---
+---
 
 # Microsoft Office has been renamed to “Microsoft 365 Copilot app” - 「Microsoft Office」が「Microsoft 365 Copilot app」に改名
 魅力的タイトル: AI時代の“窓口”が変わる — Officeが「Microsoft 365 Copilot app」へ、あなたの作業フローはどう影響を受けるか

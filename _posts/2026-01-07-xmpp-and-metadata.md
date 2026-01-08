@@ -8,7 +8,7 @@
   source_title: "XMPP and metadata"
   source_id: 1668204531
   excerpt: "本文暗号化でも送信元や参加情報が判別されるXMPPの脆弱と対策"
-  ---
+---
 
 # XMPP and metadata - XMPPとメタデータ
 あなたのチャットは「本文だけ」守られているか？XMPPのメタデータが暴く通信の実像と現実的な対策

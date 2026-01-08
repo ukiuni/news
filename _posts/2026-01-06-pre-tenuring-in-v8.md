@@ -8,7 +8,7 @@
   source_title: "pre-tenuring in v8 — wingolog"
   source_id: 469830753
   excerpt: "V8がAllocationSiteで長寿命割当を旧世代へ直接割当てGCコストを削減"
-  ---
+---
 
 # Pre-tenuring in V8 - V8における事前テニュアリング
 V8が「若くないオブジェクト」を見抜いて幼年期を飛ばす仕組み — GCの無駄を減らす“AllocationSite”の話

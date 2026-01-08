@@ -8,7 +8,7 @@
   source_title: "A Guide To NinjaScript - Part 3"
   source_id: 471344435
   excerpt: "チャート右下にティック毎で滑らかに残秒表示する実装手順と注意点を東京市場向けに解説。"
-  ---
+---
 
 # A Guide To NinjaScript - Part 3 - NinjaScriptガイド（パート3）
 チャート上に「あと何秒？」を常時表示する――NinjaScriptで作る正確で滑らかなバー・カウントダウン
