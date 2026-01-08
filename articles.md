@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/why-are-grok-and-x-still-available-in-app-stores/' | relative_url }}">why are grok and x still available in app stores</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/what-would-make-ocaml-serverless-ready/' | relative_url }}">what would make ocaml serverless ready</a></h3>
 </div>
 <div class="article-row">
@@ -69,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/template-deduction-the-hidden-copies-killing-your/' | relative_url }}">template deduction the hidden copies killing your</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/tech-blogging-lessons-learned/' | relative_url }}">tech blogging lessons learned</a></h3>
 </div>
 <div class="article-row">
@@ -81,7 +89,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/sql-studio/' | relative_url }}">sql studio</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/spotify-confirms-ice-recruitment-ads-are-no-longer/' | relative_url }}">spotify confirms ice recruitment ads are no longer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/sopro-tts-a-169m-model-with-zero-shot-voice-clonin/' | relative_url }}">sopro tts a 169m model with zero shot voice clonin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -266,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/embassy-modern-embedded-framework-using-rust-and-a/' | relative_url }}">embassy modern embedded framework using rust and a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/elon-musks-x-must-be-banned/' | relative_url }}">elon musks x must be banned</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
