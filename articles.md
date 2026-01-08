@@ -9,11 +9,35 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/wi-fi-8-is-appearing-at-ces-before-most-of-us-have/' | relative_url }}">wi fi 8 is appearing at ces before most of us have</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/the-q-k-v-matrices/' | relative_url }}">the q k v matrices</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/solo-asic-tapeout-on-a-budget-detailed-write-up/' | relative_url }}">solo asic tapeout on a budget detailed write up</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/practical-collision-attack-against-long-key-ids-in/' | relative_url }}">practical collision attack against long key ids in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/play-aardwolf-mud/' | relative_url }}">play aardwolf mud</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/nvidias-jensen-huang-would-have-to-pay-about-8-bil/' | relative_url }}">nvidias jensen huang would have to pay about 8 bil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/musashi-motorola-680x0-emulator-written-in-c/' | relative_url }}">musashi motorola 680x0 emulator written in c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/dont-let-the-grocery-store-scan-your-face-how-to-s/' | relative_url }}">dont let the grocery store scan your face how to s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
