@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/vibector-detect-ai-generated-code-in-git-repositor/' | relative_url }}">vibector detect ai generated code in git repositor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/the-virtual-amigaos-runtime-aka-wine-for-amiga/' | relative_url }}">the virtual amigaos runtime aka wine for amiga</a></h3>
 </div>
 <div class="article-row">
@@ -53,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/tailwind-just-laid-off-75-of-their-engineering-tea/' | relative_url }}">tailwind just laid off 75 of their engineering tea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/sonos-smapi-developer-program-my-worst-integration/' | relative_url }}">sonos smapi developer program my worst integration</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/show-hn-deepdream-for-video-with-temporal-consiste/' | relative_url }}">show hn deepdream for video with temporal consiste</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/show-hn-a-daily-bible-game/' | relative_url }}">show hn a daily bible game</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -90,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/per-query-energy-consumption-of-llms/' | relative_url }}">per query energy consumption of llms</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/optimizing-json-for-llms/' | relative_url }}">optimizing json for llms</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -133,11 +149,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/japanese-electronics-store-pleads-for-old-pcs-amid/' | relative_url }}">japanese electronics store pleads for old pcs amid</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/i-built-a-zero-trust-linter-for-ai-generated-code/' | relative_url }}">i built a zero trust linter for ai generated code</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/how-should-effectiveness-of-coderabbit-pr-reviews/' | relative_url }}">how should effectiveness of coderabbit pr reviews</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/how-i-program-in-awk/' | relative_url }}">how i program in awk</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -189,7 +213,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/dialogue-between-a-developer-and-a-kid/' | relative_url }}">dialogue between a developer and a kid</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/clippy-the-movement-of-2025-to-protest-against-ai/' | relative_url }}">clippy the movement of 2025 to protest against ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/china-hacked-email-systems-of-us-congressional-com/' | relative_url }}">china hacked email systems of us congressional com</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -197,7 +229,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/bose-is-open-sourcing-its-old-smart-speakers-inste/' | relative_url }}">bose is open sourcing its old smart speakers inste</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/anyone-have-experiences-with-audio-induction-loops/' | relative_url }}">anyone have experiences with audio induction loops</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/an-honest-review-of-go/' | relative_url }}">an honest review of go</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -206,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/ai-is-still-easy-to-trick-katharine-jarmul/' | relative_url }}">ai is still easy to trick katharine jarmul</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/ai-coding-assistants-are-getting-worse/' | relative_url }}">ai coding assistants are getting worse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
