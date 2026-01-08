@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/linus-torvalds-the-ai-slop-issue-is-not-going-to-b/' | relative_url }}">linus torvalds the ai slop issue is not going to b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/leaked-meta-documents-reveal-ai-was-permitted-to-f/' | relative_url }}">leaked meta documents reveal ai was permitted to f</a></h3>
 </div>
 <div class="article-row">
@@ -105,7 +109,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/grok-is-generating-sexual-content-far-more-graphic/' | relative_url }}">grok is generating sexual content far more graphic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/fun-with-algebraic-effects-from-toy-examples-to-ha/' | relative_url }}">fun with algebraic effects from toy examples to ha</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/freebsd-home-nas-part-8-backing-up-nfs-and-samba-d/' | relative_url }}">freebsd home nas part 8 backing up nfs and samba d</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
