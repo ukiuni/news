@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/per-query-energy-consumption-of-llms/' | relative_url }}">per query energy consumption of llms</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/openai-must-turn-over-20-million-chatgpt-logs-judg/' | relative_url }}">openai must turn over 20 million chatgpt logs judg</a></h3>
 </div>
 <div class="article-row">
@@ -85,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/lights-and-shadows/' | relative_url }}">lights and shadows</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/leaked-meta-documents-reveal-ai-was-permitted-to-f/' | relative_url }}">leaked meta documents reveal ai was permitted to f</a></h3>
 </div>
 <div class="article-row">
@@ -105,7 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/how-do-you-calculate-the-efficiency-of-an-algorith/' | relative_url }}">how do you calculate the efficiency of an algorith</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/how-did-tvs-get-so-cheap/' | relative_url }}">how did tvs get so cheap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/how-dependabot-works/' | relative_url }}">how dependabot works</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/gta-6-insider-fears-another-delay-and-claims-rocks/' | relative_url }}">gta 6 insider fears another delay and claims rocks</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -146,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/ai-misses-nearly-one-third-of-breast-cancers-study/' | relative_url }}">ai misses nearly one third of breast cancers study</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/ai-is-still-easy-to-trick-katharine-jarmul/' | relative_url }}">ai is still easy to trick katharine jarmul</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
