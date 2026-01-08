@@ -209,11 +209,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/iran-protest-map/' | relative_url }}">iran protest map</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/iran-goes-into-ipv6-blackout/' | relative_url }}">iran goes into ipv6 blackout</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/ices-tool-to-monitor-phones-in-neighborhoods/' | relative_url }}">ices tool to monitor phones in neighborhoods</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/ice-is-going-on-a-surveillance-shopping-spree/' | relative_url }}">ice is going on a surveillance shopping spree</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -374,6 +382,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/a-new-worst-coder-has-entered-the-chat-vibe-coding/' | relative_url }}">a new worst coder has entered the chat vibe coding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/a-data-model-for-git/' | relative_url }}">a data model for git</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
