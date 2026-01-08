@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/what-happened-to-webassembly/' | relative_url }}">what happened to webassembly</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/the-virtual-amigaos-runtime-aka-wine-for-amiga/' | relative_url }}">the virtual amigaos runtime aka wine for amiga</a></h3>
 </div>
 <div class="article-row">
@@ -49,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/show-hn-deepdream-for-video-with-temporal-consiste/' | relative_url }}">show hn deepdream for video with temporal consiste</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/project-patchouli-open-source-electromagnetic-draw/' | relative_url }}">project patchouli open source electromagnetic draw</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/play-aardwolf-mud/' | relative_url }}">play aardwolf mud</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/pg-status-a-lightweight-microservice-for-checking/' | relative_url }}">pg status a lightweight microservice for checking</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -154,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/do-standups-and-retros-actually-surface-real-bottl/' | relative_url }}">do standups and retros actually surface real bottl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/clippy-the-movement-of-2025-to-protest-against-ai/' | relative_url }}">clippy the movement of 2025 to protest against ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
