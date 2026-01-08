@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/the-napoleon-technique-postponing-things-to-increa/' | relative_url }}">the napoleon technique postponing things to increa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/solo-asic-tapeout-on-a-budget-detailed-write-up/' | relative_url }}">solo asic tapeout on a budget detailed write up</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/embassy-modern-embedded-framework-using-rust-and-a/' | relative_url }}">embassy modern embedded framework using rust and a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/dont-let-the-grocery-store-scan-your-face-how-to-s/' | relative_url }}">dont let the grocery store scan your face how to s</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +94,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/chase-to-become-new-issuer-of-apple-card/' | relative_url }}">chase to become new issuer of apple card</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/ai-misses-nearly-one-third-of-breast-cancers-study/' | relative_url }}">ai misses nearly one third of breast cancers study</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/a-closer-look-at-a-bgp-anomaly-in-venezuela/' | relative_url }}">a closer look at a bgp anomaly in venezuela</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/5-fun-amp-handy-curl-command-line-tricks-you-shoul/' | relative_url }}">5 fun amp handy curl command line tricks you shoul</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/07</span>
