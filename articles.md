@@ -33,7 +33,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/the-price-of-fame-mortality-risk-among-famous-sing/' | relative_url }}">the price of fame mortality risk among famous sing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/the-napoleon-technique-postponing-things-to-increa/' | relative_url }}">the napoleon technique postponing things to increa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/the-jeff-dean-facts/' | relative_url }}">the jeff dean facts</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -54,6 +62,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/show-hn-deepdream-for-video-with-temporal-consiste/' | relative_url }}">show hn deepdream for video with temporal consiste</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/sakila25-updated-classic-sakila-database-with-2025/' | relative_url }}">sakila25 updated classic sakila database with 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/python-typing-survey-2025-code-quality-and-flexibi/' | relative_url }}">python typing survey 2025 code quality and flexibi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -154,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/flutter-ecs-testing-strategies-that-actually-work/' | relative_url }}">flutter ecs testing strategies that actually work</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/everything-you-might-have-missed-in-java-in-2025/' | relative_url }}">everything you might have missed in java in 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
