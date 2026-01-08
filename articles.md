@@ -29,11 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/ushikuvirus-newly-discovered-virus-may-offer-clues/' | relative_url }}">ushikuvirus newly discovered virus may offer clues</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/tiktok-deletes-polish-far-right-leaders-videos-fol/' | relative_url }}">tiktok deletes polish far right leaders videos fol</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/the-virtual-amigaos-runtime-aka-wine-for-amiga/' | relative_url }}">the virtual amigaos runtime aka wine for amiga</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/the-unreasonable-effectiveness-of-the-fourier-tran/' | relative_url }}">the unreasonable effectiveness of the fourier tran</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
@@ -201,6 +209,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/how-to-code-claude-code-in-200-lines-of-code/' | relative_url }}">how to code claude code in 200 lines of code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/how-should-effectiveness-of-coderabbit-pr-reviews/' | relative_url }}">how should effectiveness of coderabbit pr reviews</a></h3>
 </div>
 <div class="article-row">
@@ -269,6 +281,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/disgraceful-prime-minister-keir-starmer-slams-grok/' | relative_url }}">disgraceful prime minister keir starmer slams grok</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/digital-red-queen-adversarial-program-evolution-in/' | relative_url }}">digital red queen adversarial program evolution in</a></h3>
 </div>
 <div class="article-row">
@@ -282,6 +298,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/clippy-the-movement-of-2025-to-protest-against-ai/' | relative_url }}">clippy the movement of 2025 to protest against ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/08</span>
+  <h3><a href="{{ '/2026/01/08/clang-hardening-cheat-sheet-ten-years-later/' | relative_url }}">clang hardening cheat sheet ten years later</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
