@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/war-security-wants-updates-devs-want-builds-that-w/' | relative_url }}">war security wants updates devs want builds that w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/the-no-fakes-act-has-a-fingerprinting-trap-that-ki/' | relative_url }}">the no fakes act has a fingerprinting trap that ki</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/show-hn-macos-menu-bar-app-to-track-claude-usage-i/' | relative_url }}">show hn macos menu bar app to track claude usage i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/samba-was-written-2003/' | relative_url }}">samba was written 2003</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -93,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/italy-fines-cloudflare-14-million-for-refusing-to/' | relative_url }}">italy fines cloudflare 14 million for refusing to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/internet-collapses-in-iran-amid-protests-over-econ/' | relative_url }}">internet collapses in iran amid protests over econ</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +114,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/html-parsers-in-portland/' | relative_url }}">html parsers in portland</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/how-wolves-became-dogs/' | relative_url }}">how wolves became dogs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/how-hackers-are-fighting-back-against-ice/' | relative_url }}">how hackers are fighting back against ice</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
