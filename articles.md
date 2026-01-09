@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/we-still-debug-like-its-the-1980s/' | relative_url }}">we still debug like its the 1980s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/we-might-have-been-slower-to-abandon-stack-overflo/' | relative_url }}">we might have been slower to abandon stack overflo</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/photographing-the-hidden-world-of-slime-mould/' | relative_url }}">photographing the hidden world of slime mould</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/open-receipt-format-orf-an-open-payment-agnostic-s/' | relative_url }}">open receipt format orf an open payment agnostic s</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/mathematics-for-computer-science-2018-pdf/' | relative_url }}">mathematics for computer science 2018 pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/linux-runs-on-raspberry-pi-rp2350s-hazard3-risc-v/' | relative_url }}">linux runs on raspberry pi rp2350s hazard3 risc v</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
