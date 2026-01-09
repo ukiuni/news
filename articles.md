@@ -9,7 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/what-makes-a-good-tech-meet-up/' | relative_url }}">what makes a good tech meet up</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/we-might-have-been-slower-to-abandon-stack-overflo/' | relative_url }}">we might have been slower to abandon stack overflo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/testing-fundamentals-i-wish-i-understood-earlier-a/' | relative_url }}">testing fundamentals i wish i understood earlier a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/show-hn-macos-menu-bar-app-to-track-claude-usage-i/' | relative_url }}">show hn macos menu bar app to track claude usage i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
