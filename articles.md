@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/surveillance-watch-a-map-that-shows-connections-be/' | relative_url }}">surveillance watch a map that shows connections be</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/show-hn-macos-menu-bar-app-to-track-claude-usage-i/' | relative_url }}">show hn macos menu bar app to track claude usage i</a></h3>
 </div>
 <div class="article-row">
@@ -81,7 +85,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/grok-turns-off-image-generator-for-most-users-afte/' | relative_url }}">grok turns off image generator for most users afte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/former-google-ceo-eric-schmidt-accused-of-rape-sur/' | relative_url }}">former google ceo eric schmidt accused of rape sur</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/european-commission-issues-call-for-evidence-on-op/' | relative_url }}">european commission issues call for evidence on op</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/doing-binary-search-right-is-harder-than-you-might/' | relative_url }}">doing binary search right is harder than you might</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
