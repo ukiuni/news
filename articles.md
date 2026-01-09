@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/the-no-fakes-act-has-a-fingerprinting-trap-that-ki/' | relative_url }}">the no fakes act has a fingerprinting trap that ki</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/testing-fundamentals-i-wish-i-understood-earlier-a/' | relative_url }}">testing fundamentals i wish i understood earlier a</a></h3>
 </div>
 <div class="article-row">
