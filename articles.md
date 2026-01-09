@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/why-are-mobile-apps-not-asking-for-consent-for-ana/' | relative_url }}">why are mobile apps not asking for consent for ana</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/what-makes-a-good-tech-meet-up/' | relative_url }}">what makes a good tech meet up</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/my-c-compiler-just-wrote-its-own-fan-fiction-infer/' | relative_url }}">my c compiler just wrote its own fan fiction infer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/mcp-is-a-fad/' | relative_url }}">mcp is a fad</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
