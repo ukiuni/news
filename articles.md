@@ -41,11 +41,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/remote-job/' | relative_url }}">remote job</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/pole-of-inaccessibility/' | relative_url }}">pole of inaccessibility</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/open-receipt-format-orf-an-open-payment-agnostic-s/' | relative_url }}">open receipt format orf an open payment agnostic s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/internet-collapses-in-iran-amid-protests-over-econ/' | relative_url }}">internet collapses in iran amid protests over econ</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/i-hacked-casio-f-91w-digital-watch/' | relative_url }}">i hacked casio f 91w digital watch</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -54,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/anti-cheat-evolution-in-windows-11/' | relative_url }}">anti cheat evolution in windows 11</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/anthropic-blocks-third-party-use-of-claude-code-su/' | relative_url }}">anthropic blocks third party use of claude code su</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
