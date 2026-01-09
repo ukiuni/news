@@ -141,6 +141,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/senators-urged-apple-and-google-to-remove-x-and-gr/' | relative_url }}">senators urged apple and google to remove x and gr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/scientists-discover-oldest-poison-on-60k-year-old/' | relative_url }}">scientists discover oldest poison on 60k year old</a></h3>
 </div>
 <div class="article-row">
@@ -177,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/production-bugs-dont-behave-like-local-bugs/' | relative_url }}">production bugs dont behave like local bugs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/pole-of-inaccessibility/' | relative_url }}">pole of inaccessibility</a></h3>
 </div>
 <div class="article-row">
@@ -202,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/my-c-compiler-just-wrote-its-own-fan-fiction-infer/' | relative_url }}">my c compiler just wrote its own fan fiction infer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/most-css-layout-bugs-are-unit-bugs/' | relative_url }}">most css layout bugs are unit bugs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -354,6 +366,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/ai-pcs-arent-selling-and-microsofts-pc-partners-ar/' | relative_url }}">ai pcs arent selling and microsofts pc partners ar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/a-very-short-introduction-to-secure-coding-with-la/' | relative_url }}">a very short introduction to secure coding with la</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
