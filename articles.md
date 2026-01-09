@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/video-filmed-by-ice-agent-who-shot-minneapolis-wom/' | relative_url }}">video filmed by ice agent who shot minneapolis wom</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/us-senators-from-the-democratic-party-urge-apple-a/' | relative_url }}">us senators from the democratic party urge apple a</a></h3>
 </div>
 <div class="article-row">
@@ -141,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/rtx-5090-and-raspberry-pi-can-it-game/' | relative_url }}">rtx 5090 and raspberry pi can it game</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/richard-d-james-aka-aphex-twin-speaks-to-tatsuya-t/' | relative_url }}">richard d james aka aphex twin speaks to tatsuya t</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +158,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/remote-job/' | relative_url }}">remote job</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/qtnat-open-you-port-with-qt-upnp/' | relative_url }}">qtnat open you port with qt upnp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/prompting-101-show-dont-tell/' | relative_url }}">prompting 101 show dont tell</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -253,11 +269,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/how-do-you-build-a-mental-model-of-a-large-unfamil/' | relative_url }}">how do you build a mental model of a large unfamil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/grok-turns-off-image-generator-for-most-users-afte/' | relative_url }}">grok turns off image generator for most users afte</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/former-google-ceo-eric-schmidt-accused-of-rape-sur/' | relative_url }}">former google ceo eric schmidt accused of rape sur</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/exercise-can-be-nearly-as-effective-as-therapy-for/' | relative_url }}">exercise can be nearly as effective as therapy for</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -274,6 +298,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/democrats-ask-apple-and-google-to-remove-xs-undres/' | relative_url }}">democrats ask apple and google to remove xs undres</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/cosmic-rundown-how-developers-think-about-creativi/' | relative_url }}">cosmic rundown how developers think about creativi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
