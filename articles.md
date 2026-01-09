@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/why-i-left-inaturalist/' | relative_url }}">why i left inaturalist</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/what-makes-a-good-tech-meet-up/' | relative_url }}">what makes a good tech meet up</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/pole-of-inaccessibility/' | relative_url }}">pole of inaccessibility</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/former-google-ceo-eric-schmidt-accused-of-rape-sur/' | relative_url }}">former google ceo eric schmidt accused of rape sur</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
