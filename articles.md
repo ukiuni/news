@@ -8,6 +8,18 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/testing-fundamentals-i-wish-i-understood-earlier-a/' | relative_url }}">testing fundamentals i wish i understood earlier a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/richard-d-james-aka-aphex-twin-speaks-to-tatsuya-t/' | relative_url }}">richard d james aka aphex twin speaks to tatsuya t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/pole-of-inaccessibility/' | relative_url }}">pole of inaccessibility</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/08</span>
   <h3><a href="{{ '/2026/01/08/wi-fi-8-is-appearing-at-ces-before-most-of-us-have/' | relative_url }}">wi fi 8 is appearing at ces before most of us have</a></h3>
 </div>
