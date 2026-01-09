@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/mathematics-for-computer-science-2018-pdf/' | relative_url }}">mathematics for computer science 2018 pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/internet-collapses-in-iran-amid-protests-over-econ/' | relative_url }}">internet collapses in iran amid protests over econ</a></h3>
 </div>
 <div class="article-row">
