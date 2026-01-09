@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/worst-in-show-ces-products-include-ai-refrigerator/' | relative_url }}">worst in show ces products include ai refrigerator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/why-semver-fails-when-you-patch-old-versions-and-w/' | relative_url }}">why semver fails when you patch old versions and w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/why-i-left-inaturalist/' | relative_url }}">why i left inaturalist</a></h3>
 </div>
 <div class="article-row">
@@ -37,7 +45,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/internet-collapses-in-iran-amid-protests-over-econ/' | relative_url }}">internet collapses in iran amid protests over econ</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/former-google-ceo-eric-schmidt-accused-of-rape-sur/' | relative_url }}">former google ceo eric schmidt accused of rape sur</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/anti-cheat-evolution-in-windows-11/' | relative_url }}">anti cheat evolution in windows 11</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/08</span>
