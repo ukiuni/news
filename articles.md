@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/which-programming-languages-are-most-token-efficie/' | relative_url }}">which programming languages are most token efficie</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/when-kitty-litter-caused-a-nuclear-catastrophe/' | relative_url }}">when kitty litter caused a nuclear catastrophe</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/the-vietnam-government-has-banned-rooted-phones-fr/' | relative_url }}">the vietnam government has banned rooted phones fr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/the-no-fakes-act-has-a-fingerprinting-trap-that-ki/' | relative_url }}">the no fakes act has a fingerprinting trap that ki</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/show-hn-macos-menu-bar-app-to-track-claude-usage-i/' | relative_url }}">show hn macos menu bar app to track claude usage i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/show-hn-i-made-a-memory-game-to-teach-you-to-play/' | relative_url }}">show hn i made a memory game to teach you to play</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -122,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/people-who-come-off-slimming-jabs-regain-weight-fo/' | relative_url }}">people who come off slimming jabs regain weight fo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/paramount-tells-lawmakers-that-netflix-wbd-merger/' | relative_url }}">paramount tells lawmakers that netflix wbd merger</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -221,7 +237,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/democrats-ask-apple-and-google-to-remove-xs-undres/' | relative_url }}">democrats ask apple and google to remove xs undres</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/celeste-towerfall-physics/' | relative_url }}">celeste towerfall physics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/boring-systems-earn-trust/' | relative_url }}">boring systems earn trust</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -230,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/anthropic-blocks-third-party-use-of-claude-code-su/' | relative_url }}">anthropic blocks third party use of claude code su</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/an-interface-is-a-set-of-functions/' | relative_url }}">an interface is a set of functions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
