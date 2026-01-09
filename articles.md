@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/youtubes-updated-filters-are-good-news-for-anyone/' | relative_url }}">youtubes updated filters are good news for anyone</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/you-probably-dont-need-oh-my-zsh/' | relative_url }}">you probably dont need oh my zsh</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/war-security-wants-updates-devs-want-builds-that-w/' | relative_url }}">war security wants updates devs want builds that w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/they-saw-a-protest-cognitive-illiberalism-and-the/' | relative_url }}">they saw a protest cognitive illiberalism and the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -153,6 +161,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/lego-announces-smart-brick-the-most-significant-ev/' | relative_url }}">lego announces smart brick the most significant ev</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/kagi-releases-alpha-version-of-orion-for-linux/' | relative_url }}">kagi releases alpha version of orion for linux</a></h3>
 </div>
 <div class="article-row">
@@ -206,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/do-not-mistake-a-resilient-global-economy-for-popu/' | relative_url }}">do not mistake a resilient global economy for popu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/celeste-towerfall-physics/' | relative_url }}">celeste towerfall physics</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
