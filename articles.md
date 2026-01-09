@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/us-senators-from-the-democratic-party-urge-apple-a/' | relative_url }}">us senators from the democratic party urge apple a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/they-saw-a-protest-cognitive-illiberalism-and-the/' | relative_url }}">they saw a protest cognitive illiberalism and the</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/the-no-fakes-act-has-a-fingerprinting-trap-that-ki/' | relative_url }}">the no fakes act has a fingerprinting trap that ki</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/the-likely-cheapest-home-made-michelson-interferom/' | relative_url }}">the likely cheapest home made michelson interferom</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -97,6 +105,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/show-hn-scroll-wikipedia-like-tiktok/' | relative_url }}">show hn scroll wikipedia like tiktok</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/show-hn-rocket-launch-and-orbit-simulator/' | relative_url }}">show hn rocket launch and orbit simulator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/show-hn-macos-menu-bar-app-to-track-claude-usage-i/' | relative_url }}">show hn macos menu bar app to track claude usage i</a></h3>
 </div>
 <div class="article-row">
@@ -105,7 +121,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/show-hn-euconform-offline-first-eu-ai-act-complian/' | relative_url }}">show hn euconform offline first eu ai act complian</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/shell-scripts/' | relative_url }}">shell scripts</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/scientists-discover-oldest-poison-on-60k-year-old/' | relative_url }}">scientists discover oldest poison on 60k year old</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -186,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/kagi-releases-alpha-version-of-orion-for-linux/' | relative_url }}">kagi releases alpha version of orion for linux</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/javascript-demos-in-140-characters/' | relative_url }}">javascript demos in 140 characters</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
