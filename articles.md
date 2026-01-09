@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/you-probably-dont-need-oh-my-zsh/' | relative_url }}">you probably dont need oh my zsh</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/worst-in-show-ces-products-include-ai-refrigerator/' | relative_url }}">worst in show ces products include ai refrigerator</a></h3>
 </div>
 <div class="article-row">
@@ -22,6 +26,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/why-are-mobile-apps-not-asking-for-consent-for-ana/' | relative_url }}">why are mobile apps not asking for consent for ana</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/when-is-a-side-project-worth-committing-to/' | relative_url }}">when is a side project worth committing to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -53,11 +61,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/sorted-string-tables-sst-from-first-principles/' | relative_url }}">sorted string tables sst from first principles</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/show-hn-macos-menu-bar-app-to-track-claude-usage-i/' | relative_url }}">show hn macos menu bar app to track claude usage i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/shell-scripts/' | relative_url }}">shell scripts</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/samba-was-written-2003/' | relative_url }}">samba was written 2003</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/run-your-project-in-a-dev-container-in-zed/' | relative_url }}">run your project in a dev container in zed</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -74,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/photographing-the-hidden-world-of-slime-mould/' | relative_url }}">photographing the hidden world of slime mould</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/people-who-come-off-slimming-jabs-regain-weight-fo/' | relative_url }}">people who come off slimming jabs regain weight fo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
@@ -97,7 +121,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/magicall-end-to-end-encrypted-videoconferencing-in/' | relative_url }}">magicall end to end encrypted videoconferencing in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/linux-runs-on-raspberry-pi-rp2350s-hazard3-risc-v/' | relative_url }}">linux runs on raspberry pi rp2350s hazard3 risc v</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/limiting-grok-ai-image-edits-to-paid-users-insulti/' | relative_url }}">limiting grok ai image edits to paid users insulti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/09</span>
+  <h3><a href="{{ '/2026/01/09/kagi-releases-alpha-version-of-orion-for-linux/' | relative_url }}">kagi releases alpha version of orion for linux</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
