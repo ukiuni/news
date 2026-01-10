@@ -17,11 +17,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/why-is-greenland-part-of-the-kingdom-of-denmark-a/' | relative_url }}">why is greenland part of the kingdom of denmark a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/whats-coming-with-langchainjs-and-gemini/' | relative_url }}">whats coming with langchainjs and gemini</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/we-open-sourced-our-api-governance-tool-after-hitt/' | relative_url }}">we open sourced our api governance tool after hitt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -69,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/researchers-extract-up-to-96-of-harry-potter-word/' | relative_url }}">researchers extract up to 96 of harry potter word</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/replit-boss-ceos-can-vibe-code-their-own-prototype/' | relative_url }}">replit boss ceos can vibe code their own prototype</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/org-mode-syntax-is-one-of-the-most-reasonable-mark/' | relative_url }}">org mode syntax is one of the most reasonable mark</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/open-chaos-a-self-evolving-open-source-project/' | relative_url }}">open chaos a self evolving open source project</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -118,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/java-gives-a-status-update-about-new-language-feat/' | relative_url }}">java gives a status update about new language feat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/i-replaced-windows-with-linux-and-everythings-goin/' | relative_url }}">i replaced windows with linux and everythings goin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
