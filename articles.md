@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/tag-proposal-logic-lang/' | relative_url }}">tag proposal logic lang</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/start-your-meetings-at-5-minutes-past/' | relative_url }}">start your meetings at 5 minutes past</a></h3>
 </div>
 <div class="article-row">
