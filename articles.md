@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/worst-of-breed-software/' | relative_url }}">worst of breed software</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/why-is-greenland-part-of-the-kingdom-of-denmark-a/' | relative_url }}">why is greenland part of the kingdom of denmark a</a></h3>
 </div>
 <div class="article-row">
@@ -242,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/free-speech-union-hacked-by-trans-activists-exposi/' | relative_url }}">free speech union hacked by trans activists exposi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/flow-a-keyboard-first-kanban-board-in-the-terminal/' | relative_url }}">flow a keyboard first kanban board in the terminal</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
