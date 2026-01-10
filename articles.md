@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/ukraines-top-general-says-that-drones-are-now-taki/' | relative_url }}">ukraines top general says that drones are now taki</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/uk-government-exempting-itself-from-cyber-law-insp/' | relative_url }}">uk government exempting itself from cyber law insp</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/pre-populating-caches-is-a-bolt-on-cache-optimizat/' | relative_url }}">pre populating caches is a bolt on cache optimizat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/pebble-round-2/' | relative_url }}">pebble round 2</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -213,6 +221,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/drones-that-recharge-directly-on-transmission-line/' | relative_url }}">drones that recharge directly on transmission line</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/diving-into-qualcomms-upcoming-adreno-x2-gpu-with/' | relative_url }}">diving into qualcomms upcoming adreno x2 gpu with</a></h3>
 </div>
 <div class="article-row">
@@ -222,6 +234,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/continuous-snapshotting-filesystem/' | relative_url }}">continuous snapshotting filesystem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/code-is-cheap-now-software-isnt/' | relative_url }}">code is cheap now software isnt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -242,6 +258,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/alien-braun-aromaster-kf-20-coffee-makers-2012/' | relative_url }}">alien braun aromaster kf 20 coffee makers 2012</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/ai-layoffs-are-looking-more-and-more-like-corporat/' | relative_url }}">ai layoffs are looking more and more like corporat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
