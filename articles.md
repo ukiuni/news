@@ -65,6 +65,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/the-linux-audio-stack-demystified2024/' | relative_url }}">the linux audio stack demystified2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/the-8-ways-that-all-the-elements-in-the-universe-a/' | relative_url }}">the 8 ways that all the elements in the universe a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/the-1mb-password-crashing-backends-via-hashing-exh/' | relative_url }}">the 1mb password crashing backends via hashing exh</a></h3>
 </div>
 <div class="article-row">
@@ -81,7 +89,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/spotify-confirms-ice-recruitment-ads-are-no-longer/' | relative_url }}">spotify confirms ice recruitment ads are no longer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/side-by-side-comparison-of-how-ai-models-answer-mo/' | relative_url }}">side by side comparison of how ai models answer mo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/show-hn-play-poker-with-llms-or-watch-them-play-ag/' | relative_url }}">show hn play poker with llms or watch them play ag</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -134,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/pebble-round-2/' | relative_url }}">pebble round 2</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/overdose-deaths-are-falling-in-america-because-of/' | relative_url }}">overdose deaths are falling in america because of</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -190,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/java-gives-a-status-update-about-new-language-feat/' | relative_url }}">java gives a status update about new language feat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/is-beef-tallow-making-a-comeback/' | relative_url }}">is beef tallow making a comeback</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
