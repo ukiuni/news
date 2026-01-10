@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/xs-half-assed-attempt-to-paywall-grok-doesnt-block/' | relative_url }}">xs half assed attempt to paywall grok doesnt block</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/whats-coming-with-langchainjs-and-gemini/' | relative_url }}">whats coming with langchainjs and gemini</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +22,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/ungentrified-craigslist-may-be-the-last-real-place/' | relative_url }}">ungentrified craigslist may be the last real place</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/understanding-the-decorator-design-pattern-in-go-a/' | relative_url }}">understanding the decorator design pattern in go a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -45,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/reverse-engineering-the-epson-filmscan-200-for-cla/' | relative_url }}">reverse engineering the epson filmscan 200 for cla</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/replit-boss-ceos-can-vibe-code-their-own-prototype/' | relative_url }}">replit boss ceos can vibe code their own prototype</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/new-information-extracted-from-snowden-pdfs-throug/' | relative_url }}">new information extracted from snowden pdfs throug</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/mit-non-ai-license/' | relative_url }}">mit non ai license</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/looking-for-collaborators-open-source-tool-for-wri/' | relative_url }}">looking for collaborators open source tool for wri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/llms-have-burned-billions-but-couldnt-build-anothe/' | relative_url }}">llms have burned billions but couldnt build anothe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -114,6 +134,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/diving-into-qualcomms-upcoming-adreno-x2-gpu-with/' | relative_url }}">diving into qualcomms upcoming adreno x2 gpu with</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/dell-admits-customers-are-not-buying-pcs-just-beca/' | relative_url }}">dell admits customers are not buying pcs just beca</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/chatgpt-health-is-a-marketplace-guess-who-is-the-p/' | relative_url }}">chatgpt health is a marketplace guess who is the p</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
