@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/replit-boss-ceos-can-vibe-code-their-own-prototype/' | relative_url }}">replit boss ceos can vibe code their own prototype</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/ragdoll-mayhem-maker-a-physics-based-level-editor/' | relative_url }}">ragdoll mayhem maker a physics based level editor</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/oled-not-for-me/' | relative_url }}">oled not for me</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/mit-non-ai-license/' | relative_url }}">mit non ai license</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -54,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/greenland-sharks-maintain-vision-for-centuries-thr/' | relative_url }}">greenland sharks maintain vision for centuries thr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/free-speech-union-hacked-by-trans-activists-exposi/' | relative_url }}">free speech union hacked by trans activists exposi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
