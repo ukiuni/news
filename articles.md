@@ -88,6 +88,10 @@ permalink: /articles/
   <h3><a href="{{ '/2026/01/10/answer-set-programming-2019/' | relative_url }}">answer set programming 2019</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/100x-slower-code-due-to-false-sharing/' | relative_url }}">100x slower code due to false sharing</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/youtubes-updated-filters-are-good-news-for-anyone/' | relative_url }}">youtubes updated filters are good news for anyone</a></h3>
 </div>
