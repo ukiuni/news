@@ -8,6 +8,30 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/whats-coming-with-langchainjs-and-gemini/' | relative_url }}">whats coming with langchainjs and gemini</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/ragdoll-mayhem-maker-a-physics-based-level-editor/' | relative_url }}">ragdoll mayhem maker a physics based level editor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/java-gives-a-status-update-about-new-language-feat/' | relative_url }}">java gives a status update about new language feat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/flock-hardcoded-the-password-for-americas-surveill/' | relative_url }}">flock hardcoded the password for americas surveill</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/erdos-problem-728-was-solved-more-or-less-autonomo/' | relative_url }}">erdos problem 728 was solved more or less autonomo</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/09</span>
   <h3><a href="{{ '/2026/01/09/youtubes-updated-filters-are-good-news-for-anyone/' | relative_url }}">youtubes updated filters are good news for anyone</a></h3>
 </div>
