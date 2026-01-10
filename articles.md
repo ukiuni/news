@@ -77,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/hongdown-an-opinionated-markdown-formatter-in-rust/' | relative_url }}">hongdown an opinionated markdown formatter in rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/greenland-sharks-maintain-vision-for-centuries-thr/' | relative_url }}">greenland sharks maintain vision for centuries thr</a></h3>
 </div>
 <div class="article-row">
