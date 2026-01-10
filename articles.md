@@ -69,11 +69,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/looking-for-collaborators-open-source-tool-for-wri/' | relative_url }}">looking for collaborators open source tool for wri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/java-gives-a-status-update-about-new-language-feat/' | relative_url }}">java gives a status update about new language feat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/i-got-paid-minimum-wage-to-solve-an-impossible-pro/' | relative_url }}">i got paid minimum wage to solve an impossible pro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/how-markdown-took-over-the-world/' | relative_url }}">how markdown took over the world</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/how-i-use-jujutsu/' | relative_url }}">how i use jujutsu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -105,11 +117,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/ces-2026-proved-the-pc-industry-is-hosed-this-year/' | relative_url }}">ces 2026 proved the pc industry is hosed this year</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/answer-set-programming-2019/' | relative_url }}">answer set programming 2019</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/allow-me-to-introduce-the-citroen-c15/' | relative_url }}">allow me to introduce the citroen c15</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/alien-braun-aromaster-kf-20-coffee-makers-2012/' | relative_url }}">alien braun aromaster kf 20 coffee makers 2012</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/a-eulogy-for-dark-sky-a-data-visualization-masterp/' | relative_url }}">a eulogy for dark sky a data visualization masterp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
