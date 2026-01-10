@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/this-month-in-react-2025-12-year-in-review-react2s/' | relative_url }}">this month in react 2025 12 year in review react2s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/the-performance-revolution-in-javascript-tooling/' | relative_url }}">the performance revolution in javascript tooling</a></h3>
 </div>
 <div class="article-row">
@@ -89,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/pulling-a-new-proof-from-knuths-fixed-point-printe/' | relative_url }}">pulling a new proof from knuths fixed point printe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/programming-a-hack-to-denuvo/' | relative_url }}">programming a hack to denuvo</a></h3>
 </div>
 <div class="article-row">
@@ -109,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/notes-on-distributed-consensus-and-raft/' | relative_url }}">notes on distributed consensus and raft</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/new-information-extracted-from-snowden-pdfs-throug/' | relative_url }}">new information extracted from snowden pdfs throug</a></h3>
 </div>
 <div class="article-row">
@@ -118,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/mit-non-ai-license/' | relative_url }}">mit non ai license</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/microsoft-may-have-created-the-slowest-windows-in/' | relative_url }}">microsoft may have created the slowest windows in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -133,7 +149,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/learn-c-itanium-symbol-mangling/' | relative_url }}">learn c itanium symbol mangling</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/java-gives-a-status-update-about-new-language-feat/' | relative_url }}">java gives a status update about new language feat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/instagram-data-leak-exposes-sensitive-info-of-175m/' | relative_url }}">instagram data leak exposes sensitive info of 175m</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -170,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/garbage-collected-handles-are-lifetime-contravaria/' | relative_url }}">garbage collected handles are lifetime contravaria</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/full-self-driving-sounds-like-magic-until-you-see/' | relative_url }}">full self driving sounds like magic until you see</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -214,6 +242,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/alien-braun-aromaster-kf-20-coffee-makers-2012/' | relative_url }}">alien braun aromaster kf 20 coffee makers 2012</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/ai-is-a-business-model-stress-test/' | relative_url }}">ai is a business model stress test</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
