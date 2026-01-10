@@ -21,7 +21,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/the-1mb-password-crashing-backends-via-hashing-exh/' | relative_url }}">the 1mb password crashing backends via hashing exh</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/start-your-meetings-at-5-minutes-past/' | relative_url }}">start your meetings at 5 minutes past</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/show-hn-miditui-a-terminal-appui-for-midi-composin/' | relative_url }}">show hn miditui a terminal appui for midi composin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -74,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/erdos-problem-728-was-solved-more-or-less-autonomo/' | relative_url }}">erdos problem 728 was solved more or less autonomo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/answer-set-programming-2019/' | relative_url }}">answer set programming 2019</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/09</span>
