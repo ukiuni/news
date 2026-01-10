@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/vibe-coding-needs-git-blame/' | relative_url }}">vibe coding needs git blame</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/ungentrified-craigslist-may-be-the-last-real-place/' | relative_url }}">ungentrified craigslist may be the last real place</a></h3>
 </div>
 <div class="article-row">
@@ -69,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/side-by-side-comparison-of-how-ai-models-answer-mo/' | relative_url }}">side by side comparison of how ai models answer mo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/show-hn-miditui-a-terminal-appui-for-midi-composin/' | relative_url }}">show hn miditui a terminal appui for midi composin</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/replit-boss-ceos-can-vibe-code-their-own-prototype/' | relative_url }}">replit boss ceos can vibe code their own prototype</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/rats-caught-on-camera-hunting-flying-bats/' | relative_url }}">rats caught on camera hunting flying bats</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -181,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/how-your-high-school-affects-your-chances-of-uc-ad/' | relative_url }}">how your high school affects your chances of uc ad</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/how-markdown-took-over-the-world/' | relative_url }}">how markdown took over the world</a></h3>
 </div>
 <div class="article-row">
@@ -229,6 +245,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/distributed-denial-of-secrets/' | relative_url }}">distributed denial of secrets</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/dell-admits-customers-are-not-buying-pcs-just-beca/' | relative_url }}">dell admits customers are not buying pcs just beca</a></h3>
 </div>
 <div class="article-row">
@@ -246,6 +266,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/ces-2026-proved-the-pc-industry-is-hosed-this-year/' | relative_url }}">ces 2026 proved the pc industry is hosed this year</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/bichon-a-lightweight-high-performance-rust-email-a/' | relative_url }}">bichon a lightweight high performance rust email a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/banks-criticize-presidents-push-for-10-percent-cre/' | relative_url }}">banks criticize presidents push for 10 percent cre</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/ascii-driven-development/' | relative_url }}">ascii driven development</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
