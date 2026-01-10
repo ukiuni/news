@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/the-performance-revolution-in-javascript-tooling/' | relative_url }}">the performance revolution in javascript tooling</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/the-1mb-password-crashing-backends-via-hashing-exh/' | relative_url }}">the 1mb password crashing backends via hashing exh</a></h3>
 </div>
 <div class="article-row">
@@ -73,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/garbage-collected-handles-are-lifetime-contravaria/' | relative_url }}">garbage collected handles are lifetime contravaria</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/free-speech-union-hacked-by-trans-activists-exposi/' | relative_url }}">free speech union hacked by trans activists exposi</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/answer-set-programming-2019/' | relative_url }}">answer set programming 2019</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/alien-braun-aromaster-kf-20-coffee-makers-2012/' | relative_url }}">alien braun aromaster kf 20 coffee makers 2012</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
