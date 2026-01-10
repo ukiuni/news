@@ -97,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/diving-into-qualcomms-upcoming-adreno-x2-gpu-with/' | relative_url }}">diving into qualcomms upcoming adreno x2 gpu with</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/answer-set-programming-2019/' | relative_url }}">answer set programming 2019</a></h3>
 </div>
 <div class="article-row">
