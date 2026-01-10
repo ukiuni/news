@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/x-sues-music-publishers-over-weaponized-dmca-taked/' | relative_url }}">x sues music publishers over weaponized dmca taked</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/whats-coming-with-langchainjs-and-gemini/' | relative_url }}">whats coming with langchainjs and gemini</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/understanding-the-decorator-design-pattern-in-go-a/' | relative_url }}">understanding the decorator design pattern in go a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/uk-government-exempting-itself-from-cyber-law-insp/' | relative_url }}">uk government exempting itself from cyber law insp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -49,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/show-hn-hosting-100-linux-dev-environments-on-one/' | relative_url }}">show hn hosting 100 linux dev environments on one</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/robotopia-a-3d-first-person-talking-simulator/' | relative_url }}">robotopia a 3d first person talking simulator</a></h3>
 </div>
 <div class="article-row">
@@ -69,11 +81,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/pre-populating-caches-is-a-bolt-on-cache-optimizat/' | relative_url }}">pre populating caches is a bolt on cache optimizat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/org-mode-syntax-is-one-of-the-most-reasonable-mark/' | relative_url }}">org mode syntax is one of the most reasonable mark</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/oled-not-for-me/' | relative_url }}">oled not for me</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/new-information-extracted-from-snowden-pdfs-throug/' | relative_url }}">new information extracted from snowden pdfs throug</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/nasa-announces-unprecedented-return-of-sick-iss-as/' | relative_url }}">nasa announces unprecedented return of sick iss as</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -97,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/i-got-tired-of-todo-remove-later-turning-into-perm/' | relative_url }}">i got tired of todo remove later turning into perm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/i-got-paid-minimum-wage-to-solve-an-impossible-pro/' | relative_url }}">i got paid minimum wage to solve an impossible pro</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/greenland-sharks-maintain-vision-for-centuries-thr/' | relative_url }}">greenland sharks maintain vision for centuries thr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/googles-lego-tribute/' | relative_url }}">googles lego tribute</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
@@ -138,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/dell-admits-customers-are-not-buying-pcs-just-beca/' | relative_url }}">dell admits customers are not buying pcs just beca</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/10</span>
+  <h3><a href="{{ '/2026/01/10/continuous-snapshotting-filesystem/' | relative_url }}">continuous snapshotting filesystem</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/10</span>
