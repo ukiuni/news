@@ -17,6 +17,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/when-caching-made-things-worse/' | relative_url }}">when caching made things worse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/the-answer-cannot-be-nothing-the-battle-over-canad/' | relative_url }}">the answer cannot be nothing the battle over canad</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/show-hn-vam-seek-2d-video-navigation-grid-15kb-zer/' | relative_url }}">show hn vam seek 2d video navigation grid 15kb zer</a></h3>
 </div>
 <div class="article-row">
@@ -33,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/my-home-fibre-network-disintegrated/' | relative_url }}">my home fibre network disintegrated</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/cpu-counters-on-apple-silicon-article-tool/' | relative_url }}">cpu counters on apple silicon article tool</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/chr2-a-deterministic-replicated-log-with-a-durable/' | relative_url }}">chr2 a deterministic replicated log with a durable</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/chinas-artificial-sun-breaks-nuclear-fusion-limit/' | relative_url }}">chinas artificial sun breaks nuclear fusion limit</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
