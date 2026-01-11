@@ -77,6 +77,22 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/senators-target-big-tech-as-data-centers-drive-uti/' | relative_url }}">senators target big tech as data centers drive uti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/scholars-will-call-it-nonsense-the-structure-of-vo/' | relative_url }}">scholars will call it nonsense the structure of vo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/sampling-at-negative-temperature/' | relative_url }}">sampling at negative temperature</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/rethinking-helix/' | relative_url }}">rethinking helix</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/replace-the-retiring-windows-xp-with-linux/' | relative_url }}">replace the retiring windows xp with linux</a></h3>
 </div>
 <div class="article-row">
@@ -113,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/llvm-the-bad-parts/' | relative_url }}">llvm the bad parts</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/linus-is-vibe-coding/' | relative_url }}">linus is vibe coding</a></h3>
 </div>
 <div class="article-row">
@@ -130,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/instagram-data-breach-reportedly-exposed-the-perso/' | relative_url }}">instagram data breach reportedly exposed the perso</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/icloud-photos-downloader/' | relative_url }}">icloud photos downloader</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
@@ -158,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/hacker-dressed-as-pink-power-ranger-dismantles-rac/' | relative_url }}">hacker dressed as pink power ranger dismantles rac</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/guys-why-does-armenian-completely-break-claude/' | relative_url }}">guys why does armenian completely break claude</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
@@ -242,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/asahi-linux-porting-linux-to-apple-silicon/' | relative_url }}">asahi linux porting linux to apple silicon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/anthropic-developing-a-claude-code-competitor-usin/' | relative_url }}">anthropic developing a claude code competitor usin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
