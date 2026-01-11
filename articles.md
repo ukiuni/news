@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/this-game-is-a-single-13-kib-file-that-runs-on-win/' | relative_url }}">this game is a single 13 kib file that runs on win</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/think-of-pavlov/' | relative_url }}">think of pavlov</a></h3>
 </div>
 <div class="article-row">
@@ -141,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/mitigating-the-billion-dollar-mistake/' | relative_url }}">mitigating the billion dollar mistake</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/meta-announces-nuclear-energy-projects/' | relative_url }}">meta announces nuclear energy projects</a></h3>
 </div>
 <div class="article-row">
@@ -170,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/im-making-a-game-engine-based-on-dynamic-signed-di/' | relative_url }}">im making a game engine based on dynamic signed di</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/id-tell-you-a-udp-joke/' | relative_url }}">id tell you a udp joke</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
@@ -226,6 +238,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/gentoo-linux-2025-review/' | relative_url }}">gentoo linux 2025 review</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/fuse-is-all-you-need-giving-agents-access-to-anyth/' | relative_url }}">fuse is all you need giving agents access to anyth</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
@@ -329,7 +345,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/a-2026-look-at-three-bio-ml-opinions-i-had-in-2024/' | relative_url }}">a 2026 look at three bio ml opinions i had in 2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/80-of-rye-in-20-of-the-time-13/' | relative_url }}">80 of rye in 20 of the time 13</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/2026-is-the-year-of-self-hosting/' | relative_url }}">2026 is the year of self hosting</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
