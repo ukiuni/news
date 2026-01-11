@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/writing-mutexes-from-scratch-in-go/' | relative_url }}">writing mutexes from scratch in go</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/show-hn-ferrite-markdown-editor-in-rust-with-nativ/' | relative_url }}">show hn ferrite markdown editor in rust with nativ</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/private-equity-firms-acquired-more-than-500-autism/' | relative_url }}">private equity firms acquired more than 500 autism</a></h3>
 </div>
 <div class="article-row">
