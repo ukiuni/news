@@ -33,7 +33,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/cpu-counters-on-apple-silicon-article-tool/' | relative_url }}">cpu counters on apple silicon article tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/code-and-let-live/' | relative_url }}">code and let live</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/cloudflare-defies-italys-piracy-shield-wont-block/' | relative_url }}">cloudflare defies italys piracy shield wont block</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
@@ -46,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/admins-finally-get-the-power-to-uninstall-microsof/' | relative_url }}">admins finally get the power to uninstall microsof</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/a-year-of-work-on-the-arch-linux-package-managemen/' | relative_url }}">a year of work on the arch linux package managemen</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
