@@ -53,7 +53,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/more-than-one-hundred-years-of-film-sizes/' | relative_url }}">more than one hundred years of film sizes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/linus-is-vibe-coding/' | relative_url }}">linus is vibe coding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/iranian-regime-tries-to-shut-down-starlink/' | relative_url }}">iranian regime tries to shut down starlink</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/gixy-next-nginx-configuration-security-amp-hardeni/' | relative_url }}">gixy next nginx configuration security amp hardeni</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
@@ -77,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/c-stdmove-doesnt-move-anything-a-deep-dive-into-va/' | relative_url }}">c stdmove doesnt move anything a deep dive into va</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/built-a-real-time-vessel-tracker-using-h3-hexagona/' | relative_url }}">built a real time vessel tracker using h3 hexagona</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/a-year-of-work-on-the-arch-linux-package-managemen/' | relative_url }}">a year of work on the arch linux package managemen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/a-unique-performance-optimization-for-a-3d-geometr/' | relative_url }}">a unique performance optimization for a 3d geometr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
