@@ -109,6 +109,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/meta-announces-nuclear-energy-projects/' | relative_url }}">meta announces nuclear energy projects</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/linus-is-vibe-coding/' | relative_url }}">linus is vibe coding</a></h3>
 </div>
 <div class="article-row">
@@ -178,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/food-jpegs-in-super-smash-bros-kirby-air-riders/' | relative_url }}">food jpegs in super smash bros kirby air riders</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/edi-files-helper-tool/' | relative_url }}">edi files helper tool</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
