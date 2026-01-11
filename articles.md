@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/tesla-sales-plunged-by-28-across-europe-in-2025/' | relative_url }}">tesla sales plunged by 28 across europe in 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/show-hn-vam-seek-2d-video-navigation-grid-15kb-zer/' | relative_url }}">show hn vam seek 2d video navigation grid 15kb zer</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/show-hn-ferrite-markdown-editor-in-rust-with-nativ/' | relative_url }}">show hn ferrite markdown editor in rust with nativ</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/replace-the-retiring-windows-xp-with-linux/' | relative_url }}">replace the retiring windows xp with linux</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
@@ -173,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/cops-ai-generated-police-report-claims-officer-tur/' | relative_url }}">cops ai generated police report claims officer tur</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/code-and-let-live/' | relative_url }}">code and let live</a></h3>
 </div>
 <div class="article-row">
@@ -210,6 +222,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/ai-memory-is-sold-out-causing-an-unprecedented-sur/' | relative_url }}">ai memory is sold out causing an unprecedented sur</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/ai-insiders-seek-to-poison-the-data-that-feeds-the/' | relative_url }}">ai insiders seek to poison the data that feeds the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/agile-for-agents/' | relative_url }}">agile for agents</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
