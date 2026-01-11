@@ -8,6 +8,22 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/private-equity-firms-acquired-more-than-500-autism/' | relative_url }}">private equity firms acquired more than 500 autism</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/chr2-a-deterministic-replicated-log-with-a-durable/' | relative_url }}">chr2 a deterministic replicated log with a durable</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/built-a-real-time-vessel-tracker-using-h3-hexagona/' | relative_url }}">built a real time vessel tracker using h3 hexagona</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/admins-finally-get-the-power-to-uninstall-microsof/' | relative_url }}">admins finally get the power to uninstall microsof</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/10</span>
   <h3><a href="{{ '/2026/01/10/xs-half-assed-attempt-to-paywall-grok-doesnt-block/' | relative_url }}">xs half assed attempt to paywall grok doesnt block</a></h3>
 </div>
