@@ -45,7 +45,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/thanks-ai-rich-hickey-creator-of-clojure-about-ai/' | relative_url }}">thanks ai rich hickey creator of clojure about ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/show-hn-vam-seek-2d-video-navigation-grid-15kb-zer/' | relative_url }}">show hn vam seek 2d video navigation grid 15kb zer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/show-hn-porting-xv6-to-hifive-unmatched-board/' | relative_url }}">show hn porting xv6 to hifive unmatched board</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
@@ -109,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/happy-50th-birthday-kim-1/' | relative_url }}">happy 50th birthday kim 1</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/hacker-dressed-as-pink-power-ranger-dismantles-rac/' | relative_url }}">hacker dressed as pink power ranger dismantles rac</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/dont-fall-into-the-anti-ai-hype/' | relative_url }}">dont fall into the anti ai hype</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/dangerous-and-alarming-google-removes-some-of-its/' | relative_url }}">dangerous and alarming google removes some of its</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
@@ -174,6 +190,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/bandersnatch-the-works-that-inspired-the-black-mir/' | relative_url }}">bandersnatch the works that inspired the black mir</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/asahi-linux-porting-linux-to-apple-silicon/' | relative_url }}">asahi linux porting linux to apple silicon</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
