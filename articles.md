@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/the-concise-typescript-book/' | relative_url }}">the concise typescript book</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/the-answer-cannot-be-nothing-the-battle-over-canad/' | relative_url }}">the answer cannot be nothing the battle over canad</a></h3>
 </div>
 <div class="article-row">
