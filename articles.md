@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/vojtux-unofficial-linux-distribution-aimed-at-visu/' | relative_url }}">vojtux unofficial linux distribution aimed at visu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/the-concise-typescript-book/' | relative_url }}">the concise typescript book</a></h3>
 </div>
 <div class="article-row">
@@ -49,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/iranian-regime-tries-to-shut-down-starlink/' | relative_url }}">iranian regime tries to shut down starlink</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/cpu-counters-on-apple-silicon-article-tool/' | relative_url }}">cpu counters on apple silicon article tool</a></h3>
 </div>
 <div class="article-row">
@@ -73,11 +81,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/bandersnatch-the-works-that-inspired-the-black-mir/' | relative_url }}">bandersnatch the works that inspired the black mir</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/admins-finally-get-the-power-to-uninstall-microsof/' | relative_url }}">admins finally get the power to uninstall microsof</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/a-year-of-work-on-the-arch-linux-package-managemen/' | relative_url }}">a year of work on the arch linux package managemen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/80-of-rye-in-20-of-the-time-13/' | relative_url }}">80 of rye in 20 of the time 13</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
