@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/the-hobbyist-maintainer-economic-gravity-well/' | relative_url }}">the hobbyist maintainer economic gravity well</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/the-concise-typescript-book/' | relative_url }}">the concise typescript book</a></h3>
 </div>
 <div class="article-row">
@@ -109,6 +113,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/gentoo-linux-2025-review/' | relative_url }}">gentoo linux 2025 review</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/food-jpegs-in-super-smash-bros-kirby-air-riders/' | relative_url }}">food jpegs in super smash bros kirby air riders</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/dont-fall-into-the-anti-ai-hype/' | relative_url }}">dont fall into the anti ai hype</a></h3>
 </div>
 <div class="article-row">
@@ -146,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/bandersnatch-the-works-that-inspired-the-black-mir/' | relative_url }}">bandersnatch the works that inspired the black mir</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/ai-memory-is-sold-out-causing-an-unprecedented-sur/' | relative_url }}">ai memory is sold out causing an unprecedented sur</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
