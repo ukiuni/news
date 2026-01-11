@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/visual-breakdown-of-the-dns-resolution-process-fro/' | relative_url }}">visual breakdown of the dns resolution process fro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/think-of-pavlov/' | relative_url }}">think of pavlov</a></h3>
 </div>
 <div class="article-row">
@@ -93,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/new-york-seeks-ban-on-ai-generated-images-of-candi/' | relative_url }}">new york seeks ban on ai generated images of candi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/my-home-fibre-network-disintegrated/' | relative_url }}">my home fibre network disintegrated</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/linus-is-vibe-coding/' | relative_url }}">linus is vibe coding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/ive-been-working-on-a-side-project-called-redkit-a/' | relative_url }}">ive been working on a side project called redkit a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
@@ -146,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/grok-is-generating-sexual-content-far-more-graphic/' | relative_url }}">grok is generating sexual content far more graphic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/grok-deepfaked-rene-nicole-goods-body-into-a-bikin/' | relative_url }}">grok deepfaked rene nicole goods body into a bikin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
@@ -242,6 +258,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/a-unique-performance-optimization-for-a-3d-geometr/' | relative_url }}">a unique performance optimization for a 3d geometr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/11</span>
+  <h3><a href="{{ '/2026/01/11/a-set-of-idiomatic-prod-grade-katas-for-experience/' | relative_url }}">a set of idiomatic prod grade katas for experience</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
