@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/yaml-thats-norway-problem/' | relative_url }}">yaml thats norway problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/xfce-is-great/' | relative_url }}">xfce is great</a></h3>
 </div>
 <div class="article-row">
@@ -109,11 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/fossil-versus-git/' | relative_url }}">fossil versus git</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/eric-vaughan-ceo-of-enterprise-software-powerhouse/' | relative_url }}">eric vaughan ceo of enterprise software powerhouse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/epic-games-ceo-defends-grok-ai-after-its-used-to-c/' | relative_url }}">epic games ceo defends grok ai after its used to c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/domain-composed-models-dcm-a-pragmatic-middle-grou/' | relative_url }}">domain composed models dcm a pragmatic middle grou</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
@@ -134,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/c-is-the-best-system-programming-language-that-you/' | relative_url }}">c is the best system programming language that you</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/ai-japanese-chimpanzee-who-counted-and-painted-die/' | relative_url }}">ai japanese chimpanzee who counted and painted die</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
