@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/show-hn-ai-in-solidworks/' | relative_url }}">show hn ai in solidworks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/show-hn-30k-ikea-items-in-flat-text-commercetxt-24/' | relative_url }}">show hn 30k ikea items in flat text commercetxt 24</a></h3>
 </div>
 <div class="article-row">
@@ -101,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/postal-arbitrage/' | relative_url }}">postal arbitrage</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/ozempic-reduced-grocery-spending-by-an-average-of/' | relative_url }}">ozempic reduced grocery spending by an average of</a></h3>
 </div>
 <div class="article-row">
@@ -110,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/moving-scratch-generation-to-python-on-browser/' | relative_url }}">moving scratch generation to python on browser</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/message-queues-a-simple-guide-with-analogies/' | relative_url }}">message queues a simple guide with analogies</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
@@ -234,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/c-is-the-best-system-programming-language-that-you/' | relative_url }}">c is the best system programming language that you</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/building-a-25-gbits-workstation-for-the-scion-asso/' | relative_url }}">building a 25 gbits workstation for the scion asso</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
