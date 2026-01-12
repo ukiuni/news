@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/the-three-body-problem-agentic-ai-in-software-engi/' | relative_url }}">the three body problem agentic ai in software engi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/the-c-compiler-is-a-nightmare/' | relative_url }}">the c compiler is a nightmare</a></h3>
 </div>
 <div class="article-row">
@@ -25,7 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/jerome-powell-responds/' | relative_url }}">jerome powell responds</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/eric-vaughan-ceo-of-enterprise-software-powerhouse/' | relative_url }}">eric vaughan ceo of enterprise software powerhouse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/epic-games-ceo-defends-grok-ai-after-its-used-to-c/' | relative_url }}">epic games ceo defends grok ai after its used to c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/c26-whats-in-it-for-you-marc-gregoire-cppcon-2025/' | relative_url }}">c26 whats in it for you marc gregoire cppcon 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
