@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/pyinfra-turns-python-code-into-shell-commands-and/' | relative_url }}">pyinfra turns python code into shell commands and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/office-is-deadmicrosoft-decision-confuses-400-mill/' | relative_url }}">office is deadmicrosoft decision confuses 400 mill</a></h3>
 </div>
 <div class="article-row">
@@ -49,11 +53,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/linus-torvalds-stop-making-an-issue-out-of-ai-slop/' | relative_url }}">linus torvalds stop making an issue out of ai slop</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/keeping-20000-gpus-healthy/' | relative_url }}">keeping 20000 gpus healthy</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/jerome-powell-responds/' | relative_url }}">jerome powell responds</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/himalayas-bare-and-rocky-after-reduced-winter-snow/' | relative_url }}">himalayas bare and rocky after reduced winter snow</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
