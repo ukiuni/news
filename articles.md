@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/the-rise-and-future-fall-of-discord-2024/' | relative_url }}">the rise and future fall of discord 2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/the-next-two-years-of-software-engineering/' | relative_url }}">the next two years of software engineering</a></h3>
 </div>
 <div class="article-row">
@@ -81,7 +85,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/the-chess-bot-on-delta-air-lines-will-destroy-you/' | relative_url }}">the chess bot on delta air lines will destroy you</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/the-c-compiler-is-a-nightmare/' | relative_url }}">the c compiler is a nightmare</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/teen-creates-online-course-to-fight-deepfake-abuse/' | relative_url }}">teen creates online course to fight deepfake abuse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/tech-debt-the-hidden-cost-of-quick-fixes/' | relative_url }}">tech debt the hidden cost of quick fixes</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
@@ -233,6 +249,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/cowork-claude-code-for-the-rest-of-your-work/' | relative_url }}">cowork claude code for the rest of your work</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/conbini-wars-map-of-japanese-convenience-store-rat/' | relative_url }}">conbini wars map of japanese convenience store rat</a></h3>
 </div>
 <div class="article-row">
@@ -266,6 +286,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/bring-back-opinionated-architecture/' | relative_url }}">bring back opinionated architecture</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/apps-like-grok-are-explicitly-banned-under-googles/' | relative_url }}">apps like grok are explicitly banned under googles</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
