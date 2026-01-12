@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/the-concise-typescript-book-free-and-opensource/' | relative_url }}">the concise typescript book free and opensource</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/the-c-compiler-is-a-nightmare/' | relative_url }}">the c compiler is a nightmare</a></h3>
 </div>
 <div class="article-row">
@@ -73,7 +77,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/jrr-tolkien-reads-from-the-hobbit-for-30-minutes-1/' | relative_url }}">jrr tolkien reads from the hobbit for 30 minutes 1</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/jerome-powell-responds/' | relative_url }}">jerome powell responds</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/is-there-a-difference-between-using-claude-code-th/' | relative_url }}">is there a difference between using claude code th</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
@@ -90,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/epic-games-ceo-defends-grok-ai-after-its-used-to-c/' | relative_url }}">epic games ceo defends grok ai after its used to c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/claude-for-developers-amp-architects-practical-use/' | relative_url }}">claude for developers amp architects practical use</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
