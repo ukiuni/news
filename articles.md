@@ -89,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/i-didnt-become-a-senior-developer-i-accumulated-da/' | relative_url }}">i didnt become a senior developer i accumulated da</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/himalayas-bare-and-rocky-after-reduced-winter-snow/' | relative_url }}">himalayas bare and rocky after reduced winter snow</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +106,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/epic-games-ceo-defends-grok-ai-after-its-used-to-c/' | relative_url }}">epic games ceo defends grok ai after its used to c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/conbini-wars-map-of-japanese-convenience-store-rat/' | relative_url }}">conbini wars map of japanese convenience store rat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/cloudflares-ceo-has-threatened-to-pull-the-company/' | relative_url }}">cloudflares ceo has threatened to pull the company</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
