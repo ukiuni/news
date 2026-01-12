@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/zen-c-write-like-a-high-level-language-run-like-c/' | relative_url }}">zen c write like a high level language run like c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/yaml-thats-norway-problem/' | relative_url }}">yaml thats norway problem</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/we-rolled-our-own-documentation-site/' | relative_url }}">we rolled our own documentation site</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
@@ -70,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/show-hn-30k-ikea-items-in-flat-text-commercetxt-24/' | relative_url }}">show hn 30k ikea items in flat text commercetxt 24</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/reproducing-deepseeks-mhc-when-residual-connection/' | relative_url }}">reproducing deepseeks mhc when residual connection</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
@@ -125,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/jensen-huang-says-relentless-negativity-around-ai/' | relative_url }}">jensen huang says relentless negativity around ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/is-there-a-difference-between-using-claude-code-th/' | relative_url }}">is there a difference between using claude code th</a></h3>
 </div>
 <div class="article-row">
@@ -153,6 +169,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/floppy-disks-turn-out-to-be-the-greatest-tv-remote/' | relative_url }}">floppy disks turn out to be the greatest tv remote</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/eric-vaughan-ceo-of-enterprise-software-powerhouse/' | relative_url }}">eric vaughan ceo of enterprise software powerhouse</a></h3>
 </div>
 <div class="article-row">
@@ -166,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/domain-composed-models-dcm-a-pragmatic-middle-grou/' | relative_url }}">domain composed models dcm a pragmatic middle grou</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/disney-netflix-amp-crunchyroll-try-to-take-pirate/' | relative_url }}">disney netflix amp crunchyroll try to take pirate</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
@@ -186,6 +210,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/c-is-the-best-system-programming-language-that-you/' | relative_url }}">c is the best system programming language that you</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/bts-of-opentelemetry-auto-instrumentation/' | relative_url }}">bts of opentelemetry auto instrumentation</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/anthropic-blocks-third-party-tools-using-claude-co/' | relative_url }}">anthropic blocks third party tools using claude co</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
