@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/who-are-people-currently-using-as-hosting-provider/' | relative_url }}">who are people currently using as hosting provider</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/turntiles-an-nyt-style-word-game-i-made-for-my-par/' | relative_url }}">turntiles an nyt style word game i made for my par</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +22,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/the-c-compiler-is-a-nightmare/' | relative_url }}">the c compiler is a nightmare</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/office-is-deadmicrosoft-decision-confuses-400-mill/' | relative_url }}">office is deadmicrosoft decision confuses 400 mill</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/moving-scratch-generation-to-python-on-browser/' | relative_url }}">moving scratch generation to python on browser</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
