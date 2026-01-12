@@ -17,11 +17,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/windows-8-desktop-environment-for-linux/' | relative_url }}">windows 8 desktop environment for linux</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/who-are-people-currently-using-as-hosting-provider/' | relative_url }}">who are people currently using as hosting provider</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/vibe-coding-debt-the-security-risks-of-ai-generate/' | relative_url }}">vibe coding debt the security risks of ai generate</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
@@ -45,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/the-grok-disaster-isnt-an-anomaly-it-follows-warni/' | relative_url }}">the grok disaster isnt an anomaly it follows warni</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/the-concise-typescript-book-free-and-opensource/' | relative_url }}">the concise typescript book free and opensource</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/show-hn-an-llm-optimized-programming-language/' | relative_url }}">show hn an llm optimized programming language</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/show-hn-30k-ikea-items-in-flat-text-commercetxt-24/' | relative_url }}">show hn 30k ikea items in flat text commercetxt 24</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
@@ -121,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/how-google-docs-keeps-everyones-cursor-in-the-righ/' | relative_url }}">how google docs keeps everyones cursor in the righ</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/himalayas-bare-and-rocky-after-reduced-winter-snow/' | relative_url }}">himalayas bare and rocky after reduced winter snow</a></h3>
 </div>
 <div class="article-row">
@@ -170,6 +190,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/ai-japanese-chimpanzee-who-counted-and-painted-die/' | relative_url }}">ai japanese chimpanzee who counted and painted die</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/a-typical-pdf/' | relative_url }}">a typical pdf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
