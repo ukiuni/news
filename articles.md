@@ -93,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/president-indicates-disapproval-of-netflixs-warner/' | relative_url }}">president indicates disapproval of netflixs warner</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/ozempic-reduced-grocery-spending-by-an-average-of/' | relative_url }}">ozempic reduced grocery spending by an average of</a></h3>
 </div>
 <div class="article-row">
@@ -149,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/i-built-an-interactive-sha-256-visualizer-to-final/' | relative_url }}">i built an interactive sha 256 visualizer to final</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/how-to-build-reactive-declarative-ui-in-vanilla-ja/' | relative_url }}">how to build reactive declarative ui in vanilla ja</a></h3>
 </div>
 <div class="article-row">
@@ -193,6 +201,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/date-is-out-temporal-is-in/' | relative_url }}">date is out temporal is in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/conbini-wars-map-of-japanese-convenience-store-rat/' | relative_url }}">conbini wars map of japanese convenience store rat</a></h3>
 </div>
 <div class="article-row">
@@ -230,6 +242,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/39c3-in-house-electronics-manufacturing-from-scrat/' | relative_url }}">39c3 in house electronics manufacturing from scrat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/2025-marked-a-record-breaking-year-for-apple-servi/' | relative_url }}">2025 marked a record breaking year for apple servi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
