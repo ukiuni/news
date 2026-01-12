@@ -9,11 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/xfce-is-great/' | relative_url }}">xfce is great</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/who-are-people-currently-using-as-hosting-provider/' | relative_url }}">who are people currently using as hosting provider</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/turntiles-an-nyt-style-word-game-i-made-for-my-par/' | relative_url }}">turntiles an nyt style word game i made for my par</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/the-three-inverse-laws-of-robotics/' | relative_url }}">the three inverse laws of robotics</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/c26-whats-in-it-for-you-marc-gregoire-cppcon-2025/' | relative_url }}">c26 whats in it for you marc gregoire cppcon 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/39c3-in-house-electronics-manufacturing-from-scrat/' | relative_url }}">39c3 in house electronics manufacturing from scrat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/11</span>
