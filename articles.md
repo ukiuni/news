@@ -8,6 +8,10 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/epic-games-ceo-defends-grok-ai-after-its-used-to-c/' | relative_url }}">epic games ceo defends grok ai after its used to c</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/11</span>
   <h3><a href="{{ '/2026/01/11/you-are-not-required-to-close-your-p-li-img-or-br/' | relative_url }}">you are not required to close your p li img or br</a></h3>
 </div>
