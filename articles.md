@@ -197,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/how-to-make-a-damn-website/' | relative_url }}">how to make a damn website</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/how-to-build-reactive-declarative-ui-in-vanilla-ja/' | relative_url }}">how to build reactive declarative ui in vanilla ja</a></h3>
 </div>
 <div class="article-row">
@@ -213,6 +217,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/grok-northern-ireland-politician-cara-hunter-quits/' | relative_url }}">grok northern ireland politician cara hunter quits</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/gadget-exposed-a-spy-camera-video/' | relative_url }}">gadget exposed a spy camera video</a></h3>
 </div>
 <div class="article-row">
@@ -222,6 +230,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/floppy-disks-turn-out-to-be-the-greatest-tv-remote/' | relative_url }}">floppy disks turn out to be the greatest tv remote</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/fabrice-bellards-ts-zip-2024/' | relative_url }}">fabrice bellards ts zip 2024</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
@@ -306,6 +318,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/a-typical-pdf/' | relative_url }}">a typical pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/a-developers-guide-to-naming-things-right/' | relative_url }}">a developers guide to naming things right</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
