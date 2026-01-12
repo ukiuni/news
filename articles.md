@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/timecapsulellm-llm-trained-only-on-data-from-1800/' | relative_url }}">timecapsulellm llm trained only on data from 1800</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/the-three-inverse-laws-of-robotics/' | relative_url }}">the three inverse laws of robotics</a></h3>
 </div>
 <div class="article-row">
@@ -161,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/how-problematic-is-resampling-audio-from-441-to-48/' | relative_url }}">how problematic is resampling audio from 441 to 48</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/how-google-docs-keeps-everyones-cursor-in-the-righ/' | relative_url }}">how google docs keeps everyones cursor in the righ</a></h3>
 </div>
 <div class="article-row">
@@ -209,6 +217,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/complexity-logic-and-data/' | relative_url }}">complexity logic and data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/cloudflares-ceo-has-threatened-to-pull-the-company/' | relative_url }}">cloudflares ceo has threatened to pull the company</a></h3>
 </div>
 <div class="article-row">
@@ -226,6 +238,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/bts-of-opentelemetry-auto-instrumentation/' | relative_url }}">bts of opentelemetry auto instrumentation</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/bring-back-opinionated-architecture/' | relative_url }}">bring back opinionated architecture</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/apple-picks-googles-gemini-to-run-ai-powered-siri/' | relative_url }}">apple picks googles gemini to run ai powered siri</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
