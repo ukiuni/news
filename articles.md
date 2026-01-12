@@ -21,7 +21,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/the-humiliation-is-the-point-women-speak-out-over/' | relative_url }}">the humiliation is the point women speak out over</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/the-c-compiler-is-a-nightmare/' | relative_url }}">the c compiler is a nightmare</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/show-hn-an-llm-optimized-programming-language/' | relative_url }}">show hn an llm optimized programming language</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
@@ -37,11 +45,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/malaysia-and-indonesia-block-x-over-failure-to-cur/' | relative_url }}">malaysia and indonesia block x over failure to cur</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/keeping-20000-gpus-healthy/' | relative_url }}">keeping 20000 gpus healthy</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/jerome-powell-responds/' | relative_url }}">jerome powell responds</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/gadget-exposed-a-spy-camera-video/' | relative_url }}">gadget exposed a spy camera video</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
