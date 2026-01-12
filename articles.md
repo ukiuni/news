@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/prompt-engineering-wont-fix-your-architecture/' | relative_url }}">prompt engineering wont fix your architecture</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/office-is-deadmicrosoft-decision-confuses-400-mill/' | relative_url }}">office is deadmicrosoft decision confuses 400 mill</a></h3>
 </div>
 <div class="article-row">
