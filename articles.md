@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/the-next-two-years-of-software-engineering/' | relative_url }}">the next two years of software engineering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/the-humiliation-is-the-point-women-speak-out-over/' | relative_url }}">the humiliation is the point women speak out over</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/linus-torvalds-stop-making-an-issue-out-of-ai-slop/' | relative_url }}">linus torvalds stop making an issue out of ai slop</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/lightpanda-migrate-dom-implementation-to-zig/' | relative_url }}">lightpanda migrate dom implementation to zig</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
@@ -122,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/c26-whats-in-it-for-you-marc-gregoire-cppcon-2025/' | relative_url }}">c26 whats in it for you marc gregoire cppcon 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/c-is-the-best-system-programming-language-that-you/' | relative_url }}">c is the best system programming language that you</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
