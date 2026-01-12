@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/turntiles-an-nyt-style-word-game-i-made-for-my-par/' | relative_url }}">turntiles an nyt style word game i made for my par</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/ozempic-reduced-grocery-spending-by-an-average-of/' | relative_url }}">ozempic reduced grocery spending by an average of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/office-is-deadmicrosoft-decision-confuses-400-mill/' | relative_url }}">office is deadmicrosoft decision confuses 400 mill</a></h3>
 </div>
 <div class="article-row">
@@ -85,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/launch-a-debugging-terminal-into-github-actions/' | relative_url }}">launch a debugging terminal into github actions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/keeping-20000-gpus-healthy/' | relative_url }}">keeping 20000 gpus healthy</a></h3>
 </div>
 <div class="article-row">
@@ -105,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/how-to-build-reactive-declarative-ui-in-vanilla-ja/' | relative_url }}">how to build reactive declarative ui in vanilla ja</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/himalayas-bare-and-rocky-after-reduced-winter-snow/' | relative_url }}">himalayas bare and rocky after reduced winter snow</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/epic-games-ceo-defends-grok-ai-after-its-used-to-c/' | relative_url }}">epic games ceo defends grok ai after its used to c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/12</span>
+  <h3><a href="{{ '/2026/01/12/driverless-delivery-vans-in-china-go-viral-for-cau/' | relative_url }}">driverless delivery vans in china go viral for cau</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
