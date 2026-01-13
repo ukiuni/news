@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/truffleruby-33-is-released/' | relative_url }}">truffleruby 33 is released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/timelang-natural-language-time-parser/' | relative_url }}">timelang natural language time parser</a></h3>
 </div>
 <div class="article-row">
@@ -113,11 +117,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/show-hn-nogic-vs-code-extension-that-visualizes-yo/' | relative_url }}">show hn nogic vs code extension that visualizes yo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/show-hn-ayder-http-native-durable-event-log-writte/' | relative_url }}">show hn ayder http native durable event log writte</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/show-hn-an-ios-budget-app-ive-been-maintaining-sin/' | relative_url }}">show hn an ios budget app ive been maintaining sin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/senate-passes-a-bill-that-would-let-nonconsensual/' | relative_url }}">senate passes a bill that would let nonconsensual</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -138,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/pentagon-is-embracing-grok-ai-chatbot-as-it-draws/' | relative_url }}">pentagon is embracing grok ai chatbot as it draws</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/pentagon-bought-device-through-undercover-operatio/' | relative_url }}">pentagon bought device through undercover operatio</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -241,6 +257,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/games-workshop-bans-staff-from-using-ai-management/' | relative_url }}">games workshop bans staff from using ai management</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/foss-in-times-of-war-scarcity-and-adversarial-ai-v/' | relative_url }}">foss in times of war scarcity and adversarial ai v</a></h3>
 </div>
 <div class="article-row">
@@ -262,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/coal-power-falls-in-china-and-india-for-first-time/' | relative_url }}">coal power falls in china and india for first time</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/choosing-learning-over-autopilot/' | relative_url }}">choosing learning over autopilot</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
