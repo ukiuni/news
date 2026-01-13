@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/show-hn-an-ios-budget-app-ive-been-maintaining-sin/' | relative_url }}">show hn an ios budget app ive been maintaining sin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/provenance-is-the-new-version-control/' | relative_url }}">provenance is the new version control</a></h3>
 </div>
 <div class="article-row">
@@ -53,7 +57,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/network-of-scottish-x-accounts-go-dark-amid-iran-b/' | relative_url }}">network of scottish x accounts go dark amid iran b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/meta-plans-to-cut-10-to-15-of-employees-in-reality/' | relative_url }}">meta plans to cut 10 to 15 of employees in reality</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/leaked-windows-11-feature-shows-copilot-moving-int/' | relative_url }}">leaked windows 11 feature shows copilot moving int</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -94,6 +106,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/foss-in-times-of-war-scarcity-and-adversarial-ai-v/' | relative_url }}">foss in times of war scarcity and adversarial ai v</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/do-non-western-software-developers-experience-diff/' | relative_url }}">do non western software developers experience diff</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/designing-an-ipv6-native-p2p-transport-lessons-fro/' | relative_url }}">designing an ipv6 native p2p transport lessons fro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/brussels-plots-open-source-push-to-pry-europe-off/' | relative_url }}">brussels plots open source push to pry europe off</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
