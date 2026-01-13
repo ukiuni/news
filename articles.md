@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/your-clis-completion-should-know-what-options-youv/' | relative_url }}">your clis completion should know what options youv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/verizon-to-stop-automatic-unlocking-of-phones-as-f/' | relative_url }}">verizon to stop automatic unlocking of phones as f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/timelang-natural-language-time-parser/' | relative_url }}">timelang natural language time parser</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -38,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/interview-coder-leaked-full-user-names-and-where-t/' | relative_url }}">interview coder leaked full user names and where t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/implementing-a-web-server-in-a-single-printf-call/' | relative_url }}">implementing a web server in a single printf call</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
