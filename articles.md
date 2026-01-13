@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/your-estimates-take-longer-than-expected-even-when/' | relative_url }}">your estimates take longer than expected even when</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/your-clis-completion-should-know-what-options-youv/' | relative_url }}">your clis completion should know what options youv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/x-could-face-uk-ban-over-deepfakes-minister-says/' | relative_url }}">x could face uk ban over deepfakes minister says</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -30,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/timelang-natural-language-time-parser/' | relative_url }}">timelang natural language time parser</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/the-hidden-cost-of-postgresql-arrays/' | relative_url }}">the hidden cost of postgresql arrays</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -58,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/network-of-scottish-x-accounts-go-dark-amid-iran-b/' | relative_url }}">network of scottish x accounts go dark amid iran b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/more-assorted-notes-on-liquid-glass-2025/' | relative_url }}">more assorted notes on liquid glass 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
