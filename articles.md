@@ -93,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/show-hn-ayder-http-native-durable-event-log-writte/' | relative_url }}">show hn ayder http native durable event log writte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/show-hn-an-ios-budget-app-ive-been-maintaining-sin/' | relative_url }}">show hn an ios budget app ive been maintaining sin</a></h3>
 </div>
 <div class="article-row">
@@ -205,6 +209,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/ever-wanted-to-look-at-yourself-in-braille/' | relative_url }}">ever wanted to look at yourself in braille</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/do-non-western-software-developers-experience-diff/' | relative_url }}">do non western software developers experience diff</a></h3>
 </div>
 <div class="article-row">
@@ -222,6 +230,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/apple-creator-studio/' | relative_url }}">apple creator studio</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/anthropic-invests-15-million-in-the-python-softwar/' | relative_url }}">anthropic invests 15 million in the python softwar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -245,7 +257,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/a-new-study-has-revealed-electric-car-batteries-la/' | relative_url }}">a new study has revealed electric car batteries la</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/90m-people-118-hours-of-silence-one-nation-erased/' | relative_url }}">90m people 118 hours of silence one nation erased</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/9-apache-iceberg-table-maintenance-tools-you-shoul/' | relative_url }}">9 apache iceberg table maintenance tools you shoul</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/81-year-old-grandmas-minecraft-youtube-channel-pay/' | relative_url }}">81 year old grandmas minecraft youtube channel pay</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
