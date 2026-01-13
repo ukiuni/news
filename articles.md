@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/grounding-llms-with-recursive-code-execution/' | relative_url }}">grounding llms with recursive code execution</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/an-experimental-study-on-the-extent-and-costs-of-o/' | relative_url }}">an experimental study on the extent and costs of o</a></h3>
 </div>
 <div class="article-row">
