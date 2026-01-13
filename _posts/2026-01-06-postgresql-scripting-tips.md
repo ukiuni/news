@@ -7,7 +7,7 @@
   source_url: "https://www.pgrs.net/2026/01/06/postgresql-scripting-tips/"
   source_title: "PostgreSQL Scripting Tips - Paul Gross’s Blog"
   source_id: 469412797
-  excerpt: "psqlの\gset/\crosstabview/--echo-allで台帳処理を再現・可視化"
+  excerpt: "psqlのset/rosstabview/--echo-allで台帳処理を再現・可視化"
 ---
 
 # PostgreSQL Scripting Tips - PostgreSQL スクリプティングのヒント

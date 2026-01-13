@@ -7,7 +7,7 @@ tags: [tech-news, japan]
 source_url: "https://cleantechnica.com/2026/01/08/teslas-germany-sales-down-72-from-their-peak/"
 source_title: "Tesla&#039;s Germany Sales Down 72% From Their Peak! - CleanTechnica"
 source_id: 466130401
-excerpt: "ギガベルリンを背負うテスラ、ドイツ販売が3年で$72\%$減った衝撃の現状"
+excerpt: "ギガベルリンを背負うテスラ、ドイツ販売が3年で72%減った衝撃の現状"
 image: "https://cleantechnica.com/wp-content/uploads/2023/07/Tesla-Gigafactory-Berlin.jpeg"
 ---
 
