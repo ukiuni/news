@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/what-a-year-of-solar-and-batteries-saved-us-in-202/' | relative_url }}">what a year of solar and batteries saved us in 202</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/visualizing-recursive-language-models/' | relative_url }}">visualizing recursive language models</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/show-hn-an-ios-budget-app-ive-been-maintaining-sin/' | relative_url }}">show hn an ios budget app ive been maintaining sin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/scott-adams-has-died/' | relative_url }}">scott adams has died</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -157,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/gm-ceo-says-evs-still-the-end-game-despite-industr/' | relative_url }}">gm ceo says evs still the end game despite industr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/git-rebase-for-the-terrified/' | relative_url }}">git rebase for the terrified</a></h3>
 </div>
 <div class="article-row">
@@ -185,6 +197,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/anthropic-has-made-a-large-contribution-to-the-pyt/' | relative_url }}">anthropic has made a large contribution to the pyt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/an-operating-system-in-go-gophercon-2025-talk-25-m/' | relative_url }}">an operating system in go gophercon 2025 talk 25 m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/an-experimental-study-on-the-extent-and-costs-of-o/' | relative_url }}">an experimental study on the extent and costs of o</a></h3>
 </div>
 <div class="article-row">
@@ -194,6 +214,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/ai-is-causing-developers-to-abandon-stack-overflow/' | relative_url }}">ai is causing developers to abandon stack overflow</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/9-apache-iceberg-table-maintenance-tools-you-shoul/' | relative_url }}">9 apache iceberg table maintenance tools you shoul</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
