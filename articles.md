@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/when-they-call-you-a-liar-the-freelancers-quiet-ag/' | relative_url }}">when they call you a liar the freelancers quiet ag</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/visualizing-recursive-language-models/' | relative_url }}">visualizing recursive language models</a></h3>
 </div>
 <div class="article-row">
@@ -41,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/the-uk-is-shaping-a-future-of-precrime-and-dissent/' | relative_url }}">the uk is shaping a future of precrime and dissent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/the-hidden-cost-of-postgresql-arrays/' | relative_url }}">the hidden cost of postgresql arrays</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/simulating-hardware-keyboard-input-on-windows/' | relative_url }}">simulating hardware keyboard input on windows</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/show-hn-snackbase-open-source-gxp-compliant-back-e/' | relative_url }}">show hn snackbase open source gxp compliant back e</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -78,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/meta-plans-to-cut-10-to-15-of-employees-in-reality/' | relative_url }}">meta plans to cut 10 to 15 of employees in reality</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/local-journalism-is-how-democracy-shows-up-close-t/' | relative_url }}">local journalism is how democracy shows up close t</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -133,7 +149,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/byd-burns-profit-chasing-global-dominance-over-tes/' | relative_url }}">byd burns profit chasing global dominance over tes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/brussels-plots-open-source-push-to-pry-europe-off/' | relative_url }}">brussels plots open source push to pry europe off</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/apple-creator-studio/' | relative_url }}">apple creator studio</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
