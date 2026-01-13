@@ -13,7 +13,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/the-cray-1-computer-system-1977-pdf/' | relative_url }}">the cray 1 computer system 1977 pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/simulating-hardware-keyboard-input-on-windows/' | relative_url }}">simulating hardware keyboard input on windows</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/jpmorgan-ditches-proxy-advisors-and-turns-to-ai-fo/' | relative_url }}">jpmorgan ditches proxy advisors and turns to ai fo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
