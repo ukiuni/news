@@ -8,6 +8,14 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/verizon-to-stop-automatic-unlocking-of-phones-as-f/' | relative_url }}">verizon to stop automatic unlocking of phones as f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/interview-coder-leaked-full-user-names-and-where-t/' | relative_url }}">interview coder leaked full user names and where t</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/12</span>
   <h3><a href="{{ '/2026/01/12/zen-c-write-like-a-high-level-language-run-like-c/' | relative_url }}">zen c write like a high level language run like c</a></h3>
 </div>
