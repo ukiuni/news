@@ -21,6 +21,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/why-stoicism-is-one-of-the-best-mind-hacks-ever-de/' | relative_url }}">why stoicism is one of the best mind hacks ever de</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/why-i-dont-trust-software-i-didnt-suffer-for/' | relative_url }}">why i dont trust software i didnt suffer for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/when-they-call-you-a-liar-the-freelancers-quiet-ag/' | relative_url }}">when they call you a liar the freelancers quiet ag</a></h3>
 </div>
 <div class="article-row">
@@ -57,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/the-collapse-of-human-signal-on-the-web/' | relative_url }}">the collapse of human signal on the web</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/the-acid-test-why-we-think-search-needs-transactio/' | relative_url }}">the acid test why we think search needs transactio</a></h3>
 </div>
 <div class="article-row">
@@ -81,11 +93,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/owners-not-renters-mozillas-open-source-ai-strateg/' | relative_url }}">owners not renters mozillas open source ai strateg</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/network-of-scottish-x-accounts-go-dark-amid-iran-b/' | relative_url }}">network of scottish x accounts go dark amid iran b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/more-assorted-notes-on-liquid-glass-2025/' | relative_url }}">more assorted notes on liquid glass 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/meta-shuts-down-over-500000-accounts-under-austral/' | relative_url }}">meta shuts down over 500000 accounts under austral</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -122,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/how-to-stick-with-your-projects-even-when-theyre-j/' | relative_url }}">how to stick with your projects even when theyre j</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/hitex-press-a-spam-factory-for-ai-generated-books/' | relative_url }}">hitex press a spam factory for ai generated books</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
