@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/widely-used-farm-chemical-may-more-than-double-par/' | relative_url }}">widely used farm chemical may more than double par</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/why-stoicism-is-one-of-the-best-mind-hacks-ever-de/' | relative_url }}">why stoicism is one of the best mind hacks ever de</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/the-tulip-creative-computer/' | relative_url }}">the tulip creative computer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/the-hidden-cost-of-postgresql-arrays/' | relative_url }}">the hidden cost of postgresql arrays</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/provenance-is-the-new-version-control/' | relative_url }}">provenance is the new version control</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/police-unmask-millions-of-surveillance-targets-bec/' | relative_url }}">police unmask millions of surveillance targets bec</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -137,11 +149,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/influencers-and-onlyfans-models-are-dominating-us/' | relative_url }}">influencers and onlyfans models are dominating us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/implementing-a-web-server-in-a-single-printf-call/' | relative_url }}">implementing a web server in a single printf call</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/i-rarely-get-outside-scientists-ditch-fieldwork-in/' | relative_url }}">i rarely get outside scientists ditch fieldwork in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/i-made-a-typescript-to-native-code-compiler-via-cl/' | relative_url }}">i made a typescript to native code compiler via cl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/i-let-the-internet-vote-on-what-code-gets-merged-h/' | relative_url }}">i let the internet vote on what code gets merged h</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/i-built-a-freemarker-extension-for-zed-editor-with/' | relative_url }}">i built a freemarker extension for zed editor with</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
