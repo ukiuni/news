@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/visualizing-recursive-language-models/' | relative_url }}">visualizing recursive language models</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/verizon-to-stop-automatic-unlocking-of-phones-as-f/' | relative_url }}">verizon to stop automatic unlocking of phones as f</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/grounding-llms-with-recursive-code-execution/' | relative_url }}">grounding llms with recursive code execution</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/git-rebase-for-the-terrified/' | relative_url }}">git rebase for the terrified</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
