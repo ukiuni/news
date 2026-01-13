@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/using-cors-google-sheets-is-the-cheapest-way-to-im/' | relative_url }}">using cors google sheets is the cheapest way to im</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/timelang-natural-language-time-parser/' | relative_url }}">timelang natural language time parser</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/simulating-hardware-keyboard-input-on-windows/' | relative_url }}">simulating hardware keyboard input on windows</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/provenance-is-the-new-version-control/' | relative_url }}">provenance is the new version control</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -57,11 +65,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/hp-reveals-keyboard-computer-with-ryzen-ai-chip/' | relative_url }}">hp reveals keyboard computer with ryzen ai chip</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/how-to-stick-with-your-projects-even-when-theyre-j/' | relative_url }}">how to stick with your projects even when theyre j</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/an-experimental-study-on-the-extent-and-costs-of-o/' | relative_url }}">an experimental study on the extent and costs of o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/ai-is-causing-developers-to-abandon-stack-overflow/' | relative_url }}">ai is causing developers to abandon stack overflow</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/12</span>
