@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/us-emissions-jumped-in-2025-as-coal-power-rebounde/' | relative_url }}">us emissions jumped in 2025 as coal power rebounde</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/timelang-natural-language-time-parser/' | relative_url }}">timelang natural language time parser</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/hgit-git-in-200-lines-of-code/' | relative_url }}">hgit git in 200 lines of code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/grounding-llms-with-recursive-code-execution/' | relative_url }}">grounding llms with recursive code execution</a></h3>
 </div>
 <div class="article-row">
@@ -85,7 +93,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/foss-in-times-of-war-scarcity-and-adversarial-ai-v/' | relative_url }}">foss in times of war scarcity and adversarial ai v</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/an-experimental-study-on-the-extent-and-costs-of-o/' | relative_url }}">an experimental study on the extent and costs of o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/americas-biggest-power-grid-operator-has-an-ai-pro/' | relative_url }}">americas biggest power grid operator has an ai pro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
