@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/paramount-sues-wbd-over-netflix-deal-wbd-says-para/' | relative_url }}">paramount sues wbd over netflix deal wbd says para</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/meta-plans-to-cut-10-to-15-of-employees-in-reality/' | relative_url }}">meta plans to cut 10 to 15 of employees in reality</a></h3>
 </div>
 <div class="article-row">
