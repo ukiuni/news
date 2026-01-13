@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/we-cant-have-nice-things-because-of-ai-scrapers/' | relative_url }}">we cant have nice things because of ai scrapers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/visualizing-recursive-language-models/' | relative_url }}">visualizing recursive language models</a></h3>
 </div>
 <div class="article-row">
@@ -137,6 +141,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/running-lean-at-scale/' | relative_url }}">running lean at scale</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/provenance-is-the-new-version-control/' | relative_url }}">provenance is the new version control</a></h3>
 </div>
 <div class="article-row">
@@ -165,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/open-sourcing-dicer-databrickss-auto-sharder/' | relative_url }}">open sourcing dicer databrickss auto sharder</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/network-of-scottish-x-accounts-go-dark-amid-iran-b/' | relative_url }}">network of scottish x accounts go dark amid iran b</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/local-journalism-is-how-democracy-shows-up-close-t/' | relative_url }}">local journalism is how democracy shows up close t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/lets-be-honest-generative-ai-isnt-going-all-that-w/' | relative_url }}">lets be honest generative ai isnt going all that w</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -266,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/ever-wanted-to-look-at-yourself-in-braille/' | relative_url }}">ever wanted to look at yourself in braille</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/europe-has-a-new-plan-to-break-free-from-us-tech-d/' | relative_url }}">europe has a new plan to break free from us tech d</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
