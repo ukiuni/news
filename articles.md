@@ -61,11 +61,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/this-is-what-convinced-me-openai-will-run-out-of-m/' | relative_url }}">this is what convinced me openai will run out of m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/the-uk-is-shaping-a-future-of-precrime-and-dissent/' | relative_url }}">the uk is shaping a future of precrime and dissent</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/the-tulip-creative-computer/' | relative_url }}">the tulip creative computer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/the-housing-market-isnt-for-single-people/' | relative_url }}">the housing market isnt for single people</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -86,6 +94,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/simulating-hardware-keyboard-input-on-windows/' | relative_url }}">simulating hardware keyboard input on windows</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/signal-leaders-warn-agentic-ai-is-an-insecure-unre/' | relative_url }}">signal leaders warn agentic ai is an insecure unre</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/signal-creator-moxie-marlinspike-wants-to-do-for-a/' | relative_url }}">signal creator moxie marlinspike wants to do for a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -110,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/police-unmask-millions-of-surveillance-targets-bec/' | relative_url }}">police unmask millions of surveillance targets bec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/personal-details-of-thousands-of-border-patrol-and/' | relative_url }}">personal details of thousands of border patrol and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
@@ -221,6 +241,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/confer-end-to-end-encrypted-ai-chat/' | relative_url }}">confer end to end encrypted ai chat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/coal-power-falls-in-china-and-india-for-first-time/' | relative_url }}">coal power falls in china and india for first time</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/byd-burns-profit-chasing-global-dominance-over-tes/' | relative_url }}">byd burns profit chasing global dominance over tes</a></h3>
 </div>
 <div class="article-row">
@@ -254,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/ai-is-causing-developers-to-abandon-stack-overflow/' | relative_url }}">ai is causing developers to abandon stack overflow</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/13</span>
+  <h3><a href="{{ '/2026/01/13/ai-generated-music-barred-from-bandcamp/' | relative_url }}">ai generated music barred from bandcamp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
