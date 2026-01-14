@@ -49,6 +49,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/what-does-it-take-to-ship-rust-in-safety-critical/' | relative_url }}">what does it take to ship rust in safety critical</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/website-that-leaked-info-about-ice-agents-is-down/' | relative_url }}">website that leaked info about ice agents is down</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/waymo-passenger-jumps-out-of-self-driving-car-afte/' | relative_url }}">waymo passenger jumps out of self driving car afte</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/the-string-theory-hype-machine-will-never-die/' | relative_url }}">the string theory hype machine will never die</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/the-state-of-openssl-for-pycacryptography/' | relative_url }}">the state of openssl for pycacryptography</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -197,6 +209,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/scaling-long-running-autonomous-coding/' | relative_url }}">scaling long running autonomous coding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/rust-at-volvo-cars/' | relative_url }}">rust at volvo cars</a></h3>
 </div>
 <div class="article-row">
@@ -254,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/my-opinion-on-spelling-run-time-vs-run-time-vs-run/' | relative_url }}">my opinion on spelling run time vs run time vs run</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/my-gripes-with-prolog/' | relative_url }}">my gripes with prolog</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
