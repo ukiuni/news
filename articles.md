@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/you-can-just-buy-far-uvc/' | relative_url }}">you can just buy far uvc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/xoscript/' | relative_url }}">xoscript</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/why-nukemap-isnt-on-google-maps-anymore-2019/' | relative_url }}">why nukemap isnt on google maps anymore 2019</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/why-every-country-should-set-16-as-the-minimum-age/' | relative_url }}">why every country should set 16 as the minimum age</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -145,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/show-hn-harmony-ai-notetaker-for-discord/' | relative_url }}">show hn harmony ai notetaker for discord</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/show-hn-cachekit-high-performance-caching-policies/' | relative_url }}">show hn cachekit high performance caching policies</a></h3>
 </div>
 <div class="article-row">
@@ -210,6 +222,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/microsoft-copilot-reprompt-exploit-allowed-attacke/' | relative_url }}">microsoft copilot reprompt exploit allowed attacke</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/meet-ski-map-artist-james-niehues-the-monet-of-the/' | relative_url }}">meet ski map artist james niehues the monet of the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
