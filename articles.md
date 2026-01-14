@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/the-truth-behind-the-2026-jp-morgan-healthcare-con/' | relative_url }}">the truth behind the 2026 jp morgan healthcare con</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/the-lang-programming-language/' | relative_url }}">the lang programming language</a></h3>
 </div>
 <div class="article-row">
@@ -22,6 +26,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/ramp-built-a-background-coding-agent-that-writes-a/' | relative_url }}">ramp built a background coding agent that writes a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/no-management-needed-anti-patterns-in-early-stage/' | relative_url }}">no management needed anti patterns in early stage</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/java-is-prototyping-adding-null-checks-to-the-type/' | relative_url }}">java is prototyping adding null checks to the type</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/java-gives-an-update-on-project-amber-data-oriente/' | relative_url }}">java gives an update on project amber data oriente</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
