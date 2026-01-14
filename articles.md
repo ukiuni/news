@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/the-influentists-ai-hype-without-proof/' | relative_url }}">the influentists ai hype without proof</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/the-gleam-programming-language/' | relative_url }}">the gleam programming language</a></h3>
 </div>
 <div class="article-row">
@@ -126,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/systematically-generating-tests-that-would-have-ca/' | relative_url }}">systematically generating tests that would have ca</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/sun-position-calculator/' | relative_url }}">sun position calculator</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -146,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/show-hn-webtiles-create-a-tiny-250x250-website-wit/' | relative_url }}">show hn webtiles create a tiny 250x250 website wit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/show-hn-webctl-browser-automation-for-agents-based/' | relative_url }}">show hn webctl browser automation for agents based</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -209,6 +221,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/pr-review-guidelines-what-i-look-for-in-code-revie/' | relative_url }}">pr review guidelines what i look for in code revie</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/porting-minijinja-to-go-with-an-agent/' | relative_url }}">porting minijinja to go with an agent</a></h3>
 </div>
 <div class="article-row">
@@ -226,6 +242,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/never-before-seen-linux-malware-is-far-more-advanc/' | relative_url }}">never before seen linux malware is far more advanc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/native-zfs-vdev-for-object-storage-openzfs-summit/' | relative_url }}">native zfs vdev for object storage openzfs summit</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -354,6 +374,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/dutch-police-have-their-own-car-stolen-during-car/' | relative_url }}">dutch police have their own car stolen during car</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/digg-launches-its-new-reddit-rival-to-the-public/' | relative_url }}">digg launches its new reddit rival to the public</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
