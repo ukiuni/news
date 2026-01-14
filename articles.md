@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/us-teachers-union-says-it-is-leaving-x-over-sexual/' | relative_url }}">us teachers union says it is leaving x over sexual</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/the-truth-behind-the-2026-jp-morgan-healthcare-con/' | relative_url }}">the truth behind the 2026 jp morgan healthcare con</a></h3>
 </div>
 <div class="article-row">
@@ -22,6 +26,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/the-insecure-evangelism-of-llm-maximalists/' | relative_url }}">the insecure evangelism of llm maximalists</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/the-emacs-widget-library-a-critique-and-case-study/' | relative_url }}">the emacs widget library a critique and case study</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -58,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/bevy-018/' | relative_url }}">bevy 018</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/ascii-clouds/' | relative_url }}">ascii clouds</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
