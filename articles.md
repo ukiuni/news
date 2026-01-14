@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/top-20-sql-interview-questions-and-answers/' | relative_url }}">top 20 sql interview questions and answers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/theres-a-ridiculous-amount-of-tech-in-a-disposable/' | relative_url }}">theres a ridiculous amount of tech in a disposable</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/the-insecure-evangelism-of-llm-maximalists/' | relative_url }}">the insecure evangelism of llm maximalists</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/the-gleam-programming-language/' | relative_url }}">the gleam programming language</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -57,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/lawsuit-dhs-wants-unlimited-subpoena-authority-to/' | relative_url }}">lawsuit dhs wants unlimited subpoena authority to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/java-is-prototyping-adding-null-checks-to-the-type/' | relative_url }}">java is prototyping adding null checks to the type</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/japans-skyscraper-factories-2021/' | relative_url }}">japans skyscraper factories 2021</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/i-think-i-have-discovered-how-to-build-a-synthetic/' | relative_url }}">i think i have discovered how to build a synthetic</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -90,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/a-40-line-fix-eliminated-a-400x-performance-gap/' | relative_url }}">a 40 line fix eliminated a 400x performance gap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/1000-blank-white-cards/' | relative_url }}">1000 blank white cards</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/13</span>
