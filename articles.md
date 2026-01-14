@@ -21,11 +21,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/why-some-clothes-shrink-in-the-wash-and-how-to-uns/' | relative_url }}">why some clothes shrink in the wash and how to uns</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/why-nukemap-isnt-on-google-maps-anymore-2019/' | relative_url }}">why nukemap isnt on google maps anymore 2019</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/what-is-my-ip-address-check-ipv4ipv6-location-amp/' | relative_url }}">what is my ip address check ipv4ipv6 location amp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/waymo-passenger-jumps-out-of-self-driving-car-afte/' | relative_url }}">waymo passenger jumps out of self driving car afte</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -93,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/sparkfun-officially-dropping-adafruit-due-to-coc-v/' | relative_url }}">sparkfun officially dropping adafruit due to coc v</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/show-hn-tiny-foss-compass-and-navigation-app-2mb/' | relative_url }}">show hn tiny foss compass and navigation app 2mb</a></h3>
 </div>
 <div class="article-row">
@@ -149,6 +161,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/n8n-feels-fast-until-you-need-to-explain-it/' | relative_url }}">n8n feels fast until you need to explain it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/llms-are-a-400-year-long-confidence-trick/' | relative_url }}">llms are a 400 year long confidence trick</a></h3>
 </div>
 <div class="article-row">
@@ -194,6 +210,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/i-hate-github-actions-with-passion/' | relative_url }}">i hate github actions with passion</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/fundamental-skills-and-knowledge-you-must-have-in/' | relative_url }}">fundamental skills and knowledge you must have in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/fbi-raids-washington-post-reporters-home-in-highly/' | relative_url }}">fbi raids washington post reporters home in highly</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
