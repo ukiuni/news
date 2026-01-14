@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/the-microservice-desync-modern-http-request-smuggl/' | relative_url }}">the microservice desync modern http request smuggl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/the-lang-programming-language/' | relative_url }}">the lang programming language</a></h3>
 </div>
 <div class="article-row">
@@ -69,7 +73,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/systematically-generating-tests-that-would-have-ca/' | relative_url }}">systematically generating tests that would have ca</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/spent-the-weekend-benchmarking-php-vs-go-rip-my-sa/' | relative_url }}">spent the weekend benchmarking php vs go rip my sa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/show-hn-tiny-foss-compass-and-navigation-app-2mb/' | relative_url }}">show hn tiny foss compass and navigation app 2mb</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -98,6 +110,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/putting-the-you-in-cpu-2023/' | relative_url }}">putting the you in cpu 2023</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/president-says-that-ai-tech-companies-need-to-pay/' | relative_url }}">president says that ai tech companies need to pay</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/pidgin-markup-for-writing-or-how-much-can-html-sus/' | relative_url }}">pidgin markup for writing or how much can html sus</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
