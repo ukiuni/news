@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/unpopular-opinion-saga-pattern-is-just-a-fancy-nam/' | relative_url }}">unpopular opinion saga pattern is just a fancy nam</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/top-20-sql-interview-questions-and-answers/' | relative_url }}">top 20 sql interview questions and answers</a></h3>
 </div>
 <div class="article-row">
@@ -57,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/show-hn-1d-pong-game-at-39c3/' | relative_url }}">show hn 1d pong game at 39c3</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/ramp-built-a-background-coding-agent-that-writes-a/' | relative_url }}">ramp built a background coding agent that writes a</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/no-management-needed-anti-patterns-in-early-stage/' | relative_url }}">no management needed anti patterns in early stage</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/never-before-seen-linux-malware-is-far-more-advanc/' | relative_url }}">never before seen linux malware is far more advanc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
