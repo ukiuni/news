@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/zero-copy-simd-parsing-to-handle-unaligned-reads-a/' | relative_url }}">zero copy simd parsing to handle unaligned reads a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/your-github-contribution-graph-means-absolutely-no/' | relative_url }}">your github contribution graph means absolutely no</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/use-of-ai-to-harm-women-has-only-just-begun-expert/' | relative_url }}">use of ai to harm women has only just begun expert</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/us-tech-giants-allying-with-european-far-right-to/' | relative_url }}">us tech giants allying with european far right to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -121,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/so-youve-hit-an-age-gate-what-now/' | relative_url }}">so youve hit an age gate what now</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/show-hn-tiny-foss-compass-and-navigation-app-2mb/' | relative_url }}">show hn tiny foss compass and navigation app 2mb</a></h3>
 </div>
 <div class="article-row">
@@ -193,6 +205,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/microsoft-copilot-reprompt-exploit-allowed-attacke/' | relative_url }}">microsoft copilot reprompt exploit allowed attacke</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/maggots-an-efficient-source-of-protein-may-become/' | relative_url }}">maggots an efficient source of protein may become</a></h3>
 </div>
 <div class="article-row">
@@ -253,6 +269,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/ford-f-150-lightning-outsold-the-cybertruck-and-wa/' | relative_url }}">ford f 150 lightning outsold the cybertruck and wa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/find-a-pub-that-needs-you/' | relative_url }}">find a pub that needs you</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/fbi-raids-washington-post-reporters-home-in-highly/' | relative_url }}">fbi raids washington post reporters home in highly</a></h3>
 </div>
 <div class="article-row">
@@ -270,6 +294,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/edge-of-emulation-game-boy-sewing-machines/' | relative_url }}">edge of emulation game boy sewing machines</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/dutch-police-have-their-own-car-stolen-during-car/' | relative_url }}">dutch police have their own car stolen during car</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
