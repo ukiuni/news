@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/xoscript/' | relative_url }}">xoscript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/why-we-dont-use-ai/' | relative_url }}">why we dont use ai</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/unpopular-opinion-saga-pattern-is-just-a-fancy-nam/' | relative_url }}">unpopular opinion saga pattern is just a fancy nam</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/unlocking-the-secret-to-faster-safer-releases-with/' | relative_url }}">unlocking the secret to faster safer releases with</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -97,6 +109,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/starlink-roam-50gb-is-now-100gb-with-unlimited-slo/' | relative_url }}">starlink roam 50gb is now 100gb with unlimited slo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/spent-the-weekend-benchmarking-php-vs-go-rip-my-sa/' | relative_url }}">spent the weekend benchmarking php vs go rip my sa</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/show-hn-cachekit-high-performance-caching-policies/' | relative_url }}">show hn cachekit high performance caching policies</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/show-hn-a-10kib-kernel-for-cloud-apps/' | relative_url }}">show hn a 10kib kernel for cloud apps</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -145,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/porting-minijinja-to-go-with-an-agent/' | relative_url }}">porting minijinja to go with an agent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/pidgin-markup-for-writing-or-how-much-can-html-sus/' | relative_url }}">pidgin markup for writing or how much can html sus</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/n8n-feels-fast-until-you-need-to-explain-it/' | relative_url }}">n8n feels fast until you need to explain it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/my-opinion-on-spelling-run-time-vs-run-time-vs-run/' | relative_url }}">my opinion on spelling run time vs run time vs run</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -233,6 +261,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/epic-fined-11m-over-manipulating-children-through/' | relative_url }}">epic fined 11m over manipulating children through</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/eol-hardware-should-mean-open-source-software/' | relative_url }}">eol hardware should mean open source software</a></h3>
 </div>
 <div class="article-row">
@@ -270,6 +302,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/a-40-line-fix-eliminated-a-400x-performance-gap/' | relative_url }}">a 40 line fix eliminated a 400x performance gap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/4k-tons-of-potatoes-to-be-given-away-for-free-in-b/' | relative_url }}">4k tons of potatoes to be given away for free in b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
