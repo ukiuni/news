@@ -165,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/maggots-an-efficient-source-of-protein-may-become/' | relative_url }}">maggots an efficient source of protein may become</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/llms-are-a-400-year-long-confidence-trick/' | relative_url }}">llms are a 400 year long confidence trick</a></h3>
 </div>
 <div class="article-row">
@@ -174,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/just-the-browser/' | relative_url }}">just the browser</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/jeff-bezos-said-the-quiet-part-out-loud-hopes-that/' | relative_url }}">jeff bezos said the quiet part out loud hopes that</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -226,6 +234,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/eol-hardware-should-mean-open-source-software/' | relative_url }}">eol hardware should mean open source software</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/edge-of-emulation-game-boy-sewing-machines/' | relative_url }}">edge of emulation game boy sewing machines</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/caching-playbook-for-system-design-interviews/' | relative_url }}">caching playbook for system design interviews</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
