@@ -141,6 +141,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/show-hn-hytags-html-as-a-programming-language/' | relative_url }}">show hn hytags html as a programming language</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/show-hn-cachekit-high-performance-caching-policies/' | relative_url }}">show hn cachekit high performance caching policies</a></h3>
 </div>
 <div class="article-row">
@@ -265,6 +269,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/i-built-vector-now-im-answering-the-question-your/' | relative_url }}">i built vector now im answering the question your</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/how-do-you-build-serious-extension-features-within/' | relative_url }}">how do you build serious extension features within</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/fundamental-skills-and-knowledge-you-must-have-in/' | relative_url }}">fundamental skills and knowledge you must have in</a></h3>
 </div>
 <div class="article-row">
@@ -297,6 +309,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/east-coast-verizon-outage-in-us/' | relative_url }}">east coast verizon outage in us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/dutch-police-have-their-own-car-stolen-during-car/' | relative_url }}">dutch police have their own car stolen during car</a></h3>
 </div>
 <div class="article-row">
@@ -321,11 +337,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/bandcamp-becomes-the-first-major-music-platform-to/' | relative_url }}">bandcamp becomes the first major music platform to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/ascii-clouds/' | relative_url }}">ascii clouds</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/ai-writes-code-faster-your-job-is-still-to-prove-i/' | relative_url }}">ai writes code faster your job is still to prove i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/a-good-test-of-engineering-team-maturity-is-how-we/' | relative_url }}">a good test of engineering team maturity is how we</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
