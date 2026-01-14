@@ -13,6 +13,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/your-github-contribution-graph-means-absolutely-no/' | relative_url }}">your github contribution graph means absolutely no</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/why-we-dont-use-ai/' | relative_url }}">why we dont use ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/vllm-large-scale-serving-deepseek-22k-toksh200-wit/' | relative_url }}">vllm large scale serving deepseek 22k toksh200 wit</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/the-emacs-widget-library-a-critique-and-case-study/' | relative_url }}">the emacs widget library a critique and case study</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/taiwan-issues-arrest-warrant-for-pete-lau-ceo-of-o/' | relative_url }}">taiwan issues arrest warrant for pete lau ceo of o</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -126,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/i-think-i-have-discovered-how-to-build-a-synthetic/' | relative_url }}">i think i have discovered how to build a synthetic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/i-love-you-redis-but-im-leaving-you-for-solidqueue/' | relative_url }}">i love you redis but im leaving you for solidqueue</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
