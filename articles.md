@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/zorin-os-18-has-reached-2-million-downloads-with-1/' | relative_url }}">zorin os 18 has reached 2 million downloads with 1</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/vllm-large-scale-serving-deepseek-22k-toksh200-wit/' | relative_url }}">vllm large scale serving deepseek 22k toksh200 wit</a></h3>
 </div>
 <div class="article-row">
@@ -65,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/rust-at-volvo-cars/' | relative_url }}">rust at volvo cars</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/ramp-built-a-background-coding-agent-that-writes-a/' | relative_url }}">ramp built a background coding agent that writes a</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/never-before-seen-linux-malware-is-far-more-advanc/' | relative_url }}">never before seen linux malware is far more advanc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/llms-are-a-400-year-long-confidence-trick/' | relative_url }}">llms are a 400 year long confidence trick</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -126,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/ascii-clouds/' | relative_url }}">ascii clouds</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/ai-writes-code-faster-your-job-is-still-to-prove-i/' | relative_url }}">ai writes code faster your job is still to prove i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
