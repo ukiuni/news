@@ -8,6 +8,26 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/the-lang-programming-language/' | relative_url }}">the lang programming language</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/the-insecure-evangelism-of-llm-maximalists/' | relative_url }}">the insecure evangelism of llm maximalists</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/every-github-object-has-two-ids/' | relative_url }}">every github object has two ids</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/eol-hardware-should-mean-open-source-software/' | relative_url }}">eol hardware should mean open source software</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/a-40-line-fix-eliminated-a-400x-performance-gap/' | relative_url }}">a 40 line fix eliminated a 400x performance gap</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/13</span>
   <h3><a href="{{ '/2026/01/13/your-estimates-take-longer-than-expected-even-when/' | relative_url }}">your estimates take longer than expected even when</a></h3>
 </div>
