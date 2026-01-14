@@ -97,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/the-string-theory-hype-machine-will-never-die/' | relative_url }}">the string theory hype machine will never die</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/the-microservice-desync-modern-http-request-smuggl/' | relative_url }}">the microservice desync modern http request smuggl</a></h3>
 </div>
 <div class="article-row">
@@ -141,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/show-hn-webtiles-create-a-tiny-250x250-website-wit/' | relative_url }}">show hn webtiles create a tiny 250x250 website wit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/show-hn-tiny-foss-compass-and-navigation-app-2mb/' | relative_url }}">show hn tiny foss compass and navigation app 2mb</a></h3>
 </div>
 <div class="article-row">
@@ -173,7 +181,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/selfci-a-minimalistic-local-first-unix-philosophy/' | relative_url }}">selfci a minimalistic local first unix philosophy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/rust-at-volvo-cars/' | relative_url }}">rust at volvo cars</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/regulators-say-doordash-and-uber-eats-chiseled-nyc/' | relative_url }}">regulators say doordash and uber eats chiseled nyc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
@@ -241,6 +257,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/kovaaks-fps-aim-trainer-theme-parsing/' | relative_url }}">kovaaks fps aim trainer theme parsing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/just-the-browser/' | relative_url }}">just the browser</a></h3>
 </div>
 <div class="article-row">
@@ -289,6 +309,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/i-built-a-self-hosted-code-search-platform-with-bu/' | relative_url }}">i built a self hosted code search platform with bu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/how-do-you-build-serious-extension-features-within/' | relative_url }}">how do you build serious extension features within</a></h3>
 </div>
 <div class="article-row">
@@ -333,6 +357,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/claude-cowork-exfiltrates-files/' | relative_url }}">claude cowork exfiltrates files</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/chat-is-the-least-interesting-interface-to-llms/' | relative_url }}">chat is the least interesting interface to llms</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/caching-playbook-for-system-design-interviews/' | relative_url }}">caching playbook for system design interviews</a></h3>
 </div>
 <div class="article-row">
@@ -354,6 +386,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/bandcamp-becomes-the-first-major-music-platform-to/' | relative_url }}">bandcamp becomes the first major music platform to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/bandcamp-bans-purely-ai-generated-music-from-its-p/' | relative_url }}">bandcamp bans purely ai generated music from its p</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
