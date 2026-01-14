@@ -97,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/servo-2025-stats/' | relative_url }}">servo 2025 stats</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/rust-at-volvo-cars/' | relative_url }}">rust at volvo cars</a></h3>
 </div>
 <div class="article-row">
@@ -157,11 +161,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/is-rust-faster-than-c/' | relative_url }}">is rust faster than c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/interactive-ebpf-playground/' | relative_url }}">interactive ebpf playground</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/i-think-i-have-discovered-how-to-build-a-synthetic/' | relative_url }}">i think i have discovered how to build a synthetic</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/i-love-you-redis-but-im-leaving-you-for-solidqueue/' | relative_url }}">i love you redis but im leaving you for solidqueue</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/14</span>
+  <h3><a href="{{ '/2026/01/14/i-hate-github-actions-with-passion/' | relative_url }}">i hate github actions with passion</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
