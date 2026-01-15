@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/why-senior-engineers-let-bad-projects-fail/' | relative_url }}">why senior engineers let bad projects fail</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/why-do-writing-code-feels-easier-than-reading-some/' | relative_url }}">why do writing code feels easier than reading some</a></h3>
 </div>
 <div class="article-row">
@@ -33,7 +37,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/the-500k-ton-typo-why-data-center-copper-math-does/' | relative_url }}">the 500k ton typo why data center copper math does</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/test-your-square-brackets/' | relative_url }}">test your square brackets</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/supreme-court-hacked-proving-its-cybersecurity-is/' | relative_url }}">supreme court hacked proving its cybersecurity is</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/spring-then-amp-now-whats-next-rod-johnson-arjen-p/' | relative_url }}">spring then amp now whats next rod johnson arjen p</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -93,6 +109,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/microsoft-scrambles-to-quell-fury-around-its-new-a/' | relative_url }}">microsoft scrambles to quell fury around its new a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/lobsters-battlestations-and-screenshots-2026/' | relative_url }}">lobsters battlestations and screenshots 2026</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/infocorner-peer-to-peer-learning/' | relative_url }}">infocorner peer to peer learning</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/impeccable-style/' | relative_url }}">impeccable style</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
