@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/why-do-writing-code-feels-easier-than-reading-some/' | relative_url }}">why do writing code feels easier than reading some</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
 </div>
 <div class="article-row">
@@ -57,7 +61,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/open-source-strategies/' | relative_url }}">open source strategies</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/new-safari-developer-tools-provide-insight-into-cs/' | relative_url }}">new safari developer tools provide insight into cs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/lobsters-battlestations-and-screenshots-2026/' | relative_url }}">lobsters battlestations and screenshots 2026</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -81,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/graph-a-library-for-creating-generic-graph-data-st/' | relative_url }}">graph a library for creating generic graph data st</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/generate-qr-codes-with-pure-sql-in-postgresql/' | relative_url }}">generate qr codes with pure sql in postgresql</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/fbi-fights-leaks-by-seizing-washington-post-report/' | relative_url }}">fbi fights leaks by seizing washington post report</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/explicitly-sending-recent-edits-can-improve-ai-cod/' | relative_url }}">explicitly sending recent edits can improve ai cod</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -118,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/alternatives-to-minio-for-single-node-local-s3/' | relative_url }}">alternatives to minio for single node local s3</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/a-letter-to-those-who-fired-tech-writers-because-o/' | relative_url }}">a letter to those who fired tech writers because o</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
