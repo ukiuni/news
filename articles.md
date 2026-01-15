@@ -113,7 +113,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/show-hn-the-hessian-of-tall-skinny-networks-is-eas/' | relative_url }}">show hn the hessian of tall skinny networks is eas</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/show-hn-sparrow-1-audio-native-model-for-human-lev/' | relative_url }}">show hn sparrow 1 audio native model for human lev</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/show-hn-openwork-an-open-source-alternative-to-cla/' | relative_url }}">show hn openwork an open source alternative to cla</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -201,6 +209,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/linux-boxes-via-ssh-suspended-when-disconected/' | relative_url }}">linux boxes via ssh suspended when disconected</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/ken-thompson-rewrote-his-code-in-real-time-a-feder/' | relative_url }}">ken thompson rewrote his code in real time a feder</a></h3>
 </div>
 <div class="article-row">
@@ -246,6 +258,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/handy-free-open-source-speech-to-text-app/' | relative_url }}">handy free open source speech to text app</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/grug-brained-developer-a-humorous-but-serious-take/' | relative_url }}">grug brained developer a humorous but serious take</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
