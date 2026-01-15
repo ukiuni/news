@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/the-url-shortener-that-makes-your-links-look-as-su/' | relative_url }}">the url shortener that makes your links look as su</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/quick-fix-archaeology-3-famous-hacks-that-changed/' | relative_url }}">quick fix archaeology 3 famous hacks that changed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/project-skywatch-aka-wescam-at-home/' | relative_url }}">project skywatch aka wescam at home</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/new-safari-developer-tools-provide-insight-into-cs/' | relative_url }}">new safari developer tools provide insight into cs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
