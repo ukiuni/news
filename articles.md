@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/the-geolocation-html-element/' | relative_url }}">the geolocation html element</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/supreme-court-hacked-proving-its-cybersecurity-is/' | relative_url }}">supreme court hacked proving its cybersecurity is</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/self-learning-programming/' | relative_url }}">self learning programming</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/same-prompt-same-task-2-of-3-ai-coding-assistant-s/' | relative_url }}">same prompt same task 2 of 3 ai coding assistant s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/raspberry-pis-new-ai-hat-adds-8gb-of-ram-for-local/' | relative_url }}">raspberry pis new ai hat adds 8gb of ram for local</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -58,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/infocorner-peer-to-peer-learning/' | relative_url }}">infocorner peer to peer learning</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/have-taken-up-farming/' | relative_url }}">have taken up farming</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -98,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/anthropic-explicitly-blocking-opencode/' | relative_url }}">anthropic explicitly blocking opencode</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/alternatives-to-minio-for-single-node-local-s3/' | relative_url }}">alternatives to minio for single node local s3</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
