@@ -21,11 +21,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/show-hn-sparrow-1-audio-native-model-for-human-lev/' | relative_url }}">show hn sparrow 1 audio native model for human lev</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/quick-fix-archaeology-3-famous-hacks-that-changed/' | relative_url }}">quick fix archaeology 3 famous hacks that changed</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/ken-thompson-rewrote-his-code-in-real-time-a-feder/' | relative_url }}">ken thompson rewrote his code in real time a feder</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/jpyrust-a-zero-config-java-python-bridge-using-rus/' | relative_url }}">jpyrust a zero config java python bridge using rus</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
