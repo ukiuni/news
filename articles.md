@@ -33,7 +33,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/what-breaks-most-programming-learning-systems-at-s/' | relative_url }}">what breaks most programming learning systems at s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/the-url-shortener-that-makes-your-links-look-as-su/' | relative_url }}">the url shortener that makes your links look as su</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/the-senior-developer-is-now-the-new-entry-level/' | relative_url }}">the senior developer is now the new entry level</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/the-palantir-app-helping-ice-raids-in-minneapolis/' | relative_url }}">the palantir app helping ice raids in minneapolis</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -66,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/spotify-is-hiking-prices-again-premium-duo-family/' | relative_url }}">spotify is hiking prices again premium duo family</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/show-hn-tinycity-a-tiny-city-sim-for-micropython-t/' | relative_url }}">show hn tinycity a tiny city sim for micropython t</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -125,6 +141,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/obs-studio-3210-beta-1-available/' | relative_url }}">obs studio 3210 beta 1 available</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/new-safari-developer-tools-provide-insight-into-cs/' | relative_url }}">new safari developer tools provide insight into cs</a></h3>
 </div>
 <div class="article-row">
@@ -173,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/grok-now-bans-illegal-porn-generation-after-moneti/' | relative_url }}">grok now bans illegal porn generation after moneti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/graph-a-library-for-creating-generic-graph-data-st/' | relative_url }}">graph a library for creating generic graph data st</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/furiosa-35x-efficiency-over-h100s/' | relative_url }}">furiosa 35x efficiency over h100s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/forgejo-v140-is-available/' | relative_url }}">forgejo v140 is available</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -197,7 +225,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/cross-platform-mobile-dev-isnt-the-hard-part-anymo/' | relative_url }}">cross platform mobile dev isnt the hard part anymo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/coding-on-a-phone-what-i-learned-building-software/' | relative_url }}">coding on a phone what i learned building software</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/codeless-code-fables-koans-for-the-software-engine/' | relative_url }}">codeless code fables koans for the software engine</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -210,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/billion-dollar-idea-generator/' | relative_url }}">billion dollar idea generator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/apple-is-fighting-for-tsmc-capacity-as-nvidia-take/' | relative_url }}">apple is fighting for tsmc capacity as nvidia take</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -230,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/a-4-part-technical-series-on-how-i-built-nes-in-vs/' | relative_url }}">a 4 part technical series on how i built nes in vs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/25-years-of-wikipedia/' | relative_url }}">25 years of wikipedia</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
