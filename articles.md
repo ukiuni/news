@@ -9,11 +9,27 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/you-need-a-kitchen-slide-rule/' | relative_url }}">you need a kitchen slide rule</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/the-url-shortener-that-makes-your-links-look-as-su/' | relative_url }}">the url shortener that makes your links look as su</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/supreme-court-hacked-proving-its-cybersecurity-is/' | relative_url }}">supreme court hacked proving its cybersecurity is</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/quick-fix-archaeology-3-famous-hacks-that-changed/' | relative_url }}">quick fix archaeology 3 famous hacks that changed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/ken-thompson-rewrote-his-code-in-real-time-a-feder/' | relative_url }}">ken thompson rewrote his code in real time a feder</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/infocorner-peer-to-peer-learning/' | relative_url }}">infocorner peer to peer learning</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -34,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/coding-on-a-phone-what-i-learned-building-software/' | relative_url }}">coding on a phone what i learned building software</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/california-to-investigate-xai-over-grok-chatbot-im/' | relative_url }}">california to investigate xai over grok chatbot im</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
