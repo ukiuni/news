@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/sinclair-c5/' | relative_url }}">sinclair c5</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/show-hn-tinycity-a-tiny-city-sim-for-micropython-t/' | relative_url }}">show hn tinycity a tiny city sim for micropython t</a></h3>
 </div>
 <div class="article-row">
@@ -157,6 +161,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/matthew-mcconaughey-trademarks-himself-to-fight-ai/' | relative_url }}">matthew mcconaughey trademarks himself to fight ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/lobsters-battlestations-and-screenshots-2026/' | relative_url }}">lobsters battlestations and screenshots 2026</a></h3>
 </div>
 <div class="article-row">
@@ -225,6 +233,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/cursor-ceo-built-a-browser-using-ai-but-does-it-re/' | relative_url }}">cursor ceo built a browser using ai but does it re</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/cross-platform-mobile-dev-isnt-the-hard-part-anymo/' | relative_url }}">cross platform mobile dev isnt the hard part anymo</a></h3>
 </div>
 <div class="article-row">
@@ -242,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/bubblewrap-a-nimble-way-to-prevent-agents-from-acc/' | relative_url }}">bubblewrap a nimble way to prevent agents from acc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/boeing-knew-about-flaws-in-ups-plane-that-crashed/' | relative_url }}">boeing knew about flaws in ups plane that crashed</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
