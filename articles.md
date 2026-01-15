@@ -173,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/pocket-tts-a-high-quality-tts-that-gives-your-cpu/' | relative_url }}">pocket tts a high quality tts that gives your cpu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/photos-capture-the-breathtaking-scale-of-chinas-wi/' | relative_url }}">photos capture the breathtaking scale of chinas wi</a></h3>
 </div>
 <div class="article-row">
@@ -226,6 +230,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/jpyrust-a-zero-config-java-python-bridge-using-rus/' | relative_url }}">jpyrust a zero config java python bridge using rus</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/its-ai-blackface-social-media-account-hailed-as-th/' | relative_url }}">its ai blackface social media account hailed as th</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -333,6 +341,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/data-is-the-only-moat/' | relative_url }}">data is the only moat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/cves-affecting-the-svelte-ecosystem/' | relative_url }}">cves affecting the svelte ecosystem</a></h3>
 </div>
 <div class="article-row">
@@ -374,6 +386,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/billion-dollar-idea-generator/' | relative_url }}">billion dollar idea generator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/automate-your-github-workflow-with-gemini-cli/' | relative_url }}">automate your github workflow with gemini cli</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
