@@ -89,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/software-development-waste/' | relative_url }}">software development waste</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/sinclair-c5/' | relative_url }}">sinclair c5</a></h3>
 </div>
 <div class="article-row">
@@ -185,7 +189,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/juicefs-is-a-distributed-posix-file-system-built-o/' | relative_url }}">juicefs is a distributed posix file system built o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/jpyrust-a-zero-config-java-python-bridge-using-rus/' | relative_url }}">jpyrust a zero config java python bridge using rus</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/iterative-image-reconstruction-using-random-cubic/' | relative_url }}">iterative image reconstruction using random cubic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/inside-the-internet-archives-infrastructure/' | relative_url }}">inside the internet archives infrastructure</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -202,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/how-to-make-architecture-decisions-rfcs-adrs-and-g/' | relative_url }}">how to make architecture decisions rfcs adrs and g</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/how-i-built-a-magic-move-animation-engine-for-exca/' | relative_url }}">how i built a magic move animation engine for exca</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -241,7 +261,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/first-impressions-of-claude-cowork/' | relative_url }}">first impressions of claude cowork</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/fbi-fights-leaks-by-seizing-washington-post-report/' | relative_url }}">fbi fights leaks by seizing washington post report</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/exploring-the-skills-of-junior-mid-and-senior-engi/' | relative_url }}">exploring the skills of junior mid and senior engi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -254,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/design-and-implementation-of-sprites/' | relative_url }}">design and implementation of sprites</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/cves-affecting-the-svelte-ecosystem/' | relative_url }}">cves affecting the svelte ecosystem</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -270,6 +302,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/codeless-code-fables-koans-for-the-software-engine/' | relative_url }}">codeless code fables koans for the software engine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/claude-is-good-at-assembling-blocks-but-still-fall/' | relative_url }}">claude is good at assembling blocks but still fall</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
