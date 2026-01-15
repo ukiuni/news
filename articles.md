@@ -29,6 +29,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/did-ai-kill-stack-overflow-i-hope-it-survives/' | relative_url }}">did ai kill stack overflow i hope it survives</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/coding-on-a-phone-what-i-learned-building-software/' | relative_url }}">coding on a phone what i learned building software</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/bubblewrap-a-nimble-way-to-prevent-agents-from-acc/' | relative_url }}">bubblewrap a nimble way to prevent agents from acc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/billion-dollar-idea-generator/' | relative_url }}">billion dollar idea generator</a></h3>
 </div>
 <div class="article-row">
