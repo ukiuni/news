@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/z80-membership-card/' | relative_url }}">z80 membership card</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/you-need-a-kitchen-slide-rule/' | relative_url }}">you need a kitchen slide rule</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/project-skywatch-aka-wescam-at-home/' | relative_url }}">project skywatch aka wescam at home</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/programmer-in-wonderland/' | relative_url }}">programmer in wonderland</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/photos-capture-the-breathtaking-scale-of-chinas-wi/' | relative_url }}">photos capture the breathtaking scale of chinas wi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/partitioning-vs-sharding-a-simple-explanation-for/' | relative_url }}">partitioning vs sharding a simple explanation for</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -138,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/alternatives-to-minio-for-single-node-local-s3/' | relative_url }}">alternatives to minio for single node local s3</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/ai-may-be-everywhere-but-its-nowhere-in-recent-pro/' | relative_url }}">ai may be everywhere but its nowhere in recent pro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
