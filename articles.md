@@ -8,6 +8,22 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/supreme-court-hacked-proving-its-cybersecurity-is/' | relative_url }}">supreme court hacked proving its cybersecurity is</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/ken-thompson-rewrote-his-code-in-real-time-a-feder/' | relative_url }}">ken thompson rewrote his code in real time a feder</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/generate-qr-codes-with-pure-sql-in-postgresql/' | relative_url }}">generate qr codes with pure sql in postgresql</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/anthropic-explicitly-blocking-opencode/' | relative_url }}">anthropic explicitly blocking opencode</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/14</span>
   <h3><a href="{{ '/2026/01/14/zorin-os-18-has-reached-2-million-downloads-with-1/' | relative_url }}">zorin os 18 has reached 2 million downloads with 1</a></h3>
 </div>
