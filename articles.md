@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/python-program-obfuscation-tool/' | relative_url }}">python program obfuscation tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/project-skywatch-aka-wescam-at-home/' | relative_url }}">project skywatch aka wescam at home</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/infocorner-peer-to-peer-learning/' | relative_url }}">infocorner peer to peer learning</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/handy-free-open-source-speech-to-text-app/' | relative_url }}">handy free open source speech to text app</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -86,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/anthropic-explicitly-blocking-opencode/' | relative_url }}">anthropic explicitly blocking opencode</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/a-4-part-technical-series-on-how-i-built-nes-in-vs/' | relative_url }}">a 4 part technical series on how i built nes in vs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/14</span>
