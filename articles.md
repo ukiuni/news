@@ -21,6 +21,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/furiosa-35x-efficiency-over-h100s/' | relative_url }}">furiosa 35x efficiency over h100s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/fbi-fights-leaks-by-seizing-washington-post-report/' | relative_url }}">fbi fights leaks by seizing washington post report</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/billion-dollar-idea-generator/' | relative_url }}">billion dollar idea generator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/anthropic-explicitly-blocking-opencode/' | relative_url }}">anthropic explicitly blocking opencode</a></h3>
 </div>
 <div class="article-row">
