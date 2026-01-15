@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/windows-linux-browser-same-executable/' | relative_url }}">windows linux browser same executable</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/why-senior-engineers-let-bad-projects-fail/' | relative_url }}">why senior engineers let bad projects fail</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/what-breaks-most-programming-learning-systems-at-s/' | relative_url }}">what breaks most programming learning systems at s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/uk-offshore-wind-prices-come-in-40-cheaper-than-ga/' | relative_url }}">uk offshore wind prices come in 40 cheaper than ga</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -90,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/software-development-waste/' | relative_url }}">software development waste</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/six-months-later-president-mobile-still-hasnt-deli/' | relative_url }}">six months later president mobile still hasnt deli</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -162,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/obs-studio-3210-beta-1-available/' | relative_url }}">obs studio 3210 beta 1 available</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/new-social-web-working-group-at-w3c/' | relative_url }}">new social web working group at w3c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -241,6 +257,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/go-home-windows-exe-youre-drunk/' | relative_url }}">go home windows exe youre drunk</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/github-incident/' | relative_url }}">github incident</a></h3>
 </div>
 <div class="article-row">
@@ -306,6 +326,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/claude-is-good-at-assembling-blocks-but-still-fall/' | relative_url }}">claude is good at assembling blocks but still fall</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/claude-cowork-runs-linux-vm-via-apple-virtualizati/' | relative_url }}">claude cowork runs linux vm via apple virtualizati</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
