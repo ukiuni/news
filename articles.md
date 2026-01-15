@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/why-forcing-a-developer-to-take-time-off-actually/' | relative_url }}">why forcing a developer to take time off actually</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/why-do-writing-code-feels-easier-than-reading-some/' | relative_url }}">why do writing code feels easier than reading some</a></h3>
 </div>
 <div class="article-row">
@@ -37,7 +41,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/the-context-window-problem-nobody-talks-about-how/' | relative_url }}">the context window problem nobody talks about how</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/the-500k-ton-typo-why-data-center-copper-math-does/' | relative_url }}">the 500k ton typo why data center copper math does</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/the-3d-software-rendering-technology-of-1998s-thie/' | relative_url }}">the 3d software rendering technology of 1998s thie</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -53,11 +65,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/spotify-is-hiking-prices-again-premium-duo-family/' | relative_url }}">spotify is hiking prices again premium duo family</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/show-hn-sparrow-1-audio-native-model-for-human-lev/' | relative_url }}">show hn sparrow 1 audio native model for human lev</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/self-learning-programming/' | relative_url }}">self learning programming</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/scientists-develop-spray-on-powder-that-instantly/' | relative_url }}">scientists develop spray on powder that instantly</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -82,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/project-skywatch-aka-wescam-at-home/' | relative_url }}">project skywatch aka wescam at home</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/programming-evolved-lessons-and-observations/' | relative_url }}">programming evolved lessons and observations</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
@@ -130,6 +154,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/15</span>
   <h3><a href="{{ '/2026/01/15/impeccable-style/' | relative_url }}">impeccable style</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/ideas-are-cheap-execution-is-cheaper/' | relative_url }}">ideas are cheap execution is cheaper</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/15</span>
+  <h3><a href="{{ '/2026/01/15/how-to-make-architecture-decisions-rfcs-adrs-and-g/' | relative_url }}">how to make architecture decisions rfcs adrs and g</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/15</span>
