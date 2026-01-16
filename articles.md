@@ -61,6 +61,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/the-engineer-to-executive-translation-layer/' | relative_url }}">the engineer to executive translation layer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/supreme-court-hacker-posted-stolen-government-data/' | relative_url }}">supreme court hacker posted stolen government data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/stop-overengineering-how-to-write-clean-code-that/' | relative_url }}">stop overengineering how to write clean code that</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/smalloc-a-simple-memory-allocator/' | relative_url }}">smalloc a simple memory allocator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/slop-is-everywhere-for-those-with-eyes-to-see/' | relative_url }}">slop is everywhere for those with eyes to see</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
@@ -245,11 +257,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/east-germany-balloon-escape/' | relative_url }}">east germany balloon escape</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/dynamic-programming/' | relative_url }}">dynamic programming</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/docker-releases-hardened-images-for-free-what-does/' | relative_url }}">docker releases hardened images for free what does</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/do-you-and-company-where-you-work-already-integrat/' | relative_url }}">do you and company where you work already integrat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
