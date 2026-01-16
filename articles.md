@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/us-says-canada-will-regret-decision-to-allow-chine/' | relative_url }}">us says canada will regret decision to allow chine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/training-my-smartwatch-to-track-intelligence/' | relative_url }}">training my smartwatch to track intelligence</a></h3>
 </div>
 <div class="article-row">
@@ -221,7 +225,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/elasticsearch-was-never-a-database/' | relative_url }}">elasticsearch was never a database</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/dynamic-programming/' | relative_url }}">dynamic programming</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/docker-releases-hardened-images-for-free-what-does/' | relative_url }}">docker releases hardened images for free what does</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
