@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/list-of-individual-trees/' | relative_url }}">list of individual trees</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/i-am-very-annoyed-pharma-execs-blast-rfk-jrs-attac/' | relative_url }}">i am very annoyed pharma execs blast rfk jrs attac</a></h3>
 </div>
 <div class="article-row">
@@ -45,7 +49,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/histomat-of-foss-we-should-reclaim-llms-not-reject/' | relative_url }}">histomat of foss we should reclaim llms not reject</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/financial-expert-says-openai-is-on-the-verge-of-ru/' | relative_url }}">financial expert says openai is on the verge of ru</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/everything-you-need-to-know-about-act-in-react-tes/' | relative_url }}">everything you need to know about act in react tes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/dynamic-programming/' | relative_url }}">dynamic programming</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
@@ -62,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/boeing-knew-of-flaw-in-part-linked-to-ups-plane-cr/' | relative_url }}">boeing knew of flaw in part linked to ups plane cr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/all-23-bit-still-lifes-are-glider-constructible/' | relative_url }}">all 23 bit still lifes are glider constructible</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
