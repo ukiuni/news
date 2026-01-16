@@ -105,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/releasing-rainbow-tables-to-accelerate-net-ntlmv1/' | relative_url }}">releasing rainbow tables to accelerate net ntlmv1</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/reading-across-books-with-claude-code/' | relative_url }}">reading across books with claude code</a></h3>
 </div>
 <div class="article-row">
@@ -161,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/llm-structured-outputs-handbook/' | relative_url }}">llm structured outputs handbook</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/list-of-individual-trees/' | relative_url }}">list of individual trees</a></h3>
 </div>
 <div class="article-row">
@@ -185,7 +193,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/installmd-a-standard-for-llm-executable-installati/' | relative_url }}">installmd a standard for llm executable installati</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/if-you-have-ever-seen-beautiful-cgi-simulations-of/' | relative_url }}">if you have ever seen beautiful cgi simulations of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/i-set-all-376-vim-options-and-im-still-a-fool/' | relative_url }}">i set all 376 vim options and im still a fool</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
@@ -326,6 +342,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/arrows-either-the-kotlin-chapter-of-our-scary-word/' | relative_url }}">arrows either the kotlin chapter of our scary word</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/anthropic-an-ai-company-warns-that-ai-will-worsen/' | relative_url }}">anthropic an ai company warns that ai will worsen</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
