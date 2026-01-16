@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/training-my-smartwatch-to-track-intelligence/' | relative_url }}">training my smartwatch to track intelligence</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/the-spectrum-of-isolation-from-bare-metal-to-webas/' | relative_url }}">the spectrum of isolation from bare metal to webas</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/state-department-threatens-uk-over-grok-investigat/' | relative_url }}">state department threatens uk over grok investigat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/show-hn-the-analog-i-inducing-recursive-self-model/' | relative_url }}">show hn the analog i inducing recursive self model</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
@@ -81,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/michelangelos-first-painting-created-when-he-was-o/' | relative_url }}">michelangelos first painting created when he was o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/mcp-load-testing-with-grafana-k6/' | relative_url }}">mcp load testing with grafana k6</a></h3>
 </div>
 <div class="article-row">
@@ -121,6 +133,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/grok-made-sexual-image-of-ashley-st-clair-covered/' | relative_url }}">grok made sexual image of ashley st clair covered</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/glasgow-interface-explorer-code-of-conduct/' | relative_url }}">glasgow interface explorer code of conduct</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/from-building-houses-to-storage-engines/' | relative_url }}">from building houses to storage engines</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/dynamic-programming/' | relative_url }}">dynamic programming</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/dev-owned-testing-why-it-fails-in-practice-and-suc/' | relative_url }}">dev owned testing why it fails in practice and suc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
