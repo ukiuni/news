@@ -17,7 +17,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/the-myth-of-the-thinkpad/' | relative_url }}">the myth of the thinkpad</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/stop-overengineering-how-to-write-clean-code-that/' | relative_url }}">stop overengineering how to write clean code that</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/state-department-threatens-uk-over-grok-investigat/' | relative_url }}">state department threatens uk over grok investigat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
@@ -37,6 +45,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/everything-you-need-to-know-about-act-in-react-tes/' | relative_url }}">everything you need to know about act in react tes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/decoding-high-bandwidth-memory-a-practical-guide-t/' | relative_url }}">decoding high bandwidth memory a practical guide t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/cloudflare-threatens-italy-exit-over-14m-fine/' | relative_url }}">cloudflare threatens italy exit over 14m fine</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/ai-resume-tool-error-pushed-new-ice-agents-into-th/' | relative_url }}">ai resume tool error pushed new ice agents into th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/a-0-click-exploit-chain-for-the-pixel-9-part-1-dec/' | relative_url }}">a 0 click exploit chain for the pixel 9 part 1 dec</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
