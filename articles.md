@@ -17,6 +17,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/stop-overengineering-how-to-write-clean-code-that/' | relative_url }}">stop overengineering how to write clean code that</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/show-hn-gambit-an-open-source-agent-harness-for-bu/' | relative_url }}">show hn gambit an open source agent harness for bu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/openbsd-current-now-runs-as-guest-under-apple-hype/' | relative_url }}">openbsd current now runs as guest under apple hype</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/briar-keeps-iran-connected-via-bluetooth-and-wi-fi/' | relative_url }}">briar keeps iran connected via bluetooth and wi fi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/boeing-knew-of-flaw-in-part-linked-to-ups-plane-cr/' | relative_url }}">boeing knew of flaw in part linked to ups plane cr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
