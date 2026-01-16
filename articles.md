@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/verizon-gets-approval-to-make-it-harder-for-custom/' | relative_url }}">verizon gets approval to make it harder for custom</a></h3>
 </div>
 <div class="article-row">
@@ -53,11 +57,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/on-being-a-human-being-in-the-time-of-collapse-202/' | relative_url }}">on being a human being in the time of collapse 202</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/mcp-load-testing-with-grafana-k6/' | relative_url }}">mcp load testing with grafana k6</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/list-of-individual-trees/' | relative_url }}">list of individual trees</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/introducing-flask-gae-logging-for-a-better-dx-when/' | relative_url }}">introducing flask gae logging for a better dx when</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/interactive-ebpf/' | relative_url }}">interactive ebpf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
@@ -77,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/five-british-families-sue-tiktok-over-deaths-of-th/' | relative_url }}">five british families sue tiktok over deaths of th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/financial-expert-says-openai-is-on-the-verge-of-ru/' | relative_url }}">financial expert says openai is on the verge of ru</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +110,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/decoding-high-bandwidth-memory-a-practical-guide-t/' | relative_url }}">decoding high bandwidth memory a practical guide t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/cue-does-it-all-but-can-it-literate/' | relative_url }}">cue does it all but can it literate</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/css-optical-illusions/' | relative_url }}">css optical illusions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
@@ -114,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/ai-resume-tool-error-pushed-new-ice-agents-into-th/' | relative_url }}">ai resume tool error pushed new ice agents into th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/ai-destroys-institutions/' | relative_url }}">ai destroys institutions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
