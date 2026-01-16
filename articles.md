@@ -61,6 +61,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/modern-java/' | relative_url }}">modern java</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/model-inversion-reconstructing-your-training-data/' | relative_url }}">model inversion reconstructing your training data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/mcp-load-testing-with-grafana-k6/' | relative_url }}">mcp load testing with grafana k6</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/boeing-knew-of-flaw-in-part-linked-to-ups-plane-cr/' | relative_url }}">boeing knew of flaw in part linked to ups plane cr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/arrows-either-the-kotlin-chapter-of-our-scary-word/' | relative_url }}">arrows either the kotlin chapter of our scary word</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
