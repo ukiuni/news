@@ -17,6 +17,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/x-is-down-thousands-of-users-report-outage-on-soci/' | relative_url }}">x is down thousands of users report outage on soci</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/x-has-stopped-working/' | relative_url }}">x has stopped working</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/why-is-zig-so-cool/' | relative_url }}">why is zig so cool</a></h3>
 </div>
 <div class="article-row">
@@ -145,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/i-built-personal-store-because-i-was-tired-of-text/' | relative_url }}">i built personal store because i was tired of text</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/i-am-very-annoyed-pharma-execs-blast-rfk-jrs-attac/' | relative_url }}">i am very annoyed pharma execs blast rfk jrs attac</a></h3>
 </div>
 <div class="article-row">
@@ -153,11 +165,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/how-to-make-a-blog/' | relative_url }}">how to make a blog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/how-clickhouse-handles-strings/' | relative_url }}">how clickhouse handles strings</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/histomat-of-foss-we-should-reclaim-llms-not-reject/' | relative_url }}">histomat of foss we should reclaim llms not reject</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/hard-drive-prices-have-surged-by-an-average-of-46/' | relative_url }}">hard drive prices have surged by an average of 46</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
@@ -214,6 +234,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/cloudflare-threatens-italy-exit-over-14m-fine/' | relative_url }}">cloudflare threatens italy exit over 14m fine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/canada-slashes-100-tariffs-on-chinese-evs-to-6/' | relative_url }}">canada slashes 100 tariffs on chinese evs to 6</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
