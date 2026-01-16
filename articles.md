@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/read_once-write_once-but-not-for-rust/' | relative_url }}">read_once write_once but not for rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/psc-the-ps-utility-with-an-ebpf-twist-and-containe/' | relative_url }}">psc the ps utility with an ebpf twist and containe</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/list-of-individual-trees/' | relative_url }}">list of individual trees</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/launch-hn-indy-yc-s21-a-support-app-designed-for-a/' | relative_url }}">launch hn indy yc s21 a support app designed for a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
@@ -209,6 +217,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/can-you-disable-spotlight-and-siri-in-macos-tahoe/' | relative_url }}">can you disable spotlight and siri in macos tahoe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/building-a-better-bugbot/' | relative_url }}">building a better bugbot</a></h3>
 </div>
 <div class="article-row">
@@ -246,6 +258,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/a-0-click-exploit-chain-for-the-pixel-9-part-1-dec/' | relative_url }}">a 0 click exploit chain for the pixel 9 part 1 dec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/6-day-and-ip-address-certificates-are-generally-av/' | relative_url }}">6 day and ip address certificates are generally av</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
