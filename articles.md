@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/show-hn-i-built-a-text-based-business-simulator-to/' | relative_url }}">show hn i built a text based business simulator to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/show-hn-gambit-an-open-source-agent-harness-for-bu/' | relative_url }}">show hn gambit an open source agent harness for bu</a></h3>
 </div>
 <div class="article-row">
@@ -53,11 +57,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/patching-the-wii-news-channel-to-serve-local-news/' | relative_url }}">patching the wii news channel to serve local news</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/openbsd-current-now-runs-as-guest-under-apple-hype/' | relative_url }}">openbsd current now runs as guest under apple hype</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/on-being-a-human-being-in-the-time-of-collapse-202/' | relative_url }}">on being a human being in the time of collapse 202</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/new-one-click-microsoft-copilot-vulnerability-gran/' | relative_url }}">new one click microsoft copilot vulnerability gran</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
@@ -77,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/kitchen-display-system-pagers/' | relative_url }}">kitchen display system pagers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/introducing-flask-gae-logging-for-a-better-dx-when/' | relative_url }}">introducing flask gae logging for a better dx when</a></h3>
 </div>
 <div class="article-row">
@@ -93,7 +109,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/how-clickhouse-handles-strings/' | relative_url }}">how clickhouse handles strings</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/histomat-of-foss-we-should-reclaim-llms-not-reject/' | relative_url }}">histomat of foss we should reclaim llms not reject</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/hands-on-introduction-to-unikernels/' | relative_url }}">hands on introduction to unikernels</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
