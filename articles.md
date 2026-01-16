@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/we-didnt-align-we-argued-and-shipped-a-better-syst/' | relative_url }}">we didnt align we argued and shipped a better syst</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/verizon-gets-approval-to-make-it-harder-for-custom/' | relative_url }}">verizon gets approval to make it harder for custom</a></h3>
 </div>
 <div class="article-row">
@@ -69,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/smalloc-a-simple-memory-allocator/' | relative_url }}">smalloc a simple memory allocator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/show-hn-the-analog-i-inducing-recursive-self-model/' | relative_url }}">show hn the analog i inducing recursive self model</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/rfk-jr-orders-study-on-cellphone-radiation-as-fda/' | relative_url }}">rfk jr orders study on cellphone radiation as fda</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/reading-across-books-with-claude-code/' | relative_url }}">reading across books with claude code</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
@@ -186,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/histomat-of-foss-we-should-reclaim-llms-not-reject/' | relative_url }}">histomat of foss we should reclaim llms not reject</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/16</span>
+  <h3><a href="{{ '/2026/01/16/here-is-the-15-sec-coding-test-to-instantly-filter/' | relative_url }}">here is the 15 sec coding test to instantly filter</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
