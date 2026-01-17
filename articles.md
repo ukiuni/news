@@ -17,11 +17,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/wikipedia-is-now-getting-paid-by-meta-microsoft-pe/' | relative_url }}">wikipedia is now getting paid by meta microsoft pe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/what-are-your-favorite-drawing-libraries/' | relative_url }}">what are your favorite drawing libraries</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/visual-macro-editor-for-gamepad-keyboard-and-mouse/' | relative_url }}">visual macro editor for gamepad keyboard and mouse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -38,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/this-is-worse-than-the-dot-com-bubble/' | relative_url }}">this is worse than the dot com bubble</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/the-recurring-dream-of-replacing-developers/' | relative_url }}">the recurring dream of replacing developers</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -62,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/sergei-fedorovs-escape-from-soviet-union-helped-sa/' | relative_url }}">sergei fedorovs escape from soviet union helped sa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/sen-bernie-sanders-slams-mehmet-oz-for-praising-ro/' | relative_url }}">sen bernie sanders slams mehmet oz for praising ro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -162,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/architecture-for-disposable-systems/' | relative_url }}">architecture for disposable systems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/archimate-philosophy-and-behaviour-driven-developm/' | relative_url }}">archimate philosophy and behaviour driven developm</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
