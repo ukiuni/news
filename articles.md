@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/the-thing-that-brought-me-joy/' | relative_url }}">the thing that brought me joy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/the-recurring-dream-of-replacing-developers/' | relative_url }}">the recurring dream of replacing developers</a></h3>
 </div>
 <div class="article-row">
@@ -193,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/how-many-pixels-do-you-really-need/' | relative_url }}">how many pixels do you really need</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/high-level-is-the-goal/' | relative_url }}">high level is the goal</a></h3>
 </div>
 <div class="article-row">
@@ -277,6 +285,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/below-the-surface-archeological-finds-from-the-ams/' | relative_url }}">below the surface archeological finds from the ams</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/beebo-a-wave-simulator-written-in-c/' | relative_url }}">beebo a wave simulator written in c</a></h3>
 </div>
 <div class="article-row">
@@ -301,7 +313,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/a-programming-language-based-on-grammatical-cases/' | relative_url }}">a programming language based on grammatical cases</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/2025-was-the-third-hottest-year-on-record/' | relative_url }}">2025 was the third hottest year on record</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/-youtube/' | relative_url }}"> youtube</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
