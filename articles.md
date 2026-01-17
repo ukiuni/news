@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/the-evolution-of-cmake-25-years-of-c-build-portabi/' | relative_url }}">the evolution of cmake 25 years of c build portabi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/the-dilbert-afterlife/' | relative_url }}">the dilbert afterlife</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/chinese-evs-are-making-inroads-in-north-america-th/' | relative_url }}">chinese evs are making inroads in north america th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/c-python-alex-dathskovsky-cppcon-2025/' | relative_url }}">c python alex dathskovsky cppcon 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
