@@ -25,11 +25,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/supreme-court-will-decide-on-use-of-warrants-that/' | relative_url }}">supreme court will decide on use of warrants that</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/patch-tuesday-update-makes-windows-pcs-refuse-to-s/' | relative_url }}">patch tuesday update makes windows pcs refuse to s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/left-in-the-cold-study-finds-most-renters-shut-out/' | relative_url }}">left in the cold study finds most renters shut out</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/learning-better-decision-tree-splits-llms-as-heuri/' | relative_url }}">learning better decision tree splits llms as heuri</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -42,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/flux2-klein-towards-interactive-visual-intelligenc/' | relative_url }}">flux2 klein towards interactive visual intelligenc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/drone-hacking-part-1-dumping-firmware-and-brutefor/' | relative_url }}">drone hacking part 1 dumping firmware and brutefor</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
