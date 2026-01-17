@@ -8,6 +8,10 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/left-in-the-cold-study-finds-most-renters-shut-out/' | relative_url }}">left in the cold study finds most renters shut out</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/16</span>
   <h3><a href="{{ '/2026/01/16/you-cant-control-what-you-cant-see-cost-visibility/' | relative_url }}">you cant control what you cant see cost visibility</a></h3>
 </div>
