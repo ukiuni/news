@@ -93,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/steam-updates-ai-disclosure-form-to-specify-that-i/' | relative_url }}">steam updates ai disclosure form to specify that i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/show-hn-what-if-your-menu-bar-was-a-keyboard-contr/' | relative_url }}">show hn what if your menu bar was a keyboard contr</a></h3>
 </div>
 <div class="article-row">
@@ -113,7 +117,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/rusts-culture-of-semantic-precision/' | relative_url }}">rusts culture of semantic precision</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/patch-tuesday-update-makes-windows-pcs-refuse-to-s/' | relative_url }}">patch tuesday update makes windows pcs refuse to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/openai-to-test-ads-in-chatgpt-as-it-burns-through/' | relative_url }}">openai to test ads in chatgpt as it burns through</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -241,11 +253,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/common-misunderstandings-about-large-software-comp/' | relative_url }}">common misunderstandings about large software comp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/clickhouse-acquires-langfuse/' | relative_url }}">clickhouse acquires langfuse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/chinese-evs-are-making-inroads-in-north-america-th/' | relative_url }}">chinese evs are making inroads in north america th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/canada-wants-to-be-1st-in-north-america-to-build-e/' | relative_url }}">canada wants to be 1st in north america to build e</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
