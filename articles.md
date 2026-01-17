@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/kip-a-programming-language-based-on-grammatical-ca/' | relative_url }}">kip a programming language based on grammatical ca</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/ikea-for-software/' | relative_url }}">ikea for software</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/flux2-klein-towards-interactive-visual-intelligenc/' | relative_url }}">flux2 klein towards interactive visual intelligenc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/every-data-centre-is-a-us-military-base/' | relative_url }}">every data centre is a us military base</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -74,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/crypto-grifters-are-recruiting-open-source-ai-deve/' | relative_url }}">crypto grifters are recruiting open source ai deve</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/clickhouse-acquires-langfuse/' | relative_url }}">clickhouse acquires langfuse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
