@@ -29,11 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/we-put-claude-code-in-rollercoaster-tycoon/' | relative_url }}">we put claude code in rollercoaster tycoon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/visual-macro-editor-for-gamepad-keyboard-and-mouse/' | relative_url }}">visual macro editor for gamepad keyboard and mouse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/us-electricity-demand-surged-in-2025-solar-handled/' | relative_url }}">us electricity demand surged in 2025 solar handled</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/tsa-facial-recognition-raises-traveler-rights-conc/' | relative_url }}">tsa facial recognition raises traveler rights conc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/patch-tuesday-update-makes-windows-pcs-refuse-to-s/' | relative_url }}">patch tuesday update makes windows pcs refuse to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/nvidia-suppliers-halt-h200-output-after-china-bloc/' | relative_url }}">nvidia suppliers halt h200 output after china bloc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -166,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/c-python-alex-dathskovsky-cppcon-2025/' | relative_url }}">c python alex dathskovsky cppcon 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/building-a-coding-agent-provider-agnostic/' | relative_url }}">building a coding agent provider agnostic</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
