@@ -9,7 +9,27 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/three-secure-coding-lessons-from-a-log-injection-b/' | relative_url }}">three secure coding lessons from a log injection b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/thought-my-upper-back-was-tight-from-sitting-all-d/' | relative_url }}">thought my upper back was tight from sitting all d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/patch-tuesday-update-makes-windows-pcs-refuse-to-s/' | relative_url }}">patch tuesday update makes windows pcs refuse to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/left-in-the-cold-study-finds-most-renters-shut-out/' | relative_url }}">left in the cold study finds most renters shut out</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/designated-initializers-the-best-feature-of-c20/' | relative_url }}">designated initializers the best feature of c20</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/cutting-llm-token-usage-by-80-using-repl-driven-do/' | relative_url }}">cutting llm token usage by 80 using repl driven do</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
