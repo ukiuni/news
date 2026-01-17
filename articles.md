@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/the-600-year-old-origins-of-the-word-hello/' | relative_url }}">the 600 year old origins of the word hello</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/supreme-court-will-decide-on-use-of-warrants-that/' | relative_url }}">supreme court will decide on use of warrants that</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/patch-tuesday-update-makes-windows-pcs-refuse-to-s/' | relative_url }}">patch tuesday update makes windows pcs refuse to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/npgsqlrest-vs-postgrest-vs-supabase-complete-featu/' | relative_url }}">npgsqlrest vs postgrest vs supabase complete featu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -97,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/finding-and-fixing-a-50k-goroutine-leak-that-nearl/' | relative_url }}">finding and fixing a 50k goroutine leak that nearl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/every-data-centre-is-a-us-military-base/' | relative_url }}">every data centre is a us military base</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/ascii-characters-are-not-pixels-a-deep-dive-into-a/' | relative_url }}">ascii characters are not pixels a deep dive into a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/architecture-for-disposable-systems/' | relative_url }}">architecture for disposable systems</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
