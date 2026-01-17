@@ -25,11 +25,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/us-electricity-demand-surged-in-2025-solar-handled/' | relative_url }}">us electricity demand surged in 2025 solar handled</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/three-secure-coding-lessons-from-a-log-injection-b/' | relative_url }}">three secure coding lessons from a log injection b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/thought-my-upper-back-was-tight-from-sitting-all-d/' | relative_url }}">thought my upper back was tight from sitting all d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/this-is-worse-than-the-dot-com-bubble/' | relative_url }}">this is worse than the dot com bubble</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/the-dilbert-afterlife/' | relative_url }}">the dilbert afterlife</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -42,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/patch-tuesday-update-makes-windows-pcs-refuse-to-s/' | relative_url }}">patch tuesday update makes windows pcs refuse to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/microservices-are-killing-your-performance-and-her/' | relative_url }}">microservices are killing your performance and her</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -62,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/kip-a-programming-language-based-on-grammatical-ca/' | relative_url }}">kip a programming language based on grammatical ca</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/iran-plans-permanent-break-from-global-internet-sa/' | relative_url }}">iran plans permanent break from global internet sa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -110,6 +130,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/beebo-a-wave-simulator-written-in-c/' | relative_url }}">beebo a wave simulator written in c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/ascii-characters-are-not-pixels-a-deep-dive-into-a/' | relative_url }}">ascii characters are not pixels a deep dive into a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/after-25-years-wikipedia-has-proved-that-news-does/' | relative_url }}">after 25 years wikipedia has proved that news does</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
