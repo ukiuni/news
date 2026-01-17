@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/what-is-the-craziest-reason-you-got-fired-for/' | relative_url }}">what is the craziest reason you got fired for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/what-are-your-favorite-drawing-libraries/' | relative_url }}">what are your favorite drawing libraries</a></h3>
 </div>
 <div class="article-row">
@@ -85,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/show-hn-what-if-your-menu-bar-was-a-keyboard-contr/' | relative_url }}">show hn what if your menu bar was a keyboard contr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/show-hn-streaming-gigabyte-medical-images-from-s3/' | relative_url }}">show hn streaming gigabyte medical images from s3</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +114,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/npgsqlrest-vs-postgrest-vs-supabase-complete-featu/' | relative_url }}">npgsqlrest vs postgrest vs supabase complete featu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/my-picture-was-used-in-child-abuse-images-ai-is-pu/' | relative_url }}">my picture was used in child abuse images ai is pu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/mindfry-an-open-source-database-that-forgets-stren/' | relative_url }}">mindfry an open source database that forgets stren</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -161,7 +177,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/engineering-a-columnar-database-in-rust-lessons-on/' | relative_url }}">engineering a columnar database in rust lessons on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/emoji-design-convergence-review-2018-2026/' | relative_url }}">emoji design convergence review 2018 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/earth-is-warming-faster-scientists-are-closing-in/' | relative_url }}">earth is warming faster scientists are closing in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -182,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/crypto-grifters-are-recruiting-open-source-ai-deve/' | relative_url }}">crypto grifters are recruiting open source ai deve</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/counterfactual-evaluation-for-recommendation-syste/' | relative_url }}">counterfactual evaluation for recommendation syste</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
@@ -222,6 +250,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/after-25-years-wikipedia-has-proved-that-news-does/' | relative_url }}">after 25 years wikipedia has proved that news does</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/2025-was-the-third-hottest-year-on-record/' | relative_url }}">2025 was the third hottest year on record</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
