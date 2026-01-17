@@ -25,6 +25,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/high-level-is-the-goal/' | relative_url }}">high level is the goal</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/flux2-klein-towards-interactive-visual-intelligenc/' | relative_url }}">flux2 klein towards interactive visual intelligenc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/designated-initializers-the-best-feature-of-c20/' | relative_url }}">designated initializers the best feature of c20</a></h3>
 </div>
 <div class="article-row">
