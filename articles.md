@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/what-are-your-favorite-drawing-libraries/' | relative_url }}">what are your favorite drawing libraries</a></h3>
 </div>
 <div class="article-row">
@@ -29,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/ikea-for-software/' | relative_url }}">ikea for software</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/high-level-is-the-goal/' | relative_url }}">high level is the goal</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +54,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/17</span>
   <h3><a href="{{ '/2026/01/17/crypto-grifters-are-recruiting-open-source-ai-deve/' | relative_url }}">crypto grifters are recruiting open source ai deve</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/chinese-evs-are-making-inroads-in-north-america-th/' | relative_url }}">chinese evs are making inroads in north america th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/17</span>
+  <h3><a href="{{ '/2026/01/17/beebo-a-wave-simulator-written-in-c/' | relative_url }}">beebo a wave simulator written in c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/16</span>
