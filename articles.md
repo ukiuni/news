@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/wa-age-verification-bill-targets-access-to-online/' | relative_url }}">wa age verification bill targets access to online</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/the-grab-list-how-museums-decide-what-to-save-in-a/' | relative_url }}">the grab list how museums decide what to save in a</a></h3>
 </div>
 <div class="article-row">
@@ -73,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/my-god-the-transition-to-full-blown-corporate-micr/' | relative_url }}">my god the transition to full blown corporate micr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/more-http3-focus-one-backend-less/' | relative_url }}">more http3 focus one backend less</a></h3>
 </div>
 <div class="article-row">
@@ -109,7 +117,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/eu-and-mercosur-countries-sign-landmark-free-trade/' | relative_url }}">eu and mercosur countries sign landmark free trade</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/erdos-281-solved-with-chatgpt-52-pro/' | relative_url }}">erdos 281 solved with chatgpt 52 pro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/democracy-doesnt-reward-effort-it-rewards-memes-fr/' | relative_url }}">democracy doesnt reward effort it rewards memes fr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -125,11 +141,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/command-line-tools-can-be-235x-faster-than-your-ha/' | relative_url }}">command line tools can be 235x faster than your ha</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/chatgpt-to-start-showing-ads-in-the-us/' | relative_url }}">chatgpt to start showing ads in the us</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/beep-8-an-open-source-fantasy-console-with-a-cycle/' | relative_url }}">beep 8 an open source fantasy console with a cycle</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/agent-psychosis-are-we-going-insane/' | relative_url }}">agent psychosis are we going insane</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
