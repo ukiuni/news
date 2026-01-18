@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/tested-a-random-apk-with-mobsf-out-of-curiosity/' | relative_url }}">tested a random apk with mobsf out of curiosity</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/spotifys-3rd-price-hike-in-25-years-hints-at-poten/' | relative_url }}">spotifys 3rd price hike in 25 years hints at poten</a></h3>
 </div>
 <div class="article-row">
@@ -29,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/president-bought-at-least-1-million-in-netflix-war/' | relative_url }}">president bought at least 1 million in netflix war</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/no-knives-only-cook-knives/' | relative_url }}">no knives only cook knives</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/lopadotemachoselachogaleokranioleipsanodrimhypotri/' | relative_url }}">lopadotemachoselachogaleokranioleipsanodrimhypotri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/linus-may-vibe-code-but-that-doesnt-make-it-best-p/' | relative_url }}">linus may vibe code but that doesnt make it best p</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -62,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/erdos-281-solved-with-chatgpt-52-pro/' | relative_url }}">erdos 281 solved with chatgpt 52 pro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/dark-mode-vs-light-mode-which-is-better/' | relative_url }}">dark mode vs light mode which is better</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
