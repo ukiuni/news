@@ -49,6 +49,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/tech-firms-are-persuading-retailers-to-put-ai-ever/' | relative_url }}">tech firms are persuading retailers to put ai ever</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/statement-by-denmark-finland-france-germany-the-ne/' | relative_url }}">statement by denmark finland france germany the ne</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/starting-from-scratch-training-a-30m-topological-t/' | relative_url }}">starting from scratch training a 30m topological t</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/spirit-of-thinkpad/' | relative_url }}">spirit of thinkpad</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/some-c-habits-i-employ-for-the-modern-day/' | relative_url }}">some c habits i employ for the modern day</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
