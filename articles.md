@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/teslas-fsd-like-almost-everything-else-is-becoming/' | relative_url }}">teslas fsd like almost everything else is becoming</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/tech-firms-are-persuading-retailers-to-put-ai-ever/' | relative_url }}">tech firms are persuading retailers to put ai ever</a></h3>
 </div>
 <div class="article-row">
@@ -253,6 +257,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/crow-crobots-robotic-combat-for-training-world-mod/' | relative_url }}">crow crobots robotic combat for training world mod</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/consent-o-matic/' | relative_url }}">consent o matic</a></h3>
 </div>
 <div class="article-row">
@@ -262,6 +270,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/chatgpt-to-start-showing-ads-in-the-us/' | relative_url }}">chatgpt to start showing ads in the us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/chatgpt-is-getting-ads-soon-starting-with-free-use/' | relative_url }}">chatgpt is getting ads soon starting with free use</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/breaking-the-zimmermann-telegram-2018/' | relative_url }}">breaking the zimmermann telegram 2018</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
