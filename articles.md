@@ -117,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/more-sustainable-epoxy-thanks-to-phosphorus/' | relative_url }}">more sustainable epoxy thanks to phosphorus</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/more-http3-focus-one-backend-less/' | relative_url }}">more http3 focus one backend less</a></h3>
 </div>
 <div class="article-row">
@@ -154,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/iconify-library-of-open-source-icons/' | relative_url }}">iconify library of open source icons</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/i-launched-an-anonymous-general-community-where-yo/' | relative_url }}">i launched an anonymous general community where yo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -202,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/a-social-filesystem/' | relative_url }}">a social filesystem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/a-free-and-open-source-rootkit-for-linux/' | relative_url }}">a free and open source rootkit for linux</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
