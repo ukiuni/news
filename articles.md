@@ -9,7 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/what-is-the-best-programming-language-for-beginner/' | relative_url }}">what is the best programming language for beginner</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/what-is-plan-9/' | relative_url }}">what is plan 9</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/wa-age-verification-bill-targets-access-to-online/' | relative_url }}">wa age verification bill targets access to online</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/the-guide-to-real-world-ev-battery-health/' | relative_url }}">the guide to real world ev battery health</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -46,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/show-hn-gibram-an-in-memory-ephemeral-graphrag-run/' | relative_url }}">show hn gibram an in memory ephemeral graphrag run</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/show-hn-figma-use-cli-to-control-figma-for-ai-agen/' | relative_url }}">show hn figma use cli to control figma for ai agen</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
