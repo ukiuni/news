@@ -21,11 +21,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/more-http3-focus-one-backend-less/' | relative_url }}">more http3 focus one backend less</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/mits-computer-systems-security-2024/' | relative_url }}">mits computer systems security 2024</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/judge-orders-annas-archive-to-delete-scraped-data/' | relative_url }}">judge orders annas archive to delete scraped data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/jquery-40-released/' | relative_url }}">jquery 40 released</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
