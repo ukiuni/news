@@ -17,7 +17,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/question-for-backend-hosting/' | relative_url }}">question for backend hosting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/prominent-pr-firm-accused-of-commissioning-favoura/' | relative_url }}">prominent pr firm accused of commissioning favoura</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/profession-by-isaac-asimov/' | relative_url }}">profession by isaac asimov</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/no-knives-only-cook-knives/' | relative_url }}">no knives only cook knives</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -26,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/mits-computer-systems-security-2024/' | relative_url }}">mits computer systems security 2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/lopadotemachoselachogaleokranioleipsanodrimhypotri/' | relative_url }}">lopadotemachoselachogaleokranioleipsanodrimhypotri</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -38,6 +54,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/if-you-put-apple-icons-in-reverse-it-looks-like-so/' | relative_url }}">if you put apple icons in reverse it looks like so</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/how-scientists-are-using-claude-to-accelerate-rese/' | relative_url }}">how scientists are using claude to accelerate rese</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/erdos-281-solved-with-chatgpt-52-pro/' | relative_url }}">erdos 281 solved with chatgpt 52 pro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
