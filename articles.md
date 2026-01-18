@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/prominent-pr-firm-accused-of-commissioning-favoura/' | relative_url }}">prominent pr firm accused of commissioning favoura</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/judge-orders-annas-archive-to-delete-scraped-data/' | relative_url }}">judge orders annas archive to delete scraped data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/if-you-put-apple-icons-in-reverse-it-looks-like-so/' | relative_url }}">if you put apple icons in reverse it looks like so</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
