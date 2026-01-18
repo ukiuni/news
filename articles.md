@@ -97,7 +97,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/sins-of-the-children-adrian-tchaikovsky/' | relative_url }}">sins of the children adrian tchaikovsky</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/shuffle-making-random-feel-more-human-spotify-engi/' | relative_url }}">shuffle making random feel more human spotify engi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/show-hn-xenia-a-monospaced-font-built-with-a-custo/' | relative_url }}">show hn xenia a monospaced font built with a custo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/show-hn-lume-02-build-and-run-macos-vms-with-unatt/' | relative_url }}">show hn lume 02 build and run macos vms with unatt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -134,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/post-quantum-panic-transitioning-your-backend-to-n/' | relative_url }}">post quantum panic transitioning your backend to n</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/overlapping-markup/' | relative_url }}">overlapping markup</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -210,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/gaussian-splatting-aap-rocky-helicopter-music-vide/' | relative_url }}">gaussian splatting aap rocky helicopter music vide</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/flux-2-klein-pure-c-inference/' | relative_url }}">flux 2 klein pure c inference</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
