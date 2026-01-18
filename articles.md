@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/the-grab-list-how-museums-decide-what-to-save-in-a/' | relative_url }}">the grab list how museums decide what to save in a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/the-a-in-agi-stands-for-ads/' | relative_url }}">the a in agi stands for ads</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/tested-a-random-apk-with-mobsf-out-of-curiosity/' | relative_url }}">tested a random apk with mobsf out of curiosity</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +26,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/spirit-of-thinkpad/' | relative_url }}">spirit of thinkpad</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/shuffle-making-random-feel-more-human-spotify-engi/' | relative_url }}">shuffle making random feel more human spotify engi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -101,11 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/data-activation-thoughts/' | relative_url }}">data activation thoughts</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/dark-mode-vs-light-mode-which-is-better/' | relative_url }}">dark mode vs light mode which is better</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/chatgpt-to-start-showing-ads-in-the-us/' | relative_url }}">chatgpt to start showing ads in the us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/beep-8-an-open-source-fantasy-console-with-a-cycle/' | relative_url }}">beep 8 an open source fantasy console with a cycle</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
