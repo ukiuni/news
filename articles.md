@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/stirling-cycle-machine-analysis/' | relative_url }}">stirling cycle machine analysis</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/statement-by-denmark-finland-france-germany-the-ne/' | relative_url }}">statement by denmark finland france germany the ne</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/show-hn-figma-use-cli-to-control-figma-for-ai-agen/' | relative_url }}">show hn figma use cli to control figma for ai agen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/removal-of-gtk2-from-forky-debian-14/' | relative_url }}">removal of gtk2 from forky debian 14</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
