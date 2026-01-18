@@ -121,11 +121,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/consent-o-matic/' | relative_url }}">consent o matic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/chatgpt-to-start-showing-ads-in-the-us/' | relative_url }}">chatgpt to start showing ads in the us</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/beep-8-an-open-source-fantasy-console-with-a-cycle/' | relative_url }}">beep 8 an open source fantasy console with a cycle</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/a-social-filesystem/' | relative_url }}">a social filesystem</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
