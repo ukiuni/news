@@ -21,7 +21,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/the-7-deadly-sins-of-software-engineers-productivi/' | relative_url }}">the 7 deadly sins of software engineers productivi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/tested-a-random-apk-with-mobsf-out-of-curiosity/' | relative_url }}">tested a random apk with mobsf out of curiosity</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/starting-from-scratch-training-a-30m-topological-t/' | relative_url }}">starting from scratch training a 30m topological t</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
