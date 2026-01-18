@@ -21,11 +21,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/tsmc-says-no-more-to-nvidia-why-that-is-intels-gol/' | relative_url }}">tsmc says no more to nvidia why that is intels gol</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/the-guide-to-real-world-ev-battery-health/' | relative_url }}">the guide to real world ev battery health</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/the-grab-list-how-museums-decide-what-to-save-in-a/' | relative_url }}">the grab list how museums decide what to save in a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/the-gnome-village/' | relative_url }}">the gnome village</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -50,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/spirit-of-thinkpad/' | relative_url }}">spirit of thinkpad</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/software-engineers-can-no-longer-neglect-their-sof/' | relative_url }}">software engineers can no longer neglect their sof</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -110,6 +122,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/mits-computer-systems-security-2024/' | relative_url }}">mits computer systems security 2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/milk-v-titan-a-329-8-core-64-bit-risc-v-mini-itx-b/' | relative_url }}">milk v titan a 329 8 core 64 bit risc v mini itx b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/microsoft-forced-to-issue-emergency-out-of-band-up/' | relative_url }}">microsoft forced to issue emergency out of band up</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -182,6 +202,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/a-social-filesystem/' | relative_url }}">a social filesystem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/a-daily-football-crest-guessing-game-like-wordle-b/' | relative_url }}">a daily football crest guessing game like wordle b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/-moviemania-open-source-mern-stack-entertainment-t/' | relative_url }}"> moviemania open source mern stack entertainment t</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
