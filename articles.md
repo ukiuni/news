@@ -25,6 +25,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/too-many-kid-photos-and-the-apple-vision-framework/' | relative_url }}">too many kid photos and the apple vision framework</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/threads-edges-out-x-in-daily-mobile-users-new-data/' | relative_url }}">threads edges out x in daily mobile users new data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/the-nobel-prize-and-the-laureate-are-inseparable/' | relative_url }}">the nobel prize and the laureate are inseparable</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/the-guide-to-real-world-ev-battery-health/' | relative_url }}">the guide to real world ev battery health</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/the-gnome-village/' | relative_url }}">the gnome village</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/the-cathedral-the-megachurch-and-the-bazaar/' | relative_url }}">the cathedral the megachurch and the bazaar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -54,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/statement-by-denmark-finland-france-germany-the-ne/' | relative_url }}">statement by denmark finland france germany the ne</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/statement-by-denmark-finland-france-germany-nether/' | relative_url }}">statement by denmark finland france germany nether</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -149,6 +169,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/micron-breaks-ground-on-massive-chipmaking-plant-t/' | relative_url }}">micron breaks ground on massive chipmaking plant t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/lopadotemachoselachogaleokranioleipsanodrimhypotri/' | relative_url }}">lopadotemachoselachogaleokranioleipsanodrimhypotri</a></h3>
 </div>
 <div class="article-row">
@@ -177,7 +201,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/how-the-lobsters-front-page-works/' | relative_url }}">how the lobsters front page works</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/how-scientists-are-using-claude-to-accelerate-rese/' | relative_url }}">how scientists are using claude to accelerate rese</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/gaussian-splatting-aap-rocky-helicopter-music-vide/' | relative_url }}">gaussian splatting aap rocky helicopter music vide</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
