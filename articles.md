@@ -37,7 +37,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/post-quantum-panic-transitioning-your-backend-to-n/' | relative_url }}">post quantum panic transitioning your backend to n</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/no-knives-only-cook-knives/' | relative_url }}">no knives only cook knives</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/mysqls-popularity-as-ranked-by-db-engines-started/' | relative_url }}">mysqls popularity as ranked by db engines started</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -78,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/dark-mode-vs-light-mode-which-is-better/' | relative_url }}">dark mode vs light mode which is better</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/chatgpt-to-start-showing-ads-in-the-us/' | relative_url }}">chatgpt to start showing ads in the us</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/17</span>
