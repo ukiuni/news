@@ -17,11 +17,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/spirit-of-thinkpad/' | relative_url }}">spirit of thinkpad</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/show-hn-gibram-an-in-memory-ephemeral-graphrag-run/' | relative_url }}">show hn gibram an in memory ephemeral graphrag run</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/raising-money-fucked-me-up/' | relative_url }}">raising money fucked me up</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/question-for-backend-hosting/' | relative_url }}">question for backend hosting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/quantum-state-teleported-between-quantum-dots-at-t/' | relative_url }}">quantum state teleported between quantum dots at t</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -74,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/if-you-put-apple-icons-in-reverse-it-looks-like-so/' | relative_url }}">if you put apple icons in reverse it looks like so</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/iconify-library-of-open-source-icons/' | relative_url }}">iconify library of open source icons</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
