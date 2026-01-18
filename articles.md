@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/wikipedia-turns-25-still-boasting-zero-ads-and-ove/' | relative_url }}">wikipedia turns 25 still boasting zero ads and ove</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/what-is-the-best-programming-language-for-beginner/' | relative_url }}">what is the best programming language for beginner</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +22,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/wa-age-verification-bill-targets-access-to-online/' | relative_url }}">wa age verification bill targets access to online</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/us-blockade-shuts-off-china-cuba-from-venezuelan-o/' | relative_url }}">us blockade shuts off china cuba from venezuelan o</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -161,6 +169,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/police-invested-millions-in-shadowy-phone-tracking/' | relative_url }}">police invested millions in shadowy phone tracking</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/overlapping-markup/' | relative_url }}">overlapping markup</a></h3>
 </div>
 <div class="article-row">
@@ -201,6 +213,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/many-bluetooth-devices-with-google-fast-pair-vulne/' | relative_url }}">many bluetooth devices with google fast pair vulne</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/lopadotemachoselachogaleokranioleipsanodrimhypotri/' | relative_url }}">lopadotemachoselachogaleokranioleipsanodrimhypotri</a></h3>
 </div>
 <div class="article-row">
@@ -234,6 +250,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/how-scientists-are-using-claude-to-accelerate-rese/' | relative_url }}">how scientists are using claude to accelerate rese</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/how-i-use-ai-agents-mcp-to-fully-automate-my-websi/' | relative_url }}">how i use ai agents mcp to fully automate my websi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -274,6 +294,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/command-line-tools-can-be-235x-faster-than-your-ha/' | relative_url }}">command line tools can be 235x faster than your ha</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/clan-2025-wrap-up-from-infrastructure-to-a-new-com/' | relative_url }}">clan 2025 wrap up from infrastructure to a new com</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
