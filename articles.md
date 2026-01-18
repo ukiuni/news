@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/wine-110/' | relative_url }}">wine 110</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/wikipedia-turns-25-still-boasting-zero-ads-and-ove/' | relative_url }}">wikipedia turns 25 still boasting zero ads and ove</a></h3>
 </div>
 <div class="article-row">
@@ -117,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/simple-gis-on-potato/' | relative_url }}">simple gis on potato</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/shuffle-making-random-feel-more-human-spotify-engi/' | relative_url }}">shuffle making random feel more human spotify engi</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/show-hn-figma-use-cli-to-control-figma-for-ai-agen/' | relative_url }}">show hn figma use cli to control figma for ai agen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/show-hn-dock-slack-minus-the-bloat-tax-and-90-day/' | relative_url }}">show hn dock slack minus the bloat tax and 90 day</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
@@ -306,6 +318,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/chatgpt-is-getting-ads-soon-starting-with-free-use/' | relative_url }}">chatgpt is getting ads soon starting with free use</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/18</span>
+  <h3><a href="{{ '/2026/01/18/ceo-of-iranian-telecom-operator-fired-for-failing/' | relative_url }}">ceo of iranian telecom operator fired for failing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
