@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/mtotp-wouldnt-it-be-nice-if-you-were-the-2fa-devic/' | relative_url }}">mtotp wouldnt it be nice if you were the 2fa devic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/microsoft-issues-emergency-fix-after-a-security-up/' | relative_url }}">microsoft issues emergency fix after a security up</a></h3>
 </div>
 <div class="article-row">
@@ -126,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/code-ing-in-a-tree-adding-auto-save-to-freecodecam/' | relative_url }}">code ing in a tree adding auto save to freecodecam</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/chasing-a-newline/' | relative_url }}">chasing a newline</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
