@@ -45,7 +45,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/self-sanitizing-door-handle/' | relative_url }}">self sanitizing door handle</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/river-classic-river-03x-forever/' | relative_url }}">river classic river 03x forever</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/programming-as-theory-building-part-ii-when-instit/' | relative_url }}">programming as theory building part ii when instit</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
