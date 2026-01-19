@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/understanding-c-ownership-system/' | relative_url }}">understanding c ownership system</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/two-concepts-of-intelligence/' | relative_url }}">two concepts of intelligence</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/the-microstructure-of-wealth-transfer-in-predictio/' | relative_url }}">the microstructure of wealth transfer in predictio</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/the-incredible-overcomplexity-of-the-shadcn-radio/' | relative_url }}">the incredible overcomplexity of the shadcn radio</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -113,11 +121,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/sending-data-over-offline-finding-networks/' | relative_url }}">sending data over offline finding networks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/self-sanitizing-door-handle/' | relative_url }}">self sanitizing door handle</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/san-francisco-coyote-swims-to-alcatraz/' | relative_url }}">san francisco coyote swims to alcatraz</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/russia-threatens-to-ban-gta-6-if-rockstar-doesnt-r/' | relative_url }}">russia threatens to ban gta 6 if rockstar doesnt r</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -161,6 +177,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/notes-on-apples-nano-texture-2025/' | relative_url }}">notes on apples nano texture 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/nonviolence/' | relative_url }}">nonviolence</a></h3>
 </div>
 <div class="article-row">
@@ -178,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/needy-programs/' | relative_url }}">needy programs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/nearly-a-third-of-social-media-research-has-undisc/' | relative_url }}">nearly a third of social media research has undisc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -213,6 +237,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/ices-facial-recognition-app-misidentified-a-woman/' | relative_url }}">ices facial recognition app misidentified a woman</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/hackers-claim-to-have-target-source-code-for-sale/' | relative_url }}">hackers claim to have target source code for sale</a></h3>
 </div>
 <div class="article-row">
@@ -238,6 +266,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/fix-your-robotstxt-or-your-site-disappears-from-go/' | relative_url }}">fix your robotstxt or your site disappears from go</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/fix-macos-26-tahoe-exaggerated-rounded-corners/' | relative_url }}">fix macos 26 tahoe exaggerated rounded corners</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -322,6 +354,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/bypassing-gemma-and-qwen-safety-with-raw-strings/' | relative_url }}">bypassing gemma and qwen safety with raw strings</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/building-the-worlds-first-open-source-quantum-comp/' | relative_url }}">building the worlds first open source quantum comp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
