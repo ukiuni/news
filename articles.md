@@ -9,11 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/windows-11-shutdown-bug-forces-microsoft-into-dama/' | relative_url }}">windows 11 shutdown bug forces microsoft into dama</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/wikipedia-wikiproject-ai-cleanup/' | relative_url }}">wikipedia wikiproject ai cleanup</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/why-the-tech-world-thinks-the-american-dream-is-dy/' | relative_url }}">why the tech world thinks the american dream is dy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/west-midlands-police-chief-quits-over-ai-hallucina/' | relative_url }}">west midlands police chief quits over ai hallucina</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -30,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/us-president-is-obsessed-with-oil-but-chinese-batt/' | relative_url }}">us president is obsessed with oil but chinese batt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/updated-epa-rules-put-xais-colossus-ai-data-center/' | relative_url }}">updated epa rules put xais colossus ai data center</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -137,6 +149,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/kiel-institute-analysis-us-americans-pay-96-of-tar/' | relative_url }}">kiel institute analysis us americans pay 96 of tar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/is-an-ai-model-software-a-lowlevel-technical-view/' | relative_url }}">is an ai model software a lowlevel technical view</a></h3>
 </div>
 <div class="article-row">
@@ -146,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/google-gemini-for-java-developers-amp-architects-a/' | relative_url }}">google gemini for java developers amp architects a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/glm-47-flash/' | relative_url }}">glm 47 flash</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
