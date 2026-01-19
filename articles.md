@@ -25,6 +25,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/two-concepts-of-intelligence/' | relative_url }}">two concepts of intelligence</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/the-wasm-breach-escaping-backend-webassembly-sandb/' | relative_url }}">the wasm breach escaping backend webassembly sandb</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/the-space-and-motion-of-communicating-agents-2008/' | relative_url }}">the space and motion of communicating agents 2008</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/the-code-only-agent/' | relative_url }}">the code only agent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/simulation-of-the-ladybird-clock-puzzle/' | relative_url }}">simulation of the ladybird clock puzzle</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -85,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/nuclear-elements-detected-in-west-philippine-sea/' | relative_url }}">nuclear elements detected in west philippine sea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/new-interview-with-douglas-crockford/' | relative_url }}">new interview with douglas crockford</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/microsoft-issues-emergency-fix-after-a-security-up/' | relative_url }}">microsoft issues emergency fix after a security up</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/microsoft-confirms-some-windows-11-pcs-cant-shut-d/' | relative_url }}">microsoft confirms some windows 11 pcs cant shut d</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -193,7 +213,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/amazon-is-ending-all-inventory-commingling-as-of-m/' | relative_url }}">amazon is ending all inventory commingling as of m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/all-your-opencodes-belong-to-us/' | relative_url }}">all your opencodes belong to us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/ai-is-not-ready-to-replace-junior-devs-says-ruby-o/' | relative_url }}">ai is not ready to replace junior devs says ruby o</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
