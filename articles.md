@@ -8,6 +8,26 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/river-classic-river-03x-forever/' | relative_url }}">river classic river 03x forever</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/plastic-surgeons-are-now-using-fat-harvested-from/' | relative_url }}">plastic surgeons are now using fat harvested from</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/microsoft-issues-emergency-fix-after-a-security-up/' | relative_url }}">microsoft issues emergency fix after a security up</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/gas-town-decoded/' | relative_url }}">gas town decoded</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/data-centers-will-consume-70-percent-of-memory-chi/' | relative_url }}">data centers will consume 70 percent of memory chi</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/18</span>
   <h3><a href="{{ '/2026/01/18/wine-110/' | relative_url }}">wine 110</a></h3>
 </div>
