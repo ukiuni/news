@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/using-servo-with-slint/' | relative_url }}">using servo with slint</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/using-proxies-to-hide-secrets-from-claude-code/' | relative_url }}">using proxies to hide secrets from claude code</a></h3>
 </div>
 <div class="article-row">
@@ -57,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/the-microstructure-of-wealth-transfer-in-predictio/' | relative_url }}">the microstructure of wealth transfer in predictio</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/the-code-review-economy-built-its-foundations-on-s/' | relative_url }}">the code review economy built its foundations on s</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +74,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/simulation-of-the-ladybird-clock-puzzle/' | relative_url }}">simulation of the ladybird clock puzzle</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/simulating-the-ladybug-clock-puzzle/' | relative_url }}">simulating the ladybug clock puzzle</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/show-hn-pipenet-a-modern-alternative-to-localtunne/' | relative_url }}">show hn pipenet a modern alternative to localtunne</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -114,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/people-cannot-just-pay-attention-to-boring-routine/' | relative_url }}">people cannot just pay attention to boring routine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/on-rebuilding-read-models-dead-letter-queues-and-w/' | relative_url }}">on rebuilding read models dead letter queues and w</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -209,11 +229,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/doge-cuts-unexpectedly-and-significantly-impacted/' | relative_url }}">doge cuts unexpectedly and significantly impacted</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/dead-internet-theory/' | relative_url }}">dead internet theory</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/data-centers-will-consume-70-percent-of-memory-chi/' | relative_url }}">data centers will consume 70 percent of memory chi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/css-web-components-for-marketing-sites/' | relative_url }}">css web components for marketing sites</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -253,7 +281,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/are-you-yes-ai-or-no-ai/' | relative_url }}">are you yes ai or no ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/are-arrays-functions/' | relative_url }}">are arrays functions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/anyone-else-out-there-vibe-circuit-building/' | relative_url }}">anyone else out there vibe circuit building</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
