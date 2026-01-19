@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/wikipedia-wikiproject-ai-cleanup/' | relative_url }}">wikipedia wikiproject ai cleanup</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/why-the-tech-world-thinks-the-american-dream-is-dy/' | relative_url }}">why the tech world thinks the american dream is dy</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/river-classic-river-03x-forever/' | relative_url }}">river classic river 03x forever</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/radboud-university-selects-fairphone-as-standard-s/' | relative_url }}">radboud university selects fairphone as standard s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -146,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/career-switchers-would-java-classes-in-thane-be-an/' | relative_url }}">career switchers would java classes in thane be an</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/cardputer-ulisp-machine/' | relative_url }}">cardputer ulisp machine</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
