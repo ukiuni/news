@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/prediction-microsoft-is-going-to-do-the-funniest-t/' | relative_url }}">prediction microsoft is going to do the funniest t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/plastic-surgeons-are-now-using-fat-harvested-from/' | relative_url }}">plastic surgeons are now using fat harvested from</a></h3>
 </div>
 <div class="article-row">
@@ -25,7 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/fil-qt-a-qt-base-build-with-fil-c-experience/' | relative_url }}">fil qt a qt base build with fil c experience</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/elder-scrolls-loremaster-says-he-quit-bethesda-aft/' | relative_url }}">elder scrolls loremaster says he quit bethesda aft</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/data-centers-will-consume-70-percent-of-memory-chi/' | relative_url }}">data centers will consume 70 percent of memory chi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/cory-doctorow-nails-the-problems-with-ai/' | relative_url }}">cory doctorow nails the problems with ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
