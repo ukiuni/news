@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/west-midlands-police-chief-quits-over-ai-hallucina/' | relative_url }}">west midlands police chief quits over ai hallucina</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/two-concepts-of-intelligence/' | relative_url }}">two concepts of intelligence</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/to-ai-or-not-to-ai/' | relative_url }}">to ai or not to ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -122,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/poking-holes-into-bytecode-with-peephole-optimisat/' | relative_url }}">poking holes into bytecode with peephole optimisat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/please-stop-redirecting-to-login-on-401-errors/' | relative_url }}">please stop redirecting to login on 401 errors</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -245,6 +257,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/cows-can-use-sophisticated-tools/' | relative_url }}">cows can use sophisticated tools</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/cory-doctorow-nails-the-problems-with-ai/' | relative_url }}">cory doctorow nails the problems with ai</a></h3>
 </div>
 <div class="article-row">
@@ -286,6 +302,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/are-arrays-functions/' | relative_url }}">are arrays functions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/apple-testing-new-app-store-design-that-blurs-the/' | relative_url }}">apple testing new app store design that blurs the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
