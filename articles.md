@@ -101,6 +101,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/simple-sabotage-field-manual-pdf/' | relative_url }}">simple sabotage field manual pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/show-hn-subthink-write-something-and-see-how-many/' | relative_url }}">show hn subthink write something and see how many</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/show-hn-pipenet-a-modern-alternative-to-localtunne/' | relative_url }}">show hn pipenet a modern alternative to localtunne</a></h3>
 </div>
 <div class="article-row">
@@ -118,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/show-hn-aws-doctor-a-terminal-based-aws-health-che/' | relative_url }}">show hn aws doctor a terminal based aws health che</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/show-hn-a-creative-coding-library-for-making-art-w/' | relative_url }}">show hn a creative coding library for making art w</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -166,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/people-cannot-just-pay-attention-to-boring-routine/' | relative_url }}">people cannot just pay attention to boring routine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/openai-annualized-revenue-crosses-20-billion-in-20/' | relative_url }}">openai annualized revenue crosses 20 billion in 20</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -229,6 +245,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/learning-rust-as-a-working-software-engineer-real/' | relative_url }}">learning rust as a working software engineer real</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/kiel-institute-analysis-us-americans-pay-96-of-tar/' | relative_url }}">kiel institute analysis us americans pay 96 of tar</a></h3>
 </div>
 <div class="article-row">
@@ -245,6 +265,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/graphics-in-flatland-2d-ray-tracing-video/' | relative_url }}">graphics in flatland 2d ray tracing video</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/google-gemini-for-java-developers-amp-architects-a/' | relative_url }}">google gemini for java developers amp architects a</a></h3>
 </div>
 <div class="article-row">
@@ -254,6 +278,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/gas-town-decoded/' | relative_url }}">gas town decoded</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/from-nevada-to-kansas-by-glider/' | relative_url }}">from nevada to kansas by glider</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
