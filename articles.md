@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/what-came-first-the-cname-or-the-a-record/' | relative_url }}">what came first the cname or the a record</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
 </div>
 <div class="article-row">
@@ -257,11 +261,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/creating-virtual-block-devices-with-ublk/' | relative_url }}">creating virtual block devices with ublk</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/cows-can-use-sophisticated-tools/' | relative_url }}">cows can use sophisticated tools</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/cory-doctorow-nails-the-problems-with-ai/' | relative_url }}">cory doctorow nails the problems with ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/conditions-in-the-intel-8087-floating-point-chips/' | relative_url }}">conditions in the intel 8087 floating point chips</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -278,6 +290,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/cardputer-ulisp-machine/' | relative_url }}">cardputer ulisp machine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/bypassing-gemma-and-qwen-safety-with-raw-strings/' | relative_url }}">bypassing gemma and qwen safety with raw strings</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -330,6 +346,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/a-decentralized-peer-to-peer-messaging-application/' | relative_url }}">a decentralized peer to peer messaging application</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/a-brief-history-of-ralph/' | relative_url }}">a brief history of ralph</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
