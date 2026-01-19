@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/when-devto-stats-arent-enough-building-my-own-memo/' | relative_url }}">when devto stats arent enough building my own memo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/what-came-first-the-cname-or-the-a-record/' | relative_url }}">what came first the cname or the a record</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/the-only-two-markup-languages/' | relative_url }}">the only two markup languages</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/the-microstructure-of-wealth-transfer-in-predictio/' | relative_url }}">the microstructure of wealth transfer in predictio</a></h3>
 </div>
 <div class="article-row">
@@ -85,11 +93,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/the-grid-isnt-a-cluster-what-technologists-get-wro/' | relative_url }}">the grid isnt a cluster what technologists get wro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/the-coming-industrialisation-of-exploit-generation/' | relative_url }}">the coming industrialisation of exploit generation</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/the-code-review-economy-built-its-foundations-on-s/' | relative_url }}">the code review economy built its foundations on s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/the-code-only-agent/' | relative_url }}">the code only agent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/targeted-bets-an-alternative-approach-to-the-job-h/' | relative_url }}">targeted bets an alternative approach to the job h</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -126,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/show-hn-aws-doctor-a-terminal-based-aws-health-che/' | relative_url }}">show hn aws doctor a terminal based aws health che</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/show-hn-an-interactive-physics-simulator-with-1000/' | relative_url }}">show hn an interactive physics simulator with 1000</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -221,6 +245,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/nanolang-a-tiny-experimental-language-designed-to/' | relative_url }}">nanolang a tiny experimental language designed to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/my-thoughts-on-gas-town-after-10000-hours-of-claud/' | relative_url }}">my thoughts on gas town after 10000 hours of claud</a></h3>
 </div>
 <div class="article-row">
@@ -238,6 +266,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/mara-wilson-warns-ai-generated-abuse-images-put-wo/' | relative_url }}">mara wilson warns ai generated abuse images put wo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/looking-for-subscription-costs-api/' | relative_url }}">looking for subscription costs api</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/level-s4-solar-radiation-event/' | relative_url }}">level s4 solar radiation event</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -313,6 +349,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/elon-musk-accused-of-making-up-math-to-squeeze-134/' | relative_url }}">elon musk accused of making up math to squeeze 134</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/elder-scrolls-loremaster-says-he-quit-bethesda-aft/' | relative_url }}">elder scrolls loremaster says he quit bethesda aft</a></h3>
 </div>
 <div class="article-row">
@@ -342,6 +382,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/damaging-to-public-understanding-spain-warns-of-su/' | relative_url }}">damaging to public understanding spain warns of su</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/customers-lament-teslas-move-toward-monthly-fees-f/' | relative_url }}">customers lament teslas move toward monthly fees f</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
