@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/us-president-is-obsessed-with-oil-but-chinese-batt/' | relative_url }}">us president is obsessed with oil but chinese batt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/two-concepts-of-intelligence/' | relative_url }}">two concepts of intelligence</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/former-usds-leaders-launch-tech-reform-project-to/' | relative_url }}">former usds leaders launch tech reform project to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/folding-nasa-experience-into-an-origamists-toolkit/' | relative_url }}">folding nasa experience into an origamists toolkit</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
