@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/show-hn-kacet-a-freelancer-marketplace-with-crypto/' | relative_url }}">show hn kacet a freelancer marketplace with crypto</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/show-hn-i-quit-coding-years-ago-ai-brought-me-back/' | relative_url }}">show hn i quit coding years ago ai brought me back</a></h3>
 </div>
 <div class="article-row">
@@ -81,6 +85,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/new-interview-with-douglas-crockford/' | relative_url }}">new interview with douglas crockford</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/nepals-mountainside-teahouses-elevate-the-experien/' | relative_url }}">nepals mountainside teahouses elevate the experien</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/my-thoughts-on-gas-town-after-10000-hours-of-claud/' | relative_url }}">my thoughts on gas town after 10000 hours of claud</a></h3>
 </div>
 <div class="article-row">
@@ -118,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/everything-wrong-with-material-3-expressive/' | relative_url }}">everything wrong with material 3 expressive</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/elon-musk-is-an-idiot-ceo-of-europes-biggest-airli/' | relative_url }}">elon musk is an idiot ceo of europes biggest airli</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -173,7 +189,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/are-arrays-functions/' | relative_url }}">are arrays functions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/all-your-opencodes-belong-to-us/' | relative_url }}">all your opencodes belong to us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/a-tale-of-udp-tracking-hytale-server-auto-stop-and/' | relative_url }}">a tale of udp tracking hytale server auto stop and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
