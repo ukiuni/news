@@ -117,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/san-francisco-coyote-swims-to-alcatraz/' | relative_url }}">san francisco coyote swims to alcatraz</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/river-classic-river-03x-forever/' | relative_url }}">river classic river 03x forever</a></h3>
 </div>
 <div class="article-row">
@@ -157,11 +161,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/nonviolence/' | relative_url }}">nonviolence</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/new-interview-with-douglas-crockford/' | relative_url }}">new interview with douglas crockford</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/new-class-of-strong-magnets-uses-earth-abundant-el/' | relative_url }}">new class of strong magnets uses earth abundant el</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/nepals-mountainside-teahouses-elevate-the-experien/' | relative_url }}">nepals mountainside teahouses elevate the experien</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/needy-programs/' | relative_url }}">needy programs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -182,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/mara-wilson-warns-ai-generated-abuse-images-put-wo/' | relative_url }}">mara wilson warns ai generated abuse images put wo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/letter-from-a-birmingham-jail-king-jr-1963/' | relative_url }}">letter from a birmingham jail king jr 1963</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -214,6 +234,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/folding-nasa-experience-into-an-origamists-toolkit/' | relative_url }}">folding nasa experience into an origamists toolkit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/fix-your-robotstxt-or-your-site-disappears-from-go/' | relative_url }}">fix your robotstxt or your site disappears from go</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -254,6 +278,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/data-centers-will-consume-70-percent-of-memory-chi/' | relative_url }}">data centers will consume 70 percent of memory chi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/damaging-to-public-understanding-spain-warns-of-su/' | relative_url }}">damaging to public understanding spain warns of su</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
