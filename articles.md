@@ -9,11 +9,23 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/utf-8-why-specify-length-in-the-first-byte/' | relative_url }}">utf 8 why specify length in the first byte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/using-proxies-to-hide-secrets-from-claude-code/' | relative_url }}">using proxies to hide secrets from claude code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/river-classic-river-03x-forever/' | relative_url }}">river classic river 03x forever</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/prediction-microsoft-is-going-to-do-the-funniest-t/' | relative_url }}">prediction microsoft is going to do the funniest t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/poking-holes-into-bytecode-with-peephole-optimisat/' | relative_url }}">poking holes into bytecode with peephole optimisat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -34,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/elder-scrolls-loremaster-says-he-quit-bethesda-aft/' | relative_url }}">elder scrolls loremaster says he quit bethesda aft</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/dead-internet-theory/' | relative_url }}">dead internet theory</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
