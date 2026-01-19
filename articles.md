@@ -17,6 +17,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/the-space-and-motion-of-communicating-agents-2008/' | relative_url }}">the space and motion of communicating agents 2008</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/the-code-only-agent/' | relative_url }}">the code only agent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/river-classic-river-03x-forever/' | relative_url }}">river classic river 03x forever</a></h3>
 </div>
 <div class="article-row">
@@ -33,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/people-cannot-just-pay-attention-to-boring-routine/' | relative_url }}">people cannot just pay attention to boring routine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/microsoft-issues-emergency-fix-after-a-security-up/' | relative_url }}">microsoft issues emergency fix after a security up</a></h3>
 </div>
 <div class="article-row">
@@ -41,11 +53,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/former-usds-leaders-launch-tech-reform-project-to/' | relative_url }}">former usds leaders launch tech reform project to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/fil-qt-a-qt-base-build-with-fil-c-experience/' | relative_url }}">fil qt a qt base build with fil c experience</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/everything-wrong-with-material-3-expressive/' | relative_url }}">everything wrong with material 3 expressive</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/elder-scrolls-loremaster-says-he-quit-bethesda-aft/' | relative_url }}">elder scrolls loremaster says he quit bethesda aft</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/dont-waste-your-back-pressure/' | relative_url }}">dont waste your back pressure</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -58,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/cory-doctorow-nails-the-problems-with-ai/' | relative_url }}">cory doctorow nails the problems with ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/code-ing-in-a-tree-adding-auto-save-to-freecodecam/' | relative_url }}">code ing in a tree adding auto save to freecodecam</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
