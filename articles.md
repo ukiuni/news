@@ -33,6 +33,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/show-hn-pdfwithlove-pdf-tools-that-run-100-locally/' | relative_url }}">show hn pdfwithlove pdf tools that run 100 locally</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/show-hn-i-quit-coding-years-ago-ai-brought-me-back/' | relative_url }}">show hn i quit coding years ago ai brought me back</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/show-hn-aws-doctor-a-terminal-based-aws-health-che/' | relative_url }}">show hn aws doctor a terminal based aws health che</a></h3>
 </div>
 <div class="article-row">
@@ -73,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/google-gemini-for-java-developers-amp-architects-a/' | relative_url }}">google gemini for java developers amp architects a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/gas-town-decoded/' | relative_url }}">gas town decoded</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/elder-scrolls-loremaster-says-he-quit-bethesda-aft/' | relative_url }}">elder scrolls loremaster says he quit bethesda aft</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/dram-makers-prioritize-ai-data-center-demand-spark/' | relative_url }}">dram makers prioritize ai data center demand spark</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -130,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/all-your-opencodes-belong-to-us/' | relative_url }}">all your opencodes belong to us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/a-decentralized-peer-to-peer-messaging-application/' | relative_url }}">a decentralized peer to peer messaging application</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
