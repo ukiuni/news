@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/why-the-tech-world-thinks-the-american-dream-is-dy/' | relative_url }}">why the tech world thinks the american dream is dy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/utf-8-why-specify-length-in-the-first-byte/' | relative_url }}">utf 8 why specify length in the first byte</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/people-cannot-just-pay-attention-to-boring-routine/' | relative_url }}">people cannot just pay attention to boring routine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/my-thoughts-on-gas-town-after-10000-hours-of-claud/' | relative_url }}">my thoughts on gas town after 10000 hours of claud</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -86,6 +94,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/code-ing-in-a-tree-adding-auto-save-to-freecodecam/' | relative_url }}">code ing in a tree adding auto save to freecodecam</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/avx-512-first-impressions-on-performance-and-progr/' | relative_url }}">avx 512 first impressions on performance and progr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/all-your-opencodes-belong-to-us/' | relative_url }}">all your opencodes belong to us</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/18</span>
