@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/vm0/' | relative_url }}">vm0</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/utf-8-why-specify-length-in-the-first-byte/' | relative_url }}">utf 8 why specify length in the first byte</a></h3>
 </div>
 <div class="article-row">
@@ -129,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/is-an-ai-model-software-a-lowlevel-technical-view/' | relative_url }}">is an ai model software a lowlevel technical view</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/hackers-claim-to-have-target-source-code-for-sale/' | relative_url }}">hackers claim to have target source code for sale</a></h3>
 </div>
 <div class="article-row">
@@ -158,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/elder-scrolls-loremaster-says-he-quit-bethesda-aft/' | relative_url }}">elder scrolls loremaster says he quit bethesda aft</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/ed-zitron-on-big-tech-backlash-boom-and-bust-ai-ha/' | relative_url }}">ed zitron on big tech backlash boom and bust ai ha</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
@@ -206,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/astrophotography-visibility-plotting-and-planning/' | relative_url }}">astrophotography visibility plotting and planning</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/19</span>
+  <h3><a href="{{ '/2026/01/19/article-by-article-how-big-tech-shaped-the-eus-rol/' | relative_url }}">article by article how big tech shaped the eus rol</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
