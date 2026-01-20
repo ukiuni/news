@@ -49,11 +49,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/type-safe-eval-in-grace/' | relative_url }}">type safe eval in grace</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/the-zen-of-reticulum/' | relative_url }}">the zen of reticulum</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/the-unix-pipe-card-game/' | relative_url }}">the unix pipe card game</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/the-uk-is-mulling-an-australia-like-social-media-b/' | relative_url }}">the uk is mulling an australia like social media b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/the-startup-graveyard/' | relative_url }}">the startup graveyard</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -113,7 +125,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/palantir-ceo-says-ai-to-make-large-scale-immigrati/' | relative_url }}">palantir ceo says ai to make large scale immigrati</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/opening-the-aws-european-sovereign-cloud/' | relative_url }}">opening the aws european sovereign cloud</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/nvidia-stock-crash-prediction/' | relative_url }}">nvidia stock crash prediction</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -209,6 +229,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/de-dollarization-is-the-us-dollar-losing-its-domin/' | relative_url }}">de dollarization is the us dollar losing its domin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/danish-pension-fund-divesting-us-treasuries/' | relative_url }}">danish pension fund divesting us treasuries</a></h3>
 </div>
 <div class="article-row">
@@ -246,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/ai-hype-meets-reality-as-majority-of-ceos-report-n/' | relative_url }}">ai hype meets reality as majority of ceos report n</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/ai-boom-could-falter-without-wider-adoption-micros/' | relative_url }}">ai boom could falter without wider adoption micros</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
