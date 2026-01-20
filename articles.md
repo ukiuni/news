@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/unconventional-postgresql-optimizations/' | relative_url }}">unconventional postgresql optimizations</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/the-zen-of-reticulum/' | relative_url }}">the zen of reticulum</a></h3>
 </div>
 <div class="article-row">
@@ -125,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/majority-of-ceos-report-zero-payoff-from-ai-splurg/' | relative_url }}">majority of ceos report zero payoff from ai splurg</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/linux-kernel-framework-for-pcie-device-emulation-i/' | relative_url }}">linux kernel framework for pcie device emulation i</a></h3>
 </div>
 <div class="article-row">
@@ -169,6 +177,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/if-your-system-cant-explain-itself-you-dont-own-it/' | relative_url }}">if your system cant explain itself you dont own it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/i-decided-to-make-a-worse-uuid-for-the-pettiest-of/' | relative_url }}">i decided to make a worse uuid for the pettiest of</a></h3>
 </div>
 <div class="article-row">
@@ -194,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/discussion-github-copilot-litigation-highlights-st/' | relative_url }}">discussion github copilot litigation highlights st</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/danish-pension-fund-divesting-us-treasuries/' | relative_url }}">danish pension fund divesting us treasuries</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -230,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/ai-hype-meets-reality-as-majority-of-ceos-report-n/' | relative_url }}">ai hype meets reality as majority of ceos report n</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/accidentally-making-1000-for-finding-security-bugs/' | relative_url }}">accidentally making 1000 for finding security bugs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
