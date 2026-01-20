@@ -85,6 +85,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/linux-kernel-framework-for-pcie-device-emulation-i/' | relative_url }}">linux kernel framework for pcie device emulation i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/lessons-from-creating-a-gaming-oriented-scheduler/' | relative_url }}">lessons from creating a gaming oriented scheduler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/legal-structures-for-latin-american-startups-2021/' | relative_url }}">legal structures for latin american startups 2021</a></h3>
 </div>
 <div class="article-row">
@@ -97,11 +105,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/king-man-woman-is-queen-but-why-2017/' | relative_url }}">king man woman is queen but why 2017</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/is-the-constitution-broken/' | relative_url }}">is the constitution broken</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/increasing-the-performance-of-webassembly-text-for/' | relative_url }}">increasing the performance of webassembly text for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/i-decided-to-make-a-worse-uuid-for-the-pettiest-of/' | relative_url }}">i decided to make a worse uuid for the pettiest of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/i-built-a-cli-that-generates-a-reproducible-struct/' | relative_url }}">i built a cli that generates a reproducible struct</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -134,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/british-redcoats-lost-memoir-reveals-harsh-realiti/' | relative_url }}">british redcoats lost memoir reveals harsh realiti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/anyone-tried-xhost-as-a-managed-alternative/' | relative_url }}">anyone tried xhost as a managed alternative</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
