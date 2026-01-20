@@ -93,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/krakw-poland-in-top-5-worst-air-quality-worldwide/' | relative_url }}">krakw poland in top 5 worst air quality worldwide</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/is-the-constitution-broken/' | relative_url }}">is the constitution broken</a></h3>
 </div>
 <div class="article-row">
@@ -121,7 +125,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/c17-efficiently-returning-stdvector-from-functions/' | relative_url }}">c17 efficiently returning stdvector from functions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/building-faster-data-pipelines-in-python-with-apac/' | relative_url }}">building faster data pipelines in python with apac</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/british-redcoats-lost-memoir-reveals-harsh-realiti/' | relative_url }}">british redcoats lost memoir reveals harsh realiti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/america-is-slow-walking-into-a-polymarket-disaster/' | relative_url }}">america is slow walking into a polymarket disaster</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/a-hacker-is-making-a-list-of-vibecoded-apps-198-sc/' | relative_url }}">a hacker is making a list of vibecoded apps 198 sc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
