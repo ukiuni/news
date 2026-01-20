@@ -93,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/the-challenges-of-soft-delete/' | relative_url }}">the challenges of soft delete</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/the-assistant-axis-situating-and-stabilizing-the-c/' | relative_url }}">the assistant axis situating and stabilizing the c</a></h3>
 </div>
 <div class="article-row">
@@ -146,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/reticulum-a-secure-and-anonymous-mesh-networking-s/' | relative_url }}">reticulum a secure and anonymous mesh networking s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/reliable-signals-of-honest-intent/' | relative_url }}">reliable signals of honest intent</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -209,6 +217,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/maintenance-of-everything-part-one/' | relative_url }}">maintenance of everything part one</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/llvm-adopts-human-in-the-loop-policy-for-aitool-as/' | relative_url }}">llvm adopts human in the loop policy for aitool as</a></h3>
 </div>
 <div class="article-row">
@@ -253,6 +265,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/inside-the-secret-world-of-japanese-snack-bars/' | relative_url }}">inside the secret world of japanese snack bars</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/increasing-the-performance-of-webassembly-text-for/' | relative_url }}">increasing the performance of webassembly text for</a></h3>
 </div>
 <div class="article-row">
@@ -285,6 +301,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/former-openai-policy-chief-creates-nonprofit-insti/' | relative_url }}">former openai policy chief creates nonprofit insti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/floating-point-printing-and-parsing-can-be-simple/' | relative_url }}">floating point printing and parsing can be simple</a></h3>
 </div>
 <div class="article-row">
@@ -301,6 +321,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/driver-killed-and-several-injured-after-second-tra/' | relative_url }}">driver killed and several injured after second tra</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/doge-employees-may-have-improperly-accessed-social/' | relative_url }}">doge employees may have improperly accessed social</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/discussion-github-copilot-litigation-highlights-st/' | relative_url }}">discussion github copilot litigation highlights st</a></h3>
 </div>
 <div class="article-row">
@@ -314,6 +342,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/configuration-over-code-in-ai-agent-frameworks/' | relative_url }}">configuration over code in ai agent frameworks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/collaborative-editing-with-ai-is-really-really-har/' | relative_url }}">collaborative editing with ai is really really har</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
