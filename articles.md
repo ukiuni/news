@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/x86-prefixes-and-escape-opcodes-flowchart/' | relative_url }}">x86 prefixes and escape opcodes flowchart</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/wine-11-runs-windows-apps-in-linux-macos-better-th/' | relative_url }}">wine 11 runs windows apps in linux macos better th</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/british-redcoats-lost-memoir-reveals-harsh-realiti/' | relative_url }}">british redcoats lost memoir reveals harsh realiti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/3d-printing-my-laptop-ergonomic-setup/' | relative_url }}">3d printing my laptop ergonomic setup</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
