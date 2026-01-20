@@ -121,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/im-addicted-to-being-useful/' | relative_url }}">im addicted to being useful</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/i-decided-to-make-a-worse-uuid-for-the-pettiest-of/' | relative_url }}">i decided to make a worse uuid for the pettiest of</a></h3>
 </div>
 <div class="article-row">
@@ -149,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/configuration-over-code-in-ai-agent-frameworks/' | relative_url }}">configuration over code in ai agent frameworks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/c17-efficiently-returning-stdvector-from-functions/' | relative_url }}">c17 efficiently returning stdvector from functions</a></h3>
 </div>
 <div class="article-row">
@@ -158,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/british-redcoats-lost-memoir-reveals-harsh-realiti/' | relative_url }}">british redcoats lost memoir reveals harsh realiti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/asus-exits-smartphone-business-and-the-reason-is-a/' | relative_url }}">asus exits smartphone business and the reason is a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -178,6 +190,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/3d-printing-my-laptop-ergonomic-setup/' | relative_url }}">3d printing my laptop ergonomic setup</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/0-rtt-replay-the-high-speed-flaw-in-http3-that-byp/' | relative_url }}">0 rtt replay the high speed flaw in http3 that byp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/19</span>
