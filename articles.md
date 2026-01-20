@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/string-theory-can-now-describe-a-universe-that-has/' | relative_url }}">string theory can now describe a universe that has</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/show-hn-artificial-ivy-in-the-browser/' | relative_url }}">show hn artificial ivy in the browser</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/america-is-slow-walking-into-a-polymarket-disaster/' | relative_url }}">america is slow walking into a polymarket disaster</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/a-static-site-generator-written-in-posix-shell/' | relative_url }}">a static site generator written in posix shell</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
