@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/which-ai-lies-best-a-game-theory-classic-designed/' | relative_url }}">which ai lies best a game theory classic designed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/washington-state-proposes-new-3d-printed-gun-contr/' | relative_url }}">washington state proposes new 3d printed gun contr</a></h3>
 </div>
 <div class="article-row">
@@ -117,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/steam-offline-status-leaks-exact-login-timestamps/' | relative_url }}">steam offline status leaks exact login timestamps</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/show-hn-wxpath-declarative-web-crawling-in-xpath/' | relative_url }}">show hn wxpath declarative web crawling in xpath</a></h3>
 </div>
 <div class="article-row">
@@ -154,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/reliable-signals-of-honest-intent/' | relative_url }}">reliable signals of honest intent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/provably-unmasking-malicious-behavior-through-exec/' | relative_url }}">provably unmasking malicious behavior through exec</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -349,6 +361,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/california-is-free-of-drought-for-the-first-time-i/' | relative_url }}">california is free of drought for the first time i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/c17-efficiently-returning-stdvector-from-functions/' | relative_url }}">c17 efficiently returning stdvector from functions</a></h3>
 </div>
 <div class="article-row">
@@ -374,6 +390,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/america-is-slow-walking-into-a-polymarket-disaster/' | relative_url }}">america is slow walking into a polymarket disaster</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/amazon-ceo-andy-jassy-says-tariffs-are-starting-to/' | relative_url }}">amazon ceo andy jassy says tariffs are starting to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
