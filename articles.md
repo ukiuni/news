@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/without-benchmarking-llms-youre-likely-overpaying/' | relative_url }}">without benchmarking llms youre likely overpaying</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/wine-11-runs-windows-apps-in-linux-macos-better-th/' | relative_url }}">wine 11 runs windows apps in linux macos better th</a></h3>
 </div>
 <div class="article-row">
@@ -117,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/show-hn-mastra-10-open-source-javascript-agent-fra/' | relative_url }}">show hn mastra 10 open source javascript agent fra</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/show-hn-artificial-ivy-in-the-browser/' | relative_url }}">show hn artificial ivy in the browser</a></h3>
 </div>
 <div class="article-row">
@@ -126,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/scaling-long-running-autonomous-coding/' | relative_url }}">scaling long running autonomous coding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/rusts-standard-library-on-the-gpu/' | relative_url }}">rusts standard library on the gpu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -174,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/new-report-says-screen-time-limits-for-children-ar/' | relative_url }}">new report says screen time limits for children ar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/netflix-to-pay-all-cash-for-warner-bros-to-fend-of/' | relative_url }}">netflix to pay all cash for warner bros to fend of</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
