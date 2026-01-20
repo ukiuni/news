@@ -8,6 +8,30 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/wine-11-runs-windows-apps-in-linux-macos-better-th/' | relative_url }}">wine 11 runs windows apps in linux macos better th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/why-antcell-might-be-a-bad-idea-a-structural-criti/' | relative_url }}">why antcell might be a bad idea a structural criti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/washington-state-proposes-new-3d-printed-gun-contr/' | relative_url }}">washington state proposes new 3d printed gun contr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/the-assistant-axis-situating-and-stabilizing-the-c/' | relative_url }}">the assistant axis situating and stabilizing the c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/floating-point-printing-and-parsing-can-be-simple/' | relative_url }}">floating point printing and parsing can be simple</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/british-redcoats-lost-memoir-reveals-harsh-realiti/' | relative_url }}">british redcoats lost memoir reveals harsh realiti</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/19</span>
   <h3><a href="{{ '/2026/01/19/windows-11-shutdown-bug-forces-microsoft-into-dama/' | relative_url }}">windows 11 shutdown bug forces microsoft into dama</a></h3>
 </div>
