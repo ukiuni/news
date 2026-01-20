@@ -73,11 +73,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/the-jule-programming-language/' | relative_url }}">the jule programming language</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/the-cloud-exit-strategy-how-to-run-a-production-sa/' | relative_url }}">the cloud exit strategy how to run a production sa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/the-assistant-axis-situating-and-stabilizing-the-c/' | relative_url }}">the assistant axis situating and stabilizing the c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/ted-cruz-pats-himself-on-the-back-at-senate-hearin/' | relative_url }}">ted cruz pats himself on the back at senate hearin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -146,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/new-report-says-screen-time-limits-for-children-ar/' | relative_url }}">new report says screen time limits for children ar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/metas-legal-team-abandoned-its-ethical-duties/' | relative_url }}">metas legal team abandoned its ethical duties</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -282,6 +294,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/a-static-site-generator-written-in-posix-shell/' | relative_url }}">a static site generator written in posix shell</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/a-pro-meticulously-restores-a-damaged-oil-painting/' | relative_url }}">a pro meticulously restores a damaged oil painting</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
