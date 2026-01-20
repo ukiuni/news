@@ -85,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/the-26000-year-astronomical-monument-hidden-in-pla/' | relative_url }}">the 26000 year astronomical monument hidden in pla</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/ted-cruz-pats-himself-on-the-back-at-senate-hearin/' | relative_url }}">ted cruz pats himself on the back at senate hearin</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/stop-separating-learning-from-building/' | relative_url }}">stop separating learning from building</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/show-hn-wxpath-declarative-web-crawling-in-xpath/' | relative_url }}">show hn wxpath declarative web crawling in xpath</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -157,11 +165,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/my-chrome-tabs-tell-a-story-we-havent-processed-ye/' | relative_url }}">my chrome tabs tell a story we havent processed ye</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/metas-legal-team-abandoned-its-ethical-duties/' | relative_url }}">metas legal team abandoned its ethical duties</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/majority-of-ceos-report-zero-payoff-from-ai-splurg/' | relative_url }}">majority of ceos report zero payoff from ai splurg</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/llvm-adopts-human-in-the-loop-policy-for-aitool-as/' | relative_url }}">llvm adopts human in the loop policy for aitool as</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -218,6 +234,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/i-built-a-cli-that-generates-a-reproducible-struct/' | relative_url }}">i built a cli that generates a reproducible struct</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/google-co-founder-reveals-that-many-of-the-new-hir/' | relative_url }}">google co founder reveals that many of the new hir</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
