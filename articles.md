@@ -57,11 +57,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/the-warm-welcome-badge-is-back/' | relative_url }}">the warm welcome badge is back</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/the-unix-pipe-card-game/' | relative_url }}">the unix pipe card game</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/the-uk-is-mulling-an-australia-like-social-media-b/' | relative_url }}">the uk is mulling an australia like social media b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/the-state-of-webassembly-2025-2026/' | relative_url }}">the state of webassembly 2025 2026</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -149,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/openai-is-rolling-out-age-prediction/' | relative_url }}">openai is rolling out age prediction</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/nvidia-stock-crash-prediction/' | relative_url }}">nvidia stock crash prediction</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/new-report-says-screen-time-limits-for-children-ar/' | relative_url }}">new report says screen time limits for children ar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/my-week-with-opencode/' | relative_url }}">my week with opencode</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -217,7 +233,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/instabridge-has-acquired-nova-launcher/' | relative_url }}">instabridge has acquired nova launcher</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/increasing-the-performance-of-webassembly-text-for/' | relative_url }}">increasing the performance of webassembly text for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/immigration-agencies-are-openly-defying-federal-co/' | relative_url }}">immigration agencies are openly defying federal co</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -250,6 +274,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/filtering-as-domain-logic/' | relative_url }}">filtering as domain logic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/feds-create-drone-no-fly-zone-that-would-stop-peop/' | relative_url }}">feds create drone no fly zone that would stop peop</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
