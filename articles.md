@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/why-alter-table-is-such-a-problem-for-sqlite/' | relative_url }}">why alter table is such a problem for sqlite</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/washington-state-proposes-new-3d-printed-gun-contr/' | relative_url }}">washington state proposes new 3d printed gun contr</a></h3>
 </div>
 <div class="article-row">
@@ -41,7 +45,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/the-zen-of-reticulum/' | relative_url }}">the zen of reticulum</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/the-uk-is-mulling-an-australia-like-social-media-b/' | relative_url }}">the uk is mulling an australia like social media b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/the-real-cost-of-loving-what-you-do-the-uncomforta/' | relative_url }}">the real cost of loving what you do the uncomforta</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/the-cloud-exit-strategy-how-to-run-a-production-sa/' | relative_url }}">the cloud exit strategy how to run a production sa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -54,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/stop-separating-learning-from-building/' | relative_url }}">stop separating learning from building</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/show-hn-ocrbase-pdf-mdjson-document-ocr-and-struct/' | relative_url }}">show hn ocrbase pdf mdjson document ocr and struct</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -82,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/personal-infrastructure-setup-2026/' | relative_url }}">personal infrastructure setup 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/par-language-update-crazy-if-implicit-generics-and/' | relative_url }}">par language update crazy if implicit generics and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -130,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/ip-over-avian-carriers-with-quality-of-service-199/' | relative_url }}">ip over avian carriers with quality of service 199</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/ip-addresses-through-2025/' | relative_url }}">ip addresses through 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
@@ -189,11 +217,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/apples-protect-mail-activity-doesnt-work/' | relative_url }}">apples protect mail activity doesnt work</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/anyone-tried-xhost-as-a-managed-alternative/' | relative_url }}">anyone tried xhost as a managed alternative</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/america-is-slow-walking-into-a-polymarket-disaster/' | relative_url }}">america is slow walking into a polymarket disaster</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/ai-hype-meets-reality-as-majority-of-ceos-report-n/' | relative_url }}">ai hype meets reality as majority of ceos report n</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
