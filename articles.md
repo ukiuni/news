@@ -25,7 +25,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/reticulum-a-secure-and-anonymous-mesh-networking-s/' | relative_url }}">reticulum a secure and anonymous mesh networking s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/porsche-sold-more-electrified-cars-in-europe-in-20/' | relative_url }}">porsche sold more electrified cars in europe in 20</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/personal-infrastructure-setup-2026/' | relative_url }}">personal infrastructure setup 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/is-the-constitution-broken/' | relative_url }}">is the constitution broken</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/floating-point-printing-and-parsing-can-be-simple/' | relative_url }}">floating point printing and parsing can be simple</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/20</span>
+  <h3><a href="{{ '/2026/01/20/filtering-as-domain-logic/' | relative_url }}">filtering as domain logic</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
