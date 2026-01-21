@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/your-brain-on-chatgpt-accumulation-of-cognitive-de/' | relative_url }}">your brain on chatgpt accumulation of cognitive de</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/yahoo-and-aol-appear-down-investigators-are-attemp/' | relative_url }}">yahoo and aol appear down investigators are attemp</a></h3>
 </div>
 <div class="article-row">
@@ -65,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/the-webracket-language-is-a-subset-of-racket-that/' | relative_url }}">the webracket language is a subset of racket that</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/the-sidecar-siphon-exploiting-identity-leaks-in-se/' | relative_url }}">the sidecar siphon exploiting identity leaks in se</a></h3>
 </div>
 <div class="article-row">
@@ -109,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/slouching-towards-bethlehem-joan-didion-1967/' | relative_url }}">slouching towards bethlehem joan didion 1967</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/skip-is-now-free-and-open-source/' | relative_url }}">skip is now free and open source</a></h3>
 </div>
 <div class="article-row">
@@ -142,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/rsssocial-the-latest-and-best-from-small-sites-acr/' | relative_url }}">rsssocial the latest and best from small sites acr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/rollout-of-ai-may-need-to-be-slowed-to-save-societ/' | relative_url }}">rollout of ai may need to be slowed to save societ</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -233,6 +249,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/hate-is-a-strong-word-but-i-really-really-really-d/' | relative_url }}">hate is a strong word but i really really really d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/google-says-gemini-wont-have-ads-as-chatgpt-prepar/' | relative_url }}">google says gemini wont have ads as chatgpt prepar</a></h3>
 </div>
 <div class="article-row">
@@ -318,6 +338,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/apps-that-can-sort-out-american-goods-are-sweeping/' | relative_url }}">apps that can sort out american goods are sweeping</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/any-suggestions-on-rs-current-features/' | relative_url }}">any suggestions on rs current features</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
