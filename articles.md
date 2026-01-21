@@ -8,6 +8,22 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/where-im-at-with-ai/' | relative_url }}">where im at with ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/the-blackout-challenge-mom-suing-tiktok-after-son/' | relative_url }}">the blackout challenge mom suing tiktok after son</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/salesforces-benioff-calls-for-ai-regulation-says-m/' | relative_url }}">salesforces benioff calls for ai regulation says m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/electricity-use-of-ai-coding-agents/' | relative_url }}">electricity use of ai coding agents</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/you-did-not-vote-for-him-but-you-helped-him-win/' | relative_url }}">you did not vote for him but you helped him win</a></h3>
 </div>
