@@ -89,7 +89,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/terawave-satellite-communications-network/' | relative_url }}">terawave satellite communications network</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/stories-removed-from-the-hacker-news-front-page-up/' | relative_url }}">stories removed from the hacker news front page up</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/stanford-scientists-found-a-way-to-regrow-cartilag/' | relative_url }}">stanford scientists found a way to regrow cartilag</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -106,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/show-hn-yolo-cage-ai-coding-agents-that-cant-exfil/' | relative_url }}">show hn yolo cage ai coding agents that cant exfil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/show-hn-rails-ui/' | relative_url }}">show hn rails ui</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -158,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/little-sound-dj/' | relative_url }}">little sound dj</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/linux-from-scratch/' | relative_url }}">linux from scratch</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -254,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/director-gore-verbinski-unreal-engine-is-the-great/' | relative_url }}">director gore verbinski unreal engine is the great</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/dario-amodei-said-the-presidents-decision-to-allow/' | relative_url }}">dario amodei said the presidents decision to allow</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
