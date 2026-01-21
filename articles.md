@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/wsl-dashboard-v010-releaseda-modern-high-performan/' | relative_url }}">wsl dashboard v010 releaseda modern high performan</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/why-not-tail-recursion/' | relative_url }}">why not tail recursion</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/where-im-at-with-ai/' | relative_url }}">where im at with ai</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +26,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/the-blackout-challenge-mom-suing-tiktok-after-son/' | relative_url }}">the blackout challenge mom suing tiktok after son</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/the-agentic-ai-handbook-production-ready-patterns/' | relative_url }}">the agentic ai handbook production ready patterns</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/scientists-discover-the-bodys-natural-off-switch-f/' | relative_url }}">scientists discover the bodys natural off switch f</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -78,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/anthropics-original-take-home-assignment-open-sour/' | relative_url }}">anthropics original take home assignment open sour</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/200-mb-ram-freebsd-desktop/' | relative_url }}">200 mb ram freebsd desktop</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
