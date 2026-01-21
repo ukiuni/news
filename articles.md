@@ -13,11 +13,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/worlds-first-crispr-base-edited-baby-cured-of-fata/' | relative_url }}">worlds first crispr base edited baby cured of fata</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/why-not-tail-recursion/' | relative_url }}">why not tail recursion</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/where-im-at-with-ai/' | relative_url }}">where im at with ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/what-is-a-pc-compatible/' | relative_url }}">what is a pc compatible</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -42,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/the-blackout-challenge-mom-suing-tiktok-after-son/' | relative_url }}">the blackout challenge mom suing tiktok after son</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/the-art-of-craftsmanship-monozukuri-in-the-age-of/' | relative_url }}">the art of craftsmanship monozukuri in the age of</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -70,6 +82,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/private-data-management-using-decentralised-ledger/' | relative_url }}">private data management using decentralised ledger</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/netflix-to-redesign-its-app-as-it-competes-with-so/' | relative_url }}">netflix to redesign its app as it competes with so</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/nested-code-fences-in-markdown/' | relative_url }}">nested code fences in markdown</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -114,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/google-says-gemini-wont-have-ads-as-chatgpt-prepar/' | relative_url }}">google says gemini wont have ads as chatgpt prepar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/foss-for-digital-sovereignty-in-the-eu/' | relative_url }}">foss for digital sovereignty in the eu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -177,11 +201,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/apps-that-can-sort-out-american-goods-are-sweeping/' | relative_url }}">apps that can sort out american goods are sweeping</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/anthropics-original-take-home-assignment-open-sour/' | relative_url }}">anthropics original take home assignment open sour</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/an-introduction-to-xet-hugging-faces-storage-syste/' | relative_url }}">an introduction to xet hugging faces storage syste</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/ai-destroys-institutions/' | relative_url }}">ai destroys institutions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
