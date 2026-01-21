@@ -185,6 +185,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/lobsters-blog-carnival-announcement/' | relative_url }}">lobsters blog carnival announcement</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/little-sound-dj/' | relative_url }}">little sound dj</a></h3>
 </div>
 <div class="article-row">
@@ -261,6 +265,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/gamestop-says-its-shut-down-a-nintendo-switch-2-tr/' | relative_url }}">gamestop says its shut down a nintendo switch 2 tr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/foss-for-digital-sovereignty-in-the-eu/' | relative_url }}">foss for digital sovereignty in the eu</a></h3>
 </div>
 <div class="article-row">
@@ -285,6 +293,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/ebay-explicitly-bans-ai-buy-for-me-agents-in-user/' | relative_url }}">ebay explicitly bans ai buy for me agents in user</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/disaster-planning-for-regular-folks-2015/' | relative_url }}">disaster planning for regular folks 2015</a></h3>
 </div>
 <div class="article-row">
@@ -306,6 +318,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/claude-chill-fix-claude-codes-flickering-in-termin/' | relative_url }}">claude chill fix claude codes flickering in termin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/challenges-in-join-optimization/' | relative_url }}">challenges in join optimization</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -338,6 +354,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/apps-that-can-sort-out-american-goods-are-sweeping/' | relative_url }}">apps that can sort out american goods are sweeping</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/apps-for-boycotting-american-products-surge-to-the/' | relative_url }}">apps for boycotting american products surge to the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
