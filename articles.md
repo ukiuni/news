@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/waiting-for-dawn-in-search-search-index-google-rul/' | relative_url }}">waiting for dawn in search search index google rul</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/vibecoding-2/' | relative_url }}">vibecoding 2</a></h3>
 </div>
 <div class="article-row">
@@ -177,6 +181,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/illumos/' | relative_url }}">illumos</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/if-chatgpt-writes-your-code-what-are-you-getting-p/' | relative_url }}">if chatgpt writes your code what are you getting p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/i-used-a-new-go-version-manager-govm/' | relative_url }}">i used a new go version manager govm</a></h3>
 </div>
 <div class="article-row">
@@ -209,11 +221,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/genai-the-snake-eating-its-own-tail/' | relative_url }}">genai the snake eating its own tail</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/foss-for-digital-sovereignty-in-the-eu/' | relative_url }}">foss for digital sovereignty in the eu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/flutter-ecs-performance-optimization-amp-profiling/' | relative_url }}">flutter ecs performance optimization amp profiling</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/five-mistakes-ive-made-with-euler-angles/' | relative_url }}">five mistakes ive made with euler angles</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -238,6 +258,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/curl-removes-bug-bounties-because-of-ai-slop/' | relative_url }}">curl removes bug bounties because of ai slop</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/claudes-new-constitution/' | relative_url }}">claudes new constitution</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -298,6 +322,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/200-mb-ram-freebsd-desktop/' | relative_url }}">200 mb ram freebsd desktop</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/11-apache-spark-optimizations-you-should-know/' | relative_url }}">11 apache spark optimizations you should know</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
