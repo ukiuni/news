@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/building-a-multi-tenant-metrics-pipeline-for-thous/' | relative_url }}">building a multi tenant metrics pipeline for thous</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/building-a-javascript-runtime-in-one-month/' | relative_url }}">building a javascript runtime in one month</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/anthropics-original-take-home-assignment-open-sour/' | relative_url }}">anthropics original take home assignment open sour</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/an-introduction-to-xet-hugging-faces-storage-syste/' | relative_url }}">an introduction to xet hugging faces storage syste</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
