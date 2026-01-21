@@ -24,6 +24,14 @@ permalink: /articles/
   <h3><a href="{{ '/2026/01/21/electricity-use-of-ai-coding-agents/' | relative_url }}">electricity use of ai coding agents</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/claude-chill-fix-claude-codes-flickering-in-termin/' | relative_url }}">claude chill fix claude codes flickering in termin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/building-robust-helm-charts/' | relative_url }}">building robust helm charts</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/20</span>
   <h3><a href="{{ '/2026/01/20/you-did-not-vote-for-him-but-you-helped-him-win/' | relative_url }}">you did not vote for him but you helped him win</a></h3>
 </div>
