@@ -29,7 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/libbbf-bound-book-format-a-high-performance-contai/' | relative_url }}">libbbf bound book format a high performance contai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/i-used-a-new-go-version-manager-govm/' | relative_url }}">i used a new go version manager govm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/i-made-zig-compute-33-million-satellite-positions/' | relative_url }}">i made zig compute 33 million satellite positions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/i-got-into-an-argument-on-discord-about-how-ineffi/' | relative_url }}">i got into an argument on discord about how ineffi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
