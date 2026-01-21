@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/verizon-starts-requiring-365-days-of-paid-service/' | relative_url }}">verizon starts requiring 365 days of paid service</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/the-blackout-challenge-mom-suing-tiktok-after-son/' | relative_url }}">the blackout challenge mom suing tiktok after son</a></h3>
 </div>
 <div class="article-row">
