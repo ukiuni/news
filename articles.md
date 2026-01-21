@@ -9,11 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/zillow-removed-climate-risk-scores-this-climate-ex/' | relative_url }}">zillow removed climate risk scores this climate ex</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/wsl-dashboard-v010-releaseda-modern-high-performan/' | relative_url }}">wsl dashboard v010 releaseda modern high performan</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/worlds-first-crispr-base-edited-baby-cured-of-fata/' | relative_url }}">worlds first crispr base edited baby cured of fata</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/wikipedia-volunteers-spent-years-cataloging-ai-tel/' | relative_url }}">wikipedia volunteers spent years cataloging ai tel</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -45,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/tpm-on-embedded-systems-pitfalls-and-caveats-to-wa/' | relative_url }}">tpm on embedded systems pitfalls and caveats to wa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/the-sidecar-siphon-exploiting-identity-leaks-in-se/' | relative_url }}">the sidecar siphon exploiting identity leaks in se</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +82,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/stories-removed-from-the-hacker-news-front-page-up/' | relative_url }}">stories removed from the hacker news front page up</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/so-why-should-gnome-support-server-side-decoration/' | relative_url }}">so why should gnome support server side decoration</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/smartos/' | relative_url }}">smartos</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/show-hn-yolo-cage-ai-coding-agents-that-cant-exfil/' | relative_url }}">show hn yolo cage ai coding agents that cant exfil</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -113,11 +137,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/making-an-lsp-for-great-good/' | relative_url }}">making an lsp for great good</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/little-sound-dj/' | relative_url }}">little sound dj</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/libbbf-bound-book-format-a-high-performance-contai/' | relative_url }}">libbbf bound book format a high performance contai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/kioxia-exec-says-the-ai-boom-means-the-era-of-the/' | relative_url }}">kioxia exec says the ai boom means the era of the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
