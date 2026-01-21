@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/rsssocial-the-latest-and-best-from-small-sites-acr/' | relative_url }}">rsssocial the latest and best from small sites acr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/microsoft-ceo-satya-nadella-warns-that-we-must-do/' | relative_url }}">microsoft ceo satya nadella warns that we must do</a></h3>
 </div>
 <div class="article-row">
