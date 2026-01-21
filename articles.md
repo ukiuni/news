@@ -129,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/show-hn-terabytedeals-compare-storage-prices-by-tb/' | relative_url }}">show hn terabytedeals compare storage prices by tb</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/show-hn-rails-ui/' | relative_url }}">show hn rails ui</a></h3>
 </div>
 <div class="article-row">
@@ -166,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/picopcmcia-a-pcmcia-development-board-for-retro-co/' | relative_url }}">picopcmcia a pcmcia development board for retro co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/openai-api-logs-unpatched-data-exfiltration/' | relative_url }}">openai api logs unpatched data exfiltration</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -258,6 +266,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/google-says-gemini-wont-have-ads-as-chatgpt-prepar/' | relative_url }}">google says gemini wont have ads as chatgpt prepar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/golfing-aplk-in-90-lines-of-python/' | relative_url }}">golfing aplk in 90 lines of python</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
