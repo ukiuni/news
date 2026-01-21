@@ -25,7 +25,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/little-sound-dj/' | relative_url }}">little sound dj</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/i-used-a-new-go-version-manager-govm/' | relative_url }}">i used a new go version manager govm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/electricity-use-of-ai-coding-agents/' | relative_url }}">electricity use of ai coding agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/disaster-planning-for-regular-folks-2015/' | relative_url }}">disaster planning for regular folks 2015</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
