@@ -21,7 +21,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/vibecoding-2/' | relative_url }}">vibecoding 2</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/verizon-starts-requiring-365-days-of-paid-service/' | relative_url }}">verizon starts requiring 365 days of paid service</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/the-sidecar-siphon-exploiting-identity-leaks-in-se/' | relative_url }}">the sidecar siphon exploiting identity leaks in se</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -38,6 +46,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/the-agentic-ai-handbook-production-ready-patterns/' | relative_url }}">the agentic ai handbook production ready patterns</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/stories-removed-from-the-hacker-news-front-page-up/' | relative_url }}">stories removed from the hacker news front page up</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/setihome-is-in-hiberation/' | relative_url }}">setihome is in hiberation</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -81,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/i-built-a-tiny-cli-tool-because-i-was-tired-of-exp/' | relative_url }}">i built a tiny cli tool because i was tired of exp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/i-built-a-new-type-of-erasure-code-using-bloom-fil/' | relative_url }}">i built a new type of erasure code using bloom fil</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/hypnosis-with-aphantasia/' | relative_url }}">hypnosis with aphantasia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/google-says-gemini-wont-have-ads-as-chatgpt-prepar/' | relative_url }}">google says gemini wont have ads as chatgpt prepar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
