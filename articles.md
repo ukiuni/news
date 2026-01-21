@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/flutter-ecs-performance-optimization-amp-profiling/' | relative_url }}">flutter ecs performance optimization amp profiling</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/electricity-use-of-ai-coding-agents/' | relative_url }}">electricity use of ai coding agents</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/building-robust-helm-charts/' | relative_url }}">building robust helm charts</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/building-a-javascript-runtime-in-one-month/' | relative_url }}">building a javascript runtime in one month</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/anthropics-original-take-home-assignment-open-sour/' | relative_url }}">anthropics original take home assignment open sour</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/20</span>
