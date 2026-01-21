@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/the-call-for-papers-for-j-on-the-beach-lambda-worl/' | relative_url }}">the call for papers for j on the beach lambda worl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/the-blackout-challenge-mom-suing-tiktok-after-son/' | relative_url }}">the blackout challenge mom suing tiktok after son</a></h3>
 </div>
 <div class="article-row">
@@ -77,11 +81,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/i-built-a-new-type-of-erasure-code-using-bloom-fil/' | relative_url }}">i built a new type of erasure code using bloom fil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/i-built-a-localhost-tunneling-tool-in-typescript-h/' | relative_url }}">i built a localhost tunneling tool in typescript h</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/hypnosis-with-aphantasia/' | relative_url }}">hypnosis with aphantasia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/flutter-ecs-performance-optimization-amp-profiling/' | relative_url }}">flutter ecs performance optimization amp profiling</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/euinc-one-europe-one-standard-pan-european-legal-e/' | relative_url }}">euinc one europe one standard pan european legal e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/emudevz-a-game-about-developing-emulators/' | relative_url }}">emudevz a game about developing emulators</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
@@ -121,6 +141,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/batmobile-10-20x-faster-cuda-kernels-for-equivaria/' | relative_url }}">batmobile 10 20x faster cuda kernels for equivaria</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/asciidoc-manifesto-helping-users-understand-its-co/' | relative_url }}">asciidoc manifesto helping users understand its co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/arbor-v14-a-graph-native-refactor-safety-tool-with/' | relative_url }}">arbor v14 a graph native refactor safety tool with</a></h3>
 </div>
 <div class="article-row">
@@ -130,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/an-introduction-to-xet-hugging-faces-storage-syste/' | relative_url }}">an introduction to xet hugging faces storage syste</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/21</span>
+  <h3><a href="{{ '/2026/01/21/6-things-i-learned-about-opentelemetry-contributio/' | relative_url }}">6 things i learned about opentelemetry contributio</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
