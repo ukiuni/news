@@ -37,11 +37,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/white-house-posts-digitally-altered-image-of-woman/' | relative_url }}">white house posts digitally altered image of woman</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/white-house-posts-ai-altered-photo-of-arrested-pro/' | relative_url }}">white house posts ai altered photo of arrested pro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/what-small-tool-or-script-has-saved-you-the-most-t/' | relative_url }}">what small tool or script has saved you the most t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/we-will-ban-you-and-ridicule-you-in-public-if-you/' | relative_url }}">we will ban you and ridicule you in public if you</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/volvo-ceo-says-good-luck-the-rest-of-you-legacy-au/' | relative_url }}">volvo ceo says good luck the rest of you legacy au</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/viking-ship-museum-in-denmark-announces-the-discov/' | relative_url }}">viking ship museum in denmark announces the discov</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
@@ -170,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/new-jersey-severely-cracks-down-on-e-bikes-requiri/' | relative_url }}">new jersey severely cracks down on e bikes requiri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/my-first-year-in-sales-as-technical-founder/' | relative_url }}">my first year in sales as technical founder</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
@@ -313,6 +333,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/cta-hierarchy-in-the-wild/' | relative_url }}">cta hierarchy in the wild</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/css-optical-illusions/' | relative_url }}">css optical illusions</a></h3>
 </div>
 <div class="article-row">
@@ -353,6 +377,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/anthropic-economic-index-economic-primitives/' | relative_url }}">anthropic economic index economic primitives</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/announcing-winapp-the-windows-app-development-cli/' | relative_url }}">announcing winapp the windows app development cli</a></h3>
 </div>
 <div class="article-row">
@@ -366,6 +394,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/ai-security-alert-malicious-mcp-servers/' | relative_url }}">ai security alert malicious mcp servers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/active-sitting-is-better-for-brain-health-review-o/' | relative_url }}">active sitting is better for brain health review o</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
