@@ -105,6 +105,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/dont-tripwire-yourself-testing-error-recovery-in-z/' | relative_url }}">dont tripwire yourself testing error recovery in z</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/doctors-in-brazil-using-tilapia-fish-skin-to-treat/' | relative_url }}">doctors in brazil using tilapia fish skin to treat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/binary-fuse-filters-fast-and-smaller-than-xor-filt/' | relative_url }}">binary fuse filters fast and smaller than xor filt</a></h3>
 </div>
 <div class="article-row">
