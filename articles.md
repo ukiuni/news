@@ -97,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/palantir-meta-openai-execs-appointed-lieutenant-co/' | relative_url }}">palantir meta openai execs appointed lieutenant co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/openais-internal-documents-predict-14-billion-loss/' | relative_url }}">openais internal documents predict 14 billion loss</a></h3>
 </div>
 <div class="article-row">
@@ -169,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/federal-officials-draft-plans-to-ban-social-media/' | relative_url }}">federal officials draft plans to ban social media</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/essay-performance-reviews-in-big-tech-why-fair-sys/' | relative_url }}">essay performance reviews in big tech why fair sys</a></h3>
 </div>
 <div class="article-row">
@@ -218,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/a-clear-visual-explanation-of-what-https-protects/' | relative_url }}">a clear visual explanation of what https protects</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/5-open-source-resume-builders-thatll-help-get-you/' | relative_url }}">5 open source resume builders thatll help get you</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
