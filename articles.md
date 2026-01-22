@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/zxc-another-too-fast-decompressor/' | relative_url }}">zxc another too fast decompressor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/your-app-subscription-is-now-my-weekend-project/' | relative_url }}">your app subscription is now my weekend project</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/using-kadepy-python-to-communicate-with-nodejs-via/' | relative_url }}">using kadepy python to communicate with nodejs via</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/ubisoft-shares-plummet-33-after-assassins-creed-ma/' | relative_url }}">ubisoft shares plummet 33 after assassins creed ma</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
@@ -73,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/scarlett-johansson-cate-blanchett-and-joseph-gordo/' | relative_url }}">scarlett johansson cate blanchett and joseph gordo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/satya-nadella-at-davos-a-masterclass-in-saying-eve/' | relative_url }}">satya nadella at davos a masterclass in saying eve</a></h3>
 </div>
 <div class="article-row">
@@ -93,11 +105,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/marginal-gains-from-worst-to-olympic-gold/' | relative_url }}">marginal gains from worst to olympic gold</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/london-pr-firm-rewrites-wikipedia-for-governments/' | relative_url }}">london pr firm rewrites wikipedia for governments</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/letting-claude-play-text-adventures/' | relative_url }}">letting claude play text adventures</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/job-applicants-sue-to-open-black-box-of-ai-hiring/' | relative_url }}">job applicants sue to open black box of ai hiring</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/iso-pdf-spec-is-getting-brotli-20-smaller-document/' | relative_url }}">iso pdf spec is getting brotli 20 smaller document</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
@@ -149,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/douglas-adams-on-the-englishamerican-cultural-divi/' | relative_url }}">douglas adams on the englishamerican cultural divi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/dont-tripwire-yourself-testing-error-recovery-in-z/' | relative_url }}">dont tripwire yourself testing error recovery in z</a></h3>
 </div>
 <div class="article-row">
@@ -190,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/a-clear-visual-explanation-of-what-https-protects/' | relative_url }}">a clear visual explanation of what https protects</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/30-years-of-reactos/' | relative_url }}">30 years of reactos</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
