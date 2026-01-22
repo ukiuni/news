@@ -8,6 +8,22 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/take-potentially-dangerous-pdfs-and-convert-them-t/' | relative_url }}">take potentially dangerous pdfs and convert them t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/show-hn-ratatuiruby-wraps-rust-ratatui-as-a-rubyge/' | relative_url }}">show hn ratatuiruby wraps rust ratatui as a rubyge</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/letting-claude-play-text-adventures/' | relative_url }}">letting claude play text adventures</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/irony-alert-hallucinated-citations-found-in-papers/' | relative_url }}">irony alert hallucinated citations found in papers</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/zillow-removed-climate-risk-scores-this-climate-ex/' | relative_url }}">zillow removed climate risk scores this climate ex</a></h3>
 </div>
