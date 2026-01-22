@@ -89,7 +89,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/in-praise-of-apl-1977/' | relative_url }}">in praise of apl 1977</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/ill-pass-on-your-zoom-call/' | relative_url }}">ill pass on your zoom call</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/i-learned-about-8-versions-of-uuids-and-decided-to/' | relative_url }}">i learned about 8 versions of uuids and decided to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
@@ -122,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/doctors-in-brazil-using-tilapia-fish-skin-to-treat/' | relative_url }}">doctors in brazil using tilapia fish skin to treat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/collection-of-cli-utilities-sarra-cli/' | relative_url }}">collection of cli utilities sarra cli</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
