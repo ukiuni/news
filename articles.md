@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/results-from-the-2025-go-developer-survey/' | relative_url }}">results from the 2025 go developer survey</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/president-fcc-threatens-to-enforce-equal-time-rule/' | relative_url }}">president fcc threatens to enforce equal time rule</a></h3>
 </div>
 <div class="article-row">
@@ -49,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/job-applicants-sue-to-open-black-box-of-ai-hiring/' | relative_url }}">job applicants sue to open black box of ai hiring</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/irony-alert-hallucinated-citations-found-in-papers/' | relative_url }}">irony alert hallucinated citations found in papers</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/ill-pass-on-your-zoom-call/' | relative_url }}">ill pass on your zoom call</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/hylo-the-next-generation-language-that-everyone-sh/' | relative_url }}">hylo the next generation language that everyone sh</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
