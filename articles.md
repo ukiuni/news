@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/tree-sitter-vs-language-servers/' | relative_url }}">tree sitter vs language servers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/threat-actors-expand-abuse-of-microsoft-visual-stu/' | relative_url }}">threat actors expand abuse of microsoft visual stu</a></h3>
 </div>
 <div class="article-row">
@@ -93,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/qwen3-tts-family-is-now-open-sourced-voice-design/' | relative_url }}">qwen3 tts family is now open sourced voice design</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/president-fcc-threatens-to-enforce-equal-time-rule/' | relative_url }}">president fcc threatens to enforce equal time rule</a></h3>
 </div>
 <div class="article-row">
@@ -105,7 +113,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/openai-nears-new-50-billion-funding-round-in-middl/' | relative_url }}">openai nears new 50 billion funding round in middl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/mote-an-interactive-ecosystem-simulation-video/' | relative_url }}">mote an interactive ecosystem simulation video</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/modular-monolith-dependencies-and-communication-be/' | relative_url }}">modular monolith dependencies and communication be</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
@@ -141,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/in-europe-wind-and-solar-overtake-fossil-fuels/' | relative_url }}">in europe wind and solar overtake fossil fuels</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/ill-pass-on-your-zoom-call/' | relative_url }}">ill pass on your zoom call</a></h3>
 </div>
 <div class="article-row">
@@ -158,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/high-cardinality-explained-with-interactive-exampl/' | relative_url }}">high cardinality explained with interactive exampl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/gptzero-finds-100-new-hallucinations-in-neurips-20/' | relative_url }}">gptzero finds 100 new hallucinations in neurips 20</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
