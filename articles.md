@@ -33,6 +33,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/president-fcc-threatens-to-enforce-equal-time-rule/' | relative_url }}">president fcc threatens to enforce equal time rule</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/openais-internal-documents-predict-14-billion-loss/' | relative_url }}">openais internal documents predict 14 billion loss</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/mote-an-interactive-ecosystem-simulation-video/' | relative_url }}">mote an interactive ecosystem simulation video</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/letting-claude-play-text-adventures/' | relative_url }}">letting claude play text adventures</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +54,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/internet-voting-is-insecure-and-should-not-be-used/' | relative_url }}">internet voting is insecure and should not be used</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/ill-pass-on-your-zoom-call/' | relative_url }}">ill pass on your zoom call</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/fsnotes-7-remarkable-fast-plain-text-notes/' | relative_url }}">fsnotes 7 remarkable fast plain text notes</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
