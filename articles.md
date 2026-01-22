@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/volvo-ceo-says-good-luck-the-rest-of-you-legacy-au/' | relative_url }}">volvo ceo says good luck the rest of you legacy au</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/using-kadepy-python-to-communicate-with-nodejs-via/' | relative_url }}">using kadepy python to communicate with nodejs via</a></h3>
 </div>
 <div class="article-row">
@@ -22,6 +26,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/take-potentially-dangerous-pdfs-and-convert-them-t/' | relative_url }}">take potentially dangerous pdfs and convert them t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/sw-design-architecture-amp-clarity-at-scale-sam-ne/' | relative_url }}">sw design architecture amp clarity at scale sam ne</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
@@ -93,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/gathering-linux-syscall-numbers-in-a-c-table/' | relative_url }}">gathering linux syscall numbers in a c table</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/fsnotes-7-remarkable-fast-plain-text-notes/' | relative_url }}">fsnotes 7 remarkable fast plain text notes</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/binary-fuse-filters-fast-and-smaller-than-xor-filt/' | relative_url }}">binary fuse filters fast and smaller than xor filt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/ai-security-alert-malicious-mcp-servers/' | relative_url }}">ai security alert malicious mcp servers</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/21</span>
