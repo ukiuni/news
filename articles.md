@@ -9,7 +9,23 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/using-kadepy-python-to-communicate-with-nodejs-via/' | relative_url }}">using kadepy python to communicate with nodejs via</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/uber-faces-growing-pressure-over-sexual-assault-re/' | relative_url }}">uber faces growing pressure over sexual assault re</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/threat-actors-expand-abuse-of-microsoft-visual-stu/' | relative_url }}">threat actors expand abuse of microsoft visual stu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/take-potentially-dangerous-pdfs-and-convert-them-t/' | relative_url }}">take potentially dangerous pdfs and convert them t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/significant-us-farm-losses-persist-despite-federal/' | relative_url }}">significant us farm losses persist despite federal</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
