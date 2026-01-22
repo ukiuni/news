@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/verifiable-credential-spoofing-breaking-the-trust/' | relative_url }}">verifiable credential spoofing breaking the trust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/using-kadepy-python-to-communicate-with-nodejs-via/' | relative_url }}">using kadepy python to communicate with nodejs via</a></h3>
 </div>
 <div class="article-row">
@@ -153,6 +157,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/do-not-fall-for-complex-technology/' | relative_url }}">do not fall for complex technology</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/design-thinking-books-you-must-read/' | relative_url }}">design thinking books you must read</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/collection-of-cli-utilities-sarra-cli/' | relative_url }}">collection of cli utilities sarra cli</a></h3>
 </div>
 <div class="article-row">
@@ -166,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/app-subscription-is-now-my-weekend-project/' | relative_url }}">app subscription is now my weekend project</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/an-adversarial-coding-test/' | relative_url }}">an adversarial coding test</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
