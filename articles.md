@@ -137,7 +137,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/building-a-fast-mel-spectrogram-library-in-mojo-15/' | relative_url }}">building a fast mel spectrogram library in mojo 15</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/binary-fuse-filters-fast-and-smaller-than-xor-filt/' | relative_url }}">binary fuse filters fast and smaller than xor filt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/app-subscription-is-now-my-weekend-project/' | relative_url }}">app subscription is now my weekend project</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
