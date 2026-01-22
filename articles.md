@@ -24,6 +24,14 @@ permalink: /articles/
   <h3><a href="{{ '/2026/01/22/irony-alert-hallucinated-citations-found-in-papers/' | relative_url }}">irony alert hallucinated citations found in papers</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/internet-voting-is-insecure-and-should-not-be-used/' | relative_url }}">internet voting is insecure and should not be used</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/binary-fuse-filters-fast-and-smaller-than-xor-filt/' | relative_url }}">binary fuse filters fast and smaller than xor filt</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/21</span>
   <h3><a href="{{ '/2026/01/21/zillow-removed-climate-risk-scores-this-climate-ex/' | relative_url }}">zillow removed climate risk scores this climate ex</a></h3>
 </div>
