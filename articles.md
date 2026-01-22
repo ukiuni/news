@@ -305,6 +305,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/extracting-a-uart-password-via-spi-flash-instructi/' | relative_url }}">extracting a uart password via spi flash instructi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/experts-warn-of-threat-to-democracy-from-ai-bot-sw/' | relative_url }}">experts warn of threat to democracy from ai bot sw</a></h3>
 </div>
 <div class="article-row">
@@ -345,6 +349,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/composing-apis-and-clis-in-the-llm-era/' | relative_url }}">composing apis and clis in the llm era</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/compiling-scheme-to-webassembly/' | relative_url }}">compiling scheme to webassembly</a></h3>
 </div>
 <div class="article-row">
@@ -354,6 +362,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/collection-of-cli-utilities-sarra-cli/' | relative_url }}">collection of cli utilities sarra cli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/capital-one-to-acquire-brex-for-515b/' | relative_url }}">capital one to acquire brex for 515b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
