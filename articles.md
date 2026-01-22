@@ -113,11 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/science-is-drowning-in-ai-slop-peer-review-has-met/' | relative_url }}">science is drowning in ai slop peer review has met</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/scarlett-johansson-cate-blanchett-and-joseph-gordo/' | relative_url }}">scarlett johansson cate blanchett and joseph gordo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/satya-nadella-at-davos-a-masterclass-in-saying-eve/' | relative_url }}">satya nadella at davos a masterclass in saying eve</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/reverse-engineering-lyft-bikes-for-fun-and-profit/' | relative_url }}">reverse engineering lyft bikes for fun and profit</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
