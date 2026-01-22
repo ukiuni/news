@@ -29,7 +29,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/show-hn-sweep-open-weights-15b-model-for-next-edit/' | relative_url }}">show hn sweep open weights 15b model for next edit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/show-hn-ratatuiruby-wraps-rust-ratatui-as-a-rubyge/' | relative_url }}">show hn ratatuiruby wraps rust ratatui as a rubyge</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/show-hn-open-source-certificate-from-github-activi/' | relative_url }}">show hn open source certificate from github activi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/show-hn-high-speed-graphics-rendering-research-wit/' | relative_url }}">show hn high speed graphics rendering research wit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/satya-nadella-at-davos-a-masterclass-in-saying-eve/' | relative_url }}">satya nadella at davos a masterclass in saying eve</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
@@ -73,7 +89,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/high-cardinality-explained-with-interactive-exampl/' | relative_url }}">high cardinality explained with interactive exampl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/fsnotes-7-remarkable-fast-plain-text-notes/' | relative_url }}">fsnotes 7 remarkable fast plain text notes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/from-stealth-blackout-to-whitelisting-inside-the-i/' | relative_url }}">from stealth blackout to whitelisting inside the i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/essay-performance-reviews-in-big-tech-why-fair-sys/' | relative_url }}">essay performance reviews in big tech why fair sys</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
