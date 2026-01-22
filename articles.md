@@ -77,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/ssh-has-no-host-header/' | relative_url }}">ssh has no host header</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/spotify-won-court-order-against-annas-archive-taki/' | relative_url }}">spotify won court order against annas archive taki</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/show-hn-high-speed-graphics-rendering-research-wit/' | relative_url }}">show hn high speed graphics rendering research wit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/show-hn-cli-for-working-with-apple-core-ml-models/' | relative_url }}">show hn cli for working with apple core ml models</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
@@ -193,6 +201,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/join-the-github-copilot-cli-challenge-win-github-u/' | relative_url }}">join the github copilot cli challenge win github u</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/job-applicants-sue-to-open-black-box-of-ai-hiring/' | relative_url }}">job applicants sue to open black box of ai hiring</a></h3>
 </div>
 <div class="article-row">
@@ -273,6 +285,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/experts-warn-of-threat-to-democracy-from-ai-bot-sw/' | relative_url }}">experts warn of threat to democracy from ai bot sw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/essay-performance-reviews-in-big-tech-why-fair-sys/' | relative_url }}">essay performance reviews in big tech why fair sys</a></h3>
 </div>
 <div class="article-row">
@@ -301,6 +317,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/css-optical-illusions-50-visual-illusions-built-wi/' | relative_url }}">css optical illusions 50 visual illusions built wi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/compiling-scheme-to-webassembly/' | relative_url }}">compiling scheme to webassembly</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/comic-con-bans-ai-art-after-artist-pushback/' | relative_url }}">comic con bans ai art after artist pushback</a></h3>
 </div>
 <div class="article-row">
@@ -318,6 +342,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/binary-fuse-filters-fast-and-smaller-than-xor-filt/' | relative_url }}">binary fuse filters fast and smaller than xor filt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/22</span>
+  <h3><a href="{{ '/2026/01/22/askers-vs-guessers-2010/' | relative_url }}">askers vs guessers 2010</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
