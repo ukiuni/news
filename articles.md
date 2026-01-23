@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/unrolling-the-codex-agent-loop/' | relative_url }}">unrolling the codex agent loop</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/underground-resistance-aims-to-sabotage-ai-with-po/' | relative_url }}">underground resistance aims to sabotage ai with po</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/ssds-now-cost-16x-more-than-hdds-due-to-ai-supply/' | relative_url }}">ssds now cost 16x more than hdds due to ai supply</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/ssa-admits-doge-had-more-access-than-first-said/' | relative_url }}">ssa admits doge had more access than first said</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -241,6 +249,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/gold-fever-cold-and-the-true-adventures-of-jack-lo/' | relative_url }}">gold fever cold and the true adventures of jack lo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/gnu-guix-150-released/' | relative_url }}">gnu guix 150 released</a></h3>
 </div>
 <div class="article-row">
@@ -278,6 +290,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/bugs-apple-loves/' | relative_url }}">bugs apple loves</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/breaking-key-value-size-limits-linked-list-wals-fo/' | relative_url }}">breaking key value size limits linked list wals fo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
