@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/three-rces-in-ilias-learning-management-system/' | relative_url }}">three rces in ilias learning management system</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/the-state-of-modern-ai-text-to-speech-systems-for/' | relative_url }}">the state of modern ai text to speech systems for</a></h3>
 </div>
 <div class="article-row">
@@ -57,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/tech-is-fun-again-the-tech-monoculture-is-finally/' | relative_url }}">tech is fun again the tech monoculture is finally</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/talking-to-llms-has-improved-my-thinking/' | relative_url }}">talking to llms has improved my thinking</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/ssds-now-cost-16x-more-than-hdds-due-to-ai-supply/' | relative_url }}">ssds now cost 16x more than hdds due to ai supply</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/show-hn-zsweep-play-minesweeper-using-only-vim-mot/' | relative_url }}">show hn zsweep play minesweeper using only vim mot</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -141,11 +153,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/korg-phase8-acoustic-synthesizer/' | relative_url }}">korg phase8 acoustic synthesizer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/judge-orders-stop-to-fbi-search-of-devices-seized/' | relative_url }}">judge orders stop to fbi search of devices seized</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/is-your-ring-doorbell-footage-going-straight-to-ic/' | relative_url }}">is your ring doorbell footage going straight to ic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/interfaces-and-traits-in-c/' | relative_url }}">interfaces and traits in c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -178,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/ghosttys-ai-policy/' | relative_url }}">ghosttys ai policy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/gas-towns-agent-patterns-design-bottlenecks-and-vi/' | relative_url }}">gas towns agent patterns design bottlenecks and vi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
