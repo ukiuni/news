@@ -8,6 +8,14 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/why-medieval-city-builder-video-games-are-historic/' | relative_url }}">why medieval city builder video games are historic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/improving-the-usability-of-c-libraries-in-swift/' | relative_url }}">improving the usability of c libraries in swift</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/22</span>
   <h3><a href="{{ '/2026/01/22/zxc-another-too-fast-decompressor/' | relative_url }}">zxc another too fast decompressor</a></h3>
 </div>
