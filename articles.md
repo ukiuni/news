@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/project-mercury-and-the-sofar-bomb/' | relative_url }}">project mercury and the sofar bomb</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/overrun-with-ai-slop-curl-scraps-bug-bounties-to-e/' | relative_url }}">overrun with ai slop curl scraps bug bounties to e</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/i-built-a-light-that-reacts-to-radio-waves-video/' | relative_url }}">i built a light that reacts to radio waves video</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/i-built-a-custom-dsl-with-my-own-lexer-parser-ast/' | relative_url }}">i built a custom dsl with my own lexer parser ast</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
