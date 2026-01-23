@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/vargaisdk-jsx-for-ai-video-declarative-programming/' | relative_url }}">vargaisdk jsx for ai video declarative programming</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/unrolling-the-codex-agent-loop/' | relative_url }}">unrolling the codex agent loop</a></h3>
 </div>
 <div class="article-row">
@@ -133,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/reflection-cs-decade-defining-rocket-engine-herb-s/' | relative_url }}">reflection cs decade defining rocket engine herb s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/radicle-the-sovereign-forge/' | relative_url }}">radicle the sovereign forge</a></h3>
 </div>
 <div class="article-row">
@@ -169,6 +177,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/new-yc-homepage/' | relative_url }}">new yc homepage</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/mrna-cancer-vaccine-shows-protection-at-5-year-fol/' | relative_url }}">mrna cancer vaccine shows protection at 5 year fol</a></h3>
 </div>
 <div class="article-row">
@@ -186,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/microsoft-gave-fbi-keys-to-unlock-encrypted-data-e/' | relative_url }}">microsoft gave fbi keys to unlock encrypted data e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/mental-models-2018/' | relative_url }}">mental models 2018</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -298,6 +314,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/booting-a-pc-from-a-vinyl-record/' | relative_url }}">booting a pc from a vinyl record</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/banned-c-features-in-chromium/' | relative_url }}">banned c features in chromium</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
