@@ -125,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/rheo-typesetting-and-static-site-engine-based-on-t/' | relative_url }}">rheo typesetting and static site engine based on t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/rfk-jr-spreads-new-bogus-scare-mongering-bullshit/' | relative_url }}">rfk jr spreads new bogus scare mongering bullshit</a></h3>
 </div>
 <div class="article-row">
@@ -326,6 +330,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/an-easily-understood-path-to-implementing-safe-agi/' | relative_url }}">an easily understood path to implementing safe agi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/ai-is-quietly-poisoning-itself-and-pushing-models/' | relative_url }}">ai is quietly poisoning itself and pushing models</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
