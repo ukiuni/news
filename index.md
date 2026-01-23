@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、マイクロソフトのOutlook/Teams大規模障害やCapital OneによるBrex買収が大きく注目を集めています ⚠️💼。同時に、SPIフラッシュ追跡でのUARTパスワード抽出などセキュリティの警鐘と、SwiftでのCライブラリ改善やLLM時代のAPI/CLI設計といった開発者向けの実務的議論が活発化しています 🛠️🤖。ゲーム史の誤解解説や「アクティブ」座位の健康効果、創業者の営業奮闘記まで話題は多岐にわたり、戦略と日常改善の両面で目が離せません 🎮🧠
+    今日のテック業界では、プライバシーとセキュリティが改めて注目を浴びています🔒🕵️‍♀️（FBIの捜索差し止め命令やsystemd initrdでの暗号化ディスク解除の話題）。一方でAIの副作用が開発現場を圧迫し、cURLのバグ賞金撤回やMicrosoftの大規模障害が混乱を招いています🤖⚠️。それでもTursoのような新データベースやCapital OneによるBrex買収など、インフラと資本の再編が進み、開発ツールの改善にも動きが出ています📈💡
   </div>
 </div>
