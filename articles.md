@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/rfk-jr-spreads-new-bogus-scare-mongering-bullshit/' | relative_url }}">rfk jr spreads new bogus scare mongering bullshit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/replacing-protobuf-with-rust-to-go-5-times-faster/' | relative_url }}">replacing protobuf with rust to go 5 times faster</a></h3>
 </div>
 <div class="article-row">
@@ -146,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/overrun-with-ai-slop-curl-scraps-bug-bounties-to-e/' | relative_url }}">overrun with ai slop curl scraps bug bounties to e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/notes-on-the-intel-8086-processors-arithmetic-logi/' | relative_url }}">notes on the intel 8086 processors arithmetic logi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -262,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/congrats-to-the-winners-of-the-worldwide-show-and/' | relative_url }}">congrats to the winners of the worldwide show and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/claudeai-silently-failing-since-jan-14-no-official/' | relative_url }}">claudeai silently failing since jan 14 no official</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
