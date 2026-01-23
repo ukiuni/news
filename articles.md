@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/microsoft-outlook-and-teams-are-down-thousands-of/' | relative_url }}">microsoft outlook and teams are down thousands of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/improving-the-usability-of-c-libraries-in-swift/' | relative_url }}">improving the usability of c libraries in swift</a></h3>
 </div>
 <div class="article-row">
