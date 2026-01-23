@@ -109,6 +109,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/route-leak-incident-on-january-22-2026/' | relative_url }}">route leak incident on january 22 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/replacing-protobuf-with-rust-to-go-5-times-faster/' | relative_url }}">replacing protobuf with rust to go 5 times faster</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/porn-site-manyvids-descends-into-ai-psychosis/' | relative_url }}">porn site manyvids descends into ai psychosis</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/paris-hilton-joins-aoc-in-fight-against-ai-porn/' | relative_url }}">paris hilton joins aoc in fight against ai porn</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -165,11 +173,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/malicious-pypi-packages-spellcheckpy-and-spellchec/' | relative_url }}">malicious pypi packages spellcheckpy and spellchec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/maintaining-shadow-branches-for-github-prs/' | relative_url }}">maintaining shadow branches for github prs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/korg-phase8-acoustic-synthesizer/' | relative_url }}">korg phase8 acoustic synthesizer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/killing-the-isp-appliance-an-ebpfxdp-approach-to-d/' | relative_url }}">killing the isp appliance an ebpfxdp approach to d</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -186,6 +202,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/improving-the-usability-of-c-libraries-in-swift/' | relative_url }}">improving the usability of c libraries in swift</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/i-like-gitlab/' | relative_url }}">i like gitlab</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -226,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/flying-with-photons-rendering-novel-views-of-propa/' | relative_url }}">flying with photons rendering novel views of propa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/firefox-linux-in-2025/' | relative_url }}">firefox linux in 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
