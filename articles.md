@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/tesla-kills-autopilot-locks-lane-keeping-behind-99/' | relative_url }}">tesla kills autopilot locks lane keeping behind 99</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/tech-is-fun-again-the-tech-monoculture-is-finally/' | relative_url }}">tech is fun again the tech monoculture is finally</a></h3>
 </div>
 <div class="article-row">
@@ -97,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/scaling-postgresql-to-power-800-million-chatgpt-us/' | relative_url }}">scaling postgresql to power 800 million chatgpt us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/san-francisco-tech-giant-autodesk-announces-1000-l/' | relative_url }}">san francisco tech giant autodesk announces 1000 l</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/proton-spam-and-the-ai-consent-problem/' | relative_url }}">proton spam and the ai consent problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/proof-of-corn/' | relative_url }}">proof of corn</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -142,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/microsoft-mishandling-examplecom/' | relative_url }}">microsoft mishandling examplecom</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/microsoft-gave-fbi-set-of-bitlocker-encryption-key/' | relative_url }}">microsoft gave fbi set of bitlocker encryption key</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -181,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/hey-im-dying-decorated-marine-texts-family-goodbye/' | relative_url }}">hey im dying decorated marine texts family goodbye</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/grok-floods-x-with-sexualized-images-of-women-and/' | relative_url }}">grok floods x with sexualized images of women and</a></h3>
 </div>
 <div class="article-row">
@@ -210,6 +230,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/exploit-cursor-agents-to-create-persistent-distrib/' | relative_url }}">exploit cursor agents to create persistent distrib</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/explainability-is-a-product-feature/' | relative_url }}">explainability is a product feature</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
