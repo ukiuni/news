@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/the-markdown-exfiltrator-turning-ai-rendering-into/' | relative_url }}">the markdown exfiltrator turning ai rendering into</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/the-lost-art-of-xml/' | relative_url }}">the lost art of xml</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/ssds-now-cost-16x-more-than-hdds-due-to-ai-supply/' | relative_url }}">ssds now cost 16x more than hdds due to ai supply</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/show-hn-whosthere-a-lan-discovery-tool-with-a-mode/' | relative_url }}">show hn whosthere a lan discovery tool with a mode</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/remotely-unlocking-an-encrypted-hard-disk-with-sys/' | relative_url }}">remotely unlocking an encrypted hard disk with sys</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/radicle-the-sovereign-forge/' | relative_url }}">radicle the sovereign forge</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -117,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/microsoft-gave-fbi-keys-to-unlock-encrypted-data-e/' | relative_url }}">microsoft gave fbi keys to unlock encrypted data e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/maintaining-shadow-branches-for-github-prs/' | relative_url }}">maintaining shadow branches for github prs</a></h3>
 </div>
 <div class="article-row">
@@ -137,7 +153,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/grok-floods-x-with-sexualized-images-of-women-and/' | relative_url }}">grok floods x with sexualized images of women and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/grok-could-have-produced-3-million-sexual-deepfake/' | relative_url }}">grok could have produced 3 million sexual deepfake</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/google-is-ending-full-web-search-for-niche-search/' | relative_url }}">google is ending full web search for niche search</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/gnu-guix-150-released/' | relative_url }}">gnu guix 150 released</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -146,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/exploit-cursor-agents-to-create-persistent-distrib/' | relative_url }}">exploit cursor agents to create persistent distrib</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/congrats-to-the-winners-of-the-worldwide-show-and/' | relative_url }}">congrats to the winners of the worldwide show and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -162,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/ai-is-a-horse-2024/' | relative_url }}">ai is a horse 2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/agentsmd-as-a-dark-signal/' | relative_url }}">agentsmd as a dark signal</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
