@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/replacing-protobuf-with-rust-to-go-5-times-faster/' | relative_url }}">replacing protobuf with rust to go 5 times faster</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/remotely-unlocking-an-encrypted-hard-disk-with-sys/' | relative_url }}">remotely unlocking an encrypted hard disk with sys</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/project-mercury-and-the-sofar-bomb/' | relative_url }}">project mercury and the sofar bomb</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/porn-site-manyvids-descends-into-ai-psychosis/' | relative_url }}">porn site manyvids descends into ai psychosis</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -101,11 +109,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/google-is-ending-full-web-search-for-niche-search/' | relative_url }}">google is ending full web search for niche search</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/exploit-cursor-agents-to-create-persistent-distrib/' | relative_url }}">exploit cursor agents to create persistent distrib</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/bugs-apple-loves/' | relative_url }}">bugs apple loves</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/ai-is-a-horse-2024/' | relative_url }}">ai is a horse 2024</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
