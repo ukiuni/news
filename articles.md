@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/san-francisco-tech-giant-autodesk-announces-1000-l/' | relative_url }}">san francisco tech giant autodesk announces 1000 l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/remotely-unlocking-an-encrypted-hard-disk-with-sys/' | relative_url }}">remotely unlocking an encrypted hard disk with sys</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/microsoft-outlook-and-teams-are-down-thousands-of/' | relative_url }}">microsoft outlook and teams are down thousands of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/maintaining-shadow-branches-for-github-prs/' | relative_url }}">maintaining shadow branches for github prs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
