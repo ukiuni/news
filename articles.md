@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/we-built-a-museum-exhibit-about-a-1990s-game-hint/' | relative_url }}">we built a museum exhibit about a 1990s game hint</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/underground-resistance-aims-to-sabotage-ai-with-po/' | relative_url }}">underground resistance aims to sabotage ai with po</a></h3>
 </div>
 <div class="article-row">
@@ -25,11 +29,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/the-lost-art-of-xml/' | relative_url }}">the lost art of xml</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/the-15-git-commands-every-software-engineer-uses-a/' | relative_url }}">the 15 git commands every software engineer uses a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/talking-to-llms-has-improved-my-thinking/' | relative_url }}">talking to llms has improved my thinking</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/stunnel/' | relative_url }}">stunnel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/ssds-now-cost-16x-more-than-hdds-due-to-ai-supply/' | relative_url }}">ssds now cost 16x more than hdds due to ai supply</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -50,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/improving-the-usability-of-c-libraries-in-swift/' | relative_url }}">improving the usability of c libraries in swift</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/exploit-cursor-agents-to-create-persistent-distrib/' | relative_url }}">exploit cursor agents to create persistent distrib</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
