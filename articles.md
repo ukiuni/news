@@ -13,7 +13,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/what-is-control-flow-analysis-for-lambda-calculus/' | relative_url }}">what is control flow analysis for lambda calculus</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/underground-resistance-aims-to-sabotage-ai-with-po/' | relative_url }}">underground resistance aims to sabotage ai with po</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/turso-is-an-in-process-sql-database-compatible-wit/' | relative_url }}">turso is an in process sql database compatible wit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/the-15-git-commands-every-software-engineer-uses-a/' | relative_url }}">the 15 git commands every software engineer uses a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
@@ -42,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/bugs-apple-loves/' | relative_url }}">bugs apple loves</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/a-protocol-for-package-management/' | relative_url }}">a protocol for package management</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/22</span>
