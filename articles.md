@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
+  <h3><a href="{{ '/2026/01/23/ghosttys-ai-policy/' | relative_url }}">ghosttys ai policy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/exploit-cursor-agents-to-create-persistent-distrib/' | relative_url }}">exploit cursor agents to create persistent distrib</a></h3>
 </div>
 <div class="article-row">
