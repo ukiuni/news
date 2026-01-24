@@ -17,6 +17,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/women-filmed-secretly-for-social-media-content-and/' | relative_url }}">women filmed secretly for social media content and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/windows-365-going-down-is-a-rude-awakening-for-mic/' | relative_url }}">windows 365 going down is a rude awakening for mic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/why-im-ignoring-the-death-of-the-programmer-hype/' | relative_url }}">why im ignoring the death of the programmer hype</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/when-employees-feel-slighted-they-work-less/' | relative_url }}">when employees feel slighted they work less</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/we-posted-a-job-then-came-the-ai-slop-impersonator/' | relative_url }}">we posted a job then came the ai slop impersonator</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
@@ -58,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/the-fbi-says-illegal-chinese-airbags-have-been-kil/' | relative_url }}">the fbi says illegal chinese airbags have been kil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/tao-te-ching-translated-by-ursula-k-le-guin/' | relative_url }}">tao te ching translated by ursula k le guin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
@@ -105,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/maze-algorithms-2017/' | relative_url }}">maze algorithms 2017</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/many-small-queries-are-efficient-in-sqlite/' | relative_url }}">many small queries are efficient in sqlite</a></h3>
 </div>
 <div class="article-row">
@@ -137,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/how-i-became-a-quant-pdf/' | relative_url }}">how i became a quant pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/gnu-c-library-243-released-with-more-c23-features/' | relative_url }}">gnu c library 243 released with more c23 features</a></h3>
 </div>
 <div class="article-row">
@@ -146,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/extracting-verified-c-from-the-rocq-theorem-prover/' | relative_url }}">extracting verified c from the rocq theorem prover</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/e9p-pure-erlang-9p-implementation/' | relative_url }}">e9p pure erlang 9p implementation</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
@@ -169,11 +197,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/claude-codes-new-hidden-feature-swarms/' | relative_url }}">claude codes new hidden feature swarms</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/certificate-transparency-log-explorer/' | relative_url }}">certificate transparency log explorer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/caroline-ellison-former-alameda-ceo-released-from/' | relative_url }}">caroline ellison former alameda ceo released from</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/are-we-all-plagiarists-now/' | relative_url }}">are we all plagiarists now</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
