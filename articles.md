@@ -21,6 +21,22 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/open-source-self-driving-for-325-car-models-from-2/' | relative_url }}">open source self driving for 325 car models from 2</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/lutnick-attacks-this-dei-crap-at-micron-groundbrea/' | relative_url }}">lutnick attacks this dei crap at micron groundbrea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/i-let-the-community-vote-on-what-code-gets-merged/' | relative_url }}">i let the community vote on what code gets merged</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/gnu-c-library-243-released-with-more-c23-features/' | relative_url }}">gnu c library 243 released with more c23 features</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/certificate-transparency-log-explorer/' | relative_url }}">certificate transparency log explorer</a></h3>
 </div>
 <div class="article-row">
