@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/tiktok-is-now-collecting-more-data-about-its-users/' | relative_url }}">tiktok is now collecting more data about its users</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/open-widevine-support-added-to-the-chromium-port/' | relative_url }}">open widevine support added to the chromium port</a></h3>
 </div>
 <div class="article-row">
