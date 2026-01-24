@@ -125,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/polands-energy-grid-was-targeted-by-never-before-s/' | relative_url }}">polands energy grid was targeted by never before s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/open-widevine-support-added-to-the-chromium-port/' | relative_url }}">open widevine support added to the chromium port</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/lispe-lisp-interpreter-with-data-structure-pattern/' | relative_url }}">lispe lisp interpreter with data structure pattern</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/latest-chatgpt-model-uses-grokipedia-as-source-tes/' | relative_url }}">latest chatgpt model uses grokipedia as source tes</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
