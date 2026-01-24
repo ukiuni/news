@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/if-you-think-this-instrument-is-hard-to-play-try-b/' | relative_url }}">if you think this instrument is hard to play try b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/i-let-the-community-vote-on-what-code-gets-merged/' | relative_url }}">i let the community vote on what code gets merged</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/december-in-servo/' | relative_url }}">december in servo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/considering-strictly-monotonic-time/' | relative_url }}">considering strictly monotonic time</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
