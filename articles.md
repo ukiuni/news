@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/xhtml-club/' | relative_url }}">xhtml club</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/why-im-ignoring-the-death-of-the-programmer-hype/' | relative_url }}">why im ignoring the death of the programmer hype</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/the-firewall-against-chinese-cars-is-cracking/' | relative_url }}">the firewall against chinese cars is cracking</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/the-fbi-says-illegal-chinese-airbags-have-been-kil/' | relative_url }}">the fbi says illegal chinese airbags have been kil</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
@@ -118,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/gnu-c-library-243-released-with-more-c23-features/' | relative_url }}">gnu c library 243 released with more c23 features</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/foss-just-fork-it-delusion/' | relative_url }}">foss just fork it delusion</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
