@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/tiktok-users-freak-out-over-apps-immigration-statu/' | relative_url }}">tiktok users freak out over apps immigration statu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/tiktok-is-now-collecting-more-data-about-its-users/' | relative_url }}">tiktok is now collecting more data about its users</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/gnu-c-library-243-released-with-more-c23-features/' | relative_url }}">gnu c library 243 released with more c23 features</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/extracting-verified-c-from-the-rocq-theorem-prover/' | relative_url }}">extracting verified c from the rocq theorem prover</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
