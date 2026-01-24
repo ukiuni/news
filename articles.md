@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/when-employees-feel-slighted-they-work-less/' | relative_url }}">when employees feel slighted they work less</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/traintrackr-live-led-maps/' | relative_url }}">traintrackr live led maps</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/the-fbi-says-illegal-chinese-airbags-have-been-kil/' | relative_url }}">the fbi says illegal chinese airbags have been kil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/signal-popularity-soars-number-one-in-finland/' | relative_url }}">signal popularity soars number one in finland</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
@@ -141,6 +149,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/dithering-for-an-epaper-laptop/' | relative_url }}">dithering for an epaper laptop</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/december-in-servo/' | relative_url }}">december in servo</a></h3>
 </div>
 <div class="article-row">
@@ -158,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/caroline-ellison-former-alameda-ceo-released-from/' | relative_url }}">caroline ellison former alameda ceo released from</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/ai-yet-to-deliver-promised-profits-for-most-firms/' | relative_url }}">ai yet to deliver promised profits for most firms</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
