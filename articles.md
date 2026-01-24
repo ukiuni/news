@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/why-developing-for-microsoft-sharepoint-is-a-horri/' | relative_url }}">why developing for microsoft sharepoint is a horri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/why-a-god-cant-play-a-link-to-the-past/' | relative_url }}">why a god cant play a link to the past</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/more-than-40-us-democrats-call-for-a-thorough-inve/' | relative_url }}">more than 40 us democrats call for a thorough inve</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/modetc-move-your-dotfiles-from-kernel-space/' | relative_url }}">modetc move your dotfiles from kernel space</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
@@ -93,7 +101,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/doing-gigabit-ethernet-over-my-british-phone-wires/' | relative_url }}">doing gigabit ethernet over my british phone wires</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/december-in-servo/' | relative_url }}">december in servo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/curl-gets-rid-of-its-bug-bounty-program-over-ai-sl/' | relative_url }}">curl gets rid of its bug bounty program over ai sl</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
