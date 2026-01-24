@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/why-a-god-cant-play-a-link-to-the-past/' | relative_url }}">why a god cant play a link to the past</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/tiktok-is-now-collecting-more-data-about-its-users/' | relative_url }}">tiktok is now collecting more data about its users</a></h3>
 </div>
 <div class="article-row">
@@ -45,11 +49,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/internet-archives-storage/' | relative_url }}">internet archives storage</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/i-let-the-community-vote-on-what-code-gets-merged/' | relative_url }}">i let the community vote on what code gets merged</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/gnu-c-library-243-released-with-more-c23-features/' | relative_url }}">gnu c library 243 released with more c23 features</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/december-in-servo/' | relative_url }}">december in servo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
