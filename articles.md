@@ -229,6 +229,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/financial-experts-warn-openai-may-go-bankrupt-by-m/' | relative_url }}">financial experts warn openai may go bankrupt by m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/extracting-verified-c-from-the-rocq-theorem-prover/' | relative_url }}">extracting verified c from the rocq theorem prover</a></h3>
 </div>
 <div class="article-row">
@@ -286,6 +290,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/ai-yet-to-deliver-promised-profits-for-most-firms/' | relative_url }}">ai yet to deliver promised profits for most firms</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/ai-tribalism/' | relative_url }}">ai tribalism</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
