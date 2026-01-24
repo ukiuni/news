@@ -97,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/microsoft-starts-sharing-your-location-with-your-e/' | relative_url }}">microsoft starts sharing your location with your e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/microsoft-confirms-it-will-give-the-fbi-your-windo/' | relative_url }}">microsoft confirms it will give the fbi your windo</a></h3>
 </div>
 <div class="article-row">
@@ -177,7 +181,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/after-two-years-of-vibecoding-im-back-to-writing-b/' | relative_url }}">after two years of vibecoding im back to writing b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/80386-multiplication-and-division/' | relative_url }}">80386 multiplication and division</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/6-years-building-video-players-9b-requests-startin/' | relative_url }}">6 years building video players 9b requests startin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
