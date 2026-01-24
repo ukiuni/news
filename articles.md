@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/traintrackr-live-led-maps/' | relative_url }}">traintrackr live led maps</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/tiktok-users-freak-out-over-apps-immigration-statu/' | relative_url }}">tiktok users freak out over apps immigration statu</a></h3>
 </div>
 <div class="article-row">
@@ -41,7 +45,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/obvious-things-c-should-do/' | relative_url }}">obvious things c should do</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/more-than-40-us-democrats-call-for-a-thorough-inve/' | relative_url }}">more than 40 us democrats call for a thorough inve</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/mikrotik-first-look-and-getting-started/' | relative_url }}">mikrotik first look and getting started</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
@@ -86,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/caroline-ellison-former-alameda-ceo-released-from/' | relative_url }}">caroline ellison former alameda ceo released from</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/80386-multiplication-and-division/' | relative_url }}">80386 multiplication and division</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/23</span>
