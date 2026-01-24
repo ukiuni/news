@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/you-cant-pay-me-to-prompt/' | relative_url }}">you cant pay me to prompt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/why-im-ignoring-the-death-of-the-programmer-hype/' | relative_url }}">why im ignoring the death of the programmer hype</a></h3>
 </div>
 <div class="article-row">
@@ -49,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/rust-iterators-and-closures-for-java-programmers/' | relative_url }}">rust iterators and closures for java programmers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/open-widevine-support-added-to-the-chromium-port/' | relative_url }}">open widevine support added to the chromium port</a></h3>
 </div>
 <div class="article-row">
@@ -77,11 +85,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/many-small-queries-are-efficient-in-sqlite/' | relative_url }}">many small queries are efficient in sqlite</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/lutnick-attacks-this-dei-crap-at-micron-groundbrea/' | relative_url }}">lutnick attacks this dei crap at micron groundbrea</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/losing-1-million-lines-of-go/' | relative_url }}">losing 1 million lines of go</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/lispe-lisp-interpreter-with-data-structure-pattern/' | relative_url }}">lispe lisp interpreter with data structure pattern</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
