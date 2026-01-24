@@ -8,6 +8,18 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/why-im-ignoring-the-death-of-the-programmer-hype/' | relative_url }}">why im ignoring the death of the programmer hype</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/open-widevine-support-added-to-the-chromium-port/' | relative_url }}">open widevine support added to the chromium port</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/24</span>
+  <h3><a href="{{ '/2026/01/24/certificate-transparency-log-explorer/' | relative_url }}">certificate transparency log explorer</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/23</span>
   <h3><a href="{{ '/2026/01/23/why-medieval-city-builder-video-games-are-historic/' | relative_url }}">why medieval city builder video games are historic</a></h3>
 </div>
