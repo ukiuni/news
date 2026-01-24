@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、クラウドとAI最適化が企業再編やサービス停止を招きつつ🔥、効率と相互運用性への回帰が目立ちます。軽量化とエッジ志向はSmall KafkaやCoi、Raspberry Piベンチで顕在化し、WhatsApp互換のBirdyChatやGoogleのUCPは開かれたエコシステムを促進🌐。一方、Rust的安全性をC++に導入するRustyPPや反射での汎用JSON化、Erlangの9p実装など、開発者ツールの革新も進行中⚙️。だがAutodeskの人員削減やWindows 365の停止は、クラウド依存のリスクを忘れてはならないという痛烈な警告でもあります⚠️。
+    今日のテック業界では、AIエージェントのオーケストレーションやLLMベースのJSON→UIツールが進展する一方で、エージェントの無駄な生成物やTerraformの破壊的な削除問題が現場に混乱をもたらしています🤖。操作された逮捕映像やICEの顔認証による「テロ」データ登録といった監視・偽情報のリスクが倫理と規制の緊張を高めています⚠️。低軌道衛星の検証報告やZigのメモリ解説、t3.micro上の軽量Kafka＋SQLite、そしてGoogleのUniversal Commerce Protocolといったインフラ・標準化の動きが、効率化と統制の両面で注目を集めています。
   </div>
 </div>
