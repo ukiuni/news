@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/the-value-of-things/' | relative_url }}">the value of things</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/the-responsibility-of-intellectuals-1967/' | relative_url }}">the responsibility of intellectuals 1967</a></h3>
 </div>
 <div class="article-row">
@@ -37,11 +41,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/palantir-has-no-place-in-uk-public-services/' | relative_url }}">palantir has no place in uk public services</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/nvidia-smi-hangs-indefinitely-after-66-days/' | relative_url }}">nvidia smi hangs indefinitely after 66 days</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/new-ai-data-center-buildout-being-done-in-secret-l/' | relative_url }}">new ai data center buildout being done in secret l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/minnesota-doc-launches-new-website-to-address-ongo/' | relative_url }}">minnesota doc launches new website to address ongo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
@@ -82,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/adoption-of-evs-tied-to-real-world-reductions-in-a/' | relative_url }}">adoption of evs tied to real world reductions in a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/a-lament-for-aperture/' | relative_url }}">a lament for aperture</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
