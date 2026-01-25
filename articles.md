@@ -8,6 +8,26 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/ice-asks-companies-about-ad-tech-and-big-data-tool/' | relative_url }}">ice asks companies about ad tech and big data tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/i-dont-write-code-anymore-i-sculpt-it/' | relative_url }}">i dont write code anymore i sculpt it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/high-bandwidth-flash-progress-and-future/' | relative_url }}">high bandwidth flash progress and future</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/europe-wants-to-end-its-dangerous-reliance-on-us-i/' | relative_url }}">europe wants to end its dangerous reliance on us i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/a-claude-plugin-that-forces-you-to-write-code/' | relative_url }}">a claude plugin that forces you to write code</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/24</span>
   <h3><a href="{{ '/2026/01/24/your-agent-is-building-things-youll-never-use/' | relative_url }}">your agent is building things youll never use</a></h3>
 </div>
