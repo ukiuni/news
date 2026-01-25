@@ -21,6 +21,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/second-win11-emergency-out-of-band-update-to-addre/' | relative_url }}">second win11 emergency out of band update to addre</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/nvidia-smi-hangs-indefinitely-after-66-days/' | relative_url }}">nvidia smi hangs indefinitely after 66 days</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/new-ai-data-center-buildout-being-done-in-secret-l/' | relative_url }}">new ai data center buildout being done in secret l</a></h3>
 </div>
 <div class="article-row">
@@ -49,11 +57,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/alex-honnold-completes-taipei-101-skyscraper-climb/' | relative_url }}">alex honnold completes taipei 101 skyscraper climb</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/adoption-of-evs-tied-to-real-world-reductions-in-a/' | relative_url }}">adoption of evs tied to real world reductions in a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/a-claude-plugin-that-forces-you-to-write-code/' | relative_url }}">a claude plugin that forces you to write code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/7432-pages-of-legacy-docs-to-3s-queries-with-hybri/' | relative_url }}">7432 pages of legacy docs to 3s queries with hybri</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/24</span>
