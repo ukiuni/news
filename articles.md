@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/the-coming-war-on-car-ownership/' | relative_url }}">the coming war on car ownership</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/stackmaxxing-for-a-recursion-world-record/' | relative_url }}">stackmaxxing for a recursion world record</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/minnesota-doc-launches-new-website-to-address-ongo/' | relative_url }}">minnesota doc launches new website to address ongo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/introducing-kitty-cards/' | relative_url }}">introducing kitty cards</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
@@ -85,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/feedback-on-my-recently-full-stack-web-app-quizard/' | relative_url }}">feedback on my recently full stack web app quizard</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/europe-wants-to-end-its-dangerous-reliance-on-us-i/' | relative_url }}">europe wants to end its dangerous reliance on us i</a></h3>
 </div>
 <div class="article-row">
@@ -97,11 +109,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/deutsche-telekom-is-violating-net-neutrality/' | relative_url }}">deutsche telekom is violating net neutrality</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/david-patterson-challenges-and-research-directions/' | relative_url }}">david patterson challenges and research directions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/connection-exhaustion-in-high-traffic-systems/' | relative_url }}">connection exhaustion in high traffic systems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/building-a-lightning-fast-highly-configurable-rust/' | relative_url }}">building a lightning fast highly configurable rust</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
