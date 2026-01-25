@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/tiktok-us-venture-to-collect-precise-user-location/' | relative_url }}">tiktok us venture to collect precise user location</a></h3>
 </div>
 <div class="article-row">
@@ -137,7 +141,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/own-programming-langauge/' | relative_url }}">own programming langauge</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/opinion-big-tech-companies-effectively-govern-our/' | relative_url }}">opinion big tech companies effectively govern our</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/oneplus-update-blocks-downgrades-and-custom-roms-b/' | relative_url }}">oneplus update blocks downgrades and custom roms b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
