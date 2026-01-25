@@ -21,6 +21,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/the-responsibility-of-intellectuals-1967/' | relative_url }}">the responsibility of intellectuals 1967</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/stackmaxxing-for-a-recursion-world-record/' | relative_url }}">stackmaxxing for a recursion world record</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/show-hn-vm-curator-a-tui-alternative-to-libvirt-an/' | relative_url }}">show hn vm curator a tui alternative to libvirt an</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/second-win11-emergency-out-of-band-update-to-addre/' | relative_url }}">second win11 emergency out of band update to addre</a></h3>
 </div>
 <div class="article-row">
@@ -45,11 +57,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/gmail-is-having-issues-with-spam-and-misclassifica/' | relative_url }}">gmail is having issues with spam and misclassifica</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/europe-wants-to-end-its-dangerous-reliance-on-us-i/' | relative_url }}">europe wants to end its dangerous reliance on us i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/draig-a-welsh-programming-language/' | relative_url }}">draig a welsh programming language</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/david-patterson-challenges-and-research-directions/' | relative_url }}">david patterson challenges and research directions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
