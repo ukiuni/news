@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/the-35-rule-how-a-small-minority-can-change-the-wo/' | relative_url }}">the 35 rule how a small minority can change the wo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/texas-attorney-general-five-major-tv-companies-inc/' | relative_url }}">texas attorney general five major tv companies inc</a></h3>
 </div>
 <div class="article-row">
@@ -166,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/minnesota-doc-launches-new-website-to-address-ongo/' | relative_url }}">minnesota doc launches new website to address ongo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/macron-says-france-to-fast-track-social-media-ban/' | relative_url }}">macron says france to fast track social media ban</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
@@ -286,6 +294,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/china-reveals-200-strong-ai-drone-swarm-that-can-b/' | relative_url }}">china reveals 200 strong ai drone swarm that can b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/canada/' | relative_url }}">canada</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
