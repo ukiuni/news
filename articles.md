@@ -9,6 +9,18 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/we-x-rayed-a-suspicious-ftdi-usb-cable/' | relative_url }}">we x rayed a suspicious ftdi usb cable</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/us-govt-house-sysadmin-stole-200-phones-caught-by/' | relative_url }}">us govt house sysadmin stole 200 phones caught by</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/two-weeks-until-tapeout/' | relative_url }}">two weeks until tapeout</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/ice-asks-companies-about-ad-tech-and-big-data-tool/' | relative_url }}">ice asks companies about ad tech and big data tool</a></h3>
 </div>
 <div class="article-row">
@@ -22,6 +34,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/europe-wants-to-end-its-dangerous-reliance-on-us-i/' | relative_url }}">europe wants to end its dangerous reliance on us i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/connection-exhaustion-in-high-traffic-systems/' | relative_url }}">connection exhaustion in high traffic systems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/adoption-of-evs-tied-to-real-world-reductions-in-a/' | relative_url }}">adoption of evs tied to real world reductions in a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
