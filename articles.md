@@ -65,7 +65,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/home-router-recommendations/' | relative_url }}">home router recommendations</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/high-bandwidth-flash-progress-and-future/' | relative_url }}">high bandwidth flash progress and future</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/google-confirms-high-friction-sideloading-flow-is/' | relative_url }}">google confirms high friction sideloading flow is</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
@@ -81,11 +89,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/discover-90-free-online-tools-for-developers-daily/' | relative_url }}">discover 90 free online tools for developers daily</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/david-patterson-challenges-and-research-directions/' | relative_url }}">david patterson challenges and research directions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/connection-exhaustion-in-high-traffic-systems/' | relative_url }}">connection exhaustion in high traffic systems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/australian-decacorns/' | relative_url }}">australian decacorns</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
