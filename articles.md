@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/the-indieweb-and-small-web/' | relative_url }}">the indieweb and small web</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/the-coming-war-on-car-ownership/' | relative_url }}">the coming war on car ownership</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/software-patches-in-nixos-for-fun-and-productivity/' | relative_url }}">software patches in nixos for fun and productivity</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/skorea-moves-to-investigate-grok-over-sexually-exp/' | relative_url }}">skorea moves to investigate grok over sexually exp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
@@ -189,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/faa-institutes-nationwide-drone-no-fly-zones-aroun/' | relative_url }}">faa institutes nationwide drone no fly zones aroun</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/europe-wants-to-end-its-dangerous-reliance-on-us-i/' | relative_url }}">europe wants to end its dangerous reliance on us i</a></h3>
 </div>
 <div class="article-row">
@@ -222,6 +234,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/china-reveals-200-strong-ai-drone-swarm-that-can-b/' | relative_url }}">china reveals 200 strong ai drone swarm that can b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/c-raii-guard-to-detect-heap-allocations-in-scopes/' | relative_url }}">c raii guard to detect heap allocations in scopes</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
