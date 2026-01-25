@@ -9,11 +9,27 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/white-house-alters-arrest-photo-of-ice-protester-s/' | relative_url }}">white house alters arrest photo of ice protester s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/welcome-to-the-email-expiration-date-initiative/' | relative_url }}">welcome to the email expiration date initiative</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/web-based-image-editor-modeled-after-deluxe-paint/' | relative_url }}">web based image editor modeled after deluxe paint</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/we-x-rayed-a-suspicious-ftdi-usb-cable/' | relative_url }}">we x rayed a suspicious ftdi usb cable</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/us-govt-house-sysadmin-stole-200-phones-caught-by/' | relative_url }}">us govt house sysadmin stole 200 phones caught by</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/un-declares-that-the-world-has-entered-an-era-of-g/' | relative_url }}">un declares that the world has entered an era of g</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
@@ -121,11 +137,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/how-to-nail-big-tech-behavioral-interviews-as-a-se/' | relative_url }}">how to nail big tech behavioral interviews as a se</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/home-router-recommendations/' | relative_url }}">home router recommendations</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/high-bandwidth-flash-progress-and-future/' | relative_url }}">high bandwidth flash progress and future</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/hermes-proxy-yet-another-http-traffic-analyzer/' | relative_url }}">hermes proxy yet another http traffic analyzer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
@@ -202,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/bouncy-ball-will-always-bounce-back/' | relative_url }}">bouncy ball will always bounce back</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/been-following-the-metadata-management-space-for-w/' | relative_url }}">been following the metadata management space for w</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
