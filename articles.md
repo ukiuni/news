@@ -77,6 +77,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/spanish-track-was-fractured-before-high-speed-trai/' | relative_url }}">spanish track was fractured before high speed trai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/someone-created-got-for-minecraft/' | relative_url }}">someone created got for minecraft</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/software-patches-in-nixos-for-fun-and-productivity/' | relative_url }}">software patches in nixos for fun and productivity</a></h3>
 </div>
 <div class="article-row">
@@ -109,11 +117,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/revision-website/' | relative_url }}">revision website</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/report-ice-using-palantir-tool-that-feeds-on-medic/' | relative_url }}">report ice using palantir tool that feeds on medic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/recently-finished-an-os-class-designed-shared-queu/' | relative_url }}">recently finished an os class designed shared queu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/publishing-on-the-atmosphere/' | relative_url }}">publishing on the atmosphere</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/palantir-has-no-place-in-uk-public-services/' | relative_url }}">palantir has no place in uk public services</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/opinion-big-tech-companies-effectively-govern-our/' | relative_url }}">opinion big tech companies effectively govern our</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
@@ -150,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/ice-asks-companies-about-ad-tech-and-big-data-tool/' | relative_url }}">ice asks companies about ad tech and big data tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/i-was-right-about-atproto-key-management/' | relative_url }}">i was right about atproto key management</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
@@ -194,6 +222,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/german-economists-push-for-gold-repatriation-from/' | relative_url }}">german economists push for gold repatriation from</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/first-make-me-care/' | relative_url }}">first make me care</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
