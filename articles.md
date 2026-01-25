@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/show-hn-tui-for-managing-xdg-default-applications/' | relative_url }}">show hn tui for managing xdg default applications</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/show-hn-autoshorts-local-gpu-accelerated-ai-video/' | relative_url }}">show hn autoshorts local gpu accelerated ai video</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/building-a-lightning-fast-highly-configurable-rust/' | relative_url }}">building a lightning fast highly configurable rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/bu-808-how-to-prolong-lithium-based-batteries-2023/' | relative_url }}">bu 808 how to prolong lithium based batteries 2023</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
