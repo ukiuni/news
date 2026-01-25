@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/worlds-most-powerful-literary-critic-is-on-tiktok/' | relative_url }}">worlds most powerful literary critic is on tiktok</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/white-house-alters-arrest-photo-of-ice-protester-s/' | relative_url }}">white house alters arrest photo of ice protester s</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/sara-a-cli-tool-for-managing-architecture-amp-requ/' | relative_url }}">sara a cli tool for managing architecture amp requ</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/publishing-on-the-atmosphere/' | relative_url }}">publishing on the atmosphere</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
@@ -270,6 +278,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/anatomy-of-the-2024-crowdstrike-outage-a-single-up/' | relative_url }}">anatomy of the 2024 crowdstrike outage a single up</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/allowlist-for-gitignore/' | relative_url }}">allowlist for gitignore</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
