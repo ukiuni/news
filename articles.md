@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/using-postgresql-as-a-dead-letter-queue-for-event/' | relative_url }}">using postgresql as a dead letter queue for event</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/us-govt-house-sysadmin-stole-200-phones-caught-by/' | relative_url }}">us govt house sysadmin stole 200 phones caught by</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/two-weeks-until-tapeout/' | relative_url }}">two weeks until tapeout</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/tiktok-us-venture-to-collect-precise-user-location/' | relative_url }}">tiktok us venture to collect precise user location</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
@@ -58,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/stackmaxxing-for-a-recursion-world-record/' | relative_url }}">stackmaxxing for a recursion world record</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/software-patches-in-nixos-for-fun-and-productivity/' | relative_url }}">software patches in nixos for fun and productivity</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
@@ -254,6 +266,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/adoption-of-evs-tied-to-real-world-reductions-in-a/' | relative_url }}">adoption of evs tied to real world reductions in a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/a-macos-app-that-blurs-your-screen-when-you-slouch/' | relative_url }}">a macos app that blurs your screen when you slouch</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
