@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/the-behavioral-cost-of-personalized-pricing/' | relative_url }}">the behavioral cost of personalized pricing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/the-35-rule-how-a-small-minority-can-change-the-wo/' | relative_url }}">the 35 rule how a small minority can change the wo</a></h3>
 </div>
 <div class="article-row">
@@ -257,6 +261,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/failing-fast-why-quick-failures-beat-slow-deaths/' | relative_url }}">failing fast why quick failures beat slow deaths</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/faa-institutes-nationwide-drone-no-fly-zones-aroun/' | relative_url }}">faa institutes nationwide drone no fly zones aroun</a></h3>
 </div>
 <div class="article-row">
@@ -318,6 +326,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/bouncy-ball-will-always-bounce-back/' | relative_url }}">bouncy ball will always bounce back</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/bitwise-conversion-of-doubles-using-only-fp-multip/' | relative_url }}">bitwise conversion of doubles using only fp multip</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
