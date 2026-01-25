@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/texas-attorney-general-five-major-tv-companies-inc/' | relative_url }}">texas attorney general five major tv companies inc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/stackmaxxing-for-a-recursion-world-record/' | relative_url }}">stackmaxxing for a recursion world record</a></h3>
 </div>
 <div class="article-row">
@@ -77,11 +81,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/nano-queries-a-state-of-the-art-query-builder/' | relative_url }}">nano queries a state of the art query builder</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/minnesota-doc-launches-new-website-to-address-ongo/' | relative_url }}">minnesota doc launches new website to address ongo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/jurassic-park-tablet-device-on-nedrys-desk-2012/' | relative_url }}">jurassic park tablet device on nedrys desk 2012</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/iran-protest-death-toll-could-top-30k-according-to/' | relative_url }}">iran protest death toll could top 30k according to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
@@ -149,6 +161,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/doom-has-been-ported-to-an-earbud/' | relative_url }}">doom has been ported to an earbud</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/do-you-have-any-strategy-before-applying-to-a-job/' | relative_url }}">do you have any strategy before applying to a job</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/discover-90-free-online-tools-for-developers-daily/' | relative_url }}">discover 90 free online tools for developers daily</a></h3>
 </div>
 <div class="article-row">
@@ -169,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/built-a-small-cooking-game-to-practice-chaos-drive/' | relative_url }}">built a small cooking game to practice chaos drive</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/building-a-lightning-fast-highly-configurable-rust/' | relative_url }}">building a lightning fast highly configurable rust</a></h3>
 </div>
 <div class="article-row">
@@ -177,7 +201,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/bouncy-ball-will-always-bounce-back/' | relative_url }}">bouncy ball will always bounce back</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/australian-decacorns/' | relative_url }}">australian decacorns</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/25</span>
+  <h3><a href="{{ '/2026/01/25/ann-v3-200ms-p99-query-latency-over-100b-vectors/' | relative_url }}">ann v3 200ms p99 query latency over 100b vectors</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
