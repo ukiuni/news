@@ -17,7 +17,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/show-hn-facetime-style-calls-with-an-ai-companion/' | relative_url }}">show hn facetime style calls with an ai companion</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/show-hn-a-small-programming-language-where-everyth/' | relative_url }}">show hn a small programming language where everyth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/screeps-how-a-game-about-programming-exposed-thous/' | relative_url }}">screeps how a game about programming exposed thous</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -26,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/in-humble-defense-of-the-zip-tld/' | relative_url }}">in humble defense of the zip tld</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/i-dont-like-it-i-would-prefer-that-it-not-be-done/' | relative_url }}">i dont like it i would prefer that it not be done</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -41,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/enigma-machine-simulator/' | relative_url }}">enigma machine simulator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/day-5-heartbeat-protocol-detecting-dead-connection/' | relative_url }}">day 5 heartbeat protocol detecting dead connection</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/case-study-creative-math-how-ai-fakes-proofs/' | relative_url }}">case study creative math how ai fakes proofs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/broken-tooling-amp-flaky-tests-cicd/' | relative_url }}">broken tooling amp flaky tests cicd</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
