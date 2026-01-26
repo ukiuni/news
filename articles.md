@@ -93,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/show-hn-posts-pmonth-more-than-doubled-in-the-last/' | relative_url }}">show hn posts pmonth more than doubled in the last</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/show-hn-facetime-style-calls-with-an-ai-companion/' | relative_url }}">show hn facetime style calls with an ai companion</a></h3>
 </div>
 <div class="article-row">
@@ -125,7 +129,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/maplibre-tile-a-modern-and-efficient-vector-tile-f/' | relative_url }}">maplibre tile a modern and efficient vector tile f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/long-branches-in-compilers-assemblers-and-linkers/' | relative_url }}">long branches in compilers assemblers and linkers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/locale-dependent-case-conversion-bugs-persist-kotl/' | relative_url }}">locale dependent case conversion bugs persist kotl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/jsreadme/' | relative_url }}">jsreadme</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -150,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/how-to-get-a-internship-or-a-job-in-web-dev/' | relative_url }}">how to get a internship or a job in web dev</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/house-democrats-introduced-legislation-that-if-pas/' | relative_url }}">house democrats introduced legislation that if pas</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -202,6 +222,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/broken-tooling-amp-flaky-tests-cicd/' | relative_url }}">broken tooling amp flaky tests cicd</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/apple-what-have-you-done/' | relative_url }}">apple what have you done</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
