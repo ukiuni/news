@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/the-hidden-engineering-of-runways/' | relative_url }}">the hidden engineering of runways</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/the-end-of-the-curl-bug-bounty/' | relative_url }}">the end of the curl bug bounty</a></h3>
 </div>
 <div class="article-row">
@@ -201,6 +205,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/rip-low-code-2014-2025/' | relative_url }}">rip low code 2014 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/r2web-access-radare2-from-anywhere-anytime-now-r2b/' | relative_url }}">r2web access radare2 from anywhere anytime now r2b</a></h3>
 </div>
 <div class="article-row">
@@ -214,6 +222,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/porting-100k-lines-from-typescript-to-rust-using-c/' | relative_url }}">porting 100k lines from typescript to rust using c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/people-who-know-the-formula-for-wd-40/' | relative_url }}">people who know the formula for wd 40</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -254,6 +266,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/locale-dependent-case-conversion-bugs-persist-kotl/' | relative_url }}">locale dependent case conversion bugs persist kotl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/kubernetes-remote-code-execution-via-nodesproxy-ge/' | relative_url }}">kubernetes remote code execution via nodesproxy ge</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -325,6 +341,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/france-will-replace-microsoft-teams-google-meet-zo/' | relative_url }}">france will replace microsoft teams google meet zo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/france-aiming-to-replace-zoom-google-meet-microsof/' | relative_url }}">france aiming to replace zoom google meet microsof</a></h3>
 </div>
 <div class="article-row">
@@ -382,6 +402,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/chatgpt-is-pulling-answers-from-elon-musks-grokipe/' | relative_url }}">chatgpt is pulling answers from elon musks grokipe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/chatgpt-containers-can-now-run-bash-pipnpm-install/' | relative_url }}">chatgpt containers can now run bash pipnpm install</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
