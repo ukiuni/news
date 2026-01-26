@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/the-adolescence-of-technology/' | relative_url }}">the adolescence of technology</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/text-is-king/' | relative_url }}">text is king</a></h3>
 </div>
 <div class="article-row">
@@ -241,6 +245,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/invisible-failures-the-python-server-mistake-we-ma/' | relative_url }}">invisible failures the python server mistake we ma</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/in-humble-defense-of-the-zip-tld/' | relative_url }}">in humble defense of the zip tld</a></h3>
 </div>
 <div class="article-row">
@@ -278,6 +286,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/france-aiming-to-replace-zoom-google-meet-microsof/' | relative_url }}">france aiming to replace zoom google meet microsof</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/fedora-asahi-remix-is-now-working-on-apple-m3/' | relative_url }}">fedora asahi remix is now working on apple m3</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
