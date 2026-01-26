@@ -157,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/show-hn-tetrisbench-gemini-flash-reaches-66-win-ra/' | relative_url }}">show hn tetrisbench gemini flash reaches 66 win ra</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/show-hn-sf-microclimates/' | relative_url }}">show hn sf microclimates</a></h3>
 </div>
 <div class="article-row">
@@ -277,6 +281,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/ices-expanding-use-of-mobile-facial-recognition-on/' | relative_url }}">ices expanding use of mobile facial recognition on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/i-dont-like-it-i-would-prefer-that-it-not-be-done/' | relative_url }}">i dont like it i would prefer that it not be done</a></h3>
 </div>
 <div class="article-row">
@@ -353,6 +361,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/dithering-part-2-the-ordered-dithering/' | relative_url }}">dithering part 2 the ordered dithering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/delta-single-handle-ball-faucets-1963/' | relative_url }}">delta single handle ball faucets 1963</a></h3>
 </div>
 <div class="article-row">
@@ -398,6 +410,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/ai-swarms-could-quietly-distort-democracy-science/' | relative_url }}">ai swarms could quietly distort democracy science</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/ai-lazyslop-and-personal-responsibility/' | relative_url }}">ai lazyslop and personal responsibility</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
