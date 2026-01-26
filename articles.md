@@ -8,6 +8,26 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/show-hn-a-small-programming-language-where-everyth/' | relative_url }}">show hn a small programming language where everyth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/in-humble-defense-of-the-zip-tld/' | relative_url }}">in humble defense of the zip tld</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/i-built-a-2x-faster-lexer-then-discovered-io-was-t/' | relative_url }}">i built a 2x faster lexer then discovered io was t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/how-to-think-about-gas-town/' | relative_url }}">how to think about gas town</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/case-study-creative-math-how-ai-fakes-proofs/' | relative_url }}">case study creative math how ai fakes proofs</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/25</span>
   <h3><a href="{{ '/2026/01/25/worlds-most-powerful-literary-critic-is-on-tiktok/' | relative_url }}">worlds most powerful literary critic is on tiktok</a></h3>
 </div>
