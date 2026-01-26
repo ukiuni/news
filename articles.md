@@ -313,6 +313,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/ice-plans-influencer-push-for-hiring/' | relative_url }}">ice plans influencer push for hiring</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/i-dont-like-it-i-would-prefer-that-it-not-be-done/' | relative_url }}">i dont like it i would prefer that it not be done</a></h3>
 </div>
 <div class="article-row">
@@ -458,6 +462,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/ai-generated-tests-as-ceremony/' | relative_url }}">ai generated tests as ceremony</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/ai-code-and-software-craft/' | relative_url }}">ai code and software craft</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
