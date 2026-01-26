@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/tiktok-issues-app-login-plague-users-days-after-us/' | relative_url }}">tiktok issues app login plague users days after us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/the-science-of-fermentation-the-food-programme/' | relative_url }}">the science of fermentation the food programme</a></h3>
 </div>
 <div class="article-row">
@@ -37,11 +41,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/the-browser-is-the-sandbox/' | relative_url }}">the browser is the sandbox</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/sysp-systems-lisp-compiling-to-c-with-homoiconic-m/' | relative_url }}">sysp systems lisp compiling to c with homoiconic m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/show-hn-sf-microclimates/' | relative_url }}">show hn sf microclimates</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/show-hn-facetime-style-calls-with-an-ai-companion/' | relative_url }}">show hn facetime style calls with an ai companion</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/show-hn-a-small-programming-language-where-everyth/' | relative_url }}">show hn a small programming language where everyth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/show-hn-a-desktop-app-that-blocks-work-when-you-bi/' | relative_url }}">show hn a desktop app that blocks work when you bi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -81,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/how-to-get-a-internship-or-a-job-in-web-dev/' | relative_url }}">how to get a internship or a job in web dev</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/guix-for-development/' | relative_url }}">guix for development</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/day-5-heartbeat-protocol-detecting-dead-connection/' | relative_url }}">day 5 heartbeat protocol detecting dead connection</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/compiling-models-to-megakernels/' | relative_url }}">compiling models to megakernels</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
