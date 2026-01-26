@@ -69,7 +69,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/tiktokers-are-heading-to-upscrolled-following-us-t/' | relative_url }}">tiktokers are heading to upscrolled following us t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/tiktok-usa-is-broken/' | relative_url }}">tiktok usa is broken</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/tiktok-uninstalls-are-up-150-following-us-joint-ve/' | relative_url }}">tiktok uninstalls are up 150 following us joint ve</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -158,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/study-finds-many-software-developers-feel-ethical/' | relative_url }}">study finds many software developers feel ethical</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/state-of-the-windows-what-is-going-on-with-windows/' | relative_url }}">state of the windows what is going on with windows</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -333,6 +345,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/godot-46-release-its-all-about-your-flow/' | relative_url }}">godot 46 release its all about your flow</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/georgia-leads-push-to-ban-datacenters-used-to-powe/' | relative_url }}">georgia leads push to ban datacenters used to powe</a></h3>
 </div>
 <div class="article-row">
@@ -446,6 +462,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/after-two-years-of-vibecoding-im-back-to-writing-b/' | relative_url }}">after two years of vibecoding im back to writing b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/admiran-a-pure-lazy-functional-programming-languag/' | relative_url }}">admiran a pure lazy functional programming languag</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
