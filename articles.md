@@ -9,7 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/zerobrew-is-a-rust-based-5-20x-faster-drop-in-home/' | relative_url }}">zerobrew is a rust based 5 20x faster drop in home</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/worlds-biggest-tiktoker-from-senegal-sells-company/' | relative_url }}">worlds biggest tiktoker from senegal sells company</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/windows-11s-patch-tuesday-nightmare-gets-worse-mic/' | relative_url }}">windows 11s patch tuesday nightmare gets worse mic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/the-science-of-fermentation-the-food-programme/' | relative_url }}">the science of fermentation the food programme</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -54,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/enigma-machine-simulator/' | relative_url }}">enigma machine simulator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/delta-single-handle-ball-faucets-1963/' | relative_url }}">delta single handle ball faucets 1963</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
