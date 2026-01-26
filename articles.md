@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/warning-about-the-creating-coding-careers-school-c/' | relative_url }}">warning about the creating coding careers school c</a></h3>
 </div>
 <div class="article-row">
@@ -41,11 +45,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/vibe-coding-kills-open-source/' | relative_url }}">vibe coding kills open source</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/uk-house-of-lords-votes-to-extend-age-verification/' | relative_url }}">uk house of lords votes to extend age verification</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/two-empty-chairs-why-obvious-decisions-keep-breaki/' | relative_url }}">two empty chairs why obvious decisions keep breaki</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/transfering-files-with-grpc/' | relative_url }}">transfering files with grpc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -58,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/things-ive-learned-in-my-10-years-as-an-engineerin/' | relative_url }}">things ive learned in my 10 years as an engineerin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/the-webauthn-loop-common-logic-flaws-in-the-passwo/' | relative_url }}">the webauthn loop common logic flaws in the passwo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -138,6 +154,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/r2web-access-radare2-from-anywhere-anytime-now-r2b/' | relative_url }}">r2web access radare2 from anywhere anytime now r2b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/porting-100k-lines-from-typescript-to-rust-using-c/' | relative_url }}">porting 100k lines from typescript to rust using c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/moderna-incs-ceo-said-the-company-doesnt-plan-to-i/' | relative_url }}">moderna incs ceo said the company doesnt plan to i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -246,6 +270,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/american-factory-worker-robert-williams-became-the/' | relative_url }}">american factory worker robert williams became the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/ai-generated-tests-as-ceremony/' | relative_url }}">ai generated tests as ceremony</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/after-two-years-of-vibecoding-im-back-to-writing-b/' | relative_url }}">after two years of vibecoding im back to writing b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
