@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、CEOにICE非難を求める労働者の声からQwen3‑MaxやOracleGPTといったAI実験、OSS ChatGPT WebUIで530モデルが使える勢いまで、AIと権力・労働の火花が散っています🤖⚖️。一方でThe Boring Breachや「TikTok USA is broken」が示すようにセキュリティとプラットフォーム信頼性への不安が拡大し、Google AIが健康情報でYouTubeを過度に参照している点も議論を呼んでいます🔒📺。さらに、Appleの新AirTagやMcCLIM/7GUIsの開発者話題、MetaでのAI投稿を巡るモデレーション問題が、製品革新とコミュニティ管理のせめぎ合いを浮き彫りにしています🍎🛠️。
+    今日のテック業界では、生成AIの急拡大がインフラと政治を巻き込み、ジョージア州のデータセンター規制や悪意あるAI“スウォーム”の脅威が民主主義への懸念を高めています 🤖🛡️。同時に、フランスの独自サービス推進やQwen3のような大型モデル登場がデジタル主権と競争の新局面を示し、企業と規制の攻防が激化しています 🇫🇷🌐。一方で、テレビ100年や家族の思い出保存、自作WASMでのDOOM移植といったノスタルジアと創意工夫、そしてテック労働者の社会的発言が業界の多様な顔を浮かび上がらせています 📺🕹️。
   </div>
 </div>
