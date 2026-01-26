@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/when-constitutional-guardrails-fail/' | relative_url }}">when constitutional guardrails fail</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/what-the-best-looks-like/' | relative_url }}">what the best looks like</a></h3>
 </div>
 <div class="article-row">
@@ -81,7 +85,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/there-is-an-ai-code-review-bubble/' | relative_url }}">there is an ai code review bubble</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/the-webauthn-loop-common-logic-flaws-in-the-passwo/' | relative_url }}">the webauthn loop common logic flaws in the passwo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/the-state-of-linux-music-players-in-2026/' | relative_url }}">the state of linux music players in 2026</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -90,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/the-open-source-react-calendar-inspired-by-macos-c/' | relative_url }}">the open source react calendar inspired by macos c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/the-mountain-that-weighed-the-earth/' | relative_url }}">the mountain that weighed the earth</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -158,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/show-hn-a-desktop-app-that-blocks-work-when-you-bi/' | relative_url }}">show hn a desktop app that blocks work when you bi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/seems-like-big-tech-including-anthropic-is-funding/' | relative_url }}">seems like big tech including anthropic is funding</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -233,6 +253,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/juicessh-give-me-my-pro-features-back/' | relative_url }}">juicessh give me my pro features back</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/jsreadme/' | relative_url }}">jsreadme</a></h3>
 </div>
 <div class="article-row">
@@ -254,6 +278,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/i-dont-like-it-i-would-prefer-that-it-not-be-done/' | relative_url }}">i dont like it i would prefer that it not be done</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/i-built-a-free-pc-benchmark-designed-for-developer/' | relative_url }}">i built a free pc benchmark designed for developer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -285,7 +313,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/game-devs-skipping-gdc-2026-over-ice-concerns-us-s/' | relative_url }}">game devs skipping gdc 2026 over ice concerns us s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/france-aiming-to-replace-zoom-google-meet-microsof/' | relative_url }}">france aiming to replace zoom google meet microsof</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/find-abbey-road-when-type-beatles-abbey-rd-fuzzyse/' | relative_url }}">find abbey road when type beatles abbey rd fuzzyse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
