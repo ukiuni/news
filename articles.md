@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/you-can-just-port-things-to-cloudflare-workers/' | relative_url }}">you can just port things to cloudflare workers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/worlds-biggest-tiktoker-from-senegal-sells-company/' | relative_url }}">worlds biggest tiktoker from senegal sells company</a></h3>
 </div>
 <div class="article-row">
@@ -33,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/things-ive-learned-in-my-10-years-as-an-engineerin/' | relative_url }}">things ive learned in my 10 years as an engineerin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/the-science-of-fermentation-the-food-programme/' | relative_url }}">the science of fermentation the food programme</a></h3>
 </div>
 <div class="article-row">
@@ -41,7 +49,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/the-enclosure-feedback-loop-or-how-llms-sabotage-e/' | relative_url }}">the enclosure feedback loop or how llms sabotage e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/the-browser-is-the-sandbox/' | relative_url }}">the browser is the sandbox</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/tech-ceos-including-tim-cook-eric-yuan-attend-amaz/' | relative_url }}">tech ceos including tim cook eric yuan attend amaz</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -109,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/europe-prepares-for-a-nightmare-scenario-the-us-bl/' | relative_url }}">europe prepares for a nightmare scenario the us bl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/environmentalists-worry-google-behind-bid-to-contr/' | relative_url }}">environmentalists worry google behind bid to contr</a></h3>
 </div>
 <div class="article-row">
@@ -142,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/american-factory-worker-robert-williams-became-the/' | relative_url }}">american factory worker robert williams became the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/a-static-site-generator-written-in-posix-shell/' | relative_url }}">a static site generator written in posix shell</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/25</span>
