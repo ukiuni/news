@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/wind-chime-length-calculator/' | relative_url }}">wind chime length calculator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/why-theres-no-european-google/' | relative_url }}">why theres no european google</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/uk-house-of-lords-votes-to-extend-age-verification/' | relative_url }}">uk house of lords votes to extend age verification</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/two-empty-chairs-why-obvious-decisions-keep-breaki/' | relative_url }}">two empty chairs why obvious decisions keep breaki</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -74,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/the-browser-is-the-sandbox/' | relative_url }}">the browser is the sandbox</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/text-is-king/' | relative_url }}">text is king</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -126,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/r2web-access-radare2-from-anywhere-anytime-now-r2b/' | relative_url }}">r2web access radare2 from anywhere anytime now r2b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/michigan-is-suing-oil-companies-for-suppressing-ev/' | relative_url }}">michigan is suing oil companies for suppressing ev</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
