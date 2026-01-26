@@ -105,7 +105,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/the-boring-breach/' | relative_url }}">the boring breach</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/text-is-king/' | relative_url }}">text is king</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/tech-workers-urge-ceos-to-condemn-ice/' | relative_url }}">tech workers urge ceos to condemn ice</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -161,7 +169,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/qwen3-max-thinking/' | relative_url }}">qwen3 max thinking</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/porting-100k-lines-from-typescript-to-rust-using-c/' | relative_url }}">porting 100k lines from typescript to rust using c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/oss-chatgpt-webui-530-models-mcp-tools-gemini-rag/' | relative_url }}">oss chatgpt webui 530 models mcp tools gemini rag</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/oraclegpt-thought-experiment-on-an-ai-powered-exec/' | relative_url }}">oraclegpt thought experiment on an ai powered exec</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
