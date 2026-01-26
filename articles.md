@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/why-theres-no-european-google/' | relative_url }}">why theres no european google</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/warning-about-the-creating-coding-careers-school-c/' | relative_url }}">warning about the creating coding careers school c</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/tiktok-issues-app-login-plague-users-days-after-us/' | relative_url }}">tiktok issues app login plague users days after us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/this-code-review-hack-actually-works-when-dealing/' | relative_url }}">this code review hack actually works when dealing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -62,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/sysp-systems-lisp-compiling-to-c-with-homoiconic-m/' | relative_url }}">sysp systems lisp compiling to c with homoiconic m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/study-finds-many-software-developers-feel-ethical/' | relative_url }}">study finds many software developers feel ethical</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
