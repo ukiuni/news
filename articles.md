@@ -21,6 +21,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/warning-about-the-creating-coding-careers-school-c/' | relative_url }}">warning about the creating coding careers school c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/video-games-as-art/' | relative_url }}">video games as art</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/the-science-of-fermentation-the-food-programme/' | relative_url }}">the science of fermentation the food programme</a></h3>
 </div>
 <div class="article-row">
@@ -53,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/irans-internet-blackout-may-become-permanent-with/' | relative_url }}">irans internet blackout may become permanent with</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/in-humble-defense-of-the-zip-tld/' | relative_url }}">in humble defense of the zip tld</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/guix-for-development/' | relative_url }}">guix for development</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/environmentalists-worry-google-behind-bid-to-contr/' | relative_url }}">environmentalists worry google behind bid to contr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
