@@ -9,7 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/worlds-biggest-tiktoker-from-senegal-sells-company/' | relative_url }}">worlds biggest tiktoker from senegal sells company</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/the-open-source-react-calendar-inspired-by-macos-c/' | relative_url }}">the open source react calendar inspired by macos c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/show-hn-a-small-programming-language-where-everyth/' | relative_url }}">show hn a small programming language where everyth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/scientists-identify-brain-waves-that-define-the-li/' | relative_url }}">scientists identify brain waves that define the li</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
@@ -22,6 +34,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/how-to-think-about-gas-town/' | relative_url }}">how to think about gas town</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/guix-for-development/' | relative_url }}">guix for development</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/day-5-heartbeat-protocol-detecting-dead-connection/' | relative_url }}">day 5 heartbeat protocol detecting dead connection</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/26</span>
+  <h3><a href="{{ '/2026/01/26/clawdbot-open-source-personal-ai-assistant/' | relative_url }}">clawdbot open source personal ai assistant</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
