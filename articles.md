@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/why-nan-nan-makes-perfect-sense-i-promise/' | relative_url }}">why nan nan makes perfect sense i promise</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/when-two-years-of-academic-work-vanished-with-a-si/' | relative_url }}">when two years of academic work vanished with a si</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/the-universal-pattern-popping-up-in-math-physics-a/' | relative_url }}">the universal pattern popping up in math physics a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -29,7 +37,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/nixtamal-fulfilling-pure-input-pinning-for-nix/' | relative_url }}">nixtamal fulfilling pure input pinning for nix</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/newsom-to-review-whether-tiktok-is-censoring-conte/' | relative_url }}">newsom to review whether tiktok is censoring conte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/loghead-mcp-based-log-aggregation-tool/' | relative_url }}">loghead mcp based log aggregation tool</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
