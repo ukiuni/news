@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/kimi-released-kimi-k25-open-source-visual-sota-age/' | relative_url }}">kimi released kimi k25 open source visual sota age</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/ice-making-list-of-anyone-who-films-them-we-have-a/' | relative_url }}">ice making list of anyone who films them we have a</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/ai-workflows-vs-ai-agents-explained-with-legos/' | relative_url }}">ai workflows vs ai agents explained with legos</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/a-list-of-fun-destinations-for-telnet/' | relative_url }}">a list of fun destinations for telnet</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
