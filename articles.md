@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/us-president-says-us-used-discombobulator-secret-w/' | relative_url }}">us president says us used discombobulator secret w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/two-twisty-shapes-resolve-a-centuries-old-topology/' | relative_url }}">two twisty shapes resolve a centuries old topology</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +81,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/t-a-concise-language-for-manipulating-text-replaci/' | relative_url }}">t a concise language for manipulating text replaci</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/soundcloud-data-breach-now-on-haveibeenpwned/' | relative_url }}">soundcloud data breach now on haveibeenpwned</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/snow-simulation-toy/' | relative_url }}">snow simulation toy</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/purpose-of-this-ai-slob-programming-blog/' | relative_url }}">purpose of this ai slob programming blog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/prompt-injection-the-sql-injection-of-ai-how-to-de/' | relative_url }}">prompt injection the sql injection of ai how to de</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -197,11 +213,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/flexible-use-of-a-multi-purpose-tool-by-a-cow/' | relative_url }}">flexible use of a multi purpose tool by a cow</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/digital-excommunication-the-need-for-an-european-t/' | relative_url }}">digital excommunication the need for an european t</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/dhs-suspends-bovinos-access-to-social-media-after/' | relative_url }}">dhs suspends bovinos access to social media after</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/designing-error-types-in-rust-applications/' | relative_url }}">designing error types in rust applications</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -265,7 +289,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/a-few-random-notes-from-claude-coding-quite-a-bit/' | relative_url }}">a few random notes from claude coding quite a bit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/430k-year-old-well-preserved-wooden-tools-are-the/' | relative_url }}">430k year old well preserved wooden tools are the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/4-pyrefly-type-narrowing-patterns-that-make-python/' | relative_url }}">4 pyrefly type narrowing patterns that make python</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
