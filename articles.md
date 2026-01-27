@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/velox-a-port-of-tauri-to-swift-by-miguel-de-icaza/' | relative_url }}">velox a port of tauri to swift by miguel de icaza</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/the-universal-pattern-popping-up-in-math-physics-a/' | relative_url }}">the universal pattern popping up in math physics a</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/celebrities-say-they-are-being-censored-by-tiktok/' | relative_url }}">celebrities say they are being censored by tiktok</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/california-governor-gavin-newsom-accuses-tiktok-of/' | relative_url }}">california governor gavin newsom accuses tiktok of</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
