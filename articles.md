@@ -185,6 +185,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/lennart-poettering-christian-brauner-founded-a-new/' | relative_url }}">lennart poettering christian brauner founded a new</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/kimi-released-kimi-k25-open-source-visual-sota-age/' | relative_url }}">kimi released kimi k25 open source visual sota age</a></h3>
 </div>
 <div class="article-row">
@@ -206,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/i-made-my-own-git/' | relative_url }}">i made my own git</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/i-made-a-mermaid-diagram-renderer-thats-1000x-fast/' | relative_url }}">i made a mermaid diagram renderer thats 1000x fast</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -241,6 +249,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/fbi-is-investigating-minnesota-signal-chats-tracki/' | relative_url }}">fbi is investigating minnesota signal chats tracki</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/doing-the-thing-is-doing-the-thing/' | relative_url }}">doing the thing is doing the thing</a></h3>
 </div>
 <div class="article-row">
@@ -265,7 +277,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/clawdbot-renames-to-moltbot/' | relative_url }}">clawdbot renames to moltbot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/clawdbot-and-vibe-coding-have-the-same-flaw-someon/' | relative_url }}">clawdbot and vibe coding have the same flaw someon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/chuck-klosterman-on-why-weve-never-actually-seen-a/' | relative_url }}">chuck klosterman on why weve never actually seen a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -286,6 +306,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/bugs-apple-loves/' | relative_url }}">bugs apple loves</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/brendan-carr-again-threatens-talk-shows-that-refus/' | relative_url }}">brendan carr again threatens talk shows that refus</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
