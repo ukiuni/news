@@ -9,11 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/xfwl4-the-roadmap-for-a-xfce-wayland-compositor/' | relative_url }}">xfwl4 the roadmap for a xfce wayland compositor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/why-we-suddenly-have-developers-who-cant-think-in/' | relative_url }}">why we suddenly have developers who cant think in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/why-nan-nan-makes-perfect-sense-i-promise/' | relative_url }}">why nan nan makes perfect sense i promise</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/why-ai-coding-advice-contradicts-itself/' | relative_url }}">why ai coding advice contradicts itself</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -33,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/tiktok-users-cant-upload-anti-ice-videos-the-compa/' | relative_url }}">tiktok users cant upload anti ice videos the compa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/the-universal-pattern-popping-up-in-math-physics-a/' | relative_url }}">the universal pattern popping up in math physics a</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/simpler-jvm-project-setup-with-mill-110/' | relative_url }}">simpler jvm project setup with mill 110</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/show-hn-we-built-the-1-eu-sovereignty-audit-for-we/' | relative_url }}">show hn we built the 1 eu sovereignty audit for we</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -77,6 +93,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/palantir-defends-work-with-ice-to-staff-following/' | relative_url }}">palantir defends work with ice to staff following</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/no-ai-isnt-inevitable-we-should-stop-it-while-we-c/' | relative_url }}">no ai isnt inevitable we should stop it while we c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/nixtamal-fulfilling-pure-input-pinning-for-nix/' | relative_url }}">nixtamal fulfilling pure input pinning for nix</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/kimi-released-kimi-k25-open-source-visual-sota-age/' | relative_url }}">kimi released kimi k25 open source visual sota age</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/italians-furious-over-deployment-of-ice-to-bolster/' | relative_url }}">italians furious over deployment of ice to bolster</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -117,11 +145,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/github-julez-devchatuino-a-feature-rich-tui-twitch/' | relative_url }}">github julez devchatuino a feature rich tui twitch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/forums-are-better-than-ai/' | relative_url }}">forums are better than ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/for-the-love-of-troff-2020/' | relative_url }}">for the love of troff 2020</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/digital-excommunication-the-need-for-an-european-t/' | relative_url }}">digital excommunication the need for an european t</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
