@@ -9,11 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/why-we-suddenly-have-developers-who-cant-think-in/' | relative_url }}">why we suddenly have developers who cant think in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/why-nan-nan-makes-perfect-sense-i-promise/' | relative_url }}">why nan nan makes perfect sense i promise</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/when-two-years-of-academic-work-vanished-with-a-si/' | relative_url }}">when two years of academic work vanished with a si</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/when-just-spin-hurts-performance-and-breaks-under/' | relative_url }}">when just spin hurts performance and breaks under</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -74,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/clawdbot-and-vibe-coding-have-the-same-flaw-someon/' | relative_url }}">clawdbot and vibe coding have the same flaw someon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/celebrities-say-they-are-being-censored-by-tiktok/' | relative_url }}">celebrities say they are being censored by tiktok</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
