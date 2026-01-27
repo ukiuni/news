@@ -53,11 +53,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/try-text-scaling-support-in-chrome-canary/' | relative_url }}">try text scaling support in chrome canary</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/tiktok-users-say-they-cant-upload-anti-ice-videos/' | relative_url }}">tiktok users say they cant upload anti ice videos</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/tiktok-users-cant-upload-anti-ice-videos-the-compa/' | relative_url }}">tiktok users cant upload anti ice videos the compa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/tiktok-settles-just-before-social-media-addiction/' | relative_url }}">tiktok settles just before social media addiction</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -149,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/parametric-cad-in-rust/' | relative_url }}">parametric cad in rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/palantir-defends-work-with-ice-to-staff-following/' | relative_url }}">palantir defends work with ice to staff following</a></h3>
 </div>
 <div class="article-row">
@@ -166,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/newsom-to-review-whether-tiktok-is-censoring-conte/' | relative_url }}">newsom to review whether tiktok is censoring conte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/meta-is-blocking-links-to-ice-list-on-facebook-ins/' | relative_url }}">meta is blocking links to ice list on facebook ins</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -190,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/kimi-released-kimi-k25-open-source-visual-sota-age/' | relative_url }}">kimi released kimi k25 open source visual sota age</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/kash-patel-says-the-fbi-is-investigating-signal-ch/' | relative_url }}">kash patel says the fbi is investigating signal ch</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -230,6 +250,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/grep-searched-my-node_modules-for-6-minutes-before/' | relative_url }}">grep searched my node_modules for 6 minutes before</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/glaze-is-getting-even-faster-simd-refactoring-and/' | relative_url }}">glaze is getting even faster simd refactoring and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -313,6 +337,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/blocking-claude/' | relative_url }}">blocking claude</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/bassoontracker-tracking-in-the-browser/' | relative_url }}">bassoontracker tracking in the browser</a></h3>
 </div>
 <div class="article-row">
@@ -334,6 +362,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/amazon-to-shut-down-all-amazon-go-and-amazon-fresh/' | relative_url }}">amazon to shut down all amazon go and amazon fresh</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/ai2-open-coding-agents/' | relative_url }}">ai2 open coding agents</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
