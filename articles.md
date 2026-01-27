@@ -9,11 +9,27 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/the-cost-of-speed/' | relative_url }}">the cost of speed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/ice-making-list-of-anyone-who-films-them-we-have-a/' | relative_url }}">ice making list of anyone who films them we have a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/how-i-built-a-collaborative-editing-model-thats-en/' | relative_url }}">how i built a collaborative editing model thats en</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/dhs-suspends-bovinos-access-to-social-media-after/' | relative_url }}">dhs suspends bovinos access to social media after</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/any-application-that-can-be-written-in-a-system-la/' | relative_url }}">any application that can be written in a system la</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/ai-workflows-vs-ai-agents-explained-with-legos/' | relative_url }}">ai workflows vs ai agents explained with legos</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
