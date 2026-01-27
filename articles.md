@@ -12,6 +12,10 @@ permalink: /articles/
   <h3><a href="{{ '/2026/01/27/ice-making-list-of-anyone-who-films-them-we-have-a/' | relative_url }}">ice making list of anyone who films them we have a</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/how-i-built-a-collaborative-editing-model-thats-en/' | relative_url }}">how i built a collaborative editing model thats en</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/26</span>
   <h3><a href="{{ '/2026/01/26/zerobrew-is-a-rust-based-5-20x-faster-drop-in-home/' | relative_url }}">zerobrew is a rust based 5 20x faster drop in home</a></h3>
 </div>
