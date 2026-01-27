@@ -9,7 +9,23 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/when-two-years-of-academic-work-vanished-with-a-si/' | relative_url }}">when two years of academic work vanished with a si</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/the-cost-of-speed/' | relative_url }}">the cost of speed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/russia-using-interpols-wanted-list-to-target-criti/' | relative_url }}">russia using interpols wanted list to target criti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/rewriting-my-first-nunit-api-tests-cleaner-faster/' | relative_url }}">rewriting my first nunit api tests cleaner faster</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/purpose-of-this-ai-slob-programming-blog/' | relative_url }}">purpose of this ai slob programming blog</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -38,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/dhs-suspends-bovinos-access-to-social-media-after/' | relative_url }}">dhs suspends bovinos access to social media after</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/clawdbot-and-vibe-coding-have-the-same-flaw-someon/' | relative_url }}">clawdbot and vibe coding have the same flaw someon</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
