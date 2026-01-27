@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、AIとプラットフォーム規制が話題の中心だ。ClaudeやGlazeの性能向上やAIエージェントの進展が続く一方で、MetaがICE Listへのリンクを遮断し、Signalチャットの捜査報道が示すようにプライバシーと検閲の論争が激化している 🔐🤖。加えてTikTokの和解や政治的圧力、ChromeやRustでの開発ツール刷新も業界の注目を集めている ⚖️💡。
+    今日のテック業界では、オープンソースからAI、プラットフォーム規制までが同時多発でうごめいています🌐🤖。開発現場では株式が実質ゼロとみなされる議論や、ScriptやGlazeの性能化、ZorkをLLMで包む実験やTime Station Emulatorといった技術的挑戦、さらにGNU C Libraryのホスティング移管といったインフラの再編が進行中です🛠️🚀。一方でMetaの内部メッセージ流出やリンク遮断、AIサービスブロック、Signal捜査といったプライバシー・規制リスクが噴出し、巨額賠償や運用変更の可能性が業界を揺るがしています⚖️🔒
   </div>
 </div>

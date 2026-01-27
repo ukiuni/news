@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/why-many-engineers-value-startup-equity-at-0/' | relative_url }}">why many engineers value startup equity at 0</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/why-ai-coding-advice-contradicts-itself/' | relative_url }}">why ai coding advice contradicts itself</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/try-text-scaling-support-in-chrome-canary/' | relative_url }}">try text scaling support in chrome canary</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/time-station-emulator/' | relative_url }}">time station emulator</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -114,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/show-hn-we-built-the-1-eu-sovereignty-audit-for-we/' | relative_url }}">show hn we built the 1 eu sovereignty audit for we</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/show-hn-i-wrapped-the-zorks-with-an-llm/' | relative_url }}">show hn i wrapped the zorks with an llm</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -217,6 +229,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/introducing-script-javascript-that-runs-like-rust/' | relative_url }}">introducing script javascript that runs like rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/ig-is-a-drug-internal-messages-may-doom-meta-at-so/' | relative_url }}">ig is a drug internal messages may doom meta at so</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/if-its-not-accessible-its-not-design/' | relative_url }}">if its not accessible its not design</a></h3>
 </div>
 <div class="article-row">
@@ -250,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/grep-searched-my-node_modules-for-6-minutes-before/' | relative_url }}">grep searched my node_modules for 6 minutes before</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/gnu-c-library-moving-from-sourceware-to-linux-foun/' | relative_url }}">gnu c library moving from sourceware to linux foun</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
