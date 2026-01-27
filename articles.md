@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/two-twisty-shapes-resolve-a-centuries-old-topology/' | relative_url }}">two twisty shapes resolve a centuries old topology</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/tiktok-users-say-they-cant-upload-anti-ice-videos/' | relative_url }}">tiktok users say they cant upload anti ice videos</a></h3>
 </div>
 <div class="article-row">
@@ -189,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/cloudflare-claimed-they-implemented-matrix-on-clou/' | relative_url }}">cloudflare claimed they implemented matrix on clou</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/clawdbot-and-vibe-coding-have-the-same-flaw-someon/' | relative_url }}">clawdbot and vibe coding have the same flaw someon</a></h3>
 </div>
 <div class="article-row">
@@ -209,6 +217,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/bugs-apple-loves/' | relative_url }}">bugs apple loves</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/arcan-explained-a-browser-for-different-webs/' | relative_url }}">arcan explained a browser for different webs</a></h3>
 </div>
 <div class="article-row">
@@ -221,11 +233,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/amazon-to-shut-down-all-amazon-go-and-amazon-fresh/' | relative_url }}">amazon to shut down all amazon go and amazon fresh</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/ai-workflows-vs-ai-agents-explained-with-legos/' | relative_url }}">ai workflows vs ai agents explained with legos</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/a-list-of-fun-destinations-for-telnet/' | relative_url }}">a list of fun destinations for telnet</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/430k-year-old-well-preserved-wooden-tools-are-the/' | relative_url }}">430k year old well preserved wooden tools are the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/26</span>
