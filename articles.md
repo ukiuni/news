@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/tiktok-users-say-they-cant-upload-anti-ice-videos/' | relative_url }}">tiktok users say they cant upload anti ice videos</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/the-universal-pattern-popping-up-in-math-physics-a/' | relative_url }}">the universal pattern popping up in math physics a</a></h3>
 </div>
 <div class="article-row">
@@ -37,11 +41,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/snow-simulation-toy/' | relative_url }}">snow simulation toy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/simpler-jvm-project-setup-with-mill-110/' | relative_url }}">simpler jvm project setup with mill 110</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/russia-using-interpols-wanted-list-to-target-criti/' | relative_url }}">russia using interpols wanted list to target criti</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/rewriting-my-first-nunit-api-tests-cleaner-faster/' | relative_url }}">rewriting my first nunit api tests cleaner faster</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/renting-out-the-cheapest-gpus-cpu-options-availabl/' | relative_url }}">renting out the cheapest gpus cpu options availabl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/redditors-are-mounting-a-resistance-against-ice-a/' | relative_url }}">redditors are mounting a resistance against ice a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -66,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/loghead-mcp-based-log-aggregation-tool/' | relative_url }}">loghead mcp based log aggregation tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/lessons-from-running-an-8-hour-tcp-stress-test-on/' | relative_url }}">lessons from running an 8 hour tcp stress test on</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -94,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/forums-are-better-than-ai/' | relative_url }}">forums are better than ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/for-the-love-of-troff-2020/' | relative_url }}">for the love of troff 2020</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
