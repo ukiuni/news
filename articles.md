@@ -49,6 +49,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/postmarketos-in-2026-01-monthly-blog-post-reboot/' | relative_url }}">postmarketos in 2026 01 monthly blog post reboot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/pipeline-implants-moving-supply-chain-attacks-from/' | relative_url }}">pipeline implants moving supply chain attacks from</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/nixtamal-fulfilling-pure-input-pinning-for-nix/' | relative_url }}">nixtamal fulfilling pure input pinning for nix</a></h3>
 </div>
 <div class="article-row">
@@ -69,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/i-made-my-own-git/' | relative_url }}">i made my own git</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/how-i-built-a-collaborative-editing-model-thats-en/' | relative_url }}">how i built a collaborative editing model thats en</a></h3>
 </div>
 <div class="article-row">
@@ -81,7 +93,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/forums-are-better-than-ai/' | relative_url }}">forums are better than ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/dhs-suspends-bovinos-access-to-social-media-after/' | relative_url }}">dhs suspends bovinos access to social media after</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/cursor-lied-about-its-new-browser/' | relative_url }}">cursor lied about its new browser</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -94,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/california-governor-gavin-newsom-accuses-tiktok-of/' | relative_url }}">california governor gavin newsom accuses tiktok of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/but-how-to-get-to-that-european-cloud/' | relative_url }}">but how to get to that european cloud</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
