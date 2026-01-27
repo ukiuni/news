@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/were-creating-a-knowledge-collapse-and-no-ones-tal/' | relative_url }}">were creating a knowledge collapse and no ones tal</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/velox-a-port-of-tauri-to-swift-by-miguel-de-icaza/' | relative_url }}">velox a port of tauri to swift by miguel de icaza</a></h3>
 </div>
 <div class="article-row">
@@ -49,7 +53,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/the-enchiridion-by-epictetus/' | relative_url }}">the enchiridion by epictetus</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/the-cost-of-speed/' | relative_url }}">the cost of speed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/the-c-shaped-hole-in-package-management/' | relative_url }}">the c shaped hole in package management</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/the-age-of-pump-and-dump-software/' | relative_url }}">the age of pump and dump software</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
@@ -142,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/heathrow-drops-the-liquids-rule/' | relative_url }}">heathrow drops the liquids rule</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/27</span>
+  <h3><a href="{{ '/2026/01/27/grep-searched-my-node_modules-for-6-minutes-before/' | relative_url }}">grep searched my node_modules for 6 minutes before</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
