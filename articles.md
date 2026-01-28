@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/theres-only-one-woz-but-we-can-all-learn-from-him/' | relative_url }}">theres only one woz but we can all learn from him</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/super-monkey-ball-ported-to-a-website/' | relative_url }}">super monkey ball ported to a website</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/rusts-standard-library-on-the-gpu/' | relative_url }}">rusts standard library on the gpu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/judging-at-a-hackathon-if-anyone-would-like-to-joi/' | relative_url }}">judging at a hackathon if anyone would like to joi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -54,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/golden-ratio-using-an-equilateral-triangle-inscrib/' | relative_url }}">golden ratio using an equilateral triangle inscrib</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/experts-warn-that-openais-bubble-is-facing-a-200-b/' | relative_url }}">experts warn that openais bubble is facing a 200 b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
