@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、オープンコミュニティとツールの台頭が続く一方で、大手企業の人員整理や規制問題が波紋を広げています⚡️。HN ArcadeやSVG Path Editor、Make.tsといった創造的なプロジェクトや、Spring Bootの起動高速化・WhatsAppのRust導入といった技術的進展が目を引く一方で、NeocitiesのBingによるブロックやASMLの1700人解雇が業界ニュースを揺さぶっています🛠️。Ubisoftを巡るDEI論争や「I Stopped Following the News」に見られる情報疲れは、技術だけでなく文化とガバナンスの議論が同時進行していることを示しています🔍。
+    今日のテック業界では、開発者ツールやパフォーマンス最適化、セキュリティ強化が話題を席巻する一方、企業の倫理問題や検閲をめぐる論争も同時に噴出しています。CLIの「永続コンテキスト」提案やVでのモジュラー化、Pandas 3.0、Spring Bootの起動33%短縮、WhatsAppのRust導入などで効率と安全性が進化しています 🛠️⚡🔒。一方でPalantirのICE協力やUbisoftのDEI論争、NeocitiesのBingブロックといった社会的課題が業界の注目を集めています ⚖️📰。
   </div>
 </div>

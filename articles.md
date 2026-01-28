@@ -57,6 +57,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/pandas-30/' | relative_url }}">pandas 30</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/palantir-defends-work-with-ice-to-staff-following/' | relative_url }}">palantir defends work with ice to staff following</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/neocities-is-blocked-by-bing/' | relative_url }}">neocities is blocked by bing</a></h3>
 </div>
 <div class="article-row">
@@ -105,7 +113,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/devuan-debian-without-systemd/' | relative_url }}">devuan debian without systemd</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/dei-only-improved-things-at-ubisoft-says-former-em/' | relative_url }}">dei only improved things at ubisoft says former em</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/building-modular-applications-with-v/' | relative_url }}">building modular applications with v</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -118,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/asm-is-way-easier-than-many-programming-languages/' | relative_url }}">asm is way easier than many programming languages</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/architecture-for-a-persistent-context-layer-in-cli/' | relative_url }}">architecture for a persistent context layer in cli</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
