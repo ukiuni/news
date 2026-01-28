@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/time-machine-inside-a-freebsd-jail/' | relative_url }}">time machine inside a freebsd jail</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/tiktok-users-absolutely-justified-for-fearing-maga/' | relative_url }}">tiktok users absolutely justified for fearing maga</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/theres-only-one-woz-but-we-can-all-learn-from-him/' | relative_url }}">theres only one woz but we can all learn from him</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/the-current-american-president-use-of-ai-images-pu/' | relative_url }}">the current american president use of ai images pu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -89,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/ice-and-palantir-us-agents-using-health-data-to-hu/' | relative_url }}">ice and palantir us agents using health data to hu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/i-tried-learning-compilers-by-building-a-language/' | relative_url }}">i tried learning compilers by building a language</a></h3>
 </div>
 <div class="article-row">
@@ -121,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/criticize-please-announce-amutable-and-our-mission/' | relative_url }}">criticize please announce amutable and our mission</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/building-modular-applications-with-v/' | relative_url }}">building modular applications with v</a></h3>
 </div>
 <div class="article-row">
@@ -141,7 +157,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/amazon-reveals-fresh-round-of-global-job-cuts-in-e/' | relative_url }}">amazon reveals fresh round of global job cuts in e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/ai-found-12-vulnerabilities-in-openssl/' | relative_url }}">ai found 12 vulnerabilities in openssl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/agentic-memory-poisoning-how-long-term-ai-context/' | relative_url }}">agentic memory poisoning how long term ai context</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
