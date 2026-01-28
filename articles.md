@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/virtual-boy-on-tv-with-intelligent-systems-video-b/' | relative_url }}">virtual boy on tv with intelligent systems video b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/time-machine-inside-a-freebsd-jail/' | relative_url }}">time machine inside a freebsd jail</a></h3>
 </div>
 <div class="article-row">
@@ -57,6 +61,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/show-hn-dwmtmux-a-dwm-inspired-window-manager-for/' | relative_url }}">show hn dwmtmux a dwm inspired window manager for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/sean-goedecke-on-technical-blogging/' | relative_url }}">sean goedecke on technical blogging</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/rusts-standard-library-on-the-gpu/' | relative_url }}">rusts standard library on the gpu</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/palantir-defends-work-with-ice-to-staff-following/' | relative_url }}">palantir defends work with ice to staff following</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/package-management-is-a-wicked-problem/' | relative_url }}">package management is a wicked problem</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -113,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/grok-is-the-most-antisemitic-chatbot-according-to/' | relative_url }}">grok is the most antisemitic chatbot according to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/golden-ratio-using-an-equilateral-triangle-inscrib/' | relative_url }}">golden ratio using an equilateral triangle inscrib</a></h3>
 </div>
 <div class="article-row">
@@ -145,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/barev-xmpp-flavoured-p2p-protocol/' | relative_url }}">barev xmpp flavoured p2p protocol</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/asml-firing-1700-people-mostly-managers/' | relative_url }}">asml firing 1700 people mostly managers</a></h3>
 </div>
 <div class="article-row">
@@ -158,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/amazon-reveals-fresh-round-of-global-job-cuts-in-e/' | relative_url }}">amazon reveals fresh round of global job cuts in e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/airfoil/' | relative_url }}">airfoil</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
