@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/svg-path-editor/' | relative_url }}">svg path editor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/super-monkey-ball-ported-to-a-website/' | relative_url }}">super monkey ball ported to a website</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/rusts-standard-library-on-the-gpu/' | relative_url }}">rusts standard library on the gpu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/makets/' | relative_url }}">makets</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -65,11 +73,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/free-tool-to-compare-programming-language-syntax-s/' | relative_url }}">free tool to compare programming language syntax s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/experts-warn-that-openais-bubble-is-facing-a-200-b/' | relative_url }}">experts warn that openais bubble is facing a 200 b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/beware-government-using-image-manipulation-for-pro/' | relative_url }}">beware government using image manipulation for pro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/asm-is-way-easier-than-many-programming-languages/' | relative_url }}">asm is way easier than many programming languages</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
