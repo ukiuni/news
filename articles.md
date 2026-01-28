@@ -8,6 +8,22 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/zoom-is-the-first-casualty-in-frances-war-on-ameri/' | relative_url }}">zoom is the first casualty in frances war on ameri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/tiktok-already-getting-shittier-under-the-ownershi/' | relative_url }}">tiktok already getting shittier under the ownershi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/rusts-standard-library-on-the-gpu/' | relative_url }}">rusts standard library on the gpu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/introducing-mystral-native-a-native-webgpu-js-runt/' | relative_url }}">introducing mystral native a native webgpu js runt</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/xfwl4-the-roadmap-for-a-xfce-wayland-compositor/' | relative_url }}">xfwl4 the roadmap for a xfce wayland compositor</a></h3>
 </div>
