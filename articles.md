@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/the-five-levels-from-spicy-autocomplete-to-the-sof/' | relative_url }}">the five levels from spicy autocomplete to the sof</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/the-current-american-president-use-of-ai-images-pu/' | relative_url }}">the current american president use of ai images pu</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/neocities-is-blocked-by-bing/' | relative_url }}">neocities is blocked by bing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/native-linux-vst-plugin-directory/' | relative_url }}">native linux vst plugin directory</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -266,6 +274,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/androids-full-desktop-interface-leaks-new-status-b/' | relative_url }}">androids full desktop interface leaks new status b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/andrew-yang-reacts-to-ai-ceo-warning-50-of-all-whi/' | relative_url }}">andrew yang reacts to ai ceo warning 50 of all whi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
