@@ -13,7 +13,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/virtual-boy-on-tv-with-intelligent-systems-video-b/' | relative_url }}">virtual boy on tv with intelligent systems video b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/use-az-not-with-python-regular-expressions/' | relative_url }}">use az not with python regular expressions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -41,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/the-current-administration-has-secretly-rewritten/' | relative_url }}">the current administration has secretly rewritten</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/svg-path-editor/' | relative_url }}">svg path editor</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/show-hn-dwmtmux-a-dwm-inspired-window-manager-for/' | relative_url }}">show hn dwmtmux a dwm inspired window manager for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/show-hn-cua-bench-a-benchmark-for-ai-agents-in-gui/' | relative_url }}">show hn cua bench a benchmark for ai agents in gui</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -90,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/neocities-is-blocked-by-bing/' | relative_url }}">neocities is blocked by bing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/microsoft-forced-me-to-switch-to-linux/' | relative_url }}">microsoft forced me to switch to linux</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -145,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/dole-kemp-96-web-site/' | relative_url }}">dole kemp 96 web site</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/devuan-debian-without-systemd/' | relative_url }}">devuan debian without systemd</a></h3>
 </div>
 <div class="article-row">
@@ -185,6 +209,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/amazon-confirms-16000-job-cuts-after-accidental-em/' | relative_url }}">amazon confirms 16000 job cuts after accidental em</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/airfoil/' | relative_url }}">airfoil</a></h3>
 </div>
 <div class="article-row">
@@ -194,6 +222,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/agentic-memory-poisoning-how-long-term-ai-context/' | relative_url }}">agentic memory poisoning how long term ai context</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/a-verification-layer-for-browser-agents-amazon-cas/' | relative_url }}">a verification layer for browser agents amazon cas</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
