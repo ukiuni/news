@@ -64,6 +64,10 @@ permalink: /articles/
   <h3><a href="{{ '/2026/01/28/ai-found-12-vulnerabilities-in-openssl/' | relative_url }}">ai found 12 vulnerabilities in openssl</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/a-pure-go-linux-environment-written-by-claude/' | relative_url }}">a pure go linux environment written by claude</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/xfwl4-the-roadmap-for-a-xfce-wayland-compositor/' | relative_url }}">xfwl4 the roadmap for a xfce wayland compositor</a></h3>
 </div>
