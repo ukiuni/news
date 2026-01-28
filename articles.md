@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/walkthrough-of-xs-algorithm-that-decides-what-you/' | relative_url }}">walkthrough of xs algorithm that decides what you</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/virtual-boy-on-tv-with-intelligent-systems-video-b/' | relative_url }}">virtual boy on tv with intelligent systems video b</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/the-current-administration-has-secretly-rewritten/' | relative_url }}">the current administration has secretly rewritten</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/thats-not-how-email-works-hsbc/' | relative_url }}">thats not how email works hsbc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -126,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/neocities-is-blocked-by-bing/' | relative_url }}">neocities is blocked by bing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/mousefood-build-embedded-terminal-uis-for-microcon/' | relative_url }}">mousefood build embedded terminal uis for microcon</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -233,6 +245,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/androids-full-desktop-interface-leaks-new-status-b/' | relative_url }}">androids full desktop interface leaks new status b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/amazone-one-palm-authentication-discontinued/' | relative_url }}">amazone one palm authentication discontinued</a></h3>
 </div>
 <div class="article-row">
@@ -266,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/a-pure-go-linux-environment-written-by-claude/' | relative_url }}">a pure go linux environment written by claude</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/3d-printed-mathematical-lampshades/' | relative_url }}">3d printed mathematical lampshades</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/27</span>
