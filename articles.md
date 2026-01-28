@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/tiktok-users-absolutely-justified-for-fearing-maga/' | relative_url }}">tiktok users absolutely justified for fearing maga</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/tiktok-already-getting-shittier-under-the-ownershi/' | relative_url }}">tiktok already getting shittier under the ownershi</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/introducing-mystral-native-a-native-webgpu-js-runt/' | relative_url }}">introducing mystral native a native webgpu js runt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/i-tried-learning-compilers-by-building-a-language/' | relative_url }}">i tried learning compilers by building a language</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
