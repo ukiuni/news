@@ -28,6 +28,14 @@ permalink: /articles/
   <h3><a href="{{ '/2026/01/28/introducing-mystral-native-a-native-webgpu-js-runt/' | relative_url }}">introducing mystral native a native webgpu js runt</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/i-got-1484x-gpu-speedup-by-studying-how-octopus-ar/' | relative_url }}">i got 1484x gpu speedup by studying how octopus ar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/beware-government-using-image-manipulation-for-pro/' | relative_url }}">beware government using image manipulation for pro</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/27</span>
   <h3><a href="{{ '/2026/01/27/xfwl4-the-roadmap-for-a-xfce-wayland-compositor/' | relative_url }}">xfwl4 the roadmap for a xfce wayland compositor</a></h3>
 </div>
