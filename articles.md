@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/thirty-years-of-the-square-kilometre-array/' | relative_url }}">thirty years of the square kilometre array</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/theres-only-one-woz-but-we-can-all-learn-from-him/' | relative_url }}">theres only one woz but we can all learn from him</a></h3>
 </div>
 <div class="article-row">
@@ -33,11 +37,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/speed-up-your-spring-boot-app-startup-by-33-with-n/' | relative_url }}">speed up your spring boot app startup by 33 with n</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/simplify-local-development-for-distributed-systems/' | relative_url }}">simplify local development for distributed systems</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/rusts-standard-library-on-the-gpu/' | relative_url }}">rusts standard library on the gpu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/rust-at-scale-an-added-layer-of-security-for-whats/' | relative_url }}">rust at scale an added layer of security for whats</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -82,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/experts-warn-that-openais-bubble-is-facing-a-200-b/' | relative_url }}">experts warn that openais bubble is facing a 200 b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/dei-only-improved-things-at-ubisoft-says-former-em/' | relative_url }}">dei only improved things at ubisoft says former em</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
