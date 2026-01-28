@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/simplify-local-development-for-distributed-systems/' | relative_url }}">simplify local development for distributed systems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/rusts-standard-library-on-the-gpu/' | relative_url }}">rusts standard library on the gpu</a></h3>
 </div>
 <div class="article-row">
