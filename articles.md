@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/tiktok-uninstalls-surge-150-after-apps-us-takeover/' | relative_url }}">tiktok uninstalls surge 150 after apps us takeover</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/tiktok-already-getting-shittier-under-the-ownershi/' | relative_url }}">tiktok already getting shittier under the ownershi</a></h3>
 </div>
 <div class="article-row">
@@ -302,6 +306,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/architecture-for-a-persistent-context-layer-in-cli/' | relative_url }}">architecture for a persistent context layer in cli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/apple-to-soon-take-up-to-30-cut-from-all-patreon-c/' | relative_url }}">apple to soon take up to 30 cut from all patreon c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
