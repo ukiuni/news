@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/trinity-large-an-open-400b-sparse-moe-model/' | relative_url }}">trinity large an open 400b sparse moe model</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/time-machine-inside-a-freebsd-jail/' | relative_url }}">time machine inside a freebsd jail</a></h3>
 </div>
 <div class="article-row">
@@ -73,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/tesla-hits-a-grim-milestone-its-second-straight-ye/' | relative_url }}">tesla hits a grim milestone its second straight ye</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/svg-path-editor/' | relative_url }}">svg path editor</a></h3>
 </div>
 <div class="article-row">
@@ -85,11 +93,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/somebody-used-spoofed-adsb-signals-to-raster-the-m/' | relative_url }}">somebody used spoofed adsb signals to raster the m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/simplify-local-development-for-distributed-systems/' | relative_url }}">simplify local development for distributed systems</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/simple-analogy-to-understand-forward-proxy-vs-reve/' | relative_url }}">simple analogy to understand forward proxy vs reve</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/shrinking-a-language-detection-model-to-under-10-k/' | relative_url }}">shrinking a language detection model to under 10 k</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -110,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/show-hn-cua-bench-a-benchmark-for-ai-agents-in-gui/' | relative_url }}">show hn cua bench a benchmark for ai agents in gui</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/show-hn-a-mitm-proxy-to-see-what-your-llm-tools-ar/' | relative_url }}">show hn a mitm proxy to see what your llm tools ar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -173,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/jellyfin-llmai-development-policy/' | relative_url }}">jellyfin llmai development policy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/its-not-too-late-to-fix-it-internet-inventor-tim-b/' | relative_url }}">its not too late to fix it internet inventor tim b</a></h3>
 </div>
 <div class="article-row">
@@ -213,6 +237,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/how-london-became-the-rest-of-the-worlds-startup-c/' | relative_url }}">how london became the rest of the worlds startup c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/grok-is-the-most-antisemitic-chatbot-according-to/' | relative_url }}">grok is the most antisemitic chatbot according to</a></h3>
 </div>
 <div class="article-row">
@@ -230,6 +258,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/dole-kemp-96-web-site/' | relative_url }}">dole kemp 96 web site</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/did-a-celebrated-researcher-obscure-a-babys-poison/' | relative_url }}">did a celebrated researcher obscure a babys poison</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -314,6 +346,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/a-pure-go-linux-environment-written-by-claude/' | relative_url }}">a pure go linux environment written by claude</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/a-bootstrap-chain-for-nixos-which-builds-the-whole/' | relative_url }}">a bootstrap chain for nixos which builds the whole</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
