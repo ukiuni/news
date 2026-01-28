@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/the-rise-of-sanityware/' | relative_url }}">the rise of sanityware</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/the-current-american-president-use-of-ai-images-pu/' | relative_url }}">the current american president use of ai images pu</a></h3>
 </div>
 <div class="article-row">
@@ -149,11 +153,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/lm-studio-040/' | relative_url }}">lm studio 040</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/judging-at-a-hackathon-if-anyone-would-like-to-joi/' | relative_url }}">judging at a hackathon if anyone would like to joi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/json-vs-xml-in-embedded-linux-system-design-trade/' | relative_url }}">json vs xml in embedded linux system design trade</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/its-not-too-late-to-fix-it-internet-inventor-tim-b/' | relative_url }}">its not too late to fix it internet inventor tim b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -182,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/i-overengineered-a-spinning-top/' | relative_url }}">i overengineered a spinning top</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/i-have-written-gemma3-inference-in-pure-c/' | relative_url }}">i have written gemma3 inference in pure c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -218,6 +234,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/criticize-please-announce-amutable-and-our-mission/' | relative_url }}">criticize please announce amutable and our mission</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/computer-history-museum-launches-digital-portal-to/' | relative_url }}">computer history museum launches digital portal to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
