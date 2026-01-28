@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/uefigame-win-boot-lose-shutdown/' | relative_url }}">uefigame win boot lose shutdown</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/time-machine-inside-a-freebsd-jail/' | relative_url }}">time machine inside a freebsd jail</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/simplify-local-development-for-distributed-systems/' | relative_url }}">simplify local development for distributed systems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/simple-analogy-to-understand-forward-proxy-vs-reve/' | relative_url }}">simple analogy to understand forward proxy vs reve</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
@@ -205,11 +213,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/amazone-one-palm-authentication-discontinued/' | relative_url }}">amazone one palm authentication discontinued</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/amazon-reveals-fresh-round-of-global-job-cuts-in-e/' | relative_url }}">amazon reveals fresh round of global job cuts in e</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/amazon-confirms-16000-job-cuts-after-accidental-em/' | relative_url }}">amazon confirms 16000 job cuts after accidental em</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/amazon-axes-16000-jobs-as-it-pushes-ai-and-efficie/' | relative_url }}">amazon axes 16000 jobs as it pushes ai and efficie</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
