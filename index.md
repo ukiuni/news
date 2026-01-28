@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、パフォーマンス改善やセキュリティ強化の実践的な取り組みが注目を集めています🚀🛡️。一方でASMLの大規模な人員削減やUbisoftを巡るDEI論争が業界のガバナンスと文化を揺るがし、企業の経営判断が投資家や従業員の関心事になっています💼。開発者向けツールや新しいユーティリティ（SVG編集や言語比較、Make.ts、ASMの再評価）や天文学プロジェクトの節目も並行し、技術とツールの多様性が進行中です🔧🔭
+    今日のテック業界では、オープンコミュニティとツールの台頭が続く一方で、大手企業の人員整理や規制問題が波紋を広げています⚡️。HN ArcadeやSVG Path Editor、Make.tsといった創造的なプロジェクトや、Spring Bootの起動高速化・WhatsAppのRust導入といった技術的進展が目を引く一方で、NeocitiesのBingによるブロックやASMLの1700人解雇が業界ニュースを揺さぶっています🛠️。Ubisoftを巡るDEI論争や「I Stopped Following the News」に見られる情報疲れは、技術だけでなく文化とガバナンスの議論が同時進行していることを示しています🔍。
   </div>
 </div>

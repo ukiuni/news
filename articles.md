@@ -45,11 +45,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/show-hn-the-hn-arcade/' | relative_url }}">show hn the hn arcade</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/rusts-standard-library-on-the-gpu/' | relative_url }}">rusts standard library on the gpu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/rust-at-scale-an-added-layer-of-security-for-whats/' | relative_url }}">rust at scale an added layer of security for whats</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/28</span>
+  <h3><a href="{{ '/2026/01/28/neocities-is-blocked-by-bing/' | relative_url }}">neocities is blocked by bing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
