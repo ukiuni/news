@@ -129,6 +129,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/project-genie-interactive-worlds-generated-in-real/' | relative_url }}">project genie interactive worlds generated in real</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/project-genie-experimenting-with-infinite-interact/' | relative_url }}">project genie experimenting with infinite interact</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/please-dont-say-mean-things-about-the-ai-i-just-in/' | relative_url }}">please dont say mean things about the ai i just in</a></h3>
 </div>
 <div class="article-row">
@@ -177,6 +185,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/introducing-fluux-messenger-a-modern-xmpp-client-b/' | relative_url }}">introducing fluux messenger a modern xmpp client b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/inside-the-world-of-men-who-use-smart-glasses-to-s/' | relative_url }}">inside the world of men who use smart glasses to s</a></h3>
 </div>
 <div class="article-row">
@@ -197,7 +209,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/how-the-self-driving-tech-stack-works/' | relative_url }}">how the self driving tech stack works</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/history-of-greenfield-in-browser-wayland-composito/' | relative_url }}">history of greenfield in browser wayland composito</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/heating-homes-with-the-largest-particle-accelerato/' | relative_url }}">heating homes with the largest particle accelerato</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -206,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/europes-next-generation-weather-satellite-sends-ba/' | relative_url }}">europes next generation weather satellite sends ba</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/drug-trio-found-to-block-tumour-resistance-in-panc/' | relative_url }}">drug trio found to block tumour resistance in panc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -218,6 +242,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/claude-code-daily-benchmarks-for-degradation-track/' | relative_url }}">claude code daily benchmarks for degradation track</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/chinas-four-year-energy-spree-has-eclipsed-entire/' | relative_url }}">chinas four year energy spree has eclipsed entire</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/chemical-maker-dow-is-cutting-4500-jobs-will-rely/' | relative_url }}">chemical maker dow is cutting 4500 jobs will rely</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
