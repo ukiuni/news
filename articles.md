@@ -45,11 +45,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/putting-gemini-to-work-in-chrome/' | relative_url }}">putting gemini to work in chrome</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/please-dont-say-mean-things-about-the-ai-i-just-in/' | relative_url }}">please dont say mean things about the ai i just in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/microsofts-azure-linux/' | relative_url }}">microsofts azure linux</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/microsoft-sells-copilot-to-the-world-but-its-own-e/' | relative_url }}">microsoft sells copilot to the world but its own e</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -81,7 +89,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/europes-next-generation-weather-satellite-sends-ba/' | relative_url }}">europes next generation weather satellite sends ba</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/decwindows-motif/' | relative_url }}">decwindows motif</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/decompiling-xbox-games-using-pdb-debug-info/' | relative_url }}">decompiling xbox games using pdb debug info</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
