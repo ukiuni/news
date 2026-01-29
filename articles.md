@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/microsofts-azure-linux/' | relative_url }}">microsofts azure linux</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/metas-reality-labs-posts-602-billion-loss-in-fourt/' | relative_url }}">metas reality labs posts 602 billion loss in fourt</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/app-for-quitting-porn-leaked-users-masturbation-ha/' | relative_url }}">app for quitting porn leaked users masturbation ha</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/an-illustrated-guide-to-hippo-castration/' | relative_url }}">an illustrated guide to hippo castration</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/40ns-causal-consistency-by-replacing-consensus-wit/' | relative_url }}">40ns causal consistency by replacing consensus wit</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/28</span>
