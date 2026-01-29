@@ -97,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/tesla-is-committing-automotive-suicide/' | relative_url }}">tesla is committing automotive suicide</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/tesla-2024-was-bad-2025-was-worse-as-profit-falls/' | relative_url }}">tesla 2024 was bad 2025 was worse as profit falls</a></h3>
 </div>
 <div class="article-row">
@@ -153,7 +157,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/one-third-of-us-video-game-industry-workers-were-l/' | relative_url }}">one third of us video game industry workers were l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/nvidia-microsoft-amazon-in-talks-to-invest-up-to-6/' | relative_url }}">nvidia microsoft amazon in talks to invest up to 6</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/narwhal-an-extensible-pubsub-messaging-server-for/' | relative_url }}">narwhal an extensible pubsub messaging server for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/my-mom-and-dr-deepseek-2025/' | relative_url }}">my mom and dr deepseek 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -162,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/microsoft-sells-copilot-to-the-world-but-its-own-e/' | relative_url }}">microsoft sells copilot to the world but its own e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/microsoft-gained-76b-from-openai-last-quarter/' | relative_url }}">microsoft gained 76b from openai last quarter</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -290,6 +310,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/an-illustrated-guide-to-hippo-castration/' | relative_url }}">an illustrated guide to hippo castration</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/ais-impact-on-engineering-jobs-may-be-different-th/' | relative_url }}">ais impact on engineering jobs may be different th</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
