@@ -85,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/the-hallucination-defense/' | relative_url }}">the hallucination defense</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/the-engineer-that-silently-broke-the-honey-extensi/' | relative_url }}">the engineer that silently broke the honey extensi</a></h3>
 </div>
 <div class="article-row">
@@ -201,6 +205,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/microsoft-lost-357-billion-in-market-cap-as-stock/' | relative_url }}">microsoft lost 357 billion in market cap as stock</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/microsoft-gained-76b-from-openai-last-quarter/' | relative_url }}">microsoft gained 76b from openai last quarter</a></h3>
 </div>
 <div class="article-row">
@@ -273,6 +281,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/gadgetbridge/' | relative_url }}">gadgetbridge</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/flameshot/' | relative_url }}">flameshot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/europes-next-generation-weather-satellite-sends-ba/' | relative_url }}">europes next generation weather satellite sends ba</a></h3>
 </div>
 <div class="article-row">
@@ -290,6 +306,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/crazy-jumpman/' | relative_url }}">crazy jumpman</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/compressed-agentsmd-agent-skills/' | relative_url }}">compressed agentsmd agent skills</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
