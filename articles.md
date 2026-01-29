@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/what-coders-could-offer-instead-of-writing-lines-o/' | relative_url }}">what coders could offer instead of writing lines o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/we-cant-send-mail-farther-than-500-miles-2002/' | relative_url }}">we cant send mail farther than 500 miles 2002</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/tv-report-2026-tesla-model-y-has-the-worst-reliabi/' | relative_url }}">tv report 2026 tesla model y has the worst reliabi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -85,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/teacher-quits-after-pupil-8-made-threesome-deepfak/' | relative_url }}">teacher quits after pupil 8 made threesome deepfak</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/some-notes-on-starting-to-use-django/' | relative_url }}">some notes on starting to use django</a></h3>
 </div>
 <div class="article-row">
@@ -110,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/please-dont-say-mean-things-about-the-ai-i-just-in/' | relative_url }}">please dont say mean things about the ai i just in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/playing-board-games-with-deep-convolutional-neural/' | relative_url }}">playing board games with deep convolutional neural</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -141,6 +157,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/looi-a-minimal-customizable-new-tab-page-for-firef/' | relative_url }}">looi a minimal customizable new tab page for firef</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/inside-the-world-of-men-who-use-smart-glasses-to-s/' | relative_url }}">inside the world of men who use smart glasses to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/immigration-agents-have-used-mobile-fortify-to-sca/' | relative_url }}">immigration agents have used mobile fortify to sca</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +174,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/i-reverse-engineered-netflixs-4k-restrictions/' | relative_url }}">i reverse engineered netflixs 4k restrictions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/how-to-choose-colors-for-your-cli-applications/' | relative_url }}">how to choose colors for your cli applications</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/history-of-greenfield-in-browser-wayland-composito/' | relative_url }}">history of greenfield in browser wayland composito</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -178,6 +210,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/cache-is-king-a-roadmap/' | relative_url }}">cache is king a roadmap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/building-a-high-performance-rotating-bloom-filter/' | relative_url }}">building a high performance rotating bloom filter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/break-me-if-you-can-exploiting-pko-and-relay-attac/' | relative_url }}">break me if you can exploiting pko and relay attac</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
