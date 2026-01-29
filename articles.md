@@ -37,11 +37,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/tv-report-2026-tesla-model-y-has-the-worst-reliabi/' | relative_url }}">tv report 2026 tesla model y has the worst reliabi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/the-uk-paid-41m-for-a-bookmarks-site/' | relative_url }}">the uk paid 41m for a bookmarks site</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/the-tech-market-is-fundamentally-fucked-up-and-ai/' | relative_url }}">the tech market is fundamentally fucked up and ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/the-sovereign-tech-fund-invests-in-scala/' | relative_url }}">the sovereign tech fund invests in scala</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/the-lean-tech-manifesto-fabrice-bernhard-amp-steve/' | relative_url }}">the lean tech manifesto fabrice bernhard amp steve</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -58,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/some-notes-on-starting-to-use-django/' | relative_url }}">some notes on starting to use django</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/show-hn-shapedql-a-sql-engine-for-multi-stage-rank/' | relative_url }}">show hn shapedql a sql engine for multi stage rank</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -162,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/an-illustrated-guide-to-hippo-castration/' | relative_url }}">an illustrated guide to hippo castration</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/after-34-years-the-linux-kernel-community-finally/' | relative_url }}">after 34 years the linux kernel community finally</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
