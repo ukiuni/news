@@ -8,6 +8,34 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/us-acting-cyber-chief-uploaded-sensitive-files-int/' | relative_url }}">us acting cyber chief uploaded sensitive files int</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/the-uk-paid-41m-for-a-bookmarks-site/' | relative_url }}">the uk paid 41m for a bookmarks site</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/please-dont-say-mean-things-about-the-ai-i-just-in/' | relative_url }}">please dont say mean things about the ai i just in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/i-reverse-engineered-netflixs-4k-restrictions/' | relative_url }}">i reverse engineered netflixs 4k restrictions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/cache-is-king-a-roadmap/' | relative_url }}">cache is king a roadmap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/bf-tree-modern-read-write-optimized-concurrent-lar/' | relative_url }}">bf tree modern read write optimized concurrent lar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/ariel-os-is-a-library-operating-system-for-secure/' | relative_url }}">ariel os is a library operating system for secure</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/28</span>
   <h3><a href="{{ '/2026/01/28/zoom-is-the-first-casualty-in-frances-war-on-ameri/' | relative_url }}">zoom is the first casualty in frances war on ameri</a></h3>
 </div>
