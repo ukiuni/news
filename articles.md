@@ -157,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/openais-in-house-data-agent/' | relative_url }}">openais in house data agent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/one-third-of-us-video-game-industry-workers-were-l/' | relative_url }}">one third of us video game industry workers were l</a></h3>
 </div>
 <div class="article-row">
@@ -225,6 +229,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/how-we-created-more-tech-debt-in-6-months-than-in/' | relative_url }}">how we created more tech debt in 6 months than in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/how-to-choose-colors-for-your-cli-applications/' | relative_url }}">how to choose colors for your cli applications</a></h3>
 </div>
 <div class="article-row">
@@ -261,6 +269,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/crazy-jumpman/' | relative_url }}">crazy jumpman</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/cn-diagrams-architecture-diagrams-that-scale-with/' | relative_url }}">cn diagrams architecture diagrams that scale with</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/claude-code-daily-benchmarks-for-degradation-track/' | relative_url }}">claude code daily benchmarks for degradation track</a></h3>
 </div>
 <div class="article-row">
@@ -281,11 +297,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/c-modules-are-here-to-stay/' | relative_url }}">c modules are here to stay</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/building-a-high-performance-rotating-bloom-filter/' | relative_url }}">building a high performance rotating bloom filter</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/break-me-if-you-can-exploiting-pko-and-relay-attac/' | relative_url }}">break me if you can exploiting pko and relay attac</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/body-cameras-are-a-hands-free-killing-tool-for-ice/' | relative_url }}">body cameras are a hands free killing tool for ice</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
