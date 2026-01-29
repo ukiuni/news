@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-sch/' | relative_url }}">waymo robotaxi hits a child near an elementary sch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/vitamin-d-and-omega-3-have-a-larger-effect-on-depr/' | relative_url }}">vitamin d and omega 3 have a larger effect on depr</a></h3>
 </div>
 <div class="article-row">
@@ -57,6 +61,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/the-engineer-that-silently-broke-the-honey-extensi/' | relative_url }}">the engineer that silently broke the honey extensi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/the-dev-who-asks-too-many-questions-is-the-one-you/' | relative_url }}">the dev who asks too many questions is the one you</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/the-chemistry-of-tea-pdf/' | relative_url }}">the chemistry of tea pdf</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/tesla-is-killing-off-its-model-s-and-x-cars-to-mak/' | relative_url }}">tesla is killing off its model s and x cars to mak</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/tesla-2024-was-bad-2025-was-worse-as-profit-falls/' | relative_url }}">tesla 2024 was bad 2025 was worse as profit falls</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -153,6 +169,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/claude-code-daily-benchmarks-for-degradation-track/' | relative_url }}">claude code daily benchmarks for degradation track</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/can-ai-companies-become-profitable/' | relative_url }}">can ai companies become profitable</a></h3>
 </div>
 <div class="article-row">
@@ -173,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/apt-bundle-brew-bundle-for-apt/' | relative_url }}">apt bundle brew bundle for apt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/app-for-quitting-porn-leaked-users-masturbation-ha/' | relative_url }}">app for quitting porn leaked users masturbation ha</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/after-34-years-the-linux-kernel-community-finally/' | relative_url }}">after 34 years the linux kernel community finally</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/a-lot-of-population-numbers-are-fake/' | relative_url }}">a lot of population numbers are fake</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
