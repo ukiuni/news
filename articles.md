@@ -21,7 +21,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/typescript-inventor-anders-hejlsberg-calls-ai-a-bi/' | relative_url }}">typescript inventor anders hejlsberg calls ai a bi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/the-uk-paid-41m-for-a-bookmarks-site/' | relative_url }}">the uk paid 41m for a bookmarks site</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/the-chemistry-of-tea-pdf/' | relative_url }}">the chemistry of tea pdf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
