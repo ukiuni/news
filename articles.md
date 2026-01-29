@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/your-ai-diagram-looks-great-and-nobody-will-read-i/' | relative_url }}">your ai diagram looks great and nobody will read i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/you-can-code-only-4-hours-per-day-heres-why/' | relative_url }}">you can code only 4 hours per day heres why</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/the-internets-addiction-to-being-contrary/' | relative_url }}">the internets addiction to being contrary</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/the-engineer-that-silently-broke-the-honey-extensi/' | relative_url }}">the engineer that silently broke the honey extensi</a></h3>
 </div>
 <div class="article-row">
@@ -125,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/retiring-gpt-4o-gpt-41-gpt-41-mini-and-openai-o4-m/' | relative_url }}">retiring gpt 4o gpt 41 gpt 41 mini and openai o4 m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/react2shell-cve-2025-55182-the-deserialization-gho/' | relative_url }}">react2shell cve 2025 55182 the deserialization gho</a></h3>
 </div>
 <div class="article-row">
@@ -142,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/please-dont-say-mean-things-about-the-ai-i-just-in/' | relative_url }}">please dont say mean things about the ai i just in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/playstation-2-recompilation-project-is-absolutely/' | relative_url }}">playstation 2 recompilation project is absolutely</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -206,6 +222,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/looi-a-minimal-customizable-new-tab-page-for-firef/' | relative_url }}">looi a minimal customizable new tab page for firef</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/iphone-16-best-selling-smartphone-in-2025-apple-ta/' | relative_url }}">iphone 16 best selling smartphone in 2025 apple ta</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -318,6 +338,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/beautiful-mermaid/' | relative_url }}">beautiful mermaid</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/banker-claims-oracle-may-slash-up-to-30000-jobs-se/' | relative_url }}">banker claims oracle may slash up to 30000 jobs se</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
