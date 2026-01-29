@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/when-a-measure-becomes-a-target-it-ceases-to-be-a/' | relative_url }}">when a measure becomes a target it ceases to be a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/we-cant-send-mail-farther-than-500-miles-2002/' | relative_url }}">we cant send mail farther than 500 miles 2002</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/decompiling-xbox-games-using-pdb-debug-info/' | relative_url }}">decompiling xbox games using pdb debug info</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/can-ai-companies-become-profitable/' | relative_url }}">can ai companies become profitable</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
