@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/some-notes-on-starting-to-use-django/' | relative_url }}">some notes on starting to use django</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/satellites-encased-in-wood-are-in-the-works/' | relative_url }}">satellites encased in wood are in the works</a></h3>
 </div>
 <div class="article-row">
@@ -61,11 +65,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/immigration-agents-have-used-mobile-fortify-to-sca/' | relative_url }}">immigration agents have used mobile fortify to sca</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/i-still-dont-understand-this-syn-attack-but-now-i/' | relative_url }}">i still dont understand this syn attack but now i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/i-reverse-engineered-netflixs-4k-restrictions/' | relative_url }}">i reverse engineered netflixs 4k restrictions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/generative-music-with-the-muse/' | relative_url }}">generative music with the muse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/decwindows-motif/' | relative_url }}">decwindows motif</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
