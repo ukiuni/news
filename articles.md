@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/you-can-code-only-4-hours-per-day-heres-why/' | relative_url }}">you can code only 4 hours per day heres why</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/xmake-a-cross-platform-build-utility-based-on-lua/' | relative_url }}">xmake a cross platform build utility based on lua</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/vitamin-d-and-omega-3-have-a-larger-effect-on-depr/' | relative_url }}">vitamin d and omega 3 have a larger effect on depr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/us-cybersecurity-chief-leaked-sensitive-government/' | relative_url }}">us cybersecurity chief leaked sensitive government</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -133,6 +141,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/otelbench-ai-struggles-with-simple-sre-tasks-opus/' | relative_url }}">otelbench ai struggles with simple sre tasks opus</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/nvidia-microsoft-amazon-in-talks-to-invest-up-to-6/' | relative_url }}">nvidia microsoft amazon in talks to invest up to 6</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/mecha-comet-open-modular-linux-handheld-computer/' | relative_url }}">mecha comet open modular linux handheld computer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/making-niche-solutions-is-the-point/' | relative_url }}">making niche solutions is the point</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
