@@ -21,11 +21,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/satellites-encased-in-wood-are-in-the-works/' | relative_url }}">satellites encased in wood are in the works</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/ross-stevens-donates-100m-to-pay-every-us-olympian/' | relative_url }}">ross stevens donates 100m to pay every us olympian</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/please-dont-say-mean-things-about-the-ai-i-just-in/' | relative_url }}">please dont say mean things about the ai i just in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/metas-reality-labs-posts-602-billion-loss-in-fourt/' | relative_url }}">metas reality labs posts 602 billion loss in fourt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/mecha-comet-open-modular-linux-handheld-computer/' | relative_url }}">mecha comet open modular linux handheld computer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
@@ -42,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/bf-tree-modern-read-write-optimized-concurrent-lar/' | relative_url }}">bf tree modern read write optimized concurrent lar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/29</span>
+  <h3><a href="{{ '/2026/01/29/beautiful-mermaid/' | relative_url }}">beautiful mermaid</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/29</span>
