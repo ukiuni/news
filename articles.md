@@ -177,6 +177,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/france-just-created-its-own-open-source-alternativ/' | relative_url }}">france just created its own open source alternativ</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/email-experiments-filtering-out-external-images/' | relative_url }}">email experiments filtering out external images</a></h3>
 </div>
 <div class="article-row">
@@ -202,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/code-is-cheap-show-me-the-talk/' | relative_url }}">code is cheap show me the talk</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/cli-stash-tui-tool-to-save-and-recall-shell-comman/' | relative_url }}">cli stash tui tool to save and recall shell comman</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
