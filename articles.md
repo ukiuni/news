@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/two-days-of-oatmeal-reduce-cholesterol-level/' | relative_url }}">two days of oatmeal reduce cholesterol level</a></h3>
 </div>
 <div class="article-row">
@@ -49,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/microsofts-357-billion-rout-is-worst-since-deepsee/' | relative_url }}">microsofts 357 billion rout is worst since deepsee</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/libs-of-tiktok-is-doxxing-teachers-and-nurses-who/' | relative_url }}">libs of tiktok is doxxing teachers and nurses who</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/i-built-vancamera-foss-secure-zero-config-android/' | relative_url }}">i built vancamera foss secure zero config android</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/how-ai-assistance-impacts-the-formation-of-coding/' | relative_url }}">how ai assistance impacts the formation of coding</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
