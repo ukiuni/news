@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/wisconsin-communities-signed-secrecy-deals-for-bil/' | relative_url }}">wisconsin communities signed secrecy deals for bil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/why-france-just-dumped-teams-and-zoom-for-homegrow/' | relative_url }}">why france just dumped teams and zoom for homegrow</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +22,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/two-days-of-oatmeal-reduce-cholesterol-level/' | relative_url }}">two days of oatmeal reduce cholesterol level</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/track-your-routine-open-source-app-for-task-manage/' | relative_url }}">track your routine open source app for task manage</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
@@ -65,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/norway-ev-push-nears-100-percent-whats-next/' | relative_url }}">norway ev push nears 100 percent whats next</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/no-cloudflares-matrix-server-isnt-an-earnest-proje/' | relative_url }}">no cloudflares matrix server isnt an earnest proje</a></h3>
 </div>
 <div class="article-row">
@@ -81,6 +93,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/microsoft-tumbled-10-in-a-day-and-isnt-recovering/' | relative_url }}">microsoft tumbled 10 in a day and isnt recovering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/meta-can-read-your-whatsapp-chats/' | relative_url }}">meta can read your whatsapp chats</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/libs-of-tiktok-is-doxxing-teachers-and-nurses-who/' | relative_url }}">libs of tiktok is doxxing teachers and nurses who</a></h3>
 </div>
 <div class="article-row">
@@ -93,11 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/how-replacing-developers-with-ai-is-going-horribly/' | relative_url }}">how replacing developers with ai is going horribly</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/how-ai-assistance-impacts-the-formation-of-coding/' | relative_url }}">how ai assistance impacts the formation of coding</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/got-roasted-for-my-octopus-gpu-post-went-back-and/' | relative_url }}">got roasted for my octopus gpu post went back and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/google-disrupts-large-residential-proxy-network/' | relative_url }}">google disrupts large residential proxy network</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
@@ -126,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/comcast-keeps-losing-customers-despite-price-guara/' | relative_url }}">comcast keeps losing customers despite price guara</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/coding-is-when-were-least-productive/' | relative_url }}">coding is when were least productive</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
