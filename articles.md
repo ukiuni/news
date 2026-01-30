@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/why-france-just-dumped-teams-and-zoom-for-homegrow/' | relative_url }}">why france just dumped teams and zoom for homegrow</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/two-days-of-oatmeal-reduce-cholesterol-level/' | relative_url }}">two days of oatmeal reduce cholesterol level</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/thoughts-software-companies-that-went-extreme-into/' | relative_url }}">thoughts software companies that went extreme into</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/comcast-keeps-losing-customers-despite-price-guara/' | relative_url }}">comcast keeps losing customers despite price guara</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/cisas-acting-head-uploaded-sensitive-files-into-pu/' | relative_url }}">cisas acting head uploaded sensitive files into pu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
