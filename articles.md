@@ -9,11 +9,23 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/thoughts-software-companies-that-went-extreme-into/' | relative_url }}">thoughts software companies that went extreme into</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/solving-fossils-ascii-art-captcha-in-171-character/' | relative_url }}">solving fossils ascii art captcha in 171 character</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/github-copilot-cli-challenge-badges-are-here-28-ch/' | relative_url }}">github copilot cli challenge badges are here 28 ch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/cutting-up-curved-things-with-math/' | relative_url }}">cutting up curved things with math</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/comcast-keeps-losing-customers-despite-price-guara/' | relative_url }}">comcast keeps losing customers despite price guara</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
