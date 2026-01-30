@@ -8,6 +8,18 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/solving-fossils-ascii-art-captcha-in-171-character/' | relative_url }}">solving fossils ascii art captcha in 171 character</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/cutting-up-curved-things-with-math/' | relative_url }}">cutting up curved things with math</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/beta-testing-of-webusbunpinner-a-tool-to-investiga/' | relative_url }}">beta testing of webusbunpinner a tool to investiga</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/29</span>
   <h3><a href="{{ '/2026/01/29/zig-and-the-mn-supply-chain-problem/' | relative_url }}">zig and the mn supply chain problem</a></h3>
 </div>
