@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/vcad-free-brep-cad-in-the-browser/' | relative_url }}">vcad free brep cad in the browser</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/unpopular-opinion-i-stopped-coding-on-weekends-and/' | relative_url }}">unpopular opinion i stopped coding on weekends and</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/teslas-robotaxi-crash-rate-is-way-worse-than-we-fi/' | relative_url }}">teslas robotaxi crash rate is way worse than we fi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/subtypes-and-status-dependent-data-pure-relational/' | relative_url }}">subtypes and status dependent data pure relational</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
@@ -149,11 +157,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/mamdani-to-kill-the-nyc-ai-chatbot-caught-telling/' | relative_url }}">mamdani to kill the nyc ai chatbot caught telling</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/libs-of-tiktok-is-doxxing-teachers-and-nurses-who/' | relative_url }}">libs of tiktok is doxxing teachers and nurses who</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/is-learning-css-a-waste-of-time-in-2026/' | relative_url }}">is learning css a waste of time in 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/ingress-nginx-statement-from-the-kubernetes-steeri/' | relative_url }}">ingress nginx statement from the kubernetes steeri</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
