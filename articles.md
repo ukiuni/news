@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/the-home-computer-hybrids/' | relative_url }}">the home computer hybrids</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/the-engineer-who-invented-the-mars-rover-suspensio/' | relative_url }}">the engineer who invented the mars rover suspensio</a></h3>
 </div>
 <div class="article-row">
@@ -165,6 +169,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/kimi-k25-technical-report-pdf/' | relative_url }}">kimi k25 technical report pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/joel-spolsky-painless-software-schedules-2000/' | relative_url }}">joel spolsky painless software schedules 2000</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/is-learning-css-a-waste-of-time-in-2026/' | relative_url }}">is learning css a waste of time in 2026</a></h3>
 </div>
 <div class="article-row">
@@ -221,6 +233,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/doj-just-deleted-this-document-from-the-epstein-fi/' | relative_url }}">doj just deleted this document from the epstein fi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/doin-it-with-a-555-one-chip-to-rule-them-all/' | relative_url }}">doin it with a 555 one chip to rule them all</a></h3>
 </div>
 <div class="article-row">
@@ -273,7 +289,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/antirender-remove-the-glossy-shine-on-architectura/' | relative_url }}">antirender remove the glossy shine on architectura</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/anthropic-ai-assisted-coding-doesnt-show-efficienc/' | relative_url }}">anthropic ai assisted coding doesnt show efficienc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/a-judge-gave-the-fbi-permission-to-attempt-to-bypa/' | relative_url }}">a judge gave the fbi permission to attempt to bypa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
