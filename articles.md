@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/teslas-robotaxi-crash-rate-is-way-worse-than-we-fi/' | relative_url }}">teslas robotaxi crash rate is way worse than we fi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/study-used-evs-are-the-cheapest-cars-to-ownperiod/' | relative_url }}">study used evs are the cheapest cars to ownperiod</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/show-hn-amla-sandbox-wasm-bash-shell-sandbox-for-a/' | relative_url }}">show hn amla sandbox wasm bash shell sandbox for a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/richard-feynman-side-hustles/' | relative_url }}">richard feynman side hustles</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/quack-cluster-a-serverless-distributed-sql-query-e/' | relative_url }}">quack cluster a serverless distributed sql query e</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
@@ -113,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/microsoft-is-quietly-walking-back-windows-11s-ai-o/' | relative_url }}">microsoft is quietly walking back windows 11s ai o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/meta-can-read-your-whatsapp-chats/' | relative_url }}">meta can read your whatsapp chats</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/is-learning-css-a-waste-of-time-in-2026/' | relative_url }}">is learning css a waste of time in 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/implementing-a-tiny-cpu-rasterizer-2024/' | relative_url }}">implementing a tiny cpu rasterizer 2024</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
@@ -190,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/challenge-to-compress-1m-rows-to-the-smallest-poss/' | relative_url }}">challenge to compress 1m rows to the smallest poss</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/buttered-crumpet-a-custom-typeface-for-wallace-and/' | relative_url }}">buttered crumpet a custom typeface for wallace and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
