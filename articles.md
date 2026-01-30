@@ -21,7 +21,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/the-dank-case-for-scrolling-window-managers/' | relative_url }}">the dank case for scrolling window managers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/solving-fossils-ascii-art-captcha-in-171-character/' | relative_url }}">solving fossils ascii art captcha in 171 character</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/moltbook/' | relative_url }}">moltbook</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/is-learning-css-a-waste-of-time-in-2026/' | relative_url }}">is learning css a waste of time in 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/i-built-vancamera-foss-secure-zero-config-android/' | relative_url }}">i built vancamera foss secure zero config android</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/got-roasted-for-my-octopus-gpu-post-went-back-and/' | relative_url }}">got roasted for my octopus gpu post went back and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
@@ -46,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/beta-testing-of-webusbunpinner-a-tool-to-investiga/' | relative_url }}">beta testing of webusbunpinner a tool to investiga</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/backseat-software/' | relative_url }}">backseat software</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
