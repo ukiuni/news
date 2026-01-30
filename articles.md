@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/vitamin-d-supplements-cut-heart-attack-risk-by-52/' | relative_url }}">vitamin d supplements cut heart attack risk by 52</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/vcad-free-brep-cad-in-the-browser/' | relative_url }}">vcad free brep cad in the browser</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/silver-plunges-30-in-worst-day-since-1980-gold-tum/' | relative_url }}">silver plunges 30 in worst day since 1980 gold tum</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/show-hn-i-built-an-ai-conversation-partner-to-prac/' | relative_url }}">show hn i built an ai conversation partner to prac</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
@@ -246,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/email-experiments-filtering-out-external-images/' | relative_url }}">email experiments filtering out external images</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/el0n-msk-had-more-extensive-ties-to-epstein-than-p/' | relative_url }}">el0n msk had more extensive ties to epstein than p</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
