@@ -97,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/software-survival-30/' | relative_url }}">software survival 30</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/software-pump-and-dump/' | relative_url }}">software pump and dump</a></h3>
 </div>
 <div class="article-row">
@@ -118,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/quack-cluster-a-serverless-distributed-sql-query-e/' | relative_url }}">quack cluster a serverless distributed sql query e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/peerweb-decentralized-website-hosting-via-webtorre/' | relative_url }}">peerweb decentralized website hosting via webtorre</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
@@ -274,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/buttered-crumpet-a-custom-typeface-for-wallace-and/' | relative_url }}">buttered crumpet a custom typeface for wallace and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/bluesky-2025-transparency-report/' | relative_url }}">bluesky 2025 transparency report</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
