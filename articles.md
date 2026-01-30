@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/software-pump-and-dump/' | relative_url }}">software pump and dump</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/openclaw-moltbot-renamed-again/' | relative_url }}">openclaw moltbot renamed again</a></h3>
 </div>
 <div class="article-row">
@@ -61,7 +65,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/gog-linux-the-next-major-frontier-for-gaming-as-it/' | relative_url }}">gog linux the next major frontier for gaming as it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/github-copilot-cli-challenge-badges-are-here-28-ch/' | relative_url }}">github copilot cli challenge badges are here 28 ch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/doin-it-with-a-555-one-chip-to-rule-them-all/' | relative_url }}">doin it with a 555 one chip to rule them all</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
