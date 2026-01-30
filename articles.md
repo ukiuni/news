@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/anthropic-ai-assisted-coding-doesnt-show-efficienc/' | relative_url }}">anthropic ai assisted coding doesnt show efficienc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/9front-os/' | relative_url }}">9front os</a></h3>
 </div>
 <div class="article-row">
