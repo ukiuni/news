@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/washington-post-raid-is-a-frightening-reminder-tur/' | relative_url }}">washington post raid is a frightening reminder tur</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/unpopular-opinion-i-stopped-coding-on-weekends-and/' | relative_url }}">unpopular opinion i stopped coding on weekends and</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/the-slopaganda-era-10-ai-images-posted-by-the-whit/' | relative_url }}">the slopaganda era 10 ai images posted by the whit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/the-national-herbarium-of-ireland-digital-collecti/' | relative_url }}">the national herbarium of ireland digital collecti</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
@@ -89,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/right-wing-media-attempt-to-justify-baseless-consp/' | relative_url }}">right wing media attempt to justify baseless consp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/richard-feynman-side-hustles/' | relative_url }}">richard feynman side hustles</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/microsoft-tumbled-10-in-a-day-and-isnt-recovering/' | relative_url }}">microsoft tumbled 10 in a day and isnt recovering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/microsoft-just-killed-the-cover-for-me-excuse-365/' | relative_url }}">microsoft just killed the cover for me excuse 365</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
@@ -170,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/gog-linux-the-next-major-frontier-for-gaming-as-it/' | relative_url }}">gog linux the next major frontier for gaming as it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/30</span>
+  <h3><a href="{{ '/2026/01/30/gnu-units/' | relative_url }}">gnu units</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
