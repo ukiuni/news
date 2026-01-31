@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/the-film-students-who-can-no-longer-sit-through-fi/' | relative_url }}">the film students who can no longer sit through fi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/the-dumbest-performance-fix-ever/' | relative_url }}">the dumbest performance fix ever</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/six-simple-sudoku-solvers-prolog/' | relative_url }}">six simple sudoku solvers prolog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/show-hn-phage-explorer/' | relative_url }}">show hn phage explorer</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/p-vs-np-and-the-difficulty-of-computation-a-ruliol/' | relative_url }}">p vs np and the difficulty of computation a ruliol</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/nvidias-10-year-effort-to-make-the-shield-tv-the-m/' | relative_url }}">nvidias 10 year effort to make the shield tv the m</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
@@ -169,7 +181,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/cpython-internals-explained/' | relative_url }}">cpython internals explained</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/book-of-verse/' | relative_url }}">book of verse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/bill-gates-denies-completely-false-claims-in-jeffr/' | relative_url }}">bill gates denies completely false claims in jeffr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
@@ -182,6 +202,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/ashcan-comic/' | relative_url }}">ashcan comic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/animated-avif-for-the-modern-web/' | relative_url }}">animated avif for the modern web</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
