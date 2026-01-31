@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/youtube-blocks-background-video-playback-on-brave/' | relative_url }}">youtube blocks background video playback on brave</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/the-worst-programmer-is-your-past-self-and-other-e/' | relative_url }}">the worst programmer is your past self and other e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/the-state-of-garnet-2026/' | relative_url }}">the state of garnet 2026</a></h3>
 </div>
 <div class="article-row">
