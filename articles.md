@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/the-saddest-moment-2013-pdf/' | relative_url }}">the saddest moment 2013 pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/the-most-important-code-is-the-code-no-one-owns/' | relative_url }}">the most important code is the code no one owns</a></h3>
 </div>
 <div class="article-row">
@@ -121,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/show-hn-minimal-open-source-community-driven-harde/' | relative_url }}">show hn minimal open source community driven harde</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/show-hn-i-trained-a-9m-speech-model-to-fix-my-mand/' | relative_url }}">show hn i trained a 9m speech model to fix my mand</a></h3>
 </div>
 <div class="article-row">
@@ -177,6 +185,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/jeffrey-epstein-sent-five-nights-at-freddys-porn-v/' | relative_url }}">jeffrey epstein sent five nights at freddys porn v</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/jeffrey-epstein-emails-claim-bill-gates-hid-std-fr/' | relative_url }}">jeffrey epstein emails claim bill gates hid std fr</a></h3>
 </div>
 <div class="article-row">
@@ -185,11 +197,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/in-praise-of-dry-run/' | relative_url }}">in praise of dry run</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/ices-surveillance-app-is-a-techno-authoritarian-ni/' | relative_url }}">ices surveillance app is a techno authoritarian ni</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/ice-protester-nicole-cleland-a-56-year-old-residen/' | relative_url }}">ice protester nicole cleland a 56 year old residen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/ice-is-using-medicaid-data-to-find-out-where-immig/' | relative_url }}">ice is using medicaid data to find out where immig</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
@@ -233,6 +253,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/emails-show-us-commerce-secretary-howard-lutnick-p/' | relative_url }}">emails show us commerce secretary howard lutnick p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/direct-current-data-centers/' | relative_url }}">direct current data centers</a></h3>
 </div>
 <div class="article-row">
@@ -246,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/cpython-internals-explained/' | relative_url }}">cpython internals explained</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/claude-code-is-your-customer/' | relative_url }}">claude code is your customer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
@@ -302,6 +330,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/a-glimpse-at-computings-quantum-centric-future/' | relative_url }}">a glimpse at computings quantum centric future</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/a-cloud-native-zero-ops-replicated-state-machine-b/' | relative_url }}">a cloud native zero ops replicated state machine b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/30</span>
