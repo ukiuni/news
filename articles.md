@@ -77,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/ev-battery-intelligence-challenge-evbic-national-h/' | relative_url }}">ev battery intelligence challenge evbic national h</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/book-of-verse/' | relative_url }}">book of verse</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/ai-code-review-prompts-initiative-making-progress/' | relative_url }}">ai code review prompts initiative making progress</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/academic-why-the-cloud-still-feels-like-the-90s-in/' | relative_url }}">academic why the cloud still feels like the 90s in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
