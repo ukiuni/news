@@ -8,6 +8,14 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/roots-is-a-game-server-daemon-that-manages-docker/' | relative_url }}">roots is a game server daemon that manages docker</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/p-vs-np-and-the-difficulty-of-computation-a-ruliol/' | relative_url }}">p vs np and the difficulty of computation a ruliol</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/wisconsin-communities-signed-secrecy-deals-for-bil/' | relative_url }}">wisconsin communities signed secrecy deals for bil</a></h3>
 </div>
