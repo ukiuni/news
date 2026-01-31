@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/wikipedia-sandbox/' | relative_url }}">wikipedia sandbox</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/why-url-cleaning-is-important-while-browsing/' | relative_url }}">why url cleaning is important while browsing</a></h3>
 </div>
 <div class="article-row">
@@ -85,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/the-80-problem-in-agentic-coding-addy-osmani/' | relative_url }}">the 80 problem in agentic coding addy osmani</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/the-100b-megadeal-between-openai-and-nvidia-is-on/' | relative_url }}">the 100b megadeal between openai and nvidia is on</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/taking-a-look-at-openclaw-clawdbot/' | relative_url }}">taking a look at openclaw clawdbot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/swift-is-a-more-convenient-rust/' | relative_url }}">swift is a more convenient rust</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
@@ -173,6 +185,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/nintendo-ds-code-editor-and-scriptable-game-engine/' | relative_url }}">nintendo ds code editor and scriptable game engine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/nasas-wb-57-crash-lands-at-houston/' | relative_url }}">nasas wb 57 crash lands at houston</a></h3>
 </div>
 <div class="article-row">
@@ -237,6 +253,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/how-do-teams-actually-handle-localization-during-d/' | relative_url }}">how do teams actually handle localization during d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/guix-system-first-impressions-as-a-nix-user/' | relative_url }}">guix system first impressions as a nix user</a></h3>
 </div>
 <div class="article-row">
@@ -261,6 +281,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/ferrari-vs-markets/' | relative_url }}">ferrari vs markets</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/faster-package-builds-using-icecream-and-a-mac/' | relative_url }}">faster package builds using icecream and a mac</a></h3>
 </div>
 <div class="article-row">
@@ -270,6 +294,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/euro-firms-must-ditch-uncle-sams-clouds-and-go-eu/' | relative_url }}">euro firms must ditch uncle sams clouds and go eu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/essay-why-big-tech-leaders-destroy-value-when-iden/' | relative_url }}">essay why big tech leaders destroy value when iden</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
@@ -342,6 +370,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/academic-why-the-cloud-still-feels-like-the-90s-in/' | relative_url }}">academic why the cloud still feels like the 90s in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/a-study-says-gray-hair-may-be-reversible/' | relative_url }}">a study says gray hair may be reversible</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
