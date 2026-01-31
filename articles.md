@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/why-url-cleaning-is-important-while-browsing/' | relative_url }}">why url cleaning is important while browsing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/the-worst-programmer-is-your-past-self-and-other-e/' | relative_url }}">the worst programmer is your past self and other e</a></h3>
 </div>
 <div class="article-row">
@@ -89,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/ices-surveillance-app-is-a-techno-authoritarian-ni/' | relative_url }}">ices surveillance app is a techno authoritarian ni</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/ice-protester-nicole-cleland-a-56-year-old-residen/' | relative_url }}">ice protester nicole cleland a 56 year old residen</a></h3>
 </div>
 <div class="article-row">
@@ -101,7 +109,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/guix-system-first-impressions-as-a-nix-user/' | relative_url }}">guix system first impressions as a nix user</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/fosdem-2026-live-streaming/' | relative_url }}">fosdem 2026 live streaming</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/ev-battery-intelligence-challenge-evbic-national-h/' | relative_url }}">ev battery intelligence challenge evbic national h</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/euro-firms-must-ditch-uncle-sams-clouds-and-go-eu/' | relative_url }}">euro firms must ditch uncle sams clouds and go eu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
@@ -114,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/autonomous-iac-drift-when-ai-remediation-reverses/' | relative_url }}">autonomous iac drift when ai remediation reverses</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/automatic-programming/' | relative_url }}">automatic programming</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
