@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/the-dumbest-performance-fix-ever/' | relative_url }}">the dumbest performance fix ever</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/the-100b-megadeal-between-openai-and-nvidia-is-on/' | relative_url }}">the 100b megadeal between openai and nvidia is on</a></h3>
 </div>
 <div class="article-row">
@@ -65,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/my-ridiculously-robust-photo-management-system-imm/' | relative_url }}">my ridiculously robust photo management system imm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/kindler-a-new-lua-based-build-system-designed-to-r/' | relative_url }}">kindler a new lua based build system designed to r</a></h3>
 </div>
 <div class="article-row">
@@ -97,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/direct-current-data-centers/' | relative_url }}">direct current data centers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/book-of-verse/' | relative_url }}">book of verse</a></h3>
 </div>
 <div class="article-row">
@@ -118,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/academic-why-the-cloud-still-feels-like-the-90s-in/' | relative_url }}">academic why the cloud still feels like the 90s in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/a-step-behind-the-bleeding-edge-a-philosophy-on-ai/' | relative_url }}">a step behind the bleeding edge a philosophy on ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
