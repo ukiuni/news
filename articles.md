@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/autonomous-iac-drift-when-ai-remediation-reverses/' | relative_url }}">autonomous iac drift when ai remediation reverses</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/ai-code-review-prompts-initiative-making-progress/' | relative_url }}">ai code review prompts initiative making progress</a></h3>
 </div>
 <div class="article-row">
