@@ -17,6 +17,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in/' | relative_url }}">we have ipinfo at home or how to geolocate ips in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/uk-internet-providers-bailout-cancelled-because-ra/' | relative_url }}">uk internet providers bailout cancelled because ra</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/the-worst-programmer-is-your-past-self-and-other-e/' | relative_url }}">the worst programmer is your past self and other e</a></h3>
 </div>
 <div class="article-row">
@@ -146,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/an-anecdote-about-backward-compatibility/' | relative_url }}">an anecdote about backward compatibility</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/amazons-spending-on-melania-is-a-barely-concealed/' | relative_url }}">amazons spending on melania is a barely concealed</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
