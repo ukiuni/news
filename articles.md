@@ -16,6 +16,14 @@ permalink: /articles/
   <h3><a href="{{ '/2026/01/31/p-vs-np-and-the-difficulty-of-computation-a-ruliol/' | relative_url }}">p vs np and the difficulty of computation a ruliol</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/kindler-a-new-lua-based-build-system-designed-to-r/' | relative_url }}">kindler a new lua based build system designed to r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/jeffrey-epstein-was-permanently-banned-from-xbox-l/' | relative_url }}">jeffrey epstein was permanently banned from xbox l</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">01/30</span>
   <h3><a href="{{ '/2026/01/30/wisconsin-communities-signed-secrecy-deals-for-bil/' | relative_url }}">wisconsin communities signed secrecy deals for bil</a></h3>
 </div>
