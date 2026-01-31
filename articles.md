@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/what-it-actually-took-to-build-reliable-multi-moni/' | relative_url }}">what it actually took to build reliable multi moni</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in/' | relative_url }}">we have ipinfo at home or how to geolocate ips in</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/roots-is-a-game-server-daemon-that-manages-docker/' | relative_url }}">roots is a game server daemon that manages docker</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/quaternion-algebras/' | relative_url }}">quaternion algebras</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
