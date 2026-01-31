@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/why-i-am-moving-away-from-scala/' | relative_url }}">why i am moving away from scala</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/what-it-actually-took-to-build-reliable-multi-moni/' | relative_url }}">what it actually took to build reliable multi moni</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/the-worst-programmer-is-your-past-self-and-other-e/' | relative_url }}">the worst programmer is your past self and other e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/the-tv-industry-finally-concedes-that-the-future-m/' | relative_url }}">the tv industry finally concedes that the future m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/the-surprising-attention-on-sprites-exedev-and-she/' | relative_url }}">the surprising attention on sprites exedev and she</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
@@ -70,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/sumerian-star-map-recorded-the-impact-of-an-astero/' | relative_url }}">sumerian star map recorded the impact of an astero</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/students-using-humanizer-programs-to-beat-accusati/' | relative_url }}">students using humanizer programs to beat accusati</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
@@ -177,7 +193,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/genode-os-is-a-tool-kit-for-building-highly-secure/' | relative_url }}">genode os is a tool kit for building highly secure</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/fosdem-2026-live-streaming/' | relative_url }}">fosdem 2026 live streaming</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/finland-to-end-uncontrolled-human-experiment-with/' | relative_url }}">finland to end uncontrolled human experiment with</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
