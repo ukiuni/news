@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/taking-a-look-at-openclaw-clawdbot/' | relative_url }}">taking a look at openclaw clawdbot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/sumerian-star-map-recorded-the-impact-of-an-astero/' | relative_url }}">sumerian star map recorded the impact of an astero</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/six-simple-sudoku-solvers-prolog/' | relative_url }}">six simple sudoku solvers prolog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/single-entry-point-layer-is-underrated/' | relative_url }}">single entry point layer is underrated</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
@@ -122,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/my-ridiculously-robust-photo-management-system-imm/' | relative_url }}">my ridiculously robust photo management system imm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/mobile-carriers-can-get-your-gps-location/' | relative_url }}">mobile carriers can get your gps location</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
@@ -169,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/faster-package-builds-using-icecream-and-a-mac/' | relative_url }}">faster package builds using icecream and a mac</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/ev-battery-intelligence-challenge-evbic-national-h/' | relative_url }}">ev battery intelligence challenge evbic national h</a></h3>
 </div>
 <div class="article-row">
@@ -202,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/ashcan-comic/' | relative_url }}">ashcan comic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/apple-platform-security-jan-2026-pdf/' | relative_url }}">apple platform security jan 2026 pdf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
