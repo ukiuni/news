@@ -85,7 +85,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/q-learning-agent/' | relative_url }}">q learning agent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
   <h3><a href="{{ '/2026/01/31/p-vs-np-and-the-difficulty-of-computation-a-ruliol/' | relative_url }}">p vs np and the difficulty of computation a ruliol</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">01/31</span>
+  <h3><a href="{{ '/2026/01/31/nasas-wb-57-crash-lands-at-houston/' | relative_url }}">nasas wb 57 crash lands at houston</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
