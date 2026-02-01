@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/researchers-find-thousands-of-openclaw-instances-e/' | relative_url }}">researchers find thousands of openclaw instances e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/reliable-25-gigabit-ethernet-via-thunderbolt/' | relative_url }}">reliable 25 gigabit ethernet via thunderbolt</a></h3>
 </div>
 <div class="article-row">
@@ -141,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/i-taught-my-neighbor-to-keep-the-volume-down/' | relative_url }}">i taught my neighbor to keep the volume down</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/i-am-building-a-payment-switch-and-would-appreciat/' | relative_url }}">i am building a payment switch and would appreciat</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/fosdem-2026-open-source-conference-in-brussels-day/' | relative_url }}">fosdem 2026 open source conference in brussels day</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/forget-technical-debt/' | relative_url }}">forget technical debt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
