@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/the-history-of-c-and-typescript-with-anders-hejlsb/' | relative_url }}">the history of c and typescript with anders hejlsb</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/sparse-file-lru-cache/' | relative_url }}">sparse file lru cache</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/andreessens-folly-the-false-dichotomy-of-software/' | relative_url }}">andreessens folly the false dichotomy of software</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/amazon-shuts-down-controversial-payment-method/' | relative_url }}">amazon shuts down controversial payment method</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
