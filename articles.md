@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/why-tiktoks-first-week-of-american-ownership-was-a/' | relative_url }}">why tiktoks first week of american ownership was a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/why-is-this-country-speaking-about-ai-like-its-a-f/' | relative_url }}">why is this country speaking about ai like its a f</a></h3>
 </div>
 <div class="article-row">
@@ -37,7 +41,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/the-api-tooling-crisis-why-developers-are-abandoni/' | relative_url }}">the api tooling crisis why developers are abandoni</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/sparse-file-lru-cache/' | relative_url }}">sparse file lru cache</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/spacex-seeks-fcc-approval-to-launch-1-million-data/' | relative_url }}">spacex seeks fcc approval to launch 1 million data</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
@@ -101,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/micropythonos-graphical-operating-system-delivers/' | relative_url }}">micropythonos graphical operating system delivers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/list-animals-until-failure/' | relative_url }}">list animals until failure</a></h3>
 </div>
 <div class="article-row">
@@ -157,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/ashby-taught-us-we-have-to-fight-fire-with-fire/' | relative_url }}">ashby taught us we have to fight fire with fire</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/apple-1-computer-prototype-board-0-sold-for-275m/' | relative_url }}">apple 1 computer prototype board 0 sold for 275m</a></h3>
 </div>
 <div class="article-row">
@@ -174,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/amazon-shuts-down-controversial-payment-method/' | relative_url }}">amazon shuts down controversial payment method</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/adventure-game-studio-oss-software-for-creating-ad/' | relative_url }}">adventure game studio oss software for creating ad</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
