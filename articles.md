@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/sparse-file-lru-cache/' | relative_url }}">sparse file lru cache</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/scientist-who-helped-eradicate-smallpox-dies-at-ag/' | relative_url }}">scientist who helped eradicate smallpox dies at ag</a></h3>
 </div>
 <div class="article-row">
@@ -37,7 +41,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/nonograms-a-practical-guide-with-interactive-examp/' | relative_url }}">nonograms a practical guide with interactive examp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/list-animals-until-failure/' | relative_url }}">list animals until failure</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/git-cola-the-highly-caffeinated-git-gui/' | relative_url }}">git cola the highly caffeinated git gui</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
