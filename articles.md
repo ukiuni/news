@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/there-is-no-skill-in-ai-coding/' | relative_url }}">there is no skill in ai coding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/the-history-of-c-and-typescript-with-anders-hejlsb/' | relative_url }}">the history of c and typescript with anders hejlsb</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/scientist-who-helped-eradicate-smallpox-dies-at-ag/' | relative_url }}">scientist who helped eradicate smallpox dies at ag</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/reliable-25-gigabit-ethernet-via-thunderbolt/' | relative_url }}">reliable 25 gigabit ethernet via thunderbolt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
@@ -98,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/data-processing-benchmark-featuring-rust-go-swift/' | relative_url }}">data processing benchmark featuring rust go swift</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/coffee-as-a-staining-agent-substitute-in-electron/' | relative_url }}">coffee as a staining agent substitute in electron</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
