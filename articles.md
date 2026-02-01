@@ -137,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/linuxs-b4-kernel-development-tool-now-dog-feeding/' | relative_url }}">linuxs b4 kernel development tool now dog feeding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/i-am-building-a-payment-switch-and-would-appreciat/' | relative_url }}">i am building a payment switch and would appreciat</a></h3>
 </div>
 <div class="article-row">
@@ -177,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/converting-floats-to-strings-quickly/' | relative_url }}">converting floats to strings quickly</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/contracts-in-nix/' | relative_url }}">contracts in nix</a></h3>
 </div>
 <div class="article-row">
@@ -189,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/chinas-gold-fever-sparks-us1-billion-scandal-as-tr/' | relative_url }}">chinas gold fever sparks us1 billion scandal as tr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/cells-use-bioelectricity-to-coordinate-and-make-gr/' | relative_url }}">cells use bioelectricity to coordinate and make gr</a></h3>
 </div>
 <div class="article-row">
@@ -198,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/ashby-taught-us-we-have-to-fight-fire-with-fire/' | relative_url }}">ashby taught us we have to fight fire with fire</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/apple-our-philosophy-is-to-provide-software-for-ou/' | relative_url }}">apple our philosophy is to provide software for ou</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
