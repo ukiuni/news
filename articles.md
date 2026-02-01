@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/visualjj-jujutsu-in-visual-studio-code/' | relative_url }}">visualjj jujutsu in visual studio code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/this-year-in-llvm-2025/' | relative_url }}">this year in llvm 2025</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/sometimes-your-job-is-to-stay-the-hell-out-of-the/' | relative_url }}">sometimes your job is to stay the hell out of the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/solving-package-management-via-hypergraph-dependen/' | relative_url }}">solving package management via hypergraph dependen</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
@@ -85,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/how-to-scale-a-system-from-0-to-10m-users/' | relative_url }}">how to scale a system from 0 to 10m users</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/how-apple-hooks-fifty-thousand-methods/' | relative_url }}">how apple hooks fifty thousand methods</a></h3>
 </div>
 <div class="article-row">
@@ -109,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/csam-using-streamer-lacari-caught-red-handed-by-mi/' | relative_url }}">csam using streamer lacari caught red handed by mi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/coffee-as-a-staining-agent-substitute-in-electron/' | relative_url }}">coffee as a staining agent substitute in electron</a></h3>
 </div>
 <div class="article-row">
@@ -130,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/andreessens-folly-the-false-dichotomy-of-software/' | relative_url }}">andreessens folly the false dichotomy of software</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/amiga-unix-amix/' | relative_url }}">amiga unix amix</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
