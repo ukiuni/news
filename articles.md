@@ -13,11 +13,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/quality-is-a-hard-sell-in-big-tech/' | relative_url }}">quality is a hard sell in big tech</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/opentreesorg-2024/' | relative_url }}">opentreesorg 2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/gaming-market-melts-down-after-google-reveals-new/' | relative_url }}">gaming market melts down after google reveals new</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/florida-couple-claims-fertility-clinic-error-led-t/' | relative_url }}">florida couple claims fertility clinic error led t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/data-processing-benchmark-featuring-rust-go-swift/' | relative_url }}">data processing benchmark featuring rust go swift</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/andreessens-folly-the-false-dichotomy-of-software/' | relative_url }}">andreessens folly the false dichotomy of software</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
