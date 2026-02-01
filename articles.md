@@ -13,7 +13,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/real-engineering-failures-instead-of-success-stori/' | relative_url }}">real engineering failures instead of success stori</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/quality-is-a-hard-sell-in-big-tech/' | relative_url }}">quality is a hard sell in big tech</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/pg_tracing-distributed-tracing-for-postgresql/' | relative_url }}">pg_tracing distributed tracing for postgresql</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
@@ -22,6 +30,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/openclaw-security-assessment-by-zeroleaks-pdf/' | relative_url }}">openclaw security assessment by zeroleaks pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/nvidia-ceo-pushes-back-against-report-that-his-com/' | relative_url }}">nvidia ceo pushes back against report that his com</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/list-animals-until-failure/' | relative_url }}">list animals until failure</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
@@ -34,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/data-processing-benchmark-featuring-rust-go-swift/' | relative_url }}">data processing benchmark featuring rust go swift</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/cells-use-bioelectricity-to-coordinate-and-make-gr/' | relative_url }}">cells use bioelectricity to coordinate and make gr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
