@@ -9,11 +9,27 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/why-is-this-country-speaking-about-ai-like-its-a-f/' | relative_url }}">why is this country speaking about ai like its a f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/this-year-in-llvm-2025/' | relative_url }}">this year in llvm 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/the-history-of-c-and-typescript-with-anders-hejlsb/' | relative_url }}">the history of c and typescript with anders hejlsb</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/the-book-of-pf-4th-edition/' | relative_url }}">the book of pf 4th edition</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/sparse-file-lru-cache/' | relative_url }}">sparse file lru cache</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/sometimes-your-job-is-to-stay-the-hell-out-of-the/' | relative_url }}">sometimes your job is to stay the hell out of the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
@@ -53,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/how-apple-hooks-fifty-thousand-methods/' | relative_url }}">how apple hooks fifty thousand methods</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/git-cola-the-highly-caffeinated-git-gui/' | relative_url }}">git cola the highly caffeinated git gui</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/florida-couple-claims-fertility-clinic-error-led-t/' | relative_url }}">florida couple claims fertility clinic error led t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/drawings-of-the-elements-of-cms-detector-in-the-st/' | relative_url }}">drawings of the elements of cms detector in the st</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
