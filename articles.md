@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/what-i-learned-building-an-opinionated-and-minimal/' | relative_url }}">what i learned building an opinionated and minimal</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/this-year-in-llvm-2025/' | relative_url }}">this year in llvm 2025</a></h3>
 </div>
 <div class="article-row">
@@ -65,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/netbird-a-german-tailscale-alternative-p2p-wiregua/' | relative_url }}">netbird a german tailscale alternative p2p wiregua</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/list-animals-until-failure/' | relative_url }}">list animals until failure</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/amazon-shuts-down-controversial-payment-method/' | relative_url }}">amazon shuts down controversial payment method</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/a-way-to-run-ansible-219-on-old-operating-systems/' | relative_url }}">a way to run ansible 219 on old operating systems</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">01/31</span>
