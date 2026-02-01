@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/coding-agent-vms-on-nixos-with-microvmnix/' | relative_url }}">coding agent vms on nixos with microvmnix</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/cells-use-bioelectricity-to-coordinate-and-make-gr/' | relative_url }}">cells use bioelectricity to coordinate and make gr</a></h3>
 </div>
 <div class="article-row">
