@@ -29,7 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/using-robots-to-generate-puzzles-for-humans/' | relative_url }}">using robots to generate puzzles for humans</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/us-committee-is-reconsidering-all-vaccine-recommen/' | relative_url }}">us committee is reconsidering all vaccine recommen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/toxin-stops-colon-cancer-growth-without-harming-he/' | relative_url }}">toxin stops colon cancer growth without harming he</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/til-apple-broke-time-machine-again-on-tahoe/' | relative_url }}">til apple broke time machine again on tahoe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
@@ -46,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/the-book-of-pf-4th-edition/' | relative_url }}">the book of pf 4th edition</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/the-birth-of-a-dialogue-why-im-building-tabularis/' | relative_url }}">the birth of a dialogue why im building tabularis</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
@@ -178,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/01</span>
   <h3><a href="{{ '/2026/02/01/florida-couple-claims-fertility-clinic-error-led-t/' | relative_url }}">florida couple claims fertility clinic error led t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/01</span>
+  <h3><a href="{{ '/2026/02/01/efficient-string-compression-for-modern-database-s/' | relative_url }}">efficient string compression for modern database s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/01</span>
