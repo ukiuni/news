@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/waymo-seeking-about-16b-near-110b-valuation/' | relative_url }}">waymo seeking about 16b near 110b valuation</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/vibe-easy-vm-sandboxes-for-llm-agents-on-macos/' | relative_url }}">vibe easy vm sandboxes for llm agents on macos</a></h3>
 </div>
 <div class="article-row">
@@ -73,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/state-of-the-art-of-biological-computing-ewelina-k/' | relative_url }}">state of the art of biological computing ewelina k</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/show-hn-wikipedia-as-a-doomscrollable-social-media/' | relative_url }}">show hn wikipedia as a doomscrollable social media</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/ratchets-in-software-development/' | relative_url }}">ratchets in software development</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/peloton-lays-off-11-percent-of-its-staff-just-a-fe/' | relative_url }}">peloton lays off 11 percent of its staff just a fe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -138,6 +150,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/how-computers-work-explained-from-first-principles/' | relative_url }}">how computers work explained from first principles</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/greenland-tensions-harden-europes-push-for-energy/' | relative_url }}">greenland tensions harden europes push for energy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/geologists-may-have-solved-mystery-of-green-rivers/' | relative_url }}">geologists may have solved mystery of green rivers</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -186,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/actors-a-model-of-concurrent-computation-pdf/' | relative_url }}">actors a model of concurrent computation pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/4x-faster-network-file-sync-with-rclone-vs-rsync-2/' | relative_url }}">4x faster network file sync with rclone vs rsync 2</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
