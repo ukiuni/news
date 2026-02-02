@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/waymo-closes-us-16bn-round-at-record-us-110bn-valu/' | relative_url }}">waymo closes us 16bn round at record us 110bn valu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/vibe-easy-vm-sandboxes-for-llm-agents-on-macos/' | relative_url }}">vibe easy vm sandboxes for llm agents on macos</a></h3>
 </div>
 <div class="article-row">
@@ -73,7 +77,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/the-largest-number-representable-in-64-bits/' | relative_url }}">the largest number representable in 64 bits</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/the-disconnected-git-workflow/' | relative_url }}">the disconnected git workflow</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/the-codex-app/' | relative_url }}">the codex app</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -137,6 +149,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/nvidia-shares-are-down-after-a-report-that-its-ope/' | relative_url }}">nvidia shares are down after a report that its ope</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/notepad-hijacked-by-state-sponsored-actors/' | relative_url }}">notepad hijacked by state sponsored actors</a></h3>
 </div>
 <div class="article-row">
@@ -194,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/geologists-may-have-solved-mystery-of-green-rivers/' | relative_url }}">geologists may have solved mystery of green rivers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/exclusive-eu-wants-defence-data-secured-without-us/' | relative_url }}">exclusive eu wants defence data secured without us</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
