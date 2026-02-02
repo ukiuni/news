@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/zig-libc/' | relative_url }}">zig libc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/zero-knowledge-leaks-implementation-flaws-in-zk-pr/' | relative_url }}">zero knowledge leaks implementation flaws in zk pr</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +22,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/xai-joins-spacex/' | relative_url }}">xai joins spacex</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/whats-your-email-setup/' | relative_url }}">whats your email setup</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -85,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/the-tsas-new-45-fee-to-fly-without-id-is-illegal/' | relative_url }}">the tsas new 45 fee to fly without id is illegal</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/the-largest-number-representable-in-64-bits/' | relative_url }}">the largest number representable in 64 bits</a></h3>
 </div>
 <div class="article-row">
@@ -126,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/should-junior-developers-still-learn-javascript-th/' | relative_url }}">should junior developers still learn javascript th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/setting-up-openclaw-on-exedev-with-discord/' | relative_url }}">setting up openclaw on exedev with discord</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -286,6 +302,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/being-sane-in-insane-places-1973-pdf/' | relative_url }}">being sane in insane places 1973 pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/austrian-watchdog-orders-microsoft-to-stop-trackin/' | relative_url }}">austrian watchdog orders microsoft to stop trackin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
