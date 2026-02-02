@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/should-junior-developers-still-learn-javascript-th/' | relative_url }}">should junior developers still learn javascript th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/selfish-ai/' | relative_url }}">selfish ai</a></h3>
 </div>
 <div class="article-row">
@@ -57,7 +61,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/ratchets-in-software-development/' | relative_url }}">ratchets in software development</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/notepad-hijacked-by-state-sponsored-actors/' | relative_url }}">notepad hijacked by state sponsored actors</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/migrating-to-gtk3-re-factor/' | relative_url }}">migrating to gtk3 re factor</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
