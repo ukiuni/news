@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/termux/' | relative_url }}">termux</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/show-hn-wikipedia-as-a-doomscrollable-social-media/' | relative_url }}">show hn wikipedia as a doomscrollable social media</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/resurrecting-crimsonland/' | relative_url }}">resurrecting crimsonland</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/real-time-3d-shader-on-the-game-boy-color/' | relative_url }}">real time 3d shader on the game boy color</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -105,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/eu-must-become-a-genuine-federation-to-avoid-deind/' | relative_url }}">eu must become a genuine federation to avoid deind</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/ending-15-years-of-subprocess-polling/' | relative_url }}">ending 15 years of subprocess polling</a></h3>
 </div>
 <div class="article-row">
@@ -121,7 +133,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/claude-code-is-suddenly-everywhere-inside-microsof/' | relative_url }}">claude code is suddenly everywhere inside microsof</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/audio-on-hp300/' | relative_url }}">audio on hp300</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/applications-where-agents-are-first-class-citizens/' | relative_url }}">applications where agents are first class citizens</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
