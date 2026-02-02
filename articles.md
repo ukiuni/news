@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/show-hn-apate-api-mockingprototyping-server-and-ru/' | relative_url }}">show hn apate api mockingprototyping server and ru</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/should-junior-developers-still-learn-javascript-th/' | relative_url }}">should junior developers still learn javascript th</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/ratchets-in-software-development/' | relative_url }}">ratchets in software development</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/patric-ridell-iso-standardization-for-c-through-si/' | relative_url }}">patric ridell iso standardization for c through si</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -94,6 +102,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/how-computers-work-explained-from-first-principles/' | relative_url }}">how computers work explained from first principles</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/ending-15-years-of-subprocess-polling/' | relative_url }}">ending 15 years of subprocess polling</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/did-ai-take-your-job-or-was-your-employer-ai-washi/' | relative_url }}">did ai take your job or was your employer ai washi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
