@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/todd-c-miller-sudo-maintainer-for-over-30-years/' | relative_url }}">todd c miller sudo maintainer for over 30 years</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/to-every-developer-close-to-burnout-read-this-thes/' | relative_url }}">to every developer close to burnout read this thes</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/technology-the-nearly-perfect-usb-cable-tester-doe/' | relative_url }}">technology the nearly perfect usb cable tester doe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/state-of-webassembly-2026/' | relative_url }}">state of webassembly 2026</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -145,7 +153,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/linux-from-scratch-ends-sysvinit-support/' | relative_url }}">linux from scratch ends sysvinit support</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/jsongrep-query-json-using-regular-expressions-over/' | relative_url }}">jsongrep query json using regular expressions over</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/intro-to-cstml-or-xml-meets-json/' | relative_url }}">intro to cstml or xml meets json</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -201,7 +217,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/being-sane-in-insane-places-1973-pdf/' | relative_url }}">being sane in insane places 1973 pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/audio-on-hp300/' | relative_url }}">audio on hp300</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/artificial-intelligence-researchers-hit-by-flood-o/' | relative_url }}">artificial intelligence researchers hit by flood o</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -222,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/actors-a-model-of-concurrent-computation-pdf/' | relative_url }}">actors a model of concurrent computation pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/a-supabase-misconfiguration-exposed-every-api-key/' | relative_url }}">a supabase misconfiguration exposed every api key</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
