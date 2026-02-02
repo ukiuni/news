@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/we-asked-15000-european-devs-about-jobs-salaries-a/' | relative_url }}">we asked 15000 european devs about jobs salaries a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/we-as-a-society-peaked-in-the-90s/' | relative_url }}">we as a society peaked in the 90s</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +70,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/how-computers-work-explained-from-first-principles/' | relative_url }}">how computers work explained from first principles</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/data-management-systems-never-die-ibm-db2-is-still/' | relative_url }}">data management systems never die ibm db2 is still</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/compiling-rust-to-readable-c-with-eurydice/' | relative_url }}">compiling rust to readable c with eurydice</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
