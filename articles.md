@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/notepad-hijacked-by-state-sponsored-actors/' | relative_url }}">notepad hijacked by state sponsored actors</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/jsongrep-query-json-using-regular-expressions-over/' | relative_url }}">jsongrep query json using regular expressions over</a></h3>
 </div>
 <div class="article-row">
