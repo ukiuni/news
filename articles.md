@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/they-lied-to-you-building-software-is-hard/' | relative_url }}">they lied to you building software is hard</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/the-world-is-trying-to-log-off-us-tech/' | relative_url }}">the world is trying to log off us tech</a></h3>
 </div>
 <div class="article-row">
@@ -110,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/resurrecting-crimsonland/' | relative_url }}">resurrecting crimsonland</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/removing-tahoes-unwanted-menu-icons/' | relative_url }}">removing tahoes unwanted menu icons</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -177,6 +185,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/hacking-moltbook-the-ai-social-network-any-human-c/' | relative_url }}">hacking moltbook the ai social network any human c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/greenland-tensions-harden-europes-push-for-energy/' | relative_url }}">greenland tensions harden europes push for energy</a></h3>
 </div>
 <div class="article-row">
@@ -186,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/eu-must-become-a-genuine-federation-to-avoid-deind/' | relative_url }}">eu must become a genuine federation to avoid deind</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/epa-advances-farmers-right-to-repair/' | relative_url }}">epa advances farmers right to repair</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -238,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/ai-slop-is-transforming-social-media-and-a-backlas/' | relative_url }}">ai slop is transforming social media and a backlas</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/advancing-ai-benchmarking-with-game-arena/' | relative_url }}">advancing ai benchmarking with game arena</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
