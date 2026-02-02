@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/technology-the-nearly-perfect-usb-cable-tester-doe/' | relative_url }}">technology the nearly perfect usb cable tester doe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/show-hn-wikipedia-as-a-doomscrollable-social-media/' | relative_url }}">show hn wikipedia as a doomscrollable social media</a></h3>
 </div>
 <div class="article-row">
@@ -126,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/inside-lodashs-security-reset-and-maintenance-rebo/' | relative_url }}">inside lodashs security reset and maintenance rebo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/hypergrowth-isnt-always-easy/' | relative_url }}">hypergrowth isnt always easy</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
