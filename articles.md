@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/what-schema-validation-misses-tracking-response-st/' | relative_url }}">what schema validation misses tracking response st</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/we-as-a-society-peaked-in-the-90s/' | relative_url }}">we as a society peaked in the 90s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/upcoming-iphone-a-flip-phone-with-a-square-foldabl/' | relative_url }}">upcoming iphone a flip phone with a square foldabl</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -21,7 +29,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/time-machine-style-backups-with-rsync-2018/' | relative_url }}">time machine style backups with rsync 2018</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/show-hn-wikipedia-as-a-doomscrollable-social-media/' | relative_url }}">show hn wikipedia as a doomscrollable social media</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/jsongrep-query-json-using-regular-expressions-over/' | relative_url }}">jsongrep query json using regular expressions over</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/audio-on-hp300/' | relative_url }}">audio on hp300</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/actors-a-model-of-concurrent-computation-pdf/' | relative_url }}">actors a model of concurrent computation pdf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
