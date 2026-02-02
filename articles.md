@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/zero-knowledge-leaks-implementation-flaws-in-zk-pr/' | relative_url }}">zero knowledge leaks implementation flaws in zk pr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
 </div>
 <div class="article-row">
@@ -53,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/the-world-is-trying-to-log-off-us-tech/' | relative_url }}">the world is trying to log off us tech</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/the-disconnected-git-workflow/' | relative_url }}">the disconnected git workflow</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/resurrecting-email-notifications-on-a-legacy-nas/' | relative_url }}">resurrecting email notifications on a legacy nas</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/resurrecting-crimsonland/' | relative_url }}">resurrecting crimsonland</a></h3>
 </div>
 <div class="article-row">
@@ -97,7 +109,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/nano-vllm-how-a-vllm-style-inference-engine-works/' | relative_url }}">nano vllm how a vllm style inference engine works</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/migrating-to-gtk3-re-factor/' | relative_url }}">migrating to gtk3 re factor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/maliciouscorgi-ai-extensions-send-your-code-to-chi/' | relative_url }}">maliciouscorgi ai extensions send your code to chi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -137,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/chinas-byd-vehicle-sales-fall-for-fifth-month-in-a/' | relative_url }}">chinas byd vehicle sales fall for fifth month in a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/audio-on-hp300/' | relative_url }}">audio on hp300</a></h3>
 </div>
 <div class="article-row">
@@ -146,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/apples-macbook-pro-dfu-port-documentation-is-wrong/' | relative_url }}">apples macbook pro dfu port documentation is wrong</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/adboost-a-browser-extension-that-adds-ads-to-every/' | relative_url }}">adboost a browser extension that adds ads to every</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
