@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/xai-joins-spacex/' | relative_url }}">xai joins spacex</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
 </div>
 <div class="article-row">
@@ -101,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/stelvio-ship-python-to-aws/' | relative_url }}">stelvio ship python to aws</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/state-of-webassembly-2026/' | relative_url }}">state of webassembly 2026</a></h3>
 </div>
 <div class="article-row">
@@ -142,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/ratchets-in-software-development/' | relative_url }}">ratchets in software development</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/predicting-mathrandom-in-firefox-using-z3-smt-solv/' | relative_url }}">predicting mathrandom in firefox using z3 smt solv</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -217,6 +229,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/github-experience-various-partial-outagesdegradati/' | relative_url }}">github experience various partial outagesdegradati</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/geologists-may-have-solved-mystery-of-green-rivers/' | relative_url }}">geologists may have solved mystery of green rivers</a></h3>
 </div>
 <div class="article-row">
@@ -246,6 +262,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/data-management-systems-never-die-ibm-db2-is-still/' | relative_url }}">data management systems never die ibm db2 is still</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/court-orders-restart-of-all-us-offshore-wind-const/' | relative_url }}">court orders restart of all us offshore wind const</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -282,6 +302,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/apples-macbook-pro-dfu-port-documentation-is-wrong/' | relative_url }}">apples macbook pro dfu port documentation is wrong</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/anki-ownership-transferred-to-ankihub/' | relative_url }}">anki ownership transferred to ankihub</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
