@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/your-career-ladder-is-rewarding-the-wrong-behavior/' | relative_url }}">your career ladder is rewarding the wrong behavior</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
 </div>
 <div class="article-row">
@@ -173,6 +177,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/mattermost-say-they-will-not-clarify-what-license/' | relative_url }}">mattermost say they will not clarify what license</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/maliciouscorgi-ai-extensions-send-your-code-to-chi/' | relative_url }}">maliciouscorgi ai extensions send your code to chi</a></h3>
 </div>
 <div class="article-row">
@@ -210,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/geologists-may-have-solved-mystery-of-green-rivers/' | relative_url }}">geologists may have solved mystery of green rivers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/firefox-is-adding-a-switch-to-turn-ai-features-off/' | relative_url }}">firefox is adding a switch to turn ai features off</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
