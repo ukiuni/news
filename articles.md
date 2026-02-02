@@ -129,6 +129,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/my-five-stages-of-ai-grief/' | relative_url }}">my five stages of ai grief</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/my-experience-with-vibe-coding/' | relative_url }}">my experience with vibe coding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/migrating-to-gtk3-re-factor/' | relative_url }}">migrating to gtk3 re factor</a></h3>
 </div>
 <div class="article-row">
@@ -181,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/common-webhook-security-mistakes-raw-body-replay-a/' | relative_url }}">common webhook security mistakes raw body replay a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/claude-code-is-suddenly-everywhere-inside-microsof/' | relative_url }}">claude code is suddenly everywhere inside microsof</a></h3>
 </div>
 <div class="article-row">
@@ -198,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/apples-macbook-pro-dfu-port-documentation-is-wrong/' | relative_url }}">apples macbook pro dfu port documentation is wrong</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/ai-slop-is-transforming-social-media-and-a-backlas/' | relative_url }}">ai slop is transforming social media and a backlas</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
