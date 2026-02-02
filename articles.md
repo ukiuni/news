@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/vibe-easy-vm-sandboxes-for-llm-agents-on-macos/' | relative_url }}">vibe easy vm sandboxes for llm agents on macos</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/upcoming-iphone-a-flip-phone-with-a-square-foldabl/' | relative_url }}">upcoming iphone a flip phone with a square foldabl</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/audio-on-hp300/' | relative_url }}">audio on hp300</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/apples-macbook-pro-dfu-port-documentation-is-wrong/' | relative_url }}">apples macbook pro dfu port documentation is wrong</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
