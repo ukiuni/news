@@ -45,6 +45,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/inside-lodashs-security-reset-and-maintenance-rebo/' | relative_url }}">inside lodashs security reset and maintenance rebo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/how-computers-work-explained-from-first-principles/' | relative_url }}">how computers work explained from first principles</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/audio-on-hp300/' | relative_url }}">audio on hp300</a></h3>
 </div>
 <div class="article-row">
