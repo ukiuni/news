@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/what-schema-validation-misses-tracking-response-st/' | relative_url }}">what schema validation misses tracking response st</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/show-hn-wikipedia-as-a-doomscrollable-social-media/' | relative_url }}">show hn wikipedia as a doomscrollable social media</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/resurrecting-crimsonland/' | relative_url }}">resurrecting crimsonland</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
