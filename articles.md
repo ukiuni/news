@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/what-most-people-miss-about-getting-promoted-by-yu/' | relative_url }}">what most people miss about getting promoted by yu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/we-asked-15000-european-devs-about-jobs-salaries-a/' | relative_url }}">we asked 15000 european devs about jobs salaries a</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/vibe-easy-vm-sandboxes-for-llm-agents-on-macos/' | relative_url }}">vibe easy vm sandboxes for llm agents on macos</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/usaco-2nd-contest/' | relative_url }}">usaco 2nd contest</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
@@ -42,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/time-machine-style-backups-with-rsync-2018/' | relative_url }}">time machine style backups with rsync 2018</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/the-disconnected-git-workflow/' | relative_url }}">the disconnected git workflow</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
