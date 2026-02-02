@@ -13,6 +13,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/treasures-found-on-hs2-route-stored-in-secret-ware/' | relative_url }}">treasures found on hs2 route stored in secret ware</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/to-every-developer-close-to-burnout-read-this-thes/' | relative_url }}">to every developer close to burnout read this thes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
+  <h3><a href="{{ '/2026/02/02/jsongrep-query-json-using-regular-expressions-over/' | relative_url }}">jsongrep query json using regular expressions over</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/32-year-old-programmer-in-china-allegedly-dies-fro/' | relative_url }}">32 year old programmer in china allegedly dies fro</a></h3>
 </div>
 <div class="article-row">
