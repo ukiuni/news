@@ -29,7 +29,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/the-periodicity-paradox-why-sleep-breaks-your-even/' | relative_url }}">the periodicity paradox why sleep breaks your even</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/the-hot-mess-of-ai/' | relative_url }}">the hot mess of ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/the-everdeck-a-universal-card-system-2019/' | relative_url }}">the everdeck a universal card system 2019</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
@@ -97,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/prek-a-better-faster-drop-in-pre-commit-replacemen/' | relative_url }}">prek a better faster drop in pre commit replacemen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/palantir-ceo-defends-surveillance-tech-as-us-gover/' | relative_url }}">palantir ceo defends surveillance tech as us gover</a></h3>
 </div>
 <div class="article-row">
@@ -130,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/net-maui-vs-flutter/' | relative_url }}">net maui vs flutter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/mozilla-unveils-kill-switch-to-disable-all-firefox/' | relative_url }}">mozilla unveils kill switch to disable all firefox</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
@@ -189,6 +205,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/easily-write-bash-with-a-transpiler/' | relative_url }}">easily write bash with a transpiler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/defining-safe-hardware-design-pdf/' | relative_url }}">defining safe hardware design pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/decentralizing-my-smartphone-with-single-purpose-d/' | relative_url }}">decentralizing my smartphone with single purpose d</a></h3>
 </div>
 <div class="article-row">
@@ -206,6 +230,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/carnegie-mellon-unversity-computer-club-ftp-server/' | relative_url }}">carnegie mellon unversity computer club ftp server</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/can-you-implement-a-database-query-cache-in-rust/' | relative_url }}">can you implement a database query cache in rust</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
