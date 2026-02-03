@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/palantir-ceo-defends-surveillance-tech-as-us-gover/' | relative_url }}">palantir ceo defends surveillance tech as us gover</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/painful-side-effect-of-statins-explained-after-dec/' | relative_url }}">painful side effect of statins explained after dec</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/openais-codex-app-wants-to-replace-your-ide-im-not/' | relative_url }}">openais codex app wants to replace your ide im not</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/open-source-security-in-spite-of-ai/' | relative_url }}">open source security in spite of ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
@@ -101,11 +109,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/local-tunnels-how-to-access-remote-ssh-server-behi/' | relative_url }}">local tunnels how to access remote ssh server behi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/lnai-define-ai-coding-tool-configs-once-sync-to-cl/' | relative_url }}">lnai define ai coding tool configs once sync to cl</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/kubernetes-multiple-issues-in-ingress-nginx/' | relative_url }}">kubernetes multiple issues in ingress nginx</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/kde-plasma-login-manager-wont-support-systemd-free/' | relative_url }}">kde plasma login manager wont support systemd free</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
@@ -126,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/fintech-ceo-and-forbes-30-under-30-alum-has-been-c/' | relative_url }}">fintech ceo and forbes 30 under 30 alum has been c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/curated-list-of-1000-opensource-alternatives-to-pr/' | relative_url }}">curated list of 1000 opensource alternatives to pr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
