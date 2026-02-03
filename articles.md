@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/rust-in-the-netbsd-kernel-and-other-odd-decisions/' | relative_url }}">rust in the netbsd kernel and other odd decisions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/rust-coreutils-continues-working-toward-100-gnu-co/' | relative_url }}">rust coreutils continues working toward 100 gnu co</a></h3>
 </div>
 <div class="article-row">
@@ -45,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/net-maui-vs-flutter/' | relative_url }}">net maui vs flutter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/looking-for-front-end-dev-high-schooler/' | relative_url }}">looking for front end dev high schooler</a></h3>
 </div>
 <div class="article-row">
@@ -57,11 +65,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/coding-assistants-are-solving-the-wrong-problem/' | relative_url }}">coding assistants are solving the wrong problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/carnegie-mellon-unversity-computer-club-ftp-server/' | relative_url }}">carnegie mellon unversity computer club ftp server</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/adobe-animate-is-shutting-down-on-march-1st-as-com/' | relative_url }}">adobe animate is shutting down on march 1st as com</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/82-percent-of-us-based-game-developers-support-uni/' | relative_url }}">82 percent of us based game developers support uni</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
