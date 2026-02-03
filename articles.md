@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/rentahuman-the-meatspace-layer-for-ai/' | relative_url }}">rentahuman the meatspace layer for ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/painful-side-effect-of-statins-explained-after-dec/' | relative_url }}">painful side effect of statins explained after dec</a></h3>
 </div>
 <div class="article-row">
@@ -89,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/kubernetes-multiple-issues-in-ingress-nginx/' | relative_url }}">kubernetes multiple issues in ingress nginx</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/julia/' | relative_url }}">julia</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/floppinux-an-embedded-linux-on-a-single-floppy-202/' | relative_url }}">floppinux an embedded linux on a single floppy 202</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/fintech-ceo-and-forbes-30-under-30-alum-has-been-c/' | relative_url }}">fintech ceo and forbes 30 under 30 alum has been c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
