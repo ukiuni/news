@@ -8,6 +8,10 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/rust-193-performance-improvements-in-format-and-fr/' | relative_url }}">rust 193 performance improvements in format and fr</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/02</span>
   <h3><a href="{{ '/2026/02/02/zig-libc/' | relative_url }}">zig libc</a></h3>
 </div>
