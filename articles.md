@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/web-security-the-modern-browser-model/' | relative_url }}">web security the modern browser model</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/the-retro-web/' | relative_url }}">the retro web</a></h3>
 </div>
 <div class="article-row">
@@ -21,7 +25,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/rust-coreutils-continues-working-toward-100-gnu-co/' | relative_url }}">rust coreutils continues working toward 100 gnu co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/rust-193-performance-improvements-in-format-and-fr/' | relative_url }}">rust 193 performance improvements in format and fr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/requiem-for-a-film-maker-darren-aronofskys-ai-revo/' | relative_url }}">requiem for a film maker darren aronofskys ai revo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
