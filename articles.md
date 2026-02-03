@@ -53,7 +53,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/the-compiler-never-used-sarcasm-why-ai-feels-unsaf/' | relative_url }}">the compiler never used sarcasm why ai feels unsaf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/tech-billionaires-fuel-us-presidents-429mn-haul-ah/' | relative_url }}">tech billionaires fuel us presidents 429mn haul ah</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/sustainability-in-software-development-robby-russe/' | relative_url }}">sustainability in software development robby russe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
@@ -110,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/qwen3-coder-next/' | relative_url }}">qwen3 coder next</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/puget-systems-most-reliable-hardware-of-2025/' | relative_url }}">puget systems most reliable hardware of 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
@@ -254,6 +266,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/curated-list-of-1000-opensource-alternatives-to-pr/' | relative_url }}">curated list of 1000 opensource alternatives to pr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/computing-at-83729-digitssecond-with-95-efficiency/' | relative_url }}">computing at 83729 digitssecond with 95 efficiency</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
