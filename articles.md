@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/xcode-263-unlocks-the-power-of-agentic-coding/' | relative_url }}">xcode 263 unlocks the power of agentic coding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/whatsapp-encryption-a-lawsuit-and-a-lot-of-noise/' | relative_url }}">whatsapp encryption a lawsuit and a lot of noise</a></h3>
 </div>
 <div class="article-row">
@@ -177,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/i-made-20-gdpr-deletion-requests-12-were-ignored/' | relative_url }}">i made 20 gdpr deletion requests 12 were ignored</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/i-built-an-open-source-math-engine-for-igaming-usi/' | relative_url }}">i built an open source math engine for igaming usi</a></h3>
 </div>
 <div class="article-row">
@@ -197,6 +205,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/france-dumps-zoom-and-teams-as-europe-seeks-digita/' | relative_url }}">france dumps zoom and teams as europe seeks digita</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/floppinux-an-embedded-linux-on-a-single-floppy-202/' | relative_url }}">floppinux an embedded linux on a single floppy 202</a></h3>
 </div>
 <div class="article-row">
@@ -206,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/easily-write-bash-with-a-transpiler/' | relative_url }}">easily write bash with a transpiler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/deno-sandbox/' | relative_url }}">deno sandbox</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
@@ -222,6 +238,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/coding-assistants-are-solving-the-wrong-problem/' | relative_url }}">coding assistants are solving the wrong problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/chinese-labs-now-hold-all-six-top-spots-on-open-ai/' | relative_url }}">chinese labs now hold all six top spots on open ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
