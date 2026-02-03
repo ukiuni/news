@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/whats-up-with-all-those-equals-signs-anyway/' | relative_url }}">whats up with all those equals signs anyway</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/web-security-the-modern-browser-model/' | relative_url }}">web security the modern browser model</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/julia/' | relative_url }}">julia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/from-tobacco-to-ultraprocessed-food-how-industry-f/' | relative_url }}">from tobacco to ultraprocessed food how industry f</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
