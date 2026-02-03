@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/tech-billionaires-fuel-us-presidents-429mn-haul-ah/' | relative_url }}">tech billionaires fuel us presidents 429mn haul ah</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/spain-to-ban-social-media-access-for-under-16s-pm/' | relative_url }}">spain to ban social media access for under 16s pm</a></h3>
 </div>
 <div class="article-row">
@@ -81,7 +85,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/release-of-tura/' | relative_url }}">release of tura</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/redis-caching-finally-explained-without-the-magic/' | relative_url }}">redis caching finally explained without the magic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/qwen3-coder-next/' | relative_url }}">qwen3 coder next</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
@@ -110,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/one-machine-can-go-pretty-far-if-you-build-things/' | relative_url }}">one machine can go pretty far if you build things</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/' | relative_url }}">new york wants to ctrlaltdelete your 3d printer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
@@ -185,7 +201,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/china-is-banning-hidden-electric-door-handles-for/' | relative_url }}">china is banning hidden electric door handles for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/carnegie-mellon-unversity-computer-club-ftp-server/' | relative_url }}">carnegie mellon unversity computer club ftp server</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/bunny-database/' | relative_url }}">bunny database</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
