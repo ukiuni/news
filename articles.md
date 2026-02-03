@@ -9,7 +9,23 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/the-hot-mess-of-ai/' | relative_url }}">the hot mess of ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/the-connection-machine-cm-1-feynman-t-shirt/' | relative_url }}">the connection machine cm 1 feynman t shirt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/rust-193-performance-improvements-in-format-and-fr/' | relative_url }}">rust 193 performance improvements in format and fr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/julia/' | relative_url }}">julia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/adobe-animate-is-shutting-down-on-march-1st-as-com/' | relative_url }}">adobe animate is shutting down on march 1st as com</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>

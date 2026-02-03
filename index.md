@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、言語やツールの進化とプライバシー・規制問題が同時に進行しています。Rustのformat!高速化やzig libc、StelvioでのPythonデプロイ、exe.dev上のOpenClawといった開発者向けの性能・配備改善が目立つ一方、Firefoxの乱数予測やメール運用の議論がセキュリティ面の懸念を喚起しています。加えて、オーストリアの監督当局によるMicrosoftの学習者トラッキング停止命令、TSA手数料の違法判決、沖合風力建設の再開命令、Ankiの所有権移転など規制と業界再編が相次ぎ、プライバシーとビジネスの舵取りが問われています 🚀🔒🌍
+    今日のテック業界では、AIへの注力が既存ツールの終焉を招き（Adobe Animateの3月1日終了）、同時にAIの混乱と倫理議論が熱を帯びています🤖🔥。EU圏でのプライバシー規制が強化され（オーストリアのMicrosoft追及）教育現場の追跡問題が表面化🔒。一方でJuliaやRust 1.93、zig libcなど言語・パフォーマンス改善やOpenClawのようなコミュニティツールが開発者の注目を集め、レトロ文化やハードウェア愛好の話題も続いています⚙️👕。
   </div>
 </div>
