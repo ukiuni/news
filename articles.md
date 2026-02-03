@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/see-how-many-words-you-have-written-in-hacker-news/' | relative_url }}">see how many words you have written in hacker news</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/rust-coreutils-continues-working-toward-100-gnu-co/' | relative_url }}">rust coreutils continues working toward 100 gnu co</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/julia/' | relative_url }}">julia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/floppinux-an-embedded-linux-on-a-single-floppy-202/' | relative_url }}">floppinux an embedded linux on a single floppy 202</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
