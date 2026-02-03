@@ -49,6 +49,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/painful-side-effect-of-statins-explained-after-dec/' | relative_url }}">painful side effect of statins explained after dec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/optimised-implementation-of-cdc-using-a-hybrid-hor/' | relative_url }}">optimised implementation of cdc using a hybrid hor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/openais-codex-app-wants-to-replace-your-ide-im-not/' | relative_url }}">openais codex app wants to replace your ide im not</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/online-community-demise-and-why-dev-is-different-a/' | relative_url }}">online community demise and why dev is different a</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/adobe-animate-is-shutting-down-on-march-1st-as-com/' | relative_url }}">adobe animate is shutting down on march 1st as com</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/a-browser-benchmark-that-actually-uses-all-your-cp/' | relative_url }}">a browser benchmark that actually uses all your cp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
