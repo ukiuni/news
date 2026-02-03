@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/whatsapp-encryption-a-lawsuit-and-a-lot-of-noise/' | relative_url }}">whatsapp encryption a lawsuit and a lot of noise</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/whats-up-with-all-those-equals-signs-anyway/' | relative_url }}">whats up with all those equals signs anyway</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/looking-for-front-end-dev-high-schooler/' | relative_url }}">looking for front end dev high schooler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/lnai-define-ai-coding-tool-configs-once-sync-to-cl/' | relative_url }}">lnai define ai coding tool configs once sync to cl</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
