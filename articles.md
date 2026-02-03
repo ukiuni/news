@@ -93,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/scottt2-specvex-autonomous-line-follower-autonomou/' | relative_url }}">scottt2 specvex autonomous line follower autonomou</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/sandboxing-ai-agents-in-linux/' | relative_url }}">sandboxing ai agents in linux</a></h3>
 </div>
 <div class="article-row">
@@ -149,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/openclaw-is-basically-a-cascade-of-llms-in-prime-p/' | relative_url }}">openclaw is basically a cascade of llms in prime p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/openais-codex-app-wants-to-replace-your-ide-im-not/' | relative_url }}">openais codex app wants to replace your ide im not</a></h3>
 </div>
 <div class="article-row">
@@ -193,6 +201,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/lessons-learned-shipping-500-units-of-my-first-har/' | relative_url }}">lessons learned shipping 500 units of my first har</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/lessons-learned-from-building-ai-analytics-agents/' | relative_url }}">lessons learned from building ai analytics agents</a></h3>
 </div>
 <div class="article-row">
@@ -214,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/java-sucks-2000/' | relative_url }}">java sucks 2000</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/its-reportedly-game-over-for-8k-before-it-even-got/' | relative_url }}">its reportedly game over for 8k before it even got</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
