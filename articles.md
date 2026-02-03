@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/the-retro-web/' | relative_url }}">the retro web</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/the-hot-mess-of-ai/' | relative_url }}">the hot mess of ai</a></h3>
 </div>
 <div class="article-row">
@@ -21,7 +25,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/online-community-demise-and-why-dev-is-different-a/' | relative_url }}">online community demise and why dev is different a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/looking-for-front-end-dev-high-schooler/' | relative_url }}">looking for front end dev high schooler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/julia/' | relative_url }}">julia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/carnegie-mellon-unversity-computer-club-ftp-server/' | relative_url }}">carnegie mellon unversity computer club ftp server</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
