@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/the-cost-of-leaving-a-software-rewrite-on-the-tabl/' | relative_url }}">the cost of leaving a software rewrite on the tabl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/the-connection-machine-cm-1-feynman-t-shirt/' | relative_url }}">the connection machine cm 1 feynman t shirt</a></h3>
 </div>
 <div class="article-row">
@@ -173,11 +177,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/kilobyte-is-precisely-1000-bytes/' | relative_url }}">kilobyte is precisely 1000 bytes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/kde-plasma-login-manager-wont-support-systemd-free/' | relative_url }}">kde plasma login manager wont support systemd free</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/julia/' | relative_url }}">julia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/java-sucks-2000/' | relative_url }}">java sucks 2000</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
@@ -217,7 +229,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/evs-will-probably-cost-less-than-gas-cars-in-five/' | relative_url }}">evs will probably cost less than gas cars in five</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/easily-write-bash-with-a-transpiler/' | relative_url }}">easily write bash with a transpiler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/dog-dies-after-owners-door-allegedly-kicked-in-by/' | relative_url }}">dog dies after owners door allegedly kicked in by</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
@@ -261,6 +281,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/alisql-alibabas-open-source-mysql-with-vector-and/' | relative_url }}">alisql alibabas open source mysql with vector and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/ai-hallucination-squatting-the-new-frontier-of-sup/' | relative_url }}">ai hallucination squatting the new frontier of sup</a></h3>
 </div>
 <div class="article-row">
@@ -278,6 +302,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/82-percent-of-us-based-game-developers-support-uni/' | relative_url }}">82 percent of us based game developers support uni</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/03</span>
+  <h3><a href="{{ '/2026/02/03/221-cannon-road-is-not-for-sale/' | relative_url }}">221 cannon road is not for sale</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/02</span>
