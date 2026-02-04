@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/writing-an-rss-reader-in-80-lines-of-bash/' | relative_url }}">writing an rss reader in 80 lines of bash</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/why-vibe-first-development-collapses-under-its-own/' | relative_url }}">why vibe first development collapses under its own</a></h3>
 </div>
 <div class="article-row">
@@ -33,7 +37,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/the-mathematics-of-tuning-systems/' | relative_url }}">the mathematics of tuning systems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/the-largest-zip-tie-is-nearly-4-feet-long-and-75/' | relative_url }}">the largest zip tie is nearly 4 feet long and 75</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/show-hn-ghidra-mcp-server-110-tools-for-ai-assiste/' | relative_url }}">show hn ghidra mcp server 110 tools for ai assiste</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
@@ -118,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/china-made-loongson-12-core-chip-is-approximately/' | relative_url }}">china made loongson 12 core chip is approximately</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/a-scalable-monorepo-boilerplate-with-nx-nestjs-kaf/' | relative_url }}">a scalable monorepo boilerplate with nx nestjs kaf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
