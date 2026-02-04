@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/spectrum-loses-119000-internet-customers-plans-maj/' | relative_url }}">spectrum loses 119000 internet customers plans maj</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/show-hn-ghidra-mcp-server-110-tools-for-ai-assiste/' | relative_url }}">show hn ghidra mcp server 110 tools for ai assiste</a></h3>
 </div>
 <div class="article-row">
