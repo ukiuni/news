@@ -17,11 +17,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/why-arent-ai-users-honest-about-ais-limitations/' | relative_url }}">why arent ai users honest about ais limitations</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/turning-google-search-into-a-kafka-event-stream-fo/' | relative_url }}">turning google search into a kafka event stream fo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/the-smallest-build-system/' | relative_url }}">the smallest build system</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/the-largest-zip-tie-is-nearly-4-feet-long-and-75/' | relative_url }}">the largest zip tie is nearly 4 feet long and 75</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
