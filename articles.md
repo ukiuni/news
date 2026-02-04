@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/microsoft-has-killed-widgets-six-times-heres-why-t/' | relative_url }}">microsoft has killed widgets six times heres why t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/lg-joins-sony-and-tcl-in-abandoning-8k-tv-market/' | relative_url }}">lg joins sony and tcl in abandoning 8k tv market</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/high-altitude-adventure-with-a-diy-pico-balloon/' | relative_url }}">high altitude adventure with a diy pico balloon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/from-magic-to-malware-how-openclaws-agent-skills-b/' | relative_url }}">from magic to malware how openclaws agent skills b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
