@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/voxtral-transcribe-2/' | relative_url }}">voxtral transcribe 2</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/turning-google-search-into-a-kafka-event-stream-fo/' | relative_url }}">turning google search into a kafka event stream fo</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/the-largest-zip-tie-is-nearly-4-feet-long-and-75/' | relative_url }}">the largest zip tie is nearly 4 feet long and 75</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/sukr-a-minimal-static-site-compiler-in-rust-with-z/' | relative_url }}">sukr a minimal static site compiler in rust with z</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
@@ -137,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/guinea-worm-on-track-to-be-2nd-eradicated-human-di/' | relative_url }}">guinea worm on track to be 2nd eradicated human di</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/from-magic-to-malware-how-openclaws-agent-skills-b/' | relative_url }}">from magic to malware how openclaws agent skills b</a></h3>
 </div>
 <div class="article-row">
@@ -153,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/faster-cheaper-messier-lessons-from-our-switch-to/' | relative_url }}">faster cheaper messier lessons from our switch to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/doom-devs-including-john-romero-respond-to-termina/' | relative_url }}">doom devs including john romero respond to termina</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/data-centers-in-space-makes-no-sense/' | relative_url }}">data centers in space makes no sense</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/cutting-sugar-can-help-brain-cells-survive-after-i/' | relative_url }}">cutting sugar can help brain cells survive after i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
@@ -181,6 +201,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/banks-seek-out-new-buyers-for-oracle-data-centre-l/' | relative_url }}">banks seek out new buyers for oracle data centre l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/attention-at-constant-cost-per-token-via-symmetry/' | relative_url }}">attention at constant cost per token via symmetry</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/adobe-reverses-decision-to-discontinue-animate-apo/' | relative_url }}">adobe reverses decision to discontinue animate apo</a></h3>
 </div>
 <div class="article-row">
@@ -189,7 +217,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/a-sane-but-bull-case-on-clawdbot-openclaw/' | relative_url }}">a sane but bull case on clawdbot openclaw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/a-programmers-guide-to-leaving-github/' | relative_url }}">a programmers guide to leaving github</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/a-case-study-in-pdf-forensics-the-epstein-pdfs/' | relative_url }}">a case study in pdf forensics the epstein pdfs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
