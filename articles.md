@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/pinterest-ceo-rebukes-fires-obstructionist-employe/' | relative_url }}">pinterest ceo rebukes fires obstructionist employe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/notepad-supply-chain-attack-breakdown/' | relative_url }}">notepad supply chain attack breakdown</a></h3>
 </div>
 <div class="article-row">
@@ -49,11 +53,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/i-miss-thinking-hard/' | relative_url }}">i miss thinking hard</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/how-vibe-coding-is-killing-open-source/' | relative_url }}">how vibe coding is killing open source</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/fitting-some-files-through-a-stdout-shaped-hole/' | relative_url }}">fitting some files through a stdout shaped hole</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/doom-devs-including-john-romero-respond-to-termina/' | relative_url }}">doom devs including john romero respond to termina</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
