@@ -9,7 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/why-vibe-first-development-collapses-under-its-own/' | relative_url }}">why vibe first development collapses under its own</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/show-hn-craftplan-i-built-my-wife-a-production-man/' | relative_url }}">show hn craftplan i built my wife a production man</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/notepad-supply-chain-attack-breakdown/' | relative_url }}">notepad supply chain attack breakdown</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/kia-ev-sales-are-in-an-absolute-freefall-theres-mo/' | relative_url }}">kia ev sales are in an absolute freefall theres mo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
