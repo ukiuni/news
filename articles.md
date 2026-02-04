@@ -13,6 +13,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/why-poor-countries-stopped-catching-up/' | relative_url }}">why poor countries stopped catching up</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/the-smallest-build-system/' | relative_url }}">the smallest build system</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/show-hn-craftplan-i-built-my-wife-a-production-man/' | relative_url }}">show hn craftplan i built my wife a production man</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/how-vibe-coding-is-killing-open-source/' | relative_url }}">how vibe coding is killing open source</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/dhs-hunts-down-67-year-old-us-citizen-who-criticiz/' | relative_url }}">dhs hunts down 67 year old us citizen who criticiz</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
