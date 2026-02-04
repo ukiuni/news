@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/fitness-functions-automating-your-architecture-dec/' | relative_url }}">fitness functions automating your architecture dec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/doom-devs-including-john-romero-respond-to-termina/' | relative_url }}">doom devs including john romero respond to termina</a></h3>
 </div>
 <div class="article-row">
