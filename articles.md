@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/what-every-programmer-needs-to-know-about-quantum/' | relative_url }}">what every programmer needs to know about quantum</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/voxtral-transcribe-2/' | relative_url }}">voxtral transcribe 2</a></h3>
 </div>
 <div class="article-row">
@@ -53,7 +57,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/the-great-unwind/' | relative_url }}">the great unwind</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/sukr-a-minimal-static-site-compiler-in-rust-with-z/' | relative_url }}">sukr a minimal static site compiler in rust with z</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/study-emotional-support-from-social-media-found-to/' | relative_url }}">study emotional support from social media found to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
@@ -133,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/in-tehran/' | relative_url }}">in tehran</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/i-prefer-to-pass-secrets-between-programs-through/' | relative_url }}">i prefer to pass secrets between programs through</a></h3>
 </div>
 <div class="article-row">
@@ -206,6 +222,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/cannabis-usage-in-older-adults-linked-to-larger-br/' | relative_url }}">cannabis usage in older adults linked to larger br</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/building-a-24-bit-arcade-crt-display-adapter-from/' | relative_url }}">building a 24 bit arcade crt display adapter from</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
