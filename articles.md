@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/tractor/' | relative_url }}">tractor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/procedures-for-repair-of-potholes-in-asphalt-surfa/' | relative_url }}">procedures for repair of potholes in asphalt surfa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/private-equitys-giant-software-bet-has-been-upende/' | relative_url }}">private equitys giant software bet has been upende</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/notepad-supply-chain-attack-breakdown/' | relative_url }}">notepad supply chain attack breakdown</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/native-ui-toolkit-slint-115-released/' | relative_url }}">native ui toolkit slint 115 released</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
@@ -206,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/attention-at-constant-cost-per-token-via-symmetry/' | relative_url }}">attention at constant cost per token via symmetry</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/ai-bots-are-now-a-signifigant-source-of-web-traffi/' | relative_url }}">ai bots are now a signifigant source of web traffi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
