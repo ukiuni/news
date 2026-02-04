@@ -8,6 +8,26 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/notepad-supply-chain-attack-breakdown/' | relative_url }}">notepad supply chain attack breakdown</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/how-vibe-coding-is-killing-open-source/' | relative_url }}">how vibe coding is killing open source</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/data-centers-in-space-makes-no-sense/' | relative_url }}">data centers in space makes no sense</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/competence-as-tragedy-a-personal-essay-on-craft-be/' | relative_url }}">competence as tragedy a personal essay on craft be</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/1400-year-old-tomb-featuring-giant-owl-sculpture-d/' | relative_url }}">1400 year old tomb featuring giant owl sculpture d</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/03</span>
   <h3><a href="{{ '/2026/02/03/xcode-263-unlocks-the-power-of-agentic-coding/' | relative_url }}">xcode 263 unlocks the power of agentic coding</a></h3>
 </div>
