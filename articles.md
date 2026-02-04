@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/tigerstyle-coding-philosophy-focused-on-safety-per/' | relative_url }}">tigerstyle coding philosophy focused on safety per</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/the-smallest-build-system/' | relative_url }}">the smallest build system</a></h3>
 </div>
 <div class="article-row">
@@ -238,6 +242,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/claude-code-for-infrastructure/' | relative_url }}">claude code for infrastructure</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/claude-code-connect-to-a-local-model-when-your-quo/' | relative_url }}">claude code connect to a local model when your quo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
