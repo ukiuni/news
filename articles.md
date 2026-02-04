@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/yawning-has-an-unexpected-influence-on-the-fluid-i/' | relative_url }}">yawning has an unexpected influence on the fluid i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/writing-an-rss-reader-in-80-lines-of-bash/' | relative_url }}">writing an rss reader in 80 lines of bash</a></h3>
 </div>
 <div class="article-row">
@@ -89,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/recreating-epstein-pdfs-from-raw-encoded-attachmen/' | relative_url }}">recreating epstein pdfs from raw encoded attachmen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/rag-poisoning-how-attackers-corrupt-ai-knowledge-b/' | relative_url }}">rag poisoning how attackers corrupt ai knowledge b</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/microsoft-has-killed-widgets-six-times-heres-why-t/' | relative_url }}">microsoft has killed widgets six times heres why t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/mean-people-fail-2014/' | relative_url }}">mean people fail 2014</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
@@ -225,7 +237,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/claude-code-for-infrastructure/' | relative_url }}">claude code for infrastructure</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/china-made-loongson-12-core-chip-is-approximately/' | relative_url }}">china made loongson 12 core chip is approximately</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/chatgpt-down-openai-chatbot-not-working-as-website/' | relative_url }}">chatgpt down openai chatbot not working as website</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
@@ -241,6 +261,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/bmw-commits-to-subscriptions-even-after-heated-sea/' | relative_url }}">bmw commits to subscriptions even after heated sea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/banks-seek-out-new-buyers-for-oracle-data-centre-l/' | relative_url }}">banks seek out new buyers for oracle data centre l</a></h3>
 </div>
 <div class="article-row">
@@ -250,6 +274,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/arcan-a12-weaving-a-different-web/' | relative_url }}">arcan a12 weaving a different web</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/ai-is-killing-b2b-saas/' | relative_url }}">ai is killing b2b saas</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
