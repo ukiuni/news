@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/turning-google-search-into-a-kafka-event-stream-fo/' | relative_url }}">turning google search into a kafka event stream fo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/the-smallest-build-system/' | relative_url }}">the smallest build system</a></h3>
 </div>
 <div class="article-row">
@@ -37,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/fitting-some-files-through-a-stdout-shaped-hole/' | relative_url }}">fitting some files through a stdout shaped hole</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/dhs-hunts-down-67-year-old-us-citizen-who-criticiz/' | relative_url }}">dhs hunts down 67 year old us citizen who criticiz</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +54,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/competence-as-tragedy-a-personal-essay-on-craft-be/' | relative_url }}">competence as tragedy a personal essay on craft be</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/china-made-loongson-12-core-chip-is-approximately/' | relative_url }}">china made loongson 12 core chip is approximately</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/04</span>
+  <h3><a href="{{ '/2026/02/04/a-programmers-guide-to-leaving-github/' | relative_url }}">a programmers guide to leaving github</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
