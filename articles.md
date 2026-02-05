@@ -37,7 +37,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/the-new-collabora-office-for-desktop/' | relative_url }}">the new collabora office for desktop</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/the-missing-layer/' | relative_url }}">the missing layer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/the-future-was-federated/' | relative_url }}">the future was federated</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -81,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/programming-patterns-the-story-of-the-jacquard-loo/' | relative_url }}">programming patterns the story of the jacquard loo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/postgres-postmaster-does-not-scale/' | relative_url }}">postgres postmaster does not scale</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/nanobot-ultra-lightweight-alternative-to-openclaw/' | relative_url }}">nanobot ultra lightweight alternative to openclaw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/multimodal-prompt-injection-the-polyglot-svg-attac/' | relative_url }}">multimodal prompt injection the polyglot svg attac</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -129,7 +145,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/getting-the-main-thing-right/' | relative_url }}">getting the main thing right</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/fosdem-26-my-hallway-track-takeaways/' | relative_url }}">fosdem 26 my hallway track takeaways</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/fined-48k-for-using-a-jammer-to-keep-commuters-fro/' | relative_url }}">fined 48k for using a jammer to keep commuters fro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
