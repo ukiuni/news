@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/postgres-postmaster-does-not-scale/' | relative_url }}">postgres postmaster does not scale</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/openclaw-is-what-apple-intelligence-should-have-be/' | relative_url }}">openclaw is what apple intelligence should have be</a></h3>
 </div>
 <div class="article-row">
@@ -45,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/googles-gemini-app-has-surpassed-750m-monthly-acti/' | relative_url }}">googles gemini app has surpassed 750m monthly acti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/fbi-stymied-by-apples-lockdown-mode-after-seizing/' | relative_url }}">fbi stymied by apples lockdown mode after seizing</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/as-rocks-may-think/' | relative_url }}">as rocks may think</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/amd-falls-17-posts-worst-day-since-2017-as-lisa-su/' | relative_url }}">amd falls 17 posts worst day since 2017 as lisa su</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
