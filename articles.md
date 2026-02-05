@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/why-ai-generated-code-will-hurt-both-customers-and/' | relative_url }}">why ai generated code will hurt both customers and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/when-internal-hostnames-are-leaked-to-the-clown/' | relative_url }}">when internal hostnames are leaked to the clown</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/state-of-flutter-2026/' | relative_url }}">state of flutter 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/sqldef-idempotent-schema-management-tool-for-mysql/' | relative_url }}">sqldef idempotent schema management tool for mysql</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/sam-altman-got-exceptionally-testy-over-claude-sup/' | relative_url }}">sam altman got exceptionally testy over claude sup</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/ripping-clips-for-youtube-reaction-videos-can-viol/' | relative_url }}">ripping clips for youtube reaction videos can viol</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -145,7 +157,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/github-actions-is-slowly-killing-your-engineering/' | relative_url }}">github actions is slowly killing your engineering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/getting-the-main-thing-right/' | relative_url }}">getting the main thing right</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/gb-renewables-map/' | relative_url }}">gb renewables map</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -162,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/dont-rent-the-cloud-own-instead/' | relative_url }}">dont rent the cloud own instead</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/csrf-protection-in-phoenix-with-sec-fetch-site/' | relative_url }}">csrf protection in phoenix with sec fetch site</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>

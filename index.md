@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、AIのマルチモーダル脆弱性やフェデレーション化が安全性と分散化の議論を一気に加速させている🔐🌐。規制とデータ基盤の再編（違法ジャマー罰金、CIAのWorld Factbook終了）が実務と倫理を揺さぶり、ガバナンスの重要性が増している⚖️。一方で、Collabora OfficeやJacquardの物語、Simply Schemeや「Company as Code」「Architecture for Flow」に見られる設計思想が、新しい開発と組織運営の潮流を形作りつつある✨。
+    今日のテック業界では、セキュリティと法律の衝突が前面に出ており🔒⚖️、CSRF対策やマルチモーダルなプロンプト注入、YouTubeクリップのDMCA判例が注目を集めています。ツールと開発体験の議論も熱く、GitHub Actionsの運用負荷やAI生成コードのリスクが企業と顧客双方に波及する懸念が高まっています🤖💥。一方で、Flutterの未来やフェデレーションの再評価、再エネ地図と技術史の再発見が業界の方向性を形作っています🌱🗺️
   </div>
 </div>
