@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/there-will-come-soft-rains-1950-pdf/' | relative_url }}">there will come soft rains 1950 pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/the-volunteer-wikipedia-army-protecting-against-ai/' | relative_url }}">the volunteer wikipedia army protecting against ai</a></h3>
 </div>
 <div class="article-row">
@@ -145,11 +149,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/on-the-promises-of-high-assurance-cryptography/' | relative_url }}">on the promises of high assurance cryptography</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/on-craft-and-ai/' | relative_url }}">on craft and ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/nanobot-ultra-lightweight-alternative-to-openclaw/' | relative_url }}">nanobot ultra lightweight alternative to openclaw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/my-ai-adoption-journey/' | relative_url }}">my ai adoption journey</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -166,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/making-ferrite-core-inductors-at-home/' | relative_url }}">making ferrite core inductors at home</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/linkedin-checks-for-2953-browser-extensions/' | relative_url }}">linkedin checks for 2953 browser extensions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -274,6 +290,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/architecture-for-flow-susanne-kaiser-amp-james-lew/' | relative_url }}">architecture for flow susanne kaiser amp james lew</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/an-actually-safer-open-source-alternative-to-openc/' | relative_url }}">an actually safer open source alternative to openc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
