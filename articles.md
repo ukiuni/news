@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/valves-steam-machine-has-been-delayed-and-the-ram/' | relative_url }}">valves steam machine has been delayed and the ram</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/striking-a-balance-working-fully-remote-for-nearly/' | relative_url }}">striking a balance working fully remote for nearly</a></h3>
 </div>
 <div class="article-row">
@@ -29,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/learning-low-level-computing-and-c-by-making-a-gam/' | relative_url }}">learning low level computing and c by making a gam</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/intellij-wayland-by-default-in-20261-eap/' | relative_url }}">intellij wayland by default in 20261 eap</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/as-rocks-may-think/' | relative_url }}">as rocks may think</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/a-few-cpu-hardware-bugs/' | relative_url }}">a few cpu hardware bugs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
