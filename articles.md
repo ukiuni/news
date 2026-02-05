@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/trapped-tesla-drivers-911-call-its-on-fire-help-pl/' | relative_url }}">trapped tesla drivers 911 call its on fire help pl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/the-missing-layer/' | relative_url }}">the missing layer</a></h3>
 </div>
 <div class="article-row">
@@ -45,7 +49,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/stop-installing-libraries-10-browser-apis-that-alr/' | relative_url }}">stop installing libraries 10 browser apis that alr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/sqldef-idempotent-schema-management-tool-for-mysql/' | relative_url }}">sqldef idempotent schema management tool for mysql</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/solving-ai-amnesia-building-a-persistent-state-lay/' | relative_url }}">solving ai amnesia building a persistent state lay</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/simply-scheme-introducing-computer-science-1999/' | relative_url }}">simply scheme introducing computer science 1999</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -54,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/satya-nadella-decides-microsoft-needs-an-engineeri/' | relative_url }}">satya nadella decides microsoft needs an engineeri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/sam-altman-got-exceptionally-testy-over-claude-sup/' | relative_url }}">sam altman got exceptionally testy over claude sup</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -121,6 +141,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/company-as-code/' | relative_url }}">company as code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/cia-to-sunset-the-world-factbook/' | relative_url }}">cia to sunset the world factbook</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/child-prodigies-rarely-become-elite-performers/' | relative_url }}">child prodigies rarely become elite performers</a></h3>
 </div>
 <div class="article-row">
@@ -130,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/as-rocks-may-think/' | relative_url }}">as rocks may think</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/architecture-for-flow-susanne-kaiser-amp-james-lew/' | relative_url }}">architecture for flow susanne kaiser amp james lew</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
