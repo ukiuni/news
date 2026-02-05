@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/the-volunteer-wikipedia-army-protecting-against-ai/' | relative_url }}">the volunteer wikipedia army protecting against ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/the-new-collabora-office-for-desktop/' | relative_url }}">the new collabora office for desktop</a></h3>
 </div>
 <div class="article-row">
@@ -205,6 +209,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/european-commission-trials-matrix-to-replace-teams/' | relative_url }}">european commission trials matrix to replace teams</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/dont-rent-the-cloud-own-instead/' | relative_url }}">dont rent the cloud own instead</a></h3>
 </div>
 <div class="article-row">
@@ -214,6 +222,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/company-as-code/' | relative_url }}">company as code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/claude-opus-46/' | relative_url }}">claude opus 46</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
