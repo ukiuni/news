@@ -8,6 +8,38 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/striking-a-balance-working-fully-remote-for-nearly/' | relative_url }}">striking a balance working fully remote for nearly</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/sqldef-idempotent-schema-management-tool-for-mysql/' | relative_url }}">sqldef idempotent schema management tool for mysql</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/proton-mail-open-sourced-the-rust-crates-powering/' | relative_url }}">proton mail open sourced the rust crates powering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/microsofts-copilot-chatbot-is-running-into-problem/' | relative_url }}">microsofts copilot chatbot is running into problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/intellij-wayland-by-default-in-20261-eap/' | relative_url }}">intellij wayland by default in 20261 eap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/fbi-stymied-by-apples-lockdown-mode-after-seizing/' | relative_url }}">fbi stymied by apples lockdown mode after seizing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/as-rocks-may-think/' | relative_url }}">as rocks may think</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/3-teen-sisters-jump-to-their-deaths-from-9th-floor/' | relative_url }}">3 teen sisters jump to their deaths from 9th floor</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/04</span>
   <h3><a href="{{ '/2026/02/04/yawning-has-an-unexpected-influence-on-the-fluid-i/' | relative_url }}">yawning has an unexpected influence on the fluid i</a></h3>
 </div>
