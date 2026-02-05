@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/dont-rent-the-cloud-own-instead/' | relative_url }}">dont rent the cloud own instead</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/child-prodigies-rarely-become-elite-performers/' | relative_url }}">child prodigies rarely become elite performers</a></h3>
 </div>
 <div class="article-row">
