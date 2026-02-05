@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/unsealed-court-documents-show-teen-addiction-was-b/' | relative_url }}">unsealed court documents show teen addiction was b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/unportable-defer-in-c/' | relative_url }}">unportable defer in c</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/the-future-was-federated/' | relative_url }}">the future was federated</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/sudos-maintainer-needs-resources-to-keep-utility-u/' | relative_url }}">sudos maintainer needs resources to keep utility u</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -97,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/senators-ask-meta-why-it-waited-so-long-to-make-te/' | relative_url }}">senators ask meta why it waited so long to make te</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/satya-nadella-decides-microsoft-needs-an-engineeri/' | relative_url }}">satya nadella decides microsoft needs an engineeri</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/postgres-postmaster-does-not-scale/' | relative_url }}">postgres postmaster does not scale</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/pentagon-asked-to-probe-spacex-for-potential-chine/' | relative_url }}">pentagon asked to probe spacex for potential chine</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -181,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/gpt-53-codex/' | relative_url }}">gpt 53 codex</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/googles-gemini-app-has-surpassed-750m-monthly-acti/' | relative_url }}">googles gemini app has surpassed 750m monthly acti</a></h3>
 </div>
 <div class="article-row">
@@ -229,6 +249,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/claude-code-agent-teams/' | relative_url }}">claude code agent teams</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/cia-to-sunset-the-world-factbook/' | relative_url }}">cia to sunset the world factbook</a></h3>
 </div>
 <div class="article-row">
@@ -245,6 +269,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/ardour-90-released/' | relative_url }}">ardour 90 released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/architecture-for-flow-susanne-kaiser-amp-james-lew/' | relative_url }}">architecture for flow susanne kaiser amp james lew</a></h3>
 </div>
 <div class="article-row">
@@ -258,6 +286,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/adobe-animate-will-be-discontinued-effective-march/' | relative_url }}">adobe animate will be discontinued effective march</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/a-small-shared-skill-library-by-builders-for-build/' | relative_url }}">a small shared skill library by builders for build</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
