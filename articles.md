@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/unportable-defer-in-c/' | relative_url }}">unportable defer in c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/udp-vs-tcp-in-multiplayer-gaming-state-synchroniza/' | relative_url }}">udp vs tcp in multiplayer gaming state synchroniza</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/the-missing-layer/' | relative_url }}">the missing layer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/the-junior-developer-is-extinct-and-we-are-creatin/' | relative_url }}">the junior developer is extinct and we are creatin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -105,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/postman-from-api-client-to-everything-app/' | relative_url }}">postman from api client to everything app</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/postgres-postmaster-does-not-scale/' | relative_url }}">postgres postmaster does not scale</a></h3>
 </div>
 <div class="article-row">
@@ -141,6 +153,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/jujutsu-v0380-released/' | relative_url }}">jujutsu v0380 released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/introducing-the-gitbutler-cli/' | relative_url }}">introducing the gitbutler cli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/intellij-wayland-by-default-in-20261-eap/' | relative_url }}">intellij wayland by default in 20261 eap</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/ice-seeks-industry-input-on-ad-tech-location-data/' | relative_url }}">ice seeks industry input on ad tech location data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/i-know-this-will-upset-some-devs-but-tailwind-shad/' | relative_url }}">i know this will upset some devs but tailwind shad</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -238,6 +262,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/3-principles-of-good-incentives/' | relative_url }}">3 principles of good incentives</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/150-mb-minimal-freebsd-installation/' | relative_url }}">150 mb minimal freebsd installation</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
