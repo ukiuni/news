@@ -25,11 +25,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/study-older-cannabis-users-have-larger-brains-bett/' | relative_url }}">study older cannabis users have larger brains bett</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/striking-a-balance-working-fully-remote-for-nearly/' | relative_url }}">striking a balance working fully remote for nearly</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/sqldef-idempotent-schema-management-tool-for-mysql/' | relative_url }}">sqldef idempotent schema management tool for mysql</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/satya-nadella-decides-microsoft-needs-an-engineeri/' | relative_url }}">satya nadella decides microsoft needs an engineeri</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -42,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/openclaw-is-what-apple-intelligence-should-have-be/' | relative_url }}">openclaw is what apple intelligence should have be</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/modernizing-linux-swapping-introducing-the-swap-ta/' | relative_url }}">modernizing linux swapping introducing the swap ta</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -86,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/amazon-expands-layoffs-with-2200-job-cuts/' | relative_url }}">amazon expands layoffs with 2200 job cuts</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/adobe-animate-will-be-discontinued-effective-march/' | relative_url }}">adobe animate will be discontinued effective march</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
