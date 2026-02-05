@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/the-missing-layer/' | relative_url }}">the missing layer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/study-older-cannabis-users-have-larger-brains-bett/' | relative_url }}">study older cannabis users have larger brains bett</a></h3>
 </div>
 <div class="article-row">
@@ -65,11 +69,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/nanobot-ultra-lightweight-alternative-to-openclaw/' | relative_url }}">nanobot ultra lightweight alternative to openclaw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/modernizing-linux-swapping-introducing-the-swap-ta/' | relative_url }}">modernizing linux swapping introducing the swap ta</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/microsofts-copilot-chatbot-is-running-into-problem/' | relative_url }}">microsofts copilot chatbot is running into problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/making-ferrite-core-inductors-at-home/' | relative_url }}">making ferrite core inductors at home</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
