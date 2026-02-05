@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/why-do-you-write/' | relative_url }}">why do you write</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/why-ai-generated-code-will-hurt-both-customers-and/' | relative_url }}">why ai generated code will hurt both customers and</a></h3>
 </div>
 <div class="article-row">
