@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/winter-olympics-skiers-to-have-crotches-microchipp/' | relative_url }}">winter olympics skiers to have crotches microchipp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/why-more-companies-are-recognizing-the-benefits-of/' | relative_url }}">why more companies are recognizing the benefits of</a></h3>
 </div>
 <div class="article-row">
@@ -22,6 +26,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/when-internal-hostnames-are-leaked-to-the-clown/' | relative_url }}">when internal hostnames are leaked to the clown</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/we-tasked-opus-46-using-agent-teams-to-build-a-c-c/' | relative_url }}">we tasked opus 46 using agent teams to build a c c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -174,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/microsofts-copilot-chatbot-is-running-into-problem/' | relative_url }}">microsofts copilot chatbot is running into problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/menuetos-a-gui-os-that-boots-from-a-single-floppy/' | relative_url }}">menuetos a gui os that boots from a single floppy</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
