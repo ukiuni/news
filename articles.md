@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/openclaw-is-what-apple-intelligence-should-have-be/' | relative_url }}">openclaw is what apple intelligence should have be</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/microsofts-copilot-chatbot-is-running-into-problem/' | relative_url }}">microsofts copilot chatbot is running into problem</a></h3>
 </div>
 <div class="article-row">
