@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/when-internal-hostnames-are-leaked-to-the-clown/' | relative_url }}">when internal hostnames are leaked to the clown</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/valves-steam-machine-has-been-delayed-and-the-ram/' | relative_url }}">valves steam machine has been delayed and the ram</a></h3>
 </div>
 <div class="article-row">
@@ -49,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/ice-seeks-industry-input-on-ad-tech-location-data/' | relative_url }}">ice seeks industry input on ad tech location data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/googles-gemini-app-has-surpassed-750m-monthly-acti/' | relative_url }}">googles gemini app has surpassed 750m monthly acti</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/amd-falls-17-posts-worst-day-since-2017-as-lisa-su/' | relative_url }}">amd falls 17 posts worst day since 2017 as lisa su</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/amazon-expands-layoffs-with-2200-job-cuts/' | relative_url }}">amazon expands layoffs with 2200 job cuts</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
