@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/we-are-qa-engineers-now/' | relative_url }}">we are qa engineers now</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/valves-steam-machine-has-been-delayed-and-the-ram/' | relative_url }}">valves steam machine has been delayed and the ram</a></h3>
 </div>
 <div class="article-row">
@@ -93,11 +97,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/in-the-end-you-feel-blank-indias-female-workers-wa/' | relative_url }}">in the end you feel blank indias female workers wa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/ice-seeks-industry-input-on-ad-tech-location-data/' | relative_url }}">ice seeks industry input on ad tech location data</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/googles-gemini-app-has-surpassed-750m-monthly-acti/' | relative_url }}">googles gemini app has surpassed 750m monthly acti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/fosdem-26-my-hallway-track-takeaways/' | relative_url }}">fosdem 26 my hallway track takeaways</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
@@ -137,7 +149,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/a-broken-heart/' | relative_url }}">a broken heart</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/3-teen-sisters-jump-to-their-deaths-from-9th-floor/' | relative_url }}">3 teen sisters jump to their deaths from 9th floor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/05</span>
+  <h3><a href="{{ '/2026/02/05/3-principles-of-good-incentives/' | relative_url }}">3 principles of good incentives</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/04</span>
