@@ -21,6 +21,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/pong-cam-my-esp32s3-thinks-its-a-webcam/' | relative_url }}">pong cam my esp32s3 thinks its a webcam</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/i-reversed-tower-of-fantasys-anti-cheat-driver-a-b/' | relative_url }}">i reversed tower of fantasys anti cheat driver a b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/github-actions-is-slowly-killing-your-engineering/' | relative_url }}">github actions is slowly killing your engineering</a></h3>
 </div>
 <div class="article-row">
