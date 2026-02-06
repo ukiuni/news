@@ -12,6 +12,10 @@ permalink: /articles/
   <h3><a href="{{ '/2026/02/06/zig-programming-language-for-systems-development/' | relative_url }}">zig programming language for systems development</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/animated-knots/' | relative_url }}">animated knots</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/05</span>
   <h3><a href="{{ '/2026/02/05/wirths-revenge/' | relative_url }}">wirths revenge</a></h3>
 </div>
