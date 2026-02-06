@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/tiktoks-addictive-design-found-to-be-illegal-in-eu/' | relative_url }}">tiktoks addictive design found to be illegal in eu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/things-unix-can-do-atomically/' | relative_url }}">things unix can do atomically</a></h3>
 </div>
 <div class="article-row">
@@ -37,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/tactical-tornado-is-the-new-default/' | relative_url }}">tactical tornado is the new default</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/systems-thinking/' | relative_url }}">systems thinking</a></h3>
 </div>
 <div class="article-row">
@@ -45,11 +53,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/solving-shrinkwrap-new-experimental-technique/' | relative_url }}">solving shrinkwrap new experimental technique</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/show-hn-artifact-keeper-open-source-artifactorynex/' | relative_url }}">show hn artifact keeper open source artifactorynex</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/show-hn-agent-arena-test-how-manipulation-proof-yo/' | relative_url }}">show hn agent arena test how manipulation proof yo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/redisvalkey-replication-internals-the-architecture/' | relative_url }}">redisvalkey replication internals the architecture</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
@@ -66,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/no-really-bash-is-not-enough-why-large-scale-ci-ne/' | relative_url }}">no really bash is not enough why large scale ci ne</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/nixie-clock-using-neon-lamps-as-logic-elements-200/' | relative_url }}">nixie clock using neon lamps as logic elements 200</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
@@ -114,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/github-actions-is-slowly-killing-your-engineering/' | relative_url }}">github actions is slowly killing your engineering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/big-tech-sees-over-1-trillion-wiped-from-stocks-as/' | relative_url }}">big tech sees over 1 trillion wiped from stocks as</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
