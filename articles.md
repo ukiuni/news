@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/yet-another-windows-update-is-wreaking-havoc-on-ga/' | relative_url }}">yet another windows update is wreaking havoc on ga</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/things-unix-can-do-atomically/' | relative_url }}">things unix can do atomically</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/systems-thinking/' | relative_url }}">systems thinking</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/show-hn-artifact-keeper-open-source-artifactorynex/' | relative_url }}">show hn artifact keeper open source artifactorynex</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
