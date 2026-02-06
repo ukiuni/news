@@ -25,7 +25,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/k-sat-solver-based-on-2-sat-reduction-and-tarjan-a/' | relative_url }}">k sat solver based on 2 sat reduction and tarjan a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/i-reversed-tower-of-fantasys-anti-cheat-driver-a-b/' | relative_url }}">i reversed tower of fantasys anti cheat driver a b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/homeland-security-is-trying-to-force-tech-companie/' | relative_url }}">homeland security is trying to force tech companie</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
