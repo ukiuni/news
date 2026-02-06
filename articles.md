@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/why-cassandra-db-is-highly-scalable-and-extremely/' | relative_url }}">why cassandra db is highly scalable and extremely</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/things-unix-can-do-atomically/' | relative_url }}">things unix can do atomically</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/systems-thinking/' | relative_url }}">systems thinking</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/stay-away-from-my-trash/' | relative_url }}">stay away from my trash</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
@@ -49,7 +57,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/how-to-carry-more-than-your-own-bodyweight-2025/' | relative_url }}">how to carry more than your own bodyweight 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/homeland-security-is-trying-to-force-tech-companie/' | relative_url }}">homeland security is trying to force tech companie</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/harfbuzz-at-20/' | relative_url }}">harfbuzz at 20</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
