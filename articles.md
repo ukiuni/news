@@ -13,7 +13,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/the-rce-that-amd-wont-fix/' | relative_url }}">the rce that amd wont fix</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/the-college-board-is-banning-students-from-using-s/' | relative_url }}">the college board is banning students from using s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/github-actions-is-slowly-killing-your-engineering/' | relative_url }}">github actions is slowly killing your engineering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/animated-knots/' | relative_url }}">animated knots</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/amazon-to-spend-200-billion-on-ai-infrastructure-a/' | relative_url }}">amazon to spend 200 billion on ai infrastructure a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
