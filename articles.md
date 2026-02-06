@@ -49,6 +49,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/plasma-effect/' | relative_url }}">plasma effect</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/no-really-bash-is-not-enough-why-large-scale-ci-ne/' | relative_url }}">no really bash is not enough why large scale ci ne</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/k-sat-solver-based-on-2-sat-reduction-and-tarjan-a/' | relative_url }}">k sat solver based on 2 sat reduction and tarjan a</a></h3>
 </div>
 <div class="article-row">
@@ -69,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/how-i-disabled-13-ai-features-in-windows-11-safely/' | relative_url }}">how i disabled 13 ai features in windows 11 safely</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/homeland-security-is-trying-to-force-tech-companie/' | relative_url }}">homeland security is trying to force tech companie</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/06</span>
   <h3><a href="{{ '/2026/02/06/amazon-to-spend-200-billion-on-ai-infrastructure-a/' | relative_url }}">amazon to spend 200 billion on ai infrastructure a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/06</span>
+  <h3><a href="{{ '/2026/02/06/300-billion-evaporated-the-saas-pocalypse-has-begu/' | relative_url }}">300 billion evaporated the saas pocalypse has begu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/05</span>
