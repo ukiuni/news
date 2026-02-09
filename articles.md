@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/youtube-reaction-videos-could-face-lawsuits-over-r/' | relative_url }}">youtube reaction videos could face lawsuits over r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/you-are-here/' | relative_url }}">you are here</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/tessellation-kit-2016/' | relative_url }}">tessellation kit 2016</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/state-of-ruby-2026/' | relative_url }}">state of ruby 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/sleeper-shells-attackers-are-planting-dormant-back/' | relative_url }}">sleeper shells attackers are planting dormant back</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -165,6 +177,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/long-sought-proof-tames-some-of-maths-unruliest-eq/' | relative_url }}">long sought proof tames some of maths unruliest eq</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/lawmakers-ask-what-it-would-take-to-store-the-inte/' | relative_url }}">lawmakers ask what it would take to store the inte</a></h3>
 </div>
 <div class="article-row">
@@ -213,11 +229,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/discord-will-require-a-face-scan-or-id-for-full-ac/' | relative_url }}">discord will require a face scan or id for full ac</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/custom-firmware-for-the-mz-rh1-ready-for-testing/' | relative_url }}">custom firmware for the mz rh1 ready for testing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/creating-momentum-with-the-value-flywheel-effect-d/' | relative_url }}">creating momentum with the value flywheel effect d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/computers-can-be-understood/' | relative_url }}">computers can be understood</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -242,6 +266,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/before-dashboards-we-had-blinky-lights-martin-thwa/' | relative_url }}">before dashboards we had blinky lights martin thwa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/att-verizon-blocking-release-of-salt-typhoon-secur/' | relative_url }}">att verizon blocking release of salt typhoon secur</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -270,6 +298,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/ai-fatigue-is-real-and-nobody-talks-about-it/' | relative_url }}">ai fatigue is real and nobody talks about it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/ai-doesnt-reduce-workit-intensifies-it/' | relative_url }}">ai doesnt reduce workit intensifies it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/ai-companies-sold-us-their-vision-of-the-future-at/' | relative_url }}">ai companies sold us their vision of the future at</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
