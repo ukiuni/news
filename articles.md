@@ -105,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/ibm-ceo-reveals-when-theyll-know-if-quantum-comput/' | relative_url }}">ibm ceo reveals when theyll know if quantum comput</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/i-built-a-crud-web-api-using-net-minimal-apis-ef-c/' | relative_url }}">i built a crud web api using net minimal apis ef c</a></h3>
 </div>
 <div class="article-row">
