@@ -197,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/luce-first-electric-ferrari-designed-by-lovefrom/' | relative_url }}">luce first electric ferrari designed by lovefrom</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/long-sought-proof-tames-some-of-maths-unruliest-eq/' | relative_url }}">long sought proof tames some of maths unruliest eq</a></h3>
 </div>
 <div class="article-row">
@@ -262,6 +266,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/every-book-recommended-on-the-odd-lots-discord/' | relative_url }}">every book recommended on the odd lots discord</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/eight-more-months-of-agents/' | relative_url }}">eight more months of agents</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
