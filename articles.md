@@ -177,6 +177,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/before-dashboards-we-had-blinky-lights-martin-thwa/' | relative_url }}">before dashboards we had blinky lights martin thwa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/as-ai-very-quickly-blurs-truth-and-fiction-experts/' | relative_url }}">as ai very quickly blurs truth and fiction experts</a></h3>
 </div>
 <div class="article-row">
