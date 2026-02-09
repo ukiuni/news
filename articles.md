@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/tsmc-to-make-advanced-ai-semiconductors-in-japan/' | relative_url }}">tsmc to make advanced ai semiconductors in japan</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/the-silent-death-of-good-code/' | relative_url }}">the silent death of good code</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/sectorc-the-worlds-smallest-functional-c-compiler/' | relative_url }}">sectorc the worlds smallest functional c compiler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/secretspec-07-declarative-secret-generation/' | relative_url }}">secretspec 07 declarative secret generation</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -89,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/making-a-hardware-accelerated-live-tv-player-from/' | relative_url }}">making a hardware accelerated live tv player from</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/lawmakers-ask-what-it-would-take-to-store-the-inte/' | relative_url }}">lawmakers ask what it would take to store the inte</a></h3>
 </div>
 <div class="article-row">
@@ -121,7 +133,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/custom-firmware-for-the-mz-rh1-ready-for-testing/' | relative_url }}">custom firmware for the mz rh1 ready for testing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/code-injections-through-git-commit-messages/' | relative_url }}">code injections through git commit messages</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/claudes-c-compiler-vs-gcc/' | relative_url }}">claudes c compiler vs gcc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -150,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/ai-fatigue-is-real-and-nobody-talks-about-it/' | relative_url }}">ai fatigue is real and nobody talks about it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/above-the-api-what-developers-contribute-when-ai-c/' | relative_url }}">above the api what developers contribute when ai c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
