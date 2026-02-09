@@ -37,11 +37,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/uefi-bindings-for-javascript/' | relative_url }}">uefi bindings for javascript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/uber-ordered-to-pay-85m-over-claim-driver-raped-pa/' | relative_url }}">uber ordered to pay 85m over claim driver raped pa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/tsmc-to-make-advanced-ai-semiconductors-in-japan/' | relative_url }}">tsmc to make advanced ai semiconductors in japan</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/three-cache-layers-between-select-and-disk/' | relative_url }}">three cache layers between select and disk</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/thoughts-on-generating-c/' | relative_url }}">thoughts on generating c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -54,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/the-original-vi-is-a-product-of-its-time-and-its-t/' | relative_url }}">the original vi is a product of its time and its t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/the-little-bool-of-doom/' | relative_url }}">the little bool of doom</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -153,6 +169,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/illinois-man-pleads-guilty-to-hacking-hundreds-of/' | relative_url }}">illinois man pleads guilty to hacking hundreds of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/ibm-ceo-reveals-when-theyll-know-if-quantum-comput/' | relative_url }}">ibm ceo reveals when theyll know if quantum comput</a></h3>
 </div>
 <div class="article-row">
@@ -194,6 +214,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/custom-firmware-for-the-mz-rh1-ready-for-testing/' | relative_url }}">custom firmware for the mz rh1 ready for testing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/creating-momentum-with-the-value-flywheel-effect-d/' | relative_url }}">creating momentum with the value flywheel effect d</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -246,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/ai-fatigue-is-real-and-nobody-talks-about-it/' | relative_url }}">ai fatigue is real and nobody talks about it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/actually-static-when-wordpress-stops-being-the-ene/' | relative_url }}">actually static when wordpress stops being the ene</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
