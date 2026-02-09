@@ -85,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/nobody-knows-how-the-whole-system-works/' | relative_url }}">nobody knows how the whole system works</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/more-mac-malware-from-google-search/' | relative_url }}">more mac malware from google search</a></h3>
 </div>
 <div class="article-row">
@@ -121,11 +125,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/hamming-distance-for-hybrid-search-in-sqlite/' | relative_url }}">hamming distance for hybrid search in sqlite</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/france-murder-trial-complicated-by-twin-brothers-w/' | relative_url }}">france murder trial complicated by twin brothers w</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/florida-lawmakers-advance-e-bike-safety-bill-with/' | relative_url }}">florida lawmakers advance e bike safety bill with</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/fabrice-bellard-big-name-with-groundbreaking-achie/' | relative_url }}">fabrice bellard big name with groundbreaking achie</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
