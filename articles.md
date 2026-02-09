@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/webpack-2026-roadmap/' | relative_url }}">webpack 2026 roadmap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/waymo-admits-that-its-autopilot-is-often-just-guys/' | relative_url }}">waymo admits that its autopilot is often just guys</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/the-original-vi-is-a-product-of-its-time-and-its-t/' | relative_url }}">the original vi is a product of its time and its t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/the-markets-of-old-london-2024/' | relative_url }}">the markets of old london 2024</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -174,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/more-mac-malware-from-google-search/' | relative_url }}">more mac malware from google search</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/mit-living-wage-calculator/' | relative_url }}">mit living wage calculator</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -285,6 +297,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/discord-faces-backlash-over-age-checks-after-data/' | relative_url }}">discord faces backlash over age checks after data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/custom-firmware-for-the-mz-rh1-ready-for-testing/' | relative_url }}">custom firmware for the mz rh1 ready for testing</a></h3>
 </div>
 <div class="article-row">
@@ -329,6 +345,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/atari-2600-raiders-of-the-lost-ark-source-code-com/' | relative_url }}">atari 2600 raiders of the lost ark source code com</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/as-ai-very-quickly-blurs-truth-and-fiction-experts/' | relative_url }}">as ai very quickly blurs truth and fiction experts</a></h3>
 </div>
 <div class="article-row">
@@ -342,6 +362,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/apple-xnu-clutch-scheduler/' | relative_url }}">apple xnu clutch scheduler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/america-has-a-tungsten-problem/' | relative_url }}">america has a tungsten problem</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
