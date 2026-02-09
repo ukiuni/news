@@ -93,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/offpunk-30/' | relative_url }}">offpunk 30</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/nobody-knows-how-the-whole-system-works/' | relative_url }}">nobody knows how the whole system works</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/code-injections-through-git-commit-messages/' | relative_url }}">code injections through git commit messages</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/clean-coder-the-dark-path-2017/' | relative_url }}">clean coder the dark path 2017</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
