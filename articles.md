@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/thought-terminating-clich/' | relative_url }}">thought terminating clich</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/the-silent-death-of-good-code/' | relative_url }}">the silent death of good code</a></h3>
 </div>
 <div class="article-row">
@@ -61,7 +65,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/show-hn-minimal-nistowasp-compliant-auth-implement/' | relative_url }}">show hn minimal nistowasp compliant auth implement</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/show-hn-i-created-a-mars-colony-rpg-based-on-kim-s/' | relative_url }}">show hn i created a mars colony rpg based on kim s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/show-hn-browse-internet-infrastructure/' | relative_url }}">show hn browse internet infrastructure</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -82,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/running-your-own-as-bgp-on-freebsd-with-frr-gre-tu/' | relative_url }}">running your own as bgp on freebsd with frr gre tu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/roman-industrial-hub-discovered-on-banks-of-river/' | relative_url }}">roman industrial hub discovered on banks of river</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -109,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/netflixs-warner-bros-merger-puts-rival-streamers-i/' | relative_url }}">netflixs warner bros merger puts rival streamers i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/more-mac-malware-from-google-search/' | relative_url }}">more mac malware from google search</a></h3>
 </div>
 <div class="article-row">
@@ -118,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/microsoft-appointed-a-quality-czar-he-has-no-direc/' | relative_url }}">microsoft appointed a quality czar he has no direc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/matrix-messaging-gaining-ground-in-government-it/' | relative_url }}">matrix messaging gaining ground in government it</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -206,6 +230,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/apple-xnu-clutch-scheduler/' | relative_url }}">apple xnu clutch scheduler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/algorithmically-finding-the-longest-line-of-sight/' | relative_url }}">algorithmically finding the longest line of sight</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
