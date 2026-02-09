@@ -57,7 +57,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/tessellation-kit-2016/' | relative_url }}">tessellation kit 2016</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/show-hn-i-created-a-mars-colony-rpg-based-on-kim-s/' | relative_url }}">show hn i created a mars colony rpg based on kim s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/show-hn-algorithmically-finding-the-longest-line-o/' | relative_url }}">show hn algorithmically finding the longest line o</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
