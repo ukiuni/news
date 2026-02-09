@@ -289,6 +289,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/expansion-microscopy-has-transformed-how-we-see-th/' | relative_url }}">expansion microscopy has transformed how we see th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/every-book-recommended-on-the-odd-lots-discord/' | relative_url }}">every book recommended on the odd lots discord</a></h3>
 </div>
 <div class="article-row">
@@ -338,6 +342,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/claudes-c-compiler-vs-gcc/' | relative_url }}">claudes c compiler vs gcc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/can-my-sparc-server-host-a-website/' | relative_url }}">can my sparc server host a website</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
