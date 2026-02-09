@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/you-are-here/' | relative_url }}">you are here</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/windows-11-ends-legacy-printer-drivers-in-2026/' | relative_url }}">windows 11 ends legacy printer drivers in 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +190,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/ai-makes-the-easy-part-easier-and-the-hard-part-ha/' | relative_url }}">ai makes the easy part easier and the hard part ha</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/ai-gold-rush-sees-tech-firms-embracing-72-hour-wee/' | relative_url }}">ai gold rush sees tech firms embracing 72 hour wee</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
