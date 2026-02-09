@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/why-is-the-sky-blue/' | relative_url }}">why is the sky blue</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/tsmc-to-make-advanced-ai-semiconductors-in-japan/' | relative_url }}">tsmc to make advanced ai semiconductors in japan</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/trying-out-thunderbird-appointment-while-i-patient/' | relative_url }}">trying out thunderbird appointment while i patient</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -129,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/ring-to-turn-on-all-camera-to-track-pets-privacy-c/' | relative_url }}">ring to turn on all camera to track pets privacy c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/reverse-engineering-the-prom-for-the-sgi-o2/' | relative_url }}">reverse engineering the prom for the sgi o2</a></h3>
 </div>
 <div class="article-row">
@@ -169,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/medieval-monks-wrote-over-ancient-star-catalog-par/' | relative_url }}">medieval monks wrote over ancient star catalog par</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/matrix-messaging-gaining-ground-in-government-it/' | relative_url }}">matrix messaging gaining ground in government it</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/lawmakers-ask-what-it-would-take-to-store-the-inte/' | relative_url }}">lawmakers ask what it would take to store the inte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/its-not-you-github-is-down-again/' | relative_url }}">its not you github is down again</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -201,7 +221,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/hong-kong-pro-democracy-tycoon-jimmy-lai-gets-20-y/' | relative_url }}">hong kong pro democracy tycoon jimmy lai gets 20 y</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/homeland-security-spying-on-reddit-users/' | relative_url }}">homeland security spying on reddit users</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/hobbyist-rescues-500-of-ram-from-local-landfill-a/' | relative_url }}">hobbyist rescues 500 of ram from local landfill a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
@@ -230,6 +258,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/discord-will-require-a-face-scan-or-id-for-full-ac/' | relative_url }}">discord will require a face scan or id for full ac</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/09</span>
+  <h3><a href="{{ '/2026/02/09/discord-launches-teen-by-default-settings-globally/' | relative_url }}">discord launches teen by default settings globally</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
