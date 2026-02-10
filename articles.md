@@ -25,11 +25,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/vercels-ceo-offers-to-cover-expenses-of-jmail/' | relative_url }}">vercels ceo offers to cover expenses of jmail</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/the-shadowy-world-of-abandoned-oil-tankers/' | relative_url }}">the shadowy world of abandoned oil tankers</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/the-first-signs-of-burnout-are-coming-from-the-peo/' | relative_url }}">the first signs of burnout are coming from the peo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/stop-using-icons-in-data-tables/' | relative_url }}">stop using icons in data tables</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/ssh-agent-forwarding-and-tmux-done-right-2023/' | relative_url }}">ssh agent forwarding and tmux done right 2023</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -42,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/show-hn-pipelock-all-in-one-security-harness-for-a/' | relative_url }}">show hn pipelock all in one security harness for a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/show-hn-i-built-a-macos-tool-for-network-engineers/' | relative_url }}">show hn i built a macos tool for network engineers</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -69,7 +85,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/pythons-dynamic-typing-problem/' | relative_url }}">pythons dynamic typing problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/pure-c-cpu-only-inference-with-mistral-voxtral-rea/' | relative_url }}">pure c cpu only inference with mistral voxtral rea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/oxide-raises-200m-series-c/' | relative_url }}">oxide raises 200m series c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -85,6 +109,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/making-pyreflys-diagnostics-18x-faster/' | relative_url }}">making pyreflys diagnostics 18x faster</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/localstack-will-require-an-account-to-use-starting/' | relative_url }}">localstack will require an account to use starting</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/large-tech-companies-dont-need-heroes/' | relative_url }}">large tech companies dont need heroes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/jury-told-that-meta-google-engineered-addiction-at/' | relative_url }}">jury told that meta google engineered addiction at</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -145,6 +177,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/disruption-with-some-github-services/' | relative_url }}">disruption with some github services</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/discord-to-start-assuming-all-users-are-underage-u/' | relative_url }}">discord to start assuming all users are underage u</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/chinese-ai-company-unveils-173k-biometric-robot-bu/' | relative_url }}">chinese ai company unveils 173k biometric robot bu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/c-2008/' | relative_url }}">c 2008</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
