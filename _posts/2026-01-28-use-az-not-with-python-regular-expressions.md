@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Use “\A...\z”, not “^...$” with Python regular expressions - Python正規表現では \"^...$\" ではなく \"\A...\z\" を使おう"
+title: "Use “`\\A...\\z”, not “^...$” with Python regular expressions - Python正規表現では \"^...$\" ではなく \"\\A...\\z\" を使おう"
 date: 2026-01-28T16:03:41.097Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
 source_url: "https://sethmlarson.dev/use-backslash-A-and-z-not-%5E-and-%24-with-python-regular-expressions"
-source_title: "Use “\A...\z”, not “^...$” with Python regular expressions — Seth Larson"
+source_title: "Use “\\A...\\z”, not “^...$” with Python regular expressions — Seth Larson"
 source_id: 916996568
-excerpt: "末尾改行で誤判定する^...$の罠と\A...\z／fullmatchで全体一致を安全に検証"
+excerpt: "末尾改行で誤判定する^...$の罠と\\A...\\z／fullmatchで全体一致を安全に検証"
 image: "https://github.com/sethmlarson.png"
 ---
 
