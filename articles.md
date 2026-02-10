@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/the-evolution-of-bengt-betjnt/' | relative_url }}">the evolution of bengt betjnt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/the-agentic-waterfall-how-the-ai-industry-is-regre/' | relative_url }}">the agentic waterfall how the ai industry is regre</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/show-hn-distr-20-a-year-of-learning-how-to-ship-to/' | relative_url }}">show hn distr 20 a year of learning how to ship to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/show-hn-clawe-open-source-trello-for-agent-teams/' | relative_url }}">show hn clawe open source trello for agent teams</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
