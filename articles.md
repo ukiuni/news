@@ -101,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/brutalist-southbank-centre-listed/' | relative_url }}">brutalist southbank centre listed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/better-python-tests-with-inline-snapshot/' | relative_url }}">better python tests with inline snapshot</a></h3>
 </div>
 <div class="article-row">
