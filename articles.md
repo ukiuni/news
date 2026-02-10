@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/rust-implementation-of-mistrals-voxtral-mini-4b-re/' | relative_url }}">rust implementation of mistrals voxtral mini 4b re</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/richard-f-burton-on-the-english-adventurer-and-wri/' | relative_url }}">richard f burton on the english adventurer and wri</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/is-particle-physics-dead-dying-or-just-hard/' | relative_url }}">is particle physics dead dying or just hard</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/i-woke-up-to-77-pull-requests-none-of-them-were-fr/' | relative_url }}">i woke up to 77 pull requests none of them were fr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -58,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/a-novel-parallel-readout-architecture-via-software/' | relative_url }}">a novel parallel readout architecture via software</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/a-case-study-in-rewriting-a-legacy-gui-library-for/' | relative_url }}">a case study in rewriting a legacy gui library for</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
