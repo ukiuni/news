@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/the-little-learner-a-straight-line-to-deep-learnin/' | relative_url }}">the little learner a straight line to deep learnin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/the-first-signs-of-burnout-are-coming-from-the-peo/' | relative_url }}">the first signs of burnout are coming from the peo</a></h3>
 </div>
 <div class="article-row">
@@ -169,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/my-eighth-year-as-a-bootstrapped-founder/' | relative_url }}">my eighth year as a bootstrapped founder</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/more-than-135000-openclaw-instances-exposed-to-int/' | relative_url }}">more than 135000 openclaw instances exposed to int</a></h3>
 </div>
 <div class="article-row">
@@ -257,6 +265,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/go-126-is-released/' | relative_url }}">go 126 is released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/gitbutler-cli-is-really-good/' | relative_url }}">gitbutler cli is really good</a></h3>
 </div>
 <div class="article-row">
@@ -297,7 +309,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/cysqlite-a-new-sqlite-driver/' | relative_url }}">cysqlite a new sqlite driver</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/customized-llm-with-rag-for-singapore/' | relative_url }}">customized llm with rag for singapore</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/competition-is-not-market-validation/' | relative_url }}">competition is not market validation</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
