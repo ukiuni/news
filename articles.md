@@ -8,6 +8,30 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/the-shadowy-world-of-abandoned-oil-tankers/' | relative_url }}">the shadowy world of abandoned oil tankers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/stop-using-icons-in-data-tables/' | relative_url }}">stop using icons in data tables</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/liftkit-ui-where-everything-derives-from-the-golde/' | relative_url }}">liftkit ui where everything derives from the golde</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/is-particle-physics-dead-dying-or-just-hard/' | relative_url }}">is particle physics dead dying or just hard</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/game-theory-patterns-at-work-2016/' | relative_url }}">game theory patterns at work 2016</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/chinese-ai-company-unveils-173k-biometric-robot-bu/' | relative_url }}">chinese ai company unveils 173k biometric robot bu</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/09</span>
   <h3><a href="{{ '/2026/02/09/youtube-reaction-videos-could-face-lawsuits-over-r/' | relative_url }}">youtube reaction videos could face lawsuits over r</a></h3>
 </div>
