@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/instagram-and-youtube-owners-built-addiction-machi/' | relative_url }}">instagram and youtube owners built addiction machi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/i-woke-up-to-77-pull-requests-none-of-them-were-fr/' | relative_url }}">i woke up to 77 pull requests none of them were fr</a></h3>
 </div>
 <div class="article-row">
@@ -85,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/discord-alternatives-ranked/' | relative_url }}">discord alternatives ranked</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/customized-llm-with-rag-for-singapore/' | relative_url }}">customized llm with rag for singapore</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/a-novel-parallel-readout-architecture-via-software/' | relative_url }}">a novel parallel readout architecture via software</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/a-few-design-decisions-for-a-new-chat-platform/' | relative_url }}">a few design decisions for a new chat platform</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
