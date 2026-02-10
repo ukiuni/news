@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/with-ring-american-consumers-built-a-surveillance/' | relative_url }}">with ring american consumers built a surveillance</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/why-talking-to-this-character-crashes-the-game/' | relative_url }}">why talking to this character crashes the game</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/the-first-signs-of-burnout-are-coming-from-the-peo/' | relative_url }}">the first signs of burnout are coming from the peo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/the-agentic-waterfall-how-the-ai-industry-is-regre/' | relative_url }}">the agentic waterfall how the ai industry is regre</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -93,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/parse-dont-validate-2019/' | relative_url }}">parse dont validate 2019</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/oxide-raises-200m-series-c/' | relative_url }}">oxide raises 200m series c</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/localstack-will-require-an-account-to-use-starting/' | relative_url }}">localstack will require an account to use starting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/linus-torvalds-keeps-his-fingers-and-toes-rule-by/' | relative_url }}">linus torvalds keeps his fingers and toes rule by</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -149,6 +165,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/i-started-programming-when-i-was-7-im-50-now-and-t/' | relative_url }}">i started programming when i was 7 im 50 now and t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/how-i-cut-my-google-search-dependence-in-half/' | relative_url }}">how i cut my google search dependence in half</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/how-devto-became-my-comfortable-corner-of-the-inte/' | relative_url }}">how devto became my comfortable corner of the inte</a></h3>
 </div>
 <div class="article-row">
@@ -174,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/fine-ill-try-ai/' | relative_url }}">fine ill try ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/ex-github-ceo-launches-a-new-developer-platform-fo/' | relative_url }}">ex github ceo launches a new developer platform fo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
