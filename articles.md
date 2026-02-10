@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/when-bigger-instances-dont-scale/' | relative_url }}">when bigger instances dont scale</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/what-functional-programmers-get-wrong-about-system/' | relative_url }}">what functional programmers get wrong about system</a></h3>
 </div>
 <div class="article-row">
@@ -33,7 +37,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/simplifying-vulkan-one-subsystem-at-a-time/' | relative_url }}">simplifying vulkan one subsystem at a time</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/show-hn-pipelock-all-in-one-security-harness-for-a/' | relative_url }}">show hn pipelock all in one security harness for a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/show-hn-distr-20-a-year-of-learning-how-to-ship-to/' | relative_url }}">show hn distr 20 a year of learning how to ship to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -42,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/rust-implementation-of-mistrals-voxtral-mini-4b-re/' | relative_url }}">rust implementation of mistrals voxtral mini 4b re</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/rlhf-from-scratch/' | relative_url }}">rlhf from scratch</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -102,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/how-devto-became-my-comfortable-corner-of-the-inte/' | relative_url }}">how devto became my comfortable corner of the inte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/he-vowed-to-revive-radioshack-and-pier-1-investors/' | relative_url }}">he vowed to revive radioshack and pier 1 investors</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
