@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/pure-c-cpu-only-inference-with-mistral-voxtral-rea/' | relative_url }}">pure c cpu only inference with mistral voxtral rea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/namecheap-is-suing-their-customers/' | relative_url }}">namecheap is suing their customers</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/discord-to-start-assuming-all-users-are-underage-u/' | relative_url }}">discord to start assuming all users are underage u</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/customized-llm-with-rag-for-singapore/' | relative_url }}">customized llm with rag for singapore</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
