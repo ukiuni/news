@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/why-talking-to-this-character-crashes-the-game/' | relative_url }}">why talking to this character crashes the game</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/what-functional-programmers-get-wrong-about-system/' | relative_url }}">what functional programmers get wrong about system</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/the-shadowy-world-of-abandoned-oil-tankers/' | relative_url }}">the shadowy world of abandoned oil tankers</a></h3>
 </div>
 <div class="article-row">
@@ -29,7 +37,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/fluorite-toyotas-upcoming-brand-new-game-engine-in/' | relative_url }}">fluorite toyotas upcoming brand new game engine in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/discord-to-start-assuming-all-users-are-underage-u/' | relative_url }}">discord to start assuming all users are underage u</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/chinese-ai-company-unveils-173k-biometric-robot-bu/' | relative_url }}">chinese ai company unveils 173k biometric robot bu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/a-novel-parallel-readout-architecture-via-software/' | relative_url }}">a novel parallel readout architecture via software</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/09</span>
