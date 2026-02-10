@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/youtube-music-now-makes-you-pay-to-see-song-lyrics/' | relative_url }}">youtube music now makes you pay to see song lyrics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/with-ring-american-consumers-built-a-surveillance/' | relative_url }}">with ring american consumers built a surveillance</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/vercels-ceo-offers-to-cover-expenses-of-jmail/' | relative_url }}">vercels ceo offers to cover expenses of jmail</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/the-switch-to-linux-and-the-beginning-of-my-self-h/' | relative_url }}">the switch to linux and the beginning of my self h</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -110,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/richard-f-burton-on-the-english-adventurer-and-wri/' | relative_url }}">richard f burton on the english adventurer and wri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/redefining-go-functions/' | relative_url }}">redefining go functions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -245,6 +257,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/game-boy-advance-dev-drawing-pixels/' | relative_url }}">game boy advance dev drawing pixels</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/frontier-ai-agents-violate-ethical-constraints-305/' | relative_url }}">frontier ai agents violate ethical constraints 305</a></h3>
 </div>
 <div class="article-row">
@@ -282,6 +298,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/chinese-ai-company-unveils-173k-biometric-robot-bu/' | relative_url }}">chinese ai company unveils 173k biometric robot bu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/chinas-data-center-boom-a-view-from-zhangjiakou-20/' | relative_url }}">chinas data center boom a view from zhangjiakou 20</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
