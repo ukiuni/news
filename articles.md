@@ -37,7 +37,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/waymo-exec-reveals-company-uses-remote-workers-in/' | relative_url }}">waymo exec reveals company uses remote workers in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/vercels-ceo-offers-to-cover-expenses-of-jmail/' | relative_url }}">vercels ceo offers to cover expenses of jmail</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/unicode-1800-alpha/' | relative_url }}">unicode 1800 alpha</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -53,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/the-missing-github-status-page/' | relative_url }}">the missing github status page</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/the-little-learner-a-straight-line-to-deep-learnin/' | relative_url }}">the little learner a straight line to deep learnin</a></h3>
 </div>
 <div class="article-row">
@@ -61,7 +73,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/the-feynman-lectures-on-physics-1961-1964/' | relative_url }}">the feynman lectures on physics 1961 1964</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/the-falkirk-wheel/' | relative_url }}">the falkirk wheel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/the-evolution-of-bengt-betjnt/' | relative_url }}">the evolution of bengt betjnt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/the-day-the-telnet-died/' | relative_url }}">the day the telnet died</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -70,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/stop-using-icons-in-data-tables/' | relative_url }}">stop using icons in data tables</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/stack-overflow-time-for-a-change/' | relative_url }}">stack overflow time for a change</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -130,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/richard-f-burton-on-the-english-adventurer-and-wri/' | relative_url }}">richard f burton on the english adventurer and wri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/rfk-jrs-nutrition-chatbot-recommends-best-foods-to/' | relative_url }}">rfk jrs nutrition chatbot recommends best foods to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -249,6 +281,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/how-did-windows-95-get-permission-to-put-the-weeze/' | relative_url }}">how did windows 95 get permission to put the weeze</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/how-devto-became-my-comfortable-corner-of-the-inte/' | relative_url }}">how devto became my comfortable corner of the inte</a></h3>
 </div>
 <div class="article-row">
@@ -302,6 +338,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/discord-to-start-assuming-all-users-are-underage-u/' | relative_url }}">discord to start assuming all users are underage u</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/discord-alternatives-searches-jump-10000-overnight/' | relative_url }}">discord alternatives searches jump 10000 overnight</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
