@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/how-devto-became-my-comfortable-corner-of-the-inte/' | relative_url }}">how devto became my comfortable corner of the inte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/game-theory-patterns-at-work-2016/' | relative_url }}">game theory patterns at work 2016</a></h3>
 </div>
 <div class="article-row">
