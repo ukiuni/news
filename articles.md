@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/novo-nordisk-sues-hims-amp-hers-over-copycat-versi/' | relative_url }}">novo nordisk sues hims amp hers over copycat versi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/namecheap-is-suing-their-customers/' | relative_url }}">namecheap is suing their customers</a></h3>
 </div>
 <div class="article-row">
@@ -126,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/better-python-tests-with-inline-snapshot/' | relative_url }}">better python tests with inline snapshot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/beat-swatch-internet-time/' | relative_url }}">beat swatch internet time</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
