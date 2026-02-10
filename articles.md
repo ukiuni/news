@@ -17,11 +17,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/wgll-what-good-looks-like/' | relative_url }}">wgll what good looks like</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/the-shadowy-world-of-abandoned-oil-tankers/' | relative_url }}">the shadowy world of abandoned oil tankers</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/stop-using-icons-in-data-tables/' | relative_url }}">stop using icons in data tables</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/spec-driven-development-doesnt-work-if-youre-too-c/' | relative_url }}">spec driven development doesnt work if youre too c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
@@ -34,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/richard-f-burton-on-the-english-adventurer-and-wri/' | relative_url }}">richard f burton on the english adventurer and wri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/10</span>
+  <h3><a href="{{ '/2026/02/10/namecheap-is-suing-their-customers/' | relative_url }}">namecheap is suing their customers</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
