@@ -13,11 +13,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/windows-notepad-app-remote-code-execution-vulnerab/' | relative_url }}">windows notepad app remote code execution vulnerab</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/willow-protocols-for-an-uncertain-future-video/' | relative_url }}">willow protocols for an uncertain future video</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/using-youtube-as-cloud-storage/' | relative_url }}">using youtube as cloud storage</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/the-ai-vampire/' | relative_url }}">the ai vampire</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
@@ -37,7 +49,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/signy-signed-urls-for-small-devices/' | relative_url }}">signy signed urls for small devices</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/show-hn-codemic/' | relative_url }}">show hn codemic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/moderna-says-fda-refuses-to-review-its-application/' | relative_url }}">moderna says fda refuses to review its application</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/merge-multiple-github-contribution-graphs-into-one/' | relative_url }}">merge multiple github contribution graphs into one</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
