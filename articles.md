@@ -45,7 +45,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/hope-is-not-a-security-strategy-why-secure-by-defa/' | relative_url }}">hope is not a security strategy why secure by defa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/fun-with-pinball/' | relative_url }}">fun with pinball</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/flirt-the-native-backend/' | relative_url }}">flirt the native backend</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
