@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/show-hn-itsyhome-control-homekit-from-your-mac-men/' | relative_url }}">show hn itsyhome control homekit from your mac men</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/show-hn-codemic/' | relative_url }}">show hn codemic</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/krill-a-declarative-task-orchestrator-for-robotics/' | relative_url }}">krill a declarative task orchestrator for robotics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/its-all-a-blur/' | relative_url }}">its all a blur</a></h3>
 </div>
 <div class="article-row">
@@ -93,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/google-chrome-145-released-with-jpeg-xl-image-supp/' | relative_url }}">google chrome 145 released with jpeg xl image supp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/fun-with-pinball/' | relative_url }}">fun with pinball</a></h3>
 </div>
 <div class="article-row">
@@ -101,11 +113,31 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/faa-closes-airspace-around-el-paso-texas-for-10-da/' | relative_url }}">faa closes airspace around el paso texas for 10 da</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/exposure-simulator/' | relative_url }}">exposure simulator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/exploring-a-modern-smtpe-2110-broadcast-truck/' | relative_url }}">exploring a modern smtpe 2110 broadcast truck</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/elm-native-scaffold-hybrid-mobile-apps-with-elm-vi/' | relative_url }}">elm native scaffold hybrid mobile apps with elm vi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/discord-mandates-id-and-face-scans-under-new-ceo/' | relative_url }}">discord mandates id and face scans under new ceo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/discord-goes-into-damage-control-mode-over-new-age/' | relative_url }}">discord goes into damage control mode over new age</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/chrome-extensions-spying-on-37m-users-browsing-dat/' | relative_url }}">chrome extensions spying on 37m users browsing dat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
