@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/y-combinator-ceo-garry-tan-launches-dark-money-gro/' | relative_url }}">y combinator ceo garry tan launches dark money gro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/workdays-ceo-is-out-less-than-a-week-after-400-job/' | relative_url }}">workdays ceo is out less than a week after 400 job</a></h3>
 </div>
 <div class="article-row">
@@ -53,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/we-built-a-better-cassandra-scylladb-driver-for-no/' | relative_url }}">we built a better cassandra scylladb driver for no</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/using-youtube-as-cloud-storage/' | relative_url }}">using youtube as cloud storage</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/the-risk-of-a-hothouse-earth-trajectory/' | relative_url }}">the risk of a hothouse earth trajectory</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
@@ -133,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/prasad-overruled-fda-staff-to-reject-modernas-flu/' | relative_url }}">prasad overruled fda staff to reject modernas flu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/paramount-skydance-says-it-will-pay-warner-bros-di/' | relative_url }}">paramount skydance says it will pay warner bros di</a></h3>
 </div>
 <div class="article-row">
@@ -146,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/moderna-says-fda-refuses-to-review-its-application/' | relative_url }}">moderna says fda refuses to review its application</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/microsoft-discontinues-polyglot-notebooks-c-intera/' | relative_url }}">microsoft discontinues polyglot notebooks c intera</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
@@ -197,6 +217,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/go-unit-amp-integration-testing/' | relative_url }}">go unit amp integration testing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/glm5-released-on-zai-platform/' | relative_url }}">glm5 released on zai platform</a></h3>
 </div>
 <div class="article-row">
@@ -210,6 +234,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/gallup-will-no-longer-measure-presidential-approva/' | relative_url }}">gallup will no longer measure presidential approva</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/functional-programming-in-m4/' | relative_url }}">functional programming in m4</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
@@ -274,6 +302,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/amazon-rings-super-bowl-ad-sparks-backlash-amid-fe/' | relative_url }}">amazon rings super bowl ad sparks backlash amid fe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/ai-fatigue-is-real-and-nobody-talks-about-it-a-sof/' | relative_url }}">ai fatigue is real and nobody talks about it a sof</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
