@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/treasury-secretary-bessent-warns-coinbase-is-block/' | relative_url }}">treasury secretary bessent warns coinbase is block</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/toyota-fluorite-console-grade-flutter-game-engine/' | relative_url }}">toyota fluorite console grade flutter game engine</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/thank-you-ai/' | relative_url }}">thank you ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/text-classification-with-python-314s-zstd-module/' | relative_url }}">text classification with python 314s zstd module</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
@@ -285,7 +293,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/doj-launches-bunk-investigation-of-netflix-merger/' | relative_url }}">doj launches bunk investigation of netflix merger</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/do-not-apologize-for-replying-late-to-my-email/' | relative_url }}">do not apologize for replying late to my email</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/discordtwitchsnapchat-age-verification-bypass/' | relative_url }}">discordtwitchsnapchat age verification bypass</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
