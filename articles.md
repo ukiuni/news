@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/software-design-is-now-cheap/' | relative_url }}">software design is now cheap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/moderna-says-fda-refuses-to-review-its-application/' | relative_url }}">moderna says fda refuses to review its application</a></h3>
 </div>
 <div class="article-row">
