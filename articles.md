@@ -29,6 +29,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/whats-the-most-expensive-technical-decision-youve/' | relative_url }}">whats the most expensive technical decision youve</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/whats-a-programming-concept-that-sounds-simple-but/' | relative_url }}">whats a programming concept that sounds simple but</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/whats-a-bug-you-couldnt-fix-for-days-that-turned-o/' | relative_url }}">whats a bug you couldnt fix for days that turned o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/what-if-all-of-calculus-was-just-dictionary-lookup/' | relative_url }}">what if all of calculus was just dictionary lookup</a></h3>
 </div>
 <div class="article-row">
@@ -81,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/single-bone-in-spain-offers-first-direct-evidence/' | relative_url }}">single bone in spain offers first direct evidence</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/signy-signed-urls-for-small-devices/' | relative_url }}">signy signed urls for small devices</a></h3>
 </div>
 <div class="article-row">
@@ -121,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/no-one-including-our-furry-friends-will-be-safer-i/' | relative_url }}">no one including our furry friends will be safer i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/netnewswire-turns-23/' | relative_url }}">netnewswire turns 23</a></h3>
 </div>
 <div class="article-row">
@@ -130,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/merge-multiple-github-contribution-graphs-into-one/' | relative_url }}">merge multiple github contribution graphs into one</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/majutsu-magit-for-jujutsu/' | relative_url }}">majutsu magit for jujutsu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
@@ -182,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/glm-5-from-vibe-coding-to-agentic-engineering/' | relative_url }}">glm 5 from vibe coding to agentic engineering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/gallup-will-no-longer-measure-presidential-approva/' | relative_url }}">gallup will no longer measure presidential approva</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
@@ -238,6 +266,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/anthropic-safety-researcher-quits-warning-world-is/' | relative_url }}">anthropic safety researcher quits warning world is</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/announcing-typescript-60-beta/' | relative_url }}">announcing typescript 60 beta</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
