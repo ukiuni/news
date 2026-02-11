@@ -21,6 +21,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/who-smeared-feynman/' | relative_url }}">who smeared feynman</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/what-if-all-of-calculus-was-just-dictionary-lookup/' | relative_url }}">what if all of calculus was just dictionary lookup</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/webmentions-with-batteries-included/' | relative_url }}">webmentions with batteries included</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/using-youtube-as-cloud-storage/' | relative_url }}">using youtube as cloud storage</a></h3>
 </div>
 <div class="article-row">
@@ -73,7 +85,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/rome-is-studded-with-cannon-balls-2022/' | relative_url }}">rome is studded with cannon balls 2022</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/ray-marching-soft-shadows-in-2d/' | relative_url }}">ray marching soft shadows in 2d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/paramount-skydance-says-it-will-pay-warner-bros-di/' | relative_url }}">paramount skydance says it will pay warner bros di</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
@@ -113,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/glm5-released-on-zai-platform/' | relative_url }}">glm5 released on zai platform</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/fun-with-pinball/' | relative_url }}">fun with pinball</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/elm-native-scaffold-hybrid-mobile-apps-with-elm-vi/' | relative_url }}">elm native scaffold hybrid mobile apps with elm vi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/do-not-apologize-for-replying-late-to-my-email/' | relative_url }}">do not apologize for replying late to my email</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
