@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/unveiling-the-beegraphy-computational-design-award/' | relative_url }}">unveiling the beegraphy computational design award</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/show-hn-codemic/' | relative_url }}">show hn codemic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/show-hn-ai-agents-play-simcity-through-a-rest-api/' | relative_url }}">show hn ai agents play simcity through a rest api</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
