@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/we-rendered-and-embedded-one-million-cad-files/' | relative_url }}">we rendered and embedded one million cad files</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/using-youtube-as-cloud-storage/' | relative_url }}">using youtube as cloud storage</a></h3>
 </div>
 <div class="article-row">
@@ -101,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/re-identification-risk-vs-k-anonymity/' | relative_url }}">re identification risk vs k anonymity</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/ray-marching-soft-shadows-in-2d/' | relative_url }}">ray marching soft shadows in 2d</a></h3>
 </div>
 <div class="article-row">
@@ -110,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/paramount-skydance-says-it-will-pay-warner-bros-di/' | relative_url }}">paramount skydance says it will pay warner bros di</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/netnewswire-turns-23/' | relative_url }}">netnewswire turns 23</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
@@ -126,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/krill-a-declarative-task-orchestrator-for-robotics/' | relative_url }}">krill a declarative task orchestrator for robotics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/its-not-finance-its-your-pensions/' | relative_url }}">its not finance its your pensions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
@@ -210,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/discord-goes-into-damage-control-mode-over-new-age/' | relative_url }}">discord goes into damage control mode over new age</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/claude-code-is-being-dumbed-down/' | relative_url }}">claude code is being dumbed down</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
