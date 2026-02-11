@@ -8,6 +8,14 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/workdays-ceo-is-out-less-than-a-week-after-400-job/' | relative_url }}">workdays ceo is out less than a week after 400 job</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/tambo-10-open-source-toolkit-for-agents-that-rende/' | relative_url }}">tambo 10 open source toolkit for agents that rende</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/10</span>
   <h3><a href="{{ '/2026/02/10/youtube-music-now-makes-you-pay-to-see-song-lyrics/' | relative_url }}">youtube music now makes you pay to see song lyrics</a></h3>
 </div>
