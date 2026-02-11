@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/show-hn-renovate-the-kubernetes-native-way/' | relative_url }}">show hn renovate the kubernetes native way</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/show-hn-itsyhome-control-homekit-from-your-mac-men/' | relative_url }}">show hn itsyhome control homekit from your mac men</a></h3>
 </div>
 <div class="article-row">
@@ -137,7 +141,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/glm-ocr-accurate-fast-comprehensive/' | relative_url }}">glm ocr accurate fast comprehensive</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/fun-with-pinball/' | relative_url }}">fun with pinball</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/forwardly-evaluated-build-systems/' | relative_url }}">forwardly evaluated build systems</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
@@ -174,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/chrome-extensions-spying-on-37m-users-browsing-dat/' | relative_url }}">chrome extensions spying on 37m users browsing dat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/amazon-rings-super-bowl-ad-sparks-backlash-amid-fe/' | relative_url }}">amazon rings super bowl ad sparks backlash amid fe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
