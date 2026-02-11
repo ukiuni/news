@@ -97,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/railwaypaas-global-outage/' | relative_url }}">railwaypaas global outage</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/paramount-skydance-says-it-will-pay-warner-bros-di/' | relative_url }}">paramount skydance says it will pay warner bros di</a></h3>
 </div>
 <div class="article-row">
@@ -121,11 +125,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/how-to-keep-your-smoke-testing-useful/' | relative_url }}">how to keep your smoke testing useful</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/how-seriously-should-we-take-state-of-js-and-other/' | relative_url }}">how seriously should we take state of js and other</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/how-revenue-decisions-shape-technical-debt/' | relative_url }}">how revenue decisions shape technical debt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/how-i-used-claude-code-to-teach-myself-rust/' | relative_url }}">how i used claude code to teach myself rust</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
@@ -154,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/flirt-the-native-backend/' | relative_url }}">flirt the native backend</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/faa-halts-all-flights-at-el-paso-airport-for-10-da/' | relative_url }}">faa halts all flights at el paso airport for 10 da</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
@@ -189,6 +205,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/anthropic-safety-researcher-quits-warning-world-is/' | relative_url }}">anthropic safety researcher quits warning world is</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/amazon-rings-super-bowl-ad-sparks-backlash-amid-fe/' | relative_url }}">amazon rings super bowl ad sparks backlash amid fe</a></h3>
 </div>
 <div class="article-row">
@@ -198,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/a-cosmic-miracle-a-remarkably-luminous-galaxy-at-z/' | relative_url }}">a cosmic miracle a remarkably luminous galaxy at z</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/11</span>
+  <h3><a href="{{ '/2026/02/11/93-success-rate-shown-in-experimental-sleep-apnea/' | relative_url }}">93 success rate shown in experimental sleep apnea</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/10</span>
