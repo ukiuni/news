@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/the-future-for-tyr-a-rust-gpu-driver-for-arm-mali/' | relative_url }}">the future for tyr a rust gpu driver for arm mali</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/the-crown-of-nobles-noble-gas-tube-display/' | relative_url }}">the crown of nobles noble gas tube display</a></h3>
 </div>
 <div class="article-row">
@@ -85,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/pdf-generation-in-quarkus-practical-performant-and/' | relative_url }}">pdf generation in quarkus practical performant and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/open-ai-researcher-quits-over-chatgpt-ads-warns-of/' | relative_url }}">open ai researcher quits over chatgpt ads warns of</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/new-and-upcoming-ircv3-features/' | relative_url }}">new and upcoming ircv3 features</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/microsofts-notepad-got-pwned-they-added-ai-to-it-s/' | relative_url }}">microsofts notepad got pwned they added ai to it s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -149,11 +161,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/email-is-tough-major-european-payment-processors-e/' | relative_url }}">email is tough major european payment processors e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/discussion-whats-the-most-misleading-scaling-diagr/' | relative_url }}">discussion whats the most misleading scaling diagr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/d-programming-language/' | relative_url }}">d programming language</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/culture-is-the-mass-synchronization-of-framings/' | relative_url }}">culture is the mass synchronization of framings</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -169,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/apple-patches-decade-old-ios-zero-day-possibly-exp/' | relative_url }}">apple patches decade old ios zero day possibly exp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/americas-cyber-defense-agency-is-burning-down-and/' | relative_url }}">americas cyber defense agency is burning down and</a></h3>
 </div>
 <div class="article-row">
@@ -178,6 +202,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/ai-agent-opens-a-pr-write-a-blogpost-to-shames-the/' | relative_url }}">ai agent opens a pr write a blogpost to shames the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/a-brief-history-of-barbed-wire-fence-telephone-net/' | relative_url }}">a brief history of barbed wire fence telephone net</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
