@@ -8,6 +8,26 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/us-decides-spacex-is-like-an-airline-exempting-it/' | relative_url }}">us decides spacex is like an airline exempting it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/reports-of-telnets-death-have-been-greatly-exagger/' | relative_url }}">reports of telnets death have been greatly exagger</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/nothing-is-the-secret-to-structuring-your-work/' | relative_url }}">nothing is the secret to structuring your work</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/gpt-5-outperforms-federal-judges-100-to-52-in-lega/' | relative_url }}">gpt 5 outperforms federal judges 100 to 52 in lega</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/components-will-kill-pages/' | relative_url }}">components will kill pages</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/11</span>
   <h3><a href="{{ '/2026/02/11/y-combinator-ceo-garry-tan-launches-dark-money-gro/' | relative_url }}">y combinator ceo garry tan launches dark money gro</a></h3>
 </div>
