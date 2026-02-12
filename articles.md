@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/workledger-an-offline-first-engineering-notebook/' | relative_url }}">workledger an offline first engineering notebook</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/why-that-ring-super-bowl-ad-about-finding-your-los/' | relative_url }}">why that ring super bowl ad about finding your los</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/us-decides-spacex-is-like-an-airline-exempting-it/' | relative_url }}">us decides spacex is like an airline exempting it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/understanding-how-opentelemetry-histograms-actuall/' | relative_url }}">understanding how opentelemetry histograms actuall</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -66,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/staying-on-top-in-the-age-of-llms/' | relative_url }}">staying on top in the age of llms</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/shut-up-comment-blocker/' | relative_url }}">shut up comment blocker</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -169,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/gpt53codexspark/' | relative_url }}">gpt53codexspark</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/gpt-5-outperforms-federal-judges-100-to-52-in-lega/' | relative_url }}">gpt 5 outperforms federal judges 100 to 52 in lega</a></h3>
 </div>
 <div class="article-row">
@@ -178,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/get-done-i-hate-what-trello-has-become/' | relative_url }}">get done i hate what trello has become</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/gemini-3-deep-think/' | relative_url }}">gemini 3 deep think</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -214,6 +234,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/cops-are-buying-geospy-an-ai-that-geolocates-photo/' | relative_url }}">cops are buying geospy an ai that geolocates photo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/composing-a-kv-layer-over-mature-storage-and-wal-l/' | relative_url }}">composing a kv layer over mature storage and wal l</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
