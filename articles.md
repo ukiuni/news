@@ -293,6 +293,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/allocators-from-c-to-zig/' | relative_url }}">allocators from c to zig</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/aidr/' | relative_url }}">aidr</a></h3>
 </div>
 <div class="article-row">
