@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/why-are-people-disconnecting-or-destroying-their-r/' | relative_url }}">why are people disconnecting or destroying their r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/warcraft-iii-peon-voice-notifications-for-claude-c/' | relative_url }}">warcraft iii peon voice notifications for claude c</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/ai-coding-killed-my-flow-state/' | relative_url }}">ai coding killed my flow state</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/65-lines-of-markdown-a-claude-code-sensation/' | relative_url }}">65 lines of markdown a claude code sensation</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/11</span>
