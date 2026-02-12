@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/the-crown-of-nobles-noble-gas-tube-display/' | relative_url }}">the crown of nobles noble gas tube display</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/the-12-factor-app-15-years-later-does-it-still-hol/' | relative_url }}">the 12 factor app 15 years later does it still hol</a></h3>
 </div>
 <div class="article-row">
@@ -65,7 +69,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/profiling-and-fixing-rocksdb-ingestion-23-faster-o/' | relative_url }}">profiling and fixing rocksdb ingestion 23 faster o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/president-orders-the-military-to-make-agreements-w/' | relative_url }}">president orders the military to make agreements w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/open-ai-researcher-quits-over-chatgpt-ads-warns-of/' | relative_url }}">open ai researcher quits over chatgpt ads warns of</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -81,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/lines-of-code-are-back-and-its-worse-than-before/' | relative_url }}">lines of code are back and its worse than before</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/kanchipuram-saris-and-thinking-machines/' | relative_url }}">kanchipuram saris and thinking machines</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/investigators-wrangled-video-from-nancy-guthries-g/' | relative_url }}">investigators wrangled video from nancy guthries g</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/how-to-run-your-userland-code-inside-the-kernel-wr/' | relative_url }}">how to run your userland code inside the kernel wr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
