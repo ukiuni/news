@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/why-that-ring-super-bowl-ad-about-finding-your-los/' | relative_url }}">why that ring super bowl ad about finding your los</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/why-are-people-disconnecting-or-destroying-their-r/' | relative_url }}">why are people disconnecting or destroying their r</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/resist-and-unsubscribe/' | relative_url }}">resist and unsubscribe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/request-for-sources-discord-alternatives/' | relative_url }}">request for sources discord alternatives</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -181,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/everything-takes-longer-than-you-think/' | relative_url }}">everything takes longer than you think</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/email-is-tough-major-european-payment-processors-e/' | relative_url }}">email is tough major european payment processors e</a></h3>
 </div>
 <div class="article-row">
@@ -201,7 +213,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/cops-are-buying-geospy-an-ai-that-geolocates-photo/' | relative_url }}">cops are buying geospy an ai that geolocates photo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/components-will-kill-pages/' | relative_url }}">components will kill pages</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/commet-matrix-client/' | relative_url }}">commet matrix client</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -226,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/americas-cyber-defense-agency-is-burning-down-and/' | relative_url }}">americas cyber defense agency is burning down and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/aidr/' | relative_url }}">aidr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
