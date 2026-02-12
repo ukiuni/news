@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/using-ai-actually-increases-burnout-despite-produc/' | relative_url }}">using ai actually increases burnout despite produc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/us-decides-spacex-is-like-an-airline-exempting-it/' | relative_url }}">us decides spacex is like an airline exempting it</a></h3>
 </div>
 <div class="article-row">
@@ -65,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/recursive-language-models/' | relative_url }}">recursive language models</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/proof-oriented-programming-in-f/' | relative_url }}">proof oriented programming in f</a></h3>
 </div>
 <div class="article-row">
@@ -101,11 +109,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/its-just-an-adventure/' | relative_url }}">its just an adventure</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/ireland-rolls-out-basic-income-scheme-for-artists/' | relative_url }}">ireland rolls out basic income scheme for artists</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/investigators-wrangled-video-from-nancy-guthries-g/' | relative_url }}">investigators wrangled video from nancy guthries g</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/improving-15-llms-at-coding-in-one-afternoon-only/' | relative_url }}">improving 15 llms at coding in one afternoon only</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -150,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/ascii-whisper-local-p2p-chat-with-sound-fx-and-bat/' | relative_url }}">ascii whisper local p2p chat with sound fx and bat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/americas-cyber-defense-agency-is-burning-down-and/' | relative_url }}">americas cyber defense agency is burning down and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
