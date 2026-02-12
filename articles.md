@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/warcraft-iii-peon-voice-notifications-for-claude-c/' | relative_url }}">warcraft iii peon voice notifications for claude c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/using-an-engineering-notebook/' | relative_url }}">using an engineering notebook</a></h3>
 </div>
 <div class="article-row">
@@ -17,7 +21,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/the-slopacolypse-is-here-karpathy-warns-of-disuse/' | relative_url }}">the slopacolypse is here karpathy warns of disuse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/the-problem-with-llms/' | relative_url }}">the problem with llms</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/staying-on-top-in-the-age-of-llms/' | relative_url }}">staying on top in the age of llms</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -62,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/discussion-whats-the-most-misleading-scaling-diagr/' | relative_url }}">discussion whats the most misleading scaling diagr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/d-programming-language/' | relative_url }}">d programming language</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
