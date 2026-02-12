@@ -105,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/ring-cancels-its-partnership-with-flock-safety-aft/' | relative_url }}">ring cancels its partnership with flock safety aft</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/rfk-jr-food-pyramid-site-links-to-grok-which-says/' | relative_url }}">rfk jr food pyramid site links to grok which says</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/recursive-language-models/' | relative_url }}">recursive language models</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/recoverable-and-irrecoverable-decisions/' | relative_url }}">recoverable and irrecoverable decisions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -269,6 +277,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/discord-just-killed-anonymity/' | relative_url }}">discord just killed anonymity</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/d-programming-language/' | relative_url }}">d programming language</a></h3>
 </div>
 <div class="article-row">
@@ -298,6 +310,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/behavioral-interview-playbook-for-software-enginee/' | relative_url }}">behavioral interview playbook for software enginee</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/beginning-fully-autonomous-operations-with-the-6th/' | relative_url }}">beginning fully autonomous operations with the 6th</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
