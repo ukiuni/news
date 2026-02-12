@@ -29,6 +29,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/whats-the-difference-between-a-disc-and-a-disk-202/' | relative_url }}">whats the difference between a disc and a disk 202</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/welcoming-discord-users-amidst-the-challenge-of-ag/' | relative_url }}">welcoming discord users amidst the challenge of ag</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/warcraft-iii-peon-voice-notifications-for-claude-c/' | relative_url }}">warcraft iii peon voice notifications for claude c</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/staying-on-top-in-the-age-of-llms/' | relative_url }}">staying on top in the age of llms</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/spotify-says-its-best-developers-havent-written-a/' | relative_url }}">spotify says its best developers havent written a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -182,6 +194,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/improving-15-llms-at-coding-in-one-afternoon-only/' | relative_url }}">improving 15 llms at coding in one afternoon only</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/implemented-a-game-boy-alu-using-only-compass-and/' | relative_url }}">implemented a game boy alu using only compass and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/i-tried-to-implement-a-2024-usenix-paper-on-cachin/' | relative_url }}">i tried to implement a 2024 usenix paper on cachin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
