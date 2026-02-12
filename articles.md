@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/x-removes-classic-dim-display-option-because-they/' | relative_url }}">x removes classic dim display option because they</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/x-appears-to-be-violating-us-sanctions-by-selling/' | relative_url }}">x appears to be violating us sanctions by selling</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/why-are-people-disconnecting-or-destroying-their-r/' | relative_url }}">why are people disconnecting or destroying their r</a></h3>
 </div>
 <div class="article-row">
@@ -117,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/learn-fundamentals-not-frameworks/' | relative_url }}">learn fundamentals not frameworks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/kanchipuram-saris-and-thinking-machines/' | relative_url }}">kanchipuram saris and thinking machines</a></h3>
 </div>
 <div class="article-row">
@@ -153,6 +165,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/google-says-attackers-used-100000-prompts-to-try-t/' | relative_url }}">google says attackers used 100000 prompts to try t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/get-done-i-hate-what-trello-has-become/' | relative_url }}">get done i hate what trello has become</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/from-specification-to-stress-test-a-weekend-with-c/' | relative_url }}">from specification to stress test a weekend with c</a></h3>
 </div>
 <div class="article-row">
@@ -177,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/css-clicker/' | relative_url }}">css clicker</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/components-will-kill-pages/' | relative_url }}">components will kill pages</a></h3>
 </div>
 <div class="article-row">
@@ -190,6 +214,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/apple-patches-decade-old-ios-zero-day-possibly-exp/' | relative_url }}">apple patches decade old ios zero day possibly exp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/apache-arrow-is-10-years-old/' | relative_url }}">apache arrow is 10 years old</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/an-ai-agent-published-a-hit-piece-on-me/' | relative_url }}">an ai agent published a hit piece on me</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
