@@ -81,11 +81,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/show-hn-rari-the-rust-powered-react-framework/' | relative_url }}">show hn rari the rust powered react framework</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/show-hn-double-blind-entropy-using-drand-for-verif/' | relative_url }}">show hn double blind entropy using drand for verif</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/scripting-on-the-jvm-with-java-scala-and-kotlin/' | relative_url }}">scripting on the jvm with java scala and kotlin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/rfk-jr-food-pyramid-site-links-to-grok-which-says/' | relative_url }}">rfk jr food pyramid site links to grok which says</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -114,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/president-orders-the-military-to-make-agreements-w/' | relative_url }}">president orders the military to make agreements w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/polis-open-source-platform-to-find-common-ground-a/' | relative_url }}">polis open source platform to find common ground a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -165,6 +177,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/inspecting-the-source-of-go-modules/' | relative_url }}">inspecting the source of go modules</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/improving-15-llms-at-coding-in-one-afternoon-only/' | relative_url }}">improving 15 llms at coding in one afternoon only</a></h3>
 </div>
 <div class="article-row">
@@ -190,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/google-says-attackers-used-100000-prompts-to-try-t/' | relative_url }}">google says attackers used 100000 prompts to try t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/google-offers-voluntary-exit-option-to-employees-n/' | relative_url }}">google offers voluntary exit option to employees n</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -282,6 +302,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/ai-agent-opens-a-pr-write-a-blogpost-to-shames-the/' | relative_url }}">ai agent opens a pr write a blogpost to shames the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/a-party-balloon-shut-down-el-paso-international-ai/' | relative_url }}">a party balloon shut down el paso international ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
