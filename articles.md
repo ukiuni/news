@@ -225,6 +225,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/goto-considered-good-actually/' | relative_url }}">goto considered good actually</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/google-says-attackers-used-100000-prompts-to-try-t/' | relative_url }}">google says attackers used 100000 prompts to try t</a></h3>
 </div>
 <div class="article-row">
@@ -246,6 +250,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/from-34-to-96-the-porting-initiative-delivers-holo/' | relative_url }}">from 34 to 96 the porting initiative delivers holo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/fixing-retail-with-land-value-capture/' | relative_url }}">fixing retail with land value capture</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
