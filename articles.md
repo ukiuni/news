@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/scripting-on-the-jvm-with-java-scala-and-kotlin/' | relative_url }}">scripting on the jvm with java scala and kotlin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/reports-of-telnets-death-have-been-greatly-exagger/' | relative_url }}">reports of telnets death have been greatly exagger</a></h3>
 </div>
 <div class="article-row">
@@ -65,7 +69,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/new-and-upcoming-ircv3-features/' | relative_url }}">new and upcoming ircv3 features</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/kanchipuram-saris-and-thinking-machines/' | relative_url }}">kanchipuram saris and thinking machines</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/ireland-rolls-out-basic-income-scheme-for-artists/' | relative_url }}">ireland rolls out basic income scheme for artists</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
