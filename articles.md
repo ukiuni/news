@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/using-an-engineering-notebook/' | relative_url }}">using an engineering notebook</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/us-decides-spacex-is-like-an-airline-exempting-it/' | relative_url }}">us decides spacex is like an airline exempting it</a></h3>
 </div>
 <div class="article-row">
@@ -29,11 +33,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/kanchipuram-saris-and-thinking-machines/' | relative_url }}">kanchipuram saris and thinking machines</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/investigators-wrangled-video-from-nancy-guthries-g/' | relative_url }}">investigators wrangled video from nancy guthries g</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/gpt-5-outperforms-federal-judges-100-to-52-in-lega/' | relative_url }}">gpt 5 outperforms federal judges 100 to 52 in lega</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/discussion-whats-the-most-misleading-scaling-diagr/' | relative_url }}">discussion whats the most misleading scaling diagr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
