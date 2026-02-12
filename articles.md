@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/the-12-factor-app-15-years-later-does-it-still-hol/' | relative_url }}">the 12 factor app 15 years later does it still hol</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/staying-on-top-in-the-age-of-llms/' | relative_url }}">staying on top in the age of llms</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/scripting-on-the-jvm-with-java-scala-and-kotlin/' | relative_url }}">scripting on the jvm with java scala and kotlin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/resist-and-unsubscribe/' | relative_url }}">resist and unsubscribe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
@@ -126,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/ai-coding-killed-my-flow-state/' | relative_url }}">ai coding killed my flow state</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/12</span>
+  <h3><a href="{{ '/2026/02/12/ai-agent-opens-a-pr-write-a-blogpost-to-shames-the/' | relative_url }}">ai agent opens a pr write a blogpost to shames the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
