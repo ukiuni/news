@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/we-interfaced-single-threaded-c-with-multi-threade/' | relative_url }}">we interfaced single threaded c with multi threade</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/the-timeless-way-of-programming-2022/' | relative_url }}">the timeless way of programming 2022</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/skip-the-tips-a-game-to-select-no-tip-but-dark-pat/' | relative_url }}">skip the tips a game to select no tip but dark pat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/skillbot-replacing-code-with-markdown-files-as-the/' | relative_url }}">skillbot replacing code with markdown files as the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/ring-owners-are-returning-their-cameras/' | relative_url }}">ring owners are returning their cameras</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
@@ -54,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/mmacevedo-aka-lena-by-qntm/' | relative_url }}">mmacevedo aka lena by qntm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/joseph-gordon-levitt-goes-to-washington-dc-gets-se/' | relative_url }}">joseph gordon levitt goes to washington dc gets se</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
