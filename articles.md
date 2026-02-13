@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/un-approves-40-member-scientific-panel-on-the-impa/' | relative_url }}">un approves 40 member scientific panel on the impa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/the-timeless-way-of-programming-2022/' | relative_url }}">the timeless way of programming 2022</a></h3>
 </div>
 <div class="article-row">
@@ -65,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/sandwich-bill-of-materials/' | relative_url }}">sandwich bill of materials</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/ring-owners-are-returning-their-cameras/' | relative_url }}">ring owners are returning their cameras</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/resizing-windows-on-macos-tahoe-the-saga-continues/' | relative_url }}">resizing windows on macos tahoe the saga continues</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/remember-your-first-computer-book/' | relative_url }}">remember your first computer book</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
@@ -94,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/open-source-is-not-about-you-2018/' | relative_url }}">open source is not about you 2018</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/nixtamal-100-released/' | relative_url }}">nixtamal 100 released</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
@@ -126,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/minio-repository-is-no-longer-maintained/' | relative_url }}">minio repository is no longer maintained</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/microgpt/' | relative_url }}">microgpt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
@@ -173,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/fintech-security-architectures-where-they-break-an/' | relative_url }}">fintech security architectures where they break an</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/faster-than-dijkstra/' | relative_url }}">faster than dijkstra</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/design-decision-technical-debt-in-billabear/' | relative_url }}">design decision technical debt in billabear</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/cbp-signs-clearview-ai-deal-to-use-face-recognitio/' | relative_url }}">cbp signs clearview ai deal to use face recognitio</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
