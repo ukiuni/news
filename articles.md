@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/skip-the-tips-a-game-to-select-no-tip-but-dark-pat/' | relative_url }}">skip the tips a game to select no tip but dark pat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/ring-owners-are-returning-their-cameras-heres-how/' | relative_url }}">ring owners are returning their cameras heres how</a></h3>
 </div>
 <div class="article-row">
@@ -21,11 +25,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/plandrop-a-chrome-extension-to-control-claude-code/' | relative_url }}">plandrop a chrome extension to control claude code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/plan-files-2020/' | relative_url }}">plan files 2020</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/my-grandma-was-a-fed-lessons-from-digitizing-hours/' | relative_url }}">my grandma was a fed lessons from digitizing hours</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/how-did-the-fbi-get-nancy-guthries-google-nest-cam/' | relative_url }}">how did the fbi get nancy guthries google nest cam</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/how-a-cat-debugged-stable-diffusion-2023/' | relative_url }}">how a cat debugged stable diffusion 2023</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
