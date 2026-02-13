@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/zazie-beetz-says-we-need-to-rally-the-troops-again/' | relative_url }}">zazie beetz says we need to rally the troops again</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/your-discord-data-is-being-sold-to-law-enforcement/' | relative_url }}">your discord data is being sold to law enforcement</a></h3>
 </div>
 <div class="article-row">
@@ -73,7 +77,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/show-hn-moltis-ai-assistant-with-memory-tools-and/' | relative_url }}">show hn moltis ai assistant with memory tools and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/show-hn-i-speak-5-languages-duolingo-taught-me-non/' | relative_url }}">show hn i speak 5 languages duolingo taught me non</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/schema-first-vs-migration-first-workflows-in-real/' | relative_url }}">schema first vs migration first workflows in real</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
@@ -217,6 +229,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/ftc-wants-apple-news-to-promote-more-fox-news-and/' | relative_url }}">ftc wants apple news to promote more fox news and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/fintech-security-architectures-where-they-break-an/' | relative_url }}">fintech security architectures where they break an</a></h3>
 </div>
 <div class="article-row">
@@ -226,6 +242,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/evolving-git-for-the-next-decade/' | relative_url }}">evolving git for the next decade</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/do-metaprojects/' | relative_url }}">do metaprojects</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
@@ -253,6 +273,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/building-a-tui-is-easy-now/' | relative_url }}">building a tui is easy now</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/aws-adds-support-for-nested-virtualization/' | relative_url }}">aws adds support for nested virtualization</a></h3>
 </div>
 <div class="article-row">
@@ -262,6 +286,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/apple-fix-my-keyboard-before-the-timer-ends-or-im/' | relative_url }}">apple fix my keyboard before the timer ends or im</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/ann-i-built-a-new-ada-build-tool-for-personal-use/' | relative_url }}">ann i built a new ada build tool for personal use</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
