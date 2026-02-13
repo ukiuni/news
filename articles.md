@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/the-many-flavors-of-ignore-files/' | relative_url }}">the many flavors of ignore files</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/take-a-trip-to-japans-dododo-land-the-most-irritat/' | relative_url }}">take a trip to japans dododo land the most irritat</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/my-grandma-was-a-fed-lessons-from-digitizing-hours/' | relative_url }}">my grandma was a fed lessons from digitizing hours</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/mmacevedo-aka-lena-by-qntm/' | relative_url }}">mmacevedo aka lena by qntm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/i-improved-15-llms-at-coding-in-one-afternoon-only/' | relative_url }}">i improved 15 llms at coding in one afternoon only</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
