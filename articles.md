@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/zed-editor-switching-graphics-lib-from-blade-to-wg/' | relative_url }}">zed editor switching graphics lib from blade to wg</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/your-discord-data-is-being-sold-to-law-enforcement/' | relative_url }}">your discord data is being sold to law enforcement</a></h3>
 </div>
 <div class="article-row">
@@ -113,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/implementing-auto-tiling-with-just-5-tiles/' | relative_url }}">implementing auto tiling with just 5 tiles</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/i-improved-15-llms-at-coding-in-one-afternoon-only/' | relative_url }}">i improved 15 llms at coding in one afternoon only</a></h3>
 </div>
 <div class="article-row">
@@ -129,11 +137,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/hare-0260-released/' | relative_url }}">hare 0260 released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/greens-dictionary-of-slang-five-hundred-years-of-t/' | relative_url }}">greens dictionary of slang five hundred years of t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/google-might-think-your-website-is-down/' | relative_url }}">google might think your website is down</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/go-made-me-fast-rust-made-me-care-aws-made-me-pay/' | relative_url }}">go made me fast rust made me care aws made me pay</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/detroit-automakers-take-50-billion-hit-as-ev-bubbl/' | relative_url }}">detroit automakers take 50 billion hit as ev bubbl</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
