@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/particle-lenia/' | relative_url }}">particle lenia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/new-nick-bostrom-paper-optimal-timing-for-superint/' | relative_url }}">new nick bostrom paper optimal timing for superint</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/my-business-as-code/' | relative_url }}">my business as code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/monosketch/' | relative_url }}">monosketch</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
@@ -125,7 +133,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/go-made-me-fast-rust-made-me-care-aws-made-me-pay/' | relative_url }}">go made me fast rust made me care aws made me pay</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/design-decision-technical-debt-in-billabear/' | relative_url }}">design decision technical debt in billabear</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/cache-monet/' | relative_url }}">cache monet</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
