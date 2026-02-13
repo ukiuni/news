@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/what-happens-inside-postgres-when-iops-runs-out/' | relative_url }}">what happens inside postgres when iops runs out</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/the-many-flavors-of-ignore-files/' | relative_url }}">the many flavors of ignore files</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/the-eu-moves-to-kill-infinite-scrolling/' | relative_url }}">the eu moves to kill infinite scrolling</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
@@ -190,6 +198,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/apple-has-a-transparency-issue/' | relative_url }}">apple has a transparency issue</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/apple-fix-my-keyboard-before-the-timer-ends-or-im/' | relative_url }}">apple fix my keyboard before the timer ends or im</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/an-open-replacement-for-the-ibm-3174-establishment/' | relative_url }}">an open replacement for the ibm 3174 establishment</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
