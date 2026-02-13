@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/show-hn-skill-that-lets-claude-codecodex-spin-up-v/' | relative_url }}">show hn skill that lets claude codecodex spin up v</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/show-hn-i-speak-5-languages-duolingo-taught-me-non/' | relative_url }}">show hn i speak 5 languages duolingo taught me non</a></h3>
 </div>
 <div class="article-row">
@@ -157,6 +161,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/llms-fail-at-automating-remote-work-opus-45-is-the/' | relative_url }}">llms fail at automating remote work opus 45 is the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/jsrebels-frameworkless-tacit-functional-javascript/' | relative_url }}">jsrebels frameworkless tacit functional javascript</a></h3>
 </div>
 <div class="article-row">
@@ -197,6 +205,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/gpt-52-derives-a-new-result-in-theoretical-physics/' | relative_url }}">gpt 52 derives a new result in theoretical physics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/google-might-think-your-website-is-down/' | relative_url }}">google might think your website is down</a></h3>
 </div>
 <div class="article-row">
@@ -210,6 +222,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/faster-than-dijkstra/' | relative_url }}">faster than dijkstra</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/evolving-git-for-the-next-decade/' | relative_url }}">evolving git for the next decade</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
@@ -266,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/a-deep-dive-into-apples-car-file-format/' | relative_url }}">a deep dive into apples car file format</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/118m-eu-citizens-pay-taxes-to-governments-they-can/' | relative_url }}">118m eu citizens pay taxes to governments they can</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
