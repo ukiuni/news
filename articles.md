@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/show-hn-i-speak-5-languages-duolingo-taught-me-non/' | relative_url }}">show hn i speak 5 languages duolingo taught me non</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/ring-owners-are-returning-their-cameras/' | relative_url }}">ring owners are returning their cameras</a></h3>
 </div>
 <div class="article-row">
@@ -81,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/open-source-is-not-about-you-2018/' | relative_url }}">open source is not about you 2018</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/new-nick-bostrom-paper-optimal-timing-for-superint/' | relative_url }}">new nick bostrom paper optimal timing for superint</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/my-business-as-code/' | relative_url }}">my business as code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/moss-kernel-rust-linux-compatible-kernel/' | relative_url }}">moss kernel rust linux compatible kernel</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
@@ -153,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/faster-than-dijkstra/' | relative_url }}">faster than dijkstra</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/detroit-automakers-take-50-billion-hit-as-ev-bubbl/' | relative_url }}">detroit automakers take 50 billion hit as ev bubbl</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/amazons-ring-cancels-flock-partnership-amid-super/' | relative_url }}">amazons ring cancels flock partnership amid super</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/a-laser-weapon-targeted-suspected-drones-it-hit-pa/' | relative_url }}">a laser weapon targeted suspected drones it hit pa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
