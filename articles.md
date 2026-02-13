@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/jsrebels-frameworkless-tacit-functional-javascript/' | relative_url }}">jsrebels frameworkless tacit functional javascript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/joseph-gordon-levitt-goes-to-washington-dc-gets-se/' | relative_url }}">joseph gordon levitt goes to washington dc gets se</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/google-might-think-your-website-is-down/' | relative_url }}">google might think your website is down</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/bullet-garden-a-vampire-survivors-like-game-in-a-s/' | relative_url }}">bullet garden a vampire survivors like game in a s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
