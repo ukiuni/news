@@ -89,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/show-hn-data-engineering-book-an-open-source-commu/' | relative_url }}">show hn data engineering book an open source commu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/schema-first-vs-migration-first-workflows-in-real/' | relative_url }}">schema first vs migration first workflows in real</a></h3>
 </div>
 <div class="article-row">
@@ -126,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/particle-lenia/' | relative_url }}">particle lenia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/openai-has-deleted-the-word-safely-from-its-missio/' | relative_url }}">openai has deleted the word safely from its missio</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
@@ -197,6 +205,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/im-not-worried-about-ai-job-loss/' | relative_url }}">im not worried about ai job loss</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/i-improved-15-llms-at-coding-in-one-afternoon-only/' | relative_url }}">i improved 15 llms at coding in one afternoon only</a></h3>
 </div>
 <div class="article-row">
@@ -238,6 +250,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/ftc-wants-apple-news-to-promote-more-fox-news-and/' | relative_url }}">ftc wants apple news to promote more fox news and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/ford-ceo-jim-farley-says-the-customer-has-spoken-a/' | relative_url }}">ford ceo jim farley says the customer has spoken a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
@@ -318,6 +334,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/amazons-ring-cancels-flock-partnership-amid-super/' | relative_url }}">amazons ring cancels flock partnership amid super</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/ai-bot-crabby-rathbun-is-still-polluting-open-sour/' | relative_url }}">ai bot crabby rathbun is still polluting open sour</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
