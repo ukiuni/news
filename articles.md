@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/windows-11-update-kb5077181-is-causing-critical-bo/' | relative_url }}">windows 11 update kb5077181 is causing critical bo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/what-happens-inside-postgres-when-iops-runs-out/' | relative_url }}">what happens inside postgres when iops runs out</a></h3>
 </div>
 <div class="article-row">
@@ -149,11 +153,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/meta-reportedly-wants-to-add-face-recognition-to-s/' | relative_url }}">meta reportedly wants to add face recognition to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/jsrebels-frameworkless-tacit-functional-javascript/' | relative_url }}">jsrebels frameworkless tacit functional javascript</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/joseph-gordon-levitt-goes-to-washington-dc-gets-se/' | relative_url }}">joseph gordon levitt goes to washington dc gets se</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/ironclaw-a-rust-based-clawd-that-runs-tools-in-iso/' | relative_url }}">ironclaw a rust based clawd that runs tools in iso</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
@@ -205,6 +217,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/deterministic-orchestration-vs-statistical-retries/' | relative_url }}">deterministic orchestration vs statistical retries</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/design-decision-technical-debt-in-billabear/' | relative_url }}">design decision technical debt in billabear</a></h3>
 </div>
 <div class="article-row">
@@ -246,6 +262,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/a-laser-weapon-targeted-suspected-drones-it-hit-pa/' | relative_url }}">a laser weapon targeted suspected drones it hit pa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/a-deep-dive-into-apples-car-file-format/' | relative_url }}">a deep dive into apples car file format</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/12</span>
