@@ -8,6 +8,30 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/the-timeless-way-of-programming-2022/' | relative_url }}">the timeless way of programming 2022</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/ring-owners-are-returning-their-cameras-heres-how/' | relative_url }}">ring owners are returning their cameras heres how</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/resizing-windows-on-macos-tahoe-the-saga-continues/' | relative_url }}">resizing windows on macos tahoe the saga continues</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/my-grandma-was-a-fed-lessons-from-digitizing-hours/' | relative_url }}">my grandma was a fed lessons from digitizing hours</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/how-did-the-fbi-get-nancy-guthries-google-nest-cam/' | relative_url }}">how did the fbi get nancy guthries google nest cam</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/13</span>
+  <h3><a href="{{ '/2026/02/13/aws-adds-support-for-nested-virtualization/' | relative_url }}">aws adds support for nested virtualization</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/12</span>
   <h3><a href="{{ '/2026/02/12/x-removes-classic-dim-display-option-because-they/' | relative_url }}">x removes classic dim display option because they</a></h3>
 </div>
