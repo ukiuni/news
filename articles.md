@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/vim-92-released/' | relative_url }}">vim 92 released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/verizon-imposes-new-roadblock-on-users-trying-to-u/' | relative_url }}">verizon imposes new roadblock on users trying to u</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/rendering-the-visible-spectrum/' | relative_url }}">rendering the visible spectrum</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/platforms-bend-over-backward-to-help-dhs-censor-ic/' | relative_url }}">platforms bend over backward to help dhs censor ic</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
@@ -137,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/disney-sends-cease-and-desist-letter-to-bytedance/' | relative_url }}">disney sends cease and desist letter to bytedance</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/common-lisp-screenshots-todays-cl-applications-in/' | relative_url }}">common lisp screenshots todays cl applications in</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/adventures-in-neural-rendering/' | relative_url }}">adventures in neural rendering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/a-review-of-m-disc-archival-capability-with-long-t/' | relative_url }}">a review of m disc archival capability with long t</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
