@@ -40,6 +40,10 @@ permalink: /articles/
   <h3><a href="{{ '/2026/02/14/an-ai-agent-published-a-hit-piece-on-me-more-thing/' | relative_url }}">an ai agent published a hit piece on me more thing</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/adventures-in-neural-rendering/' | relative_url }}">adventures in neural rendering</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/zed-editor-switching-graphics-lib-from-blade-to-wg/' | relative_url }}">zed editor switching graphics lib from blade to wg</a></h3>
 </div>
