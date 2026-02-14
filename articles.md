@@ -17,11 +17,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/show-hn-sql-tap-real-time-sql-traffic-viewer-for-p/' | relative_url }}">show hn sql tap real time sql traffic viewer for p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/rendering-the-visible-spectrum/' | relative_url }}">rendering the visible spectrum</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/oh-good-discords-age-verification-rollout-has-ties/' | relative_url }}">oh good discords age verification rollout has ties</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/npmx-a-fast-modern-browser-for-the-npm-registry/' | relative_url }}">npmx a fast modern browser for the npm registry</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/in-a-relationship-with-git-a-valentines-day-story/' | relative_url }}">in a relationship with git a valentines day story</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
