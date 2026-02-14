@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/why-langchain-alone-fails-in-2026-my-streamlit-swi/' | relative_url }}">why langchain alone fails in 2026 my streamlit swi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/understanding-the-go-runtime-the-bootstrap/' | relative_url }}">understanding the go runtime the bootstrap</a></h3>
 </div>
 <div class="article-row">
@@ -25,11 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/the-world-of-harmonics-with-a-coffee-guitar-and-sy/' | relative_url }}">the world of harmonics with a coffee guitar and sy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/the-three-year-myth/' | relative_url }}">the three year myth</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/the-evolution-of-openais-mission-statement/' | relative_url }}">the evolution of openais mission statement</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/swarms-of-ai-bots-can-sway-peoples-beliefs-threate/' | relative_url }}">swarms of ai bots can sway peoples beliefs threate</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
@@ -46,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/rendering-the-visible-spectrum/' | relative_url }}">rendering the visible spectrum</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/oohdirectory-a-place-to-find-good-blogs-that-inter/' | relative_url }}">oohdirectory a place to find good blogs that inter</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
@@ -70,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/how-the-little-guy-moved/' | relative_url }}">how the little guy moved</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/how-many-registers-does-an-x86-64-cpu-have-2020/' | relative_url }}">how many registers does an x86 64 cpu have 2020</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
@@ -106,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/api-documentation-tool/' | relative_url }}">api documentation tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/an-offline-crossplatform-desktop-app-for-cleaning/' | relative_url }}">an offline crossplatform desktop app for cleaning</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
