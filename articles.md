@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/understanding-the-go-compiler-the-linker/' | relative_url }}">understanding the go compiler the linker</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/the-evolution-of-openais-mission-statement/' | relative_url }}">the evolution of openais mission statement</a></h3>
 </div>
 <div class="article-row">
@@ -21,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/show-hn-i-spent-3-years-reverse-engineering-a-40-y/' | relative_url }}">show hn i spent 3 years reverse engineering a 40 y</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/rendering-the-visible-spectrum/' | relative_url }}">rendering the visible spectrum</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +38,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/npmx-a-fast-modern-browser-for-the-npm-registry/' | relative_url }}">npmx a fast modern browser for the npm registry</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/micro-frontends-when-they-make-sense-and-when-they/' | relative_url }}">micro frontends when they make sense and when they</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/meta-says-it-wont-chop-the-bottom-5-performers-thi/' | relative_url }}">meta says it wont chop the bottom 5 performers thi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
@@ -46,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/common-lisp-screenshots-todays-cl-applications-in/' | relative_url }}">common lisp screenshots todays cl applications in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/backblaze-drive-stats-for-2025/' | relative_url }}">backblaze drive stats for 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
