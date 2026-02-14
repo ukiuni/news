@@ -8,6 +8,10 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/the-evolution-of-openais-mission-statement/' | relative_url }}">the evolution of openais mission statement</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/13</span>
   <h3><a href="{{ '/2026/02/13/zed-editor-switching-graphics-lib-from-blade-to-wg/' | relative_url }}">zed editor switching graphics lib from blade to wg</a></h3>
 </div>
