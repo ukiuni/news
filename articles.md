@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/youtube-as-storage/' | relative_url }}">youtube as storage</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/understanding-the-go-compiler-the-linker/' | relative_url }}">understanding the go compiler the linker</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/how-the-little-guy-moved/' | relative_url }}">how the little guy moved</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/homeland-security-wants-social-media-sites-to-expo/' | relative_url }}">homeland security wants social media sites to expo</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/an-ai-agent-published-a-hit-piece-on-me-more-thing/' | relative_url }}">an ai agent published a hit piece on me more thing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/ai-usage-in-popular-open-source-projects/' | relative_url }}">ai usage in popular open source projects</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
