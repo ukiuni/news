@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/verizon-imposes-new-roadblock-on-users-trying-to-u/' | relative_url }}">verizon imposes new roadblock on users trying to u</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/understanding-the-go-runtime-the-bootstrap/' | relative_url }}">understanding the go runtime the bootstrap</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/shades-of-halftone/' | relative_url }}">shades of halftone</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/rendering-the-visible-spectrum/' | relative_url }}">rendering the visible spectrum</a></h3>
 </div>
 <div class="article-row">
@@ -81,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/my-smart-sleep-mask-broadcasts-users-brainwaves-to/' | relative_url }}">my smart sleep mask broadcasts users brainwaves to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/micro-frontends-when-they-make-sense-and-when-they/' | relative_url }}">micro frontends when they make sense and when they</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +102,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/in-a-relationship-with-git-a-valentines-day-story/' | relative_url }}">in a relationship with git a valentines day story</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/in-a-blind-test-audiophiles-couldnt-tell-the-diffe/' | relative_url }}">in a blind test audiophiles couldnt tell the diffe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/i-love-the-work-of-the-archwiki-maintainers/' | relative_url }}">i love the work of the archwiki maintainers</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
