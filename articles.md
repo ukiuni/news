@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/the-three-year-myth/' | relative_url }}">the three year myth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/the-evolution-of-openais-mission-statement/' | relative_url }}">the evolution of openais mission statement</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/gradienthorse/' | relative_url }}">gradienthorse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/do-not-outsource-judgement/' | relative_url }}">do not outsource judgement</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
