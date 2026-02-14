@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/show-hn-sameshi-a-1200-elo-chess-engine-that-fits/' | relative_url }}">show hn sameshi a 1200 elo chess engine that fits</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/show-hn-i-spent-3-years-reverse-engineering-a-40-y/' | relative_url }}">show hn i spent 3 years reverse engineering a 40 y</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/oohdirectory-a-place-to-find-good-blogs-that-inter/' | relative_url }}">oohdirectory a place to find good blogs that inter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/one-line-of-code-102-blocked-threads/' | relative_url }}">one line of code 102 blocked threads</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
@@ -101,11 +109,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/golf-game-built-last-night-with-claude-code-svelte/' | relative_url }}">golf game built last night with claude code svelte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/do-not-outsource-judgement/' | relative_url }}">do not outsource judgement</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/common-lisp-screenshots-todays-cl-applications-in/' | relative_url }}">common lisp screenshots todays cl applications in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/code-storage-by-the-pierre-computer-company/' | relative_url }}">code storage by the pierre computer company</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/building-a-new-excel-library-in-one-week/' | relative_url }}">building a new excel library in one week</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
@@ -142,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/adventures-in-neural-rendering/' | relative_url }}">adventures in neural rendering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/a-programmers-loss-of-identity/' | relative_url }}">a programmers loss of identity</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
