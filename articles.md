@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/what-security-engineers-need-to-know-about-quantum/' | relative_url }}">what security engineers need to know about quantum</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/vim-92-released/' | relative_url }}">vim 92 released</a></h3>
 </div>
 <div class="article-row">
@@ -69,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/show-hn-arcmark-macos-bookmark-manager-that-attach/' | relative_url }}">show hn arcmark macos bookmark manager that attach</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/shades-of-halftone/' | relative_url }}">shades of halftone</a></h3>
 </div>
 <div class="article-row">
@@ -97,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/new-repository-settings-for-configuring-pull-reque/' | relative_url }}">new repository settings for configuring pull reque</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/my-smart-sleep-mask-broadcasts-users-brainwaves-to/' | relative_url }}">my smart sleep mask broadcasts users brainwaves to</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/meta-says-it-wont-chop-the-bottom-5-performers-thi/' | relative_url }}">meta says it wont chop the bottom 5 performers thi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/integrating-a-log-management-platform-with-dokploy/' | relative_url }}">integrating a log management platform with dokploy</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
@@ -130,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/homeland-security-wants-social-media-sites-to-expo/' | relative_url }}">homeland security wants social media sites to expo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/heineken-to-slash-up-to-6000-jobs-in-ai-productivi/' | relative_url }}">heineken to slash up to 6000 jobs in ai productivi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
@@ -186,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/an-ai-agent-published-a-hit-piece-on-me-more-thing/' | relative_url }}">an ai agent published a hit piece on me more thing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/amsterdam-compiler-kit/' | relative_url }}">amsterdam compiler kit</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
