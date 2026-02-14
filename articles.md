@@ -85,11 +85,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/binance-fires-top-investigators-who-claim-to-have/' | relative_url }}">binance fires top investigators who claim to have</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/backblaze-drive-stats-for-2025/' | relative_url }}">backblaze drive stats for 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/babylon-5-is-now-free-to-watch-on-youtube/' | relative_url }}">babylon 5 is now free to watch on youtube</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/ars-technica-makes-up-quotes-from-matplotlib-maint/' | relative_url }}">ars technica makes up quotes from matplotlib maint</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/api-documentation-tool/' | relative_url }}">api documentation tool</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
@@ -102,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/adventures-in-neural-rendering/' | relative_url }}">adventures in neural rendering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/4chan-for-clankers/' | relative_url }}">4chan for clankers</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/13</span>
