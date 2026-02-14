@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/understanding-the-go-runtime-the-bootstrap/' | relative_url }}">understanding the go runtime the bootstrap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/understanding-the-go-compiler-the-linker/' | relative_url }}">understanding the go compiler the linker</a></h3>
 </div>
 <div class="article-row">
