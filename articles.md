@@ -17,6 +17,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/oh-good-discords-age-verification-rollout-has-ties/' | relative_url }}">oh good discords age verification rollout has ties</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
+  <h3><a href="{{ '/2026/02/14/npmx-a-fast-modern-browser-for-the-npm-registry/' | relative_url }}">npmx a fast modern browser for the npm registry</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/homeland-security-wants-social-media-sites-to-expo/' | relative_url }}">homeland security wants social media sites to expo</a></h3>
 </div>
 <div class="article-row">
