@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/whats-actually-possible-with-brain-computer-interf/' | relative_url }}">whats actually possible with brain computer interf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/ublock-filter-list-to-hide-all-youtube-shorts/' | relative_url }}">ublock filter list to hide all youtube shorts</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/the-ephemeral-infrastructure-paradox-and-the-need/' | relative_url }}">the ephemeral infrastructure paradox and the need</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/state-attorneys-general-want-to-tie-online-access/' | relative_url }}">state attorneys general want to tie online access</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
