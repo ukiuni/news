@@ -133,11 +133,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/magnus-carlsen-wins-the-freestyle-chess960-world-c/' | relative_url }}">magnus carlsen wins the freestyle chess960 world c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/lt6502-a-6502-based-homebrew-laptop/' | relative_url }}">lt6502 a 6502 based homebrew laptop</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/local-websocket-building-real-time-apps-that-work/' | relative_url }}">local websocket building real time apps that work</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/is-end-to-end-encryption-optional-for-large-groups/' | relative_url }}">is end to end encryption optional for large groups</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
@@ -150,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/ifixit-calls-bmws-new-anti-consumer-security-screw/' | relative_url }}">ifixit calls bmws new anti consumer security screw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/i-gave-claude-access-to-my-pen-plotter/' | relative_url }}">i gave claude access to my pen plotter</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
@@ -242,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/acer-and-asus-are-now-banned-from-selling-pcs-and/' | relative_url }}">acer and asus are now banned from selling pcs and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/a-stock-market-doom-loop-is-hitting-everything-tha/' | relative_url }}">a stock market doom loop is hitting everything tha</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
