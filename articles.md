@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/the-stock-market-is-reflecting-fears-of-an-ai-apoc/' | relative_url }}">the stock market is reflecting fears of an ai apoc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/the-great-computer-science-exodus-and-where-studen/' | relative_url }}">the great computer science exodus and where studen</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/palantir-vs-the-republik-us-analytics-firm-takes-m/' | relative_url }}">palantir vs the republik us analytics firm takes m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/package-management-namespaces/' | relative_url }}">package management namespaces</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/oat-ultra-lightweight-semantic-zero-dependency-htm/' | relative_url }}">oat ultra lightweight semantic zero dependency htm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/lt6502-a-6502-based-homebrew-laptop/' | relative_url }}">lt6502 a 6502 based homebrew laptop</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
@@ -101,7 +113,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/gwtar-a-static-efficient-single-file-html-format/' | relative_url }}">gwtar a static efficient single file html format</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/flashpoint-archive-over-200k-web-games-and-animati/' | relative_url }}">flashpoint archive over 200k web games and animati</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/eu-bans-the-destruction-of-unsold-apparel-clothing/' | relative_url }}">eu bans the destruction of unsold apparel clothing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
@@ -134,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/ai-is-going-to-kill-app-subscriptions/' | relative_url }}">ai is going to kill app subscriptions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/a-single-reason-to-not-vibe-code/' | relative_url }}">a single reason to not vibe code</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/14</span>
