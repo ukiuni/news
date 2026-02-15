@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/two-different-tricks-for-fast-llm-inference/' | relative_url }}">two different tricks for fast llm inference</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/the-great-computer-science-exodus-and-where-studen/' | relative_url }}">the great computer science exodus and where studen</a></h3>
 </div>
 <div class="article-row">
@@ -93,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/hideki-sato-designer-of-all-segas-consoles-has-die/' | relative_url }}">hideki sato designer of all segas consoles has die</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/flashpoint-archive-over-200k-web-games-and-animati/' | relative_url }}">flashpoint archive over 200k web games and animati</a></h3>
 </div>
 <div class="article-row">
@@ -101,11 +109,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/dr-oz-pushes-ai-avatars-as-a-fix-for-rural-health/' | relative_url }}">dr oz pushes ai avatars as a fix for rural health</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/discord-distances-itself-from-age-verification-fir/' | relative_url }}">discord distances itself from age verification fir</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/china-may-soon-ban-steering-yokes-mandate-physical/' | relative_url }}">china may soon ban steering yokes mandate physical</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/an-enslaved-gardener-transformed-the-pecan-into-a/' | relative_url }}">an enslaved gardener transformed the pecan into a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
