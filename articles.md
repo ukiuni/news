@@ -37,11 +37,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/the-eu-moves-to-kill-infinite-scrolling/' | relative_url }}">the eu moves to kill infinite scrolling</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/the-ephemeral-infrastructure-paradox-and-the-need/' | relative_url }}">the ephemeral infrastructure paradox and the need</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/state-attorneys-general-want-to-tie-online-access/' | relative_url }}">state attorneys general want to tie online access</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/show-hn-voog-moog-style-polyphonic-synthesizer-in/' | relative_url }}">show hn voog moog style polyphonic synthesizer in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/show-hn-microgpt-is-a-gpt-you-can-visualize-in-the/' | relative_url }}">show hn microgpt is a gpt you can visualize in the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
@@ -105,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/modern-css-code-snippets-stop-writing-css-like-its/' | relative_url }}">modern css code snippets stop writing css like its</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/lt6502-a-6502-based-homebrew-laptop/' | relative_url }}">lt6502 a 6502 based homebrew laptop</a></h3>
 </div>
 <div class="article-row">
@@ -145,6 +161,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/gnu-pies-program-invocation-and-execution-supervis/' | relative_url }}">gnu pies program invocation and execution supervis</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/flashpoint-archive-over-200k-web-games-and-animati/' | relative_url }}">flashpoint archive over 200k web games and animati</a></h3>
 </div>
 <div class="article-row">
@@ -157,11 +177,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/editors-note-retraction-of-article-containing-fabr/' | relative_url }}">editors note retraction of article containing fabr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/e2ee-the-be-all-and-end-all-of-chat/' | relative_url }}">e2ee the be all and end all of chat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/dr-oz-pushes-ai-avatars-as-a-fix-for-rural-health/' | relative_url }}">dr oz pushes ai avatars as a fix for rural health</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/discord-distances-itself-from-age-verification-fir/' | relative_url }}">discord distances itself from age verification fir</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/defer-available-in-gcc-and-clang/' | relative_url }}">defer available in gcc and clang</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
