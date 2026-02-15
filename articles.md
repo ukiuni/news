@@ -8,6 +8,118 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/zig-landed-io_uring-and-grand-central-dispatch-std/' | relative_url }}">zig landed io_uring and grand central dispatch std</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/ublock-filter-list-to-hide-all-youtube-shorts/' | relative_url }}">ublock filter list to hide all youtube shorts</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/the-great-computer-science-exodus-and-where-studen/' | relative_url }}">the great computer science exodus and where studen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/the-ephemeral-infrastructure-paradox-and-the-need/' | relative_url }}">the ephemeral infrastructure paradox and the need</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/rynnbrain/' | relative_url }}">rynnbrain</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/ring-programming-language-version-126-is-released/' | relative_url }}">ring programming language version 126 is released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/reversed-engineered-game-starflight-1986/' | relative_url }}">reversed engineered game starflight 1986</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/rethinking-java-web-uis-with-jakarta-faces-and-qua/' | relative_url }}">rethinking java web uis with jakarta faces and qua</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/researcher-skeptical-of-havana-syndrome-tested-sec/' | relative_url }}">researcher skeptical of havana syndrome tested sec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/redefining-go-functions/' | relative_url }}">redefining go functions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/re-creating-a-pantone-color-deck-in-css/' | relative_url }}">re creating a pantone color deck in css</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/payment-gateway/' | relative_url }}">payment gateway</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/package-management-namespaces/' | relative_url }}">package management namespaces</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/openai-retired-its-most-seductive-chatbot-leaving/' | relative_url }}">openai retired its most seductive chatbot leaving</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/once-unthinkable-canada-may-choose-a-non-us-fighte/' | relative_url }}">once unthinkable canada may choose a non us fighte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/oat-ultra-lightweight-semantic-zero-dependency-htm/' | relative_url }}">oat ultra lightweight semantic zero dependency htm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/ifixit-calls-bmws-new-anti-consumer-security-screw/' | relative_url }}">ifixit calls bmws new anti consumer security screw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/i-fixed-windows-native-development/' | relative_url }}">i fixed windows native development</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/how-to-add-drm-to-your-backend-easy-2026-working/' | relative_url }}">how to add drm to your backend easy 2026 working</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/how-michael-abrash-doubled-quake-framerate/' | relative_url }}">how michael abrash doubled quake framerate</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/how-is-data-stored/' | relative_url }}">how is data stored</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/flashpoint-archive-over-200k-web-games-and-animati/' | relative_url }}">flashpoint archive over 200k web games and animati</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/elon-musks-xai-loses-second-cofounder-in-48-hours/' | relative_url }}">elon musks xai loses second cofounder in 48 hours</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/discord-distances-itself-from-age-verification-fir/' | relative_url }}">discord distances itself from age verification fir</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/china-may-soon-ban-steering-yokes-mandate-physical/' | relative_url }}">china may soon ban steering yokes mandate physical</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/all-us-social-security-numbers-may-need-to-be-chan/' | relative_url }}">all us social security numbers may need to be chan</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/ai-is-slowly-munching-away-my-passion/' | relative_url }}">ai is slowly munching away my passion</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/ai-is-going-to-kill-app-subscriptions/' | relative_url }}">ai is going to kill app subscriptions</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/14</span>
   <h3><a href="{{ '/2026/02/14/zig-io_uring-and-grand-central-dispatch-stdio-impl/' | relative_url }}">zig io_uring and grand central dispatch stdio impl</a></h3>
 </div>
