@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/towards-autonomous-mathematics-research/' | relative_url }}">towards autonomous mathematics research</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/the-stock-market-is-reflecting-fears-of-an-ai-apoc/' | relative_url }}">the stock market is reflecting fears of an ai apoc</a></h3>
 </div>
 <div class="article-row">
@@ -57,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/real-time-pathtracing-with-global-illumination-in/' | relative_url }}">real time pathtracing with global illumination in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/re-creating-a-pantone-color-deck-in-css/' | relative_url }}">re creating a pantone color deck in css</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/palantir-vs-the-republik-us-analytics-firm-takes-m/' | relative_url }}">palantir vs the republik us analytics firm takes m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/palantir-gets-millions-of-dollars-from-new-york-ci/' | relative_url }}">palantir gets millions of dollars from new york ci</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
@@ -89,11 +101,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/instead-of-ai-reviewing-code-i-want-ai-to-help-hum/' | relative_url }}">instead of ai reviewing code i want ai to help hum</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/ifixit-calls-bmws-new-anti-consumer-security-screw/' | relative_url }}">ifixit calls bmws new anti consumer security screw</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/i-fixed-windows-native-development/' | relative_url }}">i fixed windows native development</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/15</span>
+  <h3><a href="{{ '/2026/02/15/how-to-choose-between-hindley-milner-and-bidirecti/' | relative_url }}">how to choose between hindley milner and bidirecti</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
