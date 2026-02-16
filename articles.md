@@ -29,11 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/japan-has-created-the-worlds-first-engine-that-gen/' | relative_url }}">japan has created the worlds first engine that gen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/i-love-board-games-a-personal-obsession-explained/' | relative_url }}">i love board games a personal obsession explained</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/how-to-build-a-browser-based-3d-modeling-app-techn/' | relative_url }}">how to build a browser based 3d modeling app techn</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/how-long-do-job-postings-stay-open/' | relative_url }}">how long do job postings stay open</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
