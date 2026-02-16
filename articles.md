@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/the-sideprocalypse/' | relative_url }}">the sideprocalypse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/the-israeli-spyware-firm-that-accidentally-just-ex/' | relative_url }}">the israeli spyware firm that accidentally just ex</a></h3>
 </div>
 <div class="article-row">
@@ -89,6 +93,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/postgresql-bloat-is-a-feature-not-a-bug/' | relative_url }}">postgresql bloat is a feature not a bug</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/please-consider-tagging-a-vibecoding-griefpost-or/' | relative_url }}">please consider tagging a vibecoding griefpost or</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/pink-noise-reduces-rem-sleep-and-may-harm-sleep-qu/' | relative_url }}">pink noise reduces rem sleep and may harm sleep qu</a></h3>
 </div>
 <div class="article-row">
@@ -129,6 +141,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/i-sold-out-for-20-a-month-and-all-i-got-was-this-p/' | relative_url }}">i sold out for 20 a month and all i got was this p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/i-love-board-games-a-personal-obsession-explained/' | relative_url }}">i love board games a personal obsession explained</a></h3>
 </div>
 <div class="article-row">
@@ -142,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/how-i-cheated-on-transactions-or-how-to-make-trade/' | relative_url }}">how i cheated on transactions or how to make trade</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/how-a-dev-friend-and-i-brought-two-avatars-to-life/' | relative_url }}">how a dev friend and i brought two avatars to life</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -181,11 +201,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/browse-code-by-meaning/' | relative_url }}">browse code by meaning</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/arm-wants-a-bigger-slice-of-the-chip-business/' | relative_url }}">arm wants a bigger slice of the chip business</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/anthropic-tries-to-hide-claudes-ai-actions-devs-ha/' | relative_url }}">anthropic tries to hide claudes ai actions devs ha</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/anthropic-ceo-dario-amodei-suggests-openai-doesnt/' | relative_url }}">anthropic ceo dario amodei suggests openai doesnt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
