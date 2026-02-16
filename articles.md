@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/why-skip-the-code-ship-the-binary-is-a-category-er/' | relative_url }}">why skip the code ship the binary is a category er</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/why-does-aluminum-foil-have-one-shiny-side-and-one/' | relative_url }}">why does aluminum foil have one shiny side and one</a></h3>
 </div>
 <div class="article-row">
@@ -25,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/rufus-blames-microsoft-for-allegedly-blocking-late/' | relative_url }}">rufus blames microsoft for allegedly blocking late</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/regular-expression-matching-can-be-simple-and-fast/' | relative_url }}">regular expression matching can be simple and fast</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/picol-a-tcl-interpreter-in-500-lines-of-code/' | relative_url }}">picol a tcl interpreter in 500 lines of code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/lost-soviet-moon-lander-may-have-been-found/' | relative_url }}">lost soviet moon lander may have been found</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
