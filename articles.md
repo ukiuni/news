@@ -77,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/the-pentagon-just-sent-a-terrifying-message-to-ai/' | relative_url }}">the pentagon just sent a terrifying message to ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/the-israeli-spyware-firm-that-accidentally-just-ex/' | relative_url }}">the israeli spyware firm that accidentally just ex</a></h3>
 </div>
 <div class="article-row">
@@ -121,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/show-hn-scanned-1927-1945-daily-usfs-work-diary/' | relative_url }}">show hn scanned 1927 1945 daily usfs work diary</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/show-hn-jemini-gemini-for-the-epstein-files/' | relative_url }}">show hn jemini gemini for the epstein files</a></h3>
 </div>
 <div class="article-row">
@@ -130,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/runtime-validation-in-type-annotations/' | relative_url }}">runtime validation in type annotations</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/running-nanoclaw-in-a-docker-shell-sandbox/' | relative_url }}">running nanoclaw in a docker shell sandbox</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -281,6 +293,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/five-git-config-settings-every-dev-needs/' | relative_url }}">five git config settings every dev needs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/final-fight-enhanced-final-edition-complete-breakd/' | relative_url }}">final fight enhanced final edition complete breakd</a></h3>
 </div>
 <div class="article-row">
@@ -310,6 +326,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/data-center-builders-like-meta-will-be-forced-to-i/' | relative_url }}">data center builders like meta will be forced to i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/common-async-coalescing-patterns/' | relative_url }}">common async coalescing patterns</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -366,6 +386,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/1300-year-old-world-chronicle-unearthed-in-sinai/' | relative_url }}">1300 year old world chronicle unearthed in sinai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/10-years-building-vertical-software-are-we-cooked/' | relative_url }}">10 years building vertical software are we cooked</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
