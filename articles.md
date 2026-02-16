@@ -9,11 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/why-does-aluminum-foil-have-one-shiny-side-and-one/' | relative_url }}">why does aluminum foil have one shiny side and one</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/upg-desktop-022-a-universal-project-generator-that/' | relative_url }}">upg desktop 022 a universal project generator that</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/uk-government-announces-sweeping-crackdown-on-soci/' | relative_url }}">uk government announces sweeping crackdown on soci</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/runtime-validation-in-type-annotations/' | relative_url }}">runtime validation in type annotations</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -33,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/i-want-to-wash-my-car-the-car-wash-is-50-meters-aw/' | relative_url }}">i want to wash my car the car wash is 50 meters aw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/i-love-board-games-a-personal-obsession-explained/' | relative_url }}">i love board games a personal obsession explained</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/how-long-do-job-postings-stay-open/' | relative_url }}">how long do job postings stay open</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/expensively-quadratic-the-llm-agent-cost-curve/' | relative_url }}">expensively quadratic the llm agent cost curve</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -58,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/data-center-builders-like-meta-will-be-forced-to-i/' | relative_url }}">data center builders like meta will be forced to i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/building-sqlite-with-a-small-swarm/' | relative_url }}">building sqlite with a small swarm</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
