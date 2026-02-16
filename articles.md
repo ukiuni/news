@@ -13,7 +13,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/why-learning-basic-robotics-made-me-a-better-softw/' | relative_url }}">why learning basic robotics made me a better softw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/why-does-aluminum-foil-have-one-shiny-side-and-one/' | relative_url }}">why does aluminum foil have one shiny side and one</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/vim-pencil-rethinking-vim-as-a-tool-for-writing/' | relative_url }}">vim pencil rethinking vim as a tool for writing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -106,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/arm-wants-a-bigger-slice-of-the-chip-business/' | relative_url }}">arm wants a bigger slice of the chip business</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/ai-surgery-tool-blamed-for-injuring-patients-inste/' | relative_url }}">ai surgery tool blamed for injuring patients inste</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
