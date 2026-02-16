@@ -36,6 +36,10 @@ permalink: /articles/
   <h3><a href="{{ '/2026/02/16/building-a-self-hosted-google-trends-alternative-w/' | relative_url }}">building a self hosted google trends alternative w</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/arm-wants-a-bigger-slice-of-the-chip-business/' | relative_url }}">arm wants a bigger slice of the chip business</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/15</span>
   <h3><a href="{{ '/2026/02/15/zig-landed-io_uring-and-grand-central-dispatch-std/' | relative_url }}">zig landed io_uring and grand central dispatch std</a></h3>
 </div>
