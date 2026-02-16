@@ -113,11 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/show-hn-wildex-we-built-pokmon-go-for-real-wildlif/' | relative_url }}">show hn wildex we built pokmon go for real wildlif</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/show-hn-simple-org-mode-web-adapter/' | relative_url }}">show hn simple org mode web adapter</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/show-hn-jemini-gemini-for-the-epstein-files/' | relative_url }}">show hn jemini gemini for the epstein files</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/show-hn-free-alternative-to-wispr-flow-superwhispe/' | relative_url }}">show hn free alternative to wispr flow superwhispe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -193,11 +201,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/meta-patents-ai-that-takes-over-a-dead-persons-acc/' | relative_url }}">meta patents ai that takes over a dead persons acc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/messageformat-unicode-standard-for-localizable-mes/' | relative_url }}">messageformat unicode standard for localizable mes</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/lost-soviet-moon-lander-may-have-been-found/' | relative_url }}">lost soviet moon lander may have been found</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/lets-practice-bsdrd/' | relative_url }}">lets practice bsdrd</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -265,6 +281,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/final-fight-enhanced-final-edition-complete-breakd/' | relative_url }}">final fight enhanced final edition complete breakd</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/expensively-quadratic-the-llm-agent-cost-curve/' | relative_url }}">expensively quadratic the llm agent cost curve</a></h3>
 </div>
 <div class="article-row">
@@ -310,6 +330,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/browse-code-by-meaning/' | relative_url }}">browse code by meaning</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/best-buy-worker-used-managers-code-to-get-99-off-m/' | relative_url }}">best buy worker used managers code to get 99 off m</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
