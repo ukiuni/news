@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/use-protocols-not-services/' | relative_url }}">use protocols not services</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/upg-desktop-022-a-universal-project-generator-that/' | relative_url }}">upg desktop 022 a universal project generator that</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/the-israeli-spyware-firm-that-accidentally-just-ex/' | relative_url }}">the israeli spyware firm that accidentally just ex</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/synthetic-data-in-2026-separating-the-legitimate-u/' | relative_url }}">synthetic data in 2026 separating the legitimate u</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -133,6 +141,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/open-source-games-a-list-of-open-source-games/' | relative_url }}">open source games a list of open source games</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/one-of-the-most-annoying-programming-challenges-iv/' | relative_url }}">one of the most annoying programming challenges iv</a></h3>
 </div>
 <div class="article-row">
@@ -177,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/how-to-take-a-photo-with-scotch-tape-lensless-imag/' | relative_url }}">how to take a photo with scotch tape lensless imag</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/how-to-build-a-browser-based-3d-modeling-app-techn/' | relative_url }}">how to build a browser based 3d modeling app techn</a></h3>
 </div>
 <div class="article-row">
@@ -210,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/error-payloads-in-zig/' | relative_url }}">error payloads in zig</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/docker-swarm-vs-kubernetes-in-2026/' | relative_url }}">docker swarm vs kubernetes in 2026</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
