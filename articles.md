@@ -37,6 +37,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/the-israeli-spyware-firm-that-accidentally-just-ex/' | relative_url }}">the israeli spyware firm that accidentally just ex</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/state-of-the-art-of-container-security-adrian-moua/' | relative_url }}">state of the art of container security adrian moua</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/state-department-orders-nonprofit-libraries-to-sto/' | relative_url }}">state department orders nonprofit libraries to sto</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/runtime-validation-in-type-annotations/' | relative_url }}">runtime validation in type annotations</a></h3>
 </div>
 <div class="article-row">
