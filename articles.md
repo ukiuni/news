@@ -13,7 +13,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/uk-government-announces-sweeping-crackdown-on-soci/' | relative_url }}">uk government announces sweeping crackdown on soci</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/regular-expression-matching-can-be-simple-and-fast/' | relative_url }}">regular expression matching can be simple and fast</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/pink-noise-reduces-rem-sleep-and-may-harm-sleep-qu/' | relative_url }}">pink noise reduces rem sleep and may harm sleep qu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/javascript-heavy-approaches-are-not-compatible-wit/' | relative_url }}">javascript heavy approaches are not compatible wit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/i-love-board-games-a-personal-obsession-explained/' | relative_url }}">i love board games a personal obsession explained</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
