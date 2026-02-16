@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/x-is-down-again-heres-what-we-know-about-the-lates/' | relative_url }}">x is down again heres what we know about the lates</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/x-goes-down-social-media-site-not-working-for-thou/' | relative_url }}">x goes down social media site not working for thou</a></h3>
 </div>
 <div class="article-row">
@@ -53,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/type-based-alias-analysis-in-the-toy-optimizer/' | relative_url }}">type based alias analysis in the toy optimizer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/til-docker-log-rotation/' | relative_url }}">til docker log rotation</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/show-hn-simple-org-mode-web-adapter/' | relative_url }}">show hn simple org mode web adapter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/show-hn-jemini-gemini-for-the-epstein-files/' | relative_url }}">show hn jemini gemini for the epstein files</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -134,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/picol-a-tcl-interpreter-in-500-lines-of-code/' | relative_url }}">picol a tcl interpreter in 500 lines of code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/pcb-rework-and-repair-guide-pdf/' | relative_url }}">pcb rework and repair guide pdf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -197,6 +213,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/how-not-to-answer-the-salary-question/' | relative_url }}">how not to answer the salary question</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/how-long-do-job-postings-stay-open/' | relative_url }}">how long do job postings stay open</a></h3>
 </div>
 <div class="article-row">
@@ -249,6 +269,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/carbon-dysphoria/' | relative_url }}">carbon dysphoria</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/bytedances-seedance-20-ai-video-generator-sparks-h/' | relative_url }}">bytedances seedance 20 ai video generator sparks h</a></h3>
 </div>
 <div class="article-row">
@@ -286,6 +310,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/a-relationship-between-the-collatz-conjecture-and/' | relative_url }}">a relationship between the collatz conjecture and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/14-year-old-miles-wu-folded-origami-pattern-that-h/' | relative_url }}">14 year old miles wu folded origami pattern that h</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
