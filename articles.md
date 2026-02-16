@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/visual-introduction-to-pytorch/' | relative_url }}">visual introduction to pytorch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/vim-pencil-rethinking-vim-as-a-tool-for-writing/' | relative_url }}">vim pencil rethinking vim as a tool for writing</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/trillion-dollar-ai-market-wipeout-happened-because/' | relative_url }}">trillion dollar ai market wipeout happened because</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/til-docker-log-rotation/' | relative_url }}">til docker log rotation</a></h3>
 </div>
 <div class="article-row">
@@ -73,11 +81,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/testing-postgres-race-conditions-with-synchronizat/' | relative_url }}">testing postgres race conditions with synchronizat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/synthetic-data-in-2026-separating-the-legitimate-u/' | relative_url }}">synthetic data in 2026 separating the legitimate u</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/suicide-linux-2009/' | relative_url }}">suicide linux 2009</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/study-self-generated-agent-skills-are-useless/' | relative_url }}">study self generated agent skills are useless</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/state-of-the-art-of-container-security-adrian-moua/' | relative_url }}">state of the art of container security adrian moua</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/state-of-show-hn-2025/' | relative_url }}">state of show hn 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
