@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/upg-desktop-022-a-universal-project-generator-that/' | relative_url }}">upg desktop 022 a universal project generator that</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/pink-noise-reduces-rem-sleep-and-may-harm-sleep-qu/' | relative_url }}">pink noise reduces rem sleep and may harm sleep qu</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +22,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/error-payloads-in-zig/' | relative_url }}">error payloads in zig</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/deep-blue/' | relative_url }}">deep blue</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
