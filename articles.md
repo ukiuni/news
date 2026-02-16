@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/webmcp-proposal/' | relative_url }}">webmcp proposal</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/vim-pencil-rethinking-vim-as-a-tool-for-writing/' | relative_url }}">vim pencil rethinking vim as a tool for writing</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/uk-government-announces-sweeping-crackdown-on-soci/' | relative_url }}">uk government announces sweeping crackdown on soci</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/til-docker-log-rotation/' | relative_url }}">til docker log rotation</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -101,6 +109,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/privilege-is-bad-grammar/' | relative_url }}">privilege is bad grammar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/postgresql-bloat-is-a-feature-not-a-bug/' | relative_url }}">postgresql bloat is a feature not a bug</a></h3>
 </div>
 <div class="article-row">
@@ -118,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/parents-opt-kids-out-of-school-computers-insisting/' | relative_url }}">parents opt kids out of school computers insisting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/one-of-the-most-annoying-programming-challenges-iv/' | relative_url }}">one of the most annoying programming challenges iv</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -157,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/i-guess-i-kinda-get-why-people-hate-ai/' | relative_url }}">i guess i kinda get why people hate ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/how-to-build-a-browser-based-3d-modeling-app-techn/' | relative_url }}">how to build a browser based 3d modeling app techn</a></h3>
 </div>
 <div class="article-row">
@@ -177,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/goodbye-to-nuclear-submarines-australia-signed-a-3/' | relative_url }}">goodbye to nuclear submarines australia signed a 3</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/ghidra-by-nsa/' | relative_url }}">ghidra by nsa</a></h3>
 </div>
 <div class="article-row">
@@ -189,6 +213,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/diagnostics-factory/' | relative_url }}">diagnostics factory</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/deep-blue/' | relative_url }}">deep blue</a></h3>
 </div>
 <div class="article-row">
@@ -198,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/data-center-builders-like-meta-will-be-forced-to-i/' | relative_url }}">data center builders like meta will be forced to i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/bytedances-seedance-20-ai-video-generator-sparks-h/' | relative_url }}">bytedances seedance 20 ai video generator sparks h</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
