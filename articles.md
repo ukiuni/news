@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/x-goes-down-social-media-site-not-working-for-thou/' | relative_url }}">x goes down social media site not working for thou</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/why-skip-the-code-ship-the-binary-is-a-category-er/' | relative_url }}">why skip the code ship the binary is a category er</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +22,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/why-does-aluminum-foil-have-one-shiny-side-and-one/' | relative_url }}">why does aluminum foil have one shiny side and one</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/what-your-bluetooth-devices-reveal-about-you/' | relative_url }}">what your bluetooth devices reveal about you</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -49,7 +57,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/stackoverflow-programming-challenge-16-change-is-t/' | relative_url }}">stackoverflow programming challenge 16 change is t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/runtime-validation-in-type-annotations/' | relative_url }}">runtime validation in type annotations</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/running-my-own-xmpp-server/' | relative_url }}">running my own xmpp server</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -69,11 +85,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/ps6-could-reportedly-be-delayed-while-switch-2-mig/' | relative_url }}">ps6 could reportedly be delayed while switch 2 mig</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/pink-noise-reduces-rem-sleep-and-may-harm-sleep-qu/' | relative_url }}">pink noise reduces rem sleep and may harm sleep qu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/picol-a-tcl-interpreter-in-500-lines-of-code/' | relative_url }}">picol a tcl interpreter in 500 lines of code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/parents-opt-kids-out-of-school-computers-insisting/' | relative_url }}">parents opt kids out of school computers insisting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/ministry-of-justice-orders-deletion-of-the-uks-lar/' | relative_url }}">ministry of justice orders deletion of the uks lar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
@@ -121,6 +149,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/ghidra-by-nsa/' | relative_url }}">ghidra by nsa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/expensively-quadratic-the-llm-agent-cost-curve/' | relative_url }}">expensively quadratic the llm agent cost curve</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/ai-hard-drives-are-already-sold-out-for-the-entire/' | relative_url }}">ai hard drives are already sold out for the entire</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/a-relationship-between-the-collatz-conjecture-and/' | relative_url }}">a relationship between the collatz conjecture and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
