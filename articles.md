@@ -9,7 +9,23 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/pink-noise-reduces-rem-sleep-and-may-harm-sleep-qu/' | relative_url }}">pink noise reduces rem sleep and may harm sleep qu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/how-to-build-a-browser-based-3d-modeling-app-techn/' | relative_url }}">how to build a browser based 3d modeling app techn</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/error-payloads-in-zig/' | relative_url }}">error payloads in zig</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/data-center-builders-like-meta-will-be-forced-to-i/' | relative_url }}">data center builders like meta will be forced to i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/building-a-self-hosted-google-trends-alternative-w/' | relative_url }}">building a self hosted google trends alternative w</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/15</span>
