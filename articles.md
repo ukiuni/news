@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/show-hn-simple-org-mode-web-adapter/' | relative_url }}">show hn simple org mode web adapter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/runtime-validation-in-type-annotations/' | relative_url }}">runtime validation in type annotations</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/regular-expression-matching-can-be-simple-and-fast/' | relative_url }}">regular expression matching can be simple and fast</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/read-then-write-batching-db-queries-as-a-practical/' | relative_url }}">read then write batching db queries as a practical</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
