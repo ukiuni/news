@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/16</span>
+  <h3><a href="{{ '/2026/02/16/databases-should-contain-their-own-metadata-use-sq/' | relative_url }}">databases should contain their own metadata use sq</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/data-center-builders-like-meta-will-be-forced-to-i/' | relative_url }}">data center builders like meta will be forced to i</a></h3>
 </div>
 <div class="article-row">
