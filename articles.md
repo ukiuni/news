@@ -9,11 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/your-read-later-list-is-a-graveyard-it-is-time-to/' | relative_url }}">your read later list is a graveyard it is time to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/writing-a-native-vlc-plugin-in-c/' | relative_url }}">writing a native vlc plugin in c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/why-affordability-and-the-vibecession-are-real-eco/' | relative_url }}">why affordability and the vibecession are real eco</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -46,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/show-hn-i-built-a-tool-to-un-dumb-claude-codes-cli/' | relative_url }}">show hn i built a tool to un dumb claude codes cli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/show-hn-glitchy-camera-a-circuit-bent-camera-simul/' | relative_url }}">show hn glitchy camera a circuit bent camera simul</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -106,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/how-would-you-design-a-distributed-cache-for-a-hig/' | relative_url }}">how would you design a distributed cache for a hig</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/how-teaching-molecules-to-think-is-revealing-what/' | relative_url }}">how teaching molecules to think is revealing what</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
