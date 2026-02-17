@@ -8,6 +8,26 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/rise-of-the-triforce/' | relative_url }}">rise of the triforce</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/petri-nets-as-a-universal-abstraction/' | relative_url }}">petri nets as a universal abstraction</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/nvidia-with-unusually-fast-coding-model-on-plate-s/' | relative_url }}">nvidia with unusually fast coding model on plate s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/many-consumer-electronics-manufacturers-will-go-ba/' | relative_url }}">many consumer electronics manufacturers will go ba</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/ai-is-destroying-open-source-and-its-not-even-good/' | relative_url }}">ai is destroying open source and its not even good</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/16</span>
   <h3><a href="{{ '/2026/02/16/x-is-down-again-heres-what-we-know-about-the-lates/' | relative_url }}">x is down again heres what we know about the lates</a></h3>
 </div>
