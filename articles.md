@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/what-every-compiler-writer-should-know-about-progr/' | relative_url }}">what every compiler writer should know about progr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/test-your-postgresql-database-like-a-sorcerer/' | relative_url }}">test your postgresql database like a sorcerer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/show-hn-andrej-karpathys-microgptpy-to-c99-microgp/' | relative_url }}">show hn andrej karpathys microgptpy to c99 microgp</a></h3>
 </div>
 <div class="article-row">
