@@ -69,7 +69,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/level-of-detail/' | relative_url }}">level of detail</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/instagram-boss-says-16-hours-of-daily-use-is-probl/' | relative_url }}">instagram boss says 16 hours of daily use is probl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/i-stopped-trying-to-learn-every-devops-tool-and-st/' | relative_url }}">i stopped trying to learn every devops tool and st</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -78,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/four-column-ascii-2017/' | relative_url }}">four column ascii 2017</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/evaluating-agentsmd-are-they-helpful-for-coding-ag/' | relative_url }}">evaluating agentsmd are they helpful for coding ag</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
