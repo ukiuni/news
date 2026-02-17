@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/websocket-build-real-time-apps-the-right-way-golan/' | relative_url }}">websocket build real time apps the right way golan</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/web-development-is-more-than-frontend-and-backend/' | relative_url }}">web development is more than frontend and backend</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/test-your-postgresql-database-like-a-sorcerer/' | relative_url }}">test your postgresql database like a sorcerer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/tesla-robotaxis-reportedly-crashing-at-a-rate-that/' | relative_url }}">tesla robotaxis reportedly crashing at a rate that</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -157,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/physicists-make-electrons-flow-like-water/' | relative_url }}">physicists make electrons flow like water</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/petri-nets-as-a-universal-abstraction/' | relative_url }}">petri nets as a universal abstraction</a></h3>
 </div>
 <div class="article-row">
@@ -165,7 +177,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/patenting-appscode/' | relative_url }}">patenting appscode</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/nvidia-with-unusually-fast-coding-model-on-plate-s/' | relative_url }}">nvidia with unusually fast coding model on plate s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/meta-to-retire-messenger-desktop-app-and-messenger/' | relative_url }}">meta to retire messenger desktop app and messenger</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -294,6 +314,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/asyncawait-on-the-gpu/' | relative_url }}">asyncawait on the gpu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/andrew-yang-says-ai-will-wipe-out-millions-of-whit/' | relative_url }}">andrew yang says ai will wipe out millions of whit</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
