@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/why-ai-writing-is-so-generic-boring-and-dangerous/' | relative_url }}">why ai writing is so generic boring and dangerous</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/why-affordability-and-the-vibecession-are-real-eco/' | relative_url }}">why affordability and the vibecession are real eco</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/what-every-compiler-writer-should-know-about-progr/' | relative_url }}">what every compiler writer should know about progr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/web-development-is-more-than-frontend-and-backend/' | relative_url }}">web development is more than frontend and backend</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -69,11 +77,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/show-hn-price-per-ball-site-that-sorts-golf-balls/' | relative_url }}">show hn price per ball site that sorts golf balls</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/show-hn-i-built-a-tool-to-un-dumb-claude-codes-cli/' | relative_url }}">show hn i built a tool to un dumb claude codes cli</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/show-hn-glitchy-camera-a-circuit-bent-camera-simul/' | relative_url }}">show hn glitchy camera a circuit bent camera simul</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/show-hn-cycast-high-performance-radio-streaming-se/' | relative_url }}">show hn cycast high performance radio streaming se</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -161,6 +177,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/get-ready-for-a-flood-of-cheap-used-evs/' | relative_url }}">get ready for a flood of cheap used evs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/four-column-ascii-2017/' | relative_url }}">four column ascii 2017</a></h3>
 </div>
 <div class="article-row">
@@ -186,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/dark-web-agent-spotted-bedroom-wall-clue-to-rescue/' | relative_url }}">dark web agent spotted bedroom wall clue to rescue</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/cbs-didnt-air-rep-james-talarico-interview-out-of/' | relative_url }}">cbs didnt air rep james talarico interview out of</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
