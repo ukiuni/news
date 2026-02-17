@@ -193,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/one-page-of-async-rust/' | relative_url }}">one page of async rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/nvidia-with-unusually-fast-coding-model-on-plate-s/' | relative_url }}">nvidia with unusually fast coding model on plate s</a></h3>
 </div>
 <div class="article-row">
@@ -226,6 +230,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/instagram-boss-says-16-hours-of-daily-use-is-probl/' | relative_url }}">instagram boss says 16 hours of daily use is probl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/i-swear-the-ufo-is-coming-any-minute/' | relative_url }}">i swear the ufo is coming any minute</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -301,6 +309,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/docrawl-rust-cli-that-crawls-documentation-sites-a/' | relative_url }}">docrawl rust cli that crawls documentation sites a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/discord-rival-gets-overwhelmed-by-mass-exodus-of-p/' | relative_url }}">discord rival gets overwhelmed by mass exodus of p</a></h3>
 </div>
 <div class="article-row">
@@ -310,6 +322,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/dark-web-agent-spotted-bedroom-wall-clue-to-rescue/' | relative_url }}">dark web agent spotted bedroom wall clue to rescue</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/computer-adaptive-learning-system-in-24-hours-usin/' | relative_url }}">computer adaptive learning system in 24 hours usin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -338,6 +354,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/becoming-1-better-each-day/' | relative_url }}">becoming 1 better each day</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/bayer-agrees-to-725-billion-proposed-settlement-ov/' | relative_url }}">bayer agrees to 725 billion proposed settlement ov</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/barracuda-open-source-cuda-compiler-targeting-amd/' | relative_url }}">barracuda open source cuda compiler targeting amd</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
