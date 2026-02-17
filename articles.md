@@ -137,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/i-converted-2d-conventional-flight-tracking-into-3/' | relative_url }}">i converted 2d conventional flight tracking into 3</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/i-built-a-free-chrome-extension-to-track-claude-us/' | relative_url }}">i built a free chrome extension to track claude us</a></h3>
 </div>
 <div class="article-row">
@@ -146,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/how-teaching-molecules-to-think-is-revealing-what/' | relative_url }}">how teaching molecules to think is revealing what</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/hobby-coder-accidentally-creates-vacuum-robot-army/' | relative_url }}">hobby coder accidentally creates vacuum robot army</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -173,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/discord-rival-gets-overwhelmed-by-mass-exodus-of-p/' | relative_url }}">discord rival gets overwhelmed by mass exodus of p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/dark-web-agent-spotted-bedroom-wall-clue-to-rescue/' | relative_url }}">dark web agent spotted bedroom wall clue to rescue</a></h3>
 </div>
 <div class="article-row">
@@ -181,7 +193,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/becoming-1-better-each-day/' | relative_url }}">becoming 1 better each day</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/an-ai-called-winter-neurosymbolic-computation-or-i/' | relative_url }}">an ai called winter neurosymbolic computation or i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/americas-pensions-cant-beat-vanguard-but-they-can/' | relative_url }}">americas pensions cant beat vanguard but they can</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
