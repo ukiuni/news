@@ -21,7 +21,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/wd-and-seagate-confirm-hard-drives-sold-out-for-20/' | relative_url }}">wd and seagate confirm hard drives sold out for 20</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/thinking-hard-burns-almost-no-caloriesbut-destroys/' | relative_url }}">thinking hard burns almost no caloriesbut destroys</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/the-servo-project-and-its-impact-on-the-web-platfo/' | relative_url }}">the servo project and its impact on the web platfo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
