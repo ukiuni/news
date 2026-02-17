@@ -45,7 +45,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/vinyl-cache-has-left-github/' | relative_url }}">vinyl cache has left github</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/valve-breaks-its-silence-on-steam-deck-oled-scarci/' | relative_url }}">valve breaks its silence on steam deck oled scarci</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/using-go-fix-to-modernize-go-code/' | relative_url }}">using go fix to modernize go code</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -61,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/the-next-version-of-curling-io/' | relative_url }}">the next version of curling io</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/test-your-postgresql-database-like-a-sorcerer/' | relative_url }}">test your postgresql database like a sorcerer</a></h3>
 </div>
 <div class="article-row">
@@ -69,11 +81,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/surrealdb-30-improved-stability-performance-and-to/' | relative_url }}">surrealdb 30 improved stability performance and to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/state-of-databases-2026/' | relative_url }}">state of databases 2026</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/solid-in-fp-single-responsibility-or-how-pure-func/' | relative_url }}">solid in fp single responsibility or how pure func</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/so-you-want-to-build-a-tunnel/' | relative_url }}">so you want to build a tunnel</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -141,6 +161,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/launch-hn-sonarly-yc-w26-ai-agent-to-triage-and-fi/' | relative_url }}">launch hn sonarly yc w26 ai agent to triage and fi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/is-show-hn-dead-no-but-its-drowning/' | relative_url }}">is show hn dead no but its drowning</a></h3>
 </div>
 <div class="article-row">
@@ -169,7 +193,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/how-a-single-typo-led-to-rce-in-firefox/' | relative_url }}">how a single typo led to rce in firefox</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/hobby-coder-accidentally-creates-vacuum-robot-army/' | relative_url }}">hobby coder accidentally creates vacuum robot army</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/hackmyclaw/' | relative_url }}">hackmyclaw</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -209,6 +241,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/chess-engines-do-weird-stuff/' | relative_url }}">chess engines do weird stuff</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/cbs-didnt-air-rep-james-talarico-interview-out-of/' | relative_url }}">cbs didnt air rep james talarico interview out of</a></h3>
 </div>
 <div class="article-row">
@@ -221,11 +257,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/babashka-112215-revenge-of-the-tuis/' | relative_url }}">babashka 112215 revenge of the tuis</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/asyncawait-on-the-gpu/' | relative_url }}">asyncawait on the gpu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/an-ai-called-winter-neurosymbolic-computation-or-i/' | relative_url }}">an ai called winter neurosymbolic computation or i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/americas-pensions-cant-beat-vanguard-but-they-can/' | relative_url }}">americas pensions cant beat vanguard but they can</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/amazon-has-lost-450-billion-in-value-during-this-h/' | relative_url }}">amazon has lost 450 billion in value during this h</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
