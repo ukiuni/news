@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/your-ide-is-an-attack-vector/' | relative_url }}">your ide is an attack vector</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/writing-a-native-vlc-plugin-in-c/' | relative_url }}">writing a native vlc plugin in c</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/wd-and-seagate-confirm-hard-drives-sold-out-for-20/' | relative_url }}">wd and seagate confirm hard drives sold out for 20</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/valve-breaks-its-silence-on-steam-deck-oled-scarci/' | relative_url }}">valve breaks its silence on steam deck oled scarci</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/undo-in-vi-and-its-successors/' | relative_url }}">undo in vi and its successors</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -78,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/rethinking-high-school-science-fairs/' | relative_url }}">rethinking high school science fairs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/pytorch-now-uses-pyrefly-for-type-checking/' | relative_url }}">pytorch now uses pyrefly for type checking</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -150,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/evaluating-agentsmd-are-they-helpful-for-coding-ag/' | relative_url }}">evaluating agentsmd are they helpful for coding ag</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/doctor-xlong-or-how-i-learnt-to-stop-worrying-and/' | relative_url }}">doctor xlong or how i learnt to stop worrying and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
