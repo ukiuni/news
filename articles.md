@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/instagram-boss-says-16-hours-of-daily-use-is-probl/' | relative_url }}">instagram boss says 16 hours of daily use is probl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/i-built-a-free-chrome-extension-to-track-claude-us/' | relative_url }}">i built a free chrome extension to track claude us</a></h3>
 </div>
 <div class="article-row">
