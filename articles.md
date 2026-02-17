@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/show-hn-andrej-karpathys-microgptpy-to-c99-microgp/' | relative_url }}">show hn andrej karpathys microgptpy to c99 microgp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/scientists-restore-knee-cartilage-using-targeted-i/' | relative_url }}">scientists restore knee cartilage using targeted i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/rise-of-the-triforce/' | relative_url }}">rise of the triforce</a></h3>
 </div>
 <div class="article-row">
@@ -22,6 +30,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/many-consumer-electronics-manufacturers-will-go-ba/' | relative_url }}">many consumer electronics manufacturers will go ba</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/i-built-a-free-chrome-extension-to-track-claude-us/' | relative_url }}">i built a free chrome extension to track claude us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/dark-web-agent-spotted-bedroom-wall-clue-to-rescue/' | relative_url }}">dark web agent spotted bedroom wall clue to rescue</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
