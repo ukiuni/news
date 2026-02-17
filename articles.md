@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/writing-a-native-vlc-plugin-in-c/' | relative_url }}">writing a native vlc plugin in c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/why-affordability-and-the-vibecession-are-real-eco/' | relative_url }}">why affordability and the vibecession are real eco</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +22,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/test-your-postgresql-database-like-a-sorcerer/' | relative_url }}">test your postgresql database like a sorcerer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/state-of-databases-2026/' | relative_url }}">state of databases 2026</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -45,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/mazda-finally-admits-its-infotainment-system-is-th/' | relative_url }}">mazda finally admits its infotainment system is th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/many-consumer-electronics-manufacturers-will-go-ba/' | relative_url }}">many consumer electronics manufacturers will go ba</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/dark-web-agent-spotted-bedroom-wall-clue-to-rescue/' | relative_url }}">dark web agent spotted bedroom wall clue to rescue</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/building-for-an-audience-of-one-starting-and-finis/' | relative_url }}">building for an audience of one starting and finis</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
