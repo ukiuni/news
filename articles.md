@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/show-hn-i-built-a-tool-to-un-dumb-claude-codes-cli/' | relative_url }}">show hn i built a tool to un dumb claude codes cli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/show-hn-andrej-karpathys-microgptpy-to-c99-microgp/' | relative_url }}">show hn andrej karpathys microgptpy to c99 microgp</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/petri-nets-as-a-universal-abstraction/' | relative_url }}">petri nets as a universal abstraction</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/peer-reviewed-study-ai-generated-changes-fail-more/' | relative_url }}">peer reviewed study ai generated changes fail more</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -86,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/four-column-ascii-2017/' | relative_url }}">four column ascii 2017</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/fixapl/' | relative_url }}">fixapl</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
