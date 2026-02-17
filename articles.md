@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/solid-in-fp-single-responsibility-or-how-pure-func/' | relative_url }}">solid in fp single responsibility or how pure func</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/show-hn-i-built-a-tool-to-un-dumb-claude-codes-cli/' | relative_url }}">show hn i built a tool to un dumb claude codes cli</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/rise-of-the-triforce/' | relative_url }}">rise of the triforce</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/rethinking-high-school-science-fairs/' | relative_url }}">rethinking high school science fairs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
@@ -134,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/fixapl/' | relative_url }}">fixapl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/fast-sorting-branchless-by-design/' | relative_url }}">fast sorting branchless by design</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
