@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/why-affordability-and-the-vibecession-are-real-eco/' | relative_url }}">why affordability and the vibecession are real eco</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/what-every-compiler-writer-should-know-about-progr/' | relative_url }}">what every compiler writer should know about progr</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/rise-of-the-triforce/' | relative_url }}">rise of the triforce</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/17</span>
+  <h3><a href="{{ '/2026/02/17/poor-deming-never-stood-a-chance/' | relative_url }}">poor deming never stood a chance</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
