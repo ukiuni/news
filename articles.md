@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/the-fundamental-contradiction-of-decentralized-phy/' | relative_url }}">the fundamental contradiction of decentralized phy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/the-economics-of-a-super-bowl-ad/' | relative_url }}">the economics of a super bowl ad</a></h3>
 </div>
 <div class="article-row">
@@ -121,11 +125,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/r3forth-a-concatenative-language-derived-from-colo/' | relative_url }}">r3forth a concatenative language derived from colo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/pocketbase-lost-its-funding-from-floss-fund/' | relative_url }}">pocketbase lost its funding from floss fund</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/palantir-shifts-hq-to-miami-from-denver-after-prot/' | relative_url }}">palantir shifts hq to miami from denver after prot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/openclaw-is-dangerous/' | relative_url }}">openclaw is dangerous</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
@@ -141,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/microsoft-says-bug-causes-copilot-to-summarize-con/' | relative_url }}">microsoft says bug causes copilot to summarize con</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/meta-ceo-mark-zuckerberg-to-face-jury-in-landmark/' | relative_url }}">meta ceo mark zuckerberg to face jury in landmark</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/lebron-james-is-president-exploiting-llms-via-alig/' | relative_url }}">lebron james is president exploiting llms via alig</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/learning-lean-part-1/' | relative_url }}">learning lean part 1</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
