@@ -21,11 +21,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/the-economics-of-a-super-bowl-ad/' | relative_url }}">the economics of a super bowl ad</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/terminals-should-generate-the-256-color-palette/' | relative_url }}">terminals should generate the 256 color palette</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/run-llms-locally-in-flutter-with-200ms-latency/' | relative_url }}">run llms locally in flutter with 200ms latency</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/reverse-engineering-sid-meiers-railroad-tycoon-for/' | relative_url }}">reverse engineering sid meiers railroad tycoon for</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
