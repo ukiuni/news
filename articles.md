@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/youtube-is-down/' | relative_url }}">youtube is down</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/thousands-of-ceos-just-admitted-ai-had-no-impact-o/' | relative_url }}">thousands of ceos just admitted ai had no impact o</a></h3>
 </div>
 <div class="article-row">
@@ -37,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/minimal-x86-kernel-zig/' | relative_url }}">minimal x86 kernel zig</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/google-public-ca-is-down/' | relative_url }}">google public ca is down</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/beyond-vector-databases-choosing-the-right-data-st/' | relative_url }}">beyond vector databases choosing the right data st</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/after-2-years-of-ai-assisted-coding-i-automated-th/' | relative_url }}">after 2 years of ai assisted coding i automated th</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
