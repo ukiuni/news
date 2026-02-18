@@ -17,6 +17,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/volume-scaling-techniques-for-improved-lattice-att/' | relative_url }}">volume scaling techniques for improved lattice att</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/tinyice-single-binary-icecast2-compatible-server-a/' | relative_url }}">tinyice single binary icecast2 compatible server a</a></h3>
 </div>
 <div class="article-row">
@@ -85,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/mark-zuckerberg-lied-to-congress-we-cant-trust-his/' | relative_url }}">mark zuckerberg lied to congress we cant trust his</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/lebron-james-is-president-exploiting-llms-via-alig/' | relative_url }}">lebron james is president exploiting llms via alig</a></h3>
 </div>
 <div class="article-row">
@@ -117,7 +129,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/epstein-files-explorer/' | relative_url }}">epstein files explorer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/elvish-as-she-is-spoke-pdf/' | relative_url }}">elvish as she is spoke pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/doctor-xlong-or-how-i-learnt-to-stop-worrying-and/' | relative_url }}">doctor xlong or how i learnt to stop worrying and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
@@ -134,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/beyond-vector-databases-choosing-the-right-data-st/' | relative_url }}">beyond vector databases choosing the right data st</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/avx2-is-slower-than-sse2-4x-under-windows-arm-emul/' | relative_url }}">avx2 is slower than sse2 4x under windows arm emul</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
