@@ -165,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/oral-history-of-michael-j-flynn/' | relative_url }}">oral history of michael j flynn</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/openclaw-is-dangerous/' | relative_url }}">openclaw is dangerous</a></h3>
 </div>
 <div class="article-row">
@@ -206,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/leaked-email-shows-dystopian-plan-for-ring-search/' | relative_url }}">leaked email shows dystopian plan for ring search</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/ladybird-closing-this-as-we-are-no-longer-pursuing/' | relative_url }}">ladybird closing this as we are no longer pursuing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
@@ -297,6 +305,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/bruteforcing-the-bitwarden-master-password-i-forgo/' | relative_url }}">bruteforcing the bitwarden master password i forgo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/browserpod-universal-in-browser-sandbox-powered-by/' | relative_url }}">browserpod universal in browser sandbox powered by</a></h3>
 </div>
 <div class="article-row">
@@ -314,6 +326,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/are-we-becoming-architects-or-butlers-to-llms/' | relative_url }}">are we becoming architects or butlers to llms</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/all-look-same/' | relative_url }}">all look same</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
@@ -342,6 +358,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/a-duckdb-based-metabase-alternative/' | relative_url }}">a duckdb based metabase alternative</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/27-year-old-apple-ibooks-can-connect-to-wi-fi-and/' | relative_url }}">27 year old apple ibooks can connect to wi fi and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
