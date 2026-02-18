@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/thousands-of-ceos-just-admitted-ai-had-no-impact-o/' | relative_url }}">thousands of ceos just admitted ai had no impact o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/the-gatekeeping-panic-what-ai-actually-threatens-i/' | relative_url }}">the gatekeeping panic what ai actually threatens i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/terminals-should-generate-the-256-color-palette/' | relative_url }}">terminals should generate the 256 color palette</a></h3>
 </div>
 <div class="article-row">
@@ -17,7 +25,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/rathbuns-operator/' | relative_url }}">rathbuns operator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/palantir-shifts-hq-to-miami-from-denver-after-prot/' | relative_url }}">palantir shifts hq to miami from denver after prot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/open-source-game-engine-godot-is-drowning-in-ai-sl/' | relative_url }}">open source game engine godot is drowning in ai sl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/google-public-ca-is-down/' | relative_url }}">google public ca is down</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
@@ -25,7 +45,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/cryptographic-issues-in-matrixs-rust-library-vodoz/' | relative_url }}">cryptographic issues in matrixs rust library vodoz</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/beyond-vector-databases-choosing-the-right-data-st/' | relative_url }}">beyond vector databases choosing the right data st</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/advice-not-control-the-role-of-remote-assistance-i/' | relative_url }}">advice not control the role of remote assistance i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
