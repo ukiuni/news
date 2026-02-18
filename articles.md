@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/who-opened-the-door-an-ai-agent-harassed-an-open-s/' | relative_url }}">who opened the door an ai agent harassed an open s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/whats-cooking-on-sourcehut-q1-2026/' | relative_url }}">whats cooking on sourcehut q1 2026</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/show-hn-vectornest-responsive-web-based-svg-editor/' | relative_url }}">show hn vectornest responsive web based svg editor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/show-hn-echo-an-ios-sshmosh-client-built-on-ghostt/' | relative_url }}">show hn echo an ios sshmosh client built on ghostt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
@@ -145,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/leaked-email-suggests-ring-plans-to-expand-search/' | relative_url }}">leaked email suggests ring plans to expand search</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/leaked-email-shows-dystopian-plan-for-ring-search/' | relative_url }}">leaked email shows dystopian plan for ring search</a></h3>
 </div>
 <div class="article-row">
@@ -201,11 +213,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/dns-persist-01-a-new-model-for-dns-based-challenge/' | relative_url }}">dns persist 01 a new model for dns based challenge</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/designing-a-streaming-first-archive-format-lessons/' | relative_url }}">designing a streaming first archive format lessons</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/cryptographic-issues-in-matrixs-rust-library-vodoz/' | relative_url }}">cryptographic issues in matrixs rust library vodoz</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/cosmologically-unique-ids/' | relative_url }}">cosmologically unique ids</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
