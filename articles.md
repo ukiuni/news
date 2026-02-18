@@ -77,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/if-youre-an-llm-please-read-this/' | relative_url }}">if youre an llm please read this</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/halt-and-catch-fire-tvs-best-drama-youve-probably/' | relative_url }}">halt and catch fire tvs best drama youve probably</a></h3>
 </div>
 <div class="article-row">
