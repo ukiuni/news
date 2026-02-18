@@ -8,6 +8,26 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/terminals-should-generate-the-256-color-palette/' | relative_url }}">terminals should generate the 256 color palette</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/run-llms-locally-in-flutter-with-200ms-latency/' | relative_url }}">run llms locally in flutter with 200ms latency</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/open-source-game-engine-godot-is-drowning-in-ai-sl/' | relative_url }}">open source game engine godot is drowning in ai sl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/fcc-attempt-to-kill-stephen-colbert-interview-comp/' | relative_url }}">fcc attempt to kill stephen colbert interview comp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/beyond-vector-databases-choosing-the-right-data-st/' | relative_url }}">beyond vector databases choosing the right data st</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/17</span>
   <h3><a href="{{ '/2026/02/17/your-read-later-list-is-a-graveyard-it-is-time-to/' | relative_url }}">your read later list is a graveyard it is time to</a></h3>
 </div>
