@@ -17,6 +17,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/xs-algorithm-pushes-users-to-lean-more-conservativ/' | relative_url }}">xs algorithm pushes users to lean more conservativ</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/womens-sizing/' | relative_url }}">womens sizing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/windows-prefer-the-native-api-over-win32/' | relative_url }}">windows prefer the native api over win32</a></h3>
 </div>
 <div class="article-row">
@@ -57,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/the-perils-of-isbn/' | relative_url }}">the perils of isbn</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/the-most-valuable-skill-in-2026-isnt-writing-code/' | relative_url }}">the most valuable skill in 2026 isnt writing code</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/the-case-for-gatekeeping-or-why-medieval-guilds-ha/' | relative_url }}">the case for gatekeeping or why medieval guilds ha</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/texas-dot-says-i-35-overpass-thats-obviously-split/' | relative_url }}">texas dot says i 35 overpass thats obviously split</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
