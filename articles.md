@@ -57,6 +57,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/show-hn-cel-by-example/' | relative_url }}">show hn cel by example</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/show-hn-axiom-a-math-native-os-where-x-is-valid-sy/' | relative_url }}">show hn axiom a math native os where x is valid sy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/run-llms-locally-in-flutter-with-200ms-latency/' | relative_url }}">run llms locally in flutter with 200ms latency</a></h3>
 </div>
 <div class="article-row">
@@ -141,11 +149,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/designing-a-streaming-first-archive-format-lessons/' | relative_url }}">designing a streaming first archive format lessons</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/cryptographic-issues-in-matrixs-rust-library-vodoz/' | relative_url }}">cryptographic issues in matrixs rust library vodoz</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/coding-agents-amp-language-evolution-navigating-un/' | relative_url }}">coding agents amp language evolution navigating un</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/casperai-a-local-mcp-server-for-cross-platform-eng/' | relative_url }}">casperai a local mcp server for cross platform eng</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
@@ -182,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/a-new-language/' | relative_url }}">a new language</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/a-new-chapter-dev-is-joining-forces-with-major-lea/' | relative_url }}">a new chapter dev is joining forces with major lea</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
