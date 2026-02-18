@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/whats-cooking-on-sourcehut-q1-2026/' | relative_url }}">whats cooking on sourcehut q1 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/tinyice-single-binary-icecast2-compatible-server-a/' | relative_url }}">tinyice single binary icecast2 compatible server a</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/meta-ceo-mark-zuckerberg-to-face-jury-in-landmark/' | relative_url }}">meta ceo mark zuckerberg to face jury in landmark</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/lebron-james-is-president-exploiting-llms-via-alig/' | relative_url }}">lebron james is president exploiting llms via alig</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +122,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/cryptographic-issues-in-matrixs-rust-library-vodoz/' | relative_url }}">cryptographic issues in matrixs rust library vodoz</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/coding-agents-amp-language-evolution-navigating-un/' | relative_url }}">coding agents amp language evolution navigating un</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/browserpod-universal-in-browser-sandbox-powered-by/' | relative_url }}">browserpod universal in browser sandbox powered by</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
