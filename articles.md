@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/what-is-happening-to-writing-cognitive-debt-claude/' | relative_url }}">what is happening to writing cognitive debt claude</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/volume-scaling-techniques-for-improved-lattice-att/' | relative_url }}">volume scaling techniques for improved lattice att</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/thousands-of-ceos-just-admitted-ai-had-no-impact-o/' | relative_url }}">thousands of ceos just admitted ai had no impact o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/there-is-unequivocal-evidence-that-earth-is-warmin/' | relative_url }}">there is unequivocal evidence that earth is warmin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
@@ -126,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/r3forth-a-concatenative-language-derived-from-colo/' | relative_url }}">r3forth a concatenative language derived from colo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/programming-in-prison-my-redemption-arc/' | relative_url }}">programming in prison my redemption arc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
@@ -238,6 +250,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/designing-a-streaming-first-archive-format-lessons/' | relative_url }}">designing a streaming first archive format lessons</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/delphi-is-31-years-old-innovation-timeline/' | relative_url }}">delphi is 31 years old innovation timeline</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/current-an-rss-reader/' | relative_url }}">current an rss reader</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
