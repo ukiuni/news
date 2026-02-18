@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/the-most-valuable-skill-in-2026-isnt-writing-code/' | relative_url }}">the most valuable skill in 2026 isnt writing code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/the-gatekeeping-panic-what-ai-actually-threatens-i/' | relative_url }}">the gatekeeping panic what ai actually threatens i</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/advice-not-control-the-role-of-remote-assistance-i/' | relative_url }}">advice not control the role of remote assistance i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/15-years-later-microsoft-morged-my-diagram/' | relative_url }}">15 years later microsoft morged my diagram</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/17</span>
