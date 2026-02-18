@@ -33,6 +33,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/the-case-for-gatekeeping-or-why-medieval-guilds-ha/' | relative_url }}">the case for gatekeeping or why medieval guilds ha</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/tesla-sales-down-55-in-uk-58-in-spain-59-in-german/' | relative_url }}">tesla sales down 55 in uk 58 in spain 59 in german</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/terminals-should-generate-the-256-color-palette/' | relative_url }}">terminals should generate the 256 color palette</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/open-source-game-engine-godot-is-drowning-in-ai-sl/' | relative_url }}">open source game engine godot is drowning in ai sl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/native-freebsd-kerberosldap-with-freeipaidm/' | relative_url }}">native freebsd kerberosldap with freeipaidm</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
