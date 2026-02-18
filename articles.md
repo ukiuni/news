@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/roblox-reddit-and-discord-users-compelled-to-use-b/' | relative_url }}">roblox reddit and discord users compelled to use b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/reverse-engineering-sid-meiers-railroad-tycoon-for/' | relative_url }}">reverse engineering sid meiers railroad tycoon for</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/advice-not-control-the-role-of-remote-assistance-i/' | relative_url }}">advice not control the role of remote assistance i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/a-duckdb-based-metabase-alternative/' | relative_url }}">a duckdb based metabase alternative</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
