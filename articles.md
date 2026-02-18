@@ -97,11 +97,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/elvish-as-she-is-spoke-pdf/' | relative_url }}">elvish as she is spoke pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/cryptographic-issues-in-matrixs-rust-library-vodoz/' | relative_url }}">cryptographic issues in matrixs rust library vodoz</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/beyond-vector-databases-choosing-the-right-data-st/' | relative_url }}">beyond vector databases choosing the right data st</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/asahi-linux-progress-report-linux-619/' | relative_url }}">asahi linux progress report linux 619</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
@@ -118,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/18</span>
   <h3><a href="{{ '/2026/02/18/advice-not-control-the-role-of-remote-assistance-i/' | relative_url }}">advice not control the role of remote assistance i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/18</span>
+  <h3><a href="{{ '/2026/02/18/a-new-language/' | relative_url }}">a new language</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
