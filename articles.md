@@ -9,7 +9,23 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/you-can-jailbreak-an-f-35-just-like-an-iphone-says/' | relative_url }}">you can jailbreak an f 35 just like an iphone says</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/why-i-dont-think-agi-is-imminent/' | relative_url }}">why i dont think agi is imminent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/the-programming-language-coding-agents-perform-bes/' | relative_url }}">the programming language coding agents perform bes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/notes-on-clarifying-man-pages/' | relative_url }}">notes on clarifying man pages</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/minecraft-java-is-switching-from-opengl-to-vulkan/' | relative_url }}">minecraft java is switching from opengl to vulkan</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
@@ -18,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/making-a-font-with-ligatures-to-display-thirteenth/' | relative_url }}">making a font with ligatures to display thirteenth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/how-openai-the-us-government-and-persona-built-an/' | relative_url }}">how openai the us government and persona built an</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
