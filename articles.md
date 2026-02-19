@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/social-media-addiction-facebook-whistleblower-says/' | relative_url }}">social media addiction facebook whistleblower says</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/show-hn-micasa-track-your-house-from-the-terminal/' | relative_url }}">show hn micasa track your house from the terminal</a></h3>
 </div>
 <div class="article-row">
@@ -137,6 +141,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/measuring-ai-agent-autonomy-in-practice/' | relative_url }}">measuring ai agent autonomy in practice</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/martial-arts-robots-at-2026-spring-festival-gala-v/' | relative_url }}">martial arts robots at 2026 spring festival gala v</a></h3>
 </div>
 <div class="article-row">
@@ -185,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/how-timsort-algorithm-works/' | relative_url }}">how timsort algorithm works</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/how-openai-the-us-government-and-persona-built-an/' | relative_url }}">how openai the us government and persona built an</a></h3>
 </div>
 <div class="article-row">
@@ -214,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/dont-trust-the-salt-ai-summarization-multilingual/' | relative_url }}">dont trust the salt ai summarization multilingual</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/doge-bros-grant-review-process-was-literally-just/' | relative_url }}">doge bros grant review process was literally just</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
@@ -277,6 +293,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/ai-makes-you-boring/' | relative_url }}">ai makes you boring</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/ai-entropy-and-the-illusion-of-convergence-in-mode/' | relative_url }}">ai entropy and the illusion of convergence in mode</a></h3>
 </div>
 <div class="article-row">
@@ -286,6 +306,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/a-vast-trove-of-exposed-social-security-numbers-ma/' | relative_url }}">a vast trove of exposed social security numbers ma</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/a-terminal-weather-app-with-ascii-animations-drive/' | relative_url }}">a terminal weather app with ascii animations drive</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
