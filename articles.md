@@ -13,11 +13,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/xlogger-browser-based-android-log-viewer-regex-fil/' | relative_url }}">xlogger browser based android log viewer regex fil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/why-i-dont-think-agi-is-imminent/' | relative_url }}">why i dont think agi is imminent</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/the-programming-language-coding-agents-perform-bes/' | relative_url }}">the programming language coding agents perform bes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/step-35-flash-fast-enough-to-think-reliable-enough/' | relative_url }}">step 35 flash fast enough to think reliable enough</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
