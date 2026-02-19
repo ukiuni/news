@@ -257,6 +257,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/every-app-youve-built-is-an-etl-pipeline-you-just/' | relative_url }}">every app youve built is an etl pipeline you just</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/european-tech-alternatives/' | relative_url }}">european tech alternatives</a></h3>
 </div>
 <div class="article-row">
@@ -366,6 +370,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/a-psychedelic-medicine-performs-well-against-depre/' | relative_url }}">a psychedelic medicine performs well against depre</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/a-beginners-guide-to-split-keyboards/' | relative_url }}">a beginners guide to split keyboards</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
