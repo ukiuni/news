@@ -77,7 +77,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/pebble-production-february-update/' | relative_url }}">pebble production february update</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/paged-out-8/' | relative_url }}">paged out 8</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/over-80-of-companies-report-no-productivity-gains/' | relative_url }}">over 80 of companies report no productivity gains</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
@@ -105,6 +113,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/learn-c-by-example-frances-buontempo-amp-matt-godb/' | relative_url }}">learn c by example frances buontempo amp matt godb</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/judge-warns-smart-glasses-wearers-of-contempt-char/' | relative_url }}">judge warns smart glasses wearers of contempt char</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/is-java-performance-still-a-competitive-advantage/' | relative_url }}">is java performance still a competitive advantage</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/if-writing-still-matters-how-to-do-it-right-and-av/' | relative_url }}">if writing still matters how to do it right and av</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/i-traced-3177-api-calls-to-see-what-4-ai-coding-to/' | relative_url }}">i traced 3177 api calls to see what 4 ai coding to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
@@ -161,7 +181,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/are-your-dev-goals-real-or-just-corporate-performa/' | relative_url }}">are your dev goals real or just corporate performa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/anthropic-officially-bans-using-subscription-auth/' | relative_url }}">anthropic officially bans using subscription auth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/alabama-offers-three-tricks-to-fix-poor-urban-scho/' | relative_url }}">alabama offers three tricks to fix poor urban scho</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
