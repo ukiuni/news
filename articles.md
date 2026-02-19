@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/overall-the-colorectal-cancer-story-is-encouraging/' | relative_url }}">overall the colorectal cancer story is encouraging</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/over-80-of-companies-report-no-productivity-gains/' | relative_url }}">over 80 of companies report no productivity gains</a></h3>
 </div>
 <div class="article-row">
@@ -310,6 +314,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/america-vs-singapore-you-cant-save-your-way-out-of/' | relative_url }}">america vs singapore you cant save your way out of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/amc-theatres-wont-screen-ai-short-film-thanksgivin/' | relative_url }}">amc theatres wont screen ai short film thanksgivin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
