@@ -129,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/linux-cve-assignment-process/' | relative_url }}">linux cve assignment process</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/lilush-a-static-luajit-runtime-with-batteries/' | relative_url }}">lilush a static luajit runtime with batteries</a></h3>
 </div>
 <div class="article-row">
@@ -230,6 +234,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/ai-entropy-and-the-illusion-of-convergence-in-mode/' | relative_url }}">ai entropy and the illusion of convergence in mode</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/against-theory-motivated-experimentation/' | relative_url }}">against theory motivated experimentation</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
