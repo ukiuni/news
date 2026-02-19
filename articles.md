@@ -141,6 +141,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/micropayments-as-a-reality-check-for-news-sites/' | relative_url }}">micropayments as a reality check for news sites</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/meta-wins-patent-for-ai-that-could-post-for-dead-s/' | relative_url }}">meta wins patent for ai that could post for dead s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/measuring-ai-agent-autonomy-in-practice/' | relative_url }}">measuring ai agent autonomy in practice</a></h3>
 </div>
 <div class="article-row">
@@ -181,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/irs-lost-40-of-it-staff-80-of-tech-leaders-in-effi/' | relative_url }}">irs lost 40 of it staff 80 of tech leaders in effi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/if-you-see-these-red-flags-in-an-it-interview-run/' | relative_url }}">if you see these red flags in an it interview run</a></h3>
 </div>
 <div class="article-row">
@@ -214,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/gemini-31-pro-preview/' | relative_url }}">gemini 31 pro preview</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/farewell-rust/' | relative_url }}">farewell rust</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
@@ -261,6 +277,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/californias-new-bill-requires-doj-approved-3d-prin/' | relative_url }}">californias new bill requires doj approved 3d prin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/c26-stdis_within_lifetime/' | relative_url }}">c26 stdis_within_lifetime</a></h3>
 </div>
 <div class="article-row">
@@ -278,6 +298,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/are-your-dev-goals-real-or-just-corporate-performa/' | relative_url }}">are your dev goals real or just corporate performa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/archaeologists-find-possible-first-direct-evidence/' | relative_url }}">archaeologists find possible first direct evidence</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
