@@ -21,6 +21,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/securing-llm-integrated-web-apps-lessons-from-buil/' | relative_url }}">securing llm integrated web apps lessons from buil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/practical-reflection-with-c26-barry-revzin-cppcon/' | relative_url }}">practical reflection with c26 barry revzin cppcon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/poison-fountain-an-anti-ai-weapon/' | relative_url }}">poison fountain an anti ai weapon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/notes-on-clarifying-man-pages/' | relative_url }}">notes on clarifying man pages</a></h3>
 </div>
 <div class="article-row">
@@ -49,11 +61,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/cios-are-telling-companies-that-ai-capex-spending/' | relative_url }}">cios are telling companies that ai capex spending</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/anthropic-officially-bans-using-subscription-auth/' | relative_url }}">anthropic officially bans using subscription auth</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/6000-execs-struggle-to-find-the-ai-productivity-bo/' | relative_url }}">6000 execs struggle to find the ai productivity bo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/2d-fft-demo-video-in-octave-terminal-mode/' | relative_url }}">2d fft demo video in octave terminal mode</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
