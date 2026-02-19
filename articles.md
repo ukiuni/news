@@ -9,11 +9,27 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/why-i-dont-think-agi-is-imminent/' | relative_url }}">why i dont think agi is imminent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/microsoft-offers-guide-to-pirating-harry-potter-se/' | relative_url }}">microsoft offers guide to pirating harry potter se</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/making-a-font-with-ligatures-to-display-thirteenth/' | relative_url }}">making a font with ligatures to display thirteenth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/ditching-discord/' | relative_url }}">ditching discord</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/discord-is-trying-to-defend-its-ridiculous-age-ver/' | relative_url }}">discord is trying to defend its ridiculous age ver</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/6000-execs-struggle-to-find-the-ai-productivity-bo/' | relative_url }}">6000 execs struggle to find the ai productivity bo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
