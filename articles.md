@@ -49,7 +49,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/anthropic-officially-bans-using-subscription-auth/' | relative_url }}">anthropic officially bans using subscription auth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/6000-execs-struggle-to-find-the-ai-productivity-bo/' | relative_url }}">6000 execs struggle to find the ai productivity bo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/15-years-of-fp64-segmentation-and-why-the-blackwel/' | relative_url }}">15 years of fp64 segmentation and why the blackwel</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/18</span>
