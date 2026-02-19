@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/show-hn-micasa-track-your-house-from-the-terminal/' | relative_url }}">show hn micasa track your house from the terminal</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/show-hn-latentscore-type-a-mood-get-proceduralambi/' | relative_url }}">show hn latentscore type a mood get proceduralambi</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/poison-fountain-an-anti-ai-weapon/' | relative_url }}">poison fountain an anti ai weapon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/pg-here-run-a-local-postgresql-instance-in-your-pr/' | relative_url }}">pg here run a local postgresql instance in your pr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
@@ -137,7 +145,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/lessons-learned-building-a-cross-language-plot-cap/' | relative_url }}">lessons learned building a cross language plot cap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/learn-c-by-example-frances-buontempo-amp-matt-godb/' | relative_url }}">learn c by example frances buontempo amp matt godb</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/large-language-models-for-mortals-a-practical-guid/' | relative_url }}">large language models for mortals a practical guid</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
@@ -173,6 +189,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/gemini-31-pro/' | relative_url }}">gemini 31 pro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/gemini-31-pro-preview/' | relative_url }}">gemini 31 pro preview</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/famous-signatures-through-history/' | relative_url }}">famous signatures through history</a></h3>
 </div>
 <div class="article-row">
@@ -193,6 +217,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/dinosaur-food-100m-year-old-foods-we-still-eat-tod/' | relative_url }}">dinosaur food 100m year old foods we still eat tod</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/compiler-education-deserves-a-revolution/' | relative_url }}">compiler education deserves a revolution</a></h3>
 </div>
 <div class="article-row">
@@ -202,6 +230,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/cios-are-telling-companies-that-ai-capex-spending/' | relative_url }}">cios are telling companies that ai capex spending</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/choosing-a-language-based-on-its-syntax/' | relative_url }}">choosing a language based on its syntax</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
