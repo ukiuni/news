@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/visualizing-the-arm64-instruction-set-2024/' | relative_url }}">visualizing the arm64 instruction set 2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/the-programming-language-coding-agents-perform-bes/' | relative_url }}">the programming language coding agents perform bes</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/anthropic-officially-bans-using-subscription-auth/' | relative_url }}">anthropic officially bans using subscription auth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/ai-entropy-and-the-illusion-of-convergence-in-mode/' | relative_url }}">ai entropy and the illusion of convergence in mode</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
