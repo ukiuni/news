@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/using-the-browsers-canvas-for-data-compression/' | relative_url }}">using the browsers canvas for data compression</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/the-ram-shortage-is-coming-for-everything-you-care/' | relative_url }}">the ram shortage is coming for everything you care</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/the-mongol-khans-of-medieval-france/' | relative_url }}">the mongol khans of medieval france</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/the-missing-semester-of-your-cs-education-2026/' | relative_url }}">the missing semester of your cs education 2026</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
@@ -249,6 +257,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/arrays-in-forth/' | relative_url }}">arrays in forth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/are-your-dev-goals-real-or-just-corporate-performa/' | relative_url }}">are your dev goals real or just corporate performa</a></h3>
 </div>
 <div class="article-row">
@@ -270,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/against-theory-motivated-experimentation/' | relative_url }}">against theory motivated experimentation</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/19</span>
+  <h3><a href="{{ '/2026/02/19/a-vast-trove-of-exposed-social-security-numbers-ma/' | relative_url }}">a vast trove of exposed social security numbers ma</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
