@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/ring-reportedly-plans-to-zero-out-crime-with-contr/' | relative_url }}">ring reportedly plans to zero out crime with contr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/reading-the-undocumented-mems-accelerometer-on-app/' | relative_url }}">reading the undocumented mems accelerometer on app</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/pi-for-excel-ai-sidebar-add-in-for-excel-powered-b/' | relative_url }}">pi for excel ai sidebar add in for excel powered b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/nvidia-and-openai-abandon-unfinished-100b-deal-in/' | relative_url }}">nvidia and openai abandon unfinished 100b deal in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/lindenmayerjl-defining-recursive-patterns-in-julia/' | relative_url }}">lindenmayerjl defining recursive patterns in julia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/lindenmayer-systems/' | relative_url }}">lindenmayer systems</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -142,6 +154,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/experiment-comparing-openapi-specs-to-sdk-surfaces/' | relative_url }}">experiment comparing openapi specs to sdk surfaces</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/exercise-has-similar-effect-to-therapy-study-on-de/' | relative_url }}">exercise has similar effect to therapy study on de</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/django-orm-standalone-querying-an-existing-databas/' | relative_url }}">django orm standalone querying an existing databas</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/deterministic-codebase-reasoning-for-llms-using-as/' | relative_url }}">deterministic codebase reasoning for llms using as</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
