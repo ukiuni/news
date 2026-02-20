@@ -85,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/paged-out-issue-8-is-out-its-a-free-e-zine-with-on/' | relative_url }}">paged out issue 8 is out its a free e zine with on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/nvidia-and-openai-abandon-unfinished-100b-deal-in/' | relative_url }}">nvidia and openai abandon unfinished 100b deal in</a></h3>
 </div>
 <div class="article-row">
@@ -198,6 +202,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/consistency-diffusion-language-models-up-to-14x-fa/' | relative_url }}">consistency diffusion language models up to 14x fa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/childs-play-techs-new-generation-and-the-end-of-th/' | relative_url }}">childs play techs new generation and the end of th</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
