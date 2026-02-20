@@ -41,11 +41,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/thunderkittens-20-even-faster-kernels-for-your-gpu/' | relative_url }}">thunderkittens 20 even faster kernels for your gpu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/the-path-to-ubiquitous-ai-17k-tokenssec/' | relative_url }}">the path to ubiquitous ai 17k tokenssec</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/the-dillo-appreciation-post/' | relative_url }}">the dillo appreciation post</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/testing-super-mario-using-a-behavior-model-autonom/' | relative_url }}">testing super mario using a behavior model autonom</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -109,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/new-ai-data-leaks-more-than-1-billion-ids-and-phot/' | relative_url }}">new ai data leaks more than 1 billion ids and phot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/mystery-donor-gives-japanese-city-36m-in-gold-bars/' | relative_url }}">mystery donor gives japanese city 36m in gold bars</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/la-county-lawsuit-accuses-roblox-of-exposing-child/' | relative_url }}">la county lawsuit accuses roblox of exposing child</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/keep-android-open/' | relative_url }}">keep android open</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -229,6 +245,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/dont-make-n1-queries-because-you-forgot-a-column-i/' | relative_url }}">dont make n1 queries because you forgot a column i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/django-orm-standalone-querying-an-existing-databas/' | relative_url }}">django orm standalone querying an existing databas</a></h3>
 </div>
 <div class="article-row">
@@ -262,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/brat-a-parallel-tap-testing-harness-for-the-posix/' | relative_url }}">brat a parallel tap testing harness for the posix</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/blue-light-filters-dont-work/' | relative_url }}">blue light filters dont work</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
