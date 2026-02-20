@@ -17,7 +17,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/sam-altman-says-the-quiet-part-out-loud-confirming/' | relative_url }}">sam altman says the quiet part out loud confirming</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/pi-for-excel-ai-sidebar-add-in-for-excel-powered-b/' | relative_url }}">pi for excel ai sidebar add in for excel powered b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/my-1981-adventure-game-is-now-a-multimedia-extrava/' | relative_url }}">my 1981 adventure game is now a multimedia extrava</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/mumu-player-netease-silently-runs-17-reconnaissanc/' | relative_url }}">mumu player netease silently runs 17 reconnaissanc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -30,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/' | relative_url }}">an arm homelab server or a minisforum ms r1 review</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/an-ai-agent-published-a-hit-piece-on-me-the-operat/' | relative_url }}">an ai agent published a hit piece on me the operat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
