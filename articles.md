@@ -12,6 +12,14 @@ permalink: /articles/
   <h3><a href="{{ '/2026/02/20/us-plans-online-portal-to-bypass-content-bans-in-e/' | relative_url }}">us plans online portal to bypass content bans in e</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/my-1981-adventure-game-is-now-a-multimedia-extrava/' | relative_url }}">my 1981 adventure game is now a multimedia extrava</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/google-maps-is-now-less-useful-if-youre-not-signed/' | relative_url }}">google maps is now less useful if youre not signed</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/19</span>
   <h3><a href="{{ '/2026/02/19/you-can-jailbreak-an-f-35-just-like-an-iphone-says/' | relative_url }}">you can jailbreak an f 35 just like an iphone says</a></h3>
 </div>
