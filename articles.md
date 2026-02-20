@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/youtuber-mkbhd-says-tesla-stopped-talking-to-me-ah/' | relative_url }}">youtuber mkbhd says tesla stopped talking to me ah</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/your-personal-blog-should-have-comments/' | relative_url }}">your personal blog should have comments</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/untapped-way-to-learn-a-codebase-build-a-visualize/' | relative_url }}">untapped way to learn a codebase build a visualize</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/tunic-night-in-the-woods-publisher-says-tiktok-is/' | relative_url }}">tunic night in the woods publisher says tiktok is</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -106,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/paged-out-issue-8-is-out-its-a-free-e-zine-with-on/' | relative_url }}">paged out issue 8 is out its a free e zine with on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/openscan/' | relative_url }}">openscan</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -178,6 +190,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/jep-draft-strict-field-initialization-in-the-jvm-p/' | relative_url }}">jep draft strict field initialization in the jvm p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/ipv6-adoption-in-2026/' | relative_url }}">ipv6 adoption in 2026</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
