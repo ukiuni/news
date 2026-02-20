@@ -25,6 +25,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/untapped-way-to-learn-a-codebase-build-a-visualize/' | relative_url }}">untapped way to learn a codebase build a visualize</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/the-path-to-ubiquitous-ai-17k-tokenssec/' | relative_url }}">the path to ubiquitous ai 17k tokenssec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/the-dillo-appreciation-post/' | relative_url }}">the dillo appreciation post</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/reading-the-undocumented-mems-accelerometer-on-app/' | relative_url }}">reading the undocumented mems accelerometer on app</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/raspberry-pi-pico-2-at-8735mhz-with-305v-core-abus/' | relative_url }}">raspberry pi pico 2 at 8735mhz with 305v core abus</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -78,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/internationalise-the-fediverse/' | relative_url }}">internationalise the fediverse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/information-theory-broken-townsends-designs-llc-ac/' | relative_url }}">information theory broken townsends designs llc ac</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
