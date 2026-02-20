@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/your-personal-blog-should-have-comments/' | relative_url }}">your personal blog should have comments</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/what-do-you-think-about-putting-ofensive-words-in/' | relative_url }}">what do you think about putting ofensive words in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/web-components-the-framework-free-renaissance/' | relative_url }}">web components the framework free renaissance</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -38,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/tech-firms-must-remove-revenge-porn-in-48-hours-or/' | relative_url }}">tech firms must remove revenge porn in 48 hours or</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/solid-in-fp-open-closed-or-why-i-love-when-code-wo/' | relative_url }}">solid in fp open closed or why i love when code wo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -81,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/minions-stripes-coding-agents-part-2/' | relative_url }}">minions stripes coding agents part 2</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/meta-cuts-staff-stock-awards-for-a-second-straight/' | relative_url }}">meta cuts staff stock awards for a second straight</a></h3>
 </div>
 <div class="article-row">
@@ -118,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/freecad-is-an-open-source-parametric-3d-modeler/' | relative_url }}">freecad is an open source parametric 3d modeler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/fbi-says-atm-jackpotting-attacks-are-on-the-rise-a/' | relative_url }}">fbi says atm jackpotting attacks are on the rise a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
