@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/uncovering-insiders-and-alpha-on-polymarket-with-a/' | relative_url }}">uncovering insiders and alpha on polymarket with a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/turn-dependabot-off/' | relative_url }}">turn dependabot off</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/solid-in-fp-open-closed-or-why-i-love-when-code-wo/' | relative_url }}">solid in fp open closed or why i love when code wo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/snake-game-but-every-frame-is-a-c-program-compiled/' | relative_url }}">snake game but every frame is a c program compiled</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -217,6 +225,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/i-hate-ai-side-projects/' | relative_url }}">i hate ai side projects</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/i-found-a-vulnerability-they-found-a-lawyer/' | relative_url }}">i found a vulnerability they found a lawyer</a></h3>
 </div>
 <div class="article-row">
@@ -242,6 +254,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/harmful-chemicals-found-in-dozens-of-popular-headp/' | relative_url }}">harmful chemicals found in dozens of popular headp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/hackers-expose-discord-age-verification-system-iss/' | relative_url }}">hackers expose discord age verification system iss</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/graphql-you-dont-have-to-like-it-but-you-should-kn/' | relative_url }}">graphql you dont have to like it but you should kn</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -370,6 +390,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/a-brief-history-of-bjarne-stroustrup-the-creator-o/' | relative_url }}">a brief history of bjarne stroustrup the creator o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/a-beginners-guide-to-split-keyboards/' | relative_url }}">a beginners guide to split keyboards</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
