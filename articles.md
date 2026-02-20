@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/tesla-loses-bid-to-overturn-243m-autopilot-verdict/' | relative_url }}">tesla loses bid to overturn 243m autopilot verdict</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/tech-firms-must-remove-revenge-porn-in-48-hours-or/' | relative_url }}">tech firms must remove revenge porn in 48 hours or</a></h3>
 </div>
 <div class="article-row">
@@ -129,11 +133,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/making-frontier-cybersecurity-capabilities-availab/' | relative_url }}">making frontier cybersecurity capabilities availab</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/lindenmayerjl-defining-recursive-patterns-in-julia/' | relative_url }}">lindenmayerjl defining recursive patterns in julia</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/lindenmayer-systems/' | relative_url }}">lindenmayer systems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/lil-fun-langs/' | relative_url }}">lil fun langs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -185,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/google-maps-is-hiding-reviews-photos-and-more-unle/' | relative_url }}">google maps is hiding reviews photos and more unle</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/ggmlai-joins-hugging-face-to-ensure-the-long-term/' | relative_url }}">ggmlai joins hugging face to ensure the long term</a></h3>
 </div>
 <div class="article-row">
@@ -194,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/fbi-says-atm-jackpotting-attacks-are-on-the-rise-a/' | relative_url }}">fbi says atm jackpotting attacks are on the rise a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/f-droid-keep-android-open/' | relative_url }}">f droid keep android open</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -225,11 +245,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/congrats-to-the-new-year-new-you-portfolio-challen/' | relative_url }}">congrats to the new year new you portfolio challen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/china-tests-worlds-first-megawatt-class-flying-win/' | relative_url }}">china tests worlds first megawatt class flying win</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/childs-play-techs-new-generation-and-the-end-of-th/' | relative_url }}">childs play techs new generation and the end of th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/can-regular-expressions-be-safely-reused-across-la/' | relative_url }}">can regular expressions be safely reused across la</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/brat-a-parallel-tap-testing-harness-for-the-posix/' | relative_url }}">brat a parallel tap testing harness for the posix</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
