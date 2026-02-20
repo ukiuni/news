@@ -21,11 +21,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/show-hn-fostrom-an-iot-cloud-platform-built-for-de/' | relative_url }}">show hn fostrom an iot cloud platform built for de</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/sam-altman-says-the-quiet-part-out-loud-confirming/' | relative_url }}">sam altman says the quiet part out loud confirming</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/pi-for-excel-ai-sidebar-add-in-for-excel-powered-b/' | relative_url }}">pi for excel ai sidebar add in for excel powered b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/no-skill-no-taste/' | relative_url }}">no skill no taste</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -41,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/meta-cuts-staff-stock-awards-for-a-second-straight/' | relative_url }}">meta cuts staff stock awards for a second straight</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/lindenmayerjl-defining-recursive-patterns-in-julia/' | relative_url }}">lindenmayerjl defining recursive patterns in julia</a></h3>
 </div>
 <div class="article-row">
@@ -53,6 +65,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/freecad-is-an-open-source-parametric-3d-modeler/' | relative_url }}">freecad is an open source parametric 3d modeler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/experiment-comparing-openapi-specs-to-sdk-surfaces/' | relative_url }}">experiment comparing openapi specs to sdk surfaces</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/consistency-diffusion-language-models-up-to-14x-fa/' | relative_url }}">consistency diffusion language models up to 14x fa</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/an-ai-agent-published-a-hit-piece-on-me-the-operat/' | relative_url }}">an ai agent published a hit piece on me the operat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/amazon-service-was-taken-down-by-ai-coding-bot-dec/' | relative_url }}">amazon service was taken down by ai coding bot dec</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
