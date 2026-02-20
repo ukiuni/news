@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/wikipedia-bans-archivetoday-after-site-executed-dd/' | relative_url }}">wikipedia bans archivetoday after site executed dd</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/what-do-you-think-about-putting-ofensive-words-in/' | relative_url }}">what do you think about putting ofensive words in</a></h3>
 </div>
 <div class="article-row">
@@ -149,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/lobsters-interview-with-steveklabnik/' | relative_url }}">lobsters interview with steveklabnik</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/lindenmayerjl-defining-recursive-patterns-in-julia/' | relative_url }}">lindenmayerjl defining recursive patterns in julia</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +190,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/i-tried-building-my-startup-entirely-on-european-i/' | relative_url }}">i tried building my startup entirely on european i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/i-found-a-vulnerability-they-found-a-lawyer/' | relative_url }}">i found a vulnerability they found a lawyer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -225,7 +237,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/finding-credentials-in-msi-files-with-msiexec/' | relative_url }}">finding credentials in msi files with msiexec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/fbi-says-atm-jackpotting-attacks-are-on-the-rise-a/' | relative_url }}">fbi says atm jackpotting attacks are on the rise a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/facebook-is-absolutely-cooked/' | relative_url }}">facebook is absolutely cooked</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
