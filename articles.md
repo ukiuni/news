@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/we-replaced-aws-mikrotik-and-10-saas-tools-with-on/' | relative_url }}">we replaced aws mikrotik and 10 saas tools with on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/us-plans-online-portal-to-bypass-content-bans-in-e/' | relative_url }}">us plans online portal to bypass content bans in e</a></h3>
 </div>
 <div class="article-row">
@@ -29,11 +33,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/reading-the-undocumented-mems-accelerometer-on-app/' | relative_url }}">reading the undocumented mems accelerometer on app</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/pi-for-excel-ai-sidebar-add-in-for-excel-powered-b/' | relative_url }}">pi for excel ai sidebar add in for excel powered b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/no-skill-no-taste/' | relative_url }}">no skill no taste</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/newsom-backs-social-media-restrictions-for-teens-u/' | relative_url }}">newsom backs social media restrictions for teens u</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -86,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/amazon-service-was-taken-down-by-ai-coding-bot-dec/' | relative_url }}">amazon service was taken down by ai coding bot dec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/almost-every-infrastructure-decision-i-endorse-or/' | relative_url }}">almost every infrastructure decision i endorse or</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
