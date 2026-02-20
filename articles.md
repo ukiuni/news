@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/turn-dependabot-off/' | relative_url }}">turn dependabot off</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/tunic-night-in-the-woods-publisher-says-tiktok-is/' | relative_url }}">tunic night in the woods publisher says tiktok is</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/solid-in-fp-open-closed-or-why-i-love-when-code-wo/' | relative_url }}">solid in fp open closed or why i love when code wo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/show-hn-minesfyi-all-the-mines-in-the-us-in-a-leaf/' | relative_url }}">show hn minesfyi all the mines in the us in a leaf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -294,6 +302,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/deterministic-codebase-reasoning-for-llms-using-as/' | relative_url }}">deterministic codebase reasoning for llms using as</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/death-to-scroll-fade/' | relative_url }}">death to scroll fade</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
