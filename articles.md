@@ -13,11 +13,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/tech-firms-must-remove-revenge-porn-in-48-hours-or/' | relative_url }}">tech firms must remove revenge porn in 48 hours or</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/my-1981-adventure-game-is-now-a-multimedia-extrava/' | relative_url }}">my 1981 adventure game is now a multimedia extrava</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/hold-on-to-your-hardware/' | relative_url }}">hold on to your hardware</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/google-maps-is-now-less-useful-if-youre-not-signed/' | relative_url }}">google maps is now less useful if youre not signed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/' | relative_url }}">an arm homelab server or a minisforum ms r1 review</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
