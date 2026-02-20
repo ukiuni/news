@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/mystery-donor-gives-japanese-city-36m-in-gold-bars/' | relative_url }}">mystery donor gives japanese city 36m in gold bars</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/my-1981-adventure-game-is-now-a-multimedia-extrava/' | relative_url }}">my 1981 adventure game is now a multimedia extrava</a></h3>
 </div>
 <div class="article-row">
@@ -49,11 +53,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/consistency-diffusion-language-models-up-to-14x-fa/' | relative_url }}">consistency diffusion language models up to 14x fa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/' | relative_url }}">an arm homelab server or a minisforum ms r1 review</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/an-ai-agent-published-a-hit-piece-on-me-the-operat/' | relative_url }}">an ai agent published a hit piece on me the operat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/a-practical-security-audit-for-builders/' | relative_url }}">a practical security audit for builders</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/19</span>
