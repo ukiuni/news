@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/we-pushed-a-docker-image-change-that-took-down-pro/' | relative_url }}">we pushed a docker image change that took down pro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/us-plans-online-portal-to-bypass-content-bans-in-e/' | relative_url }}">us plans online portal to bypass content bans in e</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/lindenmayerjl-defining-recursive-patterns-in-julia/' | relative_url }}">lindenmayerjl defining recursive patterns in julia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/internationalise-the-fediverse/' | relative_url }}">internationalise the fediverse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/i-tried-building-my-startup-entirely-on-european-i/' | relative_url }}">i tried building my startup entirely on european i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/how-i-made-a-shooter-game-in-64-kb/' | relative_url }}">how i made a shooter game in 64 kb</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
