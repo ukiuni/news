@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/what-do-you-think-about-putting-ofensive-words-in/' | relative_url }}">what do you think about putting ofensive words in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/us-plans-online-portal-to-bypass-content-bans-in-e/' | relative_url }}">us plans online portal to bypass content bans in e</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/mumu-player-netease-silently-runs-17-reconnaissanc/' | relative_url }}">mumu player netease silently runs 17 reconnaissanc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/lindenmayerjl-defining-recursive-patterns-in-julia/' | relative_url }}">lindenmayerjl defining recursive patterns in julia</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
