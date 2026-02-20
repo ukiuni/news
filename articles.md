@@ -137,6 +137,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/la-county-lawsuit-accuses-roblox-of-exposing-child/' | relative_url }}">la county lawsuit accuses roblox of exposing child</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/jep-draft-strict-field-initialization-in-the-jvm-p/' | relative_url }}">jep draft strict field initialization in the jvm p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/internationalise-the-fediverse/' | relative_url }}">internationalise the fediverse</a></h3>
 </div>
 <div class="article-row">
@@ -205,11 +213,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/dhs-opens-a-billion-dollar-tab-with-palantir/' | relative_url }}">dhs opens a billion dollar tab with palantir</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/deterministic-codebase-reasoning-for-llms-using-as/' | relative_url }}">deterministic codebase reasoning for llms using as</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/consistency-diffusion-language-models-up-to-14x-fa/' | relative_url }}">consistency diffusion language models up to 14x fa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/china-tests-worlds-first-megawatt-class-flying-win/' | relative_url }}">china tests worlds first megawatt class flying win</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
@@ -230,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/20</span>
   <h3><a href="{{ '/2026/02/20/amazon-service-was-taken-down-by-ai-coding-bot-dec/' | relative_url }}">amazon service was taken down by ai coding bot dec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/20</span>
+  <h3><a href="{{ '/2026/02/20/amazon-blames-human-employees-for-an-ai-coding-age/' | relative_url }}">amazon blames human employees for an ai coding age</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
