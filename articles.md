@@ -17,7 +17,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/understanding-the-facade-design-pattern-in-go-a-pr/' | relative_url }}">understanding the facade design pattern in go a pr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/understanding-how-databases-store-data-on-the-disk/' | relative_url }}">understanding how databases store data on the disk</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/tumbler-ridge-shooters-chatgpt-activity-flagged-in/' | relative_url }}">tumbler ridge shooters chatgpt activity flagged in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
@@ -46,6 +54,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/multiplayer-snake-game-of-life-and-doom-fire-where/' | relative_url }}">multiplayer snake game of life and doom fire where</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/macoss-little-known-command-line-sandboxing-tool/' | relative_url }}">macoss little known command line sandboxing tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/index-count-offset-size/' | relative_url }}">index count offset size</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
