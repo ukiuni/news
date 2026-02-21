@@ -9,11 +9,23 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/what-is-oauth/' | relative_url }}">what is oauth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/this-shouldnt-be-normal-developers-speak-out-about/' | relative_url }}">this shouldnt be normal developers speak out about</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/in-the-early-2000s-valve-was-saved-from-a-career-e/' | relative_url }}">in the early 2000s valve was saved from a career e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/every-company-building-your-ai-assistant-is-now-an/' | relative_url }}">every company building your ai assistant is now an</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/cord-coordinating-trees-of-ai-agents/' | relative_url }}">cord coordinating trees of ai agents</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
