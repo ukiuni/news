@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/toyota-mirai-hydrogen-car-depreciation-65-value-lo/' | relative_url }}">toyota mirai hydrogen car depreciation 65 value lo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/this-shouldnt-be-normal-developers-speak-out-about/' | relative_url }}">this shouldnt be normal developers speak out about</a></h3>
 </div>
 <div class="article-row">
@@ -65,6 +69,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/personal-statement-of-a-cia-analyst/' | relative_url }}">personal statement of a cia analyst</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/parse-dont-validate-and-type-driven-design-in-rust/' | relative_url }}">parse dont validate and type driven design in rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/openclaws-hidden-otel-plugin-shows-where-all-your/' | relative_url }}">openclaws hidden otel plugin shows where all your</a></h3>
 </div>
 <div class="article-row">
@@ -81,11 +93,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/loon-a-functional-lang-with-invisible-types-safe-o/' | relative_url }}">loon a functional lang with invisible types safe o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/looking-for-hackathons-to-sponsor/' | relative_url }}">looking for hackathons to sponsor</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/junior-developer-in-the-age-of-ai/' | relative_url }}">junior developer in the age of ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/inputlagscience-repository-of-knowledge-about-inpu/' | relative_url }}">inputlagscience repository of knowledge about inpu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
@@ -106,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/how-far-back-in-time-can-you-understand-english/' | relative_url }}">how far back in time can you understand english</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/how-an-inference-provider-can-prove-theyre-not-ser/' | relative_url }}">how an inference provider can prove theyre not ser</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
