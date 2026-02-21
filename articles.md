@@ -9,11 +9,23 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/this-shouldnt-be-normal-developers-speak-out-about/' | relative_url }}">this shouldnt be normal developers speak out about</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/every-company-building-your-ai-assistant-is-now-an/' | relative_url }}">every company building your ai assistant is now an</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/cern-rebuilt-the-original-browser-from-1989/' | relative_url }}">cern rebuilt the original browser from 1989</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/be-wary-of-bluesky/' | relative_url }}">be wary of bluesky</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/a-28-year-old-american-with-7-hours-of-daily-scree/' | relative_url }}">a 28 year old american with 7 hours of daily scree</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/20</span>
