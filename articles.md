@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/the-quantum-security-gold-rush-how-vendors-exploit/' | relative_url }}">the quantum security gold rush how vendors exploit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/the-nekonomicon-nekochannet-archive-updated/' | relative_url }}">the nekonomicon nekochannet archive updated</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/openclaws-hidden-otel-plugin-shows-where-all-your/' | relative_url }}">openclaws hidden otel plugin shows where all your</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/netflix-ceo-ted-sarandos-says-james-cameron-is-par/' | relative_url }}">netflix ceo ted sarandos says james cameron is par</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/macoss-little-known-command-line-sandboxing-tool/' | relative_url }}">macoss little known command line sandboxing tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/junior-developer-in-the-age-of-ai/' | relative_url }}">junior developer in the age of ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
@@ -110,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/cord-coordinating-trees-of-ai-agents/' | relative_url }}">cord coordinating trees of ai agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/claws-are-now-a-new-layer-on-top-of-llm-agents/' | relative_url }}">claws are now a new layer on top of llm agents</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
