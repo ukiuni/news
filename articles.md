@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/zclaw-personal-ai-assistant-in-under-888-kb-runnin/' | relative_url }}">zclaw personal ai assistant in under 888 kb runnin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/what-not-to-write-on-your-security-clearance-form/' | relative_url }}">what not to write on your security clearance form</a></h3>
 </div>
 <div class="article-row">
@@ -101,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/lobsters-migrates-from-mariadb-to-sqlite/' | relative_url }}">lobsters migrates from mariadb to sqlite</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/junior-developer-in-the-age-of-ai/' | relative_url }}">junior developer in the age of ai</a></h3>
 </div>
 <div class="article-row">
@@ -145,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/evidence-of-the-bouba-kiki-effect-in-nave-baby-chi/' | relative_url }}">evidence of the bouba kiki effect in nave baby chi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/every-company-building-your-ai-assistant-is-now-an/' | relative_url }}">every company building your ai assistant is now an</a></h3>
 </div>
 <div class="article-row">
@@ -170,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/cord-coordinating-trees-of-ai-agents/' | relative_url }}">cord coordinating trees of ai agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/colorado-lawmakers-push-for-age-verification-at-th/' | relative_url }}">colorado lawmakers push for age verification at th</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
