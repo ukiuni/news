@@ -121,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/i-dont-like-magic/' | relative_url }}">i dont like magic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/i-built-a-speed-first-file-deduplication-engine-us/' | relative_url }}">i built a speed first file deduplication engine us</a></h3>
 </div>
 <div class="article-row">
@@ -145,7 +149,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/eduke32-duke-nukem-3d-open-source/' | relative_url }}">eduke32 duke nukem 3d open source</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/do-you-ignore-accented-words-in-your-django-query/' | relative_url }}">do you ignore accented words in your django query</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/do-as-i-say-not-as-i-do/' | relative_url }}">do as i say not as i do</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
