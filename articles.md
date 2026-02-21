@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/zuckerberg-grilled-about-metas-strategy-to-target/' | relative_url }}">zuckerberg grilled about metas strategy to target</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/what-is-oauth/' | relative_url }}">what is oauth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/understanding-how-databases-store-data-on-the-disk/' | relative_url }}">understanding how databases store data on the disk</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
@@ -17,11 +25,35 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/tesla-us-sales-fall-for-fourth-straight-month-in-j/' | relative_url }}">tesla us sales fall for fourth straight month in j</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/slow-this-thing-down-sanders-warns-us-has-no-clue/' | relative_url }}">slow this thing down sanders warns us has no clue</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/separating-a-programming-languages-surface-syntax/' | relative_url }}">separating a programming languages surface syntax</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/netflix-ceo-ted-sarandos-says-james-cameron-is-par/' | relative_url }}">netflix ceo ted sarandos says james cameron is par</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/in-the-early-2000s-valve-was-saved-from-a-career-e/' | relative_url }}">in the early 2000s valve was saved from a career e</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/i-verified-my-linkedin-identity-heres-what-i-hande/' | relative_url }}">i verified my linkedin identity heres what i hande</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/every-company-building-your-ai-assistant-is-now-an/' | relative_url }}">every company building your ai assistant is now an</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/creator-of-claude-code-coding-is-solved/' | relative_url }}">creator of claude code coding is solved</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
@@ -34,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/be-wary-of-bluesky/' | relative_url }}">be wary of bluesky</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/andrej-karpathy-talks-about-claws/' | relative_url }}">andrej karpathy talks about claws</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
