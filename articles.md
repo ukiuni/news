@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/what-not-to-write-on-your-security-clearance-form/' | relative_url }}">what not to write on your security clearance form</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/what-is-oauth/' | relative_url }}">what is oauth</a></h3>
 </div>
 <div class="article-row">
@@ -33,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/the-nekonomicon-nekochannet-archive-updated/' | relative_url }}">the nekonomicon nekochannet archive updated</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/the-fastest-way-to-board-an-airplane/' | relative_url }}">the fastest way to board an airplane</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/slow-this-thing-down-sanders-warns-us-has-no-clue/' | relative_url }}">slow this thing down sanders warns us has no clue</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/show-hn-iron-wolf-wolfenstein-3d-source-port-in-ru/' | relative_url }}">show hn iron wolf wolfenstein 3d source port in ru</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
@@ -74,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/i-built-a-speed-first-file-deduplication-engine-us/' | relative_url }}">i built a speed first file deduplication engine us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/how-far-back-in-time-can-you-understand-english/' | relative_url }}">how far back in time can you understand english</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
@@ -118,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/ai-ublock-blacklist/' | relative_url }}">ai ublock blacklist</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/across-the-us-people-are-dismantling-and-destroyin/' | relative_url }}">across the us people are dismantling and destroyin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
