@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/why-is-claude-an-electron-app/' | relative_url }}">why is claude an electron app</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/what-not-to-write-on-your-security-clearance-form/' | relative_url }}">what not to write on your security clearance form</a></h3>
 </div>
 <div class="article-row">
@@ -65,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/show-hn-llama-31-70b-on-a-single-rtx-3090-via-nvme/' | relative_url }}">show hn llama 31 70b on a single rtx 3090 via nvme</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/show-hn-iron-wolf-wolfenstein-3d-source-port-in-ru/' | relative_url }}">show hn iron wolf wolfenstein 3d source port in ru</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/multiplayer-snake-game-of-life-and-doom-fire-where/' | relative_url }}">multiplayer snake game of life and doom fire where</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/mississippi-health-system-shuts-down-clinics-state/' | relative_url }}">mississippi health system shuts down clinics state</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
@@ -177,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/cxmt-has-been-offering-ddr4-chips-at-about-half-th/' | relative_url }}">cxmt has been offering ddr4 chips at about half th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/creator-of-claude-code-coding-is-solved/' | relative_url }}">creator of claude code coding is solved</a></h3>
 </div>
 <div class="article-row">
@@ -205,11 +221,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/building-a-cloudflare-workers-usage-monitor-with-a/' | relative_url }}">building a cloudflare workers usage monitor with a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/big-tech-still-dreams-of-mass-surveillance-now-peo/' | relative_url }}">big tech still dreams of mass surveillance now peo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/be-wary-of-bluesky/' | relative_url }}">be wary of bluesky</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/21</span>
+  <h3><a href="{{ '/2026/02/21/back-to-freebsd-part-1-from-unix-chroot-to-freebsd/' | relative_url }}">back to freebsd part 1 from unix chroot to freebsd</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/21</span>
