@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/why-did-you-become-a-developer/' | relative_url }}">why did you become a developer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/us-cannot-legally-impose-tariffs-using-section-122/' | relative_url }}">us cannot legally impose tariffs using section 122</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/tech-giants-commit-billions-to-indian-ai-as-new-de/' | relative_url }}">tech giants commit billions to indian ai as new de</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/show-hn-elecxzy-a-lightweight-lisp-free-emacs-like/' | relative_url }}">show hn elecxzy a lightweight lisp free emacs like</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
@@ -58,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/openai-employees-raised-alarm-about-mass-shooting/' | relative_url }}">openai employees raised alarm about mass shooting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/oop-design-pattern/' | relative_url }}">oop design pattern</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
@@ -117,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/function-application-is-inheritance-but-inheritanc/' | relative_url }}">function application is inheritance but inheritanc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/forward-propagation-of-errors-through-time/' | relative_url }}">forward propagation of errors through time</a></h3>
 </div>
 <div class="article-row">
@@ -146,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/after-a-year-of-using-cursor-claude-code-antigravi/' | relative_url }}">after a year of using cursor claude code antigravi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/a-south-korean-female-serial-killer-learned-how-to/' | relative_url }}">a south korean female serial killer learned how to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
