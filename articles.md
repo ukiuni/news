@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/what-is-a-database-transaction/' | relative_url }}">what is a database transaction</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/us-cannot-legally-impose-tariffs-using-section-122/' | relative_url }}">us cannot legally impose tariffs using section 122</a></h3>
 </div>
 <div class="article-row">
@@ -57,11 +61,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/sampling-strategies-beyond-head-and-tail-based-sam/' | relative_url }}">sampling strategies beyond head and tail based sam</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/sam-altman-would-like-remind-you-that-humans-use-a/' | relative_url }}">sam altman would like remind you that humans use a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/proposal-add-ai-generated-as-a-flag-reason/' | relative_url }}">proposal add ai generated as a flag reason</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/postgres-is-your-friend-orm-is-not/' | relative_url }}">postgres is your friend orm is not</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
@@ -82,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/nice-try-dear-ai-now-lets-talk-about-production/' | relative_url }}">nice try dear ai now lets talk about production</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/minions-stripes-one-shot-end-to-end-coding-agents/' | relative_url }}">minions stripes one shot end to end coding agents</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
@@ -158,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/benchmarking-loop-anti-patterns-in-javascript-and/' | relative_url }}">benchmarking loop anti patterns in javascript and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/attention-media-social-networks/' | relative_url }}">attention media social networks</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
