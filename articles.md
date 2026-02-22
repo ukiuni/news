@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/i-built-an-enterprise-grade-app-with-e2e-encryptio/' | relative_url }}">i built an enterprise grade app with e2e encryptio</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/how-taalas-prints-llm-onto-a-chip/' | relative_url }}">how taalas prints llm onto a chip</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/how-and-why-local-llms-perform-on-framework-13-amd/' | relative_url }}">how and why local llms perform on framework 13 amd</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/how-a-terminal-actually-runs-programs/' | relative_url }}">how a terminal actually runs programs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
