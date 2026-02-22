@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/the-tears-of-donald-knuth/' | relative_url }}">the tears of donald knuth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/the-four-color-theorem-18521976/' | relative_url }}">the four color theorem 18521976</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/tech-giants-commit-billions-to-indian-ai-as-new-de/' | relative_url }}">tech giants commit billions to indian ai as new de</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/six-math-essentials/' | relative_url }}">six math essentials</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
@@ -149,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/music-discovery/' | relative_url }}">music discovery</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/minions-stripes-one-shot-end-to-end-coding-agents/' | relative_url }}">minions stripes one shot end to end coding agents</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/man-accidentally-gains-control-of-7k-robot-vacuums/' | relative_url }}">man accidentally gains control of 7k robot vacuums</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/loops-is-a-federated-open-source-tiktok/' | relative_url }}">loops is a federated open source tiktok</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
@@ -205,11 +221,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/how-we-reclaim-agency-in-democracy-with-tech-mirro/' | relative_url }}">how we reclaim agency in democracy with tech mirro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/how-we-fixed-yaml-comment-preservation-in-ruby-and/' | relative_url }}">how we fixed yaml comment preservation in ruby and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/how-taalas-prints-llm-onto-a-chip/' | relative_url }}">how taalas prints llm onto a chip</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/how-openais-codex-team-works-and-leverages-ai/' | relative_url }}">how openais codex team works and leverages ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
@@ -234,6 +258,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/happy-zeldas-40th-first-llm-running-on-n64-hardwar/' | relative_url }}">happy zeldas 40th first llm running on n64 hardwar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/global-intelligence-crisis/' | relative_url }}">global intelligence crisis</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
@@ -286,6 +314,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/another-image-organizer-by-me/' | relative_url }}">another image organizer by me</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/announcement-new-release-of-the-jdbcswing-based-da/' | relative_url }}">announcement new release of the jdbcswing based da</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
