@@ -21,6 +21,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/sam-altman-would-like-remind-you-that-humans-use-a/' | relative_url }}">sam altman would like remind you that humans use a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/playmakers-reviewed-the-race-to-give-every-child-a/' | relative_url }}">playmakers reviewed the race to give every child a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/palantirs-secret-weapon-isnt-ai-its-ontology-an-op/' | relative_url }}">palantirs secret weapon isnt ai its ontology an op</a></h3>
 </div>
 <div class="article-row">
@@ -45,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/how-taalas-prints-llm-onto-a-chip/' | relative_url }}">how taalas prints llm onto a chip</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/how-macos-sandbox-exec-actually-works-and-why-deny/' | relative_url }}">how macos sandbox exec actually works and why deny</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/happy-zeldas-40th-first-llm-running-on-n64-hardwar/' | relative_url }}">happy zeldas 40th first llm running on n64 hardwar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/gamedate-a-site-to-revive-dead-multiplayer-games/' | relative_url }}">gamedate a site to revive dead multiplayer games</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
@@ -82,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/ai-writes-html-fast-but-does-it-write-html-well-ge/' | relative_url }}">ai writes html fast but does it write html well ge</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/after-a-year-of-using-cursor-claude-code-antigravi/' | relative_url }}">after a year of using cursor claude code antigravi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
