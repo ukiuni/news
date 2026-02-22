@@ -97,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/show-hn-cia-world-factbook-archive-19902025-search/' | relative_url }}">show hn cia world factbook archive 19902025 search</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/show-hn-3d-mahjong-built-in-css/' | relative_url }}">show hn 3d mahjong built in css</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/sam-altman-would-like-remind-you-that-humans-use-a/' | relative_url }}">sam altman would like remind you that humans use a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/read-locks-are-not-your-friends/' | relative_url }}">read locks are not your friends</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
