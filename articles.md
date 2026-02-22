@@ -29,11 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/volatility-the-volatile-memory-forensic-extraction/' | relative_url }}">volatility the volatile memory forensic extraction</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/us-cannot-legally-impose-tariffs-using-section-122/' | relative_url }}">us cannot legally impose tariffs using section 122</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/unreal-numbers/' | relative_url }}">unreal numbers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/unicodes-confusablestxt-and-nfkc-normalization-dis/' | relative_url }}">unicodes confusablestxt and nfkc normalization dis</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
