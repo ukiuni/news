@@ -13,7 +13,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/how-macos-sandbox-exec-actually-works-and-why-deny/' | relative_url }}">how macos sandbox exec actually works and why deny</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/how-i-use-claude-code-separation-of-planning-and-e/' | relative_url }}">how i use claude code separation of planning and e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/happy-zeldas-40th-first-llm-running-on-n64-hardwar/' | relative_url }}">happy zeldas 40th first llm running on n64 hardwar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/forward-propagation-of-errors-through-time/' | relative_url }}">forward propagation of errors through time</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/benchmarking-loop-anti-patterns-in-javascript-and/' | relative_url }}">benchmarking loop anti patterns in javascript and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/are-compilers-deterministic/' | relative_url }}">are compilers deterministic</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
