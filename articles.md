@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/the-us-spent-30-billion-to-ditch-textbooks-for-lap/' | relative_url }}">the us spent 30 billion to ditch textbooks for lap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/technical-post-mortem-the-architectural-friction-o/' | relative_url }}">technical post mortem the architectural friction o</a></h3>
 </div>
 <div class="article-row">
@@ -57,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/linux-70-makes-preparations-for-rust-195/' | relative_url }}">linux 70 makes preparations for rust 195</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/japanese-woodblock-print-search/' | relative_url }}">japanese woodblock print search</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/i-built-an-enterprise-grade-app-with-e2e-encryptio/' | relative_url }}">i built an enterprise grade app with e2e encryptio</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/how-we-fixed-yaml-comment-preservation-in-ruby-and/' | relative_url }}">how we fixed yaml comment preservation in ruby and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
