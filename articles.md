@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/xweather-live-interactive-global-vector-weather-ma/' | relative_url }}">xweather live interactive global vector weather ma</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/writing-helper-open-source-grammar-checker-using-r/' | relative_url }}">writing helper open source grammar checker using r</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/show-hn-elecxzy-a-lightweight-lisp-free-emacs-like/' | relative_url }}">show hn elecxzy a lightweight lisp free emacs like</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/show-hn-3d-mahjong-built-in-css/' | relative_url }}">show hn 3d mahjong built in css</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
