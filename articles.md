@@ -137,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/metas-own-research-found-parental-supervision-does/' | relative_url }}">metas own research found parental supervision does</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/meshtnc-is-a-tool-for-turning-consumer-grade-lora/' | relative_url }}">meshtnc is a tool for turning consumer grade lora</a></h3>
 </div>
 <div class="article-row">
@@ -234,6 +238,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/are-compilers-deterministic/' | relative_url }}">are compilers deterministic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/another-image-organizer-by-me/' | relative_url }}">another image organizer by me</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
