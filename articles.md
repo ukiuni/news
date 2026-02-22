@@ -8,6 +8,18 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/meshtnc-is-a-tool-for-turning-consumer-grade-lora/' | relative_url }}">meshtnc is a tool for turning consumer grade lora</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/happy-zeldas-40th-first-llm-running-on-n64-hardwar/' | relative_url }}">happy zeldas 40th first llm running on n64 hardwar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/ai-writes-html-fast-but-does-it-write-html-well-ge/' | relative_url }}">ai writes html fast but does it write html well ge</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/21</span>
   <h3><a href="{{ '/2026/02/21/zuckerberg-grilled-about-metas-strategy-to-target/' | relative_url }}">zuckerberg grilled about metas strategy to target</a></h3>
 </div>
