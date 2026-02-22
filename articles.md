@@ -13,7 +13,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/palantirs-secret-weapon-isnt-ai-its-ontology-an-op/' | relative_url }}">palantirs secret weapon isnt ai its ontology an op</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/openai-employees-raised-alarm-about-mass-shooting/' | relative_url }}">openai employees raised alarm about mass shooting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/meshtnc-is-a-tool-for-turning-consumer-grade-lora/' | relative_url }}">meshtnc is a tool for turning consumer grade lora</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/japanese-woodblock-print-search/' | relative_url }}">japanese woodblock print search</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/its-impossible-for-rust-to-have-sane-hkt/' | relative_url }}">its impossible for rust to have sane hkt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
@@ -25,11 +41,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/how-and-why-local-llms-perform-on-framework-13-amd/' | relative_url }}">how and why local llms perform on framework 13 amd</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/happy-zeldas-40th-first-llm-running-on-n64-hardwar/' | relative_url }}">happy zeldas 40th first llm running on n64 hardwar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/forward-propagation-of-errors-through-time/' | relative_url }}">forward propagation of errors through time</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/cl-kawa-a-turducken-of-programming-languages/' | relative_url }}">cl kawa a turducken of programming languages</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
