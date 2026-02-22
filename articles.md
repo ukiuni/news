@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/you-are-not-left-behind/' | relative_url }}">you are not left behind</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/us-cannot-legally-impose-tariffs-using-section-122/' | relative_url }}">us cannot legally impose tariffs using section 122</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/technical-post-mortem-the-architectural-friction-o/' | relative_url }}">technical post mortem the architectural friction o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/tech-giants-commit-billions-to-indian-ai-as-new-de/' | relative_url }}">tech giants commit billions to indian ai as new de</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
@@ -114,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/fix-your-tools/' | relative_url }}">fix your tools</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/does-syntax-matter/' | relative_url }}">does syntax matter</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
