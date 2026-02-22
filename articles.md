@@ -201,11 +201,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/gits-magic-files/' | relative_url }}">gits magic files</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/gamedate-a-site-to-revive-dead-multiplayer-games/' | relative_url }}">gamedate a site to revive dead multiplayer games</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/function-application-is-inheritance-but-inheritanc/' | relative_url }}">function application is inheritance but inheritanc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/fresh-file-explorer-vs-code-extension-for-navigati/' | relative_url }}">fresh file explorer vs code extension for navigati</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
@@ -249,6 +257,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/ai-blamed-again-as-hard-drives-are-sold-out-for-th/' | relative_url }}">ai blamed again as hard drives are sold out for th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/age-verification-checks-are-now-in-force-in-the-uk/' | relative_url }}">age verification checks are now in force in the uk</a></h3>
 </div>
 <div class="article-row">
@@ -258,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/a-south-korean-female-serial-killer-learned-how-to/' | relative_url }}">a south korean female serial killer learned how to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/22</span>
+  <h3><a href="{{ '/2026/02/22/a-program-that-outputs-a-zip-containing-a-program/' | relative_url }}">a program that outputs a zip containing a program</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
