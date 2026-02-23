@@ -96,6 +96,10 @@ permalink: /articles/
   <h3><a href="{{ '/2026/02/23/agentic-software-engineering-book/' | relative_url }}">agentic software engineering book</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/0-ad-release-28-boiorix/' | relative_url }}">0 ad release 28 boiorix</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/22</span>
   <h3><a href="{{ '/2026/02/22/zero-gc-and-78m-samplessec-pushing-nodejs-22-to-th/' | relative_url }}">zero gc and 78m samplessec pushing nodejs 22 to th</a></h3>
 </div>
