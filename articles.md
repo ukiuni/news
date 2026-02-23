@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/unix99-a-unix-like-os-for-the-ti-994a/' | relative_url }}">unix99 a unix like os for the ti 994a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/turing-wall-a-quality-enforcement-framework-for-op/' | relative_url }}">turing wall a quality enforcement framework for op</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/the-musidex-a-physical-music-library-for-the-strea/' | relative_url }}">the musidex a physical music library for the strea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/the-lighthouse-how-extreme-isolation-transforms-th/' | relative_url }}">the lighthouse how extreme isolation transforms th</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -117,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/show-hn-shibuya-a-high-performance-waf-in-rust-wit/' | relative_url }}">show hn shibuya a high performance waf in rust wit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/show-hn-pgdog-scale-postgres-without-changing-the/' | relative_url }}">show hn pgdog scale postgres without changing the</a></h3>
 </div>
 <div class="article-row">
@@ -142,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/qrtape-audio-playback-from-paper-tape-with-compute/' | relative_url }}">qrtape audio playback from paper tape with compute</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/putin-tried-to-freeze-ukraine-instead-he-sparked-a/' | relative_url }}">putin tried to freeze ukraine instead he sparked a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -230,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/how-the-ai-debt-binge-shattered-hyperscalers-unspo/' | relative_url }}">how the ai debt binge shattered hyperscalers unspo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/how-i-ported-doom-to-a-20-year-old-voip-phone/' | relative_url }}">how i ported doom to a 20 year old voip phone</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -342,6 +362,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/anthropic-announces-proof-of-distillation-at-scale/' | relative_url }}">anthropic announces proof of distillation at scale</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/americans-are-destroying-flock-surveillance-camera/' | relative_url }}">americans are destroying flock surveillance camera</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
