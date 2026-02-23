@@ -17,11 +17,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/trying-out-claude-code-teams/' | relative_url }}">trying out claude code teams</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/the-surprising-power-of-daily-rituals/' | relative_url }}">the surprising power of daily rituals</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/the-musidex-a-physical-music-library-for-the-strea/' | relative_url }}">the musidex a physical music library for the strea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/the-javascript-oxidation-compiler/' | relative_url }}">the javascript oxidation compiler</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -57,11 +65,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/how-to-train-your-program-verifier/' | relative_url }}">how to train your program verifier</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/conduent-data-breach-could-be-largest-in-us-histor/' | relative_url }}">conduent data breach could be largest in us histor</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/codespelunker-cli-code-search-tool-that-understand/' | relative_url }}">codespelunker cli code search tool that understand</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/aqua-a-cli-message-tool-for-ai-agents/' | relative_url }}">aqua a cli message tool for ai agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/agentic-software-engineering-book/' | relative_url }}">agentic software engineering book</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/22</span>
