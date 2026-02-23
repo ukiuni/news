@@ -145,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/show-hn-babyshark-wireshark-made-easy-terminal-ui/' | relative_url }}">show hn babyshark wireshark made easy terminal ui</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/show-hn-a-geometric-analysis-of-chopins-prelude-no/' | relative_url }}">show hn a geometric analysis of chopins prelude no</a></h3>
 </div>
 <div class="article-row">
@@ -214,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/linus-torvalds-someone-more-competent-who-isnt-afr/' | relative_url }}">linus torvalds someone more competent who isnt afr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/lessons-in-grafana-part-one-a-vision/' | relative_url }}">lessons in grafana part one a vision</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -297,6 +305,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/freebsd-doesnt-have-wi-fi-driver-for-my-old-macboo/' | relative_url }}">freebsd doesnt have wi fi driver for my old macboo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/forgejo-agit-and-pull-request-templates/' | relative_url }}">forgejo agit and pull request templates</a></h3>
 </div>
 <div class="article-row">
@@ -365,6 +377,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/china-invents-process-that-turns-desert-sand-into/' | relative_url }}">china invents process that turns desert sand into</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/challenging-the-single-responsibility-principle/' | relative_url }}">challenging the single responsibility principle</a></h3>
 </div>
 <div class="article-row">
@@ -390,6 +406,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/amazons-ai-agent-kiro-inherited-an-engineers-eleva/' | relative_url }}">amazons ai agent kiro inherited an engineers eleva</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/ai-powered-reverse-engineering-of-rosetta-2-for-li/' | relative_url }}">ai powered reverse engineering of rosetta 2 for li</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
