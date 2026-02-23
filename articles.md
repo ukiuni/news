@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/what-i-learned-after-building-3-tv-apps-coming-fro/' | relative_url }}">what i learned after building 3 tv apps coming fro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/trying-out-claude-code-teams/' | relative_url }}">trying out claude code teams</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/setihome-data-acquisition-and-front-end-processing/' | relative_url }}">setihome data acquisition and front end processing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/qrtape-audio-playback-from-paper-tape-with-compute/' | relative_url }}">qrtape audio playback from paper tape with compute</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/pope-tells-priests-to-use-their-brains-not-ai-to-w/' | relative_url }}">pope tells priests to use their brains not ai to w</a></h3>
 </div>
 <div class="article-row">
@@ -93,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/getting-real-with-llms/' | relative_url }}">getting real with llms</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/freemediaheckyeah/' | relative_url }}">freemediaheckyeah</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +138,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/agentic-software-engineering-book/' | relative_url }}">agentic software engineering book</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/agent22-opencode-wrapper-for-common-tasks/' | relative_url }}">agent22 opencode wrapper for common tasks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/999-uptime-what-your-cloud-provider-isnt-telling-y/' | relative_url }}">999 uptime what your cloud provider isnt telling y</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
