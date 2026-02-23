@@ -13,7 +13,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/the-surprising-power-of-daily-rituals/' | relative_url }}">the surprising power of daily rituals</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/stop-killing-games-is-launching-ngos-in-the-europe/' | relative_url }}">stop killing games is launching ngos in the europe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/show-hn-warn-firehose-every-us-layoff-notice-in-on/' | relative_url }}">show hn warn firehose every us layoff notice in on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/show-hn-a-geometric-analysis-of-chopins-prelude-no/' | relative_url }}">show hn a geometric analysis of chopins prelude no</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/playing-css-defined-animations-with-javascript/' | relative_url }}">playing css defined animations with javascript</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
