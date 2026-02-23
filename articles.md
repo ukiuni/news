@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/tracking-nixos-option-values-and-dependencies/' | relative_url }}">tracking nixos option values and dependencies</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/the-surprising-power-of-daily-rituals/' | relative_url }}">the surprising power of daily rituals</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/the-code-on-this-cylinder-generates-it/' | relative_url }}">the code on this cylinder generates it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/the-challenges-of-porting-shufflepuck-cafe-to-the/' | relative_url }}">the challenges of porting shufflepuck cafe to the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -153,6 +161,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/queues-for-kafka-ready-for-prime-time/' | relative_url }}">queues for kafka ready for prime time</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/qrtape-audio-playback-from-paper-tape-with-compute/' | relative_url }}">qrtape audio playback from paper tape with compute</a></h3>
 </div>
 <div class="article-row">
@@ -170,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/pipelined-relational-query-language-pronounced-pre/' | relative_url }}">pipelined relational query language pronounced pre</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/nicki-minajs-social-media-propped-up-by-thousands/' | relative_url }}">nicki minajs social media propped up by thousands</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -285,6 +301,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/flock-cameras-gifted-by-horowitz-foundation-avoidi/' | relative_url }}">flock cameras gifted by horowitz foundation avoidi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/femtolisp-a-lightweight-robust-scheme-like-lisp-im/' | relative_url }}">femtolisp a lightweight robust scheme like lisp im</a></h3>
 </div>
 <div class="article-row">
@@ -370,6 +390,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/amazons-ai-agent-kiro-inherited-an-engineers-eleva/' | relative_url }}">amazons ai agent kiro inherited an engineers eleva</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/ai-added-basically-zero-to-us-economic-growth-last/' | relative_url }}">ai added basically zero to us economic growth last</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
