@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/what-it-means-that-ubuntu-is-using-rust/' | relative_url }}">what it means that ubuntu is using rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/what-i-learned-after-building-3-tv-apps-coming-fro/' | relative_url }}">what i learned after building 3 tv apps coming fro</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/vtt-test-donut-lab-battery-reaches-80-charge-in-un/' | relative_url }}">vtt test donut lab battery reaches 80 charge in un</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/viking-was-a-job-description-not-a-matter-of-hered/' | relative_url }}">viking was a job description not a matter of hered</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -62,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/the-javascript-oxidation-compiler/' | relative_url }}">the javascript oxidation compiler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/the-future-of-coding-in-the-age-of-ai-is-git/' | relative_url }}">the future of coding in the age of ai is git</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -90,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/show-hn-warn-firehose-every-us-layoff-notice-in-on/' | relative_url }}">show hn warn firehose every us layoff notice in on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/show-hn-pgdog-scale-postgres-without-changing-the/' | relative_url }}">show hn pgdog scale postgres without changing the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -126,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/pipelined-relational-query-language-pronounced-pre/' | relative_url }}">pipelined relational query language pronounced pre</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/new-xbox-boss-is-worried-about-birthrates-says-ai/' | relative_url }}">new xbox boss is worried about birthrates says ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -169,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/is-inability-to-post-working-apps-in-a-social-netw/' | relative_url }}">is inability to post working apps in a social netw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/if-big-tech-cared-about-fighting-ai-slop-it-wouldn/' | relative_url }}">if big tech cared about fighting ai slop it wouldn</a></h3>
 </div>
 <div class="article-row">
@@ -202,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/hetzner-european-hosting-provider-to-increase-pric/' | relative_url }}">hetzner european hosting provider to increase pric</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/half-million-words-with-spaces-missing-from-dictio/' | relative_url }}">half million words with spaces missing from dictio</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -281,11 +309,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/amazons-ai-agent-kiro-inherited-an-engineers-eleva/' | relative_url }}">amazons ai agent kiro inherited an engineers eleva</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/agentic-software-engineering-book/' | relative_url }}">agentic software engineering book</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/agent22-opencode-wrapper-for-common-tasks/' | relative_url }}">agent22 opencode wrapper for common tasks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/a-simple-web-we-own/' | relative_url }}">a simple web we own</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
