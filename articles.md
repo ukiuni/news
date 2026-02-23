@@ -85,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/so-ive-been-thinking-about-static-site-generators/' | relative_url }}">so ive been thinking about static site generators</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/show-hn-warn-firehose-every-us-layoff-notice-in-on/' | relative_url }}">show hn warn firehose every us layoff notice in on</a></h3>
 </div>
 <div class="article-row">
@@ -165,6 +169,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/if-big-tech-cared-about-fighting-ai-slop-it-wouldn/' | relative_url }}">if big tech cared about fighting ai slop it wouldn</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/i-donut-believe-presenting-third-party-results-don/' | relative_url }}">i donut believe presenting third party results don</a></h3>
 </div>
 <div class="article-row">
@@ -189,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/hetzner-price-adjustment/' | relative_url }}">hetzner price adjustment</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/hetzner-european-hosting-provider-to-increase-pric/' | relative_url }}">hetzner european hosting provider to increase pric</a></h3>
 </div>
 <div class="article-row">
@@ -198,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/getting-real-with-llms/' | relative_url }}">getting real with llms</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/germany-eyes-social-media-ban-for-kids/' | relative_url }}">germany eyes social media ban for kids</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -229,6 +245,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/disappointing-phones/' | relative_url }}">disappointing phones</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/dictionary-compression-is-finally-here-and-its-rid/' | relative_url }}">dictionary compression is finally here and its rid</a></h3>
 </div>
 <div class="article-row">
@@ -250,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/code-isnt-whats-slowing-projects-down/' | relative_url }}">code isnt whats slowing projects down</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/challenging-the-single-responsibility-principle/' | relative_url }}">challenging the single responsibility principle</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
