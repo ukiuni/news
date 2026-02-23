@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/vtt-test-donut-lab-battery-reaches-80-charge-in-un/' | relative_url }}">vtt test donut lab battery reaches 80 charge in un</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/trying-out-claude-code-teams/' | relative_url }}">trying out claude code teams</a></h3>
 </div>
 <div class="article-row">
@@ -113,7 +117,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/i-donut-believe-presenting-third-party-results-don/' | relative_url }}">i donut believe presenting third party results don</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/i-created-the-smallest-2d-game-in-the-world-less-t/' | relative_url }}">i created the smallest 2d game in the world less t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/i-am-a-15-year-old-girl-let-me-show-you-the-vile-m/' | relative_url }}">i am a 15 year old girl let me show you the vile m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/how-to-train-your-program-verifier/' | relative_url }}">how to train your program verifier</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/how-the-ai-debt-binge-shattered-hyperscalers-unspo/' | relative_url }}">how the ai debt binge shattered hyperscalers unspo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -141,11 +161,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/facebooks-fascination-with-my-robotstxt/' | relative_url }}">facebooks fascination with my robotstxt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/elsevier-shuts-down-its-finance-journal-citation-c/' | relative_url }}">elsevier shuts down its finance journal citation c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/dictionary-compression-is-finally-here-and-its-rid/' | relative_url }}">dictionary compression is finally here and its rid</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/cursed-engineering-jumping-randomly-through-csv-fi/' | relative_url }}">cursed engineering jumping randomly through csv fi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
