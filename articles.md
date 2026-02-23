@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/ten-years-late-to-the-dbt-party-duckdb-edition/' | relative_url }}">ten years late to the dbt party duckdb edition</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/sub-200-lidar-could-reshuffle-auto-sensor-economic/' | relative_url }}">sub 200 lidar could reshuffle auto sensor economic</a></h3>
 </div>
 <div class="article-row">
@@ -145,11 +149,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/lamborghini-just-canceled-the-lanzador-because-evs/' | relative_url }}">lamborghini just canceled the lanzador because evs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/ladybird-browser-adopts-rust/' | relative_url }}">ladybird browser adopts rust</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/jit-a-header-only-cross-platform-jit-compiler-libr/' | relative_url }}">jit a header only cross platform jit compiler libr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/java-serialization-spooky-action-at-a-distance-sta/' | relative_url }}">java serialization spooky action at a distance sta</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -197,11 +209,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/femtolisp-a-lightweight-robust-scheme-like-lisp-im/' | relative_url }}">femtolisp a lightweight robust scheme like lisp im</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/fast-starting-clojure-runtime-built-with-graalvm-n/' | relative_url }}">fast starting clojure runtime built with graalvm n</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/facebooks-fascination-with-my-robotstxt/' | relative_url }}">facebooks fascination with my robotstxt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/emulating-goto-in-scheme-with-continuations/' | relative_url }}">emulating goto in scheme with continuations</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
