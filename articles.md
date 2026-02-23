@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/your-ai-dev-team-ship-products-10x-faster-with-ope/' | relative_url }}">your ai dev team ship products 10x faster with ope</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/xbox-president-sarah-bond-speaks-out-after-news-of/' | relative_url }}">xbox president sarah bond speaks out after news of</a></h3>
 </div>
 <div class="article-row">
@@ -73,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/microgpt-llm-visualizer/' | relative_url }}">microgpt llm visualizer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/linus-torvalds-someone-more-competent-who-isnt-afr/' | relative_url }}">linus torvalds someone more competent who isnt afr</a></h3>
 </div>
 <div class="article-row">
@@ -89,11 +97,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/fast-starting-clojure-runtime-built-with-graalvm-n/' | relative_url }}">fast starting clojure runtime built with graalvm n</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/elsevier-shuts-down-its-finance-journal-citation-c/' | relative_url }}">elsevier shuts down its finance journal citation c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/conduent-data-breach-could-be-largest-in-us-histor/' | relative_url }}">conduent data breach could be largest in us histor</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/codespelunker-cli-code-search-tool-that-understand/' | relative_url }}">codespelunker cli code search tool that understand</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/codeigniter4-multi-tenancy/' | relative_url }}">codeigniter4 multi tenancy</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
