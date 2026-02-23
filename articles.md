@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/sam-altman-would-like-to-remind-you-that-humans-us/' | relative_url }}">sam altman would like to remind you that humans us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/qrtape-audio-playback-from-paper-tape-with-compute/' | relative_url }}">qrtape audio playback from paper tape with compute</a></h3>
 </div>
 <div class="article-row">
@@ -113,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/hetzner-european-hosting-provider-to-increase-pric/' | relative_url }}">hetzner european hosting provider to increase pric</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/hacker-newslove-22-projects-hacker-news-didnt-love/' | relative_url }}">hacker newslove 22 projects hacker news didnt love</a></h3>
 </div>
 <div class="article-row">
@@ -125,11 +133,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/forgejo-agit-and-pull-request-templates/' | relative_url }}">forgejo agit and pull request templates</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/fast-starting-clojure-runtime-built-with-graalvm-n/' | relative_url }}">fast starting clojure runtime built with graalvm n</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/elsevier-shuts-down-its-finance-journal-citation-c/' | relative_url }}">elsevier shuts down its finance journal citation c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/dictionary-compression-is-finally-here-and-its-rid/' | relative_url }}">dictionary compression is finally here and its rid</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
