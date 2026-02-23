@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/using-haskells-newtype-in-c/' | relative_url }}">using haskells newtype in c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/turing-wall-a-quality-enforcement-framework-for-op/' | relative_url }}">turing wall a quality enforcement framework for op</a></h3>
 </div>
 <div class="article-row">
@@ -97,11 +101,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/some-silly-z3-scripts-i-wrote/' | relative_url }}">some silly z3 scripts i wrote</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/so-ive-been-thinking-about-static-site-generators/' | relative_url }}">so ive been thinking about static site generators</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/show-hn-warn-firehose-every-us-layoff-notice-in-on/' | relative_url }}">show hn warn firehose every us layoff notice in on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/show-hn-sowbot-open-hardware-agricultural-robot-ro/' | relative_url }}">show hn sowbot open hardware agricultural robot ro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -281,7 +293,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/designing-odins-casting-syntax/' | relative_url }}">designing odins casting syntax</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/data-centers-are-now-hoarding-ssds-as-hard-drive-s/' | relative_url }}">data centers are now hoarding ssds as hard drive s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/cursed-engineering-jumping-randomly-through-csv-fi/' | relative_url }}">cursed engineering jumping randomly through csv fi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/cslib-the-lean-computer-science-library/' | relative_url }}">cslib the lean computer science library</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -305,7 +329,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/bit-fields/' | relative_url }}">bit fields</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/aqua-a-cli-message-tool-for-ai-agents/' | relative_url }}">aqua a cli message tool for ai agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/anthropic-education-the-ai-fluency-index/' | relative_url }}">anthropic education the ai fluency index</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/anthropic-announces-proof-of-distillation-at-scale/' | relative_url }}">anthropic announces proof of distillation at scale</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
