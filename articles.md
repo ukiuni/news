@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/linus-torvalds-someone-more-competent-who-isnt-afr/' | relative_url }}">linus torvalds someone more competent who isnt afr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/jit-a-header-only-cross-platform-jit-compiler-libr/' | relative_url }}">jit a header only cross platform jit compiler libr</a></h3>
 </div>
 <div class="article-row">
