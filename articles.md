@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/what-is-fx-gx-o1-inequalities-with-asymptotics/' | relative_url }}">what is fx gx o1 inequalities with asymptotics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/what-i-learned-after-building-3-tv-apps-coming-fro/' | relative_url }}">what i learned after building 3 tv apps coming fro</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/so-ive-been-thinking-about-static-site-generators/' | relative_url }}">so ive been thinking about static site generators</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/simulating-fusion-reactors-in-c/' | relative_url }}">simulating fusion reactors in c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
