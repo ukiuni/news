@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/xbox-president-sarah-bond-speaks-out-after-news-of/' | relative_url }}">xbox president sarah bond speaks out after news of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/writeup-glue-unified-toolchain-for-your-schemas/' | relative_url }}">writeup glue unified toolchain for your schemas</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/how-to-train-your-program-verifier/' | relative_url }}">how to train your program verifier</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/freemediaheckyeah/' | relative_url }}">freemediaheckyeah</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
