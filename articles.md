@@ -93,7 +93,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/magical-mushroom-europes-first-industrial-scale-my/' | relative_url }}">magical mushroom europes first industrial scale my</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/linus-torvalds-someone-more-competent-who-isnt-afr/' | relative_url }}">linus torvalds someone more competent who isnt afr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/ladybird-browser-adopts-rust/' | relative_url }}">ladybird browser adopts rust</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/how-to-train-your-program-verifier/' | relative_url }}">how to train your program verifier</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/hacker-newslove-22-projects-hacker-news-didnt-love/' | relative_url }}">hacker newslove 22 projects hacker news didnt love</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
@@ -142,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/23</span>
   <h3><a href="{{ '/2026/02/23/agent22-opencode-wrapper-for-common-tasks/' | relative_url }}">agent22 opencode wrapper for common tasks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/23</span>
+  <h3><a href="{{ '/2026/02/23/a-nasa-engineer-discovered-a-world-of-semi-truck-a/' | relative_url }}">a nasa engineer discovered a world of semi truck a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
