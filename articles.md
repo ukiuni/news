@@ -13,7 +13,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/terence-tao-at-8-years-old-pdf/' | relative_url }}">terence tao at 8 years old pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/signed-sealed-stolen-how-we-patched-critical-vulne/' | relative_url }}">signed sealed stolen how we patched critical vulne</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/show-hn-steerling-8b-a-language-model-that-can-exp/' | relative_url }}">show hn steerling 8b a language model that can exp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
@@ -45,11 +53,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/blood-test-boosts-alzheimers-diagnosis-accuracy-to/' | relative_url }}">blood test boosts alzheimers diagnosis accuracy to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/binding-port-0-to-avoid-port-collisions/' | relative_url }}">binding port 0 to avoid port collisions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/age-of-empires-25-years-of-pathfinding-problems-wi/' | relative_url }}">age of empires 25 years of pathfinding problems wi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/300-days-of-rubocop/' | relative_url }}">300 days of rubocop</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
