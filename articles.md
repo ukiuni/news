@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/tiny-qr-code-achieved-using-electron-microscope-te/' | relative_url }}">tiny qr code achieved using electron microscope te</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/the-engine-behind-the-hype/' | relative_url }}">the engine behind the hype</a></h3>
 </div>
 <div class="article-row">
@@ -93,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/i-pitched-a-roller-coaster-to-disneyland-at-age-10/' | relative_url }}">i pitched a roller coaster to disneyland at age 10</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/i-left-my-first-hackathon-at-8-pm-and-it-was-a-mas/' | relative_url }}">i left my first hackathon at 8 pm and it was a mas</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/goodbye-innerhtml-hello-sethtml-stronger-xss-prote/' | relative_url }}">goodbye innerhtml hello sethtml stronger xss prote</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/first-dev-weekend-challenge-launches-on-feb-26-mar/' | relative_url }}">first dev weekend challenge launches on feb 26 mar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
@@ -150,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/age-of-empires-25-years-of-pathfinding-problems-wi/' | relative_url }}">age of empires 25 years of pathfinding problems wi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/after-30-billion-in-school-tech-the-laptop-classro/' | relative_url }}">after 30 billion in school tech the laptop classro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
