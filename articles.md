@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/software-31-ai-functions/' | relative_url }}">software 31 ai functions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/signed-sealed-stolen-how-we-patched-critical-vulne/' | relative_url }}">signed sealed stolen how we patched critical vulne</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/shatner-is-making-an-album-with-35-metal-icons/' | relative_url }}">shatner is making an album with 35 metal icons</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/rfc-406i-the-rejection-of-artificially-generated-s/' | relative_url }}">rfc 406i the rejection of artificially generated s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
@@ -74,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/lets-understand-amp-implement-consistent-hashing/' | relative_url }}">lets understand amp implement consistent hashing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/just-a-little-detail-that-wouldnt-sell-anything/' | relative_url }}">just a little detail that wouldnt sell anything</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
@@ -137,7 +149,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/data-center-builders-thought-farmers-would-willing/' | relative_url }}">data center builders thought farmers would willing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/car-wash-test-with-53-models/' | relative_url }}">car wash test with 53 models</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/can-agentic-coding-raise-the-quality-bar/' | relative_url }}">can agentic coding raise the quality bar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
