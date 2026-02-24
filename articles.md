@@ -37,11 +37,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/permacomputing/' | relative_url }}">permacomputing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/nicki-minajs-maga-posting-spree-boosted-by-bots-ne/' | relative_url }}">nicki minajs maga posting spree boosted by bots ne</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/mock-the-hype-post-the-software-development-lifecy/' | relative_url }}">mock the hype post the software development lifecy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/metas-ai-facial-recognition-smart-glasses-plan-wil/' | relative_url }}">metas ai facial recognition smart glasses plan wil</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
@@ -110,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/age-of-empires-25-years-of-pathfinding-problems-wi/' | relative_url }}">age of empires 25 years of pathfinding problems wi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/a-distributed-queue-in-a-single-json-file-on-objec/' | relative_url }}">a distributed queue in a single json file on objec</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
