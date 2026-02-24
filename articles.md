@@ -61,6 +61,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/baby-chicks-pass-the-bouba-kiki-test-challenging-a/' | relative_url }}">baby chicks pass the bouba kiki test challenging a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/apache-netbeans-29-released/' | relative_url }}">apache netbeans 29 released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/age-of-empires-25-years-of-pathfinding-problems-wi/' | relative_url }}">age of empires 25 years of pathfinding problems wi</a></h3>
 </div>
 <div class="article-row">
