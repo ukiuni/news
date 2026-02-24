@@ -25,11 +25,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/show-hn-enveil-hide-your-env-secrets-from-praing-e/' | relative_url }}">show hn enveil hide your env secrets from praing e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/shatner-is-making-an-album-with-35-metal-icons/' | relative_url }}">shatner is making an album with 35 metal icons</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/nicki-minajs-maga-posting-spree-boosted-by-bots-ne/' | relative_url }}">nicki minajs maga posting spree boosted by bots ne</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/mock-the-hype-post-the-software-development-lifecy/' | relative_url }}">mock the hype post the software development lifecy</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
@@ -42,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/i-ported-coreboot-to-the-thinkpad-x270/' | relative_url }}">i ported coreboot to the thinkpad x270</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/huntarr-your-passwords-and-your-entire-arr-stacks/' | relative_url }}">huntarr your passwords and your entire arr stacks</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
