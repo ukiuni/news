@@ -13,7 +13,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/shatner-is-making-an-album-with-35-metal-icons/' | relative_url }}">shatner is making an album with 35 metal icons</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/nicki-minajs-maga-posting-spree-boosted-by-bots-ne/' | relative_url }}">nicki minajs maga posting spree boosted by bots ne</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/making-wolfram-tech-available-as-a-foundation-tool/' | relative_url }}">making wolfram tech available as a foundation tool</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
@@ -21,7 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/i-ported-coreboot-to-the-thinkpad-x270/' | relative_url }}">i ported coreboot to the thinkpad x270</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/c-enum-sizes-or-how-msvc-ignores-the-standard-once/' | relative_url }}">c enum sizes or how msvc ignores the standard once</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/binding-port-0-to-avoid-port-collisions/' | relative_url }}">binding port 0 to avoid port collisions</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/age-of-empires-25-years-of-pathfinding-problems-wi/' | relative_url }}">age of empires 25 years of pathfinding problems wi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/23</span>
