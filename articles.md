@@ -45,11 +45,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/tesla-registrations-crash-17-in-europe-as-bev-mark/' | relative_url }}">tesla registrations crash 17 in europe as bev mark</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/terence-tao-at-8-years-old-pdf/' | relative_url }}">terence tao at 8 years old pdf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/stripe-valued-at-159b-2025-annual-letter/' | relative_url }}">stripe valued at 159b 2025 annual letter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/steel-bank-common-lisp/' | relative_url }}">steel bank common lisp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/nicki-minajs-maga-posting-spree-boosted-by-bots-ne/' | relative_url }}">nicki minajs maga posting spree boosted by bots ne</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/nearby-glasses/' | relative_url }}">nearby glasses</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
@@ -169,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/google-apologizes-after-ai-news-alert-about-bafta/' | relative_url }}">google apologizes after ai news alert about bafta</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/goodbye-innerhtml-hello-sethtml-stronger-xss-prote/' | relative_url }}">goodbye innerhtml hello sethtml stronger xss prote</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/extending-c-with-prolog-1994/' | relative_url }}">extending c with prolog 1994</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/discord-delays-global-age-verification-rollout-aft/' | relative_url }}">discord delays global age verification rollout aft</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
