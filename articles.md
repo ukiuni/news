@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/idf-killed-gaza-aid-workers-at-point-blank-range-i/' | relative_url }}">idf killed gaza aid workers at point blank range i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/ibm-stock-tumbles-10-after-anthropic-launches-cobo/' | relative_url }}">ibm stock tumbles 10 after anthropic launches cobo</a></h3>
 </div>
 <div class="article-row">
