@@ -129,7 +129,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/manjaro-website-off-line-again-due-to-lapsed-certi/' | relative_url }}">manjaro website off line again due to lapsed certi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/making-wolfram-tech-available-as-a-foundation-tool/' | relative_url }}">making wolfram tech available as a foundation tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/mac-mini-will-be-made-at-a-new-facility-in-houston/' | relative_url }}">mac mini will be made at a new facility in houston</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/looks-like-it-is-happening/' | relative_url }}">looks like it is happening</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
@@ -278,6 +290,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/after-30-billion-in-school-tech-the-laptop-classro/' | relative_url }}">after 30 billion in school tech the laptop classro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/a-quick-recovery-guide-for-ai-dependent-coders/' | relative_url }}">a quick recovery guide for ai dependent coders</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
