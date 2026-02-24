@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/webgpu-fundamentals/' | relative_url }}">webgpu fundamentals</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/we-installed-a-single-turnstile-to-feel-secure/' | relative_url }}">we installed a single turnstile to feel secure</a></h3>
 </div>
 <div class="article-row">
@@ -113,7 +117,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/pi-a-minimal-terminal-coding-harness/' | relative_url }}">pi a minimal terminal coding harness</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/permacomputing/' | relative_url }}">permacomputing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/pentagon-sets-friday-deadline-for-anthropic-to-aba/' | relative_url }}">pentagon sets friday deadline for anthropic to aba</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
@@ -130,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/mock-the-hype-post-the-software-development-lifecy/' | relative_url }}">mock the hype post the software development lifecy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/microsoft-turns-ordinary-glass-into-a-permanent-ha/' | relative_url }}">microsoft turns ordinary glass into a permanent ha</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
