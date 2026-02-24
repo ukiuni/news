@@ -77,7 +77,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/show-hn-moonshine-open-weights-stt-models-higher-a/' | relative_url }}">show hn moonshine open weights stt models higher a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/show-hn-enveil-hide-your-env-secrets-from-praing-e/' | relative_url }}">show hn enveil hide your env secrets from praing e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/show-hn-emdash-open-source-agentic-development-env/' | relative_url }}">show hn emdash open source agentic development env</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
@@ -201,6 +209,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/how-we-rebuilt-nextjs-with-ai-in-one-week/' | relative_url }}">how we rebuilt nextjs with ai in one week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/how-macos-controls-performance-qos-on-intel-and-m1/' | relative_url }}">how macos controls performance qos on intel and m1</a></h3>
 </div>
 <div class="article-row">
@@ -234,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/extending-c-with-prolog-1994/' | relative_url }}">extending c with prolog 1994</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/dissecting-the-cpu-memory-relationship-in-garbage/' | relative_url }}">dissecting the cpu memory relationship in garbage</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
