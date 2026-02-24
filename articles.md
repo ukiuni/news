@@ -77,6 +77,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/diode-build-program-and-simulate-hardware/' | relative_url }}">diode build program and simulate hardware</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
+  <h3><a href="{{ '/2026/02/24/desk-setup-from-multi-monitor-to-single-screen-wit/' | relative_url }}">desk setup from multi monitor to single screen wit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/car-wash-test-with-53-models/' | relative_url }}">car wash test with 53 models</a></h3>
 </div>
 <div class="article-row">
