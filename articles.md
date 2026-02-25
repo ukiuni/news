@@ -8,6 +8,18 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/optophone/' | relative_url }}">optophone</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/cell-service-for-the-fairly-paranoid/' | relative_url }}">cell service for the fairly paranoid</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/a-decade-of-docker-containers/' | relative_url }}">a decade of docker containers</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/24</span>
   <h3><a href="{{ '/2026/02/24/x86css-an-x86-cpu-emulator-written-in-css/' | relative_url }}">x86css an x86 cpu emulator written in css</a></h3>
 </div>
