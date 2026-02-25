@@ -17,11 +17,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/time-exclusive-anthropic-drops-flagship-safety-ple/' | relative_url }}">time exclusive anthropic drops flagship safety ple</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/spacetimedb-20-just-got-announced-any-thoughts/' | relative_url }}">spacetimedb 20 just got announced any thoughts</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/some-popular-algorithms-youve-probably-seen/' | relative_url }}">some popular algorithms youve probably seen</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/show-hn-context-mode-315-kb-of-mcp-output-becomes/' | relative_url }}">show hn context mode 315 kb of mcp output becomes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/pentagon-threatens-to-make-anthropic-a-pariah-if-i/' | relative_url }}">pentagon threatens to make anthropic a pariah if i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/parse-me-baby-one-more-time-bypassing-html-sanitiz/' | relative_url }}">parse me baby one more time bypassing html sanitiz</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
@@ -38,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/code-has-always-been-the-easy-part/' | relative_url }}">code has always been the easy part</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/cl-kawa-scheme-on-java-on-common-lisp/' | relative_url }}">cl kawa scheme on java on common lisp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
