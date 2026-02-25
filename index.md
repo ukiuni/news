@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、規制と対立が一気に噴出している⚖️💥。Facebook検閲を巡る裁判やAmazonの価格操作問題、政府とAI企業の衝突が業界の政治化を映し出す。技術面ではMercury 2や軽量実装の登場でLLM競争が激化し、プライバシーや通信インフラの議論（Cell Service for the Fairly ParanoidやOptophone）も熱を帯びる🤖🔒。開発者ツールやコンテナの成熟もあいまって、目が離せない一日だ👀。
+    今日のテック業界では、AI覇権と規制を巡る攻防が激化しており、PentagonとAnthropicの対立や検閲を巡る法廷闘争が業界の注目を集めている ⚖️🤖。半導体と大手経営者が台湾リスクで牽制される一方、Amazonの価格操作疑惑やプライバシー志向の通信サービス需要が高まっている 🌏💸📡。その裏で、Mercury 2や軽量実装のansigptといった高速化・効率化の技術革新が進み、「コードは簡単だった」という見方に挑んでいる ⚡🧠。
   </div>
 </div>
