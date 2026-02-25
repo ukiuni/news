@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/show-hn-django-control-room-all-your-tools-inside/' | relative_url }}">show hn django control room all your tools inside</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/show-hn-context-mode-315-kb-of-mcp-output-becomes/' | relative_url }}">show hn context mode 315 kb of mcp output becomes</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +94,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/optophone/' | relative_url }}">optophone</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/once-upon-a-time-writing-code-was-fun/' | relative_url }}">once upon a time writing code was fun</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/new-accounts-on-hn-10x-more-likely-to-use-em-dashe/' | relative_url }}">new accounts on hn 10x more likely to use em dashe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
@@ -118,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/last-year-of-terraform/' | relative_url }}">last year of terraform</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/lambda-world-2019-language-oriented-programming-wi/' | relative_url }}">lambda world 2019 language oriented programming wi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
@@ -157,7 +173,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/goldman-sachs-says-ais-impact-on-the-us-economy-wa/' | relative_url }}">goldman sachs says ais impact on the us economy wa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/georgian-wine-culture-dates-back-uninterrupted-app/' | relative_url }}">georgian wine culture dates back uninterrupted app</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/gay-and-bisexual-sydney-teenagers-lured-on-gay-dat/' | relative_url }}">gay and bisexual sydney teenagers lured on gay dat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
@@ -202,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/anthropic-wont-budge-as-pentagon-escalates-ai-disp/' | relative_url }}">anthropic wont budge as pentagon escalates ai disp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/anthropic-ditches-its-core-safety-promise-in-the-m/' | relative_url }}">anthropic ditches its core safety promise in the m</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
