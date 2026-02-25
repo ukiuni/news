@@ -105,11 +105,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/fake-job-interviews-are-installing-backdoors-on-de/' | relative_url }}">fake job interviews are installing backdoors on de</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/ed-zitron-loses-his-mind-annotating-an-ai-doomer-m/' | relative_url }}">ed zitron loses his mind annotating an ai doomer m</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/danish-government-agency-to-ditch-microsoft-softwa/' | relative_url }}">danish government agency to ditch microsoft softwa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/code-has-always-been-the-easy-part/' | relative_url }}">code has always been the easy part</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/claude-code-remote-control/' | relative_url }}">claude code remote control</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
