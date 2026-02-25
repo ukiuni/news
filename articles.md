@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/why-isnt-la-repaving-streets/' | relative_url }}">why isnt la repaving streets</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/what-happened-to-frys-electronics/' | relative_url }}">what happened to frys electronics</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/some-popular-algorithms-youve-probably-seen/' | relative_url }}">some popular algorithms youve probably seen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/show-hn-respectify-a-comment-moderator-that-teache/' | relative_url }}">show hn respectify a comment moderator that teache</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
@@ -145,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/new-york-sues-video-game-developer-valve-says-its/' | relative_url }}">new york sues video game developer valve says its</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/new-accounts-on-hn-10x-more-likely-to-use-em-dashe/' | relative_url }}">new accounts on hn 10x more likely to use em dashe</a></h3>
 </div>
 <div class="article-row">
@@ -157,11 +169,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/my-most-frequently-used-jujutsu-vcs-commands/' | relative_url }}">my most frequently used jujutsu vcs commands</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/meta-problem-with-urpf-our-bundle-in-boca-raton/' | relative_url }}">meta problem with urpf our bundle in boca raton</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/mercury-2-the-fastest-reasoning-llm-powered-by-dif/' | relative_url }}">mercury 2 the fastest reasoning llm powered by dif</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/making-mcp-cheaper-via-cli/' | relative_url }}">making mcp cheaper via cli</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
