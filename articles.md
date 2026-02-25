@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/show-hn-quantifying-opportunity-cost-with-a-delibe/' | relative_url }}">show hn quantifying opportunity cost with a delibe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/show-hn-context-mode-315-kb-of-mcp-output-becomes/' | relative_url }}">show hn context mode 315 kb of mcp output becomes</a></h3>
 </div>
 <div class="article-row">
@@ -57,7 +61,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/meta-problem-with-urpf-our-bundle-in-boca-raton/' | relative_url }}">meta problem with urpf our bundle in boca raton</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/mercury-2-the-fastest-reasoning-llm-powered-by-dif/' | relative_url }}">mercury 2 the fastest reasoning llm powered by dif</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/llmtrue/' | relative_url }}">llmtrue</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
@@ -66,6 +78,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/japanese-death-poems/' | relative_url }}">japanese death poems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/i-built-a-terminal-ui-for-postgresql-schema-explor/' | relative_url }}">i built a terminal ui for postgresql schema explor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/hsip-multi-tenant-cryptographic-consent-api-in-rus/' | relative_url }}">hsip multi tenant cryptographic consent api in rus</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
