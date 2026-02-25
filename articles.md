@@ -113,11 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/report-data-centers-air-pollution-associated-with/' | relative_url }}">report data centers air pollution associated with</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/racket-v91/' | relative_url }}">racket v91</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/pentagon-threatens-to-make-anthropic-a-pariah-if-i/' | relative_url }}">pentagon threatens to make anthropic a pariah if i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/passkey-prfs-for-end-to-end-encryption/' | relative_url }}">passkey prfs for end to end encryption</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
@@ -190,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/jmeter-performance-testing-finding-the-breaking-po/' | relative_url }}">jmeter performance testing finding the breaking po</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/jimi-hendrix-was-a-systems-engineer/' | relative_url }}">jimi hendrix was a systems engineer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
