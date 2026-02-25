@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/what-interesting-and-smaller-conferences-are-there/' | relative_url }}">what interesting and smaller conferences are there</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/what-happened-to-frys-electronics/' | relative_url }}">what happened to frys electronics</a></h3>
 </div>
 <div class="article-row">
@@ -125,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/recursive-make-considered-harmful-2006/' | relative_url }}">recursive make considered harmful 2006</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/racket-v91/' | relative_url }}">racket v91</a></h3>
 </div>
 <div class="article-row">
@@ -193,6 +201,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/learnings-from-4-months-of-image-video-vae-experim/' | relative_url }}">learnings from 4 months of image video vae experim</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/launch-hn-teamout-yc-w22-ai-agent-for-planning-com/' | relative_url }}">launch hn teamout yc w22 ai agent for planning com</a></h3>
 </div>
 <div class="article-row">
@@ -214,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/justifying-text-wrap-pretty/' | relative_url }}">justifying text wrap pretty</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/join-the-built-with-google-gemini-writing-challeng/' | relative_url }}">join the built with google gemini writing challeng</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
@@ -289,6 +305,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/devirtualization-and-static-polymorphism/' | relative_url }}">devirtualization and static polymorphism</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/developers-think-ai-makes-them-24-faster-the-data/' | relative_url }}">developers think ai makes them 24 faster the data</a></h3>
 </div>
 <div class="article-row">
@@ -330,6 +350,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/bondi-bragged-about-forcing-facebook-to-censor-spe/' | relative_url }}">bondi bragged about forcing facebook to censor spe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/attorney-general-bonta-exposes-amazon-price-fixing/' | relative_url }}">attorney general bonta exposes amazon price fixing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
