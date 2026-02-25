@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/windows-11-notepad-to-support-markdown/' | relative_url }}">windows 11 notepad to support markdown</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/what-happened-to-frys-electronics/' | relative_url }}">what happened to frys electronics</a></h3>
 </div>
 <div class="article-row">
@@ -45,7 +49,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/the-misuses-of-the-university/' | relative_url }}">the misuses of the university</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/the-meter-was-always-running/' | relative_url }}">the meter was always running</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/tests-are-the-new-moat/' | relative_url }}">tests are the new moat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
@@ -82,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/show-hn-a-real-time-strategy-game-that-ai-agents-c/' | relative_url }}">show hn a real time strategy game that ai agents c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/racket-v91/' | relative_url }}">racket v91</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
@@ -133,6 +149,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/large-scale-online-deanonymization-with-llms-using/' | relative_url }}">large scale online deanonymization with llms using</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/lambda-world-2019-language-oriented-programming-wi/' | relative_url }}">lambda world 2019 language oriented programming wi</a></h3>
 </div>
 <div class="article-row">
@@ -177,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/gnu-texmacs/' | relative_url }}">gnu texmacs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/georgian-wine-culture-dates-back-uninterrupted-app/' | relative_url }}">georgian wine culture dates back uninterrupted app</a></h3>
 </div>
 <div class="article-row">
@@ -193,11 +217,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/discord-co-founder-admits-age-check-privacy-misste/' | relative_url }}">discord co founder admits age check privacy misste</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/developers-think-ai-makes-them-24-faster-the-data/' | relative_url }}">developers think ai makes them 24 faster the data</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/danish-government-agency-to-ditch-microsoft-softwa/' | relative_url }}">danish government agency to ditch microsoft softwa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/curl-security-moves-again-from-github-back-to-hack/' | relative_url }}">curl security moves again from github back to hack</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
