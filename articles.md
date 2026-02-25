@@ -9,11 +9,27 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/us-govt-warned-nvidia-ceo-jensen-huang-tim-cook-an/' | relative_url }}">us govt warned nvidia ceo jensen huang tim cook an</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/optophone/' | relative_url }}">optophone</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/mercury-2-the-fastest-reasoning-llm-powered-by-dif/' | relative_url }}">mercury 2 the fastest reasoning llm powered by dif</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/cell-service-for-the-fairly-paranoid/' | relative_url }}">cell service for the fairly paranoid</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/anthropic-wont-budge-as-pentagon-escalates-ai-disp/' | relative_url }}">anthropic wont budge as pentagon escalates ai disp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/ansigpt-c89-implementation-of-microgpt/' | relative_url }}">ansigpt c89 implementation of microgpt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
