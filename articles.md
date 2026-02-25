@@ -89,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/i-rendered-1418-unicode-confusable-pairs-across-23/' | relative_url }}">i rendered 1418 unicode confusable pairs across 23</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/i-built-a-terminal-ui-for-postgresql-schema-explor/' | relative_url }}">i built a terminal ui for postgresql schema explor</a></h3>
 </div>
 <div class="article-row">
@@ -158,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/a-builders-guide-to-not-leaking-credentials/' | relative_url }}">a builders guide to not leaking credentials</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/100m-row-challenge-with-php/' | relative_url }}">100m row challenge with php</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/24</span>
