@@ -21,11 +21,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/turing-completeness-of-gnu-find-from-mkdir-assiste/' | relative_url }}">turing completeness of gnu find from mkdir assiste</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/time-exclusive-anthropic-drops-flagship-safety-ple/' | relative_url }}">time exclusive anthropic drops flagship safety ple</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/spacetimedb-20-just-got-announced-any-thoughts/' | relative_url }}">spacetimedb 20 just got announced any thoughts</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/sovereignty-in-a-system-prompt/' | relative_url }}">sovereignty in a system prompt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
@@ -57,7 +65,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/japanese-death-poems/' | relative_url }}">japanese death poems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/georgian-wine-culture-dates-back-uninterrupted-app/' | relative_url }}">georgian wine culture dates back uninterrupted app</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/ed-zitron-loses-his-mind-annotating-an-ai-doomer-m/' | relative_url }}">ed zitron loses his mind annotating an ai doomer m</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
