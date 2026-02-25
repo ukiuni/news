@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、AIの倫理と国家安全保障が表舞台に立ち、Anthropicと米国防総省の対立や、米政府が黄仁勲氏やTim Cook、Lisa Suに台湾侵攻の警告を伝えたという衝撃的な報道が業界を揺るがしています🧭。一方で、Mercury 2の超高速推論やC89実装のansigptといった軽量・高速なLLMの進化、RFCによる「人工生成スロップ」拒否の議論が技術と標準化の戦いを示しています🤖。さらに、マイクロソフトのガラス永久記憶技術やDockerの10年総括、プライバシー重視の通信ソリューション、ミニマルな開発ツールPiなど、多方面で革新が同時に進行中です🔧📚
+    今日のテック業界では、規制と対立が一気に噴出している⚖️💥。Facebook検閲を巡る裁判やAmazonの価格操作問題、政府とAI企業の衝突が業界の政治化を映し出す。技術面ではMercury 2や軽量実装の登場でLLM競争が激化し、プライバシーや通信インフラの議論（Cell Service for the Fairly ParanoidやOptophone）も熱を帯びる🤖🔒。開発者ツールやコンテナの成熟もあいまって、目が離せない一日だ👀。
   </div>
 </div>

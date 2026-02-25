@@ -21,7 +21,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/justifying-text-wrap-pretty/' | relative_url }}">justifying text wrap pretty</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/cell-service-for-the-fairly-paranoid/' | relative_url }}">cell service for the fairly paranoid</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/bondi-bragged-about-forcing-facebook-to-censor-spe/' | relative_url }}">bondi bragged about forcing facebook to censor spe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
@@ -30,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/ansigpt-c89-implementation-of-microgpt/' | relative_url }}">ansigpt c89 implementation of microgpt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/25</span>
+  <h3><a href="{{ '/2026/02/25/amazon-busted-for-widespread-scheme-to-inflate-pri/' | relative_url }}">amazon busted for widespread scheme to inflate pri</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/25</span>
