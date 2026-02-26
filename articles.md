@@ -8,6 +8,30 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/26</span>
+  <h3><a href="{{ '/2026/02/26/web-app-list-of-helpful-websites/' | relative_url }}">web app list of helpful websites</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/26</span>
+  <h3><a href="{{ '/2026/02/26/the-slow-death-of-the-power-user/' | relative_url }}">the slow death of the power user</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/26</span>
+  <h3><a href="{{ '/2026/02/26/the-hydrogen-truck-problem-isnt-the-truck/' | relative_url }}">the hydrogen truck problem isnt the truck</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/26</span>
+  <h3><a href="{{ '/2026/02/26/scoop-pentagon-takes-first-step-toward-blacklistin/' | relative_url }}">scoop pentagon takes first step toward blacklistin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/26</span>
+  <h3><a href="{{ '/2026/02/26/origin-of-the-rule-that-swap-size-should-be-2x-of/' | relative_url }}">origin of the rule that swap size should be 2x of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/26</span>
+  <h3><a href="{{ '/2026/02/26/a-white-house-staffer-appears-to-run-massive-pro-t/' | relative_url }}">a white house staffer appears to run massive pro t</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/25</span>
   <h3><a href="{{ '/2026/02/25/your-system-is-fine-your-users-arent/' | relative_url }}">your system is fine your users arent</a></h3>
 </div>
