@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/show-hn-retrotick-run-classic-windows-exes-in-the/' | relative_url }}">show hn retrotick run classic windows exes in the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/return-of-the-obra-dinn-spherical-mapped-dithering/' | relative_url }}">return of the obra dinn spherical mapped dithering</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/quantitativity-on-the-number-of-rational-points-in/' | relative_url }}">quantitativity on the number of rational points in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/postmarketos-in-2026-02-generic-kernels-bans-use-o/' | relative_url }}">postmarketos in 2026 02 generic kernels bans use o</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -153,11 +161,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/anthropic-boss-rejects-pentagon-demand-to-drop-ai/' | relative_url }}">anthropic boss rejects pentagon demand to drop ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/an-interactive-intro-to-quadtrees/' | relative_url }}">an interactive intro to quadtrees</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/aitrue-is-an-anti-pattern/' | relative_url }}">aitrue is an anti pattern</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/ai-sandbox-that-runs-on-your-homelab/' | relative_url }}">ai sandbox that runs on your homelab</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
