@@ -8,6 +8,50 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/the-normalization-of-corruption-in-organizations-2/' | relative_url }}">the normalization of corruption in organizations 2</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/the-hunt-for-dark-breakfast/' | relative_url }}">the hunt for dark breakfast</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/statement-from-dario-amodei-on-our-discussions-wit/' | relative_url }}">statement from dario amodei on our discussions wit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/quantitativity-on-the-number-of-rational-points-in/' | relative_url }}">quantitativity on the number of rational points in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/mitid-denmarks-sole-digital-id-has-been-down-for-o/' | relative_url }}">mitid denmarks sole digital id has been down for o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/f-droid-board-of-directors-nominations-2026/' | relative_url }}">f droid board of directors nominations 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/dyson-settles-forced-labour-suit-in-landmark-uk-ca/' | relative_url }}">dyson settles forced labour suit in landmark uk ca</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/compact-disc-story-1998/' | relative_url }}">compact disc story 1998</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/can-you-reverse-engineer-our-neural-network/' | relative_url }}">can you reverse engineer our neural network</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/an-interactive-intro-to-quadtrees/' | relative_url }}">an interactive intro to quadtrees</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/16-modern-javascript-features-that-might-blow-your/' | relative_url }}">16 modern javascript features that might blow your</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/26</span>
   <h3><a href="{{ '/2026/02/26/web-app-list-of-helpful-websites/' | relative_url }}">web app list of helpful websites</a></h3>
 </div>
