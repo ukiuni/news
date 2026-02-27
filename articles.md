@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/the-most-seen-ui-on-the-internet-redesigning-turns/' | relative_url }}">the most seen ui on the internet redesigning turns</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/the-hunt-for-dark-breakfast/' | relative_url }}">the hunt for dark breakfast</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/sliced-by-gos-slices/' | relative_url }}">sliced by gos slices</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/signed-distance-field-fonts/' | relative_url }}">signed distance field fonts</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -118,6 +126,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/people-are-still-writing-javascript-drm/' | relative_url }}">people are still writing javascript drm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/palantir-sues-swiss-magazine-for-accurately-report/' | relative_url }}">palantir sues swiss magazine for accurately report</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/otters-as-bioindicators-of-estuarine-health/' | relative_url }}">otters as bioindicators of estuarine health</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -193,6 +209,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/human-brain-cells-on-a-chip-learned-to-play-doom-i/' | relative_url }}">human brain cells on a chip learned to play doom i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/how-my-side-project-got-banned-from-the-internet/' | relative_url }}">how my side project got banned from the internet</a></h3>
 </div>
 <div class="article-row">
@@ -234,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/docker-traefik-and-sse-streaming-a-post-mortem-on/' | relative_url }}">docker traefik and sse streaming a post mortem on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/department-of-war-designates-anthropic-supply-chai/' | relative_url }}">department of war designates anthropic supply chai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -318,6 +342,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/a-vc-and-some-big-name-programmers-are-trying-to-s/' | relative_url }}">a vc and some big name programmers are trying to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/a-new-california-law-says-all-operating-systems-ne/' | relative_url }}">a new california law says all operating systems ne</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
