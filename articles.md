@@ -9,7 +9,23 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/who-believes-in-vibe-coding/' | relative_url }}">who believes in vibe coding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/what-claude-code-chooses/' | relative_url }}">what claude code chooses</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/unbelievably-dangerous-experts-sound-alarm-after-c/' | relative_url }}">unbelievably dangerous experts sound alarm after c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/the-normalization-of-corruption-in-organizations-2/' | relative_url }}">the normalization of corruption in organizations 2</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/the-mysql-to-postgres-migration-that-saved-480kyea/' | relative_url }}">the mysql to postgres migration that saved 480kyea</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -17,7 +33,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/stop-expecting-your-best-engineer-to-be-a-good-men/' | relative_url }}">stop expecting your best engineer to be a good men</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/statement-from-dario-amodei-on-our-discussions-wit/' | relative_url }}">statement from dario amodei on our discussions wit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/snakesrun-rendering-100m-pixels-a-second-over-ssh/' | relative_url }}">snakesrun rendering 100m pixels a second over ssh</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/sliced-by-gos-slices/' | relative_url }}">sliced by gos slices</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/return-of-the-obra-dinn-spherical-mapped-dithering/' | relative_url }}">return of the obra dinn spherical mapped dithering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/reading-english-from-1000-ad/' | relative_url }}">reading english from 1000 ad</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -25,7 +61,51 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/netflix-backs-out-of-warner-bros-bidding-paramount/' | relative_url }}">netflix backs out of warner bros bidding paramount</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/mothlamp-problems/' | relative_url }}">mothlamp problems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/mitid-denmarks-sole-digital-id-has-been-down-for-o/' | relative_url }}">mitid denmarks sole digital id has been down for o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/making-webassembly-a-first-class-language-on-the-w/' | relative_url }}">making webassembly a first class language on the w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/llms-used-tactical-nuclear-weapons-in-95-of-ai-war/' | relative_url }}">llms used tactical nuclear weapons in 95 of ai war</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/llms-are-not-deterministic-and-making-them-reliabl/' | relative_url }}">llms are not deterministic and making them reliabl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/linux-id-linux-explores-new-way-of-authenticating/' | relative_url }}">linux id linux explores new way of authenticating</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/i-never-estimate-on-the-call-best-engineering-rule/' | relative_url }}">i never estimate on the call best engineering rule</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/how-my-side-project-got-banned-from-the-internet/' | relative_url }}">how my side project got banned from the internet</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/he-saw-an-abandoned-trailer-then-he-uncovered-a-su/' | relative_url }}">he saw an abandoned trailer then he uncovered a su</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/google-api-keys-werent-secrets-but-then-gemini-cha/' | relative_url }}">google api keys werent secrets but then gemini cha</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/git-in-postgres/' | relative_url }}">git in postgres</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -37,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/docker-traefik-and-sse-streaming-a-post-mortem-on/' | relative_url }}">docker traefik and sse streaming a post mortem on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/compact-disc-story-1998/' | relative_url }}">compact disc story 1998</a></h3>
 </div>
 <div class="article-row">
@@ -45,7 +129,47 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/california-attorney-general-warns-paramount-that-w/' | relative_url }}">california attorney general warns paramount that w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/burger-king-will-use-ai-to-check-if-employees-say/' | relative_url }}">burger king will use ai to check if employees say</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/breaking-free/' | relative_url }}">breaking free</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/anthropic-rejects-pentagons-requests-in-ai-safegua/' | relative_url }}">anthropic rejects pentagons requests in ai safegua</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/anthropic-rejects-pentagons-ai-demands/' | relative_url }}">anthropic rejects pentagons ai demands</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/anthropic-ceo-says-company-cannot-accede-to-pentag/' | relative_url }}">anthropic ceo says company cannot accede to pentag</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/an-interactive-intro-to-quadtrees/' | relative_url }}">an interactive intro to quadtrees</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/aitrue-is-an-anti-pattern/' | relative_url }}">aitrue is an anti pattern</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/accidentally-disabling-ssh-access-via-scp/' | relative_url }}">accidentally disabling ssh access via scp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/a-vc-and-some-big-name-programmers-are-trying-to-s/' | relative_url }}">a vc and some big name programmers are trying to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/a-chinese-officials-use-of-chatgpt-accidentally-re/' | relative_url }}">a chinese officials use of chatgpt accidentally re</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
