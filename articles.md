@@ -17,6 +17,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/we-gave-terabytes-of-ci-logs-to-an-llm/' | relative_url }}">we gave terabytes of ci logs to an llm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/we-deserve-a-better-streams-api-for-javascript/' | relative_url }}">we deserve a better streams api for javascript</a></h3>
 </div>
 <div class="article-row">
@@ -45,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/tenth-circuit-4th-amendment-doesnt-support-broad-s/' | relative_url }}">tenth circuit 4th amendment doesnt support broad s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/stop-expecting-your-best-engineer-to-be-a-good-men/' | relative_url }}">stop expecting your best engineer to be a good men</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/show-hn-retrotick-run-classic-windows-exes-in-the/' | relative_url }}">show hn retrotick run classic windows exes in the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/show-hn-badge-that-shows-how-well-your-codebase-fi/' | relative_url }}">show hn badge that shows how well your codebase fi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -93,7 +109,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/metacritic-will-kick-out-media-attempting-to-submi/' | relative_url }}">metacritic will kick out media attempting to submi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/making-webassembly-a-first-class-language-on-the-w/' | relative_url }}">making webassembly a first class language on the w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/log4j-addressing-ai-slop-in-security-reports/' | relative_url }}">log4j addressing ai slop in security reports</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -121,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/happening-now-dev-weekend-challenge-submissions-du/' | relative_url }}">happening now dev weekend challenge submissions du</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/google-api-keys-werent-secrets-but-then-gemini-cha/' | relative_url }}">google api keys werent secrets but then gemini cha</a></h3>
 </div>
 <div class="article-row">
@@ -145,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/cnns-jake-tapper-breaks-news-of-paramount-buying-n/' | relative_url }}">cnns jake tapper breaks news of paramount buying n</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/can-you-reverse-engineer-our-neural-network/' | relative_url }}">can you reverse engineer our neural network</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/brave-new-c/' | relative_url }}">brave new c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/banning-children-from-vpns-and-social-media-will-e/' | relative_url }}">banning children from vpns and social media will e</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
