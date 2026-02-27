@@ -17,7 +17,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/we-deserve-a-better-streams-api-for-javascript/' | relative_url }}">we deserve a better streams api for javascript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/unbelievably-dangerous-experts-sound-alarm-after-c/' | relative_url }}">unbelievably dangerous experts sound alarm after c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/the-quixotic-team-trying-to-build-a-world-in-a-20/' | relative_url }}">the quixotic team trying to build a world in a 20</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/the-proposal-for-generic-methods-for-go-has-been-o/' | relative_url }}">the proposal for generic methods for go has been o</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -149,11 +161,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/brave-new-c/' | relative_url }}">brave new c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/anthropic-rejects-pentagons-requests-in-ai-safegua/' | relative_url }}">anthropic rejects pentagons requests in ai safegua</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/anthropic-rejects-pentagons-ai-demands/' | relative_url }}">anthropic rejects pentagons ai demands</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/anthropic-is-loudly-complaining-about-other-compan/' | relative_url }}">anthropic is loudly complaining about other compan</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>

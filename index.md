@@ -6,6 +6,8 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、AIの安全性と実運用をめぐる対立が鮮明になり🤖、企業のガバナンスと個人のhomelab運用（AIサンドボックスやPostmarketOSのジェネレーティブAI禁止）が同時に注目を集めている。インフラ面ではSSHやコンテナ運用の失敗から学ぶ教訓が増え、Linuxの新しい開発者認証策など信頼構築の動きが加速中🛡️。同時に、RetroTickのようなレトロ実験や文化系の深掘り記事が並び、技術の多様性と実践的課題が混在する週末だ🕹️.
+    今日のテック業界では、JavaScriptのストリームAPI改善やGoのジェネリクス正式採用、C#の刷新など言語とAPIの進化が加速しています ⚙️。  
+一方でAnthropicの訴えやPentagonへの拒否、PostmarketOSの生成AI禁止などAIの利用とガバナンスを巡る衝突が激化し、自前で回すAIサンドボックスの注目度も高まっています 🤖⚖️。  
+レトロ技術も熱く、ブラウザで古いWindows EXEを動かすRetroTickや20年前のゲームで世界を作る試みと、Linuxの開発者認証強化が安全性と遊び心を同居させています 🕹️🔐.
   </div>
 </div>
