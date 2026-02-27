@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/the-pentagon-is-making-a-mistake-by-threatening-an/' | relative_url }}">the pentagon is making a mistake by threatening an</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/the-normalization-of-corruption-in-organizations-2/' | relative_url }}">the normalization of corruption in organizations 2</a></h3>
 </div>
 <div class="article-row">
@@ -97,7 +101,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/people-are-still-writing-javascript-drm/' | relative_url }}">people are still writing javascript drm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/netflix-backs-out-of-warner-bros-bidding-paramount/' | relative_url }}">netflix backs out of warner bros bidding paramount</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/nasa-announces-major-overhaul-of-artemis-program-a/' | relative_url }}">nasa announces major overhaul of artemis program a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -157,6 +169,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/fips-free-internetworking-peering-system/' | relative_url }}">fips free internetworking peering system</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/f-droid-board-of-directors-nominations-2026/' | relative_url }}">f droid board of directors nominations 2026</a></h3>
 </div>
 <div class="article-row">
@@ -198,6 +214,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/banning-children-from-vpns-and-social-media-will-e/' | relative_url }}">banning children from vpns and social media will e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/anthropic-to-pentagon-autonomous-weapons-could-hur/' | relative_url }}">anthropic to pentagon autonomous weapons could hur</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
