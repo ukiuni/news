@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/the-robotic-dexterity-deadlock/' | relative_url }}">the robotic dexterity deadlock</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/the-quixotic-team-trying-to-build-a-world-in-a-20/' | relative_url }}">the quixotic team trying to build a world in a 20</a></h3>
 </div>
 <div class="article-row">
@@ -109,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/openai-raises-110b-on-730b-pre-money-valuation/' | relative_url }}">openai raises 110b on 730b pre money valuation</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/netflix-backs-out-of-warner-bros-bidding-paramount/' | relative_url }}">netflix backs out of warner bros bidding paramount</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +158,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/linux-id-linux-explores-new-way-of-authenticating/' | relative_url }}">linux id linux explores new way of authenticating</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/lets-discuss-sandbox-isolation/' | relative_url }}">lets discuss sandbox isolation</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/leaving-google-has-actively-improved-my-life/' | relative_url }}">leaving google has actively improved my life</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
