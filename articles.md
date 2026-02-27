@@ -89,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/show-hn-claude-file-recovery-recover-files-from-yo/' | relative_url }}">show hn claude file recovery recover files from yo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/show-hn-badge-that-shows-how-well-your-codebase-fi/' | relative_url }}">show hn badge that shows how well your codebase fi</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/postmarketos-in-2026-02-generic-kernels-bans-use-o/' | relative_url }}">postmarketos in 2026 02 generic kernels bans use o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/please-stop-using-passkeys-for-encrypting-user-dat/' | relative_url }}">please stop using passkeys for encrypting user dat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -166,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/leaving-google-has-actively-improved-my-life/' | relative_url }}">leaving google has actively improved my life</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/leaked-audio-warner-bros-discovery-ceo-david-zasla/' | relative_url }}">leaked audio warner bros discovery ceo david zasla</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -309,7 +321,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/a-chinese-officials-use-of-chatgpt-revealed-an-int/' | relative_url }}">a chinese officials use of chatgpt revealed an int</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/a-chinese-officials-use-of-chatgpt-accidentally-re/' | relative_url }}">a chinese officials use of chatgpt accidentally re</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/80386-protection/' | relative_url }}">80386 protection</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
