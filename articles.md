@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/writing-a-guide-to-sdf-fonts/' | relative_url }}">writing a guide to sdf fonts</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/who-believes-in-vibe-coding/' | relative_url }}">who believes in vibe coding</a></h3>
 </div>
 <div class="article-row">
@@ -181,6 +185,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/get-free-claude-max-20x-for-open-source-maintainer/' | relative_url }}">get free claude max 20x for open source maintainer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/fips-free-internetworking-peering-system/' | relative_url }}">fips free internetworking peering system</a></h3>
 </div>
 <div class="article-row">
@@ -198,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/docker-traefik-and-sse-streaming-a-post-mortem-on/' | relative_url }}">docker traefik and sse streaming a post mortem on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/dan-simmons-author-of-hyperion-has-died/' | relative_url }}">dan simmons author of hyperion has died</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
