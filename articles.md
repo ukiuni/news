@@ -117,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/modeling-cycles-of-grift-with-evolutionary-game-th/' | relative_url }}">modeling cycles of grift with evolutionary game th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/mitid-denmarks-sole-digital-id-has-been-down-for-o/' | relative_url }}">mitid denmarks sole digital id has been down for o</a></h3>
 </div>
 <div class="article-row">
@@ -142,6 +146,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/linux-id-linux-explores-new-way-of-authenticating/' | relative_url }}">linux id linux explores new way of authenticating</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/jails-for-netbsd/' | relative_url }}">jails for netbsd</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/jack-dorsey-lays-off-4000-says-others-will-do-same/' | relative_url }}">jack dorsey lays off 4000 says others will do same</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -178,6 +190,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/dyson-settles-forced-labour-suit-in-landmark-uk-ca/' | relative_url }}">dyson settles forced labour suit in landmark uk ca</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/dont-run-openclaw-on-your-main-machine/' | relative_url }}">dont run openclaw on your main machine</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
@@ -242,6 +258,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/an-interactive-intro-to-quadtrees/' | relative_url }}">an interactive intro to quadtrees</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/27</span>
+  <h3><a href="{{ '/2026/02/27/allocating-on-the-stack/' | relative_url }}">allocating on the stack</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
