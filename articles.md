@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/yes-and/' | relative_url }}">yes and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/we-will-not-be-divided/' | relative_url }}">we will not be divided</a></h3>
 </div>
 <div class="article-row">
@@ -33,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/the-eternal-promise-a-history-of-attempts-to-elimi/' | relative_url }}">the eternal promise a history of attempts to elimi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/stop-putting-secrets-in-env-files/' | relative_url }}">stop putting secrets in env files</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/smallest-transformer-that-can-add-two-10-digit-num/' | relative_url }}">smallest transformer that can add two 10 digit num</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/show-hn-splathash-a-lightweight-alternative-to-blu/' | relative_url }}">show hn splathash a lightweight alternative to blu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -82,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/openai-is-negotiating-with-the-us-government-sam-a/' | relative_url }}">openai is negotiating with the us government sam a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/openai-how-to-delete-your-account/' | relative_url }}">openai how to delete your account</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
