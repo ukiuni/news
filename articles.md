@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/the-windows-95-user-interface-a-case-study-in-usab/' | relative_url }}">the windows 95 user interface a case study in usab</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/the-whole-thing-was-a-scam/' | relative_url }}">the whole thing was a scam</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/rust-is-just-a-tool/' | relative_url }}">rust is just a tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/qwen35-122b-and-35b-models-offer-sonnet-45-perform/' | relative_url }}">qwen35 122b and 35b models offer sonnet 45 perform</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -298,6 +306,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/building-a-minimal-transformer-for-10-digit-additi/' | relative_url }}">building a minimal transformer for 10 digit additi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/build-story-hackathon/' | relative_url }}">build story hackathon</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
