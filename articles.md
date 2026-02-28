@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/youtube-shorts-and-instagram-reels-are-making-you/' | relative_url }}">youtube shorts and instagram reels are making you</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/yes-and/' | relative_url }}">yes and</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/trump-orders-federal-agencies-to-immediately-cease/' | relative_url }}">trump orders federal agencies to immediately cease</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/the-future-of-ai/' | relative_url }}">the future of ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -133,11 +141,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/dont-trust-ai-agents/' | relative_url }}">dont trust ai agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/distributed-systems-for-fun-and-profit/' | relative_url }}">distributed systems for fun and profit</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/croatia-declared-free-of-landmines-after-31-years/' | relative_url }}">croatia declared free of landmines after 31 years</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/codekhub/' | relative_url }}">codekhub</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
