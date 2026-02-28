@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/package-managers-la-carte-a-formal-model-of-depend/' | relative_url }}">package managers la carte a formal model of depend</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/openai-reaches-deal-to-deploy-ai-models-on-us-depa/' | relative_url }}">openai reaches deal to deploy ai models on us depa</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/letter-from-google-and-openai-employees-against-th/' | relative_url }}">letter from google and openai employees against th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/israel-launches-strike-against-iran-declares-state/' | relative_url }}">israel launches strike against iran declares state</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/how-i-taught-a-dragonfly-to-fuzz-itself/' | relative_url }}">how i taught a dragonfly to fuzz itself</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
