@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/turn-boring-terminal-errors-into-memes-sound-with/' | relative_url }}">turn boring terminal errors into memes sound with</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/trump-orders-federal-agencies-to-immediately-cease/' | relative_url }}">trump orders federal agencies to immediately cease</a></h3>
 </div>
 <div class="article-row">
@@ -109,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/employees-at-google-and-openai-support-anthropics/' | relative_url }}">employees at google and openai support anthropics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/distributed-systems-for-fun-and-profit/' | relative_url }}">distributed systems for fun and profit</a></h3>
 </div>
 <div class="article-row">
@@ -118,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/cash-issuing-terminals/' | relative_url }}">cash issuing terminals</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/bootc-and-ostree-modernizing-linux-system-deployme/' | relative_url }}">bootc and ostree modernizing linux system deployme</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
