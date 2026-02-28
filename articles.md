@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/we-will-not-be-divided/' | relative_url }}">we will not be divided</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/smartphone-market-poised-for-sharpest-decline-on-r/' | relative_url }}">smartphone market poised for sharpest decline on r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/smallest-transformer-that-can-add-two-10-digit-num/' | relative_url }}">smallest transformer that can add two 10 digit num</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -26,6 +34,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/emuko-fast-risc-v-emulator-written-in-rust-boots-l/' | relative_url }}">emuko fast risc v emulator written in rust boots l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/distributed-systems-for-fun-and-profit/' | relative_url }}">distributed systems for fun and profit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/an-update-on-svg-in-gtk/' | relative_url }}">an update on svg in gtk</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
