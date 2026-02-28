@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/us-and-israel-conduct-strikes-on-iran/' | relative_url }}">us and israel conduct strikes on iran</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/us-and-israel-carrying-out-strikes-against-iran/' | relative_url }}">us and israel carrying out strikes against iran</a></h3>
 </div>
 <div class="article-row">
