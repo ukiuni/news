@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/the-science-of-detecting-llm-generated-text/' | relative_url }}">the science of detecting llm generated text</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/the-happiest-ive-ever-been/' | relative_url }}">the happiest ive ever been</a></h3>
 </div>
 <div class="article-row">
@@ -145,6 +149,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/polymarket-defends-its-decision-to-allow-betting-o/' | relative_url }}">polymarket defends its decision to allow betting o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/please-do-not-use-auto-scrolling-content-on-the-we/' | relative_url }}">please do not use auto scrolling content on the we</a></h3>
 </div>
 <div class="article-row">
@@ -154,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/package-managers-la-carte-a-formal-model-of-depend/' | relative_url }}">package managers la carte a formal model of depend</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/our-agreement-with-the-department-of-war/' | relative_url }}">our agreement with the department of war</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
