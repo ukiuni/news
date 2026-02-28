@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/us-and-israel-carrying-out-strikes-against-iran/' | relative_url }}">us and israel carrying out strikes against iran</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/trump-orders-federal-agencies-to-immediately-cease/' | relative_url }}">trump orders federal agencies to immediately cease</a></h3>
 </div>
 <div class="article-row">
@@ -41,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/rust-is-just-a-tool/' | relative_url }}">rust is just a tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/qt45-a-small-polymerase-ribozyme-that-can-synthesi/' | relative_url }}">qt45 a small polymerase ribozyme that can synthesi</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/letter-from-google-and-openai-employees-against-th/' | relative_url }}">letter from google and openai employees against th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/how-do-i-cancel-my-chatgpt-subscription/' | relative_url }}">how do i cancel my chatgpt subscription</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -98,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/an-update-on-svg-in-gtk/' | relative_url }}">an update on svg in gtk</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/an-ai-agent-coding-skeptic-tries-ai-agent-coding-i/' | relative_url }}">an ai agent coding skeptic tries ai agent coding i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
