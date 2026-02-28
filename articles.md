@@ -17,6 +17,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/woxi-wolfram-mathematica-reimplementation-in-rust/' | relative_url }}">woxi wolfram mathematica reimplementation in rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/what-ai-coding-costs-you/' | relative_url }}">what ai coding costs you</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/we-will-not-be-divided/' | relative_url }}">we will not be divided</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/show-hn-rust-powered-document-chunker-for-rag-40x/' | relative_url }}">show hn rust powered document chunker for rag 40x</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/show-hn-now-i-get-it-translate-scientific-papers-i/' | relative_url }}">show hn now i get it translate scientific papers i</a></h3>
 </div>
 <div class="article-row">
@@ -126,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/openai-how-to-delete-your-account/' | relative_url }}">openai how to delete your account</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/openai-fires-an-employee-for-prediction-market-ins/' | relative_url }}">openai fires an employee for prediction market ins</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -210,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/addressing-antigravity-bans-and-reinstating-access/' | relative_url }}">addressing antigravity bans and reinstating access</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/15-years-of-indie-dev-in-4-bits-of-advice/' | relative_url }}">15 years of indie dev in 4 bits of advice</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
