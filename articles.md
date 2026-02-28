@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/verified-spec-driven-development-vsdd/' | relative_url }}">verified spec driven development vsdd</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/us-and-israel-conduct-strikes-on-iran/' | relative_url }}">us and israel conduct strikes on iran</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/unsloth-dynamic-20-ggufs/' | relative_url }}">unsloth dynamic 20 ggufs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/understanding-rabbitmq-in-simple-terms/' | relative_url }}">understanding rabbitmq in simple terms</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -78,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/smallest-transformer-that-can-add-two-10-digit-num/' | relative_url }}">smallest transformer that can add two 10 digit num</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/show-hn-sqlite-for-rivet-actors-one-database-per-a/' | relative_url }}">show hn sqlite for rivet actors one database per a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -157,6 +169,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/new-evidence-that-cantor-plagiarized-dedekind/' | relative_url }}">new evidence that cantor plagiarized dedekind</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/low-latency-python-separating-signal-from-noise/' | relative_url }}">low latency python separating signal from noise</a></h3>
 </div>
 <div class="article-row">
@@ -182,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/github-copilot-cli-downloads-and-executes-malware/' | relative_url }}">github copilot cli downloads and executes malware</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/ghostsn-goblins-worse-danger-is-ahead/' | relative_url }}">ghostsn goblins worse danger is ahead</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -222,6 +242,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/cash-issuing-terminals/' | relative_url }}">cash issuing terminals</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/cancel-chatgpt-movement-goes-big-after-openais-lat/' | relative_url }}">cancel chatgpt movement goes big after openais lat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
