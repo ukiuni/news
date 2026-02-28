@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/trump-orders-federal-agencies-to-immediately-cease/' | relative_url }}">trump orders federal agencies to immediately cease</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/statement-on-the-comments-from-secretary-of-war-pe/' | relative_url }}">statement on the comments from secretary of war pe</a></h3>
 </div>
 <div class="article-row">
@@ -41,11 +45,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/letter-from-google-and-openai-employees-against-th/' | relative_url }}">letter from google and openai employees against th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/emuko-fast-risc-v-emulator-written-in-rust-boots-l/' | relative_url }}">emuko fast risc v emulator written in rust boots l</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/distributed-systems-for-fun-and-profit/' | relative_url }}">distributed systems for fun and profit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/anthropic-says-it-will-challenge-pentagon-supply-c/' | relative_url }}">anthropic says it will challenge pentagon supply c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
