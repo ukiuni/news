@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/stop-putting-secrets-in-env-files/' | relative_url }}">stop putting secrets in env files</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/statement-on-the-comments-from-secretary-of-war-pe/' | relative_url }}">statement on the comments from secretary of war pe</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/smallest-transformer-that-can-add-two-10-digit-num/' | relative_url }}">smallest transformer that can add two 10 digit num</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/show-hn-i-ported-manim-to-typescript-run-3b1b-math/' | relative_url }}">show hn i ported manim to typescript run 3b1b math</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -45,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/openai-reaches-deal-to-deploy-ai-models-on-us-depa/' | relative_url }}">openai reaches deal to deploy ai models on us depa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/openai-is-negotiating-with-the-us-government-sam-a/' | relative_url }}">openai is negotiating with the us government sam a</a></h3>
 </div>
 <div class="article-row">
@@ -57,11 +69,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/github-copilot-cli-downloads-and-executes-malware/' | relative_url }}">github copilot cli downloads and executes malware</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/emuko-fast-risc-v-emulator-written-in-rust-boots-l/' | relative_url }}">emuko fast risc v emulator written in rust boots l</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/distributed-systems-for-fun-and-profit/' | relative_url }}">distributed systems for fun and profit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/croatia-declared-free-of-landmines-after-31-years/' | relative_url }}">croatia declared free of landmines after 31 years</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
