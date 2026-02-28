@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/warner-bros-discovery-ceo-david-zaslav-tries-to-se/' | relative_url }}">warner bros discovery ceo david zaslav tries to se</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/us-and-israel-conduct-strikes-on-iran/' | relative_url }}">us and israel conduct strikes on iran</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/trump-orders-federal-agencies-to-immediately-cease/' | relative_url }}">trump orders federal agencies to immediately cease</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/timeline-anthropic-openai-and-us-government/' | relative_url }}">timeline anthropic openai and us government</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -69,11 +77,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/show-hn-now-i-get-it-translate-scientific-papers-i/' | relative_url }}">show hn now i get it translate scientific papers i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/show-hn-i-ported-manim-to-typescript-run-3b1b-math/' | relative_url }}">show hn i ported manim to typescript run 3b1b math</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/show-hn-i-built-a-site-where-you-hire-yourself-ins/' | relative_url }}">show hn i built a site where you hire yourself ins</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/show-hn-decided-to-play-god-this-morning-so-i-buil/' | relative_url }}">show hn decided to play god this morning so i buil</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -86,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/president-trump-bans-anthropic-from-use-in-governm/' | relative_url }}">president trump bans anthropic from use in governm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/please-do-not-use-auto-scrolling-content-on-the-we/' | relative_url }}">please do not use auto scrolling content on the we</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -110,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/openai-agrees-with-dept-of-war-to-deploy-models-in/' | relative_url }}">openai agrees with dept of war to deploy models in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/low-latency-python-separating-signal-from-noise/' | relative_url }}">low latency python separating signal from noise</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -149,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/customer-update-on-simplenote/' | relative_url }}">customer update on simplenote</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/croatia-declared-free-of-landmines-after-31-years/' | relative_url }}">croatia declared free of landmines after 31 years</a></h3>
 </div>
 <div class="article-row">
@@ -178,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/an-ai-agent-coding-skeptic-tries-ai-agent-coding-i/' | relative_url }}">an ai agent coding skeptic tries ai agent coding i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/addressing-antigravity-bans-and-reinstating-access/' | relative_url }}">addressing antigravity bans and reinstating access</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/27</span>
