@@ -8,6 +8,26 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/smartphone-market-poised-for-sharpest-decline-on-r/' | relative_url }}">smartphone market poised for sharpest decline on r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/show-hn-i-built-a-site-where-you-hire-yourself-ins/' | relative_url }}">show hn i built a site where you hire yourself ins</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/qt45-a-small-polymerase-ribozyme-that-can-synthesi/' | relative_url }}">qt45 a small polymerase ribozyme that can synthesi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/pentagon-moves-to-designate-anthropic-as-a-supply/' | relative_url }}">pentagon moves to designate anthropic as a supply</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/emuko-fast-risc-v-emulator-written-in-rust-boots-l/' | relative_url }}">emuko fast risc v emulator written in rust boots l</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/27</span>
   <h3><a href="{{ '/2026/02/27/writing-a-guide-to-sdf-fonts/' | relative_url }}">writing a guide to sdf fonts</a></h3>
 </div>
