@@ -37,11 +37,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/president-trump-bans-anthropic-from-use-in-governm/' | relative_url }}">president trump bans anthropic from use in governm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/pentagon-moves-to-designate-anthropic-as-a-supply/' | relative_url }}">pentagon moves to designate anthropic as a supply</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/openai-is-negotiating-with-the-us-government-sam-a/' | relative_url }}">openai is negotiating with the us government sam a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/openai-agrees-with-dept-of-war-to-deploy-models-in/' | relative_url }}">openai agrees with dept of war to deploy models in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -58,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/anthropic-says-it-will-challenge-pentagon-supply-c/' | relative_url }}">anthropic says it will challenge pentagon supply c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/anthropic-is-somehow-both-too-dangerous-to-allow-a/' | relative_url }}">anthropic is somehow both too dangerous to allow a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
