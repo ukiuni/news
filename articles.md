@@ -149,11 +149,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/open-source-devs-consider-making-hogs-pay-for-ever/' | relative_url }}">open source devs consider making hogs pay for ever</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/obsidian-sync-now-has-a-headless-client/' | relative_url }}">obsidian sync now has a headless client</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/low-latency-python-separating-signal-from-noise/' | relative_url }}">low latency python separating signal from noise</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/letter-from-google-and-openai-employees-against-th/' | relative_url }}">letter from google and openai employees against th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/january-in-servo-preloads-better-forms-details-sty/' | relative_url }}">january in servo preloads better forms details sty</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -170,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/github-copilot-cli-downloads-and-executes-malware/' | relative_url }}">github copilot cli downloads and executes malware</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/from-noise-to-image-interactive-guide-to-diffusion/' | relative_url }}">from noise to image interactive guide to diffusion</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -194,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/croatia-declared-free-of-landmines-after-31-years/' | relative_url }}">croatia declared free of landmines after 31 years</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/cognitive-debt-when-velocity-exceeds-comprehension/' | relative_url }}">cognitive debt when velocity exceeds comprehension</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -226,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/addressing-antigravity-bans-and-reinstating-access/' | relative_url }}">addressing antigravity bans and reinstating access</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/747s-and-coding-agents/' | relative_url }}">747s and coding agents</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
