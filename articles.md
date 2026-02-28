@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/werner-herzog-between-fact-and-fiction/' | relative_url }}">werner herzog between fact and fiction</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/we-will-not-be-divided/' | relative_url }}">we will not be divided</a></h3>
 </div>
 <div class="article-row">
@@ -173,6 +177,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/mqtt-the-protocol-behind-every-smart-device-golang/' | relative_url }}">mqtt the protocol behind every smart device golang</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/low-latency-python-separating-signal-from-noise/' | relative_url }}">low latency python separating signal from noise</a></h3>
 </div>
 <div class="article-row">
@@ -186,6 +194,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/israel-launches-strike-against-iran-declares-state/' | relative_url }}">israel launches strike against iran declares state</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/how-the-federal-government-is-painting-immigrants/' | relative_url }}">how the federal government is painting immigrants</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/how-long-is-the-coast-of-britain-1967/' | relative_url }}">how long is the coast of britain 1967</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
@@ -206,6 +222,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/from-noise-to-image-interactive-guide-to-diffusion/' | relative_url }}">from noise to image interactive guide to diffusion</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/fast-servers-an-interesting-pattern/' | relative_url }}">fast servers an interesting pattern</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
