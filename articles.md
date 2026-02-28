@@ -85,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
+  <h3><a href="{{ '/2026/02/28/cash-issuing-terminals/' | relative_url }}">cash issuing terminals</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/anthropic-says-it-will-challenge-pentagon-supply-c/' | relative_url }}">anthropic says it will challenge pentagon supply c</a></h3>
 </div>
 <div class="article-row">
