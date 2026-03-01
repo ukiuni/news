@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/the-enshittificator/' | relative_url }}">the enshittificator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/the-64-bit-hurd-has-landed-in-guix/' | relative_url }}">the 64 bit hurd has landed in guix</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/robust-and-efficient-quantum-safe-https/' | relative_url }}">robust and efficient quantum safe https</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/polish-train-maker-is-suing-the-hackers-who-expose/' | relative_url }}">polish train maker is suing the hackers who expose</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/bringing-claude-code-skills-into-neovim-via-acp/' | relative_url }}">bringing claude code skills into neovim via acp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/blogatto-a-gleam-framework-for-building-static-blo/' | relative_url }}">blogatto a gleam framework for building static blo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
