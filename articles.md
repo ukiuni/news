@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/why-ai-exposes-weak-engineering-practices-and-why/' | relative_url }}">why ai exposes weak engineering practices and why</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/we-do-not-think-anthropic-should-be-designated-as/' | relative_url }}">we do not think anthropic should be designated as</a></h3>
 </div>
 <div class="article-row">
@@ -89,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/setting-up-phones-is-a-nightmare/' | relative_url }}">setting up phones is a nightmare</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/sam-altman-reveals-openai-agreement-with-dod-as-an/' | relative_url }}">sam altman reveals openai agreement with dod as an</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/polish-train-maker-is-suing-the-hackers-who-expose/' | relative_url }}">polish train maker is suing the hackers who expose</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/meta-wont-let-morality-get-in-the-way-of-a-product/' | relative_url }}">meta wont let morality get in the way of a product</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
@@ -166,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/aromatic-5-silicon-rings-synthesized-at-last/' | relative_url }}">aromatic 5 silicon rings synthesized at last</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/ape-coding/' | relative_url }}">ape coding</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
