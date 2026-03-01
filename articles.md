@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/simple-made-inevitable-the-economics-of-language-c/' | relative_url }}">simple made inevitable the economics of language c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/show-hn-xmloxide-an-agent-made-rust-replacement-fo/' | relative_url }}">show hn xmloxide an agent made rust replacement fo</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/deepseek-to-release-long-awaited-ai-model-in-new-c/' | relative_url }}">deepseek to release long awaited ai model in new c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/custom-data-structures-in-e-graphs/' | relative_url }}">custom data structures in e graphs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
