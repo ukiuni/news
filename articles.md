@@ -233,6 +233,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/chorba-a-novel-crc32-implementation-2024/' | relative_url }}">chorba a novel crc32 implementation 2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/california-introduces-age-verification-law-for-all/' | relative_url }}">california introduces age verification law for all</a></h3>
 </div>
 <div class="article-row">
@@ -242,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/blogatto-a-gleam-framework-for-building-static-blo/' | relative_url }}">blogatto a gleam framework for building static blo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/big-breakfast-alters-appetite-gut-health/' | relative_url }}">big breakfast alters appetite gut health</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
