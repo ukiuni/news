@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/why-does-c-have-the-best-file-api/' | relative_url }}">why does c have the best file api</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/why-ai-exposes-weak-engineering-practices-and-why/' | relative_url }}">why ai exposes weak engineering practices and why</a></h3>
 </div>
 <div class="article-row">
@@ -113,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/long-range-e-bike/' | relative_url }}">long range e bike</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/lawmakers-demand-dhs-define-domestic-terrorist-as/' | relative_url }}">lawmakers demand dhs define domestic terrorist as</a></h3>
 </div>
 <div class="article-row">
@@ -161,11 +169,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/dario-amodei-on-anthropics-pentagon-spat-disagreei/' | relative_url }}">dario amodei on anthropics pentagon spat disagreei</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/custom-data-structures-in-e-graphs/' | relative_url }}">custom data structures in e graphs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/claude-hits-no-1-on-app-store-as-chatgpt-users-def/' | relative_url }}">claude hits no 1 on app store as chatgpt users def</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/california-introduces-age-verification-law-for-all/' | relative_url }}">california introduces age verification law for all</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
