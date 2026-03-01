@@ -8,6 +8,18 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/we-do-not-think-anthropic-should-be-designated-as/' | relative_url }}">we do not think anthropic should be designated as</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/wa-lawmakers-advancing-bill-restricting-employers/' | relative_url }}">wa lawmakers advancing bill restricting employers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/deepseek-to-release-long-awaited-ai-model-in-new-c/' | relative_url }}">deepseek to release long awaited ai model in new c</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">02/28</span>
   <h3><a href="{{ '/2026/02/28/youtube-shorts-and-instagram-reels-are-making-you/' | relative_url }}">youtube shorts and instagram reels are making you</a></h3>
 </div>
