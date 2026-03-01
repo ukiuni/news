@@ -33,7 +33,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/webmcp-is-available-for-early-preview/' | relative_url }}">webmcp is available for early preview</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/we-do-not-think-anthropic-should-be-designated-as/' | relative_url }}">we do not think anthropic should be designated as</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/waymo-blocking-ambulance-during-deadly-austin-shoo/' | relative_url }}">waymo blocking ambulance during deadly austin shoo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
@@ -50,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/tsink-embedded-time-series-database-for-rust/' | relative_url }}">tsink embedded time series database for rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/tove-janssons-criticized-illustrations-of-the-hobb/' | relative_url }}">tove janssons criticized illustrations of the hobb</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
@@ -121,11 +133,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/qman-a-more-modern-man-page-viewer-for-our-termina/' | relative_url }}">qman a more modern man page viewer for our termina</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/python-type-checker-comparison-empty-container-inf/' | relative_url }}">python type checker comparison empty container inf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/polish-train-maker-is-suing-the-hackers-who-expose/' | relative_url }}">polish train maker is suing the hackers who expose</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/no-ethics-at-all-the-cancel-chatgpt-trend-is-growi/' | relative_url }}">no ethics at all the cancel chatgpt trend is growi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
@@ -209,6 +229,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/exclusive-a-new-threat-to-power-grids-data-centers/' | relative_url }}">exclusive a new threat to power grids data centers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/developer-friendly-python-library-for-creating-ai/' | relative_url }}">developer friendly python library for creating ai</a></h3>
 </div>
 <div class="article-row">
@@ -261,6 +285,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/are-the-mysteries-of-quantum-mechanics-beginning-t/' | relative_url }}">are the mysteries of quantum mechanics beginning t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/ape-coding/' | relative_url }}">ape coding</a></h3>
 </div>
 <div class="article-row">
@@ -290,6 +318,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/a-system-around-agents-that-works-better/' | relative_url }}">a system around agents that works better</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/a-software-glitched-turned-off-the-lights-then-the/' | relative_url }}">a software glitched turned off the lights then the</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
