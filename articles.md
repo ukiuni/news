@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/why-is-the-first-c-mallocation-always-72-kb/' | relative_url }}">why is the first c mallocation always 72 kb</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/we-do-not-think-anthropic-should-be-designated-as/' | relative_url }}">we do not think anthropic should be designated as</a></h3>
 </div>
 <div class="article-row">
@@ -22,6 +26,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/wa-lawmakers-advancing-bill-restricting-employers/' | relative_url }}">wa lawmakers advancing bill restricting employers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/the-64-bit-hurd-has-landed-in-guix/' | relative_url }}">the 64 bit hurd has landed in guix</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
@@ -46,6 +54,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/show-hn-xmloxide-an-agent-made-rust-replacement-fo/' | relative_url }}">show hn xmloxide an agent made rust replacement fo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/show-hn-terminal-style-portfolio-on-the-internet/' | relative_url }}">show hn terminal style portfolio on the internet</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/robust-and-efficient-quantum-safe-https/' | relative_url }}">robust and efficient quantum safe https</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
