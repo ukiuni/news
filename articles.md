@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/you-can-use-newline-characters-in-urls/' | relative_url }}">you can use newline characters in urls</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/we-do-not-think-anthropic-should-be-designated-as/' | relative_url }}">we do not think anthropic should be designated as</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +22,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/wa-lawmakers-advancing-bill-restricting-employers/' | relative_url }}">wa lawmakers advancing bill restricting employers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/switch-to-claude-without-starting-over/' | relative_url }}">switch to claude without starting over</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
@@ -42,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/lawmakers-demand-dhs-define-domestic-terrorist-as/' | relative_url }}">lawmakers demand dhs define domestic terrorist as</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/iphone-17-pro-max-becomes-most-traded-in-smartphon/' | relative_url }}">iphone 17 pro max becomes most traded in smartphon</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
@@ -77,7 +89,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/a-system-around-agents-that-works-better/' | relative_url }}">a system around agents that works better</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/a-new-us-military-task-force-just-used-its-cheap-s/' | relative_url }}">a new us military task force just used its cheap s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/10-202-introduction-to-modern-ai-cmu/' | relative_url }}">10 202 introduction to modern ai cmu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
