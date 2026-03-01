@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/decision-trees-the-unreasonable-power-of-nested-de/' | relative_url }}">decision trees the unreasonable power of nested de</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/custom-data-structures-in-e-graphs/' | relative_url }}">custom data structures in e graphs</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/bringing-claude-code-skills-into-neovim-via-acp/' | relative_url }}">bringing claude code skills into neovim via acp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/an-ode-to-houseplant-programming-2025/' | relative_url }}">an ode to houseplant programming 2025</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
