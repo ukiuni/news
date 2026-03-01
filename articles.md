@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/sql-vs-nosql-how-to-answer-this-interview-question/' | relative_url }}">sql vs nosql how to answer this interview question</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/simple-made-inevitable-the-economics-of-language-c/' | relative_url }}">simple made inevitable the economics of language c</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/claude-hits-no-1-on-app-store-as-chatgpt-users-def/' | relative_url }}">claude hits no 1 on app store as chatgpt users def</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/bringing-claude-code-skills-into-neovim-via-acp/' | relative_url }}">bringing claude code skills into neovim via acp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
