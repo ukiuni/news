@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/the-real-cost-of-random-io/' | relative_url }}">the real cost of random io</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/the-enshittificator/' | relative_url }}">the enshittificator</a></h3>
 </div>
 <div class="article-row">
@@ -81,11 +85,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/i-built-a-demo-of-what-ai-chat-will-look-like-when/' | relative_url }}">i built a demo of what ai chat will look like when</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/hardwood-a-new-parser-for-apache-parquet/' | relative_url }}">hardwood a new parser for apache parquet</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/h-bomb-a-frank-lloyd-wright-typographic-mystery/' | relative_url }}">h bomb a frank lloyd wright typographic mystery</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/goodbye-tesla-style-giant-touchscreens-cars-return/' | relative_url }}">goodbye tesla style giant touchscreens cars return</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/godoc-live-auto-generate-interactive-api-docs-from/' | relative_url }}">godoc live auto generate interactive api docs from</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
