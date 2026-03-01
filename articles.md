@@ -21,7 +21,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/stop-ignoring-rfc-2324-its-the-most-important-prot/' | relative_url }}">stop ignoring rfc 2324 its the most important prot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/show-hn-xmloxide-an-agent-made-rust-replacement-fo/' | relative_url }}">show hn xmloxide an agent made rust replacement fo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/lawmakers-demand-dhs-define-domestic-terrorist-as/' | relative_url }}">lawmakers demand dhs define domestic terrorist as</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/h-bomb-a-frank-lloyd-wright-typographic-mystery/' | relative_url }}">h bomb a frank lloyd wright typographic mystery</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/developer-friendly-python-library-for-creating-ai/' | relative_url }}">developer friendly python library for creating ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
