@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/the-evolution-of-software-engineering-productivity/' | relative_url }}">the evolution of software engineering productivity</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/the-enshittificator/' | relative_url }}">the enshittificator</a></h3>
 </div>
 <div class="article-row">
@@ -109,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/python-type-checker-comparison-empty-container-inf/' | relative_url }}">python type checker comparison empty container inf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/polish-train-maker-is-suing-the-hackers-who-expose/' | relative_url }}">polish train maker is suing the hackers who expose</a></h3>
 </div>
 <div class="article-row">
@@ -117,7 +125,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/mcp-is-dead-long-live-the-cli/' | relative_url }}">mcp is dead long live the cli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/long-range-e-bike/' | relative_url }}">long range e bike</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/lil-fun-langs-guts/' | relative_url }}">lil fun langs guts</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
@@ -154,6 +170,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/ghostty-terminal-emulator/' | relative_url }}">ghostty terminal emulator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/fooling-gos-x509-certificate-verification/' | relative_url }}">fooling gos x509 certificate verification</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/flightradar24-for-ships/' | relative_url }}">flightradar24 for ships</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
