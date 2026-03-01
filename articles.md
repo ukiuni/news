@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/sub-second-volumetric-3d-printing-by-synthesis-of/' | relative_url }}">sub second volumetric 3d printing by synthesis of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/stop-ignoring-rfc-2324-its-the-most-important-prot/' | relative_url }}">stop ignoring rfc 2324 its the most important prot</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/custom-data-structures-in-e-graphs/' | relative_url }}">custom data structures in e graphs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/claude-hits-no-1-on-app-store-as-chatgpt-users-def/' | relative_url }}">claude hits no 1 on app store as chatgpt users def</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/a-video-thumbnail-maker-studio/' | relative_url }}">a video thumbnail maker studio</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
