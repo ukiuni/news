@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/tsink-embedded-time-series-database-for-rust/' | relative_url }}">tsink embedded time series database for rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/the-real-cost-of-random-io/' | relative_url }}">the real cost of random io</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/i-built-a-demo-of-what-ai-chat-will-look-like-when/' | relative_url }}">i built a demo of what ai chat will look like when</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/how-to-talk-to-anyone-and-why-you-should/' | relative_url }}">how to talk to anyone and why you should</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
