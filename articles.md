@@ -13,11 +13,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/warning-facebook-ads-for-free-windows-11-upgrade-w/' | relative_url }}">warning facebook ads for free windows 11 upgrade w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/wa-lawmakers-advancing-bill-restricting-employers/' | relative_url }}">wa lawmakers advancing bill restricting employers</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/show-hn-xmloxide-an-agent-made-rust-replacement-fo/' | relative_url }}">show hn xmloxide an agent made rust replacement fo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/deepseek-to-release-long-awaited-ai-model-in-new-c/' | relative_url }}">deepseek to release long awaited ai model in new c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/a-new-us-military-task-force-just-used-its-cheap-s/' | relative_url }}">a new us military task force just used its cheap s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">02/28</span>
