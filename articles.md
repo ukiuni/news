@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
+  <h3><a href="{{ '/2026/03/01/hardwood-a-new-parser-for-apache-parquet/' | relative_url }}">hardwood a new parser for apache parquet</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/h-bomb-a-frank-lloyd-wright-typographic-mystery/' | relative_url }}">h bomb a frank lloyd wright typographic mystery</a></h3>
 </div>
 <div class="article-row">
