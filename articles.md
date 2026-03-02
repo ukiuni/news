@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/gram-a-zed-fork-without-all-the-ai/' | relative_url }}">gram a zed fork without all the ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/frankensqlite-a-rust-reimplementation-of-sqlite-wi/' | relative_url }}">frankensqlite a rust reimplementation of sqlite wi</a></h3>
 </div>
 <div class="article-row">
