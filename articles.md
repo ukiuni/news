@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/the-pentagons-claude-use-in-iran-is-a-reminder-tha/' | relative_url }}">the pentagons claude use in iran is a reminder tha</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/teams-invasive-wifi-location-tracking-feature-spar/' | relative_url }}">teams invasive wifi location tracking feature spar</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/right-sizes-llm-models-to-your-systems-ram-cpu-and/' | relative_url }}">right sizes llm models to your systems ram cpu and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/process-based-concurrency-why-beam-and-otp-keep-be/' | relative_url }}">process based concurrency why beam and otp keep be</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -54,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/hacking-super-mario-64-using-algebraic-topology/' | relative_url }}">hacking super mario 64 using algebraic topology</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/frankensqlite-a-rust-reimplementation-of-sqlite-wi/' | relative_url }}">frankensqlite a rust reimplementation of sqlite wi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
