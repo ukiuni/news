@@ -13,7 +13,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/windows-10-usage-rises-to-4025-in-latest-steam-har/' | relative_url }}">windows 10 usage rises to 4025 in latest steam har</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/what-your-dna-reveals-about-the-sex-life-of-neande/' | relative_url }}">what your dna reveals about the sex life of neande</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/what-are-you-doing-this-week/' | relative_url }}">what are you doing this week</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -61,11 +69,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/mondrian-entered-the-public-domain-the-estate-disa/' | relative_url }}">mondrian entered the public domain the estate disa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/making-video-games-in-2025-without-an-engine/' | relative_url }}">making video games in 2025 without an engine</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/little-free-library-books/' | relative_url }}">little free library books</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/jolla-phone-a-full-stack-european-alternative/' | relative_url }}">jolla phone a full stack european alternative</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
