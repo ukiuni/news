@@ -8,6 +8,22 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/polymarket-saw-529m-traded-on-bets-tied-to-bombing/' | relative_url }}">polymarket saw 529m traded on bets tied to bombing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/little-free-library-books/' | relative_url }}">little free library books</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/how-next-gen-spacecraft-are-overwhelming-our-commu/' | relative_url }}">how next gen spacecraft are overwhelming our commu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/hacking-super-mario-64-using-algebraic-topology/' | relative_url }}">hacking super mario 64 using algebraic topology</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/01</span>
   <h3><a href="{{ '/2026/03/01/you-can-use-newline-characters-in-urls/' | relative_url }}">you can use newline characters in urls</a></h3>
 </div>
