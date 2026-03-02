@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/xuv-x11-user-daemon-to-automatically-run-commands/' | relative_url }}">xuv x11 user daemon to automatically run commands</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/what-your-dna-reveals-about-the-sex-life-of-neande/' | relative_url }}">what your dna reveals about the sex life of neande</a></h3>
 </div>
 <div class="article-row">
@@ -57,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/how-to-record-and-retrieve-anything-youve-ever-had/' | relative_url }}">how to record and retrieve anything youve ever had</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/how-next-gen-spacecraft-are-overwhelming-our-commu/' | relative_url }}">how next gen spacecraft are overwhelming our commu</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +74,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/frankensqlite-a-rust-reimplementation-of-sqlite-wi/' | relative_url }}">frankensqlite a rust reimplementation of sqlite wi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/evolving-descriptive-text-of-mental-content-from-h/' | relative_url }}">evolving descriptive text of mental content from h</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/every-car-made-after-2008-has-the-same-digital-sec/' | relative_url }}">every car made after 2008 has the same digital sec</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -82,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/claude-hits-1-on-the-app-store-as-users-rally-behi/' | relative_url }}">claude hits 1 on the app store as users rally behi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/an-app-where-you-can-train-your-own-hand-pose-mode/' | relative_url }}">an app where you can train your own hand pose mode</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
