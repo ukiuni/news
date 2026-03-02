@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/the-workers-behind-metas-smart-glasses-can-see-eve/' | relative_url }}">the workers behind metas smart glasses can see eve</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/the-two-kinds-of-error/' | relative_url }}">the two kinds of error</a></h3>
 </div>
 <div class="article-row">
@@ -93,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/show-hn-i-built-a-sub-500ms-latency-voice-agent-fr/' | relative_url }}">show hn i built a sub 500ms latency voice agent fr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/show-hn-govbase-follow-a-bill-from-source-text-to/' | relative_url }}">show hn govbase follow a bill from source text to</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/right-sizes-llm-models-to-your-systems-ram-cpu-and/' | relative_url }}">right sizes llm models to your systems ram cpu and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/rcade-building-a-community-arcade-cabinet/' | relative_url }}">rcade building a community arcade cabinet</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -293,7 +305,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/dragon-ball-color-correction-process-pdf/' | relative_url }}">dragon ball color correction process pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/computer-generated-dream-world-virtual-reality-for/' | relative_url }}">computer generated dream world virtual reality for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/closure-of-the-weatherradio-service-in-canada/' | relative_url }}">closure of the weatherradio service in canada</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
