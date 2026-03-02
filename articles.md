@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/show-hn-omni-open-source-workplace-search-and-chat/' | relative_url }}">show hn omni open source workplace search and chat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/show-hn-i-built-a-zero-browser-pure-js-typesetting/' | relative_url }}">show hn i built a zero browser pure js typesetting</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/neural-guitar-pedal-optimizing-nam-for-daisy-seed/' | relative_url }}">neural guitar pedal optimizing nam for daisy seed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/neocaml-rubocop-creators-new-ocaml-mode-for-emacs/' | relative_url }}">neocaml rubocop creators new ocaml mode for emacs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/espanso-an-open-source-cross-platform-text-expande/' | relative_url }}">espanso an open source cross platform text expande</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/eos-is-a-complete-degoogled-mobile-ecosystem/' | relative_url }}">eos is a complete degoogled mobile ecosystem</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
