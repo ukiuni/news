@@ -13,7 +13,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/show-hn-timber-ollama-for-classical-ml-models-336x/' | relative_url }}">show hn timber ollama for classical ml models 336x</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/polymarket-saw-529m-traded-on-bets-tied-to-bombing/' | relative_url }}">polymarket saw 529m traded on bets tied to bombing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/neural-guitar-pedal-optimizing-nam-for-daisy-seed/' | relative_url }}">neural guitar pedal optimizing nam for daisy seed</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -26,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/hacking-super-mario-64-using-algebraic-topology/' | relative_url }}">hacking super mario 64 using algebraic topology</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/claude-hits-1-on-the-app-store-as-users-rally-behi/' | relative_url }}">claude hits 1 on the app store as users rally behi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
