@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/zclaw-the-888-kib-assistant/' | relative_url }}">zclaw the 888 kib assistant</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/xuv-x11-user-daemon-to-automatically-run-commands/' | relative_url }}">xuv x11 user daemon to automatically run commands</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/polymarket-saw-529m-traded-on-bets-tied-to-bombing/' | relative_url }}">polymarket saw 529m traded on bets tied to bombing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/parallel-coding-agents-with-tmux-and-markdown-spec/' | relative_url }}">parallel coding agents with tmux and markdown spec</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -194,6 +202,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/first-ever-in-utero-stem-cell-therapy-for-fetal-sp/' | relative_url }}">first ever in utero stem cell therapy for fetal sp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/felix-fx-lindner-has-died/' | relative_url }}">felix fx lindner has died</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
