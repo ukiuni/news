@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/sabela-a-reactive-haskell-notebook/' | relative_url }}">sabela a reactive haskell notebook</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/right-sizes-llm-models-to-your-systems-ram-cpu-and/' | relative_url }}">right sizes llm models to your systems ram cpu and</a></h3>
 </div>
 <div class="article-row">
@@ -89,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/microslop-manifesto/' | relative_url }}">microslop manifesto</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/making-video-games-in-2025-without-an-engine/' | relative_url }}">making video games in 2025 without an engine</a></h3>
 </div>
 <div class="article-row">
@@ -101,11 +109,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/json-documents-performance-storage-and-search-mong/' | relative_url }}">json documents performance storage and search mong</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/jolla-phone-a-full-stack-european-alternative/' | relative_url }}">jolla phone a full stack european alternative</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/india-banned-supabase-people-found-way-around/' | relative_url }}">india banned supabase people found way around</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/implementing-burger-dybvig-finding-the-shortest-de/' | relative_url }}">implementing burger dybvig finding the shortest de</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -173,11 +189,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/claude-down-anthropic-ai-not-working-in-major-outa/' | relative_url }}">claude down anthropic ai not working in major outa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pent/' | relative_url }}">cancel chatgpt ai boycott surges after openai pent</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/building-a-quake-pc/' | relative_url }}">building a quake pc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/an-app-where-you-can-train-your-own-hand-pose-mode/' | relative_url }}">an app where you can train your own hand pose mode</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/amd-am386-released-march-2-1991/' | relative_url }}">amd am386 released march 2 1991</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/70-of-hiring-managers-trust-decisions-made-by-ai-w/' | relative_url }}">70 of hiring managers trust decisions made by ai w</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>

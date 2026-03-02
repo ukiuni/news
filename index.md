@@ -6,8 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、トークン経済やAIの軍事利用を巡る倫理論争が再燃し🤖🛑、OpenAI–ペンタゴンの関係で「Cancel ChatGPT」運動が加速しています。  
-一方でlibxml2のAGPL再登場やLinuxのハードウェアhotplugの深掘り、git-forensicsやSOLIDの関数型解釈といった技術的議論が開発者コミュニティを賑わせ、ツールとライセンスの重要性が浮き彫りに🧩⚙️。  
-企業の対応ミス（MicrosoftのDiscord騒動）や米国の外国人科学者制限、そしてWindows 10の使用率上昇という現実的な潮流も見逃せません📈🔒
+    今日のテック業界では、主要AIサービスの大規模障害と採用でのAI信頼度のギャップが浮き彫りになり、信頼性と公平性への懸念が高まっています🤖⚠️ 一方でMongoDBとPostgreSQLのJSON性能比較やLinuxのホットプラグ解析、Am386復刻や自作PCの話題など、基盤技術とハードウェアへの関心が再燃しています💾🛠️ 加えてHaskellのリアクティブノートや丸め誤差の厳密実装、トークン経済やマニフェスト的議論が、技術的正確さとエコシステムの未来をめぐる議論を活性化させています🔬📈
   </div>
 </div>
