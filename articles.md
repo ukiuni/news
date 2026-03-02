@@ -29,11 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/the-token-economy/' | relative_url }}">the token economy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/the-pentagons-claude-use-in-iran-is-a-reminder-tha/' | relative_url }}">the pentagons claude use in iran is a reminder tha</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/teams-invasive-wifi-location-tracking-feature-spar/' | relative_url }}">teams invasive wifi location tracking feature spar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/solid-in-fp-liskov-substitution-or-the-principle-t/' | relative_url }}">solid in fp liskov substitution or the principle t</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -89,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/libxml2-enterprise-edition-agpl-from-the-previous/' | relative_url }}">libxml2 enterprise edition agpl from the previous</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/jolla-phone-a-full-stack-european-alternative/' | relative_url }}">jolla phone a full stack european alternative</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/how-next-gen-spacecraft-are-overwhelming-our-commu/' | relative_url }}">how next gen spacecraft are overwhelming our commu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/hardware-hotplug-events-on-linux-the-gory-details/' | relative_url }}">hardware hotplug events on linux the gory details</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -154,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/claude-hits-1-on-the-app-store-as-users-rally-behi/' | relative_url }}">claude hits 1 on the app store as users rally behi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pent/' | relative_url }}">cancel chatgpt ai boycott surges after openai pent</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>

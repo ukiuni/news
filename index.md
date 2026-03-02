@@ -6,6 +6,8 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、米国の科学機関が研究室への外国人研究者を制限する動きと、マイクロソフトのDiscord運用を巡る騒動が同時に浮上し、セキュリティと企業統制の緊張が高まっています🔒。オープンソースや代替エコシステムの勢いも止まらず、git-forensicsやOmni、/e/OSやJollaといったツールやハードの動きが開発者コミュニティを刺激しています🛠️🌍。さらにモンドリアンの著作権問題やSteamでのWindows10利用率上昇といった文化・法務・プラットフォームの論点が交錯する週です📈🎨
+    今日のテック業界では、トークン経済やAIの軍事利用を巡る倫理論争が再燃し🤖🛑、OpenAI–ペンタゴンの関係で「Cancel ChatGPT」運動が加速しています。  
+一方でlibxml2のAGPL再登場やLinuxのハードウェアhotplugの深掘り、git-forensicsやSOLIDの関数型解釈といった技術的議論が開発者コミュニティを賑わせ、ツールとライセンスの重要性が浮き彫りに🧩⚙️。  
+企業の対応ミス（MicrosoftのDiscord騒動）や米国の外国人科学者制限、そしてWindows 10の使用率上昇という現実的な潮流も見逃せません📈🔒
   </div>
 </div>
