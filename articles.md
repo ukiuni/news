@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/welcome-back-to-macintosh/' | relative_url }}">welcome back to macintosh</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/use-the-mikado-method-to-do-safe-changes-in-a-comp/' | relative_url }}">use the mikado method to do safe changes in a comp</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/thirty-years-on-pokmon-is-still-a-monster-hit/' | relative_url }}">thirty years on pokmon is still a monster hit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/the-two-kinds-of-error/' | relative_url }}">the two kinds of error</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -70,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/show-hn-timber-ollama-for-classical-ml-models-336x/' | relative_url }}">show hn timber ollama for classical ml models 336x</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/show-hn-pianoterm-run-shell-commands-from-your-pia/' | relative_url }}">show hn pianoterm run shell commands from your pia</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -166,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/libxml2-enterprise-edition-agpl-from-the-previous/' | relative_url }}">libxml2 enterprise edition agpl from the previous</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/lfortran-compiles-fpm/' | relative_url }}">lfortran compiles fpm</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -294,6 +310,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/building-a-quake-pc/' | relative_url }}">building a quake pc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/british-columbia-to-end-time-changes-adopt-year-ro/' | relative_url }}">british columbia to end time changes adopt year ro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
