@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/show-hn-ublock-filter-list-to-blur-all-instagram-r/' | relative_url }}">show hn ublock filter list to blur all instagram r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/show-hn-timber-ollama-for-classical-ml-models-336x/' | relative_url }}">show hn timber ollama for classical ml models 336x</a></h3>
 </div>
 <div class="article-row">
@@ -113,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/ohio-epa-weighs-allowing-data-centers-to-dump-wast/' | relative_url }}">ohio epa weighs allowing data centers to dump wast</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/notes-on-lagrange-interpolating-polynomials/' | relative_url }}">notes on lagrange interpolating polynomials</a></h3>
 </div>
 <div class="article-row">
@@ -145,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/meta-sold-7-million-ai-glasses-in-2025-now-the-pri/' | relative_url }}">meta sold 7 million ai glasses in 2025 now the pri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/making-video-games-in-2025-without-an-engine/' | relative_url }}">making video games in 2025 without an engine</a></h3>
 </div>
 <div class="article-row">
@@ -169,11 +181,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/iran-war-prediction-market-bets-draw-heat-insane-t/' | relative_url }}">iran war prediction market bets draw heat insane t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/inside-the-m4-apple-neural-engine-part-1-reverse-e/' | relative_url }}">inside the m4 apple neural engine part 1 reverse e</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/india-banned-supabase-people-found-way-around/' | relative_url }}">india banned supabase people found way around</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/incentives-drive-everything/' | relative_url }}">incentives drive everything</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -285,6 +305,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/apple-introduces-iphone-17e/' | relative_url }}">apple introduces iphone 17e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/anthropic-cowork-feature-creates-10gb-vm-bundle-on/' | relative_url }}">anthropic cowork feature creates 10gb vm bundle on</a></h3>
 </div>
 <div class="article-row">
@@ -306,6 +330,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/70-of-hiring-managers-trust-decisions-made-by-ai-w/' | relative_url }}">70 of hiring managers trust decisions made by ai w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/2025-state-of-rust-survey-results/' | relative_url }}">2025 state of rust survey results</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/01</span>
