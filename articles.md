@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/use-the-mikado-method-to-do-safe-changes-in-a-comp/' | relative_url }}">use the mikado method to do safe changes in a comp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/us-science-agency-moves-to-restrict-foreign-scient/' | relative_url }}">us science agency moves to restrict foreign scient</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/notes-on-lagrange-interpolating-polynomials/' | relative_url }}">notes on lagrange interpolating polynomials</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/neural-guitar-pedal-optimizing-nam-for-daisy-seed/' | relative_url }}">neural guitar pedal optimizing nam for daisy seed</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/libxml2-enterprise-edition-agpl-from-the-previous/' | relative_url }}">libxml2 enterprise edition agpl from the previous</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/judge-finalizes-order-for-greenpeace-to-pay-345m-i/' | relative_url }}">judge finalizes order for greenpeace to pay 345m i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
@@ -158,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/gram-a-zed-fork-without-all-the-ai/' | relative_url }}">gram a zed fork without all the ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/02</span>
+  <h3><a href="{{ '/2026/03/02/gram-10-released/' | relative_url }}">gram 10 released</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
