@@ -45,11 +45,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/simple-screw-counter/' | relative_url }}">simple screw counter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/show-hn-php-8-disable_functions-bypass-poc/' | relative_url }}">show hn php 8 disable_functions bypass poc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/openclaw-exposure-watchboard/' | relative_url }}">openclaw exposure watchboard</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/openais-altman-admits-defense-deal-was-opportunist/' | relative_url }}">openais altman admits defense deal was opportunist</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
@@ -66,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/john-oliver-says-paramount-buying-warner-bros-is-n/' | relative_url }}">john oliver says paramount buying warner bros is n</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/intent-based-commits/' | relative_url }}">intent based commits</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
