@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/webhaptics-haptic-feedback-for-the-mobile-web/' | relative_url }}">webhaptics haptic feedback for the mobile web</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/we-built-a-video-rendering-engine-by-lying-to-the/' | relative_url }}">we built a video rendering engine by lying to the</a></h3>
 </div>
 <div class="article-row">
