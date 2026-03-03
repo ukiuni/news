@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/you-cant-always-fix-it/' | relative_url }}">you cant always fix it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/the-case-for-apolitical-tech-spaces/' | relative_url }}">the case for apolitical tech spaces</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/the-185-microsecond-type-hint/' | relative_url }}">the 185 microsecond type hint</a></h3>
 </div>
 <div class="article-row">
@@ -22,6 +30,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/new-toothpaste-stops-gum-disease-without-harming-h/' | relative_url }}">new toothpaste stops gum disease without harming h</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/how-to-build-your-own-quantum-computer/' | relative_url }}">how to build your own quantum computer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/chatgpt-uninstalls-surged-by-295-after-dod-deal/' | relative_url }}">chatgpt uninstalls surged by 295 after dod deal</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
