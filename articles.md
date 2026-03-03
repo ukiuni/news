@@ -9,7 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/zuckerbergs-internal-emails-rendered-as-facebook-m/' | relative_url }}">zuckerbergs internal emails rendered as facebook m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/you-cant-always-fix-it/' | relative_url }}">you cant always fix it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/what-are-your-guilty-displeasures/' | relative_url }}">what are your guilty displeasures</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/the-chinese-governments-chatgpt-account-revealed-a/' | relative_url }}">the chinese governments chatgpt account revealed a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
@@ -25,11 +37,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/show-hn-php-8-disable_functions-bypass-poc/' | relative_url }}">show hn php 8 disable_functions bypass poc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/nyc-council-pushes-to-ban-stores-from-collecting-b/' | relative_url }}">nyc council pushes to ban stores from collecting b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/new-toothpaste-stops-gum-disease-without-harming-h/' | relative_url }}">new toothpaste stops gum disease without harming h</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/i-put-a-full-jvm-inside-a-browser-tab-it-works-tec/' | relative_url }}">i put a full jvm inside a browser tab it works tec</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
