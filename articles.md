@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/the-cathode-ray-tube-site/' | relative_url }}">the cathode ray tube site</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/the-case-for-apolitical-tech-spaces/' | relative_url }}">the case for apolitical tech spaces</a></h3>
 </div>
 <div class="article-row">
@@ -57,7 +61,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/new-iron-nanomaterial-wipes-out-cancer-cells-witho/' | relative_url }}">new iron nanomaterial wipes out cancer cells witho</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/john-oliver-says-paramount-buying-warner-bros-is-n/' | relative_url }}">john oliver says paramount buying warner bros is n</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/i-put-a-full-jvm-inside-a-browser-tab-it-works-tec/' | relative_url }}">i put a full jvm inside a browser tab it works tec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/i-hacked-this-temu-router-what-i-found-should-be-i/' | relative_url }}">i hacked this temu router what i found should be i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
@@ -69,7 +85,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/evolving-typst/' | relative_url }}">evolving typst</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/chatgpt-uninstalls-surged-by-295-after-dod-deal/' | relative_url }}">chatgpt uninstalls surged by 295 after dod deal</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/ars-technica-fires-reporter-after-ai-controversy-i/' | relative_url }}">ars technica fires reporter after ai controversy i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
