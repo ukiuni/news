@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/whats-new-in-linux-kernel-for-postgresql/' | relative_url }}">whats new in linux kernel for postgresql</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/what-are-your-guilty-displeasures/' | relative_url }}">what are your guilty displeasures</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/we-built-a-video-rendering-engine-by-lying-to-the/' | relative_url }}">we built a video rendering engine by lying to the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/uk-pornography-depicting-sexual-relationships-betw/' | relative_url }}">uk pornography depicting sexual relationships betw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/the-term-blood-moon-wasnt-invented-until-2013-2014/' | relative_url }}">the term blood moon wasnt invented until 2013 2014</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
@@ -42,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/the-case-for-apolitical-tech-spaces/' | relative_url }}">the case for apolitical tech spaces</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/the-beauty-and-terror-of-modding-windows/' | relative_url }}">the beauty and terror of modding windows</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
@@ -133,7 +149,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/build-your-own-command-line-with-ansi-escape-codes/' | relative_url }}">build your own command line with ansi escape codes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/buckle-up-for-bumpier-skies/' | relative_url }}">buckle up for bumpier skies</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/aws-outage-due-to-drone-attacks-in-uae/' | relative_url }}">aws outage due to drone attacks in uae</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
@@ -142,6 +166,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/arms-cortex-x925-reaching-desktop-performance/' | relative_url }}">arms cortex x925 reaching desktop performance</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/anonymous-credentials-how-do-we-live-in-a-world-wi/' | relative_url }}">anonymous credentials how do we live in a world wi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/amazon-confirms-its-uae-data-centers-were-directly/' | relative_url }}">amazon confirms its uae data centers were directly</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/a-message-to-devs-at-the-frontier-of-the-ai-shift/' | relative_url }}">a message to devs at the frontier of the ai shift</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
