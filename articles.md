@@ -8,6 +8,22 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/the-185-microsecond-type-hint/' | relative_url }}">the 185 microsecond type hint</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/state-of-haskell-2025-results/' | relative_url }}">state of haskell 2025 results</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/nyc-council-pushes-to-ban-stores-from-collecting-b/' | relative_url }}">nyc council pushes to ban stores from collecting b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/new-toothpaste-stops-gum-disease-without-harming-h/' | relative_url }}">new toothpaste stops gum disease without harming h</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/02</span>
   <h3><a href="{{ '/2026/03/02/zclaw-the-888-kib-assistant/' | relative_url }}">zclaw the 888 kib assistant</a></h3>
 </div>
