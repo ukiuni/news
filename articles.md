@@ -149,6 +149,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/im-reluctant-to-verify-my-identity-or-age-for-any/' | relative_url }}">im reluctant to verify my identity or age for any</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/im-losing-the-seo-battle-for-my-own-open-source-pr/' | relative_url }}">im losing the seo battle for my own open source pr</a></h3>
 </div>
 <div class="article-row">
@@ -185,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/dont-become-an-engineering-manager/' | relative_url }}">dont become an engineering manager</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/daily-driving-grapheneos/' | relative_url }}">daily driving grapheneos</a></h3>
 </div>
 <div class="article-row">
@@ -218,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/apple-unveils-new-studio-display-and-all-new-studi/' | relative_url }}">apple unveils new studio display and all new studi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/apple-introduces-the-new-macbook-air-with-m5/' | relative_url }}">apple introduces the new macbook air with m5</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
