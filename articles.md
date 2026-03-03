@@ -93,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/i-built-a-pint-sized-macintosh/' | relative_url }}">i built a pint sized macintosh</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/how-to-build-your-own-quantum-computer/' | relative_url }}">how to build your own quantum computer</a></h3>
 </div>
 <div class="article-row">
@@ -101,7 +105,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/getopt-go-package-for-posixgnu-style-command-line/' | relative_url }}">getopt go package for posixgnu style command line</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/evolving-typst/' | relative_url }}">evolving typst</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/dos-memory-management/' | relative_url }}">dos memory management</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
@@ -118,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/ars-technica-fires-reporter-after-ai-controversy-i/' | relative_url }}">ars technica fires reporter after ai controversy i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/arms-cortex-x925-reaching-desktop-performance/' | relative_url }}">arms cortex x925 reaching desktop performance</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/02</span>
