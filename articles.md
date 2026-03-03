@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/you-cant-verify-all-the-ai-generated-code/' | relative_url }}">you cant verify all the ai generated code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/you-cant-always-fix-it/' | relative_url }}">you cant always fix it</a></h3>
 </div>
 <div class="article-row">
@@ -33,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/we-automated-everything-except-knowing-whats-going/' | relative_url }}">we automated everything except knowing whats going</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/uk-pornography-depicting-sexual-relationships-betw/' | relative_url }}">uk pornography depicting sexual relationships betw</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/the-pentagon-has-confirmed-that-us-forces-struck-i/' | relative_url }}">the pentagon has confirmed that us forces struck i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/the-hardest-part-of-being-a-developer-isnt-coding/' | relative_url }}">the hardest part of being a developer isnt coding</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
@@ -78,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/show-hn-php-8-disable_functions-bypass-poc/' | relative_url }}">show hn php 8 disable_functions bypass poc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/plasma-bigscreen-10-foot-interface-for-kde-plasma/' | relative_url }}">plasma bigscreen 10 foot interface for kde plasma</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
@@ -121,11 +137,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/iowa-sues-gm-onstar-for-selling-iowans-data-withou/' | relative_url }}">iowa sues gm onstar for selling iowans data withou</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/intent-based-commits/' | relative_url }}">intent based commits</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/indias-top-court-angry-after-junior-judge-cites-fa/' | relative_url }}">indias top court angry after junior judge cites fa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/im-losing-the-seo-battle-for-my-own-open-source-pr/' | relative_url }}">im losing the seo battle for my own open source pr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
@@ -190,6 +214,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/arms-cortex-x925-reaching-desktop-performance/' | relative_url }}">arms cortex x925 reaching desktop performance</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/apple-unveils-new-studio-display-and-all-new-studi/' | relative_url }}">apple unveils new studio display and all new studi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/03</span>
+  <h3><a href="{{ '/2026/03/03/apple-introduces-macbook-pro-with-allnew-m5-pro-an/' | relative_url }}">apple introduces macbook pro with allnew m5 pro an</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/03</span>
