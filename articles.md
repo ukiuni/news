@@ -93,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/shall-i-implement-it-no/' | relative_url }}">shall i implement it no</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/secure-communication-buried-in-a-news-app/' | relative_url }}">secure communication buried in a news app</a></h3>
 </div>
 <div class="article-row">
@@ -205,6 +209,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/document-poisoning-in-rag-systems-how-attackers-co/' | relative_url }}">document poisoning in rag systems how attackers co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/devastating-blow-atlassian-lays-off-1600-workers-a/' | relative_url }}">devastating blow atlassian lays off 1600 workers a</a></h3>
 </div>
 <div class="article-row">
@@ -218,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/bubble-sorted-amen-break/' | relative_url }}">bubble sorted amen break</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/bringing-chrome-to-arm64-linux-devices/' | relative_url }}">bringing chrome to arm64 linux devices</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
