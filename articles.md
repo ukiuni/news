@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/show-hn-onecli-vault-for-ai-agents-in-rust/' | relative_url }}">show hn onecli vault for ai agents in rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/show-hn-calyx-ghostty-based-macos-terminal-with-li/' | relative_url }}">show hn calyx ghostty based macos terminal with li</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/secure-communication-buried-in-a-news-app/' | relative_url }}">secure communication buried in a news app</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/reversing-memory-loss-via-gut-brain-communication/' | relative_url }}">reversing memory loss via gut brain communication</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
@@ -141,6 +149,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/bubble-sorted-amen-break/' | relative_url }}">bubble sorted amen break</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/big-data-on-the-cheapest-macbook/' | relative_url }}">big data on the cheapest macbook</a></h3>
 </div>
 <div class="article-row">
@@ -154,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/asia-rolls-out-4-day-weeks-wfh-to-solve-fuel-crisi/' | relative_url }}">asia rolls out 4 day weeks wfh to solve fuel crisi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/arcaos-512-now-available-os2-warp/' | relative_url }}">arcaos 512 now available os2 warp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
