@@ -117,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/palantir-ceo-makes-shocking-confession-on-disrupti/' | relative_url }}">palantir ceo makes shocking confession on disrupti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/on-the-need-for-understanding/' | relative_url }}">on the need for understanding</a></h3>
 </div>
 <div class="article-row">
@@ -141,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/launch-hn-ionrouter-yc-w26-high-throughput-low-cos/' | relative_url }}">launch hn ionrouter yc w26 high throughput low cos</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/kotlin-creators-new-language-a-formal-way-to-talk/' | relative_url }}">kotlin creators new language a formal way to talk</a></h3>
 </div>
 <div class="article-row">
@@ -158,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/iran-includes-american-tech-giants-on-list-of-new/' | relative_url }}">iran includes american tech giants on list of new</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/how-do-you-manage-ssh-keys/' | relative_url }}">how do you manage ssh keys</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
@@ -226,6 +238,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/arcaos-512-now-available-os2-warp/' | relative_url }}">arcaos 512 now available os2 warp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/apples-599-macbook-neo-shocks-pc-industry-leaders/' | relative_url }}">apples 599 macbook neo shocks pc industry leaders</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/an-old-photo-of-a-large-bbs/' | relative_url }}">an old photo of a large bbs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/amazon-employees-say-ai-is-just-increasing-workloa/' | relative_url }}">amazon employees say ai is just increasing workloa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
