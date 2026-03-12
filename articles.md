@@ -97,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/runners-are-discovering-its-surprisingly-easy-to-c/' | relative_url }}">runners are discovering its surprisingly easy to c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/rivian-goes-all-in-on-the-r2-330-miles-of-range-59/' | relative_url }}">rivian goes all in on the r2 330 miles of range 59</a></h3>
 </div>
 <div class="article-row">
@@ -258,6 +262,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/ai-is-african-intelligence-the-workers-who-train-a/' | relative_url }}">ai is african intelligence the workers who train a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/ai-error-jails-innocent-grandmother-for-months-in/' | relative_url }}">ai error jails innocent grandmother for months in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
