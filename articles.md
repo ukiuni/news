@@ -8,6 +8,126 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/when-ai-writes-the-code-who-takes-responsibility/' | relative_url }}">when ai writes the code who takes responsibility</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/us-banks-exposure-to-private-credit-hits-300b/' | relative_url }}">us banks exposure to private credit hits 300b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/the-enablers-who-helped-me-code-forward/' | relative_url }}">the enablers who helped me code forward</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/show-hn-we-analyzed-1573-claude-code-sessions-to-s/' | relative_url }}">show hn we analyzed 1573 claude code sessions to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/show-hn-s-decentralized-social-networking-over-sta/' | relative_url }}">show hn s decentralized social networking over sta</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/show-hn-calyx-ghostty-based-macos-terminal-with-li/' | relative_url }}">show hn calyx ghostty based macos terminal with li</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/show-hn-axe-a-12mb-binary-that-replaces-your-ai-fr/' | relative_url }}">show hn axe a 12mb binary that replaces your ai fr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/secure-communication-buried-in-a-news-app/' | relative_url }}">secure communication buried in a news app</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/revamped-rss-feed-imports/' | relative_url }}">revamped rss feed imports</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/parametricity-or-comptime-is-bonkers/' | relative_url }}">parametricity or comptime is bonkers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/on-the-need-for-understanding/' | relative_url }}">on the need for understanding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/my-postgresql-database-got-nuked-lol/' | relative_url }}">my postgresql database got nuked lol</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/lowdown-manpage-support/' | relative_url }}">lowdown manpage support</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/lobsters-interview-with-ngoldbaum/' | relative_url }}">lobsters interview with ngoldbaum</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/join-the-2026-wecoded-challenge-and-celebrate-unde/' | relative_url }}">join the 2026 wecoded challenge and celebrate unde</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/iranian-hacktivists-strike-medical-device-maker-st/' | relative_url }}">iranian hacktivists strike medical device maker st</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/generative-ai-vegetarianism/' | relative_url }}">generative ai vegetarianism</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/gemini-25-flash-vs-claude-37-sonnet-4-production-c/' | relative_url }}">gemini 25 flash vs claude 37 sonnet 4 production c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/faster-asin-was-hiding-in-plain-sight/' | relative_url }}">faster asin was hiding in plain sight</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/dolphin-progress-release-2603/' | relative_url }}">dolphin progress release 2603</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/congrats-to-the-github-copilot-cli-challenge-winne/' | relative_url }}">congrats to the github copilot cli challenge winne</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/building-a-new-flash/' | relative_url }}">building a new flash</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/big-data-on-the-cheapest-macbook/' | relative_url }}">big data on the cheapest macbook</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/avoiding-trigonometry-2013/' | relative_url }}">avoiding trigonometry 2013</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/advice-id-send-back-in-time-technology-in-2026-and/' | relative_url }}">advice id send back in time technology in 2026 and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/about-invisibility-propaganda-and-assumptions-of-i/' | relative_url }}">about invisibility propaganda and assumptions of i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/a-fully-snapshotable-wasm-interpreter/' | relative_url }}">a fully snapshotable wasm interpreter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/3d-knitting-the-ultimate-guide/' | relative_url }}">3d knitting the ultimate guide</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/3-words-worth-a-billion-dollars-drift-to-determini/' | relative_url }}">3 words worth a billion dollars drift to determini</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/03</span>
   <h3><a href="{{ '/2026/03/03/zuckerbergs-internal-emails-rendered-as-facebook-m/' | relative_url }}">zuckerbergs internal emails rendered as facebook m</a></h3>
 </div>
