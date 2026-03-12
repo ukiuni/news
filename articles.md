@@ -21,6 +21,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/us-and-greek-owned-tankers-ablaze-after-iran-claim/' | relative_url }}">us and greek owned tankers ablaze after iran claim</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/the-purpose-of-continuous-integration-is-to-fail/' | relative_url }}">the purpose of continuous integration is to fail</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/the-enablers-who-helped-me-code-forward/' | relative_url }}">the enablers who helped me code forward</a></h3>
 </div>
 <div class="article-row">
@@ -61,11 +69,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/malus-clean-room-as-a-service/' | relative_url }}">malus clean room as a service</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/lowdown-manpage-support/' | relative_url }}">lowdown manpage support</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/lobsters-interview-with-ngoldbaum/' | relative_url }}">lobsters interview with ngoldbaum</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/kotlin-creators-new-language-a-formal-way-to-talk/' | relative_url }}">kotlin creators new language a formal way to talk</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
