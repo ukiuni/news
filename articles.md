@@ -133,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
+  <h3><a href="{{ '/2026/03/12/on-making/' | relative_url }}">on making</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/my-postgresql-database-got-nuked-lol/' | relative_url }}">my postgresql database got nuked lol</a></h3>
 </div>
 <div class="article-row">
