@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/qatar-helium-shutdown-puts-chip-supply-chain-on-a/' | relative_url }}">qatar helium shutdown puts chip supply chain on a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/prompt-caching-auto-injects-anthropic-cache-breakp/' | relative_url }}">prompt caching auto injects anthropic cache breakp</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/a-willingness-to-look-stupid-is-the-most-underrate/' | relative_url }}">a willingness to look stupid is the most underrate</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/301m-records-exposed-the-hipaa-breach-epidemic/' | relative_url }}">301m records exposed the hipaa breach epidemic</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/12</span>
