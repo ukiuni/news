@@ -205,6 +205,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/i-found-39-algolia-admin-keys-exposed-across-open/' | relative_url }}">i found 39 algolia admin keys exposed across open</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/hyperlinks-in-terminal-emulators/' | relative_url }}">hyperlinks in terminal emulators</a></h3>
 </div>
 <div class="article-row">
@@ -249,6 +253,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/drone-strikes-in-haiti-that-killed-1250-17-childre/' | relative_url }}">drone strikes in haiti that killed 1250 17 childre</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/design-me-a-highly-resilient-database/' | relative_url }}">design me a highly resilient database</a></h3>
 </div>
 <div class="article-row">
@@ -282,6 +290,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/bucketsquatting-is-finally-dead/' | relative_url }}">bucketsquatting is finally dead</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/awash-in-revisionist-histories-about-apples-web-ef/' | relative_url }}">awash in revisionist histories about apples web ef</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
