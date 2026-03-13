@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/well-being-in-times-of-algorithms/' | relative_url }}">well being in times of algorithms</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +22,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/understanding-the-go-runtime-the-scheduler/' | relative_url }}">understanding the go runtime the scheduler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/tui-studio-visual-terminal-ui-design-tool/' | relative_url }}">tui studio visual terminal ui design tool</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -41,11 +49,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/show-hn-what-was-the-world-listening-to-music-char/' | relative_url }}">show hn what was the world listening to music char</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/prompt-caching-auto-injects-anthropic-cache-breakp/' | relative_url }}">prompt caching auto injects anthropic cache breakp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/prefix-sums-at-gigabytes-per-second-with-arm-neon/' | relative_url }}">prefix sums at gigabytes per second with arm neon</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/plan-9s-acme-the-un-terminal-and-text-based-guis/' | relative_url }}">plan 9s acme the un terminal and text based guis</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/okmain-how-to-pick-an-ok-main-colour-of-an-image/' | relative_url }}">okmain how to pick an ok main colour of an image</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -62,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/i-traced-2b-in-grants-and-45-states-lobbying-behin/' | relative_url }}">i traced 2b in grants and 45 states lobbying behin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/i-traced-2-billion-in-nonprofit-grants-and-45-stat/' | relative_url }}">i traced 2 billion in nonprofit grants and 45 stat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
