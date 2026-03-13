@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/well-being-in-times-of-algorithms/' | relative_url }}">well being in times of algorithms</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/vite-80-is-out/' | relative_url }}">vite 80 is out</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/hyperlinks-in-terminal-emulators/' | relative_url }}">hyperlinks in terminal emulators</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/how-to-make-your-own-static-site-generator/' | relative_url }}">how to make your own static site generator</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
