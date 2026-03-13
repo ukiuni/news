@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/youre-absolutely-right-an-allegory-for-agentic-cod/' | relative_url }}">youre absolutely right an allegory for agentic cod</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/windows-11-after-two-decades-of-macos-okay-but-als/' | relative_url }}">windows 11 after two decades of macos okay but als</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/what-we-learned-from-a-22-day-storage-bug-and-how/' | relative_url }}">what we learned from a 22 day storage bug and how</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -45,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/the-accidental-room-2018/' | relative_url }}">the accidental room 2018</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/tennessee-grandmother-jailed-after-ai-face-recogni/' | relative_url }}">tennessee grandmother jailed after ai face recogni</a></h3>
 </div>
 <div class="article-row">
@@ -65,11 +77,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/show-hn-channel-surfer-watch-youtube-like-its-cabl/' | relative_url }}">show hn channel surfer watch youtube like its cabl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/show-hn-algorithms-and-data-structures-in-typescri/' | relative_url }}">show hn algorithms and data structures in typescri</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/sam-altman-admits-ai-is-killing-the-labor-capital/' | relative_url }}">sam altman admits ai is killing the labor capital</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/run-nanoclaw-in-docker-sandboxes/' | relative_url }}">run nanoclaw in docker sandboxes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/reinventing-pythons-asyncio/' | relative_url }}">reinventing pythons asyncio</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -82,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/prefix-sums-at-gigabytes-per-second-with-arm-neon/' | relative_url }}">prefix sums at gigabytes per second with arm neon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/playerunknowns-brendan-greene-says-ai-content-is-r/' | relative_url }}">playerunknowns brendan greene says ai content is r</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -137,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/i-spent-way-too-long-making-a-python-audio-equaliz/' | relative_url }}">i spent way too long making a python audio equaliz</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/hyperlinks-in-terminal-emulators/' | relative_url }}">hyperlinks in terminal emulators</a></h3>
 </div>
 <div class="article-row">
@@ -157,6 +189,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/fire-department-turns-down-250000-google-donation/' | relative_url }}">fire department turns down 250000 google donation</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/fenwick-layout-for-interval-trees/' | relative_url }}">fenwick layout for interval trees</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/executing-programs-inside-transformers-with-expone/' | relative_url }}">executing programs inside transformers with expone</a></h3>
 </div>
 <div class="article-row">
@@ -170,6 +210,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/computing-in-freedom-with-gnu-emacs/' | relative_url }}">computing in freedom with gnu emacs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/chicken-nuget-danielhaxxse-curl-on-nugetorg/' | relative_url }}">chicken nuget danielhaxxse curl on nugetorg</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -197,6 +241,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/ai-is-exhausting-workers-so-much-researchers-have/' | relative_url }}">ai is exhausting workers so much researchers have</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/agent-shell-047-updates/' | relative_url }}">agent shell 047 updates</a></h3>
 </div>
 <div class="article-row">
@@ -206,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/a-willingness-to-look-stupid-is-the-most-underrate/' | relative_url }}">a willingness to look stupid is the most underrate</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/a-doge-bro-allegedly-walked-out-of-social-security/' | relative_url }}">a doge bro allegedly walked out of social security</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
