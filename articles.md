@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/the-wyden-siren-goes-off-again-well-be-stunned-by/' | relative_url }}">the wyden siren goes off again well be stunned by</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/tech-billionaires-reportedly-plotting-500m-fund-to/' | relative_url }}">tech billionaires reportedly plotting 500m fund to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/stanford-researchers-report-first-recording-of-a-b/' | relative_url }}">stanford researchers report first recording of a b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -130,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/ovh-forgot-they-donated-documentation-hosting-to-p/' | relative_url }}">ovh forgot they donated documentation hosting to p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/openclaw-and-the-dream-of-free-labour/' | relative_url }}">openclaw and the dream of free labour</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -214,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/executing-programs-inside-transformers-with-expone/' | relative_url }}">executing programs inside transformers with expone</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/elon-musk-pushes-out-more-xai-founders-as-ai-codin/' | relative_url }}">elon musk pushes out more xai founders as ai codin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
