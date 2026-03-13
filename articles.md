@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/source-code-of-swedish-e-government-services-has-b/' | relative_url }}">source code of swedish e government services has b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/prefix-sums-at-gigabytes-per-second-with-arm-neon/' | relative_url }}">prefix sums at gigabytes per second with arm neon</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/i-watched-6-hours-of-doge-bro-testimony-heres-what/' | relative_url }}">i watched 6 hours of doge bro testimony heres what</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/i-traced-2b-in-grants-and-45-states-lobbying-behin/' | relative_url }}">i traced 2b in grants and 45 states lobbying behin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -78,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/design-me-a-highly-resilient-database/' | relative_url }}">design me a highly resilient database</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/ceno-browse-the-web-without-internet-access/' | relative_url }}">ceno browse the web without internet access</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
