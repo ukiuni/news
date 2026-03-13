@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/your-phone-is-an-entire-computer/' | relative_url }}">your phone is an entire computer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/windows-11-after-two-decades-of-macos-okay-but-als/' | relative_url }}">windows 11 after two decades of macos okay but als</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/show-hn-context-gateway-compress-agent-context-bef/' | relative_url }}">show hn context gateway compress agent context bef</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/show-hn-channel-surfer-watch-youtube-like-its-cabl/' | relative_url }}">show hn channel surfer watch youtube like its cabl</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/plan-9s-acme-the-un-terminal-and-text-based-guis/' | relative_url }}">plan 9s acme the un terminal and text based guis</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/parallels-confirms-macbook-neo-can-run-windows-in/' | relative_url }}">parallels confirms macbook neo can run windows in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -182,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/how-many-times-can-a-dvdrw-be-rewritten/' | relative_url }}">how many times can a dvdrw be rewritten</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/hammerspoon/' | relative_url }}">hammerspoon</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
