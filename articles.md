@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/the-wyden-siren-goes-off-again-well-be-stunned-by/' | relative_url }}">the wyden siren goes off again well be stunned by</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/tennessee-grandmother-jailed-after-ai-face-recogni/' | relative_url }}">tennessee grandmother jailed after ai face recogni</a></h3>
 </div>
 <div class="article-row">
@@ -29,7 +33,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/prefix-sums-at-gigabytes-per-second-with-arm-neon/' | relative_url }}">prefix sums at gigabytes per second with arm neon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/plan-9s-acme-the-un-terminal-and-text-based-guis/' | relative_url }}">plan 9s acme the un terminal and text based guis</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/medical-nightmare-what-stryker-hit-by-iran-linked/' | relative_url }}">medical nightmare what stryker hit by iran linked</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/inside-clickhouse-full-text-search-fast-native-and/' | relative_url }}">inside clickhouse full text search fast native and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -38,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/hyperlinks-in-terminal-emulators/' | relative_url }}">hyperlinks in terminal emulators</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/how-many-times-can-a-dvdrw-be-rewritten/' | relative_url }}">how many times can a dvdrw be rewritten</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -53,7 +73,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/build-custom-image-segmentation-model-using-yolov8/' | relative_url }}">build custom image segmentation model using yolov8</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/agent-shell-047-updates/' | relative_url }}">agent shell 047 updates</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/adobe-ceo-shantanu-narayen-is-stepping-down-after/' | relative_url }}">adobe ceo shantanu narayen is stepping down after</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
