@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/the-best-darn-grid-shader-yet/' | relative_url }}">the best darn grid shader yet</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/tennessee-grandmother-jailed-after-ai-face-recogni/' | relative_url }}">tennessee grandmother jailed after ai face recogni</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/show-hn-what-was-the-world-listening-to-music-char/' | relative_url }}">show hn what was the world listening to music char</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/show-hn-algorithms-and-data-structures-in-typescri/' | relative_url }}">show hn algorithms and data structures in typescri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/run-nanoclaw-in-docker-sandboxes/' | relative_url }}">run nanoclaw in docker sandboxes</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -73,7 +85,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/nanny-state-discovers-linux-demands-it-check-kids/' | relative_url }}">nanny state discovers linux demands it check kids</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/medical-nightmare-what-stryker-hit-by-iran-linked/' | relative_url }}">medical nightmare what stryker hit by iran linked</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/launch-hn-spine-swarm-yc-s23-ai-agents-that-collab/' | relative_url }}">launch hn spine swarm yc s23 ai agents that collab</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
@@ -113,7 +133,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/e2e-encrypted-messaging-on-instagram-will-no-longe/' | relative_url }}">e2e encrypted messaging on instagram will no longe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/design-me-a-highly-resilient-database/' | relative_url }}">design me a highly resilient database</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/computing-in-freedom-with-gnu-emacs/' | relative_url }}">computing in freedom with gnu emacs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
