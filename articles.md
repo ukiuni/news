@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/vite-80-is-out/' | relative_url }}">vite 80 is out</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/understanding-the-go-runtime-the-scheduler/' | relative_url }}">understanding the go runtime the scheduler</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/i-watched-6-hours-of-doge-bro-testimony-heres-what/' | relative_url }}">i watched 6 hours of doge bro testimony heres what</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/hyperlinks-in-terminal-emulators/' | relative_url }}">hyperlinks in terminal emulators</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
