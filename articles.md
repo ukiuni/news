@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/xml-is-a-cheap-dsl/' | relative_url }}">xml is a cheap dsl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/windows-11-after-two-decades-of-macos-okay-but-als/' | relative_url }}">windows 11 after two decades of macos okay but als</a></h3>
 </div>
 <div class="article-row">
@@ -149,7 +153,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/new-negative-light-technology-hides-data-transfers/' | relative_url }}">new negative light technology hides data transfers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/nanny-state-discovers-linux-demands-it-check-kids/' | relative_url }}">nanny state discovers linux demands it check kids</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/mouser-an-open-source-alternative-to-logi-plus-mou/' | relative_url }}">mouser an open source alternative to logi plus mou</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
