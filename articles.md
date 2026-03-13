@@ -8,6 +8,30 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/understanding-the-go-runtime-the-scheduler/' | relative_url }}">understanding the go runtime the scheduler</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/tennessee-grandmother-jailed-after-ai-face-recogni/' | relative_url }}">tennessee grandmother jailed after ai face recogni</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/tech-billionaires-reportedly-plotting-500m-fund-to/' | relative_url }}">tech billionaires reportedly plotting 500m fund to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/spot-check-testing-how-sampling-makes-expensive-au/' | relative_url }}">spot check testing how sampling makes expensive au</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/i-watched-6-hours-of-doge-bro-testimony-heres-what/' | relative_url }}">i watched 6 hours of doge bro testimony heres what</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/agent-shell-047-updates/' | relative_url }}">agent shell 047 updates</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/12</span>
   <h3><a href="{{ '/2026/03/12/youtube-expands-unskippable-30-second-ads-to-tvs-a/' | relative_url }}">youtube expands unskippable 30 second ads to tvs a</a></h3>
 </div>
