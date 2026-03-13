@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/executing-programs-inside-transformers-with-expone/' | relative_url }}">executing programs inside transformers with expone</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/design-me-a-highly-resilient-database/' | relative_url }}">design me a highly resilient database</a></h3>
 </div>
 <div class="article-row">
