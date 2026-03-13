@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/13</span>
+  <h3><a href="{{ '/2026/03/13/bucketsquatting-is-finally-dead/' | relative_url }}">bucketsquatting is finally dead</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/agent-shell-047-updates/' | relative_url }}">agent shell 047 updates</a></h3>
 </div>
 <div class="article-row">
