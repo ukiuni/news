@@ -101,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/pokmon-go-players-have-been-unknowingly-training-d/' | relative_url }}">pokmon go players have been unknowingly training d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/philosoph-jrgen-habermas-gestorben/' | relative_url }}">philosoph jrgen habermas gestorben</a></h3>
 </div>
 <div class="article-row">
@@ -149,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/meta-workers-reveal-some-of-the-disturbing-things/' | relative_url }}">meta workers reveal some of the disturbing things</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/meta-planning-sweeping-layoffs-as-ai-costs-mount/' | relative_url }}">meta planning sweeping layoffs as ai costs mount</a></h3>
 </div>
 <div class="article-row">
@@ -170,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/libadwaita-19/' | relative_url }}">libadwaita 19</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/learning-creative-coding/' | relative_url }}">learning creative coding</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
@@ -237,11 +249,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/changes-to-openttd-distribution-on-steam/' | relative_url }}">changes to openttd distribution on steam</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/bumblebee-queens-breathe-underwater-to-survive-dro/' | relative_url }}">bumblebee queens breathe underwater to survive dro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/building-a-browser-only-developer-tools-platform-1/' | relative_url }}">building a browser only developer tools platform 1</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/baochip-1x-what-it-is-why-im-doing-it-now-and-how/' | relative_url }}">baochip 1x what it is why im doing it now and how</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/atari-2600-basic-programming-2015/' | relative_url }}">atari 2600 basic programming 2015</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/anthropic-invests-100m-into-the-claude-partner-net/' | relative_url }}">anthropic invests 100m into the claude partner net</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
@@ -269,6 +297,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/ageless-linux-we-are-legally-required-to-ask-how-o/' | relative_url }}">ageless linux we are legally required to ask how o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/added-1m-context-window-for-opus-46-by-default-for/' | relative_url }}">added 1m context window for opus 46 by default for</a></h3>
 </div>
 <div class="article-row">
@@ -282,6 +314,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/a-guide-to-vimpack-neovim-built-in-plugin-manager/' | relative_url }}">a guide to vimpack neovim built in plugin manager</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/a-14-month-build-log-from-an-autonomous-ai-experim/' | relative_url }}">a 14 month build log from an autonomous ai experim</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
