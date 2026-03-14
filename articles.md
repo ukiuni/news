@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/the-isolation-trap-erlang/' | relative_url }}">the isolation trap erlang</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/recursive-problems-benefit-from-recursive-solution/' | relative_url }}">recursive problems benefit from recursive solution</a></h3>
 </div>
 <div class="article-row">
