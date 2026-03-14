@@ -13,6 +13,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/wired-headphone-sales-are-exploding/' | relative_url }}">wired headphone sales are exploding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/torturing-rustc-by-emulating-hkts-causing-an-induc/' | relative_url }}">torturing rustc by emulating hkts causing an induc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/the-isolation-trap-erlang/' | relative_url }}">the isolation trap erlang</a></h3>
 </div>
 <div class="article-row">
@@ -37,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/megadev-a-development-kit-for-the-sega-mega-drive/' | relative_url }}">megadev a development kit for the sega mega drive</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/libadwaita-19/' | relative_url }}">libadwaita 19</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +70,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/coding-my-handwriting/' | relative_url }}">coding my handwriting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/claude-codes-binary-reveals-silent-ab-tests-on-cor/' | relative_url }}">claude codes binary reveals silent ab tests on cor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/baochip-1x-what-it-is-why-im-doing-it-now-and-how/' | relative_url }}">baochip 1x what it is why im doing it now and how</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
