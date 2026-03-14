@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/optimizing-content-for-agents/' | relative_url }}">optimizing content for agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/opentelemetry-for-rust-developers/' | relative_url }}">opentelemetry for rust developers</a></h3>
 </div>
 <div class="article-row">
