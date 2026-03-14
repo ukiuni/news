@@ -49,6 +49,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/show-hn-zap-code-ai-code-generator-that-teaches-ki/' | relative_url }}">show hn zap code ai code generator that teaches ki</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/show-hn-learn-arabic-with-spaced-repetition-and-co/' | relative_url }}">show hn learn arabic with spaced repetition and co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/show-hn-gitagent-an-open-standard-that-turns-any-g/' | relative_url }}">show hn gitagent an open standard that turns any g</a></h3>
 </div>
 <div class="article-row">
@@ -101,11 +109,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/its-time-to-move-your-docs-into-a-repo-especially/' | relative_url }}">its time to move your docs into a repo especially</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/i-was-one-day-away-from-quitting-and-then-my-caree/' | relative_url }}">i was one day away from quitting and then my caree</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/i-beg-you-to-follow-crockers-rules-even-if-you-wil/' | relative_url }}">i beg you to follow crockers rules even if you wil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/hostile-volume-a-game-about-adjusting-volume-with/' | relative_url }}">hostile volume a game about adjusting volume with</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
@@ -126,6 +142,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/coding-my-handwriting/' | relative_url }}">coding my handwriting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/claudetop-htop-for-claude-code-sessions-see-your-a/' | relative_url }}">claudetop htop for claude code sessions see your a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/claude-spring-break-usage-promotion/' | relative_url }}">claude spring break usage promotion</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
