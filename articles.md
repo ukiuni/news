@@ -17,7 +17,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/i-beg-you-to-follow-crockers-rules-even-if-you-wil/' | relative_url }}">i beg you to follow crockers rules even if you wil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/games-with-loot-boxes-to-get-minimum-16-age-rating/' | relative_url }}">games with loot boxes to get minimum 16 age rating</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/coding-my-handwriting/' | relative_url }}">coding my handwriting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/an-investigation-of-the-forces-behind-the-age-veri/' | relative_url }}">an investigation of the forces behind the age veri</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
