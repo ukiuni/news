@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/emacs-and-vim-in-the-age-of-ai/' | relative_url }}">emacs and vim in the age of ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/coding-my-handwriting/' | relative_url }}">coding my handwriting</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/added-1m-context-window-for-opus-46-by-default-for/' | relative_url }}">added 1m context window for opus 46 by default for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/a-survival-guide-to-a-phd-2016/' | relative_url }}">a survival guide to a phd 2016</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
