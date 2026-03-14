@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/why-mathematica-does-not-simplify-sinharccoshx/' | relative_url }}">why mathematica does not simplify sinharccoshx</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
 </div>
 <div class="article-row">
@@ -105,6 +109,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/mcp-is-dead-long-live-mcp/' | relative_url }}">mcp is dead long live mcp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/marketing-for-founders/' | relative_url }}">marketing for founders</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/libadwaita-19/' | relative_url }}">libadwaita 19</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/hostile-volume-a-game-about-adjusting-volume-with/' | relative_url }}">hostile volume a game about adjusting volume with</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/gimp-32-released/' | relative_url }}">gimp 32 released</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
@@ -190,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/a-guide-to-vimpack-neovim-built-in-plugin-manager/' | relative_url }}">a guide to vimpack neovim built in plugin manager</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/2026-tech-layoffs-reach-45000-in-march/' | relative_url }}">2026 tech layoffs reach 45000 in march</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
