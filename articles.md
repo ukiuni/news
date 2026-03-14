@@ -8,6 +8,14 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/opentelemetry-for-rust-developers/' | relative_url }}">opentelemetry for rust developers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/added-1m-context-window-for-opus-46-by-default-for/' | relative_url }}">added 1m context window for opus 46 by default for</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/13</span>
   <h3><a href="{{ '/2026/03/13/youre-absolutely-right-an-allegory-for-agentic-cod/' | relative_url }}">youre absolutely right an allegory for agentic cod</a></h3>
 </div>
