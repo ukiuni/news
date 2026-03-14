@@ -33,6 +33,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/ram-kits-are-now-sold-with-one-fake-ram-stick-alon/' | relative_url }}">ram kits are now sold with one fake ram stick alon</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/python-the-optimization-ladder/' | relative_url }}">python the optimization ladder</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/our-experience-with-i-ready/' | relative_url }}">our experience with i ready</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/a-survival-guide-to-a-phd-2016/' | relative_url }}">a survival guide to a phd 2016</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/a-guide-to-vimpack-neovim-built-in-plugin-manager/' | relative_url }}">a guide to vimpack neovim built in plugin manager</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
