@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/thoughts-on-generative-ai/' | relative_url }}">thoughts on generative ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/the-isolation-trap-erlang/' | relative_url }}">the isolation trap erlang</a></h3>
 </div>
 <div class="article-row">
@@ -37,7 +41,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/sunsetting-jazzband/' | relative_url }}">sunsetting jazzband</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/starlink-militarization-and-its-impact-on-global-s/' | relative_url }}">starlink militarization and its impact on global s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/show-hn-gitagent-an-open-standard-that-turns-any-g/' | relative_url }}">show hn gitagent an open standard that turns any g</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
@@ -102,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/emacs-and-vim-in-the-age-of-ai/' | relative_url }}">emacs and vim in the age of ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/14</span>
+  <h3><a href="{{ '/2026/03/14/developing-a-2fa-desktop-client-in-go/' | relative_url }}">developing a 2fa desktop client in go</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
