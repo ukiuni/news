@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/two-react-design-choices-developers-dont-likebut-c/' | relative_url }}">two react design choices developers dont likebut c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/tree-style-invite-systems-reduce-ai-slop/' | relative_url }}">tree style invite systems reduce ai slop</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/tree-search-distillation-for-language-models-using/' | relative_url }}">tree search distillation for language models using</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/numentext-a-non-modal-terminal-ide-with-lsp-and-da/' | relative_url }}">numentext a non modal terminal ide with lsp and da</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/mathematics-distillation-challenge-equational-theo/' | relative_url }}">mathematics distillation challenge equational theo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
