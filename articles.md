@@ -101,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/let-your-coding-agent-debug-the-browser-session-wi/' | relative_url }}">let your coding agent debug the browser session wi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/learning-athletic-humanoid-tennis-skills-from-impe/' | relative_url }}">learning athletic humanoid tennis skills from impe</a></h3>
 </div>
 <div class="article-row">
@@ -170,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/c26-the-oxford-variadic-comma/' | relative_url }}">c26 the oxford variadic comma</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/bus-travel-from-lima-to-rio-de-janeiro/' | relative_url }}">bus travel from lima to rio de janeiro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
