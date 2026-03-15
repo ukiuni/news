@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/show-hn-signet-autonomous-wildfire-tracking-from-s/' | relative_url }}">show hn signet autonomous wildfire tracking from s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/show-hn-grobpaint-somewhere-between-ms-paint-and-p/' | relative_url }}">show hn grobpaint somewhere between ms paint and p</a></h3>
 </div>
 <div class="article-row">
@@ -85,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/generating-all-32-bit-primes-part-i/' | relative_url }}">generating all 32 bit primes part i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/from-braun-t3-to-apples-ipod/' | relative_url }}">from braun t3 to apples ipod</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/fcc-chairman-threatens-tv-broadcast-licenses-over/' | relative_url }}">fcc chairman threatens tv broadcast licenses over</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/examples-for-the-tcpdump-and-dig-man-pages/' | relative_url }}">examples for the tcpdump and dig man pages</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
