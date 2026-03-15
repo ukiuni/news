@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/tree-search-distillation-for-language-models-using/' | relative_url }}">tree search distillation for language models using</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/the-sound-of-contamination-headphones-contain-ing/' | relative_url }}">the sound of contamination headphones contain ing</a></h3>
 </div>
 <div class="article-row">
@@ -33,7 +37,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/how-kernel-anti-cheats-work-a-deep-dive-into-moder/' | relative_url }}">how kernel anti cheats work a deep dive into moder</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/getting-started-with-claude-for-software-developme/' | relative_url }}">getting started with claude for software developme</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/federal-surveillance-tech-becomes-mandatory-in-new/' | relative_url }}">federal surveillance tech becomes mandatory in new</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
