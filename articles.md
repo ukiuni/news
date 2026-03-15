@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/separating-the-wayland-compositor-and-window-manag/' | relative_url }}">separating the wayland compositor and window manag</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/sbcl-fibers-lightweight-cooperative-threads/' | relative_url }}">sbcl fibers lightweight cooperative threads</a></h3>
 </div>
 <div class="article-row">
@@ -77,11 +81,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/ibm-sonic-delay-lines-and-the-history-of-the-8024/' | relative_url }}">ibm sonic delay lines and the history of the 8024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/humanities-in-the-machine/' | relative_url }}">humanities in the machine</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/how-kernel-anti-cheats-work-a-deep-dive-into-moder/' | relative_url }}">how kernel anti cheats work a deep dive into moder</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/hollywood-enters-oscars-weekend-in-existential-cri/' | relative_url }}">hollywood enters oscars weekend in existential cri</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
