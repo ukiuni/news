@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/summary-rust-project-perspectives-on-ai/' | relative_url }}">summary rust project perspectives on ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/show-hn-signet-autonomous-wildfire-tracking-from-s/' | relative_url }}">show hn signet autonomous wildfire tracking from s</a></h3>
 </div>
 <div class="article-row">
@@ -129,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/a-theory-of-the-world-as-run-by-large-adult-childr/' | relative_url }}">a theory of the world as run by large adult childr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/a-preview-of-coalton-20/' | relative_url }}">a preview of coalton 20</a></h3>
 </div>
 <div class="article-row">
@@ -142,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/96-3d-printed-rocket-that-recalculates-its-mid-air/' | relative_url }}">96 3d printed rocket that recalculates its mid air</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/100-hour-gap-between-a-vibecoded-prototype-and-a-w/' | relative_url }}">100 hour gap between a vibecoded prototype and a w</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
