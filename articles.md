@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/humanities-in-the-machine/' | relative_url }}">humanities in the machine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/how-kernel-anti-cheats-work-a-deep-dive-into-moder/' | relative_url }}">how kernel anti cheats work a deep dive into moder</a></h3>
 </div>
 <div class="article-row">
@@ -81,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/an-unappetizing-shrub-became-different-vegetables/' | relative_url }}">an unappetizing shrub became different vegetables</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/allow-me-to-get-to-know-you-mistakes-and-all/' | relative_url }}">allow me to get to know you mistakes and all</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/a-preview-of-coalton-20/' | relative_url }}">a preview of coalton 20</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/a-most-elegant-tcp-hole-punching-algorithm/' | relative_url }}">a most elegant tcp hole punching algorithm</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
