@@ -8,6 +8,34 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/the-sound-of-contamination-headphones-contain-ing/' | relative_url }}">the sound of contamination headphones contain ing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/numentext-a-non-modal-terminal-ide-with-lsp-and-da/' | relative_url }}">numentext a non modal terminal ide with lsp and da</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/library-of-short-stories/' | relative_url }}">library of short stories</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/getting-started-with-claude-for-software-developme/' | relative_url }}">getting started with claude for software developme</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/airbus-is-preparing-two-uncrewed-combat-aircraft/' | relative_url }}">airbus is preparing two uncrewed combat aircraft</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/a-preview-of-coalton-20/' | relative_url }}">a preview of coalton 20</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/98-of-fortune-500-companies-use-ats-hiring-softwar/' | relative_url }}">98 of fortune 500 companies use ats hiring softwar</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/14</span>
   <h3><a href="{{ '/2026/03/14/you-gotta-think-outside-the-hypercube/' | relative_url }}">you gotta think outside the hypercube</a></h3>
 </div>
