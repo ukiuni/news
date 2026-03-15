@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/rack-mount-hydroponics/' | relative_url }}">rack mount hydroponics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/numentext-a-non-modal-terminal-ide-with-lsp-and-da/' | relative_url }}">numentext a non modal terminal ide with lsp and da</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/deriving-type-erasure/' | relative_url }}">deriving type erasure</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/allow-me-to-get-to-know-you-mistakes-and-all/' | relative_url }}">allow me to get to know you mistakes and all</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
