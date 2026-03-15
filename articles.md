@@ -13,7 +13,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/show-hn-grobpaint-somewhere-between-ms-paint-and-p/' | relative_url }}">show hn grobpaint somewhere between ms paint and p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/sbcl-fibers-lightweight-cooperative-threads/' | relative_url }}">sbcl fibers lightweight cooperative threads</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/numentext-a-non-modal-terminal-ide-with-lsp-and-da/' | relative_url }}">numentext a non modal terminal ide with lsp and da</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/lies-i-was-told-about-collaborative-editing-part-2/' | relative_url }}">lies i was told about collaborative editing part 2</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
@@ -22,6 +34,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/getting-started-with-claude-for-software-developme/' | relative_url }}">getting started with claude for software developme</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/fcc-chairman-threatens-tv-broadcast-licenses-over/' | relative_url }}">fcc chairman threatens tv broadcast licenses over</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/deriving-type-erasure/' | relative_url }}">deriving type erasure</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
