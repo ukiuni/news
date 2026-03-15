@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/show-hn-what-if-your-synthesizer-was-powered-by-ap/' | relative_url }}">show hn what if your synthesizer was powered by ap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/show-hn-signet-autonomous-wildfire-tracking-from-s/' | relative_url }}">show hn signet autonomous wildfire tracking from s</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/rack-mount-hydroponics/' | relative_url }}">rack mount hydroponics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/one-hundred-curl-graphs/' | relative_url }}">one hundred curl graphs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
@@ -98,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/gothub-is-live/' | relative_url }}">gothub is live</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/glassworm-is-back-a-new-wave-of-invisible-unicode/' | relative_url }}">glassworm is back a new wave of invisible unicode</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
