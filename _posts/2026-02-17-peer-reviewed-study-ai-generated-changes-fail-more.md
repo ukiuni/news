@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Peer-reviewed study: AI-generated changes fail more often in unhealthy code (30%+ higher defect risk) - 査読済み研究：AI生成の変更は“不健康”なコードで失敗しやすく（欠陥リスク $30\%+$ 増）"
+title: 'Peer-reviewed study: AI-generated changes fail more often in unhealthy code (30%+ higher defect risk) - 査読済み研究：AI生成の変更は“不健康”なコードで失敗しやすく（欠陥リスク $30%+$ 増）'
 date: 2026-02-17T09:03:36.612Z
 categories: [tech, world-news]
 tags: [tech-news, japan]
 source_url: "https://codescene.com/hubfs/whitepapers/AI-Ready-Code-How-Code-Health-Determines-AI-Performance.pdf"
-source_title: "Peer-reviewed study: AI-generated changes fail more often in unhealthy code (30%+ higher defect risk)"
+source_title: 'Peer-reviewed study: AI-generated changes fail more often in unhealthy code (30%+ higher defect risk)'
 source_id: 440908048
-excerpt: "査読研究：不健康なコードではAI修正の欠陥リスクが$30\%+$増加"
+excerpt: '査読研究：不健康なコードではAI修正の欠陥リスクが$30%+$増加'
 ---
 
 # Peer-reviewed study: AI-generated changes fail more often in unhealthy code (30%+ higher defect risk) - 査読済み研究：AI生成の変更は“不健康”なコードで失敗しやすく（欠陥リスク $30\%+$ 増）

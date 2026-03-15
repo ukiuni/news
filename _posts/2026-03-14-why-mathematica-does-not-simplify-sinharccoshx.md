@@ -7,7 +7,7 @@ tags: [tech-news, japan]
 source_url: "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/"
 source_title: "Why Mathematica does not simplify Sinh[ArcCosh[x]]"
 source_id: 1115673848
-excerpt: "分岐と符号の定義ゆえに、Mathematicaは$\sinh(\operatorname{arccosh}x)$を$\sqrt{x^2-1}$に簡略化しない"
+excerpt: '分岐と符号の定義ゆえに、Mathematicaは$\sinh(\operatorname{arccosh}x)$を$\sqrt{x^2-1}$に簡略化しない'
 image: "https://www.johndcook.com/blog/wp-content/uploads/2022/05/twittercard.png"
 ---
 

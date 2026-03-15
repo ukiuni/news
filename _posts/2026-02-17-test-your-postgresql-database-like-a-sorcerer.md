@@ -48,12 +48,14 @@ DBのスキーマ変更やマイグレーションでの破壊的なバグは致
 - テンプレート／フィクスチャで再利用性アップ  
   - Spawnはminijinjaテンプレートを使える。マクロでINSERT文を生成したり、JSONフィクスチャを読み込んで一括投入することで、複数テスト間で同一データセットを共有可能。  
   - 重要な書き方例（抜粋）：
+    {% raw %}
     ```sql
     {% macro create_item(name, item_id="default"|safe, quantity_on_hand=1, price=1.23) %}
     INSERT INTO item (item_id, name, quantity_on_hand, price)
     VALUES ({{item_id}}, {{name}}, {{quantity_on_hand}}, {{price}});
     {% endmacro %}
     ```
+    {% endraw %}
     safeフィルタでSQLキーワード（defaultなど）をそのまま出力。
 
 - 実践的注意点  

@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/show-hn-lux-drop-in-redis-replacement-in-rust-56x/' | relative_url }}">show hn lux drop in redis replacement in rust 56x</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/show-hn-grobpaint-somewhere-between-ms-paint-and-p/' | relative_url }}">show hn grobpaint somewhere between ms paint and p</a></h3>
 </div>
 <div class="article-row">
@@ -186,6 +190,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/deriving-type-erasure/' | relative_url }}">deriving type erasure</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/canadas-bill-c-22-mandates-mass-metadata-surveilla/' | relative_url }}">canadas bill c 22 mandates mass metadata surveilla</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>

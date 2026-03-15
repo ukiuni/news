@@ -7,7 +7,7 @@ tags: [tech-news, japan]
 source_url: "https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.chatterjeexi.html"
 source_title: "chatterjeexi &#8212; SciPy v1.17.0 Manual"
 source_id: 47111092
-excerpt: "非単調関係も検出できるSciPyの新指標$\xi$で未知の依存性を発見しよう"
+excerpt: '非単調関係も検出できるSciPyの新指標$\xi$で未知の依存性を発見しよう'
 ---
 
 # Scipy.stats. Chatterjeexi - Scipy.stats.chatterjeexi（チャタージーの ξ 相関）
