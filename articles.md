@@ -129,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/i-let-claude-code-configure-my-arch-install/' | relative_url }}">i let claude code configure my arch install</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/humanities-in-the-machine/' | relative_url }}">humanities in the machine</a></h3>
 </div>
 <div class="article-row">
