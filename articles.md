@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/microsoft-hasnt-had-a-coherent-gui-strategy-since/' | relative_url }}">microsoft hasnt had a coherent gui strategy since</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/mathematics-distillation-challenge-equational-theo/' | relative_url }}">mathematics distillation challenge equational theo</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/how-kernel-anti-cheats-work-a-deep-dive-into-moder/' | relative_url }}">how kernel anti cheats work a deep dive into moder</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/gothub-is-live/' | relative_url }}">gothub is live</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
@@ -105,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/a-visual-introduction-to-machine-learning/' | relative_url }}">a visual introduction to machine learning</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/a-preview-of-coalton-20/' | relative_url }}">a preview of coalton 20</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/98-of-fortune-500-companies-use-ats-hiring-softwar/' | relative_url }}">98 of fortune 500 companies use ats hiring softwar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/96-3d-printed-rocket-that-recalculates-its-mid-air/' | relative_url }}">96 3d printed rocket that recalculates its mid air</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/14</span>
