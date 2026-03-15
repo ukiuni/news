@@ -221,6 +221,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/a-linux-distribution-designed-to-eliminate-single/' | relative_url }}">a linux distribution designed to eliminate single</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/98-of-fortune-500-companies-use-ats-hiring-softwar/' | relative_url }}">98 of fortune 500 companies use ats hiring softwar</a></h3>
 </div>
 <div class="article-row">
