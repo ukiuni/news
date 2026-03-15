@@ -101,7 +101,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/learning-athletic-humanoid-tennis-skills-from-impe/' | relative_url }}">learning athletic humanoid tennis skills from impe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/kniterate-notes/' | relative_url }}">kniterate notes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/in-memoriam-john-w-addison-my-phd-advisor/' | relative_url }}">in memoriam john w addison my phd advisor</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
@@ -118,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/hollywood-enters-oscars-weekend-in-existential-cri/' | relative_url }}">hollywood enters oscars weekend in existential cri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/grandparents-are-glued-to-their-phones-families-ar/' | relative_url }}">grandparents are glued to their phones families ar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
@@ -154,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/deriving-type-erasure/' | relative_url }}">deriving type erasure</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/c26-the-oxford-variadic-comma/' | relative_url }}">c26 the oxford variadic comma</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
