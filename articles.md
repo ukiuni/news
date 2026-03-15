@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/lotusnotes/' | relative_url }}">lotusnotes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/lies-i-was-told-about-collaborative-editing-part-2/' | relative_url }}">lies i was told about collaborative editing part 2</a></h3>
 </div>
 <div class="article-row">
