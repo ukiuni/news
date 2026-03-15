@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/what-makes-intel-optane-stand-out-2023/' | relative_url }}">what makes intel optane stand out 2023</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/umd-scientists-create-smart-underwear-to-measure-h/' | relative_url }}">umd scientists create smart underwear to measure h</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/two-react-design-choices-developers-dont-likebut-c/' | relative_url }}">two react design choices developers dont likebut c</a></h3>
 </div>
 <div class="article-row">
@@ -49,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/show-hn-gdsl-800-line-kernel-lisp-subset-in-500-c/' | relative_url }}">show hn gdsl 800 line kernel lisp subset in 500 c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/separating-the-wayland-compositor-and-window-manag/' | relative_url }}">separating the wayland compositor and window manag</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/library-of-short-stories/' | relative_url }}">library of short stories</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/15</span>
+  <h3><a href="{{ '/2026/03/15/kniterate-notes/' | relative_url }}">kniterate notes</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
