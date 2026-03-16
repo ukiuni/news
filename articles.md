@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/a-sane-directory-structure-for-software-projects/' | relative_url }}">a sane directory structure for software projects</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/a-new-bigfoot-documentary-helps-explain-our-conspi/' | relative_url }}">a new bigfoot documentary helps explain our conspi</a></h3>
 </div>
 <div class="article-row">
