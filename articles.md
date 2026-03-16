@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/how-far-can-you-go-with-ix-route-servers-only/' | relative_url }}">how far can you go with ix route servers only</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/electric-motor-scaling-laws-and-inertia-in-robot-a/' | relative_url }}">electric motor scaling laws and inertia in robot a</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/bandit-a-32bit-baremetal-computer-that-runs-color/' | relative_url }}">bandit a 32bit baremetal computer that runs color</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/anthropic-and-the-authoritarian-ethic/' | relative_url }}">anthropic and the authoritarian ethic</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
