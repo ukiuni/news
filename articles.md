@@ -13,11 +13,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/what-every-computer-scientist-should-know-about-fp/' | relative_url }}">what every computer scientist should know about fp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/the-linux-programming-interface-as-a-university-co/' | relative_url }}">the linux programming interface as a university co</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/llms-can-be-exhausting/' | relative_url }}">llms can be exhausting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/electric-motor-scaling-laws-and-inertia-in-robot-a/' | relative_url }}">electric motor scaling laws and inertia in robot a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
