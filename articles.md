@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/try-not-to-get-scammed-while-looking-for-work/' | relative_url }}">try not to get scammed while looking for work</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/the-linux-programming-interface-as-a-university-co/' | relative_url }}">the linux programming interface as a university co</a></h3>
 </div>
 <div class="article-row">
@@ -29,7 +33,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/kona-ev-hacking/' | relative_url }}">kona ev hacking</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/introducing-pgtui-a-postgres-tui-client/' | relative_url }}">introducing pgtui a postgres tui client</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/i-built-echohr-the-hr-system-that-doesnt-ghost-you/' | relative_url }}">i built echohr the hr system that doesnt ghost you</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
