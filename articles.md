@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/why-are-event-driven-systems-hard/' | relative_url }}">why are event driven systems hard</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/what-is-agentic-engineering/' | relative_url }}">what is agentic engineering</a></h3>
 </div>
 <div class="article-row">
@@ -21,11 +25,39 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/what-do-you-do-in-your-work-free-days/' | relative_url }}">what do you do in your work free days</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/wero-developer-insights-into-europes-paypal-altern/' | relative_url }}">wero developer insights into europes paypal altern</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/us-tech-giants-flocked-to-the-persian-gulf-now-the/' | relative_url }}">us tech giants flocked to the persian gulf now the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/uber-founder-flees-california-for-texas-ahead-of-p/' | relative_url }}">uber founder flees california for texas ahead of p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/try-not-to-get-scammed-while-looking-for-work/' | relative_url }}">try not to get scammed while looking for work</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/the-rise-of-malicious-repositories-on-github/' | relative_url }}">the rise of malicious repositories on github</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/the-linux-programming-interface-as-a-university-co/' | relative_url }}">the linux programming interface as a university co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/texas-was-on-the-cutting-edge-of-lab-grown-meat-un/' | relative_url }}">texas was on the cutting edge of lab grown meat un</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/tcl-lost-a-court-case-claiming-its-qled-tvs-arent/' | relative_url }}">tcl lost a court case claiming its qled tvs arent</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -41,7 +73,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/scientists-built-working-hair-follicles-in-a-lab-t/' | relative_url }}">scientists built working hair follicles in a lab t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/republicans-release-ai-deepfake-of-james-talarico/' | relative_url }}">republicans release ai deepfake of james talarico</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/pacer-makes-150myear-charging-americans-to-read-th/' | relative_url }}">pacer makes 150myear charging americans to read th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/notorious-uk-rights-group-launches-legal-action-ag/' | relative_url }}">notorious uk rights group launches legal action ag</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/llms-can-be-exhausting/' | relative_url }}">llms can be exhausting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/lawsuit-alleges-doge-cancelled-349000-hvac-grant-t/' | relative_url }}">lawsuit alleges doge cancelled 349000 hvac grant t</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -54,6 +106,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/i-built-echohr-the-hr-system-that-doesnt-ghost-you/' | relative_url }}">i built echohr the hr system that doesnt ghost you</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/i-almost-built-an-auth-system-for-a-blog-only-i-us/' | relative_url }}">i almost built an auth system for a blog only i us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/how-to-implement-the-outbox-pattern-in-go-and-post/' | relative_url }}">how to implement the outbox pattern in go and post</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -81,6 +141,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/deep-dive-into-the-api-versioning-in-spring-boot-4/' | relative_url }}">deep dive into the api versioning in spring boot 4</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/coding-agents-suck-at-the-xy-problem/' | relative_url }}">coding agents suck at the xy problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/cannabinoids-remove-plaque-forming-alzheimers-prot/' | relative_url }}">cannabinoids remove plaque forming alzheimers prot</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/a-new-bigfoot-documentary-helps-explain-our-conspi/' | relative_url }}">a new bigfoot documentary helps explain our conspi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/75-of-resumes-never-reach-a-human-the-new-rules-of/' | relative_url }}">75 of resumes never reach a human the new rules of</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
