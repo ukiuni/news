@@ -13,7 +13,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/why-are-we-still-doing-gpu-work-in-javascript-live/' | relative_url }}">why are we still doing gpu work in javascript live</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/why-are-event-driven-systems-hard/' | relative_url }}">why are event driven systems hard</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/where-does-engineering-go-retreat-findings-and-ins/' | relative_url }}">where does engineering go retreat findings and ins</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -150,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/lawsuit-alleges-doge-cancelled-349000-hvac-grant-t/' | relative_url }}">lawsuit alleges doge cancelled 349000 hvac grant t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/launch-hn-chamber-yc-w26-an-ai-teammate-for-gpu-in/' | relative_url }}">launch hn chamber yc w26 an ai teammate for gpu in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
