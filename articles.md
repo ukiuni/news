@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/the-are-you-sure-problem-why-ai-keeps-changing-its/' | relative_url }}">the are you sure problem why ai keeps changing its</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/texas-was-on-the-cutting-edge-of-lab-grown-meat-un/' | relative_url }}">texas was on the cutting edge of lab grown meat un</a></h3>
 </div>
 <div class="article-row">
@@ -101,6 +105,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/new-data-shows-increase-in-fbi-searches-of-america/' | relative_url }}">new data shows increase in fbi searches of america</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/making-payload-search-60x-faster-in-clickhouse/' | relative_url }}">making payload search 60x faster in clickhouse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/llms-can-be-exhausting/' | relative_url }}">llms can be exhausting</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/introducing-pgtui-a-postgres-tui-client/' | relative_url }}">introducing pgtui a postgres tui client</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/interactive-rubber-ducking-with-genai/' | relative_url }}">interactive rubber ducking with genai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -161,6 +177,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/comparing-python-type-checkers-typing-spec-conform/' | relative_url }}">comparing python type checkers typing spec conform</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/coding-agents-suck-at-the-xy-problem/' | relative_url }}">coding agents suck at the xy problem</a></h3>
 </div>
 <div class="article-row">
@@ -181,6 +201,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/another-internet-is-possible-norway-rails-against/' | relative_url }}">another internet is possible norway rails against</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/a-sane-directory-structure-for-software-projects/' | relative_url }}">a sane directory structure for software projects</a></h3>
 </div>
 <div class="article-row">
@@ -189,7 +213,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/90-of-code-will-be-ai-generated-so-what-the-hell-d/' | relative_url }}">90 of code will be ai generated so what the hell d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/75-of-resumes-never-reach-a-human-the-new-rules-of/' | relative_url }}">75 of resumes never reach a human the new rules of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/385tb-video-game-archive-saved-by-fans-myrient-has/' | relative_url }}">385tb video game archive saved by fans myrient has</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/15</span>
