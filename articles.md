@@ -8,6 +8,14 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/llms-can-be-exhausting/' | relative_url }}">llms can be exhausting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/a-new-bigfoot-documentary-helps-explain-our-conspi/' | relative_url }}">a new bigfoot documentary helps explain our conspi</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/15</span>
   <h3><a href="{{ '/2026/03/15/what-makes-intel-optane-stand-out-2023/' | relative_url }}">what makes intel optane stand out 2023</a></h3>
 </div>
