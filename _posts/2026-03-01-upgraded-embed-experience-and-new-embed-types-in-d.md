@@ -21,7 +21,7 @@ DEV（Forem）が投稿エディタに「ペーストで埋め込み」ポップ
 ブログや技術記事で外部デモやインタラクティブなAIツールを手早く埋め込みたい日本のエンジニア／技術ライターにとって、投稿体験が格段に簡単かつ信頼性の高いものになったため。
 
 ## 詳細解説
-- 新UX：本文にURLを貼るとカーソル付近にポップオーバーが出現し、ワンクリックでそのURLをLiquid埋め込みタグ（{% embed <url> %}）に変換。5秒で自動消去、キー入力でも閉じる。任意のURLで動作する（5サービス限定ではない）。
+- 新UX：本文にURLを貼るとカーソル付近にポップオーバーが出現し、ワンクリックでそのURLをLiquid埋め込みタグ（{% raw %}{% embed <url> %}{% endraw %}）に変換。5秒で自動消去、キー入力でも閉じる。任意のURLで動作する（5サービス限定ではない）。
 - 新たに公式サポートされた埋め込み種：
   - Lovable（*.lovable.app） — iframe
   - Bolt.new（bolt.new / *.bolt.host） — iframe
@@ -33,15 +33,17 @@ DEV（Forem）が投稿エディタに「ペーストで埋め込み」ポップ
 - 検討したが未採用のサービス：Claudebin（非公開パラメータ必要）、Streamlit（SameSiteクッキーによるiframeリダイレクト問題）、ChatGPT/Amp/Cursor（埋め込み可能な共有URLがないかCSPでブロック）。
 - テスト：Ruby／JavaScriptのテスト群が整備され、主要ケースがパス済み。
 
-例（投稿内で使うタグ）
+例（投稿内で使うタグ)
+{% raw %}
 ```liquid
 {% embed https://huggingface.co/spaces/KittenML/KittenTTS-Demo %}
 {% embed https://iconstack.lovable.app/ %}
 {% embed https://app.warp.dev/block/JjdoVfeKebVSw8wiykuDag %}
 ```
+{% endraw %}
 
 ## 実践ポイント
-- 書き方：記事本文に埋め込みたいURLを貼り、表示された「Embed」ボタンをクリックするだけで {% embed <url> %} に変換される。プレビュー／公開でiframeとして動作を確認。
+  - 書き方：記事本文に埋め込みたいURLを貼り、表示された「Embed」ボタンをクリックするだけで {% raw %}{% embed <url> %}{% endraw %} に変換される。プレビュー／公開でiframeとして動作を確認。
 - 日本での活用例：HuggingFaceの日本語モデルデモやデータセット、Warpのターミナル共有、Boltで作ったダッシュボード、Lovableのアイコンプレビューなどを記事内で手早く紹介可能。技術ブログやハンズオン記事の説得力が増す。
 - 注意点：サポート外のサービスはCSPやSameSiteの制約で埋め込めないことがあるため、埋め込みに失敗したら通常リンクやスクリーンショットの併用を検討する。改善要望はDEVのコメントで提案可能。
 
