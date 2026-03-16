@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/why-i-love-freebsd/' | relative_url }}">why i love freebsd</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/what-is-agentic-engineering/' | relative_url }}">what is agentic engineering</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/stop-sloppypasta/' | relative_url }}">stop sloppypasta</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/six-ingenious-ways-how-canon-dslrs-used-to-illumin/' | relative_url }}">six ingenious ways how canon dslrs used to illumin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -50,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/how-far-can-you-go-with-ix-route-servers-only/' | relative_url }}">how far can you go with ix route servers only</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/good-haskell-libraries/' | relative_url }}">good haskell libraries</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
