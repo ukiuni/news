@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/palestinian-boy-12-describes-how-israeli-forces-ki/' | relative_url }}">palestinian boy 12 describes how israeli forces ki</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/pacer-makes-150myear-charging-americans-to-read-th/' | relative_url }}">pacer makes 150myear charging americans to read th</a></h3>
 </div>
 <div class="article-row">
@@ -149,11 +153,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/language-model-teams-as-distrbuted-systems/' | relative_url }}">language model teams as distrbuted systems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/kona-ev-hacking/' | relative_url }}">kona ev hacking</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/kevin-boone-the-small-web-is-bigger-than-you-might/' | relative_url }}">kevin boone the small web is bigger than you might</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/jemalloc-un-abandoned-by-meta/' | relative_url }}">jemalloc un abandoned by meta</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -194,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/good-haskell-libraries/' | relative_url }}">good haskell libraries</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/gleam-v1150-released/' | relative_url }}">gleam v1150 released</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
