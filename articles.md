@@ -133,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/nvidia-launches-vera-cpu-purpose-built-for-agentic/' | relative_url }}">nvidia launches vera cpu purpose built for agentic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/notorious-uk-rights-group-launches-legal-action-ag/' | relative_url }}">notorious uk rights group launches legal action ag</a></h3>
 </div>
 <div class="article-row">
