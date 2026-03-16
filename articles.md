@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/what-is-agentic-engineering/' | relative_url }}">what is agentic engineering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/the-linux-programming-interface-as-a-university-co/' | relative_url }}">the linux programming interface as a university co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/llms-can-be-exhausting/' | relative_url }}">llms can be exhausting</a></h3>
 </div>
 <div class="article-row">
