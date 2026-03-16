@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/speed-at-the-cost-of-quality-study-of-use-of-curso/' | relative_url }}">speed at the cost of quality study of use of curso</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/six-ingenious-ways-how-canon-dslrs-used-to-illumin/' | relative_url }}">six ingenious ways how canon dslrs used to illumin</a></h3>
 </div>
 <div class="article-row">
@@ -146,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/kona-ev-hacking/' | relative_url }}">kona ev hacking</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/kevin-boone-the-small-web-is-bigger-than-you-might/' | relative_url }}">kevin boone the small web is bigger than you might</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -217,6 +225,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/cert-authorities-check-for-dnssec-from-today/' | relative_url }}">cert authorities check for dnssec from today</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/cannabinoids-remove-plaque-forming-alzheimers-prot/' | relative_url }}">cannabinoids remove plaque forming alzheimers prot</a></h3>
 </div>
 <div class="article-row">
@@ -225,11 +237,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/apideck-cli-an-ai-agent-interface-with-much-lower/' | relative_url }}">apideck cli an ai agent interface with much lower</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/anthropic-and-the-authoritarian-ethic/' | relative_url }}">anthropic and the authoritarian ethic</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/another-internet-is-possible-norway-rails-against/' | relative_url }}">another internet is possible norway rails against</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/ai-is-making-ceos-delusional/' | relative_url }}">ai is making ceos delusional</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
