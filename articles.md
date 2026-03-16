@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/when-perfection-is-table-stakes/' | relative_url }}">when perfection is table stakes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/what-is-agentic-engineering/' | relative_url }}">what is agentic engineering</a></h3>
 </div>
 <div class="article-row">
@@ -53,11 +57,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/us-commercial-insurers-pay-254-of-medicare-for-the/' | relative_url }}">us commercial insurers pay 254 of medicare for the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/uber-founder-flees-california-for-texas-ahead-of-p/' | relative_url }}">uber founder flees california for texas ahead of p</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/try-not-to-get-scammed-while-looking-for-work/' | relative_url }}">try not to get scammed while looking for work</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/this-is-just-a-garbage-ai-filter-nvidia-met-with-c/' | relative_url }}">this is just a garbage ai filter nvidia met with c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -101,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/show-hn-oxyde-pydantic-native-async-orm-with-a-rus/' | relative_url }}">show hn oxyde pydantic native async orm with a rus</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/show-hn-hackerbrief-top-posts-on-hacker-news-summa/' | relative_url }}">show hn hackerbrief top posts on hacker news summa</a></h3>
 </div>
 <div class="article-row">
@@ -121,11 +137,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/reddit-user-uncovers-who-is-behind-metas-2b-lobbyi/' | relative_url }}">reddit user uncovers who is behind metas 2b lobbyi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/react-like-jsx-syntax-for-webcomponents/' | relative_url }}">react like jsx syntax for webcomponents</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/polymarket-gamblers-threaten-to-kill-me-over-iran/' | relative_url }}">polymarket gamblers threaten to kill me over iran</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/pokmon-go-players-unknowingly-trained-delivery-rob/' | relative_url }}">pokmon go players unknowingly trained delivery rob</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -193,6 +217,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/keeping-secrets-out-of-logs/' | relative_url }}">keeping secrets out of logs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/jemalloc-un-abandoned-by-meta/' | relative_url }}">jemalloc un abandoned by meta</a></h3>
 </div>
 <div class="article-row">
@@ -233,6 +261,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/grandmother-spent-six-months-in-jail-after-ai-faci/' | relative_url }}">grandmother spent six months in jail after ai faci</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/good-haskell-libraries/' | relative_url }}">good haskell libraries</a></h3>
 </div>
 <div class="article-row">
@@ -245,6 +277,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/federal-judge-blocks-rfk-jrs-changes-to-childhood/' | relative_url }}">federal judge blocks rfk jrs changes to childhood</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/even-faster-asin-was-staring-right-at-me/' | relative_url }}">even faster asin was staring right at me</a></h3>
 </div>
 <div class="article-row">
@@ -254,6 +290,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/deep-dive-into-the-api-versioning-in-spring-boot-4/' | relative_url }}">deep dive into the api versioning in spring boot 4</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/database-sharding/' | relative_url }}">database sharding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/cubas-power-system-suffers-total-collapse/' | relative_url }}">cubas power system suffers total collapse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -281,6 +325,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/benjamin-netanyahu-is-struggling-to-prove-hes-not/' | relative_url }}">benjamin netanyahu is struggling to prove hes not</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/bandit-a-32bit-baremetal-computer-that-runs-color/' | relative_url }}">bandit a 32bit baremetal computer that runs color</a></h3>
 </div>
 <div class="article-row">
@@ -302,6 +350,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/a-sane-directory-structure-for-software-projects/' | relative_url }}">a sane directory structure for software projects</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/a-practical-step-by-step-guide-to-debugging-a-real/' | relative_url }}">a practical step by step guide to debugging a real</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
