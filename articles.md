@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/starlink-mini-as-a-failover/' | relative_url }}">starlink mini as a failover</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/six-ingenious-ways-how-canon-dslrs-used-to-illumin/' | relative_url }}">six ingenious ways how canon dslrs used to illumin</a></h3>
 </div>
 <div class="article-row">
@@ -53,11 +57,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/how-to-get-money-from-the-government-for-your-open/' | relative_url }}">how to get money from the government for your open</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/how-i-write-software-with-llms/' | relative_url }}">how i write software with llms</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/how-far-can-you-go-with-ix-route-servers-only/' | relative_url }}">how far can you go with ix route servers only</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/home-assistant-waters-my-plants/' | relative_url }}">home assistant waters my plants</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
