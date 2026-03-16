@@ -21,7 +21,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/stop-sloppypasta/' | relative_url }}">stop sloppypasta</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/llms-can-be-exhausting/' | relative_url }}">llms can be exhausting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/introducing-pgtui-a-postgres-tui-client/' | relative_url }}">introducing pgtui a postgres tui client</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/how-i-write-software-with-llms/' | relative_url }}">how i write software with llms</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
