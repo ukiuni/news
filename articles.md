@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/the-gemini-protocol-in-2026/' | relative_url }}">the gemini protocol in 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/the-are-you-sure-problem-why-ai-keeps-changing-its/' | relative_url }}">the are you sure problem why ai keeps changing its</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/show-hn-hackerbrief-top-posts-on-hacker-news-summa/' | relative_url }}">show hn hackerbrief top posts on hacker news summa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/show-hn-claude-code-skills-that-build-complete-god/' | relative_url }}">show hn claude code skills that build complete god</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -150,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/mod-sources-warn-palantir-role-at-heart-of-governm/' | relative_url }}">mod sources warn palantir role at heart of governm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/mistral-releases-leanstral/' | relative_url }}">mistral releases leanstral</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -226,6 +238,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/gleam-v1150-released/' | relative_url }}">gleam v1150 released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/free-airport-ride-exchange-platform/' | relative_url }}">free airport ride exchange platform</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
