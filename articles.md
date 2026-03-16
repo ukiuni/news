@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/us-job-market-visualizer-andrej-karpathy/' | relative_url }}">us job market visualizer andrej karpathy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/uber-founder-flees-california-for-texas-ahead-of-p/' | relative_url }}">uber founder flees california for texas ahead of p</a></h3>
 </div>
 <div class="article-row">
@@ -81,7 +85,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/show-hn-hackerbrief-top-posts-on-hacker-news-summa/' | relative_url }}">show hn hackerbrief top posts on hacker news summa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/scientists-built-working-hair-follicles-in-a-lab-t/' | relative_url }}">scientists built working hair follicles in a lab t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/reviewing-large-changes-with-jujutsu/' | relative_url }}">reviewing large changes with jujutsu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -110,6 +122,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/new-data-shows-increase-in-fbi-searches-of-america/' | relative_url }}">new data shows increase in fbi searches of america</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/my-journey-to-a-reliable-and-enjoyable-locally-hos/' | relative_url }}">my journey to a reliable and enjoyable locally hos</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/mod-sources-warn-palantir-role-at-heart-of-governm/' | relative_url }}">mod sources warn palantir role at heart of governm</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
@@ -166,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/good-haskell-libraries/' | relative_url }}">good haskell libraries</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/16</span>
+  <h3><a href="{{ '/2026/03/16/even-faster-asin-was-staring-right-at-me/' | relative_url }}">even faster asin was staring right at me</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
