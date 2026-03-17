@@ -41,6 +41,22 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/the-environmental-cost-of-datacentres-is-rising-is/' | relative_url }}">the environmental cost of datacentres is rising is</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/the-7-unwritten-laws-of-software-engineering/' | relative_url }}">the 7 unwritten laws of software engineering</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/stop-typing-sudo-every-time-this-tool-will-do-it-f/' | relative_url }}">stop typing sudo every time this tool will do it f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/silicon-valleys-pronatalists-killed-wfh-the-strait/' | relative_url }}">silicon valleys pronatalists killed wfh the strait</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/show-hn-trackm-a-personal-finance-web-app/' | relative_url }}">show hn trackm a personal finance web app</a></h3>
 </div>
 <div class="article-row">
@@ -77,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/opensuse-kalpa/' | relative_url }}">opensuse kalpa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/openclaw-is-a-security-nightmare-dressed-up-as-a-d/' | relative_url }}">openclaw is a security nightmare dressed up as a d</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/memory-allocation-strategies/' | relative_url }}">memory allocation strategies</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/linkedin-speak-was-added-to-kagi-translate/' | relative_url }}">linkedin speak was added to kagi translate</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
@@ -102,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/jepsen-mariadb-galera-cluster-1212/' | relative_url }}">jepsen mariadb galera cluster 1212</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/java-26-released-today/' | relative_url }}">java 26 released today</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
@@ -130,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/font-smuggler-copy-hidden-brand-fonts-into-google/' | relative_url }}">font smuggler copy hidden brand fonts into google</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/finding-a-cpu-design-bug-in-the-xbox-360/' | relative_url }}">finding a cpu design bug in the xbox 360</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
@@ -182,6 +214,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/age-gating-isnt-about-kids-its-about-control/' | relative_url }}">age gating isnt about kids its about control</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/a-sufficiently-detailed-spec-is-code/' | relative_url }}">a sufficiently detailed spec is code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/a-couple-of-git-nits/' | relative_url }}">a couple of git nits</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
