@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/the-internet-is-getting-quieter-who-will-feed-the/' | relative_url }}">the internet is getting quieter who will feed the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/show-hn-trackm-a-personal-finance-web-app/' | relative_url }}">show hn trackm a personal finance web app</a></h3>
 </div>
 <div class="article-row">
@@ -41,7 +45,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/kagi-translate-now-supports-linkedin-speak-as-an-o/' | relative_url }}">kagi translate now supports linkedin speak as an o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/in-space-no-one-can-hear-you-kernel-panic/' | relative_url }}">in space no one can hear you kernel panic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/hacking-the-xbox-one/' | relative_url }}">hacking the xbox one</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
