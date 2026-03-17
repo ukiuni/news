@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/jepsen-mariadb-galera-cluster-1212/' | relative_url }}">jepsen mariadb galera cluster 1212</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/in-space-no-one-can-hear-you-kernel-panic/' | relative_url }}">in space no one can hear you kernel panic</a></h3>
 </div>
 <div class="article-row">
@@ -57,7 +61,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/gitana-18-the-new-flying-ultim-trimaran/' | relative_url }}">gitana 18 the new flying ultim trimaran</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/every-layer-of-review-makes-you-10x-slower/' | relative_url }}">every layer of review makes you 10x slower</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/claude-tips-for-3d-work/' | relative_url }}">claude tips for 3d work</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
