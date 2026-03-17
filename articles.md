@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/typenix-full-typing-for-nix-based-on-typescript/' | relative_url }}">typenix full typing for nix based on typescript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/show-hn-trackm-a-personal-finance-web-app/' | relative_url }}">show hn trackm a personal finance web app</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/capacity-is-the-roadmap/' | relative_url }}">capacity is the roadmap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/canopy-height-maps-v2/' | relative_url }}">canopy height maps v2</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
