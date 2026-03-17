@@ -21,6 +21,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/the-unlikely-story-of-teardown-multiplayer/' | relative_url }}">the unlikely story of teardown multiplayer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/the-silent-struggle-anxiety-in-software-developmen/' | relative_url }}">the silent struggle anxiety in software developmen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/the-internet-is-getting-quieter-who-will-feed-the/' | relative_url }}">the internet is getting quieter who will feed the</a></h3>
 </div>
 <div class="article-row">
@@ -37,7 +45,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/sci-fi-short-film-there-is-no-antimemetics-divisio/' | relative_url }}">sci fi short film there is no antimemetics divisio</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/monkey-island-for-commodore-64-ground-up/' | relative_url }}">monkey island for commodore 64 ground up</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/memory-allocation-strategies/' | relative_url }}">memory allocation strategies</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
