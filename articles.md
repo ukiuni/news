@@ -13,6 +13,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/yes-all-longest-regex-matches-in-linear-time-is-po/' | relative_url }}">yes all longest regex matches in linear time is po</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/why-nodejs-needs-a-virtual-file-system/' | relative_url }}">why nodejs needs a virtual file system</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/what-ci-looks-like-at-a-100-person-team-posthog/' | relative_url }}">what ci looks like at a 100 person team posthog</a></h3>
 </div>
 <div class="article-row">
@@ -153,6 +161,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/give-django-your-time-and-money-not-your-tokens/' | relative_url }}">give django your time and money not your tokens</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/gitana-18-the-new-flying-ultim-trimaran/' | relative_url }}">gitana 18 the new flying ultim trimaran</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/finding-a-cpu-design-bug-in-the-xbox-360/' | relative_url }}">finding a cpu design bug in the xbox 360</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/ffmpeg-81/' | relative_url }}">ffmpeg 81</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
