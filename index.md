@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、企業が待たずに自前でAIを導入して脅威検知を強化する一方、PyodideやWebAssembly、OTelといった基盤技術が躍進している🤖⚙️。AIの商用化はCEOの過信やEncyclopedia Britannica対OpenAIの訴訟、雇用縮小を巡る議会の追及など規制・倫理問題を激化させている⚖️🤯。加えてOpenClawのようなセキュリティリスクや富豪の慈善方針の揺らぎが浮上し、革新と混乱が同時進行する山場を迎えている🛡️💥
+    今日のテック業界では、オープンソース化や内製化の波が強まり、シェル構築やViktorのリバースエンジニアリング、銀行の自前AI脅威ハンターなど“作る力”が前面に出ています🔧🤖🛡️。PyodideやWebAssembly、OTelネイティブといった基盤技術の進化が開発スタックを再定義し、Kagi Small Webのような軽量なウェブ体験も注目されています🌐⚙️。ただし、OpenClawの脆弱性やCEOの過信、エリザベス・ウォーレンによるレイオフ追及が示す通り、安全性・規制・倫理の議論はこれまでになく重要になっています🔥⚖️
   </div>
 </div>

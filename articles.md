@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/reverse-engineering-viktor-and-making-it-open-sour/' | relative_url }}">reverse engineering viktor and making it open sour</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/pyodide-a-python-distribution-based-on-webassembly/' | relative_url }}">pyodide a python distribution based on webassembly</a></h3>
 </div>
 <div class="article-row">
@@ -126,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/canopy-height-maps-v2/' | relative_url }}">canopy height maps v2</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/building-a-shell/' | relative_url }}">building a shell</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
