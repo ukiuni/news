@@ -49,6 +49,22 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/pyodide-a-python-distribution-based-on-webassembly/' | relative_url }}">pyodide a python distribution based on webassembly</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/peter-thiel-is-actively-convincing-billionaires-to/' | relative_url }}">peter thiel is actively convincing billionaires to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/otel-native-by-design/' | relative_url }}">otel native by design</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/openclaw-is-a-security-nightmare-dressed-up-as-a-d/' | relative_url }}">openclaw is a security nightmare dressed up as a d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/monkey-island-for-commodore-64-ground-up/' | relative_url }}">monkey island for commodore 64 ground up</a></h3>
 </div>
 <div class="article-row">
@@ -85,6 +101,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/encyclopedia-britannica-is-suing-openai-for-allege/' | relative_url }}">encyclopedia britannica is suing openai for allege</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/elizabeth-warren-asks-meta-amazon-and-others-why-t/' | relative_url }}">elizabeth warren asks meta amazon and others why t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/claude-tips-for-3d-work/' | relative_url }}">claude tips for 3d work</a></h3>
 </div>
 <div class="article-row">
@@ -102,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/beyond-has-dropped-meat-from-its-name-and-expanded/' | relative_url }}">beyond has dropped meat from its name and expanded</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/ai-is-making-ceos-delusional/' | relative_url }}">ai is making ceos delusional</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
