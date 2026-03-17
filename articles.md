@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/zenclora-os/' | relative_url }}">zenclora os</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/us-sec-preparing-to-scrap-quarterly-reporting-requ/' | relative_url }}">us sec preparing to scrap quarterly reporting requ</a></h3>
 </div>
 <div class="article-row">
@@ -29,7 +33,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/monkey-island-for-commodore-64-ground-up/' | relative_url }}">monkey island for commodore 64 ground up</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/lf-lean-the-frontier-of-verified-software-engineer/' | relative_url }}">lf lean the frontier of verified software engineer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/in-space-no-one-can-hear-you-kernel-panic/' | relative_url }}">in space no one can hear you kernel panic</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/every-layer-of-review-makes-you-10x-slower/' | relative_url }}">every layer of review makes you 10x slower</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
