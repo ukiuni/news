@@ -8,6 +8,26 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/us-sec-preparing-to-scrap-quarterly-reporting-requ/' | relative_url }}">us sec preparing to scrap quarterly reporting requ</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/show-hn-trackm-a-personal-finance-web-app/' | relative_url }}">show hn trackm a personal finance web app</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/show-hn-thermal-receipt-printers-markdown-and-web/' | relative_url }}">show hn thermal receipt printers markdown and web</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/capacity-is-the-roadmap/' | relative_url }}">capacity is the roadmap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/bone-chilling-gamblers-vowing-to-kill-journalist-u/' | relative_url }}">bone chilling gamblers vowing to kill journalist u</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/16</span>
   <h3><a href="{{ '/2026/03/16/why-i-love-freebsd/' | relative_url }}">why i love freebsd</a></h3>
 </div>
