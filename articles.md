@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/syntaqlite-high-fidelity-devtools-that-sqlite-dese/' | relative_url }}">syntaqlite high fidelity devtools that sqlite dese</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/stop-typing-sudo-every-time-this-tool-will-do-it-f/' | relative_url }}">stop typing sudo every time this tool will do it f</a></h3>
 </div>
 <div class="article-row">
@@ -73,7 +77,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/show-hn-march-madness-bracket-challenge-for-ai-age/' | relative_url }}">show hn march madness bracket challenge for ai age</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/show-hn-gitclassiccom-a-fast-lightweight-github-th/' | relative_url }}">show hn gitclassiccom a fast lightweight github th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/show-hn-antfly-distributed-multimodal-search-and-m/' | relative_url }}">show hn antfly distributed multimodal search and m</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
@@ -110,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/monkey-island-for-commodore-64-ground-up/' | relative_url }}">monkey island for commodore 64 ground up</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/microsofts-unhackable-xbox-one-has-been-hacked-by/' | relative_url }}">microsofts unhackable xbox one has been hacked by</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
