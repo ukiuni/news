@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/what-ci-looks-like-at-a-100-person-team-posthog/' | relative_url }}">what ci looks like at a 100 person team posthog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/us-sec-preparing-to-scrap-quarterly-reporting-requ/' | relative_url }}">us sec preparing to scrap quarterly reporting requ</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/reverse-engineering-viktor-and-making-it-open-sour/' | relative_url }}">reverse engineering viktor and making it open sour</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/reddit-user-uncovers-who-is-behind-metas-2b-lobbyi/' | relative_url }}">reddit user uncovers who is behind metas 2b lobbyi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
@@ -97,7 +105,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/i-wrote-an-article-about-how-i-first-started-to-pr/' | relative_url }}">i wrote an article about how i first started to pr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/hacking-the-xbox-one/' | relative_url }}">hacking the xbox one</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/gummy-geometry/' | relative_url }}">gummy geometry</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
@@ -146,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/ai-is-making-ceos-delusional/' | relative_url }}">ai is making ceos delusional</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/age-gating-isnt-about-kids-its-about-control/' | relative_url }}">age gating isnt about kids its about control</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
