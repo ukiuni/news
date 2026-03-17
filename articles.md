@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/the-road-not-taken-a-world-where-ipv4-evolved/' | relative_url }}">the road not taken a world where ipv4 evolved</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/the-internet-is-getting-quieter-who-will-feed-the/' | relative_url }}">the internet is getting quieter who will feed the</a></h3>
 </div>
 <div class="article-row">
@@ -125,11 +129,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/font-smuggler-copy-hidden-brand-fonts-into-google/' | relative_url }}">font smuggler copy hidden brand fonts into google</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/every-layer-of-review-makes-you-10x-slower/' | relative_url }}">every layer of review makes you 10x slower</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/encyclopedia-britannica-is-suing-openai-for-allege/' | relative_url }}">encyclopedia britannica is suing openai for allege</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/enabling-efficient-sparse-computations-using-linea/' | relative_url }}">enabling efficient sparse computations using linea</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
@@ -158,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/beyond-has-dropped-meat-from-its-name-and-expanded/' | relative_url }}">beyond has dropped meat from its name and expanded</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/amazon-owes-new-york-city-almost-10-million-in-veh/' | relative_url }}">amazon owes new york city almost 10 million in veh</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
