@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/kagi-small-web/' | relative_url }}">kagi small web</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/jepsen-mariadb-galera-cluster-1212/' | relative_url }}">jepsen mariadb galera cluster 1212</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/hacking-the-xbox-one/' | relative_url }}">hacking the xbox one</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/grace-hoppers-revenge/' | relative_url }}">grace hoppers revenge</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
@@ -130,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/ai-is-making-ceos-delusional/' | relative_url }}">ai is making ceos delusional</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/17</span>
+  <h3><a href="{{ '/2026/03/17/a-bank-got-tired-of-waiting-for-vendors-and-built/' | relative_url }}">a bank got tired of waiting for vendors and built</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/16</span>
