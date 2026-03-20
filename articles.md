@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/visicalc-reconstructed/' | relative_url }}">visicalc reconstructed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/video-encoding-and-decoding-with-vulkan-compute-sh/' | relative_url }}">video encoding and decoding with vulkan compute sh</a></h3>
 </div>
 <div class="article-row">
@@ -57,11 +61,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/thousands-have-swooned-over-this-maga-dream-girl-s/' | relative_url }}">thousands have swooned over this maga dream girl s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/things-that-turbo-pascal-is-smaller-than-2011/' | relative_url }}">things that turbo pascal is smaller than 2011</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/the-soul-of-a-pedicab-driver/' | relative_url }}">the soul of a pedicab driver</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/the-social-smolnet/' | relative_url }}">the social smolnet</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/the-los-angeles-aqueduct-is-wild/' | relative_url }}">the los angeles aqueduct is wild</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -106,6 +122,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/push-events-into-a-running-session-with-channels/' | relative_url }}">push events into a running session with channels</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/pinterest-ceo-calls-for-ban-on-social-media-for-yo/' | relative_url }}">pinterest ceo calls for ban on social media for yo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/oregon-school-cell-phone-ban-engaged-students-joyf/' | relative_url }}">oregon school cell phone ban engaged students joyf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -294,6 +318,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/announcing-the-colab-mcp-server-connect-any-ai-age/' | relative_url }}">announcing the colab mcp server connect any ai age</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/anki-on-my-wrist/' | relative_url }}">anki on my wrist</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
