@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/why-your-next-mobile-app-is-probably-headless/' | relative_url }}">why your next mobile app is probably headless</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/whats-in-your-headphones-when-you-code/' | relative_url }}">whats in your headphones when you code</a></h3>
 </div>
 <div class="article-row">
@@ -97,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/super-micro-shares-plunge-25-after-co-founder-char/' | relative_url }}">super micro shares plunge 25 after co founder char</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/show-hn-three-new-kitten-tts-models-smallest-less/' | relative_url }}">show hn three new kitten tts models smallest less</a></h3>
 </div>
 <div class="article-row">
@@ -129,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/parallel-perl-autoparallelizing-interpreter-with-j/' | relative_url }}">parallel perl autoparallelizing interpreter with j</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/oregon-school-cell-phone-ban-engaged-students-joyf/' | relative_url }}">oregon school cell phone ban engaged students joyf</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/minecraft-source-code-is-interesting/' | relative_url }}">minecraft source code is interesting</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/microsoft-kb5079473-breaks-internet-access-to-wind/' | relative_url }}">microsoft kb5079473 breaks internet access to wind</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -230,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/fsf-threatens-anthropic-over-infringed-copyright-s/' | relative_url }}">fsf threatens anthropic over infringed copyright s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/frances-aircraft-carrier-located-in-real-time-by-l/' | relative_url }}">frances aircraft carrier located in real time by l</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -326,6 +346,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/android-developer-verification-balancing-openness/' | relative_url }}">android developer verification balancing openness</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/all-the-wrong-evs-are-getting-canceled/' | relative_url }}">all the wrong evs are getting canceled</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
