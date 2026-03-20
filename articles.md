@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/work_mem-its-a-trap/' | relative_url }}">work_mem its a trap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/windows-11s-free-video-editor-clipchamp-now-requir/' | relative_url }}">windows 11s free video editor clipchamp now requir</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/what-languages-is-arthur-whitney-style-code-possib/' | relative_url }}">what languages is arthur whitney style code possib</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/we-rewrote-our-rust-wasm-parser-in-typescript-and/' | relative_url }}">we rewrote our rust wasm parser in typescript and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -113,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/show-hn-we-built-a-terminal-only-bluesky-at-proto/' | relative_url }}">show hn we built a terminal only bluesky at proto</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/show-hn-three-new-kitten-tts-models-smallest-less/' | relative_url }}">show hn three new kitten tts models smallest less</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/oregon-school-cell-phone-ban-engaged-students-joyf/' | relative_url }}">oregon school cell phone ban engaged students joyf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/opencode-the-open-source-ai-coding-agent/' | relative_url }}">opencode the open source ai coding agent</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
