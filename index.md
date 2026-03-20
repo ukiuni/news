@@ -6,8 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、低レイテンシ・省メモリのアルゴリズムや言語／ツールチェーンの進化が目立ちます（Binary Fuse Filter、Delphi 13.1のARM64対応、Goのライブリロードなど）🔧。  
-同時に、Rustの課題やEmacsの内部設計、Attention Residualsといった研究的議論が続き、開発者体験とパフォーマンスの両立がホットトピックです🧠。  
-さらに、BYDのEV追い風やAndreessenを巡る論争、偽コンプライアンスサービスの登場が業界の倫理・経済的側面にも波紋を広げています。
+    今日のテック業界では、性能とツールの進化が目立ちつつ、UXと文化的議論が同時に沸騰しています。NumKongやBinary Fuse Filtersのような高速化・省メモリ化の話題、DelphiのARM64対応や静的サイトジェネレータへのライブリロード追加、そしてWindows品質への注力がインフラと開発体験を押し上げる一方で、オーダーメイドソフトへの懐疑や新しいUI／メール体験（Arc風）への注目が脱・常識を促しています。文化ネタから業界論争（Andreessen論評や箸の作法）まで多彩な話題が混在し、今日のニュースは技術と価値観のせめぎ合いを映しています。⚙️✨
   </div>
 </div>

@@ -97,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/the-bespoke-software-revolution-im-not-buying-it/' | relative_url }}">the bespoke software revolution im not buying it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/taking-a-look-at-compression-algorithms-moncef-abb/' | relative_url }}">taking a look at compression algorithms moncef abb</a></h3>
 </div>
 <div class="article-row">
@@ -110,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/show-hn-three-new-kitten-tts-models-smallest-less/' | relative_url }}">show hn three new kitten tts models smallest less</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/show-hn-i-made-an-email-app-inspired-by-arc-browse/' | relative_url }}">show hn i made an email app inspired by arc browse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -149,11 +157,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/our-commitment-to-windows-quality/' | relative_url }}">our commitment to windows quality</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/oregon-school-cell-phone-ban-engaged-students-joyf/' | relative_url }}">oregon school cell phone ban engaged students joyf</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/online-bot-traffic-will-exceed-human-traffic-by-20/' | relative_url }}">online bot traffic will exceed human traffic by 20</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/numkong-2000-mixed-precision-kernels-for-all/' | relative_url }}">numkong 2000 mixed precision kernels for all</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -418,6 +434,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/a-rogue-al-agent-triggered-a-major-security-alert/' | relative_url }}">a rogue al agent triggered a major security alert</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/a-japanese-glossary-of-chopsticks-faux-pas/' | relative_url }}">a japanese glossary of chopsticks faux pas</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
