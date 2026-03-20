@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/video-conferencing-with-durable-streams/' | relative_url }}">video conferencing with durable streams</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/no-semicolons-needed/' | relative_url }}">no semicolons needed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/minecraft-source-code-is-interesting/' | relative_url }}">minecraft source code is interesting</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -94,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/building-an-lsp-server-with-rust-is-surprisingly-e/' | relative_url }}">building an lsp server with rust is surprisingly e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/building-a-reader-for-the-smallest-hard-drive/' | relative_url }}">building a reader for the smallest hard drive</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
