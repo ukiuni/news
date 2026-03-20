@@ -173,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/lobsters-interview-with-internet_jannitor/' | relative_url }}">lobsters interview with internet_jannitor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/lets-write-a-kafka-style-commit-log-from-scratch/' | relative_url }}">lets write a kafka style commit log from scratch</a></h3>
 </div>
 <div class="article-row">
