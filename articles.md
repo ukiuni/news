@@ -93,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/drawvg-filter-for-ffmpeg/' | relative_url }}">drawvg filter for ffmpeg</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/congrats-to-the-winners-of-our-first-dev-weekend-c/' | relative_url }}">congrats to the winners of our first dev weekend c</a></h3>
 </div>
 <div class="article-row">
