@@ -8,6 +8,66 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/whats-in-your-headphones-when-you-code/' | relative_url }}">whats in your headphones when you code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/the-email-that-nearly-stopped-me-from-becoming-a-d/' | relative_url }}">the email that nearly stopped me from becoming a d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/show-hn-three-new-kitten-tts-models-smallest-less/' | relative_url }}">show hn three new kitten tts models smallest less</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/push-events-into-a-running-session-with-channels/' | relative_url }}">push events into a running session with channels</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/how-the-turner-twins-are-mythbusting-modern-techni/' | relative_url }}">how the turner twins are mythbusting modern techni</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/how-many-branches-can-your-cpu-predict/' | relative_url }}">how many branches can your cpu predict</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/google-details-new-24-hour-process-to-sideload-unv/' | relative_url }}">google details new 24 hour process to sideload unv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/full-disclosure-a-third-and-fourth-azure-sign-in-l/' | relative_url }}">full disclosure a third and fourth azure sign in l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/drugwars-for-the-ti-828383-calculators/' | relative_url }}">drugwars for the ti 828383 calculators</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/congrats-to-the-winners-of-our-first-dev-weekend-c/' | relative_url }}">congrats to the winners of our first dev weekend c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/cockpit-is-a-web-based-graphical-interface-for-ser/' | relative_url }}">cockpit is a web based graphical interface for ser</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/astral-to-join-openai/' | relative_url }}">astral to join openai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/announcing-the-colab-mcp-server-connect-any-ai-age/' | relative_url }}">announcing the colab mcp server connect any ai age</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/ai-is-creating-a-new-kind-of-tech-debt-and-nobody/' | relative_url }}">ai is creating a new kind of tech debt and nobody</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/17</span>
   <h3><a href="{{ '/2026/03/17/zenclora-os/' | relative_url }}">zenclora os</a></h3>
 </div>
