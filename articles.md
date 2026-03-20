@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/unified-modules-for-your-nixfiles/' | relative_url }}">unified modules for your nixfiles</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
 </div>
 <div class="article-row">
@@ -81,11 +85,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/schizophrenia-study-finds-new-biomarker-drug-candi/' | relative_url }}">schizophrenia study finds new biomarker drug candi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/root-from-the-parking-lot-openwrt-xss-through-ssid/' | relative_url }}">root from the parking lot openwrt xss through ssid</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/rfk-jr-has-destroyed-over-a-quarter-of-health-dept/' | relative_url }}">rfk jr has destroyed over a quarter of health dept</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/regex-blaster/' | relative_url }}">regex blaster</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -126,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/is-the-strategy-pattern-an-ultimate-solution-for-l/' | relative_url }}">is the strategy pattern an ultimate solution for l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/im-ok-being-left-behind-thanks/' | relative_url }}">im ok being left behind thanks</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
