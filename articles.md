@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/youtube-is-asking-users-if-videos-feel-like-ai-slo/' | relative_url }}">youtube is asking users if videos feel like ai slo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/windows-11s-free-video-editor-clipchamp-now-requir/' | relative_url }}">windows 11s free video editor clipchamp now requir</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/things-that-turbo-pascal-is-smaller-than-2011/' | relative_url }}">things that turbo pascal is smaller than 2011</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/the-soul-of-a-pedicab-driver/' | relative_url }}">the soul of a pedicab driver</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/the-fp-article-i-cant-seem-to-finish-cekremgithubi/' | relative_url }}">the fp article i cant seem to finish cekremgithubi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -141,11 +153,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/flash-kmeans-fast-and-memory-efficient-exact-k-mea/' | relative_url }}">flash kmeans fast and memory efficient exact k mea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/firefox-149-will-offer-a-free-built-in-vpn-split-v/' | relative_url }}">firefox 149 will offer a free built in vpn split v</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/fbi-admits-buying-americans-location-data-and-says/' | relative_url }}">fbi admits buying americans location data and says</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/enshittifaication/' | relative_url }}">enshittifaication</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -209,11 +229,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/ai-2014/' | relative_url }}">ai 2014</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/a-rogue-al-agent-triggered-a-major-security-alert/' | relative_url }}">a rogue al agent triggered a major security alert</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/4chan-mocks-520k-fine-for-uk-online-safety-breache/' | relative_url }}">4chan mocks 520k fine for uk online safety breache</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/3ms-pfas-exit-killed-the-supply-chain-for-two-phas/' | relative_url }}">3ms pfas exit killed the supply chain for two phas</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/100-kernel-bugs-in-30-days/' | relative_url }}">100 kernel bugs in 30 days</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
