@@ -249,6 +249,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/i-love-my-dumb-watches/' | relative_url }}">i love my dumb watches</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/hp-realizes-that-mandatory-15-minute-support-call/' | relative_url }}">hp realizes that mandatory 15 minute support call</a></h3>
 </div>
 <div class="article-row">
@@ -282,6 +286,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/google-details-new-24-hour-process-to-sideload-unv/' | relative_url }}">google details new 24 hour process to sideload unv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/ghostling/' | relative_url }}">ghostling</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
