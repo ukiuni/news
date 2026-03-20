@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/what-we-heard-about-rusts-challenges-and-how-we-ca/' | relative_url }}">what we heard about rusts challenges and how we ca</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/what-languages-is-arthur-whitney-style-code-possib/' | relative_url }}">what languages is arthur whitney style code possib</a></h3>
 </div>
 <div class="article-row">
@@ -165,6 +169,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/microsofts-return-to-office-policy-creates-a-retur/' | relative_url }}">microsofts return to office policy creates a retur</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/microsoft-kb5079473-breaks-internet-access-to-wind/' | relative_url }}">microsoft kb5079473 breaks internet access to wind</a></h3>
 </div>
 <div class="article-row">
@@ -285,6 +293,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/emacs-internal-01-is-a-lisp-runtime-in-c-not-an-ed/' | relative_url }}">emacs internal 01 is a lisp runtime in c not an ed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/drugwars-for-the-ti-828383-calculators/' | relative_url }}">drugwars for the ti 828383 calculators</a></h3>
 </div>
 <div class="article-row">
@@ -294,6 +306,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/detecting-defects-in-software-systems/' | relative_url }}">detecting defects in software systems</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/delve-fake-compliance-as-a-service/' | relative_url }}">delve fake compliance as a service</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/delphi-131-released-with-arm64-support/' | relative_url }}">delphi 131 released with arm64 support</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -321,6 +341,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/byds-bet-on-evs-is-paying-off-as-drivers-ditch-gas/' | relative_url }}">byds bet on evs is paying off as drivers ditch gas</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/building-an-lsp-server-with-rust-is-surprisingly-e/' | relative_url }}">building an lsp server with rust is surprisingly e</a></h3>
 </div>
 <div class="article-row">
@@ -330,6 +354,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/atuin-v1813-better-search-a-pty-proxy-and-ai-for-y/' | relative_url }}">atuin v1813 better search a pty proxy and ai for y</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/attention-residuals/' | relative_url }}">attention residuals</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -353,6 +381,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/amazon-prime-video-is-about-to-get-worse-again/' | relative_url }}">amazon prime video is about to get worse again</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/all-the-wrong-evs-are-getting-canceled/' | relative_url }}">all the wrong evs are getting canceled</a></h3>
 </div>
 <div class="article-row">
@@ -366,6 +398,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/ai-2014/' | relative_url }}">ai 2014</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/adding-live-reload-to-a-static-site-generator-writ/' | relative_url }}">adding live reload to a static site generator writ</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
