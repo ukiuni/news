@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、セキュリティの緊張感と言語・ツールの実験が同時に進行しています🔐🦀。OpenWRTのSSIDスキャン経由のXSSやAzureのサインインログ回避、Androidの開発者検証議論がプラットフォーム安全性と開放性を巡る議論を活発化させています。そんな中、Rust製のQUIC実装やLSPサーバー、Zigやセミコロン不要の記法、Arthur Whitney流の言語探究が開発者の創意を刺激し、AIが数学や設計の風景を塗り替えつつあります🤖.
+    今日のテック業界では、arXivの独立やAndroidの開発者認証議論が示すように、オープン性とガバナンスの再定義が進んでいます。OpenWRTのSSIDスキャンXSS（CVE-2026-32721）が実世界の脅威を露呈する一方で、*Rust*でのLSPやQUIC実装、セミコロン不要の言語への関心がツールとパラダイムの刷新を加速させています 🚀。AIが数学や言語設計にも影響を及ぼす今週は、イノベーションと安全性の両立が最大の注目点です 🔍
   </div>
 </div>

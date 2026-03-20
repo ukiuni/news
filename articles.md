@@ -89,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/arxiv-declares-independence-from-cornell/' | relative_url }}">arxiv declares independence from cornell</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/announcing-the-colab-mcp-server-connect-any-ai-age/' | relative_url }}">announcing the colab mcp server connect any ai age</a></h3>
 </div>
 <div class="article-row">
