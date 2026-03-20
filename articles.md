@@ -25,6 +25,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/wayland-set-the-linux-desktop-back-by-10-years/' | relative_url }}">wayland set the linux desktop back by 10 years</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/video-encoding-and-decoding-with-vulkan-compute-sh/' | relative_url }}">video encoding and decoding with vulkan compute sh</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/video-conferencing-with-durable-streams/' | relative_url }}">video conferencing with durable streams</a></h3>
 </div>
 <div class="article-row">
@@ -69,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/sebastian-lague-coding-adventure-synthesizing-musi/' | relative_url }}">sebastian lague coding adventure synthesizing musi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/root-from-the-parking-lot-openwrt-xss-through-ssid/' | relative_url }}">root from the parking lot openwrt xss through ssid</a></h3>
 </div>
 <div class="article-row">
@@ -105,6 +117,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/lets-write-a-kafka-style-commit-log-from-scratch/' | relative_url }}">lets write a kafka style commit log from scratch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/just-put-it-on-a-map/' | relative_url }}">just put it on a map</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/is-the-strategy-pattern-an-ultimate-solution-for-l/' | relative_url }}">is the strategy pattern an ultimate solution for l</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/how-the-turner-twins-are-mythbusting-modern-techni/' | relative_url }}">how the turner twins are mythbusting modern techni</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/how-much-has-ai-deskilled-you-quiz-of-sres/' | relative_url }}">how much has ai deskilled you quiz of sres</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -161,7 +185,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/figmas-stock-drops-12-in-two-days-after-google-rel/' | relative_url }}">figmas stock drops 12 in two days after google rel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/fedora-asahi-remix-43-is-now-available/' | relative_url }}">fedora asahi remix 43 is now available</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/fbi-admits-buying-americans-location-data-and-says/' | relative_url }}">fbi admits buying americans location data and says</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/entso-e-final-report-on-iberian-2025-blackout/' | relative_url }}">entso e final report on iberian 2025 blackout</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -190,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/congrats-to-the-winners-of-our-first-dev-weekend-c/' | relative_url }}">congrats to the winners of our first dev weekend c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/congrats-to-the-built-with-google-gemini-writing-c/' | relative_url }}">congrats to the built with google gemini writing c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
