@@ -77,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/fsf-threatens-anthropic-over-infringed-copyright-s/' | relative_url }}">fsf threatens anthropic over infringed copyright s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/drugwars-for-the-ti-828383-calculators/' | relative_url }}">drugwars for the ti 828383 calculators</a></h3>
 </div>
 <div class="article-row">
