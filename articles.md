@@ -13,7 +13,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/what-languages-is-arthur-whitney-style-code-possib/' | relative_url }}">what languages is arthur whitney style code possib</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/things-that-turbo-pascal-is-smaller-than-2011/' | relative_url }}">things that turbo pascal is smaller than 2011</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -25,7 +33,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/root-from-the-parking-lot-openwrt-xss-through-ssid/' | relative_url }}">root from the parking lot openwrt xss through ssid</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/push-events-into-a-running-session-with-channels/' | relative_url }}">push events into a running session with channels</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/noq-n0s-new-quic-implementation-in-rust/' | relative_url }}">noq n0s new quic implementation in rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/no-semicolons-needed/' | relative_url }}">no semicolons needed</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -38,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/google-details-new-24-hour-process-to-sideload-unv/' | relative_url }}">google details new 24 hour process to sideload unv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/getting-ziggy-with-it-re-factor/' | relative_url }}">getting ziggy with it re factor</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -57,11 +81,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/building-an-lsp-server-with-rust-is-surprisingly-e/' | relative_url }}">building an lsp server with rust is surprisingly e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/astral-to-join-openai/' | relative_url }}">astral to join openai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/announcing-the-colab-mcp-server-connect-any-ai-age/' | relative_url }}">announcing the colab mcp server connect any ai age</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/android-developer-verification-balancing-openness/' | relative_url }}">android developer verification balancing openness</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/ais-impact-on-mathematics-is-analogous-to-the-cars/' | relative_url }}">ais impact on mathematics is analogous to the cars</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
