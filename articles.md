@@ -129,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/related-ui-elements-should-not-appear-unrelated/' | relative_url }}">related ui elements should not appear unrelated</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/regex-blaster/' | relative_url }}">regex blaster</a></h3>
 </div>
 <div class="article-row">
@@ -178,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/microservices-and-the-first-law-of-distributed-obj/' | relative_url }}">microservices and the first law of distributed obj</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/marc-andreessen-is-a-philosophical-zombie-silicon/' | relative_url }}">marc andreessen is a philosophical zombie silicon</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -350,6 +358,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/building-a-reader-for-the-smallest-hard-drive/' | relative_url }}">building a reader for the smallest hard drive</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/binary-fuse-filters-fast-and-smaller-than-xor-filt/' | relative_url }}">binary fuse filters fast and smaller than xor filt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
