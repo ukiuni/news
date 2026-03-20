@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/to-be-a-better-programmer-write-little-proofs-in-y/' | relative_url }}">to be a better programmer write little proofs in y</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/things-that-turbo-pascal-is-smaller-than-2011/' | relative_url }}">things that turbo pascal is smaller than 2011</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/no-semicolons-needed/' | relative_url }}">no semicolons needed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/how-to-stop-babysitting-your-ai-agents/' | relative_url }}">how to stop babysitting your ai agents</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
@@ -106,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/20</span>
   <h3><a href="{{ '/2026/03/20/ai-is-creating-a-new-kind-of-tech-debt-and-nobody/' | relative_url }}">ai is creating a new kind of tech debt and nobody</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/20</span>
+  <h3><a href="{{ '/2026/03/20/4chan-mocks-520k-fine-for-uk-online-safety-breache/' | relative_url }}">4chan mocks 520k fine for uk online safety breache</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/17</span>
