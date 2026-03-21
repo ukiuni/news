@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/predicting-home-electricity-usage-based-on-histori/' | relative_url }}">predicting home electricity usage based on histori</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/pigeons-device/' | relative_url }}">pigeons device</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/fujifilm-x-raw-studio-webapp-clone/' | relative_url }}">fujifilm x raw studio webapp clone</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/former-fbi-director-robert-mueller-has-died/' | relative_url }}">former fbi director robert mueller has died</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
