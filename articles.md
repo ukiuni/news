@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/ubuntu-2604-ends-46-years-of-silent-sudo-passwords/' | relative_url }}">ubuntu 2604 ends 46 years of silent sudo passwords</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/turing-award-honors-bennett-and-brassard-for-quant/' | relative_url }}">turing award honors bennett and brassard for quant</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/lent-and-lisp/' | relative_url }}">lent and lisp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/google-adds-24-hour-wait-and-mandatory-reboot-to-a/' | relative_url }}">google adds 24 hour wait and mandatory reboot to a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/fujifilm-x-raw-studio-webapp-clone/' | relative_url }}">fujifilm x raw studio webapp clone</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
