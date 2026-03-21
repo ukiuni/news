@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/why-craft-lovers-are-losing-their-craft/' | relative_url }}">why craft lovers are losing their craft</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/what-creative-technical-outlets-of-yours-have-been/' | relative_url }}">what creative technical outlets of yours have been</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/is-simple-actually-good/' | relative_url }}">is simple actually good</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/how-hn-ironkernel-python-expressions-rust-parallel/' | relative_url }}">how hn ironkernel python expressions rust parallel</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
