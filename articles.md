@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/trivy-compromised-a-second-time-malicious-v0694-re/' | relative_url }}">trivy compromised a second time malicious v0694 re</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/linux-applications-programming-by-example-the-fund/' | relative_url }}">linux applications programming by example the fund</a></h3>
 </div>
 <div class="article-row">
