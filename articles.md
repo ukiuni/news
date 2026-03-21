@@ -41,7 +41,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/ffmpeg-101-2024/' | relative_url }}">ffmpeg 101 2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/an-faq-on-reinforcement-learning-environments/' | relative_url }}">an faq on reinforcement learning environments</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/a-look-at-content-scrambling-in-dvds/' | relative_url }}">a look at content scrambling in dvds</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
