@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/this-high-school-student-invented-a-filter-that-el/' | relative_url }}">this high school student invented a filter that el</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/thinking-fast-slow-and-artificial-how-ai-is-reshap/' | relative_url }}">thinking fast slow and artificial how ai is reshap</a></h3>
 </div>
 <div class="article-row">
@@ -109,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/professional-video-editing-right-in-the-browser-wi/' | relative_url }}">professional video editing right in the browser wi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/predicting-home-electricity-usage-based-on-histori/' | relative_url }}">predicting home electricity usage based on histori</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/nvidia-confirms-dlss-5-relies-on-2d-frame-data-as/' | relative_url }}">nvidia confirms dlss 5 relies on 2d frame data as</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/no-evidence-cannabis-helps-anxiety-depression-or-p/' | relative_url }}">no evidence cannabis helps anxiety depression or p</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
@@ -241,6 +253,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/code-editor-component-that-actually-executes-code/' | relative_url }}">code editor component that actually executes code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/bye-bye-rtmp/' | relative_url }}">bye bye rtmp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/blocking-internet-archive-wont-stop-ai-but-will-er/' | relative_url }}">blocking internet archive wont stop ai but will er</a></h3>
 </div>
 <div class="article-row">
@@ -254,6 +274,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/an-faq-on-reinforcement-learning-environments/' | relative_url }}">an faq on reinforcement learning environments</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/ai-coding-contest-day-4-the-amazing-teleportal-maz/' | relative_url }}">ai coding contest day 4 the amazing teleportal maz</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
