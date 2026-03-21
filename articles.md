@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/is-simple-actually-good/' | relative_url }}">is simple actually good</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/google-adds-24-hour-wait-and-mandatory-reboot-to-a/' | relative_url }}">google adds 24 hour wait and mandatory reboot to a</a></h3>
 </div>
 <div class="article-row">
