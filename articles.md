@@ -201,6 +201,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/hr-block-tax-software-installs-a-tls-root-certific/' | relative_url }}">hr block tax software installs a tls root certific</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/how-hn-ironkernel-python-expressions-rust-parallel/' | relative_url }}">how hn ironkernel python expressions rust parallel</a></h3>
 </div>
 <div class="article-row">
@@ -249,6 +253,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/console-a-debugger-for-async-rust/' | relative_url }}">console a debugger for async rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/common-lisp-development-tooling/' | relative_url }}">common lisp development tooling</a></h3>
 </div>
 <div class="article-row">
@@ -261,7 +269,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/boomloom-think-with-your-hands/' | relative_url }}">boomloom think with your hands</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/blocking-internet-archive-wont-stop-ai-but-will-er/' | relative_url }}">blocking internet archive wont stop ai but will er</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/bayesian-statistics-for-confused-data-scientists/' | relative_url }}">bayesian statistics for confused data scientists</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/attempts-to-post-the-latest-trivy-security-inciden/' | relative_url }}">attempts to post the latest trivy security inciden</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
