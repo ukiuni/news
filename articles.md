@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/some-things-just-take-time/' | relative_url }}">some things just take time</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/show-hn-i-fixed-ffmpegs-subtitle-conversion-the-bu/' | relative_url }}">show hn i fixed ffmpegs subtitle conversion the bu</a></h3>
 </div>
 <div class="article-row">
@@ -89,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/grafeo-a-fast-lean-embeddable-graph-database-built/' | relative_url }}">grafeo a fast lean embeddable graph database built</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/google-adds-24-hour-wait-and-mandatory-reboot-to-a/' | relative_url }}">google adds 24 hour wait and mandatory reboot to a</a></h3>
 </div>
 <div class="article-row">
@@ -105,11 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/apple-announces-new-mac-sales-record-following-mac/' | relative_url }}">apple announces new mac sales record following mac</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/an-faq-on-reinforcement-learning-environments/' | relative_url }}">an faq on reinforcement learning environments</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/a-look-at-content-scrambling-in-dvds/' | relative_url }}">a look at content scrambling in dvds</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/404-deno-ceo-not-found/' | relative_url }}">404 deno ceo not found</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/20</span>
