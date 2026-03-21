@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/tinybox-offline-ai-device-120b-parameters/' | relative_url }}">tinybox offline ai device 120b parameters</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/thoughts-on-openai-acquiring-astral-and-uvruffty/' | relative_url }}">thoughts on openai acquiring astral and uvruffty</a></h3>
 </div>
 <div class="article-row">
@@ -61,11 +65,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/the-seven-hour-explosion-nobody-could-explain/' | relative_url }}">the seven hour explosion nobody could explain</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/some-things-just-take-time/' | relative_url }}">some things just take time</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/solod-go-can-be-a-better-c/' | relative_url }}">solod go can be a better c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/show-hn-termcraft-terminal-first-2d-sandbox-surviv/' | relative_url }}">show hn termcraft terminal first 2d sandbox surviv</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
