@@ -13,6 +13,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/what-creative-technical-outlets-of-yours-have-been/' | relative_url }}">what creative technical outlets of yours have been</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/turing-award-honors-bennett-and-brassard-for-quant/' | relative_url }}">turing award honors bennett and brassard for quant</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/trivy-compromised-a-second-time-malicious-v0694-re/' | relative_url }}">trivy compromised a second time malicious v0694 re</a></h3>
 </div>
 <div class="article-row">
