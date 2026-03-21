@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/why-western-carmakers-retreat-from-electric-risks/' | relative_url }}">why western carmakers retreat from electric risks</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/why-im-not-worried-about-running-out-of-work-in-th/' | relative_url }}">why im not worried about running out of work in th</a></h3>
 </div>
 <div class="article-row">
@@ -45,11 +49,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/show-hn-i-fixed-ffmpegs-subtitle-conversion-the-bu/' | relative_url }}">show hn i fixed ffmpegs subtitle conversion the bu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/molly-guard/' | relative_url }}">molly guard</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/metas-omnilingual-mt-for-1600-languages/' | relative_url }}">metas omnilingual mt for 1600 languages</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/mayor-of-paris-removed-parking-spaces-drastically/' | relative_url }}">mayor of paris removed parking spaces drastically</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
