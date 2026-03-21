@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/zjit-removes-redundant-object-loads-and-stores/' | relative_url }}">zjit removes redundant object loads and stores</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/why-western-carmakers-retreat-from-electric-risks/' | relative_url }}">why western carmakers retreat from electric risks</a></h3>
 </div>
 <div class="article-row">
@@ -61,6 +65,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/show-hn-ai-sdlc-scaffold-repo-template-for-ai-assi/' | relative_url }}">show hn ai sdlc scaffold repo template for ai assi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/should-rubygemsbundler-have-a-cooldown-feature/' | relative_url }}">should rubygemsbundler have a cooldown feature</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/molly-guard/' | relative_url }}">molly guard</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/is-simple-actually-good/' | relative_url }}">is simple actually good</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/iran-launched-unsuccessful-attack-on-uks-diego-gar/' | relative_url }}">iran launched unsuccessful attack on uks diego gar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
