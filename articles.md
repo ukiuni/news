@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/where-did-400-mib-go/' | relative_url }}">where did 400 mib go</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/what-creative-technical-outlets-of-yours-have-been/' | relative_url }}">what creative technical outlets of yours have been</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/turing-award-honors-bennett-and-brassard-for-quant/' | relative_url }}">turing award honors bennett and brassard for quant</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/trivy-under-attack-again-widespread-github-actions/' | relative_url }}">trivy under attack again widespread github actions</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
@@ -65,7 +73,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/the-software-essays-that-shaped-me-refactoring-eng/' | relative_url }}">the software essays that shaped me refactoring eng</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/the-seven-hour-explosion-nobody-could-explain/' | relative_url }}">the seven hour explosion nobody could explain</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/storing-2-bytes-of-data-in-your-logitech-mouse/' | relative_url }}">storing 2 bytes of data in your logitech mouse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
@@ -97,7 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/pre-2000-computer-graphics-a-specification-and-cha/' | relative_url }}">pre 2000 computer graphics a specification and cha</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/planned-10-gigawatt-softbank-data-center-in-ohio-m/' | relative_url }}">planned 10 gigawatt softbank data center in ohio m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/pigeons-device/' | relative_url }}">pigeons device</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/peter-thiel-the-antichrist-hunter-of-silicon-valle/' | relative_url }}">peter thiel the antichrist hunter of silicon valle</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
@@ -105,7 +133,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/nvidia-confirms-dlss-5-relies-on-2d-frame-data-as/' | relative_url }}">nvidia confirms dlss 5 relies on 2d frame data as</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/molly-guard/' | relative_url }}">molly guard</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/microsoft-rolls-back-some-of-its-copilot-ai-bloat/' | relative_url }}">microsoft rolls back some of its copilot ai bloat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
@@ -129,7 +165,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/jsongrep-is-faster-than-jq-jmespath-jsonpath-rust/' | relative_url }}">jsongrep is faster than jq jmespath jsonpath rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/its-stupid-why-western-carmakers-retreat-from-elec/' | relative_url }}">its stupid why western carmakers retreat from elec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/is-simple-actually-good/' | relative_url }}">is simple actually good</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/iran-war-cuts-off-helium-from-qatar-and-shortages/' | relative_url }}">iran war cuts off helium from qatar and shortages</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
@@ -157,11 +205,39 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/from-malls-to-neighborhoods-why-high-tech-scarecro/' | relative_url }}">from malls to neighborhoods why high tech scarecro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/former-fbi-director-robert-mueller-has-died/' | relative_url }}">former fbi director robert mueller has died</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/for-the-first-time-scientists-may-have-found-a-way/' | relative_url }}">for the first time scientists may have found a way</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/ffmpeg-101-2024/' | relative_url }}">ffmpeg 101 2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/elon-musk-to-owe-billions-after-jury-finds-he-misl/' | relative_url }}">elon musk to owe billions after jury finds he misl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/electronics-for-kids-2nd-edition/' | relative_url }}">electronics for kids 2nd edition</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/do-not-turn-child-protection-into-internet-access/' | relative_url }}">do not turn child protection into internet access</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/cyberattack-on-vehicle-breathalyzer-company-leaves/' | relative_url }}">cyberattack on vehicle breathalyzer company leaves</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/common-lisp-development-tooling/' | relative_url }}">common lisp development tooling</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
@@ -170,6 +246,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/apple-announces-new-mac-sales-record-following-mac/' | relative_url }}">apple announces new mac sales record following mac</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/antix-26-released-with-5-init-systems/' | relative_url }}">antix 26 released with 5 init systems</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
