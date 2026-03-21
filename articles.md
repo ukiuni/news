@@ -53,11 +53,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/thinking-fast-slow-and-artificial-how-ai-is-reshap/' | relative_url }}">thinking fast slow and artificial how ai is reshap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/the-ugliest-airplane-an-appreciation/' | relative_url }}">the ugliest airplane an appreciation</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/some-things-just-take-time/' | relative_url }}">some things just take time</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/solod-go-can-be-a-better-c/' | relative_url }}">solod go can be a better c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
@@ -70,6 +78,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/should-rubygemsbundler-have-a-cooldown-feature/' | relative_url }}">should rubygemsbundler have a cooldown feature</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/pigeons-device/' | relative_url }}">pigeons device</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/passengers-who-refuse-to-use-headphones-can-now-be/' | relative_url }}">passengers who refuse to use headphones can now be</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
@@ -102,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/iran-launched-unsuccessful-attack-on-uks-diego-gar/' | relative_url }}">iran launched unsuccessful attack on uks diego gar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/21</span>
+  <h3><a href="{{ '/2026/03/21/invisalign-became-the-biggest-user-of-3d-printers/' | relative_url }}">invisalign became the biggest user of 3d printers</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
