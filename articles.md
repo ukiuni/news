@@ -37,7 +37,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/nodejs-worker-threads-are-problematic-but-they-wor/' | relative_url }}">nodejs worker threads are problematic but they wor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/my-first-patch-to-the-linux-kernel/' | relative_url }}">my first patch to the linux kernel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/more-common-mistakes-to-avoid-when-creating-system/' | relative_url }}">more common mistakes to avoid when creating system</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/acme-device-attestation-smallstep-and-pkcs11-attez/' | relative_url }}">acme device attestation smallstep and pkcs11 attez</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/a-case-against-currying/' | relative_url }}">a case against currying</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
