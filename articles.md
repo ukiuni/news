@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/vandalizing-my-own-wikipedia-experience-a-90s-cybe/' | relative_url }}">vandalizing my own wikipedia experience a 90s cybe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/trivy-ecosystem-supply-chain-briefly-compromised/' | relative_url }}">trivy ecosystem supply chain briefly compromised</a></h3>
 </div>
 <div class="article-row">
@@ -25,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/ssh-certificates-and-git-signing/' | relative_url }}">ssh certificates and git signing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/security-advisory-for-cargo/' | relative_url }}">security advisory for cargo</a></h3>
 </div>
 <div class="article-row">
@@ -33,11 +41,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/project-nomad-knowledge-that-never-goes-offline/' | relative_url }}">project nomad knowledge that never goes offline</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/profiling-hacker-news-users-based-on-their-comment/' | relative_url }}">profiling hacker news users based on their comment</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/nodejs-worker-threads-are-problematic-but-they-wor/' | relative_url }}">nodejs worker threads are problematic but they wor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/nintendos-not-ai-not-a-game-toy/' | relative_url }}">nintendos not ai not a game toy</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
@@ -89,7 +105,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/building-an-fpga-3dfx-voodoo-with-modern-rtl-tools/' | relative_url }}">building an fpga 3dfx voodoo with modern rtl tools</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/brute-forcing-my-algorithmic-ignorance-with-an-llm/' | relative_url }}">brute forcing my algorithmic ignorance with an llm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/acme-device-attestation-smallstep-and-pkcs11-attez/' | relative_url }}">acme device attestation smallstep and pkcs11 attez</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/a-review-of-dice-that-came-with-the-white-castle/' | relative_url }}">a review of dice that came with the white castle</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
