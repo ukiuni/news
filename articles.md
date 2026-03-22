@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/pc-gamer-recommends-rss-readers-in-a-37mb-article/' | relative_url }}">pc gamer recommends rss readers in a 37mb article</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/nodejs-worker-threads-are-problematic-but-they-wor/' | relative_url }}">nodejs worker threads are problematic but they wor</a></h3>
 </div>
 <div class="article-row">
