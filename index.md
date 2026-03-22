@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、個人のカーネル貢献からAIモデルの「deterministic silence」まで、オープンソースと生成AI、そしてセキュリティ対策が交差する動きが目立っています🔧🤖。Linux向け自動コードレビューやローカルAWSエミュレータ、HTML製ゴーファーブラウザといった開発者向けツールの進展と、Cloudflareによるarchive.todayのブロックやデバイス認証の強化が安全性議論を加速させています⚠️🔒。一方で「JavaScript Is Enough」とJS肥大化への警鐘が混在し、次の技術潮流を巡る論争が熱を帯びています🌐📣。
+    今日のテック業界では、低レベルの効率化とセキュリティ、AIモデルの洗練が同時並行で進んでいる。🛠️ Linuxカーネルの実装改善やHaskellバイナリ最適化、エージェント化されたカーネルコードレビューやデバイス認証ツールが注目される一方、Cloudflareのarchive.todayブロックなどセキュリティとアクセス制御の問題も表面化している。🤖🔒 また、GPT-5.2とClaude Opusの挙動議論やローカルAWSエミュレータ、レトロなgopherブラウザ、JavaScript肥大化への警鐘といった実用ツールの動きが活発だ。🌐✨
   </div>
 </div>
