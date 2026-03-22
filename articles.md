@@ -29,11 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/my-first-patch-to-the-linux-kernel/' | relative_url }}">my first patch to the linux kernel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/javascript-is-enough/' | relative_url }}">javascript is enough</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/floci-a-free-open-source-local-aws-emulator/' | relative_url }}">floci a free open source local aws emulator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/cross-model-void-convergence-gpt-52-and-claude-opu/' | relative_url }}">cross model void convergence gpt 52 and claude opu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
