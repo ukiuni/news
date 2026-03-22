@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/sashiko-an-agentic-linux-kernel-code-review-system/' | relative_url }}">sashiko an agentic linux kernel code review system</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/profiling-hacker-news-users-based-on-their-comment/' | relative_url }}">profiling hacker news users based on their comment</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/floci-a-free-open-source-local-aws-emulator/' | relative_url }}">floci a free open source local aws emulator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/cloudflare-flags-archivetoday-as-ccbotnet-no-longe/' | relative_url }}">cloudflare flags archivetoday as ccbotnet no longe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
