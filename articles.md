@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/security-advisory-for-cargo/' | relative_url }}">security advisory for cargo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/sashiko-an-agentic-linux-kernel-code-review-system/' | relative_url }}">sashiko an agentic linux kernel code review system</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/my-first-patch-to-the-linux-kernel/' | relative_url }}">my first patch to the linux kernel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/miracle-europe-reconnects-with-lost-spacecraft/' | relative_url }}">miracle europe reconnects with lost spacecraft</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
@@ -66,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/acme-device-attestation-smallstep-and-pkcs11-attez/' | relative_url }}">acme device attestation smallstep and pkcs11 attez</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/25-years-of-eggs/' | relative_url }}">25 years of eggs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
