@@ -121,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/llms-predict-my-coffee/' | relative_url }}">llms predict my coffee</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/linking-smaller-haskell-binaries-2023/' | relative_url }}">linking smaller haskell binaries 2023</a></h3>
 </div>
 <div class="article-row">
