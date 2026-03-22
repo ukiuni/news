@@ -37,7 +37,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/the-slow-collapse-of-mkdocs/' | relative_url }}">the slow collapse of mkdocs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/the-impact-of-ai-on-game-dev-jobs-open-to-work-cri/' | relative_url }}">the impact of ai on game dev jobs open to work cri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/the-biggest-theft-in-human-history-occurred-in-bro/' | relative_url }}">the biggest theft in human history occurred in bro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
@@ -126,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/flash-moe-running-a-397b-parameter-model-on-a-mac/' | relative_url }}">flash moe running a 397b parameter model on a mac</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/five-years-of-running-a-systems-reading-group-at-m/' | relative_url }}">five years of running a systems reading group at m</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
