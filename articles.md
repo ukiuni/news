@@ -8,6 +8,18 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/trivy-ecosystem-supply-chain-briefly-compromised/' | relative_url }}">trivy ecosystem supply chain briefly compromised</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/the-impact-of-ai-on-game-dev-jobs-open-to-work-cri/' | relative_url }}">the impact of ai on game dev jobs open to work cri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/profiling-hacker-news-users-based-on-their-comment/' | relative_url }}">profiling hacker news users based on their comment</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/zjit-removes-redundant-object-loads-and-stores/' | relative_url }}">zjit removes redundant object loads and stores</a></h3>
 </div>
