@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/the-three-pillars-of-javascript-bloat/' | relative_url }}">the three pillars of javascript bloat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/the-impact-of-ai-on-game-dev-jobs-open-to-work-cri/' | relative_url }}">the impact of ai on game dev jobs open to work cri</a></h3>
 </div>
 <div class="article-row">
@@ -26,6 +30,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/chest-fridge/' | relative_url }}">chest fridge</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/acme-device-attestation-smallstep-and-pkcs11-attez/' | relative_url }}">acme device attestation smallstep and pkcs11 attez</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/21</span>
