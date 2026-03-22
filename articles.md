@@ -20,6 +20,14 @@ permalink: /articles/
   <h3><a href="{{ '/2026/03/22/profiling-hacker-news-users-based-on-their-comment/' | relative_url }}">profiling hacker news users based on their comment</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/javascript-is-enough/' | relative_url }}">javascript is enough</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/chest-fridge/' | relative_url }}">chest fridge</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/21</span>
   <h3><a href="{{ '/2026/03/21/zjit-removes-redundant-object-loads-and-stores/' | relative_url }}">zjit removes redundant object loads and stores</a></h3>
 </div>
