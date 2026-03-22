@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/we-indexed-the-delve-audit-leak-533-reports-455-co/' | relative_url }}">we indexed the delve audit leak 533 reports 455 co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/vandalizing-my-own-wikipedia-experience-a-90s-cybe/' | relative_url }}">vandalizing my own wikipedia experience a 90s cybe</a></h3>
 </div>
 <div class="article-row">
@@ -45,7 +49,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/the-gold-standard-of-optimization-a-look-under-the/' | relative_url }}">the gold standard of optimization a look under the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/the-biggest-theft-in-human-history-occurred-in-bro/' | relative_url }}">the biggest theft in human history occurred in bro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/22</span>
+  <h3><a href="{{ '/2026/03/22/teaching-claude-to-qa-a-mobile-app/' | relative_url }}">teaching claude to qa a mobile app</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
