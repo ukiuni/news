@@ -9,7 +9,71 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/yolov8-segmentation-tutorial-for-real-flood-detect/' | relative_url }}">yolov8 segmentation tutorial for real flood detect</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/wind-and-solar-generated-a-record-17-of-us-electri/' | relative_url }}">wind and solar generated a record 17 of us electri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/traditional-user-interface-graphics-icons-cursors/' | relative_url }}">traditional user interface graphics icons cursors</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/tech-leaders-support-california-bill-to-stop-domin/' | relative_url }}">tech leaders support california bill to stop domin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/reddit-is-weighing-identity-verification-methods-t/' | relative_url }}">reddit is weighing identity verification methods t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/pilot-believes-he-has-found-amelia-earharts-long-l/' | relative_url }}">pilot believes he has found amelia earharts long l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/pessimistic-vs-optimistic-concurrency-control/' | relative_url }}">pessimistic vs optimistic concurrency control</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/openai-to-introduce-ads-to-all-chatgpt-free-and-go/' | relative_url }}">openai to introduce ads to all chatgpt free and go</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/meta-targeted-older-workers-in-layoffs-lawsuit-by/' | relative_url }}">meta targeted older workers in layoffs lawsuit by</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/lshaz-a-static-analysis-tool-for-finding-microarch/' | relative_url }}">lshaz a static analysis tool for finding microarch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
   <h3><a href="{{ '/2026/03/23/is-local-the-future-of-ai/' | relative_url }}">is local the future of ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/how-byd-got-ev-chargers-to-work-almost-as-fast-as/' | relative_url }}">how byd got ev chargers to work almost as fast as</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/grapheneos-refuses-to-comply-with-new-age-verifica/' | relative_url }}">grapheneos refuses to comply with new age verifica</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/first-and-lego-education-partnership-update/' | relative_url }}">first and lego education partnership update</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/firefox-149-adds-built-in-free-vpn-with-50gb-month/' | relative_url }}">firefox 149 adds built in free vpn with 50gb month</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/china-could-be-the-worlds-biggest-public-funder-of/' | relative_url }}">china could be the worlds biggest public funder of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/beyond-linux-and-windows-a-technical-analysis-for/' | relative_url }}">beyond linux and windows a technical analysis for</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/22</span>
