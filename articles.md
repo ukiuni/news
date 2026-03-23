@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/windows-11-kb5085516-released-after-kb5079473-brea/' | relative_url }}">windows 11 kb5085516 released after kb5079473 brea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
   <h3><a href="{{ '/2026/03/23/wind-and-solar-generated-a-record-17-of-us-electri/' | relative_url }}">wind and solar generated a record 17 of us electri</a></h3>
 </div>
 <div class="article-row">
@@ -21,7 +25,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/the-diminished-art-of-coding/' | relative_url }}">the diminished art of coding</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
   <h3><a href="{{ '/2026/03/23/tech-leaders-support-california-bill-to-stop-domin/' | relative_url }}">tech leaders support california bill to stop domin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/reverse-engineering-a-viral-open-source-launch-or/' | relative_url }}">reverse engineering a viral open source launch or</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/23</span>
@@ -50,6 +62,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/23</span>
   <h3><a href="{{ '/2026/03/23/is-local-the-future-of-ai/' | relative_url }}">is local the future of ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/intuitions-for-tranformer-circuits/' | relative_url }}">intuitions for tranformer circuits</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/i-reverse-engineered-the-tiinyai-pocket-lab-from-m/' | relative_url }}">i reverse engineered the tiinyai pocket lab from m</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/23</span>
