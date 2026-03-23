@@ -8,6 +8,10 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">03/23</span>
+  <h3><a href="{{ '/2026/03/23/is-local-the-future-of-ai/' | relative_url }}">is local the future of ai</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/22</span>
   <h3><a href="{{ '/2026/03/22/zero-zgc4-a-better-graphing-calculator-for-school/' | relative_url }}">zero zgc4 a better graphing calculator for school</a></h3>
 </div>
