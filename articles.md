@@ -8,6 +8,110 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/your-agent-can-think-it-cant-remember/' | relative_url }}">your agent can think it cant remember</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/this-picture-broke-my-brain-3b1b-video/' | relative_url }}">this picture broke my brain 3b1b video</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/the-ultimate-job-finding-management-tool/' | relative_url }}">the ultimate job finding management tool</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/the-paperwork-flood-how-i-drowned-a-bureaucrat-bef/' | relative_url }}">the paperwork flood how i drowned a bureaucrat bef</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/speed-vs-smarts-for-coding-agents/' | relative_url }}">speed vs smarts for coding agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/schedule-tasks-on-the-web/' | relative_url }}">schedule tasks on the web</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons/' | relative_url }}">scaling a monolith to 1m loc 113 pragmatic lessons</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/rocm-711-you-can-not-build/' | relative_url }}">rocm 711 you can not build</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/iran-linked-hackers-claim-breach-of-fbi-directors/' | relative_url }}">iran linked hackers claim breach of fbi directors</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/ip-addresses-through-2025/' | relative_url }}">ip addresses through 2025</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/installing-a-lets-encrypt-tls-certificate-on-a-bro/' | relative_url }}">installing a lets encrypt tls certificate on a bro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/immich-vs-ente-photos-the-photo-backup-showdown/' | relative_url }}">immich vs ente photos the photo backup showdown</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/i-cant-see-apples-vision/' | relative_url }}">i cant see apples vision</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/how-i-almost-burned-out-doing-everything-right/' | relative_url }}">how i almost burned out doing everything right</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/hold-on-to-your-hardware/' | relative_url }}">hold on to your hardware</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/gzip-decompression-in-250-lines-of-rust/' | relative_url }}">gzip decompression in 250 lines of rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/get-started-on-devto-a-beginners-guide-to-engage-w/' | relative_url }}">get started on devto a beginners guide to engage w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/eyg-is-now-open-source/' | relative_url }}">eyg is now open source</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/engenharia-de-prompt-por-que-a-forma-como-voc-perg/' | relative_url }}">engenharia de prompt por que a forma como voc perg</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/distraction-free-writing-with-the-micro-journal-re/' | relative_url }}">distraction free writing with the micro journal re</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/building-a-weather-station-using-an-old-raspberry/' | relative_url }}">building a weather station using an old raspberry</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/apple-discontinues-the-mac-pro/' | relative_url }}">apple discontinues the mac pro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/anatomy-of-the-claude-folder/' | relative_url }}">anatomy of the claude folder</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/23</span>
   <h3><a href="{{ '/2026/03/23/yolov8-segmentation-tutorial-for-real-flood-detect/' | relative_url }}">yolov8 segmentation tutorial for real flood detect</a></h3>
 </div>
