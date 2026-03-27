@@ -49,11 +49,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/telnyx-package-compromised-on-pypi/' | relative_url }}">telnyx package compromised on pypi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/tailscaled-into-homelabbing/' | relative_url }}">tailscaled into homelabbing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/speed-vs-smarts-for-coding-agents/' | relative_url }}">speed vs smarts for coding agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/some-uncomfortable-truths-about-ai-coding-agents/' | relative_url }}">some uncomfortable truths about ai coding agents</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
@@ -85,7 +93,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/nashville-library-launches-memory-lab-for-digitizi/' | relative_url }}">nashville library launches memory lab for digitizi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/meowcamera/' | relative_url }}">meowcamera</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/make-macos-consistently-bad-unironically/' | relative_url }}">make macos consistently bad unironically</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
@@ -138,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/engenharia-de-prompt-por-que-a-forma-como-voc-perg/' | relative_url }}">engenharia de prompt por que a forma como voc perg</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/embracing-bayesian-methods-in-clinical-trials/' | relative_url }}">embracing bayesian methods in clinical trials</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
