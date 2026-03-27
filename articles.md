@@ -57,7 +57,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/sand-from-different-beaches-in-the-world/' | relative_url }}">sand from different beaches in the world</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/rocm-711-you-can-not-build/' | relative_url }}">rocm 711 you can not build</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/people-inside-microsoft-are-fighting-to-drop-manda/' | relative_url }}">people inside microsoft are fighting to drop manda</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/opentelemetry-just-standardized-llm-tracing-heres/' | relative_url }}">opentelemetry just standardized llm tracing heres</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
@@ -101,11 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/firefox-gtk-emoji-picker/' | relative_url }}">firefox gtk emoji picker</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/eyg-is-now-open-source/' | relative_url }}">eyg is now open source</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/engenharia-de-prompt-por-que-a-forma-como-voc-perg/' | relative_url }}">engenharia de prompt por que a forma como voc perg</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/emachines-never-obsolete-pcs-more-than-a-meme/' | relative_url }}">emachines never obsolete pcs more than a meme</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
@@ -134,6 +154,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/anatomy-of-the-claude-folder/' | relative_url }}">anatomy of the claude folder</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/ai-got-the-blame-for-the-iran-school-bombing-the-t/' | relative_url }}">ai got the blame for the iran school bombing the t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/a-one-line-kubernetes-fix-that-saved-600-hours-a-y/' | relative_url }}">a one line kubernetes fix that saved 600 hours a y</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/23</span>
