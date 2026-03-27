@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/lgs-new-1hz-display-is-the-secret-behind-a-new-lap/' | relative_url }}">lgs new 1hz display is the secret behind a new lap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/isbn-visualization-annas-archive/' | relative_url }}">isbn visualization annas archive</a></h3>
 </div>
 <div class="article-row">
@@ -174,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/emachines-never-obsolete-pcs-more-than-a-meme/' | relative_url }}">emachines never obsolete pcs more than a meme</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/doj-confirms-fbi-director-kash-patels-personal-ema/' | relative_url }}">doj confirms fbi director kash patels personal ema</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
