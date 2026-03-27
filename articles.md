@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/uses-for-nested-promises/' | relative_url }}">uses for nested promises</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/opentelemetry-just-standardized-llm-tracing-heres/' | relative_url }}">opentelemetry just standardized llm tracing heres</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/meowcamera/' | relative_url }}">meowcamera</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
@@ -138,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/check-up-with-each-other/' | relative_url }}">check up with each other</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/building-firestriker-making-civic-tech-free/' | relative_url }}">building firestriker making civic tech free</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
