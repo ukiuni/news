@@ -33,7 +33,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/the-small-details-that-make-a-website-feel-finishe/' | relative_url }}">the small details that make a website feel finishe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/the-paperwork-flood-how-i-drowned-a-bureaucrat-bef/' | relative_url }}">the paperwork flood how i drowned a bureaucrat bef</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/the-last-gasps-of-the-rent-seeking-class/' | relative_url }}">the last gasps of the rent seeking class</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
@@ -73,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/i-am-leaving-the-ai-party-after-one-drink/' | relative_url }}">i am leaving the ai party after one drink</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/how-i-almost-burned-out-doing-everything-right/' | relative_url }}">how i almost burned out doing everything right</a></h3>
 </div>
 <div class="article-row">
@@ -101,7 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/desk-for-people-who-work-at-home-with-a-cat/' | relative_url }}">desk for people who work at home with a cat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/check-up-with-each-other/' | relative_url }}">check up with each other</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/building-a-weather-station-using-an-old-raspberry/' | relative_url }}">building a weather station using an old raspberry</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/bigoish-test-the-empirical-computational-complexit/' | relative_url }}">bigoish test the empirical computational complexit</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
