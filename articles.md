@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/velxio-20-emulate-arduino-esp32-and-raspberry-pi-3/' | relative_url }}">velxio 20 emulate arduino esp32 and raspberry pi 3</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/uses-for-nested-promises/' | relative_url }}">uses for nested promises</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/the-last-gasps-of-the-rent-seeking-class/' | relative_url }}">the last gasps of the rent seeking class</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/the-comforting-lie-of-sha-pinning/' | relative_url }}">the comforting lie of sha pinning</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/make-macos-consistently-bad-unironically/' | relative_url }}">make macos consistently bad unironically</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/27</span>
+  <h3><a href="{{ '/2026/03/27/isbn-visualization-annas-archive/' | relative_url }}">isbn visualization annas archive</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
