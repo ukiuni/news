@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/rpgactor-game-jam/' | relative_url }}">rpgactor game jam</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/paper-tape-is-all-you-need-training-a-transformer/' | relative_url }}">paper tape is all you need training a transformer</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/matadisco-decentralized-data-discovery/' | relative_url }}">matadisco decentralized data discovery</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/linux-is-an-interpreter/' | relative_url }}">linux is an interpreter</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
@@ -74,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/go-naming-conventions-a-practical-guide/' | relative_url }}">go naming conventions a practical guide</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/founder-of-gitlab-battles-cancer-by-founding-compa/' | relative_url }}">founder of gitlab battles cancer by founding compa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
