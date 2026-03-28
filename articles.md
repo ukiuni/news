@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/show-hn-free-in-browser-pdf-editor/' | relative_url }}">show hn free in browser pdf editor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/paper-tape-is-all-you-need-training-a-transformer/' | relative_url }}">paper tape is all you need training a transformer</a></h3>
 </div>
 <div class="article-row">
@@ -45,7 +49,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/linux-finally-for-everyone/' | relative_url }}">linux finally for everyone</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/i-put-all-8642-spanish-laws-in-git-every-reform-is/' | relative_url }}">i put all 8642 spanish laws in git every reform is</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/i-decompiled-the-white-houses-new-app/' | relative_url }}">i decompiled the white houses new app</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
@@ -54,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/go-naming-conventions-a-practical-guide/' | relative_url }}">go naming conventions a practical guide</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/folk-are-getting-dangerously-attached-to-ai-that-a/' | relative_url }}">folk are getting dangerously attached to ai that a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
@@ -70,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/capability-based-security-for-redox-namespace-and/' | relative_url }}">capability based security for redox namespace and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/c26-a-user-friednly-assert-macro/' | relative_url }}">c26 a user friednly assert macro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
