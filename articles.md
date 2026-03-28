@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/matadisco-decentralized-data-discovery/' | relative_url }}">matadisco decentralized data discovery</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/dont-yolo-your-file-system/' | relative_url }}">dont yolo your file system</a></h3>
 </div>
 <div class="article-row">
