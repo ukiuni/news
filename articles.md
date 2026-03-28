@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/you-do-not-in-fact-have-to-hand-it-to-them/' | relative_url }}">you do not in fact have to hand it to them</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/which-programming-language-is-best-for-claude-code/' | relative_url }}">which programming language is best for claude code</a></h3>
 </div>
 <div class="article-row">
@@ -30,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/paper-tape-is-all-you-need-training-a-transformer/' | relative_url }}">paper tape is all you need training a transformer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/openttd-for-windows-nt-risc/' | relative_url }}">openttd for windows nt risc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
@@ -74,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of/' | relative_url }}">amds ryzen 9 9950x3d2 dual edition crams 208mb of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/a-single-file-c-allocator-with-explicit-heaps-and/' | relative_url }}">a single file c allocator with explicit heaps and</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/27</span>
