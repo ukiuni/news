@@ -109,6 +109,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/detecting-file-changes-on-macos-with-kqueue/' | relative_url }}">detecting file changes on macos with kqueue</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/cocoa-way-native-macos-wayland-compositor-for-runn/' | relative_url }}">cocoa way native macos wayland compositor for runn</a></h3>
 </div>
 <div class="article-row">
@@ -129,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/bubblewrap-your-dev-env-and-agents/' | relative_url }}">bubblewrap your dev env and agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/britain-today-generating-90-of-electricity-from-re/' | relative_url }}">britain today generating 90 of electricity from re</a></h3>
 </div>
 <div class="article-row">
@@ -142,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/ai-chatbots-are-yes-men-that-reinforce-bad-relatio/' | relative_url }}">ai chatbots are yes men that reinforce bad relatio</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/adventures-in-cellular-location-services/' | relative_url }}">adventures in cellular location services</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
