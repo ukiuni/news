@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/stationeryobject/' | relative_url }}">stationeryobject</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/show-hn-free-in-browser-pdf-editor/' | relative_url }}">show hn free in browser pdf editor</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/linux-finally-for-everyone/' | relative_url }}">linux finally for everyone</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/icao-issued-new-power-bank-restriction-on-flight/' | relative_url }}">icao issued new power bank restriction on flight</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
