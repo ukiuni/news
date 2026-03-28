@@ -20,6 +20,10 @@ permalink: /articles/
   <h3><a href="{{ '/2026/03/28/dont-yolo-your-file-system/' | relative_url }}">dont yolo your file system</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of/' | relative_url }}">amds ryzen 9 9950x3d2 dual edition crams 208mb of</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/27</span>
   <h3><a href="{{ '/2026/03/27/your-agent-can-think-it-cant-remember/' | relative_url }}">your agent can think it cant remember</a></h3>
 </div>
