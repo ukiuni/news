@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/capability-based-security-for-redox-namespace-and/' | relative_url }}">capability based security for redox namespace and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/building-a-guitar-trainer-with-embedded-rust/' | relative_url }}">building a guitar trainer with embedded rust</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of/' | relative_url }}">amds ryzen 9 9950x3d2 dual edition crams 208mb of</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/ai-chatbots-are-yes-men-that-reinforce-bad-relatio/' | relative_url }}">ai chatbots are yes men that reinforce bad relatio</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
