@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/css-is-doomed/' | relative_url }}">css is doomed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/cocoa-way-native-macos-wayland-compositor-for-runn/' | relative_url }}">cocoa way native macos wayland compositor for runn</a></h3>
 </div>
 <div class="article-row">
