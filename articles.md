@@ -69,6 +69,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/my-heuristics-are-wrong-what-now/' | relative_url }}">my heuristics are wrong what now</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/meta-partners-with-arm-to-develop-new-class-of-dat/' | relative_url }}">meta partners with arm to develop new class of dat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/matadisco-decentralized-data-discovery/' | relative_url }}">matadisco decentralized data discovery</a></h3>
 </div>
 <div class="article-row">
