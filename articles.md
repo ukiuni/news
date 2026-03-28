@@ -21,11 +21,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/undroidwish-a-single-file-batteries-included-tcltk/' | relative_url }}">undroidwish a single file batteries included tcltk</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/trust-signals-as-sparklines-for-hacker-news/' | relative_url }}">trust signals as sparklines for hacker news</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/treason-in-the-futures-markets/' | relative_url }}">treason in the futures markets</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/translating-non-trivial-codebases-with-claude/' | relative_url }}">translating non trivial codebases with claude</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/28</span>
   <h3><a href="{{ '/2026/03/28/go-naming-conventions-a-practical-guide/' | relative_url }}">go naming conventions a practical guide</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/28</span>
+  <h3><a href="{{ '/2026/03/28/further-human-ai-proof-assistant-work-on-knuths-cl/' | relative_url }}">further human ai proof assistant work on knuths cl</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
