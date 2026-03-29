@@ -9,7 +9,23 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/when-do-we-become-adults-really/' | relative_url }}">when do we become adults really</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/when-all-you-can-do-is-all-or-nothing-do-nothing/' | relative_url }}">when all you can do is all or nothing do nothing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/the-road-to-electric-in-charts-and-data-uk/' | relative_url }}">the road to electric in charts and data uk</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/the-many-roots-of-our-suffering-reflections-on-rob/' | relative_url }}">the many roots of our suffering reflections on rob</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/the-loneliness-of-a-room-of-ones-own/' | relative_url }}">the loneliness of a room of ones own</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
@@ -41,6 +57,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/nonfiction-publishing-under-threat-is-more-importa/' | relative_url }}">nonfiction publishing under threat is more importa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/libeatmydata-disable-fsync-and-save/' | relative_url }}">libeatmydata disable fsync and save</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/legacy-pc-design-misery/' | relative_url }}">legacy pc design misery</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/alzheimers-disease-mortality-among-taxi-and-ambula/' | relative_url }}">alzheimers disease mortality among taxi and ambula</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/ai-hot-takes-from-a-platform-engineer-sre-aliencho/' | relative_url }}">ai hot takes from a platform engineer sre aliencho</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
