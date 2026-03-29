@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/what-category-theory-teaches-us-about-dataframes/' | relative_url }}">what category theory teaches us about dataframes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/the-road-to-electric-in-charts-and-data-uk/' | relative_url }}">the road to electric in charts and data uk</a></h3>
 </div>
 <div class="article-row">
@@ -49,11 +53,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/show-hn-sheet-ninja-google-sheets-as-a-crud-back-e/' | relative_url }}">show hn sheet ninja google sheets as a crud back e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/show-hn-public-transit-systems-as-data-lines-stati/' | relative_url }}">show hn public transit systems as data lines stati</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/sealing-paper-packaging-without-adhesives/' | relative_url }}">sealing paper packaging without adhesives</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/overestimation-of-microplastics-potentially-caused/' | relative_url }}">overestimation of microplastics potentially caused</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
@@ -69,11 +81,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/miasma-a-tool-to-trap-ai-web-scrapers-in-an-endles/' | relative_url }}">miasma a tool to trap ai web scrapers in an endles</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/libeatmydata-disable-fsync-and-save/' | relative_url }}">libeatmydata disable fsync and save</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/legacy-pc-design-misery/' | relative_url }}">legacy pc design misery</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/latmd-agent-lattice-a-knowledge-graph-for-your-cod/' | relative_url }}">latmd agent lattice a knowledge graph for your cod</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
