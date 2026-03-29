@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/whos-hiring-q2-2026/' | relative_url }}">whos hiring q2 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/when-do-we-become-adults-really/' | relative_url }}">when do we become adults really</a></h3>
 </div>
 <div class="article-row">
@@ -22,6 +26,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/voyager-1-runs-on-69-kb-of-memory-and-an-8-track-t/' | relative_url }}">voyager 1 runs on 69 kb of memory and an 8 track t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/typing-and-keyboards/' | relative_url }}">typing and keyboards</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
@@ -121,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/personal-ai-development-environment/' | relative_url }}">personal ai development environment</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/overestimation-of-microplastics-potentially-caused/' | relative_url }}">overestimation of microplastics potentially caused</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +150,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/neovim-0120/' | relative_url }}">neovim 0120</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/more-on-version-control/' | relative_url }}">more on version control</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
@@ -198,6 +214,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/a-verilog-to-factorio-compiler-and-simulator-worki/' | relative_url }}">a verilog to factorio compiler and simulator worki</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/a-message-from-the-ruby-central-board/' | relative_url }}">a message from the ruby central board</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
