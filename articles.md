@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/the-cloud-the-dystopian-book-that-changed-germany/' | relative_url }}">the cloud the dystopian book that changed germany</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/the-case-for-becoming-a-manager/' | relative_url }}">the case for becoming a manager</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/show-hn-public-transit-systems-as-data-lines-stati/' | relative_url }}">show hn public transit systems as data lines stati</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/show-hn-create-a-full-language-server-in-go-with-3/' | relative_url }}">show hn create a full language server in go with 3</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
