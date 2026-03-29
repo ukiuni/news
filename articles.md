@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/the-667mhz-machine/' | relative_url }}">the 667mhz machine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/south-korea-mandates-solar-panels-for-public-parki/' | relative_url }}">south korea mandates solar panels for public parki</a></h3>
 </div>
 <div class="article-row">
@@ -25,11 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/legacy-pc-design-misery/' | relative_url }}">legacy pc design misery</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/joining-databases-across-teams-without-copying-dat/' | relative_url }}">joining databases across teams without copying dat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/alzheimers-disease-mortality-among-taxi-and-ambula/' | relative_url }}">alzheimers disease mortality among taxi and ambula</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/a-verilog-to-factorio-compiler-and-simulator-worki/' | relative_url }}">a verilog to factorio compiler and simulator worki</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
