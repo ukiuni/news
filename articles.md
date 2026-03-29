@@ -109,6 +109,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/show-hn-crazierl-an-erlang-operating-system/' | relative_url }}">show hn crazierl an erlang operating system</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/show-hn-27kb-zig-wasm-live-globe-showing-execution/' | relative_url }}">show hn 27kb zig wasm live globe showing execution</a></h3>
 </div>
 <div class="article-row">
@@ -142,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/openbsd-on-motorola-88000-processors/' | relative_url }}">openbsd on motorola 88000 processors</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/ohms-peg-to-wasm-compiler/' | relative_url }}">ohms peg to wasm compiler</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
