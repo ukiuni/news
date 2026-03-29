@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/tsa-lines-are-so-out-of-control-that-travelers-are/' | relative_url }}">tsa lines are so out of control that travelers are</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/the-road-to-electric-in-charts-and-data-uk/' | relative_url }}">the road to electric in charts and data uk</a></h3>
 </div>
 <div class="article-row">
@@ -69,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/show-hn-27kb-zig-wasm-live-globe-showing-execution/' | relative_url }}">show hn 27kb zig wasm live globe showing execution</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/sealing-paper-packaging-without-adhesives/' | relative_url }}">sealing paper packaging without adhesives</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/joining-databases-across-teams-without-copying-dat/' | relative_url }}">joining databases across teams without copying dat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/introduction-to-the-pinetime-pro/' | relative_url }}">introduction to the pinetime pro</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
