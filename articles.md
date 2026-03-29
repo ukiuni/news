@@ -9,11 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/when-all-you-can-do-is-all-or-nothing-do-nothing/' | relative_url }}">when all you can do is all or nothing do nothing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/south-korea-mandates-solar-panels-for-public-parki/' | relative_url }}">south korea mandates solar panels for public parki</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/openbsd-on-motorola-88000-processors/' | relative_url }}">openbsd on motorola 88000 processors</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/joining-databases-across-teams-without-copying-dat/' | relative_url }}">joining databases across teams without copying dat</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
