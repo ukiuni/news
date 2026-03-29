@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/pretext-typescript-library-for-multiline-text-meas/' | relative_url }}">pretext typescript library for multiline text meas</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/police-used-ai-facial-recognition-to-wrongly-arres/' | relative_url }}">police used ai facial recognition to wrongly arres</a></h3>
 </div>
 <div class="article-row">
@@ -130,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/nonfiction-publishing-under-threat-is-more-importa/' | relative_url }}">nonfiction publishing under threat is more importa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/neovim-0120/' | relative_url }}">neovim 0120</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
@@ -162,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/heerichjs-a-tiny-engine-for-3d-voxel-scenes-render/' | relative_url }}">heerichjs a tiny engine for 3d voxel scenes render</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/c26-is-done-iso-c-standards-meeting-trip-report/' | relative_url }}">c26 is done iso c standards meeting trip report</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
