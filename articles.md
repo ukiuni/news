@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/i-turned-my-kindle-into-my-own-personal-newspaper/' | relative_url }}">i turned my kindle into my own personal newspaper</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/heerichjs-a-tiny-engine-for-3d-voxel-scenes-render/' | relative_url }}">heerichjs a tiny engine for 3d voxel scenes render</a></h3>
 </div>
 <div class="article-row">
