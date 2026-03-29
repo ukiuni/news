@@ -45,6 +45,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/siclair-microvision-1977/' | relative_url }}">siclair microvision 1977</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/show-hn-public-transit-systems-as-data-lines-stati/' | relative_url }}">show hn public transit systems as data lines stati</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/sealing-paper-packaging-without-adhesives/' | relative_url }}">sealing paper packaging without adhesives</a></h3>
 </div>
 <div class="article-row">
