@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/the-failure-of-the-thermodynamics-of-computation20/' | relative_url }}">the failure of the thermodynamics of computation20</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/the-cloud-the-dystopian-book-that-changed-germany/' | relative_url }}">the cloud the dystopian book that changed germany</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/sealing-paper-packaging-without-adhesives/' | relative_url }}">sealing paper packaging without adhesives</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/police-used-ai-facial-recognition-to-wrongly-arres/' | relative_url }}">police used ai facial recognition to wrongly arres</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
@@ -126,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/heerichjs-a-tiny-engine-for-3d-voxel-scenes-render/' | relative_url }}">heerichjs a tiny engine for 3d voxel scenes render</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/building-a-mostly-ipv6-only-home-network/' | relative_url }}">building a mostly ipv6 only home network</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
