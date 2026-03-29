@@ -157,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/midnight-train-from-ga-a-view-of-america-from-the/' | relative_url }}">midnight train from ga a view of america from the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/miasma-a-tool-to-trap-ai-web-scrapers-in-an-endles/' | relative_url }}">miasma a tool to trap ai web scrapers in an endles</a></h3>
 </div>
 <div class="article-row">
@@ -186,6 +190,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/heerichjs-a-tiny-engine-for-3d-voxel-scenes-render/' | relative_url }}">heerichjs a tiny engine for 3d voxel scenes render</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/creating-west-coast-buddhism-2024/' | relative_url }}">creating west coast buddhism 2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/chatgpt-wont-let-you-type-until-cloudflare-reads-y/' | relative_url }}">chatgpt wont let you type until cloudflare reads y</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
