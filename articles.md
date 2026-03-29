@@ -17,11 +17,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/sealing-paper-packaging-without-adhesives/' | relative_url }}">sealing paper packaging without adhesives</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/openbsd-on-motorola-88000-processors/' | relative_url }}">openbsd on motorola 88000 processors</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/joining-databases-across-teams-without-copying-dat/' | relative_url }}">joining databases across teams without copying dat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/alzheimers-disease-mortality-among-taxi-and-ambula/' | relative_url }}">alzheimers disease mortality among taxi and ambula</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/29</span>
+  <h3><a href="{{ '/2026/03/29/6o6-v11-faster-6502-on-6502-virtualization-for-a-c/' | relative_url }}">6o6 v11 faster 6502 on 6502 virtualization for a c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/28</span>
