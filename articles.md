@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/okapi-or-what-if-ripgrep-could-edit/' | relative_url }}">okapi or what if ripgrep could edit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/new-apple-silicon-m4-and-m5-hidpi-limitation-on-4k/' | relative_url }}">new apple silicon m4 and m5 hidpi limitation on 4k</a></h3>
 </div>
 <div class="article-row">
@@ -53,11 +57,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/i-use-excalidraw-to-manage-my-diagrams-for-my-blog/' | relative_url }}">i use excalidraw to manage my diagrams for my blog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/hd-audio-driver-for-windows-98se-me/' | relative_url }}">hd audio driver for windows 98se me</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/hardware-image-compression/' | relative_url }}">hardware image compression</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/hamilton-jacobi-bellman-equation-reinforcement-lea/' | relative_url }}">hamilton jacobi bellman equation reinforcement lea</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
