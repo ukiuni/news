@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/turning-weekly-github-activity-into-blog-posts-on/' | relative_url }}">turning weekly github activity into blog posts on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/the-steam-controller-d0ggle-adventure/' | relative_url }}">the steam controller d0ggle adventure</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/the-curious-case-of-retro-demo-scene-graphics/' | relative_url }}">the curious case of retro demo scene graphics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/spring-boot-done-right-lessons-from-a-400-module-c/' | relative_url }}">spring boot done right lessons from a 400 module c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -93,6 +101,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/pharma-is-dosing-drugs-wrong-the-quantum-tunneling/' | relative_url }}">pharma is dosing drugs wrong the quantum tunneling</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/parrots-pack-twice-as-many-neurons-as-primate-brai/' | relative_url }}">parrots pack twice as many neurons as primate brai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/oxcaml-labs/' | relative_url }}">oxcaml labs</a></h3>
 </div>
 <div class="article-row">
@@ -109,7 +125,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/msi-warns-ram-shortage-is-reducing-gpu-supply-by-2/' | relative_url }}">msi warns ram shortage is reducing gpu supply by 2</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/mathematical-methods-and-human-thought-in-the-age/' | relative_url }}">mathematical methods and human thought in the age</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/life-with-ai-causing-human-brain-fry/' | relative_url }}">life with ai causing human brain fry</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/issues-managing-partitions-on-windows-and-mac-any/' | relative_url }}">issues managing partitions on windows and mac any</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -126,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/i-use-excalidraw-to-manage-my-diagrams-for-my-blog/' | relative_url }}">i use excalidraw to manage my diagrams for my blog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/how-to-turn-anything-into-a-router/' | relative_url }}">how to turn anything into a router</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -150,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/hamilton-jacobi-bellman-equation-reinforcement-lea/' | relative_url }}">hamilton jacobi bellman equation reinforcement lea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/google-cloud-functions-2nd-gen-is-actually-just-cl/' | relative_url }}">google cloud functions 2nd gen is actually just cl</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
