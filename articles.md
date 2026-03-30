@@ -9,7 +9,23 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/why-tech-ceos-suddenly-love-blaming-ai-for-mass-la/' | relative_url }}">why tech ceos suddenly love blaming ai for mass la</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/why-chinese-tech-companies-are-racing-to-set-up-in/' | relative_url }}">why chinese tech companies are racing to set up in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/walmart-digital-price-labels-are-coming-to-every-s/' | relative_url }}">walmart digital price labels are coming to every s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/vhdls-crown-jewel/' | relative_url }}">vhdls crown jewel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/uvwatauavawh-the-pushy-string/' | relative_url }}">uvwatauavawh the pushy string</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -25,7 +41,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/the-ecmascript-spec-forces-v8-to-leak-whether-devt/' | relative_url }}">the ecmascript spec forces v8 to leak whether devt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/the-curious-case-of-retro-demo-scene-graphics/' | relative_url }}">the curious case of retro demo scene graphics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/sony-temporarily-suspends-memory-card-sales-due-to/' | relative_url }}">sony temporarily suspends memory card sales due to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -33,7 +57,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/revolutionary-new-system-developed-by-microsoft-ca/' | relative_url }}">revolutionary new system developed by microsoft ca</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/rate-limiting-system-design-algorithms-trade-offs/' | relative_url }}">rate limiting system design algorithms trade offs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/pretext/' | relative_url }}">pretext</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/playstation-prices-surge-worldwide-amid-tariffs-an/' | relative_url }}">playstation prices surge worldwide amid tariffs an</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -53,11 +89,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/intuiting-pratt-parsing/' | relative_url }}">intuiting pratt parsing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/interview-nobonoko-master-of-the-minimal-sequencer/' | relative_url }}">interview nobonoko master of the minimal sequencer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/i-use-excalidraw-to-manage-my-diagrams-for-my-blog/' | relative_url }}">i use excalidraw to manage my diagrams for my blog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/how-colossus-optimizes-data-placement-for-performa/' | relative_url }}">how colossus optimizes data placement for performa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/how-a-trip-to-the-movies-turned-into-a-system-desi/' | relative_url }}">how a trip to the movies turned into a system desi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -77,6 +125,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/evolving-a-translation-system-with-reflection-in-c/' | relative_url }}">evolving a translation system with reflection in c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/epic-games-layoffs-included-terminally-ill-father/' | relative_url }}">epic games layoffs included terminally ill father</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/doesitageverify-the-age-verification-status-of-ope/' | relative_url }}">doesitageverify the age verification status of ope</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +146,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/claude-code-runs-git-reset-hard-originmain-against/' | relative_url }}">claude code runs git reset hard originmain against</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/big-tech-was-embracing-clean-energy-and-turning-a/' | relative_url }}">big tech was embracing clean energy and turning a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/backend-from-first-principles/' | relative_url }}">backend from first principles</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/android-based-grapheneos-refuses-age-verification/' | relative_url }}">android based grapheneos refuses age verification</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
