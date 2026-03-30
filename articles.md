@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/webgpu-in-a-browser-beats-pytorch-on-a-datacenter/' | relative_url }}">webgpu in a browser beats pytorch on a datacenter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/walmart-digital-price-labels-are-coming-to-every-s/' | relative_url }}">walmart digital price labels are coming to every s</a></h3>
 </div>
 <div class="article-row">
@@ -73,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/police-used-ai-facial-recognition-tennessee-woman/' | relative_url }}">police used ai facial recognition tennessee woman</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/playstation-prices-surge-worldwide-amid-tariffs-an/' | relative_url }}">playstation prices surge worldwide amid tariffs an</a></h3>
 </div>
 <div class="article-row">
@@ -97,11 +105,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/mathematical-methods-and-human-thought-in-the-age/' | relative_url }}">mathematical methods and human thought in the age</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/intuiting-pratt-parsing/' | relative_url }}">intuiting pratt parsing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/interview-nobonoko-master-of-the-minimal-sequencer/' | relative_url }}">interview nobonoko master of the minimal sequencer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/index-a-crucial-data-structure-for-search-performa/' | relative_url }}">index a crucial data structure for search performa</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -133,6 +149,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/ghostmoonapp-the-swiss-army-knife-for-your-macos-m/' | relative_url }}">ghostmoonapp the swiss army knife for your macos m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/france-deploys-mistral-ai-across-military-to-accel/' | relative_url }}">france deploys mistral ai across military to accel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/evolving-a-translation-system-with-reflection-in-c/' | relative_url }}">evolving a translation system with reflection in c</a></h3>
 </div>
 <div class="article-row">
@@ -142,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/doesitageverify-the-age-verification-status-of-ope/' | relative_url }}">doesitageverify the age verification status of ope</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/deepseek-down-ai-chatbot-suffers-its-biggest-outag/' | relative_url }}">deepseek down ai chatbot suffers its biggest outag</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
