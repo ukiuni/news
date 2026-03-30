@@ -257,6 +257,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/do-your-own-writing/' | relative_url }}">do your own writing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/deepseek-down-ai-chatbot-suffers-its-biggest-outag/' | relative_url }}">deepseek down ai chatbot suffers its biggest outag</a></h3>
 </div>
 <div class="article-row">
@@ -321,7 +325,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/a-sea-of-sparks-seeing-radioactivity/' | relative_url }}">a sea of sparks seeing radioactivity</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/72-of-the-dollars-purchasing-power-was-destroyed-i/' | relative_url }}">72 of the dollars purchasing power was destroyed i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/2026-has-been-the-most-pivotal-year-in-my-career-a/' | relative_url }}">2026 has been the most pivotal year in my career a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
