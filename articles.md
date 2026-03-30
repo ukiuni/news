@@ -9,11 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/vhdls-crown-jewel/' | relative_url }}">vhdls crown jewel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/the-road-signs-that-teach-travellers-about-france/' | relative_url }}">the road signs that teach travellers about france</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/the-rise-and-fall-of-ibms-4-pi-aerospace-computers/' | relative_url }}">the rise and fall of ibms 4 pi aerospace computers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/roadrunner-a-bipedal-wheeled-robot-for-multi-modal/' | relative_url }}">roadrunner a bipedal wheeled robot for multi modal</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -25,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/oxcaml-labs/' | relative_url }}">oxcaml labs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/new-apple-silicon-m4-and-m5-hidpi-limitation-on-4k/' | relative_url }}">new apple silicon m4 and m5 hidpi limitation on 4k</a></h3>
 </div>
 <div class="article-row">
@@ -33,7 +45,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/hd-audio-driver-for-windows-98se-me/' | relative_url }}">hd audio driver for windows 98se me</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/hardware-image-compression/' | relative_url }}">hardware image compression</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/doesitageverify-the-age-verification-status-of-ope/' | relative_url }}">doesitageverify the age verification status of ope</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/copilot-edited-an-ad-into-my-pr/' | relative_url }}">copilot edited an ad into my pr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
