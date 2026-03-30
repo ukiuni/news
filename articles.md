@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/voyager-1-approaches-one-light-day-from-earth/' | relative_url }}">voyager 1 approaches one light day from earth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/vhdls-crown-jewel/' | relative_url }}">vhdls crown jewel</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +86,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/okapi-or-what-if-ripgrep-could-edit/' | relative_url }}">okapi or what if ripgrep could edit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/ninja-is-a-small-build-system-with-a-focus-on-spee/' | relative_url }}">ninja is a small build system with a focus on spee</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -149,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/chatgpt-acts-as-a-cognitive-crutch-that-weakens-me/' | relative_url }}">chatgpt acts as a cognitive crutch that weakens me</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/big-tech-was-embracing-clean-energy-and-turning-a/' | relative_url }}">big tech was embracing clean energy and turning a</a></h3>
 </div>
 <div class="article-row">
@@ -158,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/android-based-grapheneos-refuses-age-verification/' | relative_url }}">android based grapheneos refuses age verification</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/addictive-agentic-coding-has-developers-losing-sle/' | relative_url }}">addictive agentic coding has developers losing sle</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
