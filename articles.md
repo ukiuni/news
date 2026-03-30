@@ -85,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/clojure-the-documentary-trailer/' | relative_url }}">clojure the documentary trailer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/claude-code-runs-git-reset-hard-originmain-against/' | relative_url }}">claude code runs git reset hard originmain against</a></h3>
 </div>
 <div class="article-row">
