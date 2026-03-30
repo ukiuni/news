@@ -17,7 +17,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/pretext/' | relative_url }}">pretext</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/philly-courts-will-ban-all-smart-eyeglasses-starti/' | relative_url }}">philly courts will ban all smart eyeglasses starti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/new-apple-silicon-m4-and-m5-hidpi-limitation-on-4k/' | relative_url }}">new apple silicon m4 and m5 hidpi limitation on 4k</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/interview-nobonoko-master-of-the-minimal-sequencer/' | relative_url }}">interview nobonoko master of the minimal sequencer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/doesitageverify-the-age-verification-status-of-ope/' | relative_url }}">doesitageverify the age verification status of ope</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
