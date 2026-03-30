@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/over-15-million-github-prs-have-had-ads-injected-i/' | relative_url }}">over 15 million github prs have had ads injected i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/okapi-or-what-if-ripgrep-could-edit/' | relative_url }}">okapi or what if ripgrep could edit</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +154,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/index-a-crucial-data-structure-for-search-performa/' | relative_url }}">index a crucial data structure for search performa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/in-math-rigor-is-vital-but-are-digitized-proofs-ta/' | relative_url }}">in math rigor is vital but are digitized proofs ta</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -245,6 +253,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/build123d-a-python-cad-programming-library/' | relative_url }}">build123d a python cad programming library</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/big-tech-was-embracing-clean-energy-and-turning-a/' | relative_url }}">big tech was embracing clean energy and turning a</a></h3>
 </div>
 <div class="article-row">
@@ -270,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/15-years-of-forking/' | relative_url }}">15 years of forking</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/-monthly-dev-report-march-2026/' | relative_url }}"> monthly dev report march 2026</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/29</span>
