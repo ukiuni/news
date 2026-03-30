@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/working-software-runs-locally/' | relative_url }}">working software runs locally</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/why-tech-ceos-suddenly-love-blaming-ai-for-mass-la/' | relative_url }}">why tech ceos suddenly love blaming ai for mass la</a></h3>
 </div>
 <div class="article-row">
@@ -205,6 +209,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/ftc-action-against-match-and-okcupid-for-deceiving/' | relative_url }}">ftc action against match and okcupid for deceiving</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/france-deploys-mistral-ai-across-military-to-accel/' | relative_url }}">france deploys mistral ai across military to accel</a></h3>
 </div>
 <div class="article-row">
@@ -237,6 +245,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/codingfont-a-game-to-help-you-pick-a-coding-font/' | relative_url }}">codingfont a game to help you pick a coding font</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/clojure-the-documentary-trailer/' | relative_url }}">clojure the documentary trailer</a></h3>
 </div>
 <div class="article-row">
@@ -257,6 +269,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/bitwarden-integrates-with-onecli-agent-vault/' | relative_url }}">bitwarden integrates with onecli agent vault</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/big-tech-was-embracing-clean-energy-and-turning-a/' | relative_url }}">big tech was embracing clean energy and turning a</a></h3>
 </div>
 <div class="article-row">
@@ -274,6 +290,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/addictive-agentic-coding-has-developers-losing-sle/' | relative_url }}">addictive agentic coding has developers losing sle</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/72-of-the-dollars-purchasing-power-was-destroyed-i/' | relative_url }}">72 of the dollars purchasing power was destroyed i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
