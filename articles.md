@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/rivian-made-car-dealers-back-down-in-washington-mo/' | relative_url }}">rivian made car dealers back down in washington mo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/revolutionary-new-system-developed-by-microsoft-ca/' | relative_url }}">revolutionary new system developed by microsoft ca</a></h3>
 </div>
 <div class="article-row">
@@ -125,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/how-the-ai-bubble-bursts/' | relative_url }}">how the ai bubble bursts</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/how-colossus-optimizes-data-placement-for-performa/' | relative_url }}">how colossus optimizes data placement for performa</a></h3>
 </div>
 <div class="article-row">
@@ -161,6 +169,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/everything-claude-saw-a-transparent-account-of-the/' | relative_url }}">everything claude saw a transparent account of the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/epic-games-layoffs-included-terminally-ill-father/' | relative_url }}">epic games layoffs included terminally ill father</a></h3>
 </div>
 <div class="article-row">
@@ -177,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/comprehensive-c-hashmap-benchmarks-2022/' | relative_url }}">comprehensive c hashmap benchmarks 2022</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/clojure-the-documentary-trailer/' | relative_url }}">clojure the documentary trailer</a></h3>
 </div>
 <div class="article-row">
@@ -189,6 +205,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/category-theory-illustrated-types/' | relative_url }}">category theory illustrated types</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/big-tech-was-embracing-clean-energy-and-turning-a/' | relative_url }}">big tech was embracing clean energy and turning a</a></h3>
 </div>
 <div class="article-row">
@@ -198,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/android-based-grapheneos-refuses-age-verification/' | relative_url }}">android based grapheneos refuses age verification</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/ai-is-denying-health-care-claims/' | relative_url }}">ai is denying health care claims</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
