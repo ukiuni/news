@@ -20,6 +20,10 @@ permalink: /articles/
   <h3><a href="{{ '/2026/03/30/claude-code-runs-git-reset-hard-originmain-against/' | relative_url }}">claude code runs git reset hard originmain against</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/15-years-of-forking/' | relative_url }}">15 years of forking</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/29</span>
   <h3><a href="{{ '/2026/03/29/whos-hiring-q2-2026/' | relative_url }}">whos hiring q2 2026</a></h3>
 </div>
