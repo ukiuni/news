@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/your-job-isnt-programming/' | relative_url }}">your job isnt programming</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/working-software-runs-locally/' | relative_url }}">working software runs locally</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/the-curious-case-of-retro-demo-scene-graphics/' | relative_url }}">the curious case of retro demo scene graphics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/take-better-notes-by-hand/' | relative_url }}">take better notes by hand</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -125,7 +133,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/ocr-for-construction-documents-does-not-work-we-fi/' | relative_url }}">ocr for construction documents does not work we fi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/numpy-as-synth-engine/' | relative_url }}">numpy as synth engine</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/ninja-is-a-small-build-system-with-a-focus-on-spee/' | relative_url }}">ninja is a small build system with a focus on spee</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/new-washington-state-law-bans-noncompete-agreement/' | relative_url }}">new washington state law bans noncompete agreement</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -166,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/i-use-excalidraw-to-manage-my-diagrams-for-my-blog/' | relative_url }}">i use excalidraw to manage my diagrams for my blog</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/how-to-use-timberborn-yes-the-beaver-city-building/' | relative_url }}">how to use timberborn yes the beaver city building</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
@@ -254,6 +278,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/claude-code-runs-git-reset-hard-originmain-against/' | relative_url }}">claude code runs git reset hard originmain against</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/30</span>
+  <h3><a href="{{ '/2026/03/30/cherri-programming-language-that-compiles-directly/' | relative_url }}">cherri programming language that compiles directly</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
