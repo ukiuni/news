@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/good-cte-bad-cte/' | relative_url }}">good cte bad cte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/github-monaspace-case-study/' | relative_url }}">github monaspace case study</a></h3>
 </div>
 <div class="article-row">
