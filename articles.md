@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/italy-blocks-us-use-of-sicily-air-base-for-middle/' | relative_url }}">italy blocks us use of sicily air base for middle</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/incident-march-30th-2026-accidental-cdn-caching/' | relative_url }}">incident march 30th 2026 accidental cdn caching</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/github-backs-down-kills-copilot-pull-request-ads-a/' | relative_url }}">github backs down kills copilot pull request ads a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/data-indexing-in-golang/' | relative_url }}">data indexing in golang</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
