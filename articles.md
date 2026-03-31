@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/why-the-us-navy-wont-blast-the-iranians-and-open-s/' | relative_url }}">why the us navy wont blast the iranians and open s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/why-im-betting-on-atproto-and-why-you-should-too/' | relative_url }}">why im betting on atproto and why you should too</a></h3>
 </div>
 <div class="article-row">
@@ -69,11 +73,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/claude-finds-rce-in-vim-and-emacs/' | relative_url }}">claude finds rce in vim and emacs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/claude-codes-source-code-has-been-leaked-via-a-map/' | relative_url }}">claude codes source code has been leaked via a map</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/axios-compromised-on-npm-malicious-versions-drop-r/' | relative_url }}">axios compromised on npm malicious versions drop r</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/artemis-ii-is-not-safe-to-fly/' | relative_url }}">artemis ii is not safe to fly</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/7655-ransomware-claims-in-one-year-group-sector-an/' | relative_url }}">7655 ransomware claims in one year group sector an</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/30</span>
