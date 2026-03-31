@@ -29,7 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/the-claude-code-source-leak-fake-tools-frustration/' | relative_url }}">the claude code source leak fake tools frustration</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/supply-chain-attack-on-axios/' | relative_url }}">supply chain attack on axios</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/software-you-can-love-2026-tickets-are-on-sale/' | relative_url }}">software you can love 2026 tickets are on sale</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/show-hn-forkrun-numa-aware-shell-parallelizer-5040/' | relative_url }}">show hn forkrun numa aware shell parallelizer 5040</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
@@ -77,11 +89,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/good-code-will-still-win/' | relative_url }}">good code will still win</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/github-monaspace-case-study/' | relative_url }}">github monaspace case study</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/github-backs-down-kills-copilot-pull-request-ads-a/' | relative_url }}">github backs down kills copilot pull request ads a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/from-300kb-to-69kb-per-token-how-llm-architectures/' | relative_url }}">from 300kb to 69kb per token how llm architectures</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
@@ -122,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/artemis-ii-is-not-safe-to-fly/' | relative_url }}">artemis ii is not safe to fly</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/accidentally-created-my-first-fork-bomb-with-claud/' | relative_url }}">accidentally created my first fork bomb with claud</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
