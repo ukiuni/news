@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/combinators/' | relative_url }}">combinators</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/closed-source-ai-neofeudalism/' | relative_url }}">closed source ai neofeudalism</a></h3>
 </div>
 <div class="article-row">
