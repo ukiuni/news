@@ -17,11 +17,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/semantic-reducing-llm-agent-loops-by-2778-via-ast/' | relative_url }}">semantic reducing llm agent loops by 2778 via ast</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/ollama-is-now-powered-by-mlx-on-apple-silicon-in-p/' | relative_url }}">ollama is now powered by mlx on apple silicon in p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/incident-march-30th-2026-accidental-cdn-caching/' | relative_url }}">incident march 30th 2026 accidental cdn caching</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/github-monaspace-case-study/' | relative_url }}">github monaspace case study</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/clojure-the-documentary-official-trailer-video/' | relative_url }}">clojure the documentary official trailer video</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
