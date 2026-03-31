@@ -16,6 +16,14 @@ permalink: /articles/
   <h3><a href="{{ '/2026/03/31/universal-claudemd-cut-claude-output-tokens-by-63/' | relative_url }}">universal claudemd cut claude output tokens by 63</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/incident-march-30th-2026-accidental-cdn-caching/' | relative_url }}">incident march 30th 2026 accidental cdn caching</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/github-monaspace-case-study/' | relative_url }}">github monaspace case study</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/your-job-isnt-programming/' | relative_url }}">your job isnt programming</a></h3>
 </div>
