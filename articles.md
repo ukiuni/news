@@ -29,7 +29,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/the-subprime-technical-debt-crisis/' | relative_url }}">the subprime technical debt crisis</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/the-claude-code-source-leak-fake-tools-frustration/' | relative_url }}">the claude code source leak fake tools frustration</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/surviving-as-a-human-in-the-age-of-ai/' | relative_url }}">surviving as a human in the age of ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
@@ -69,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/okcupid-gave-3m-dating-app-photos-to-facial-recogn/' | relative_url }}">okcupid gave 3m dating app photos to facial recogn</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/let-the-commits-tell-the-story/' | relative_url }}">let the commits tell the story</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/good-code-will-still-win/' | relative_url }}">good code will still win</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/githubs-historic-uptime/' | relative_url }}">githubs historic uptime</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
@@ -146,6 +162,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/accidentally-created-my-first-fork-bomb-with-claud/' | relative_url }}">accidentally created my first fork bomb with claud</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/a-primer-on-long-duration-life-support/' | relative_url }}">a primer on long duration life support</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
