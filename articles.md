@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/supply-chain-attack-on-axios/' | relative_url }}">supply chain attack on axios</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/semantic-reducing-llm-agent-loops-by-2778-via-ast/' | relative_url }}">semantic reducing llm agent loops by 2778 via ast</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/github-backs-down-kills-copilot-pull-request-ads-a/' | relative_url }}">github backs down kills copilot pull request ads a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/closed-source-ai-neofeudalism/' | relative_url }}">closed source ai neofeudalism</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
