@@ -77,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/ordinary-lab-gloves-may-have-skewed-microplastic-d/' | relative_url }}">ordinary lab gloves may have skewed microplastic d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/oracle-slashes-30k-jobs-with-a-cold-6-am-email/' | relative_url }}">oracle slashes 30k jobs with a cold 6 am email</a></h3>
 </div>
 <div class="article-row">
@@ -197,7 +201,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/a-dot-a-day-keeps-the-clutter-away/' | relative_url }}">a dot a day keeps the clutter away</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/7655-ransomware-claims-in-one-year-group-sector-an/' | relative_url }}">7655 ransomware claims in one year group sector an</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/4d-doom/' | relative_url }}">4d doom</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
