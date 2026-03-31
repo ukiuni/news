@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/open-source-cad-in-the-browser-solvespace/' | relative_url }}">open source cad in the browser solvespace</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/ollama-is-now-powered-by-mlx-on-apple-silicon-in-p/' | relative_url }}">ollama is now powered by mlx on apple silicon in p</a></h3>
 </div>
 <div class="article-row">
