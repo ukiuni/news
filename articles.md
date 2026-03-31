@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/show-hn-1-bit-bonsai-the-first-commercially-viable/' | relative_url }}">show hn 1 bit bonsai the first commercially viable</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/semantic-reducing-llm-agent-loops-by-2778-via-ast/' | relative_url }}">semantic reducing llm agent loops by 2778 via ast</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/github-backs-down-kills-copilot-pull-request-ads-a/' | relative_url }}">github backs down kills copilot pull request ads a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/gaim-3-exists/' | relative_url }}">gaim 3 exists</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
