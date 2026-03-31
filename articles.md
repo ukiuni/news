@@ -73,7 +73,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/pidgin-30-alpha-1-2950-has-been-released/' | relative_url }}">pidgin 30 alpha 1 2950 has been released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/oracle-slashes-30k-jobs-with-a-cold-6-am-email/' | relative_url }}">oracle slashes 30k jobs with a cold 6 am email</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/openai-raises-122b/' | relative_url }}">openai raises 122b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
@@ -86,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/okcupid-gave-3m-dating-app-photos-to-facial-recogn/' | relative_url }}">okcupid gave 3m dating app photos to facial recogn</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/ministack-replacement-for-localstack/' | relative_url }}">ministack replacement for localstack</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
@@ -170,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/accidentally-created-my-first-fork-bomb-with-claud/' | relative_url }}">accidentally created my first fork bomb with claud</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/a-year-of-change-and-persistence/' | relative_url }}">a year of change and persistence</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">03/31</span>
