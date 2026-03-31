@@ -24,6 +24,14 @@ permalink: /articles/
   <h3><a href="{{ '/2026/03/31/github-monaspace-case-study/' | relative_url }}">github monaspace case study</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/axios-compromised-on-npm-malicious-versions-drop-r/' | relative_url }}">axios compromised on npm malicious versions drop r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">03/31</span>
+  <h3><a href="{{ '/2026/03/31/artemis-ii-is-not-safe-to-fly/' | relative_url }}">artemis ii is not safe to fly</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/30</span>
   <h3><a href="{{ '/2026/03/30/your-job-isnt-programming/' | relative_url }}">your job isnt programming</a></h3>
 </div>
