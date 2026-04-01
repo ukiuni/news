@@ -101,6 +101,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/claude-code-unpacked-a-visual-guide/' | relative_url }}">claude code unpacked a visual guide</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/chess-in-sql/' | relative_url }}">chess in sql</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/ceo-of-americas-largest-public-hospital-system-say/' | relative_url }}">ceo of americas largest public hospital system say</a></h3>
 </div>
 <div class="article-row">
