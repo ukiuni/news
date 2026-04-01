@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/neanderthals-survived-on-a-knifes-edge-for-350k-ye/' | relative_url }}">neanderthals survived on a knifes edge for 350k ye</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/microsoft-closes-worst-quarter-on-wall-street-sinc/' | relative_url }}">microsoft closes worst quarter on wall street sinc</a></h3>
 </div>
 <div class="article-row">
