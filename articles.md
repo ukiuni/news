@@ -8,6 +8,86 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/your-hex-editor-should-color-code-bytes/' | relative_url }}">your hex editor should color code bytes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/why-does-this-code-look-like-this-nobody-knows-tha/' | relative_url }}">why does this code look like this nobody knows tha</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/tinylora-learning-to-reason-in-13-parameters/' | relative_url }}">tinylora learning to reason in 13 parameters</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/starlink-satellite-breaks-apart-into-tens-of-objec/' | relative_url }}">starlink satellite breaks apart into tens of objec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/prediction-the-shopify-ceos-pull-request-will-neve/' | relative_url }}">prediction the shopify ceos pull request will neve</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/plakar-openbsd/' | relative_url }}">plakar openbsd</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/microsoft-closes-worst-quarter-on-wall-street-sinc/' | relative_url }}">microsoft closes worst quarter on wall street sinc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/jury-finds-meta-and-youtube-negligent-in-landmark/' | relative_url }}">jury finds meta and youtube negligent in landmark</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/judge-blocks-executive-order-to-end-federal-fundin/' | relative_url }}">judge blocks executive order to end federal fundin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/iran-threatens-to-attack-us-tech-companies-startin/' | relative_url }}">iran threatens to attack us tech companies startin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/iran-says-will-target-us-firms-in-west-asia-starti/' | relative_url }}">iran says will target us firms in west asia starti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/gmail-now-lets-you-change-your-old-email-name-with/' | relative_url }}">gmail now lets you change your old email name with</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/entire-claude-code-cli-source-code-leaks-thanks-to/' | relative_url }}">entire claude code cli source code leaks thanks to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/doom-over-dns/' | relative_url }}">doom over dns</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/dont-trust-verify-curl-daniel-stenberg/' | relative_url }}">dont trust verify curl daniel stenberg</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/claude-codes-source-leaked-via-a-map-file-in-their/' | relative_url }}">claude codes source leaked via a map file in their</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/ceo-of-americas-largest-public-hospital-system-say/' | relative_url }}">ceo of americas largest public hospital system say</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/breaking-enigma-with-index-of-coincidence-on-a-com/' | relative_url }}">breaking enigma with index of coincidence on a com</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/axios-1141-and-0304-on-npm-are-compromised-depende/' | relative_url }}">axios 1141 and 0304 on npm are compromised depende</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/a-bug-in-bun-may-have-been-the-root-cause-of-the-c/' | relative_url }}">a bug in bun may have been the root cause of the c</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">03/31</span>
   <h3><a href="{{ '/2026/03/31/why-the-us-navy-wont-blast-the-iranians-and-open-s/' | relative_url }}">why the us navy wont blast the iranians and open s</a></h3>
 </div>
