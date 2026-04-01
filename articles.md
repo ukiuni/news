@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/show-hn-sycamore-next-gen-rust-ui-library-powered/' | relative_url }}">show hn sycamore next gen rust ui library powered</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/show-hn-cli-to-order-groceries-via-reverse-enginee/' | relative_url }}">show hn cli to order groceries via reverse enginee</a></h3>
 </div>
 <div class="article-row">
@@ -105,6 +109,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/i-quit-the-clankers-won/' | relative_url }}">i quit the clankers won</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/i-made-a-keyboard-nobody-asked-for-my-experience-m/' | relative_url }}">i made a keyboard nobody asked for my experience m</a></h3>
 </div>
 <div class="article-row">
@@ -126,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/dont-trust-verify-curl-daniel-stenberg/' | relative_url }}">dont trust verify curl daniel stenberg</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/css-or-bs/' | relative_url }}">css or bs</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
