@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/what-the-claude-code-leak-means-for-regulated-indu/' | relative_url }}">what the claude code leak means for regulated indu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/we-intercepted-the-white-house-apps-traffic-77-of/' | relative_url }}">we intercepted the white house apps traffic 77 of</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/dont-trust-verify-curl-daniel-stenberg/' | relative_url }}">dont trust verify curl daniel stenberg</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/claude-wrote-a-full-freebsd-remote-kernel-rce-with/' | relative_url }}">claude wrote a full freebsd remote kernel rce with</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
