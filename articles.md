@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/we-built-it-with-slide-rules-then-we-forgot-how/' | relative_url }}">we built it with slide rules then we forgot how</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/us-exempts-oil-industry-from-protecting-gulf-anima/' | relative_url }}">us exempts oil industry from protecting gulf anima</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/starlink-satellite-breaks-apart-into-tens-of-objec/' | relative_url }}">starlink satellite breaks apart into tens of objec</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/sqlite-db-simple-in-process-reliable-fast-2024/' | relative_url }}">sqlite db simple in process reliable fast 2024</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
@@ -106,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/judge-blocks-executive-order-to-end-federal-fundin/' | relative_url }}">judge blocks executive order to end federal fundin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/join-our-april-fools-challenge-for-a-chance-at-tea/' | relative_url }}">join our april fools challenge for a chance at tea</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
@@ -202,6 +214,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/analyzing-geekbench-6-under-intels-bot/' | relative_url }}">analyzing geekbench 6 under intels bot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/ada-and-spark-on-arm-cortex-m-a-tutorial-with-ardu/' | relative_url }}">ada and spark on arm cortex m a tutorial with ardu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
