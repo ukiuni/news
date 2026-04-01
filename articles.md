@@ -89,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/i-made-a-keyboard-nobody-asked-for-my-experience-m/' | relative_url }}">i made a keyboard nobody asked for my experience m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/gmail-now-lets-you-change-your-old-email-name-with/' | relative_url }}">gmail now lets you change your old email name with</a></h3>
 </div>
 <div class="article-row">

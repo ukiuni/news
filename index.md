@@ -6,8 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、AIインフラ投資が企業戦略を揺るがし（Oracleの大規模リストラ）、コストとスケールの再定義が進んでいます🤖💼。  
-同時に、Claude CodeやREWE APIのリバースエンジニアリング、Geekbench解析といった検証・透明性への注目が高まり、セキュリティと信頼性の議論が熱を帯びています🕵️‍♀️🔍。  
-そしてCERNの超伝導カートからRaspberry PiでのMiniDV復活、磁気記憶とアポロAGCの回顧まで、ハードウェア文化とレトロ愛好が技術的好奇心を刺激しています⚙️🕰️
+    今日のテック業界では、クラフト魂が復活し、TapTypeキーボードやRaspberry PiでMiniDV復活などハード系の趣味プロジェクトが話題を席巻しています🛠️。一方でClaude Codeやcchのリバースエンジニアリング、REWE API解析といったセキュリティ／解析の話題が熱を帯び、GeekbenchやIntel周りのベンチマーク議論も続いています🔍。そんな中、CERNの超伝導カートという遊び心あふれる研究と、Oracleの最大3万人削減というAIデータセンター投資による構造変化が業界の明暗を鮮やかに対比させています🤖
   </div>
 </div>
