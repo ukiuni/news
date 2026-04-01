@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/youre-still-signing-data-structures-the-wrong-way/' | relative_url }}">youre still signing data structures the wrong way</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/your-hex-editor-should-color-code-bytes/' | relative_url }}">your hex editor should color code bytes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/windows-95-defenses-against-installers-that-overwr/' | relative_url }}">windows 95 defenses against installers that overwr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
@@ -177,6 +185,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/indexical-private-local-first-memory-for-everythin/' | relative_url }}">indexical private local first memory for everythin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/in-case-of-emergency-make-burrito-bison-3/' | relative_url }}">in case of emergency make burrito bison 3</a></h3>
 </div>
 <div class="article-row">
@@ -254,6 +266,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/axios-1141-and-0304-on-npm-are-compromised-depende/' | relative_url }}">axios 1141 and 0304 on npm are compromised depende</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/artemis-ii-astronauts-arrive-at-launch-pad-39b-in/' | relative_url }}">artemis ii astronauts arrive at launch pad 39b in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
