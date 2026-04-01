@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/show-hn-baton-a-desktop-app-for-developing-with-ai/' | relative_url }}">show hn baton a desktop app for developing with ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/remembering-magnetic-memories-and-the-apollo-agc/' | relative_url }}">remembering magnetic memories and the apollo agc</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/judge-blocks-executive-order-to-end-federal-fundin/' | relative_url }}">judge blocks executive order to end federal fundin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/is-bgp-safe-yet-no-test-your-isp/' | relative_url }}">is bgp safe yet no test your isp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
@@ -138,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/css-or-bs/' | relative_url }}">css or bs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/consider-the-greenland-shark-2020/' | relative_url }}">consider the greenland shark 2020</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
