@@ -49,6 +49,18 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/the-openai-graveyard-all-the-deals-and-products-th/' | relative_url }}">the openai graveyard all the deals and products th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/the-great-claude-code-leak-of-2026-accident-incomp/' | relative_url }}">the great claude code leak of 2026 accident incomp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/stepfun-35-flash-is-1-cost-effective-model-for-ope/' | relative_url }}">stepfun 35 flash is 1 cost effective model for ope</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/starlink-satellite-breaks-apart-into-tens-of-objec/' | relative_url }}">starlink satellite breaks apart into tens of objec</a></h3>
 </div>
 <div class="article-row">
@@ -65,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/show-hn-real-time-dashboard-for-claude-code-agent/' | relative_url }}">show hn real time dashboard for claude code agent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/show-hn-cli-to-order-groceries-via-reverse-enginee/' | relative_url }}">show hn cli to order groceries via reverse enginee</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/reading-leaked-claude-code-source-code/' | relative_url }}">reading leaked claude code source code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/random-numbers-persian-code-a-mysterious-signal-tr/' | relative_url }}">random numbers persian code a mysterious signal tr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
@@ -150,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/entire-claude-code-cli-source-code-leaks-thanks-to/' | relative_url }}">entire claude code cli source code leaks thanks to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/emdash-a-spiritual-successor-to-wordpress-that-sol/' | relative_url }}">emdash a spiritual successor to wordpress that sol</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
