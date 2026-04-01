@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/whats-cch-reverse-engineering-claude-codes-request/' | relative_url }}">whats cch reverse engineering claude codes request</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/we-intercepted-the-white-house-apps-traffic-77-of/' | relative_url }}">we intercepted the white house apps traffic 77 of</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/plakar-openbsd/' | relative_url }}">plakar openbsd</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/oracle-is-cutting-up-to-30000-employees-to-pay-for/' | relative_url }}">oracle is cutting up to 30000 employees to pay for</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
@@ -97,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/bring-back-minidv-with-this-raspberry-pi-firewire/' | relative_url }}">bring back minidv with this raspberry pi firewire</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/breaking-enigma-with-index-of-coincidence-on-a-com/' | relative_url }}">breaking enigma with index of coincidence on a com</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/another-starlink-satellite-has-inexplicably-explod/' | relative_url }}">another starlink satellite has inexplicably explod</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/analyzing-geekbench-6-under-intels-bot/' | relative_url }}">analyzing geekbench 6 under intels bot</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
