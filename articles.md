@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/the-self-cancelling-subscription/' | relative_url }}">the self cancelling subscription</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/starlink-satellite-breaks-apart-into-tens-of-objec/' | relative_url }}">starlink satellite breaks apart into tens of objec</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/iran-says-will-target-us-firms-in-west-asia-starti/' | relative_url }}">iran says will target us firms in west asia starti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/in-case-of-emergency-make-burrito-bison-3/' | relative_url }}">in case of emergency make burrito bison 3</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
