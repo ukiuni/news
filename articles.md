@@ -229,6 +229,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/fast-and-gorgeous-erosion-filter/' | relative_url }}">fast and gorgeous erosion filter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/entire-claude-code-cli-source-code-leaks-thanks-to/' | relative_url }}">entire claude code cli source code leaks thanks to</a></h3>
 </div>
 <div class="article-row">
@@ -298,6 +302,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/axios-1141-and-0304-on-npm-are-compromised-depende/' | relative_url }}">axios 1141 and 0304 on npm are compromised depende</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/artemis-ii-lifts-off-four-astronauts-begin-10-day/' | relative_url }}">artemis ii lifts off four astronauts begin 10 day</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
