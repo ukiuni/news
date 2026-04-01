@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/timesliced-reservoir-sampling-a-new-algorithm-for/' | relative_url }}">timesliced reservoir sampling a new algorithm for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/the-self-cancelling-subscription/' | relative_url }}">the self cancelling subscription</a></h3>
 </div>
 <div class="article-row">
@@ -105,6 +109,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/playing-wolfenstein-3d-with-one-hand-in-2026/' | relative_url }}">playing wolfenstein 3d with one hand in 2026</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/plakar-openbsd/' | relative_url }}">plakar openbsd</a></h3>
 </div>
 <div class="article-row">
@@ -118,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/neanderthals-survived-on-a-knifes-edge-for-350k-ye/' | relative_url }}">neanderthals survived on a knifes edge for 350k ye</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/nasa-artemis-ii-moon-mission-live-launch-broadcast/' | relative_url }}">nasa artemis ii moon mission live launch broadcast</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
@@ -238,6 +250,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/analyzing-geekbench-6-under-intels-bot/' | relative_url }}">analyzing geekbench 6 under intels bot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/ai-for-american-produced-cement-and-concrete/' | relative_url }}">ai for american produced cement and concrete</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
