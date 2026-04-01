@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/swappacom-for-grapheneos-compatible-devices-stay-a/' | relative_url }}">swappacom for grapheneos compatible devices stay a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/stepfun-35-flash-is-1-cost-effective-model-for-ope/' | relative_url }}">stepfun 35 flash is 1 cost effective model for ope</a></h3>
 </div>
 <div class="article-row">
@@ -189,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/jaxs-true-calling-ray-marching-renderers-on-webgl/' | relative_url }}">jaxs true calling ray marching renderers on webgl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/is-bgp-safe-yet-no-test-your-isp/' | relative_url }}">is bgp safe yet no test your isp</a></h3>
 </div>
 <div class="article-row">
@@ -233,6 +241,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/dram-pricing-is-killing-the-hobbyist-sbc-market/' | relative_url }}">dram pricing is killing the hobbyist sbc market</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/doom-over-dns/' | relative_url }}">doom over dns</a></h3>
 </div>
 <div class="article-row">
@@ -242,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/css-or-bs/' | relative_url }}">css or bs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/coreutils-a-comprehensive-review-2023/' | relative_url }}">coreutils a comprehensive review 2023</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
