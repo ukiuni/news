@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/unsubscribe-from-the-church-of-graphs/' | relative_url }}">unsubscribe from the church of graphs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/turboquant-kv-compression-and-ssd-expert-streaming/' | relative_url }}">turboquant kv compression and ssd expert streaming</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/the-self-cancelling-subscription/' | relative_url }}">the self cancelling subscription</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/the-revenge-of-the-data-scientist/' | relative_url }}">the revenge of the data scientist</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
@@ -105,11 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/show-hn-flight-viz-10k-flights-on-a-3d-globe-in-35/' | relative_url }}">show hn flight viz 10k flights on a 3d globe in 35</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/show-hn-cli-to-order-groceries-via-reverse-enginee/' | relative_url }}">show hn cli to order groceries via reverse enginee</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/show-hn-baton-a-desktop-app-for-developing-with-ai/' | relative_url }}">show hn baton a desktop app for developing with ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/scientists-crack-a-20-year-nuclear-mystery-behind/' | relative_url }}">scientists crack a 20 year nuclear mystery behind</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
@@ -290,6 +306,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/ada-and-spark-on-arm-cortex-m-a-tutorial-with-ardu/' | relative_url }}">ada and spark on arm cortex m a tutorial with ardu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/01</span>
+  <h3><a href="{{ '/2026/04/01/a-game-with-programmable-space-combat-written-in-g/' | relative_url }}">a game with programmable space combat written in g</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/01</span>
