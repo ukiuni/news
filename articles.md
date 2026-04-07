@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/we-found-a-ticking-time-bomb-in-macos-tcp-networki/' | relative_url }}">we found a ticking time bomb in macos tcp networki</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/using-discord-on-plan-9/' | relative_url }}">using discord on plan 9</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/trading-my-body-for-logic-the-physical-decay-we-ig/' | relative_url }}">trading my body for logic the physical decay we ig</a></h3>
 </div>
 <div class="article-row">
@@ -17,7 +25,39 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/the-machines-are-fine-im-worried-about-us/' | relative_url }}">the machines are fine im worried about us</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/the-free-market-lie-why-switzerland-has-25-gbit-in/' | relative_url }}">the free market lie why switzerland has 25 gbit in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/the-downfall-and-enshittification-of-microsoft-in/' | relative_url }}">the downfall and enshittification of microsoft in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/stamp-it-all-programs-must-report-their-version/' | relative_url }}">stamp it all programs must report their version</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/someone-good-at-css-help-my-website-design-is-dyin/' | relative_url }}">someone good at css help my website design is dyin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/someone-at-browserstack-is-leaking-users-email-add/' | relative_url }}">someone at browserstack is leaking users email add</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/size-matters-even-on-very-fast-connections/' | relative_url }}">size matters even on very fast connections</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/show-hn-hippo-biologically-inspired-memory-for-ai/' | relative_url }}">show hn hippo biologically inspired memory for ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/porting-gos-strings-package-to-c/' | relative_url }}">porting gos strings package to c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
@@ -30,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/anthropic-expands-partnership-w-google-and-broadco/' | relative_url }}">anthropic expands partnership w google and broadco</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/after-20-years-i-turned-off-google-adsense-for-my/' | relative_url }}">after 20 years i turned off google adsense for my</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
