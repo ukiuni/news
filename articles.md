@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/you-cant-cancel-a-javascript-promise-except-someti/' | relative_url }}">you cant cancel a javascript promise except someti</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/wi-fi-that-can-withstand-a-nuclear-reactor-this-re/' | relative_url }}">wi fi that can withstand a nuclear reactor this re</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/what-text-editor-cli-or-gui-are-you-using-for-writ/' | relative_url }}">what text editor cli or gui are you using for writ</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
@@ -26,6 +34,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/using-discord-on-plan-9/' | relative_url }}">using discord on plan 9</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/two-years-of-valkey/' | relative_url }}">two years of valkey</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
@@ -169,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/moving-fast-in-hardware-lessons-from-lab-to-100m-a/' | relative_url }}">moving fast in hardware lessons from lab to 100m a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/media-scraper-gallery-dl-is-moving-to-codeberg-aft/' | relative_url }}">media scraper gallery dl is moving to codeberg aft</a></h3>
 </div>
 <div class="article-row">
@@ -222,6 +238,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/has-electricity-decoupled-from-gas-prices-in-germa/' | relative_url }}">has electricity decoupled from gas prices in germa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/google-open-sources-experimental-agent-orchestrati/' | relative_url }}">google open sources experimental agent orchestrati</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/good-taste-the-only-real-moat-left/' | relative_url }}">good taste the only real moat left</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
