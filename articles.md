@@ -121,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/show-hn-gemma-4-multimodal-fine-tuner-for-apple-si/' | relative_url }}">show hn gemma 4 multimodal fine tuner for apple si</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/show-hn-brutalist-concrete-laptop-stand-2024/' | relative_url }}">show hn brutalist concrete laptop stand 2024</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/samsung-discontinuing-its-texting-app-tells-users/' | relative_url }}">samsung discontinuing its texting app tells users</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/s3-files-and-the-changing-face-of-s3/' | relative_url }}">s3 files and the changing face of s3</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
@@ -333,6 +341,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/assessing-claude-mythos-previews-cybersecurity-cap/' | relative_url }}">assessing claude mythos previews cybersecurity cap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/are-we-idiocracy-yet/' | relative_url }}">are we idiocracy yet</a></h3>
 </div>
 <div class="article-row">
@@ -358,6 +370,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/after-20-years-i-turned-off-google-adsense-for-my/' | relative_url }}">after 20 years i turned off google adsense for my</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/a-truck-driver-spent-20-years-making-a-scale-model/' | relative_url }}">a truck driver spent 20 years making a scale model</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
