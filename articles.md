@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/the-great-nix-flake-check/' | relative_url }}">the great nix flake check</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/the-free-market-lie-why-switzerland-has-25-gbit-in/' | relative_url }}">the free market lie why switzerland has 25 gbit in</a></h3>
 </div>
 <div class="article-row">
