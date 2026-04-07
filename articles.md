@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/the-pinnacle-of-enshittification-or-large-language/' | relative_url }}">the pinnacle of enshittification or large language</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/the-machines-are-fine-im-worried-about-us/' | relative_url }}">the machines are fine im worried about us</a></h3>
 </div>
 <div class="article-row">
@@ -73,7 +77,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/show-hn-stop-paying-for-dropboxgoogle-drive-use-yo/' | relative_url }}">show hn stop paying for dropboxgoogle drive use yo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/show-hn-hippo-biologically-inspired-memory-for-ai/' | relative_url }}">show hn hippo biologically inspired memory for ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/show-hn-brutalist-concrete-laptop-stand-2024/' | relative_url }}">show hn brutalist concrete laptop stand 2024</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
@@ -122,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/media-scraper-gallery-dl-is-moving-to-codeberg-aft/' | relative_url }}">media scraper gallery dl is moving to codeberg aft</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/llm-may-be-standardizing-human-expression-and-subt/' | relative_url }}">llm may be standardizing human expression and subt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
@@ -177,11 +193,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/c3-closes-out-its-07-era-focusing-on-simplicity-an/' | relative_url }}">c3 closes out its 07 era focusing on simplicity an</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/browserstack-local-leaking-private-key/' | relative_url }}">browserstack local leaking private key</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/brewops-i-built-a-production-grade-htcpcp-server-b/' | relative_url }}">brewops i built a production grade htcpcp server b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/breaking-the-console-a-brief-history-of-video-game/' | relative_url }}">breaking the console a brief history of video game</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
