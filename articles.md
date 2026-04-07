@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/what-next-for-the-compute-crunch/' | relative_url }}">what next for the compute crunch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/we-found-an-undocumented-bug-in-the-apollo-11-guid/' | relative_url }}">we found an undocumented bug in the apollo 11 guid</a></h3>
 </div>
 <div class="article-row">
@@ -81,11 +85,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/show-hn-pionhandoff-move-webrtc-out-of-browser-and/' | relative_url }}">show hn pionhandoff move webrtc out of browser and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/show-hn-hippo-biologically-inspired-memory-for-ai/' | relative_url }}">show hn hippo biologically inspired memory for ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/show-hn-brutalist-concrete-laptop-stand-2024/' | relative_url }}">show hn brutalist concrete laptop stand 2024</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/show-hn-a-cartographers-attempt-to-realistically-m/' | relative_url }}">show hn a cartographers attempt to realistically m</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
@@ -98,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/samsung-discontinuing-its-texting-app-tells-users/' | relative_url }}">samsung discontinuing its texting app tells users</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/running-out-of-disk-space-in-production/' | relative_url }}">running out of disk space in production</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
@@ -121,6 +137,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/nih-scientists-discover-powerful-new-opioid-that-r/' | relative_url }}">nih scientists discover powerful new opioid that r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/netflix-void-model-video-object-and-interaction-de/' | relative_url }}">netflix void model video object and interaction de</a></h3>
 </div>
 <div class="article-row">
@@ -138,6 +158,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/llm-may-be-standardizing-human-expression-and-subt/' | relative_url }}">llm may be standardizing human expression and subt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/live-life-on-the-edge-a-layered-strategy-for-testi/' | relative_url }}">live life on the edge a layered strategy for testi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/jim-webber-explains-fault-tolerance-scalability-am/' | relative_url }}">jim webber explains fault tolerance scalability am</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
