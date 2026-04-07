@@ -8,6 +8,74 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/trading-my-body-for-logic-the-physical-decay-we-ig/' | relative_url }}">trading my body for logic the physical decay we ig</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/show-hn-hippo-biologically-inspired-memory-for-ai/' | relative_url }}">show hn hippo biologically inspired memory for ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/ive-been-building-software-for-40-years-but-i-want/' | relative_url }}">ive been building software for 40 years but i want</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/brewops-i-built-a-production-grade-htcpcp-server-b/' | relative_url }}">brewops i built a production grade htcpcp server b</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/anthropic-expands-partnership-w-google-and-broadco/' | relative_url }}">anthropic expands partnership w google and broadco</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/-proof-of-work-the-to-do-list-of-infinite-regret/' | relative_url }}"> proof of work the to do list of infinite regret</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/06</span>
+  <h3><a href="{{ '/2026/04/06/what-being-ripped-off-taught-me/' | relative_url }}">what being ripped off taught me</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/06</span>
+  <h3><a href="{{ '/2026/04/06/show-hn-govauctions-lets-you-browse-government-auc/' | relative_url }}">show hn govauctions lets you browse government auc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/06</span>
+  <h3><a href="{{ '/2026/04/06/show-hn-ghost-pepper-local-hold-to-talk-speech-to/' | relative_url }}">show hn ghost pepper local hold to talk speech to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/06</span>
+  <h3><a href="{{ '/2026/04/06/sam-altman-may-control-our-future-can-he-be-truste/' | relative_url }}">sam altman may control our future can he be truste</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/06</span>
+  <h3><a href="{{ '/2026/04/06/launch-hn-freestyle-sandboxes-for-coding-agents/' | relative_url }}">launch hn freestyle sandboxes for coding agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/06</span>
+  <h3><a href="{{ '/2026/04/06/issue-claude-code-is-unusable-for-complex-engineer/' | relative_url }}">issue claude code is unusable for complex engineer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/06</span>
+  <h3><a href="{{ '/2026/04/06/german-police-name-alleged-leaders-of-gandcrab-and/' | relative_url }}">german police name alleged leaders of gandcrab and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/06</span>
+  <h3><a href="{{ '/2026/04/06/a-cryptography-engineers-perspective-on-quantum-co/' | relative_url }}">a cryptography engineers perspective on quantum co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/06</span>
+  <h3><a href="{{ '/2026/04/06/9-things-youre-overengineering-the-browser-already/' | relative_url }}">9 things youre overengineering the browser already</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/02</span>
+  <h3><a href="{{ '/2026/04/02/a-new-c-back-end-for-ocamlc/' | relative_url }}">a new c back end for ocamlc</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">04/01</span>
   <h3><a href="{{ '/2026/04/01/youre-still-signing-data-structures-the-wrong-way/' | relative_url }}">youre still signing data structures the wrong way</a></h3>
 </div>
