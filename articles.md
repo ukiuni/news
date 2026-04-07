@@ -85,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/3-takeaways-from-all-things-ai-8020-rule-non-deter/' | relative_url }}">3 takeaways from all things ai 8020 rule non deter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/-proof-of-work-the-to-do-list-of-infinite-regret/' | relative_url }}"> proof of work the to do list of infinite regret</a></h3>
 </div>
 <div class="article-row">
