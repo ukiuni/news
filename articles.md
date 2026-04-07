@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/system-card-claude-mythos-preview-pdf/' | relative_url }}">system card claude mythos preview pdf</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/stamp-it-all-programs-must-report-their-version/' | relative_url }}">stamp it all programs must report their version</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +138,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/running-out-of-disk-space-in-production/' | relative_url }}">running out of disk space in production</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/rescuing-old-printers-with-an-in-browser-linux-vm/' | relative_url }}">rescuing old printers with an in browser linux vm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/project-glasswing-securing-critical-software-for-t/' | relative_url }}">project glasswing securing critical software for t</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
@@ -289,6 +301,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/cambodia-unveils-a-statue-of-famous-landmine-sniff/' | relative_url }}">cambodia unveils a statue of famous landmine sniff</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/c3-closes-out-its-07-era-focusing-on-simplicity-an/' | relative_url }}">c3 closes out its 07 era focusing on simplicity an</a></h3>
 </div>
 <div class="article-row">
@@ -330,6 +346,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/ai-wont-replace-you-but-a-manager-using-ai-will/' | relative_url }}">ai wont replace you but a manager using ai will</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/ai-helps-add-10k-more-photos-to-oldnyc/' | relative_url }}">ai helps add 10k more photos to oldnyc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
