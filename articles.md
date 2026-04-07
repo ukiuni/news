@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/solod-a-subset-of-go-that-translates-to-c/' | relative_url }}">solod a subset of go that translates to c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/size-matters-even-on-very-fast-connections/' | relative_url }}">size matters even on very fast connections</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/porting-gos-strings-package-to-c/' | relative_url }}">porting gos strings package to c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/netflix-void-model-video-object-and-interaction-de/' | relative_url }}">netflix void model video object and interaction de</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
