@@ -217,6 +217,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/lunar-flyby/' | relative_url }}">lunar flyby</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/llm-may-be-standardizing-human-expression-and-subt/' | relative_url }}">llm may be standardizing human expression and subt</a></h3>
 </div>
 <div class="article-row">
@@ -262,6 +266,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/i-poorly-estimated-a-year-long-rewrite/' | relative_url }}">i poorly estimated a year long rewrite</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/how-to-get-better-at-guitar/' | relative_url }}">how to get better at guitar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
@@ -338,6 +346,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/blackholing-my-email/' | relative_url }}">blackholing my email</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/bitcoin-and-quantum-computing/' | relative_url }}">bitcoin and quantum computing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
