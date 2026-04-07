@@ -197,6 +197,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/john-coltrane-illustrates-the-mathematics-of-jazz/' | relative_url }}">john coltrane illustrates the mathematics of jazz</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/jim-webber-explains-fault-tolerance-scalability-am/' | relative_url }}">jim webber explains fault tolerance scalability am</a></h3>
 </div>
 <div class="article-row">
@@ -246,6 +250,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/good-taste-the-only-real-moat-left/' | relative_url }}">good taste the only real moat left</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/glm-51-towards-long-horizon-tasks/' | relative_url }}">glm 51 towards long horizon tasks</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
@@ -329,7 +337,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/a-new-postcrossing-stamp-from-the-usa/' | relative_url }}">a new postcrossing stamp from the usa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/3-takeaways-from-all-things-ai-8020-rule-non-deter/' | relative_url }}">3 takeaways from all things ai 8020 rule non deter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/12k-tons-of-dumped-orange-peel-grew-into-a-landsca/' | relative_url }}">12k tons of dumped orange peel grew into a landsca</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
