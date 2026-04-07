@@ -73,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/dear-heroku-uhh-whats-going-on/' | relative_url }}">dear heroku uhh whats going on</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/brewops-i-built-a-production-grade-htcpcp-server-b/' | relative_url }}">brewops i built a production grade htcpcp server b</a></h3>
 </div>
 <div class="article-row">
