@@ -61,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/target-puts-customers-on-the-hook-for-ai-shopping/' | relative_url }}">target puts customers on the hook for ai shopping</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/stamp-it-all-programs-must-report-their-version/' | relative_url }}">stamp it all programs must report their version</a></h3>
 </div>
 <div class="article-row">
@@ -130,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/parse-dont-validate-in-a-language-that-doesnt-want/' | relative_url }}">parse dont validate in a language that doesnt want</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/openssh-begins-warning-for-non-pqc-key-exchanges/' | relative_url }}">openssh begins warning for non pqc key exchanges</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
@@ -205,6 +213,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/has-electricity-decoupled-from-gas-prices-in-germa/' | relative_url }}">has electricity decoupled from gas prices in germa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/germany-power-prices-turn-deeply-negative-on-renew/' | relative_url }}">germany power prices turn deeply negative on renew</a></h3>
 </div>
 <div class="article-row">
@@ -214,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/every-gpu-that-mattered/' | relative_url }}">every gpu that mattered</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/dropping-cloudflare-for-bunnynet/' | relative_url }}">dropping cloudflare for bunnynet</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
