@@ -77,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
+  <h3><a href="{{ '/2026/04/07/the-curated-automated-open-source-portfolio-how-it/' | relative_url }}">the curated automated open source portfolio how it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/target-puts-customers-on-the-hook-for-ai-shopping/' | relative_url }}">target puts customers on the hook for ai shopping</a></h3>
 </div>
 <div class="article-row">
