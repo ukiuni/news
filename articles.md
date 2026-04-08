@@ -125,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/show-hn-is-hormuz-open-yet/' | relative_url }}">show hn is hormuz open yet</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/show-hn-go-bt-minimalist-behavior-trees-for-go/' | relative_url }}">show hn go bt minimalist behavior trees for go</a></h3>
 </div>
 <div class="article-row">
@@ -330,6 +334,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/benchmark-pgvector-vs-pinecone-vs-qdrant-vs-weavia/' | relative_url }}">benchmark pgvector vs pinecone vs qdrant vs weavia</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/aws-engineer-reports-postgresql-performance-halved/' | relative_url }}">aws engineer reports postgresql performance halved</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
