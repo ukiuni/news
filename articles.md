@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/verifying-human-authorship-with-humanjson/' | relative_url }}">verifying human authorship with humanjson</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/veracrypt-project-update/' | relative_url }}">veracrypt project update</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/under-the-hood-of-mdns-new-frontend/' | relative_url }}">under the hood of mdns new frontend</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/ukraine-says-it-replaced-human-soldiers-with-groun/' | relative_url }}">ukraine says it replaced human soldiers with groun</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -53,6 +61,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/the-tech-behind-wordszip-infinite-mmo-word-search/' | relative_url }}">the tech behind wordszip infinite mmo word search</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/the-git-commands-i-run-before-reading-any-code/' | relative_url }}">the git commands i run before reading any code</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +74,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/the-fundamentals-still-havent-changed-typewriters/' | relative_url }}">the fundamentals still havent changed typewriters</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/texas-is-giving-data-centers-more-than-1-billion-i/' | relative_url }}">texas is giving data centers more than 1 billion i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/technical-teardown-of-the-rust-cli-that-speeds-up/' | relative_url }}">technical teardown of the rust cli that speeds up</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -109,6 +129,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/republicans-fooled-by-ai-generated-image-of-us-air/' | relative_url }}">republicans fooled by ai generated image of us air</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/pureslopmd-teach-your-ai-agent-to-write-terrible-c/' | relative_url }}">pureslopmd teach your ai agent to write terrible c</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +146,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/openai-says-its-new-model-gpt-2-is-too-dangerous-t/' | relative_url }}">openai says its new model gpt 2 is too dangerous t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/open-source-security-at-astral/' | relative_url }}">open source security at astral</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/on-vinyl-cache-and-varnish-cache/' | relative_url }}">on vinyl cache and varnish cache</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -149,6 +181,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/multi-core-by-default-by-ryan-fleury-digital-grove/' | relative_url }}">multi core by default by ryan fleury digital grove</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/move-over-vibe-coding-i-built-an-ai-editor-for-str/' | relative_url }}">move over vibe coding i built an ai editor for str</a></h3>
 </div>
 <div class="article-row">
@@ -158,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/megatrain-full-precision-training-of-100b-paramete/' | relative_url }}">megatrain full precision training of 100b paramete</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/linkedin-hit-with-class-action-lawsuits-over-brows/' | relative_url }}">linkedin hit with class action lawsuits over brows</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -177,7 +217,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/i-am-very-fond-of-the-pipeline-operator/' | relative_url }}">i am very fond of the pipeline operator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/honda-president-after-visiting-chinese-auto-suppli/' | relative_url }}">honda president after visiting chinese auto suppli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/googles-ai-search-is-producing-millions-of-wrong-a/' | relative_url }}">googles ai search is producing millions of wrong a</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -186,6 +234,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/forged-between-coal-and-code/' | relative_url }}">forged between coal and code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/fbi-americans-lost-a-record-21-billion-to-cybercri/' | relative_url }}">fbi americans lost a record 21 billion to cybercri</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -209,11 +261,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/crdts-in-practice-guide-to-building-a-crdt-block-e/' | relative_url }}">crdts in practice guide to building a crdt block e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/chinese-ai-satellite-intelligence-helping-iran-tar/' | relative_url }}">chinese ai satellite intelligence helping iran tar</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/building-a-rust-runtime-for-typescript/' | relative_url }}">building a rust runtime for typescript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/binary-obfuscation-used-in-aaa-games/' | relative_url }}">binary obfuscation used in aaa games</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/benchmark-pgvector-vs-pinecone-vs-qdrant-vs-weavia/' | relative_url }}">benchmark pgvector vs pinecone vs qdrant vs weavia</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -222,6 +286,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/applying-programming-without-pointers-to-an-mbox-i/' | relative_url }}">applying programming without pointers to an mbox i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/amds-senior-director-of-ai-thinks-claude-has-regre/' | relative_url }}">amds senior director of ai thinks claude has regre</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
