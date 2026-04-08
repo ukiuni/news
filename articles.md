@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/usb-for-software-developers-an-introduction-to-wri/' | relative_url }}">usb for software developers an introduction to wri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/us-cities-are-axing-flock-safety-surveillance-tech/' | relative_url }}">us cities are axing flock safety surveillance tech</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/technical-teardown-of-the-rust-cli-that-speeds-up/' | relative_url }}">technical teardown of the rust cli that speeds up</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/tailslayer-library-for-reducing-tail-latency-in-ra/' | relative_url }}">tailslayer library for reducing tail latency in ra</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -225,11 +233,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/ive-been-waiting-over-a-month-for-anthropic-suppor/' | relative_url }}">ive been waiting over a month for anthropic suppor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/i-ported-mac-os-x-to-the-nintendo-wii/' | relative_url }}">i ported mac os x to the nintendo wii</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/i-am-very-fond-of-the-pipeline-operator/' | relative_url }}">i am very fond of the pipeline operator</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/how-to-supervise-ai-coding-agents-without-losing-y/' | relative_url }}">how to supervise ai coding agents without losing y</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
