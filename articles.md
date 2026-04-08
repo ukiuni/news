@@ -157,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/audio-reactive-led-strips-are-diabolically-hard/' | relative_url }}">audio reactive led strips are diabolically hard</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/applying-programming-without-pointers-to-an-mbox-i/' | relative_url }}">applying programming without pointers to an mbox i</a></h3>
 </div>
 <div class="article-row">
