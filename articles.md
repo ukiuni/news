@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/the-git-commands-i-run-before-reading-any-code/' | relative_url }}">the git commands i run before reading any code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/the-fundamentals-still-havent-changed-typewriters/' | relative_url }}">the fundamentals still havent changed typewriters</a></h3>
 </div>
 <div class="article-row">
@@ -46,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/slightly-safer-vibecoding-by-adopting-old-hacker-h/' | relative_url }}">slightly safer vibecoding by adopting old hacker h</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/show-hn-we-built-a-camera-only-robot-vacuum-for-le/' | relative_url }}">show hn we built a camera only robot vacuum for le</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -94,6 +102,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/native-americans-had-dice-12000-years-ago/' | relative_url }}">native americans had dice 12000 years ago</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/move-over-vibe-coding-i-built-an-ai-editor-for-str/' | relative_url }}">move over vibe coding i built an ai editor for str</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/koda-duobell-a-bicycle-bell-that-penetrates-noise/' | relative_url }}">koda duobell a bicycle bell that penetrates noise</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
