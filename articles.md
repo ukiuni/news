@@ -133,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/sharing-codepen-20-demos-on-dev/' | relative_url }}">sharing codepen 20 demos on dev</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/scientists-engineer-tumor-eating-bacteria-that-dev/' | relative_url }}">scientists engineer tumor eating bacteria that dev</a></h3>
 </div>
 <div class="article-row">
@@ -278,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/explore-union-types-in-c-15/' | relative_url }}">explore union types in c 15</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/expanding-swifts-ide-support/' | relative_url }}">expanding swifts ide support</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
