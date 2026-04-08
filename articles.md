@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/your-accessibility-score-is-lying-to-you/' | relative_url }}">your accessibility score is lying to you</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/xilem-an-experimental-rust-native-ui-framework/' | relative_url }}">xilem an experimental rust native ui framework</a></h3>
 </div>
 <div class="article-row">
@@ -53,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/the-future-of-everything-is-lies-i-guess/' | relative_url }}">the future of everything is lies i guess</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/the-fundamentals-still-havent-changed-typewriters/' | relative_url }}">the fundamentals still havent changed typewriters</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/slightly-safer-vibecoding-by-adopting-old-hacker-h/' | relative_url }}">slightly safer vibecoding by adopting old hacker h</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/show-hn-we-fingerprinted-178-ai-models-writing-sty/' | relative_url }}">show hn we fingerprinted 178 ai models writing sty</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
