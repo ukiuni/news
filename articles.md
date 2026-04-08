@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/we-moved-railways-frontend-off-nextjs-builds-went/' | relative_url }}">we moved railways frontend off nextjs builds went</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/us-cities-are-axing-flock-safety-surveillance-tech/' | relative_url }}">us cities are axing flock safety surveillance tech</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/understanding-the-kalman-filter-with-a-simple-rada/' | relative_url }}">understanding the kalman filter with a simple rada</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -102,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/show-hn-we-built-a-camera-only-robot-vacuum-for-le/' | relative_url }}">show hn we built a camera only robot vacuum for le</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/show-hn-orange-juice-small-ux-improvements-that-ma/' | relative_url }}">show hn orange juice small ux improvements that ma</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -270,6 +282,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/building-a-rust-runtime-for-typescript/' | relative_url }}">building a rust runtime for typescript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/borrow-checking-surprises/' | relative_url }}">borrow checking surprises</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
