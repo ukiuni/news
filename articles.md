@@ -108,6 +108,10 @@ permalink: /articles/
   <h3><a href="{{ '/2026/04/08/amazon-microsoft-and-google-under-investor-pressur/' | relative_url }}">amazon microsoft and google under investor pressur</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/all-of-the-string-types/' | relative_url }}">all of the string types</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/you-cant-cancel-a-javascript-promise-except-someti/' | relative_url }}">you cant cancel a javascript promise except someti</a></h3>
 </div>
