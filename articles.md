@@ -8,6 +8,14 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/trump-announces-two-week-ceasefire-as-iran-says-ta/' | relative_url }}">trump announces two week ceasefire as iran says ta</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/nix-security-advisory-privilege-escalation-via-sym/' | relative_url }}">nix security advisory privilege escalation via sym</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">04/07</span>
   <h3><a href="{{ '/2026/04/07/you-cant-cancel-a-javascript-promise-except-someti/' | relative_url }}">you cant cancel a javascript promise except someti</a></h3>
 </div>
