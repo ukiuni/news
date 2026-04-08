@@ -13,11 +13,63 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/whats-in-it-for-me-architecture/' | relative_url }}">whats in it for me architecture</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/trump-announces-two-week-ceasefire-as-iran-says-ta/' | relative_url }}">trump announces two week ceasefire as iran says ta</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/this-new-electric-car-nearly-fills-its-battery-in/' | relative_url }}">this new electric car nearly fills its battery in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/sony-pictures-entertainment-to-lay-off-hundreds-in/' | relative_url }}">sony pictures entertainment to lay off hundreds in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/sam-altman-says-itll-take-another-year-before-chat/' | relative_url }}">sam altman says itll take another year before chat</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/sam-altman-says-ai-superintelligence-is-so-big-tha/' | relative_url }}">sam altman says ai superintelligence is so big tha</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/oracle-appoints-hilary-maxson-as-cfo-with-297-mill/' | relative_url }}">oracle appoints hilary maxson as cfo with 297 mill</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/nix-security-advisory-privilege-escalation-via-sym/' | relative_url }}">nix security advisory privilege escalation via sym</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/jsir-a-high-level-ir-for-javascript/' | relative_url }}">jsir a high level ir for javascript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/honda-president-after-visiting-chinese-auto-suppli/' | relative_url }}">honda president after visiting chinese auto suppli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/deimos-a-superoptimizer-for-the-mos-6502/' | relative_url }}">deimos a superoptimizer for the mos 6502</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/dave-garage-why-your-new-computer-is-slower-than-y/' | relative_url }}">dave garage why your new computer is slower than y</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/data-centers-are-military-targets-now/' | relative_url }}">data centers are military targets now</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/chinese-ai-satellite-intelligence-helping-iran-tar/' | relative_url }}">chinese ai satellite intelligence helping iran tar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/amazon-microsoft-and-google-under-investor-pressur/' | relative_url }}">amazon microsoft and google under investor pressur</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/07</span>
