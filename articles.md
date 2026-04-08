@@ -117,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/megatrain-full-precision-training-of-100b-paramete/' | relative_url }}">megatrain full precision training of 100b paramete</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/koda-duobell-a-bicycle-bell-that-penetrates-noise/' | relative_url }}">koda duobell a bicycle bell that penetrates noise</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/forged-between-coal-and-code/' | relative_url }}">forged between coal and code</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/explore-union-types-in-c-15/' | relative_url }}">explore union types in c 15</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
