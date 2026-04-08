@@ -161,6 +161,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/pgit-i-imported-the-linux-kernel-into-postgresql/' | relative_url }}">pgit i imported the linux kernel into postgresql</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/oracle-appoints-hilary-maxson-as-cfo-with-297-mill/' | relative_url }}">oracle appoints hilary maxson as cfo with 297 mill</a></h3>
 </div>
 <div class="article-row">
@@ -214,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/megatrain-full-precision-training-of-100b-paramete/' | relative_url }}">megatrain full precision training of 100b paramete</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/little-snitch-for-linux/' | relative_url }}">little snitch for linux</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -290,6 +298,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/crdts-in-practice-guide-to-building-a-crdt-block-e/' | relative_url }}">crdts in practice guide to building a crdt block e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/converting-old-home-movie-dvds-into-a-private-stre/' | relative_url }}">converting old home movie dvds into a private stre</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
