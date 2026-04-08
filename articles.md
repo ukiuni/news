@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/veracrypt-project-update/' | relative_url }}">veracrypt project update</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/trump-announces-two-week-ceasefire-as-iran-says-ta/' | relative_url }}">trump announces two week ceasefire as iran says ta</a></h3>
 </div>
 <div class="article-row">
@@ -118,6 +122,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/binary-obfuscation-used-in-aaa-games/' | relative_url }}">binary obfuscation used in aaa games</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/applying-programming-without-pointers-to-an-mbox-i/' | relative_url }}">applying programming without pointers to an mbox i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
