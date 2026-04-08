@@ -25,7 +25,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/the-fundamentals-still-havent-changed-typewriters/' | relative_url }}">the fundamentals still havent changed typewriters</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/sony-pictures-entertainment-to-lay-off-hundreds-in/' | relative_url }}">sony pictures entertainment to lay off hundreds in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/slightly-safer-vibecoding-by-adopting-old-hacker-h/' | relative_url }}">slightly safer vibecoding by adopting old hacker h</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/scientists-engineer-tumor-eating-bacteria-that-dev/' | relative_url }}">scientists engineer tumor eating bacteria that dev</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -38,6 +50,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/oracle-appoints-hilary-maxson-as-cfo-with-297-mill/' | relative_url }}">oracle appoints hilary maxson as cfo with 297 mill</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/openai-says-its-new-model-gpt-2-is-too-dangerous-t/' | relative_url }}">openai says its new model gpt 2 is too dangerous t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/observability-at-scale-mastering-adk-callbacks-for/' | relative_url }}">observability at scale mastering adk callbacks for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/no-js-web-irc-client-that-uses-forms-and-a-persist/' | relative_url }}">no js web irc client that uses forms and a persist</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -66,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/chinese-ai-satellite-intelligence-helping-iran-tar/' | relative_url }}">chinese ai satellite intelligence helping iran tar</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/binary-obfuscation-used-in-aaa-games/' | relative_url }}">binary obfuscation used in aaa games</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
