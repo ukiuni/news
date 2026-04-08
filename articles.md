@@ -141,7 +141,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/muse-spark-scaling-towards-personal-superintellige/' | relative_url }}">muse spark scaling towards personal superintellige</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/muse-spark-meta-superintelligence-labs/' | relative_url }}">muse spark meta superintelligence labs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/move-over-vibe-coding-i-built-an-ai-editor-for-str/' | relative_url }}">move over vibe coding i built an ai editor for str</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/microsoft-abruptly-terminates-veracrypt-account-ha/' | relative_url }}">microsoft abruptly terminates veracrypt account ha</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -178,6 +190,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/explore-union-types-in-c-15/' | relative_url }}">explore union types in c 15</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/drop-your-challenge-submission-here-v1/' | relative_url }}">drop your challenge submission here v1</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
