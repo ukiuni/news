@@ -85,6 +85,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/show-hn-go-bt-minimalist-behavior-trees-for-go/' | relative_url }}">show hn go bt minimalist behavior trees for go</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/show-hn-explore-the-silk-roads-through-an-interact/' | relative_url }}">show hn explore the silk roads through an interact</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/scientists-engineer-tumor-eating-bacteria-that-dev/' | relative_url }}">scientists engineer tumor eating bacteria that dev</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +158,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/ive-sold-out/' | relative_url }}">ive sold out</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/i-ported-mac-os-x-to-the-nintendo-wii/' | relative_url }}">i ported mac os x to the nintendo wii</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
