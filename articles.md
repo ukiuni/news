@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/we-moved-railways-frontend-off-nextjs-builds-went/' | relative_url }}">we moved railways frontend off nextjs builds went</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/trump-announces-two-week-ceasefire-as-iran-says-ta/' | relative_url }}">trump announces two week ceasefire as iran says ta</a></h3>
 </div>
 <div class="article-row">
