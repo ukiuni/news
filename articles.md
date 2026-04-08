@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/us-cities-are-axing-flock-safety-surveillance-tech/' | relative_url }}">us cities are axing flock safety surveillance tech</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/under-the-hood-of-mdns-new-frontend/' | relative_url }}">under the hood of mdns new frontend</a></h3>
 </div>
 <div class="article-row">
@@ -38,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/this-new-electric-car-nearly-fills-its-battery-in/' | relative_url }}">this new electric car nearly fills its battery in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/theyre-made-out-of-meat-1991/' | relative_url }}">theyre made out of meat 1991</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
@@ -134,6 +142,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/honda-president-after-visiting-chinese-auto-suppli/' | relative_url }}">honda president after visiting chinese auto suppli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/08</span>
+  <h3><a href="{{ '/2026/04/08/full-text-search-with-indexeddb/' | relative_url }}">full text search with indexeddb</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
