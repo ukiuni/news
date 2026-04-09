@@ -137,6 +137,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/google-maps-for-codebases-paste-a-github-url-ask-a/' | relative_url }}">google maps for codebases paste a github url ask a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/freebsd-laptop-compatibility-top-laptops-to-use-wi/' | relative_url }}">freebsd laptop compatibility top laptops to use wi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/found-a-qtimer-tick-drop-bug-deep-dive-into-eventl/' | relative_url }}">found a qtimer tick drop bug deep dive into eventl</a></h3>
 </div>
 <div class="article-row">
@@ -165,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/clean-code-in-the-age-of-coding-agents/' | relative_url }}">clean code in the age of coding agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/claude-mixes-up-who-said-what-and-thats-not-ok/' | relative_url }}">claude mixes up who said what and thats not ok</a></h3>
 </div>
 <div class="article-row">
@@ -174,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/c-in-unity-2026-features-most-developers-still-don/' | relative_url }}">c in unity 2026 features most developers still don</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/building-a-framework-agnostic-ruby-gem-and-making/' | relative_url }}">building a framework agnostic ruby gem and making</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
