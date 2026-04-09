@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/unfolder-for-mac-a-3d-model-unfolding-tool-for-cre/' | relative_url }}">unfolder for mac a 3d model unfolding tool for cre</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/til-that-helix-and-typst-are-a-match-made-in-heave/' | relative_url }}">til that helix and typst are a match made in heave</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/the-importance-of-being-idle/' | relative_url }}">the importance of being idle</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/the-future-of-everything-is-lies-i-guess-part-3-cu/' | relative_url }}">the future of everything is lies i guess part 3 cu</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -133,7 +141,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/old-laptops-in-a-colo-as-low-cost-servers/' | relative_url }}">old laptops in a colo as low cost servers</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/no-big-trucks-for-little-roads-american-oems-say-e/' | relative_url }}">no big trucks for little roads american oems say e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player/' | relative_url }}">netflix prices went up again i bought a dvd player</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/native-instant-space-switching-on-macos/' | relative_url }}">native instant space switching on macos</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -146,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/map-gesture-controls-control-maps-with-your-hands/' | relative_url }}">map gesture controls control maps with your hands</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/maine-is-about-to-become-the-first-state-to-ban-ma/' | relative_url }}">maine is about to become the first state to ban ma</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -286,6 +310,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/building-a-framework-agnostic-ruby-gem-and-making/' | relative_url }}">building a framework agnostic ruby gem and making</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/bitmap-fonts-make-computers-feel-like-computers-ag/' | relative_url }}">bitmap fonts make computers feel like computers ag</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
