@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、開発者ツールとプラットフォームの地殻変動が目立ちます🔧 — Linux 7.0によるPostgreSQL性能低下や、プライバシー重視のLittleSnitchがLinuxへ移植される動きが波紋を呼んでいます🛡️。SwiftのIDE対応拡充やCodePen共有、PgitでカーネルをPostgresに取り込む実験といったイノベーションが続き、古いDVDを個人向けストリーミングに変えるDIY事例も注目されています。AIコーディングエージェントの監督問題も浮上しており、現場は速やかな対応を迫られています🚨
+    今日のテック業界では、プライバシーとネットワーク監視のLinux対応が注目を集め、Little Snitch for Linuxの話題が繰り返し浮上しています🔒。一方でLinux 7.0がPostgreSQLの性能を半減させたという衝撃的な報告は、インフラ運用とクラウド依存のリスクを改めて突きつけています⚠️。開発者側ではSwiftのIDEサポート拡充やCodePen→DEVの連携、そしてLinuxカーネルをPostgresに取り込む実験的な試みがワークフロー革新を示し、古いDVDを個人ストリーミング化するような実用的ハックも並行して注目を集めています。
   </div>
 </div>
