@@ -41,11 +41,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/unlocking-casual-fun-ai-powered-vibe-coding-for-qu/' | relative_url }}">unlocking casual fun ai powered vibe coding for qu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/til-that-helix-and-typst-are-a-match-made-in-heave/' | relative_url }}">til that helix and typst are a match made in heave</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/the-stateless-ai-era-is-a-massive-engineering-tax/' | relative_url }}">the stateless ai era is a massive engineering tax</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/the-pentagon-threatened-pope-leo-xivs-ambassador-w/' | relative_url }}">the pentagon threatened pope leo xivs ambassador w</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -145,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/i-built-a-cargo-like-build-tool-for-cc/' | relative_url }}">i built a cargo like build tool for cc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/how-pizza-tycoon-simulated-traffic-on-a-25-mhz-cpu/' | relative_url }}">how pizza tycoon simulated traffic on a 25 mhz cpu</a></h3>
 </div>
 <div class="article-row">
@@ -197,11 +209,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/exclusive-chinese-business-hired-lobbying-firm-wit/' | relative_url }}">exclusive chinese business hired lobbying firm wit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/emperor-penguin-and-antarctic-fur-seal-now-endange/' | relative_url }}">emperor penguin and antarctic fur seal now endange</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/eff-is-leaving-x/' | relative_url }}">eff is leaving x</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/dr-dobbs-developer-library-dvd-6/' | relative_url }}">dr dobbs developer library dvd 6</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/doing-impressions-monets-early-caricatures-ca-late/' | relative_url }}">doing impressions monets early caricatures ca late</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -230,6 +254,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/c-in-unity-2026-features-most-developers-still-don/' | relative_url }}">c in unity 2026 features most developers still don</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/but-what-about-k/' | relative_url }}">but what about k</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
