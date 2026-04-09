@@ -33,6 +33,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/til-that-helix-and-typst-are-a-match-made-in-heave/' | relative_url }}">til that helix and typst are a match made in heave</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/the-internet-needs-an-antibotty-immune-system-stat/' | relative_url }}">the internet needs an antibotty immune system stat</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/no-big-trucks-for-little-roads-american-oems-say-e/' | relative_url }}">no big trucks for little roads american oems say e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/meta-removes-ads-for-social-media-addiction-litiga/' | relative_url }}">meta removes ads for social media addiction litiga</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -178,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/absurd-workflows-durable-execution-with-just-postg/' | relative_url }}">absurd workflows durable execution with just postg</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/a-webgpu-implementation-of-augmented-vertex-block/' | relative_url }}">a webgpu implementation of augmented vertex block</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
