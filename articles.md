@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/help-keep-thunderbird-alive/' | relative_url }}">help keep thunderbird alive</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/haunted-paper-toys/' | relative_url }}">haunted paper toys</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/dr-dobbs-developer-library-dvd-6/' | relative_url }}">dr dobbs developer library dvd 6</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/creating-the-futurescape-for-the-fifth-element-201/' | relative_url }}">creating the futurescape for the fifth element 201</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/claude-mixes-up-who-said-what-and-thats-not-ok/' | relative_url }}">claude mixes up who said what and thats not ok</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/c-in-unity-2026-features-most-developers-still-don/' | relative_url }}">c in unity 2026 features most developers still don</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
