@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/youtube-rolls-out-unskippable-long-ads-to-tv-users/' | relative_url }}">youtube rolls out unskippable long ads to tv users</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/wit-unker-git-the-lost-medieval-pronouns-of-englis/' | relative_url }}">wit unker git the lost medieval pronouns of englis</a></h3>
 </div>
 <div class="article-row">
@@ -33,7 +37,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/vercel-claude-code-plugin-wants-to-read-your-promp/' | relative_url }}">vercel claude code plugin wants to read your promp</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/til-that-helix-and-typst-are-a-match-made-in-heave/' | relative_url }}">til that helix and typst are a match made in heave</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/the-stateless-ai-era-is-a-massive-engineering-tax/' | relative_url }}">the stateless ai era is a massive engineering tax</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -50,6 +62,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/tech-industry-lays-off-nearly-80000-employees-in-t/' | relative_url }}">tech industry lays off nearly 80000 employees in t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/tailslayer-a-hedged-reads-solution-for-dram-refres/' | relative_url }}">tailslayer a hedged reads solution for dram refres</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/snoopy-adolf-and-password-the-hungarian-government/' | relative_url }}">snoopy adolf and password the hungarian government</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -73,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/sam-altmans-coworkers-say-he-can-barely-code-and-m/' | relative_url }}">sam altmans coworkers say he can barely code and m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/reallocating-100month-claude-code-spend-to-zed-and/' | relative_url }}">reallocating 100month claude code spend to zed and</a></h3>
 </div>
 <div class="article-row">
@@ -81,7 +105,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/one-brain-to-query-wiring-a-60-person-company-into/' | relative_url }}">one brain to query wiring a 60 person company into</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/no-big-trucks-for-little-roads-american-oems-say-e/' | relative_url }}">no big trucks for little roads american oems say e</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/microsoft-begins-removing-copilot-from-windows-11/' | relative_url }}">microsoft begins removing copilot from windows 11</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -121,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/how-much-linear-memory-access-is-enough-probably-l/' | relative_url }}">how much linear memory access is enough probably l</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/help-keep-thunderbird-alive/' | relative_url }}">help keep thunderbird alive</a></h3>
 </div>
 <div class="article-row">
@@ -153,7 +189,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/fbi-extracts-suspects-deleted-signal-messages-save/' | relative_url }}">fbi extracts suspects deleted signal messages save</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/fake-it-until-you-break-it-the-end-of-non-technica/' | relative_url }}">fake it until you break it the end of non technica</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/emperor-penguin-and-antarctic-fur-seal-now-endange/' | relative_url }}">emperor penguin and antarctic fur seal now endange</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
