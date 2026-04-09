@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/dr-dobbs-developer-library-dvd-6/' | relative_url }}">dr dobbs developer library dvd 6</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/app-store-sees-84-surge-in-new-apps-as-ai-coding-t/' | relative_url }}">app store sees 84 surge in new apps as ai coding t</a></h3>
 </div>
 <div class="article-row">
