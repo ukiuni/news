@@ -105,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/research-driven-agents-what-happens-when-your-agen/' | relative_url }}">research driven agents what happens when your agen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/reallocating-100month-claude-code-spend-to-zed-and/' | relative_url }}">reallocating 100month claude code spend to zed and</a></h3>
 </div>
 <div class="article-row">
@@ -134,6 +138,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/littlesnitch-for-linux/' | relative_url }}">littlesnitch for linux</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/lets-talk-about-llms/' | relative_url }}">lets talk about llms</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
