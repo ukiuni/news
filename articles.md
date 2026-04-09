@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/youre-a-real-software-developer-only-if/' | relative_url }}">youre a real software developer only if</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/you-can-absolutely-have-an-rss-dependent-website-i/' | relative_url }}">you can absolutely have an rss dependent website i</a></h3>
 </div>
 <div class="article-row">
@@ -161,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/moving-from-wordpress-to-jekyll-and-static-site-ge/' | relative_url }}">moving from wordpress to jekyll and static site ge</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/microsoft-begins-removing-copilot-from-windows-11/' | relative_url }}">microsoft begins removing copilot from windows 11</a></h3>
 </div>
 <div class="article-row">
@@ -198,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/introduction-to-nintendo-ds-programming/' | relative_url }}">introduction to nintendo ds programming</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/instant-10-a-backend-for-ai-coded-apps/' | relative_url }}">instant 10 a backend for ai coded apps</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
