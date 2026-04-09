@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/wit-unker-git-the-lost-medieval-pronouns-of-englis/' | relative_url }}">wit unker git the lost medieval pronouns of englis</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/who-is-satoshi-nakamoto-my-quest-to-unmask-bitcoin/' | relative_url }}">who is satoshi nakamoto my quest to unmask bitcoin</a></h3>
 </div>
 <div class="article-row">
@@ -18,6 +22,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/what-does-it-mean-to-write-like-you-talk/' | relative_url }}">what does it mean to write like you talk</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/what-are-your-programming-hunches-you-havent-yet-i/' | relative_url }}">what are your programming hunches you havent yet i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -42,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/signals-are-not-guarantees-the-mismatch-between-wh/' | relative_url }}">signals are not guarantees the mismatch between wh</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/show-hn-css-studio-design-by-hand-code-by-agent/' | relative_url }}">show hn css studio design by hand code by agent</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -78,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/how-pizza-tycoon-simulated-traffic-on-a-25-mhz-cpu/' | relative_url }}">how pizza tycoon simulated traffic on a 25 mhz cpu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/how-nasa-built-artemis-iis-fault-tolerant-computer/' | relative_url }}">how nasa built artemis iis fault tolerant computer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
