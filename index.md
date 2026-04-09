@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、開発者体験とオープン設計が再注目され、Keychronの設計ファイル公開やSwiftのIDE強化といったツール周りの話題が目立ちます。Linux 7.0でPostgreSQL性能が半分になったという報告や、LittleSnitchのLinux移植など性能・プライバシー問題が現場を揺さぶっています。KLダイバージェンスの直感的解説や「話し言葉で書く」議論、古いDVDを自家ストリーミングにするDIYまで、理論から実用まで関心が広がる一日です 🔧📚🎬
+    今日のテック業界では、AIコーディングツールの台頭でApp Storeへの新規アプリが急増する一方、Flatpakのサンドボックス脱出やLinux 7.0によるPostgreSQL性能低下など、セキュリティや安定性の課題が同時に浮上しています。開発者向けにはSwiftのIDEサポート拡充やLittleSnitchのLinux移植、KLダイバージェンス解説などツールと知見の進化が続き、Keychronの設計ファイル公開はハードウェアのオープン化を後押ししています。表現論やオープンプロジェクトの動向も相まって、イノベーションとリスクが混在する熱い局面です 🚀🔒
   </div>
 </div>

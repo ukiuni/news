@@ -28,6 +28,14 @@ permalink: /articles/
   <h3><a href="{{ '/2026/04/09/keychron-keyboards-hardware-design-all-the-industr/' | relative_url }}">keychron keyboards hardware design all the industr</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/flatpak-complete-sandbox-escape/' | relative_url }}">flatpak complete sandbox escape</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/app-store-sees-84-surge-in-new-apps-as-ai-coding-t/' | relative_url }}">app store sees 84 surge in new apps as ai coding t</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/your-file-system-is-already-a-graph-database/' | relative_url }}">your file system is already a graph database</a></h3>
 </div>
