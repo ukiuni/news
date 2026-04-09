@@ -13,7 +13,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/white-collar-workers-are-quietly-rebelling-against/' | relative_url }}">white collar workers are quietly rebelling against</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/what-does-it-mean-to-write-like-you-talk/' | relative_url }}">what does it mean to write like you talk</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/vliw-the-impossible-computer/' | relative_url }}">vliw the impossible computer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -25,11 +33,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/tech-industry-lays-off-nearly-80000-employees-in-t/' | relative_url }}">tech industry lays off nearly 80000 employees in t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/six-and-a-half-intuitions-for-kl-divergence/' | relative_url }}">six and a half intuitions for kl divergence</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/signals-are-not-guarantees-the-mismatch-between-wh/' | relative_url }}">signals are not guarantees the mismatch between wh</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/reallocating-100month-claude-code-spend-to-zed-and/' | relative_url }}">reallocating 100month claude code spend to zed and</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/process-manager-for-autonomous-ai-agents/' | relative_url }}">process manager for autonomous ai agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/no-big-trucks-for-little-roads-american-oems-say-e/' | relative_url }}">no big trucks for little roads american oems say e</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -45,6 +69,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/kalman-filter-explained-through-examples/' | relative_url }}">kalman filter explained through examples</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/john-deere-to-pay-99-million-in-monumental-right-t/' | relative_url }}">john deere to pay 99 million in monumental right t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/how-pizza-tycoon-simulated-traffic-on-a-25-mhz-cpu/' | relative_url }}">how pizza tycoon simulated traffic on a 25 mhz cpu</a></h3>
 </div>
 <div class="article-row">
@@ -57,7 +89,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/greece-announces-social-media-ban-for-under-15s-ci/' | relative_url }}">greece announces social media ban for under 15s ci</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/gopro-to-lay-off-145-workers-nearly-a-quarter-of-i/' | relative_url }}">gopro to lay off 145 workers nearly a quarter of i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/found-a-qtimer-tick-drop-bug-deep-dive-into-eventl/' | relative_url }}">found a qtimer tick drop bug deep dive into eventl</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/flatpak-complete-sandbox-escape/' | relative_url }}">flatpak complete sandbox escape</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/fake-it-until-you-break-it-the-end-of-non-technica/' | relative_url }}">fake it until you break it the end of non technica</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -65,11 +113,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/disney-to-lay-off-up-to-1000-employees-in-first-cu/' | relative_url }}">disney to lay off up to 1000 employees in first cu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/creating-the-futurescape-for-the-fifth-element-201/' | relative_url }}">creating the futurescape for the fifth element 201</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/costco-is-starting-a-standalone-gas-station-empire/' | relative_url }}">costco is starting a standalone gas station empire</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/claude-mixes-up-who-said-what-and-thats-not-ok/' | relative_url }}">claude mixes up who said what and thats not ok</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/chinas-supercomputers-lost-10-petabytes-in-a-data/' | relative_url }}">chinas supercomputers lost 10 petabytes in a data</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -78,6 +138,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/app-store-sees-84-surge-in-new-apps-as-ai-coding-t/' | relative_url }}">app store sees 84 surge in new apps as ai coding t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/accountability-has-arrived-dual-us-court-losses-sh/' | relative_url }}">accountability has arrived dual us court losses sh</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/absurd-workflows-durable-execution-with-just-postg/' | relative_url }}">absurd workflows durable execution with just postg</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
