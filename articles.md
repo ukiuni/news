@@ -9,11 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/who-is-satoshi-nakamoto-my-quest-to-unmask-bitcoin/' | relative_url }}">who is satoshi nakamoto my quest to unmask bitcoin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/what-does-it-mean-to-write-like-you-talk/' | relative_url }}">what does it mean to write like you talk</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/the-importance-of-being-idle/' | relative_url }}">the importance of being idle</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/the-ai-great-leap-forward/' | relative_url }}">the ai great leap forward</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
