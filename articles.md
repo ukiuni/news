@@ -125,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/robots-eat-cars/' | relative_url }}">robots eat cars</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/reverse-engineering-geminis-synthid-detection/' | relative_url }}">reverse engineering geminis synthid detection</a></h3>
 </div>
 <div class="article-row">
@@ -165,6 +169,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/my-login-shell-in-assembly/' | relative_url }}">my login shell in assembly</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/moving-from-wordpress-to-jekyll-and-static-site-ge/' | relative_url }}">moving from wordpress to jekyll and static site ge</a></h3>
 </div>
 <div class="article-row">
@@ -178,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/map-gesture-controls-control-maps-with-your-hands/' | relative_url }}">map gesture controls control maps with your hands</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/many-african-families-spend-fortunes-burying-their/' | relative_url }}">many african families spend fortunes burying their</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
