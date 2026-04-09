@@ -13,11 +13,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/the-importance-of-being-idle/' | relative_url }}">the importance of being idle</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/six-and-a-half-intuitions-for-kl-divergence/' | relative_url }}">six and a half intuitions for kl divergence</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/littlesnitch-for-linux/' | relative_url }}">littlesnitch for linux</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/keychron-keyboards-hardware-design-all-the-industr/' | relative_url }}">keychron keyboards hardware design all the industr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/08</span>
