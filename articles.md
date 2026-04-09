@@ -8,6 +8,10 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/littlesnitch-for-linux/' | relative_url }}">littlesnitch for linux</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">04/08</span>
   <h3><a href="{{ '/2026/04/08/your-file-system-is-already-a-graph-database/' | relative_url }}">your file system is already a graph database</a></h3>
 </div>
