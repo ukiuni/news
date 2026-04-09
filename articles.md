@@ -29,6 +29,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/process-manager-for-autonomous-ai-agents/' | relative_url }}">process manager for autonomous ai agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/map-gesture-controls-control-maps-with-your-hands/' | relative_url }}">map gesture controls control maps with your hands</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/how-pizza-tycoon-simulated-traffic-on-a-25-mhz-cpu/' | relative_url }}">how pizza tycoon simulated traffic on a 25 mhz cpu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/haunted-paper-toys/' | relative_url }}">haunted paper toys</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
