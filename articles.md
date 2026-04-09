@@ -121,6 +121,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/reverse-engineering-geminis-synthid-detection/' | relative_url }}">reverse engineering geminis synthid detection</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/research-driven-agents-what-happens-when-your-agen/' | relative_url }}">research driven agents what happens when your agen</a></h3>
 </div>
 <div class="article-row">
@@ -265,6 +269,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/elastic-tabstops-2006/' | relative_url }}">elastic tabstops 2006</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/eff-is-leaving-x/' | relative_url }}">eff is leaving x</a></h3>
 </div>
 <div class="article-row">
@@ -298,6 +306,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/chinas-supercomputers-lost-10-petabytes-in-a-data/' | relative_url }}">chinas supercomputers lost 10 petabytes in a data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/charcuterie-visual-similarity-unicode-explorer/' | relative_url }}">charcuterie visual similarity unicode explorer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
