@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/you-can-absolutely-have-an-rss-dependent-website-i/' | relative_url }}">you can absolutely have an rss dependent website i</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/wit-unker-git-the-lost-medieval-pronouns-of-englis/' | relative_url }}">wit unker git the lost medieval pronouns of englis</a></h3>
 </div>
 <div class="article-row">
@@ -22,6 +26,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/white-collar-workers-are-quietly-rebelling-against/' | relative_url }}">white collar workers are quietly rebelling against</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/what-game-engines-know-about-data-that-databases-f/' | relative_url }}">what game engines know about data that databases f</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
@@ -117,6 +125,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/picoz80-drop-in-z80-replacement/' | relative_url }}">picoz80 drop in z80 replacement</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/one-brain-to-query-wiring-a-60-person-company-into/' | relative_url }}">one brain to query wiring a 60 person company into</a></h3>
 </div>
 <div class="article-row">
@@ -178,6 +190,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/help-keep-thunderbird-alive/' | relative_url }}">help keep thunderbird alive</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/09</span>
+  <h3><a href="{{ '/2026/04/09/hegel-a-universal-property-based-testing-protocol/' | relative_url }}">hegel a universal property based testing protocol</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
