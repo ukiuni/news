@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/weve-raised-17m-to-build-what-comes-after-git/' | relative_url }}">weve raised 17m to build what comes after git</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/microsoft-photodna-scanning-problem/' | relative_url }}">microsoft photodna scanning problem</a></h3>
 </div>
 <div class="article-row">
@@ -22,6 +26,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/generative-art-over-the-years/' | relative_url }}">generative art over the years</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/apples-new-iphone-update-is-restricting-internet-f/' | relative_url }}">apples new iphone update is restricting internet f</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
