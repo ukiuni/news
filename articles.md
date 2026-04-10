@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/wireguard-makes-new-windows-release-following-micr/' | relative_url }}">wireguard makes new windows release following micr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/will-i-ever-own-a-zettaflop/' | relative_url }}">will i ever own a zettaflop</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/the-raft-consensus-algorithm-explained-through-mea/' | relative_url }}">the raft consensus algorithm explained through mea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/the-honest-climate-case-for-ai/' | relative_url }}">the honest climate case for ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -90,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/penguin-toxicologists-find-pfas-chemicals-in-remot/' | relative_url }}">penguin toxicologists find pfas chemicals in remot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/parsing-11-languages-in-pure-go-without-cgo-replac/' | relative_url }}">parsing 11 languages in pure go without cgo replac</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -225,6 +237,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/clojure-on-fennel-part-one-persistent-data-structu/' | relative_url }}">clojure on fennel part one persistent data structu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/bluesky-april-2026-outage-post-mortem/' | relative_url }}">bluesky april 2026 outage post mortem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/as-htcpcp-ai-butler-the-ai-that-brews-chaos-not-co/' | relative_url }}">as htcpcp ai butler the ai that brews chaos not co</a></h3>
 </div>
 <div class="article-row">
@@ -246,6 +266,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/ads-in-chatgpt/' | relative_url }}">ads in chatgpt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/1d-chess/' | relative_url }}">1d chess</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
