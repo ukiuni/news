@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/weve-raised-17m-to-build-what-comes-after-git/' | relative_url }}">weve raised 17m to build what comes after git</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +46,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/sotomayor-says-ai-forecasting-supreme-court-decisi/' | relative_url }}">sotomayor says ai forecasting supreme court decisi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/show-hn-keeper-embedded-secret-store-for-go-help-m/' | relative_url }}">show hn keeper embedded secret store for go help m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/scientists-invented-a-fake-disease-ai-told-people/' | relative_url }}">scientists invented a fake disease ai told people</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -106,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/eth-zurich-demonstrates-17000-qubit-array-with-999/' | relative_url }}">eth zurich demonstrates 17000 qubit array with 999</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/artemis-ii-and-the-invisible-hazard-on-the-way-to/' | relative_url }}">artemis ii and the invisible hazard on the way to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
