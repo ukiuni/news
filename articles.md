@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/watgo-a-webassembly-toolkit-for-go/' | relative_url }}">watgo a webassembly toolkit for go</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/war-on-raze/' | relative_url }}">war on raze</a></h3>
 </div>
 <div class="article-row">
@@ -89,6 +93,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/show-hn-fluidcad-parametric-cad-with-javascript/' | relative_url }}">show hn fluidcad parametric cad with javascript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/scientists-invented-a-fake-disease-ai-told-people/' | relative_url }}">scientists invented a fake disease ai told people</a></h3>
 </div>
 <div class="article-row">
@@ -122,6 +130,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/nsa-warningreboot-your-internet-router-now/' | relative_url }}">nsa warningreboot your internet router now</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/nowhere-is-safe/' | relative_url }}">nowhere is safe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -162,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/launch-hn-twillai-yc-s25-delegate-to-cloud-agents/' | relative_url }}">launch hn twillai yc s25 delegate to cloud agents</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/json-formatter-chrome-plugin-now-closed-and-inject/' | relative_url }}">json formatter chrome plugin now closed and inject</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -258,6 +274,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/clojure-on-fennel-part-one-persistent-data-structu/' | relative_url }}">clojure on fennel part one persistent data structu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/chimpanzees-in-uganda-locked-in-vicious-civil-war/' | relative_url }}">chimpanzees in uganda locked in vicious civil war</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
