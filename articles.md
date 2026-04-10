@@ -17,6 +17,30 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/the-raft-consensus-algorithm-explained-through-mea/' | relative_url }}">the raft consensus algorithm explained through mea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/the-aws-lambda-kiss-of-death/' | relative_url }}">the aws lambda kiss of death</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/the-6-big-ideas-of-typescript/' | relative_url }}">the 6 big ideas of typescript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/sotomayor-says-ai-forecasting-supreme-court-decisi/' | relative_url }}">sotomayor says ai forecasting supreme court decisi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/one-method-was-using-71-of-cpu-heres-the-flame-gra/' | relative_url }}">one method was using 71 of cpu heres the flame gra</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/nsa-warningreboot-your-internet-router-now/' | relative_url }}">nsa warningreboot your internet router now</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/microsoft-photodna-scanning-problem/' | relative_url }}">microsoft photodna scanning problem</a></h3>
 </div>
 <div class="article-row">
@@ -25,11 +49,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/i-built-a-microkernel-from-scratch-in-rust-5-part/' | relative_url }}">i built a microkernel from scratch in rust 5 part</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/half-of-data-centers-for-2026-cancelled-or-delayed/' | relative_url }}">half of data centers for 2026 cancelled or delayed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/generative-art-over-the-years/' | relative_url }}">generative art over the years</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/apples-new-iphone-update-is-restricting-internet-f/' | relative_url }}">apples new iphone update is restricting internet f</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/amazon-ceo-andy-jassys-pay-rose-to-21-million-in-2/' | relative_url }}">amazon ceo andy jassys pay rose to 21 million in 2</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/ai-is-coming-for-car-salesmen-and-lets-be-real-it/' | relative_url }}">ai is coming for car salesmen and lets be real it</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/09</span>
