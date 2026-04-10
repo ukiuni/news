@@ -33,6 +33,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/principles-of-mechanical-sympathy/' | relative_url }}">principles of mechanical sympathy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/openai-backs-bill-that-would-limit-liability-for-a/' | relative_url }}">openai backs bill that would limit liability for a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/one-method-was-using-71-of-cpu-heres-the-flame-gra/' | relative_url }}">one method was using 71 of cpu heres the flame gra</a></h3>
 </div>
 <div class="article-row">
@@ -45,11 +53,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/incremental-compilation-with-llvm/' | relative_url }}">incremental compilation with llvm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/i-still-prefer-mcp-over-skills/' | relative_url }}">i still prefer mcp over skills</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/i-built-a-microkernel-from-scratch-in-rust-5-part/' | relative_url }}">i built a microkernel from scratch in rust 5 part</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/hip-hop-pioneer-afrika-bambaataa-dies-aged-68/' | relative_url }}">hip hop pioneer afrika bambaataa dies aged 68</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
