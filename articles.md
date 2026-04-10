@@ -9,11 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/zero-build-privacy-policies-with-astro/' | relative_url }}">zero build privacy policies with astro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/will-i-ever-own-a-zettaflop/' | relative_url }}">will i ever own a zettaflop</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/weve-raised-17m-to-build-what-comes-after-git/' | relative_url }}">weve raised 17m to build what comes after git</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/war-on-raze/' | relative_url }}">war on raze</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -41,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/penguin-toxicologists-find-pfas-chemicals-in-remot/' | relative_url }}">penguin toxicologists find pfas chemicals in remot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/openai-backs-bill-that-would-limit-liability-for-a/' | relative_url }}">openai backs bill that would limit liability for a</a></h3>
 </div>
 <div class="article-row">
@@ -65,6 +77,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/i-made-a-productivity-device-for-less-than-50-buck/' | relative_url }}">i made a productivity device for less than 50 buck</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/i-built-a-microkernel-from-scratch-in-rust-5-part/' | relative_url }}">i built a microkernel from scratch in rust 5 part</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +102,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/generative-art-over-the-years/' | relative_url }}">generative art over the years</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/eth-zurich-demonstrates-17000-qubit-array-with-999/' | relative_url }}">eth zurich demonstrates 17000 qubit array with 999</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
