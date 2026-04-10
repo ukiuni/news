@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/what-is-risc-v-and-why-it-matters-to-canonical/' | relative_url }}">what is risc v and why it matters to canonical</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/war-on-raze/' | relative_url }}">war on raze</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/using-xslt-to-analyse-large-xml-datasets/' | relative_url }}">using xslt to analyse large xml datasets</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -77,11 +85,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/the-difficulty-of-making-sure-your-website-is-brok/' | relative_url }}">the difficulty of making sure your website is brok</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/the-aws-lambda-kiss-of-death/' | relative_url }}">the aws lambda kiss of death</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/the-6-big-ideas-of-typescript/' | relative_url }}">the 6 big ideas of typescript</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/tesla-plummets-into-8th-consecutive-week-of-losses/' | relative_url }}">tesla plummets into 8th consecutive week of losses</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -102,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/reproducing-the-aws-outage-race-condition-with-a-m/' | relative_url }}">reproducing the aws outage race condition with a m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/reddit-ordered-to-reveal-user-data-in-ice-investig/' | relative_url }}">reddit ordered to reveal user data in ice investig</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -242,6 +262,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/france-launches-government-linux-desktop-plan-as-w/' | relative_url }}">france launches government linux desktop plan as w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/france-is-moving-government-pcs-to-linux-the-end-o/' | relative_url }}">france is moving government pcs to linux the end o</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
