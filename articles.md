@@ -77,7 +77,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/model-based-testing-for-dungeons-dragons/' | relative_url }}">model based testing for dungeons dragons</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/microsoft-photodna-scanning-problem/' | relative_url }}">microsoft photodna scanning problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/maki-the-efficient-coder-ai-agent/' | relative_url }}">maki the efficient coder ai agent</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -114,6 +122,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/generative-art-over-the-years/' | relative_url }}">generative art over the years</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/france-launches-government-linux-desktop-plan-as-w/' | relative_url }}">france launches government linux desktop plan as w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/favorite-programmer-website/' | relative_url }}">favorite programmer website</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
