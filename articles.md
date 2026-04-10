@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/the-tool-that-wont-let-ai-say-anything-it-cant-cit/' | relative_url }}">the tool that wont let ai say anything it cant cit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/the-raft-consensus-algorithm-explained-through-mea/' | relative_url }}">the raft consensus algorithm explained through mea</a></h3>
 </div>
 <div class="article-row">
@@ -62,6 +66,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/i-built-a-microkernel-from-scratch-in-rust-5-part/' | relative_url }}">i built a microkernel from scratch in rust 5 part</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/how-i-built-in-browser-pdf-editing-without-uploadi/' | relative_url }}">how i built in browser pdf editing without uploadi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
