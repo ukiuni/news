@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/you-cant-trust-macos-privacy-and-security-settings/' | relative_url }}">you cant trust macos privacy and security settings</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/wisconsin-city-passes-nations-first-anti-data-cent/' | relative_url }}">wisconsin city passes nations first anti data cent</a></h3>
 </div>
 <div class="article-row">
@@ -101,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/netflixs-secret-to-safe-automation-at-scale-aubrey/' | relative_url }}">netflixs secret to safe automation at scale aubrey</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/mysteries-of-dropbox-property-based-testing-of-a-d/' | relative_url }}">mysteries of dropbox property based testing of a d</a></h3>
 </div>
 <div class="article-row">
@@ -165,6 +173,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/helium-is-hard-to-replace/' | relative_url }}">helium is hard to replace</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/half-of-data-centers-for-2026-cancelled-or-delayed/' | relative_url }}">half of data centers for 2026 cancelled or delayed</a></h3>
 </div>
 <div class="article-row">
@@ -174,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/generative-art-over-the-years/' | relative_url }}">generative art over the years</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-relian/' | relative_url }}">france to ditch windows for linux to reduce relian</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -193,7 +209,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/deterministic-primality-testing-for-limited-bit-wi/' | relative_url }}">deterministic primality testing for limited bit wi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/decorating-a-promise-with-convenience-methods-with/' | relative_url }}">decorating a promise with convenience methods with</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/cpu-z-and-hwmonitor-compromised/' | relative_url }}">cpu z and hwmonitor compromised</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/code-is-run-more-than-read-2023/' | relative_url }}">code is run more than read 2023</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
