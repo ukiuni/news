@@ -97,6 +97,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/put-your-ssh-keys-in-your-tpm-chip/' | relative_url }}">put your ssh keys in your tpm chip</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/principles-of-mechanical-sympathy/' | relative_url }}">principles of mechanical sympathy</a></h3>
 </div>
 <div class="article-row">
@@ -286,6 +290,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/ads-in-chatgpt/' | relative_url }}">ads in chatgpt</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/a-compelling-title-that-is-cryptic-enough-to-get-y/' | relative_url }}">a compelling title that is cryptic enough to get y</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
