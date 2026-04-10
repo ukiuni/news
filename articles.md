@@ -81,11 +81,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/microsoft-suspends-dev-accounts-for-high-profile-o/' | relative_url }}">microsoft suspends dev accounts for high profile o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/microsoft-photodna-scanning-problem/' | relative_url }}">microsoft photodna scanning problem</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/maki-the-efficient-coder-ai-agent/' | relative_url }}">maki the efficient coder ai agent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/intel-486-cpu-announced-april-10-1989/' | relative_url }}">intel 486 cpu announced april 10 1989</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -126,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/france-launches-government-linux-desktop-plan-as-w/' | relative_url }}">france launches government linux desktop plan as w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/fbi-used-iphone-notification-data-to-retrieve-dele/' | relative_url }}">fbi used iphone notification data to retrieve dele</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
