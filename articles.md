@@ -117,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/sam-altmans-response-to-molotov-cocktail-incident/' | relative_url }}">sam altmans response to molotov cocktail incident</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/reproducing-the-aws-outage-race-condition-with-a-m/' | relative_url }}">reproducing the aws outage race condition with a m</a></h3>
 </div>
 <div class="article-row">
@@ -209,6 +213,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/installing-every-firefox-extension/' | relative_url }}">installing every firefox extension</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/incremental-compilation-with-llvm/' | relative_url }}">incremental compilation with llvm</a></h3>
 </div>
 <div class="article-row">
@@ -266,6 +274,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/france-is-moving-government-pcs-to-linux-the-end-o/' | relative_url }}">france is moving government pcs to linux the end o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/filing-the-corners-off-macbooks/' | relative_url }}">filing the corners off macbooks</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
