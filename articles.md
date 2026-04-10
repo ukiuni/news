@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/what-are-you-doing-this-weekend/' | relative_url }}">what are you doing this weekend</a></h3>
 </div>
 <div class="article-row">
@@ -145,7 +149,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/meet-kiki-an-array-language/' | relative_url }}">meet kiki an array language</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/maki-the-efficient-coder-ai-agent/' | relative_url }}">maki the efficient coder ai agent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/launch-hn-twillai-yc-s25-delegate-to-cloud-agents/' | relative_url }}">launch hn twillai yc s25 delegate to cloud agents</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -158,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/incremental-compilation-with-llvm/' | relative_url }}">incremental compilation with llvm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/i-tried-to-make-devfest-ireland-accessible-and-end/' | relative_url }}">i tried to make devfest ireland accessible and end</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
@@ -242,6 +258,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/10</span>
   <h3><a href="{{ '/2026/04/10/bluesky-april-2026-outage-post-mortem/' | relative_url }}">bluesky april 2026 outage post mortem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/aspr-oracle-networkpoda-selectiva-en-redes-complej/' | relative_url }}">aspr oracle networkpoda selectiva en redes complej</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/10</span>
