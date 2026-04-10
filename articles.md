@@ -12,6 +12,18 @@ permalink: /articles/
   <h3><a href="{{ '/2026/04/10/will-i-ever-own-a-zettaflop/' | relative_url }}">will i ever own a zettaflop</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/microsoft-photodna-scanning-problem/' | relative_url }}">microsoft photodna scanning problem</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/i-still-prefer-mcp-over-skills/' | relative_url }}">i still prefer mcp over skills</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/10</span>
+  <h3><a href="{{ '/2026/04/10/generative-art-over-the-years/' | relative_url }}">generative art over the years</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">04/09</span>
   <h3><a href="{{ '/2026/04/09/youtube-rolls-out-unskippable-long-ads-to-tv-users/' | relative_url }}">youtube rolls out unskippable long ads to tv users</a></h3>
 </div>
