@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/11</span>
+  <h3><a href="{{ '/2026/04/11/italo-calvino-a-traveller-in-a-world-of-uncertaint/' | relative_url }}">italo calvino a traveller in a world of uncertaint</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/11</span>
   <h3><a href="{{ '/2026/04/11/has-mythos-just-broken-the-deal-that-kept-the-inte/' | relative_url }}">has mythos just broken the deal that kept the inte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/11</span>
+  <h3><a href="{{ '/2026/04/11/capsicum-vs-seccomp-process-sandboxing/' | relative_url }}">capsicum vs seccomp process sandboxing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/11</span>
