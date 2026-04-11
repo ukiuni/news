@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/11</span>
+  <h3><a href="{{ '/2026/04/11/a-practical-guide-for-setting-up-zettelkasten-meth/' | relative_url }}">a practical guide for setting up zettelkasten meth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/11</span>
   <h3><a href="{{ '/2026/04/11/a-bet-on-whether-ml-kem-768-or-x25519-will-break-f/' | relative_url }}">a bet on whether ml kem 768 or x25519 will break f</a></h3>
 </div>
 <div class="article-row">
