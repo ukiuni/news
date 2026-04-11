@@ -13,7 +13,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/11</span>
+  <h3><a href="{{ '/2026/04/11/investigating-split-locks-on-x86-64/' | relative_url }}">investigating split locks on x86 64</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/11</span>
+  <h3><a href="{{ '/2026/04/11/in-defense-of-githubs-poor-uptime/' | relative_url }}">in defense of githubs poor uptime</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/11</span>
+  <h3><a href="{{ '/2026/04/11/how-i-went-from-oracle-to-postgres-with-a-big-nosq/' | relative_url }}">how i went from oracle to postgres with a big nosq</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/11</span>
   <h3><a href="{{ '/2026/04/11/has-mythos-just-broken-the-deal-that-kept-the-inte/' | relative_url }}">has mythos just broken the deal that kept the inte</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/11</span>
+  <h3><a href="{{ '/2026/04/11/gen-z-workers-are-so-fearful-ai-will-take-their-jo/' | relative_url }}">gen z workers are so fearful ai will take their jo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/11</span>
+  <h3><a href="{{ '/2026/04/11/gallup-gen-z-growing-more-negative-toward-ai/' | relative_url }}">gallup gen z growing more negative toward ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/11</span>
@@ -22,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/11</span>
   <h3><a href="{{ '/2026/04/11/artemis-ii-safely-splashes-down/' | relative_url }}">artemis ii safely splashes down</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/11</span>
+  <h3><a href="{{ '/2026/04/11/artemis-ii-crew-splashes-down-safely-in-pacific-oc/' | relative_url }}">artemis ii crew splashes down safely in pacific oc</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/11</span>
