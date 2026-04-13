@@ -6,6 +6,6 @@ title: Tech News Japan - 日本向けテックニュース
 <div class="summary-section">
   <h2 class="summary-title">🌟 今日のハイライト</h2>
   <div class="summary-content">
-    今日のテック業界では、LinuxカーネルでのRockchip RK3588の映像対応やServoのcrates.io公開、tmuxの改善といった基盤技術の前進が目立ちます⚙️。一方で、MicrosoftのCopilot改名やザッカーバーグの会議用AIクローン、写真監視の報告などAIとプライバシー・倫理の議論が加熱し、AIのエネルギー消費問題が計算資源を圧迫しています🤖🔋。KafkaのZookeeper障害やElectronのIPC問題、さらには規制面で波紋を呼ぶ米国の蒸留禁止判決など、技術運用と法制度の両面で目が離せません。
+    今日のテック業界では、形式証明で「正しい」とされたプログラムにバグが見つかる事件から、設定フラグの肥大化による運用の悪化まで、信頼性と運用性が改めて問われています。砂粒サイズのMEMSビデオチップやRockchipの動画対応などハードの進化と、Cloudflare CLIやtmux改善、Kafka/Zookeeperの現場対応といった開発者向けの実務改善が同時進行中です。AI安全性や情報の信頼が熱い話題で、Copilotの名称変更やPolymarketのボット事例がその議論を象徴しています 🤖🔬
   </div>
 </div>

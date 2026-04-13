@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/the-future-of-everything-is-lies-i-guess-safety/' | relative_url }}">the future of everything is lies i guess safety</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/the-economics-of-software-teams-why-most-engineeri/' | relative_url }}">the economics of software teams why most engineeri</a></h3>
 </div>
 <div class="article-row">
@@ -81,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/nothing-ever-happens-polymarket-bot-that-always-bu/' | relative_url }}">nothing ever happens polymarket bot that always bu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/more-than-half-are-getting-tired-of-hearing-about/' | relative_url }}">more than half are getting tired of hearing about</a></h3>
 </div>
 <div class="article-row">
@@ -97,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/mems-array-chip-can-project-video-the-size-of-a-gr/' | relative_url }}">mems array chip can project video the size of a gr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/mark-zuckerberg-is-reportedly-building-an-ai-clone/' | relative_url }}">mark zuckerberg is reportedly building an ai clone</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/llm-reviews-in-cargo-crev/' | relative_url }}">llm reviews in cargo crev</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/lean-proved-this-program-was-correct-then-i-found/' | relative_url }}">lean proved this program was correct then i found</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
@@ -158,6 +174,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/did-you-notice-the-command-error-exit-in-the-shell/' | relative_url }}">did you notice the command error exit in the shell</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/configuration-flags-are-where-software-goes-to-rot/' | relative_url }}">configuration flags are where software goes to rot</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/building-a-cli-for-all-of-cloudflare/' | relative_url }}">building a cli for all of cloudflare</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
