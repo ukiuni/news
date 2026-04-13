@@ -25,7 +25,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/us-appeals-court-declares-158-year-old-home-distil/' | relative_url }}">us appeals court declares 158 year old home distil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/too-much-discussion-of-the-xor-swap-trick/' | relative_url }}">too much discussion of the xor swap trick</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/they-see-your-photos/' | relative_url }}">they see your photos</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
@@ -42,6 +50,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/taking-on-cuda-with-rocm-one-step-after-another/' | relative_url }}">taking on cuda with rocm one step after another</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/steps-to-solve-the-kafka-zookeeper-unable-to-load/' | relative_url }}">steps to solve the kafka zookeeper unable to load</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/servo-is-now-available-on-cratesio/' | relative_url }}">servo is now available on cratesio</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
@@ -74,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/michigan-digital-age-bills-pulled-after-privacy-co/' | relative_url }}">michigan digital age bills pulled after privacy co</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/mark-zuckerberg-is-reportedly-building-an-ai-clone/' | relative_url }}">mark zuckerberg is reportedly building an ai clone</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
@@ -146,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/all-elementary-functions-from-a-single-binary-oper/' | relative_url }}">all elementary functions from a single binary oper</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/ai-is-using-so-much-energy-that-computing-firepowe/' | relative_url }}">ai is using so much energy that computing firepowe</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
