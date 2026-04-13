@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/stanford-report-highlights-growing-disconnect-betw/' | relative_url }}">stanford report highlights growing disconnect betw</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/someone-bought-30-wordpress-plugins-and-planted-a/' | relative_url }}">someone bought 30 wordpress plugins and planted a</a></h3>
 </div>
 <div class="article-row">
@@ -205,6 +209,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/github-stacked-prs/' | relative_url }}">github stacked prs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/france-is-replacing-25-million-windows-desktops-wi/' | relative_url }}">france is replacing 25 million windows desktops wi</a></h3>
 </div>
 <div class="article-row">
@@ -258,6 +266,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/an-introduction-to-obsidian/' | relative_url }}">an introduction to obsidian</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/amd-build-ai-agents-that-run-locally/' | relative_url }}">amd build ai agents that run locally</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
