@@ -65,6 +65,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/someone-bought-30-wordpress-plugins-and-planted-a/' | relative_url }}">someone bought 30 wordpress plugins and planted a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/servo-is-now-available-on-cratesio/' | relative_url }}">servo is now available on cratesio</a></h3>
 </div>
 <div class="article-row">
@@ -150,6 +154,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/i-learned-something-about-gpus-today/' | relative_url }}">i learned something about gpus today</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/i-couldnt-afford-earth-so-i-built-something-better/' | relative_url }}">i couldnt afford earth so i built something better</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/hybrid-constructions-the-post-quantum-safety-blank/' | relative_url }}">hybrid constructions the post quantum safety blank</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
