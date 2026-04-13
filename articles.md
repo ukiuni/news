@@ -85,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/microsoft-isnt-removing-copilot-from-windows-11-it/' | relative_url }}">microsoft isnt removing copilot from windows 11 it</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/microsoft-exec-suggests-ai-agents-will-need-to-buy/' | relative_url }}">microsoft exec suggests ai agents will need to buy</a></h3>
 </div>
 <div class="article-row">
@@ -97,6 +101,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/make-tmux-pretty-and-usable/' | relative_url }}">make tmux pretty and usable</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/llm-reviews-in-cargo-crev/' | relative_url }}">llm reviews in cargo crev</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/irans-forced-nationwide-internet-blackout-becomes/' | relative_url }}">irans forced nationwide internet blackout becomes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/initial-mainline-video-capture-and-camera-support/' | relative_url }}">initial mainline video capture and camera support</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
