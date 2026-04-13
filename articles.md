@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/show-hn-ithihsas-a-character-explorer-for-hindu-ep/' | relative_url }}">show hn ithihsas a character explorer for hindu ep</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/servo-is-now-available-on-cratesio/' | relative_url }}">servo is now available on cratesio</a></h3>
 </div>
 <div class="article-row">
@@ -129,6 +133,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/little-latex-pearls/' | relative_url }}">little latex pearls</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/lean-proved-this-program-was-correct-then-i-found/' | relative_url }}">lean proved this program was correct then i found</a></h3>
 </div>
 <div class="article-row">
@@ -162,6 +170,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/13</span>
   <h3><a href="{{ '/2026/04/13/hybrid-constructions-the-post-quantum-safety-blank/' | relative_url }}">hybrid constructions the post quantum safety blank</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/13</span>
+  <h3><a href="{{ '/2026/04/13/how-to-make-firefox-builds-17-faster/' | relative_url }}">how to make firefox builds 17 faster</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
