@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/distributed-duckdb-instance/' | relative_url }}">distributed duckdb instance</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/design-and-implementation-of-duckdb-internals/' | relative_url }}">design and implementation of duckdb internals</a></h3>
 </div>
 <div class="article-row">
@@ -81,7 +85,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/can-claude-fly-a-plane/' | relative_url }}">can claude fly a plane</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/anastasia-1997-live-action-reference-material/' | relative_url }}">anastasia 1997 live action reference material</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/amazon-is-still-paying-jeff-bezos-an-80000-yearly/' | relative_url }}">amazon is still paying jeff bezos an 80000 yearly</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
