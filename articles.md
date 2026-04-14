@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/youtube-viewers-can-now-work-together-to-stop-ads/' | relative_url }}">youtube viewers can now work together to stop ads</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/write-less-code-be-more-responsible/' | relative_url }}">write less code be more responsible</a></h3>
 </div>
 <div class="article-row">
@@ -17,7 +21,35 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/twenty-years-since-my-first-php-script/' | relative_url }}">twenty years since my first php script</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/the-origins-of-gpu-computing/' | relative_url }}">the origins of gpu computing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/the-human-cost-of-10x-how-ai-is-physically-breakin/' | relative_url }}">the human cost of 10x how ai is physically breakin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/the-final-1-of-every-github-project-sealing-it-pro/' | relative_url }}">the final 1 of every github project sealing it pro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/rockstar-hackers-release-their-stolen-data-reveal/' | relative_url }}">rockstar hackers release their stolen data reveal</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/new-toothpaste-stops-gum-disease-without-killing-g/' | relative_url }}">new toothpaste stops gum disease without killing g</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/man-who-threw-molotov-cocktail-at-sam-altmans-home/' | relative_url }}">man who threw molotov cocktail at sam altmans home</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/ibm-folds-to-us-president-anti-dei-push-admits-no/' | relative_url }}">ibm folds to us president anti dei push admits no</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
@@ -26,6 +58,18 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/debloat-your-async-rust/' | relative_url }}">debloat your async rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/davinci-resolve-releases-photo-editor/' | relative_url }}">davinci resolve releases photo editor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/ada-lovelace-and-the-first-computer-algorithm/' | relative_url }}">ada lovelace and the first computer algorithm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/a-new-spam-policy-for-back-button-hijacking/' | relative_url }}">a new spam policy for back button hijacking</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
