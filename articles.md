@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/the-neo-nazi-enforcer-who-helped-build-peter-thiel/' | relative_url }}">the neo nazi enforcer who helped build peter thiel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/the-mn-problem-of-tool-calling-and-open-source-mod/' | relative_url }}">the mn problem of tool calling and open source mod</a></h3>
 </div>
 <div class="article-row">
@@ -57,11 +61,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/the-case-against-gameplay-loops/' | relative_url }}">the case against gameplay loops</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/tanstack-start-now-support-react-server-components/' | relative_url }}">tanstack start now support react server components</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/sometimes-powerful-people-just-do-dumb-shit/' | relative_url }}">sometimes powerful people just do dumb shit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/schools-never-taught-critical-thinking-ai-exposed/' | relative_url }}">schools never taught critical thinking ai exposed</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
@@ -78,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/razor1911-razor1911/' | relative_url }}">razor1911 razor1911</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/rare-concert-records-going-on-internet-archive/' | relative_url }}">rare concert records going on internet archive</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
@@ -98,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/new-toothpaste-stops-gum-disease-without-killing-g/' | relative_url }}">new toothpaste stops gum disease without killing g</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/man-who-vandalized-sam-altmans-home-claimed-ai-wou/' | relative_url }}">man who vandalized sam altmans home claimed ai wou</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
@@ -186,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/a-new-spam-policy-for-back-button-hijacking/' | relative_url }}">a new spam policy for back button hijacking</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/90-of-ceos-say-ai-changed-nothing-the-other-10-hav/' | relative_url }}">90 of ceos say ai changed nothing the other 10 hav</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
