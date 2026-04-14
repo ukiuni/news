@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/razor1911-razor1911/' | relative_url }}">razor1911 razor1911</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/no-one-can-force-me-to-have-a-secure-website/' | relative_url }}">no one can force me to have a secure website</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/can-claude-fly-a-plane/' | relative_url }}">can claude fly a plane</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/backblaze-has-stopped-backing-up-your-data/' | relative_url }}">backblaze has stopped backing up your data</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
