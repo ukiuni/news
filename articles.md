@@ -37,6 +37,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/turn-your-best-ai-prompts-into-one-click-tools-in/' | relative_url }}">turn your best ai prompts into one click tools in</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/the-us-government-wants-reddit-to-snitch-on-one-of/' | relative_url }}">the us government wants reddit to snitch on one of</a></h3>
 </div>
 <div class="article-row">
@@ -289,11 +293,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/a-collection-of-small-low-stakes-and-low-effort-to/' | relative_url }}">a collection of small low stakes and low effort to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/90-of-ceos-say-ai-changed-nothing-the-other-10-hav/' | relative_url }}">90 of ceos say ai changed nothing the other 10 hav</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/5nf-and-database-design/' | relative_url }}">5nf and database design</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/40-of-lost-calories-globally-are-from-beef-needing/' | relative_url }}">40 of lost calories globally are from beef needing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
