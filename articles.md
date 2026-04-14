@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/the-shinkansen/' | relative_url }}">the shinkansen</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/the-origins-of-gpu-computing/' | relative_url }}">the origins of gpu computing</a></h3>
 </div>
 <div class="article-row">
@@ -49,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/roblox-devs-now-need-a-subscription-to-share-their/' | relative_url }}">roblox devs now need a subscription to share their</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/no-one-can-force-me-to-have-a-secure-website/' | relative_url }}">no one can force me to have a secure website</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/i-shipped-a-transaction-bug-so-i-built-a-linter/' | relative_url }}">i shipped a transaction bug so i built a linter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/grand-theft-auto-maker-rockstar-games-data-breach/' | relative_url }}">grand theft auto maker rockstar games data breach</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
