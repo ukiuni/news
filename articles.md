@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/this-talk-has-it-all-array-programming-gpu-shortcu/' | relative_url }}">this talk has it all array programming gpu shortcu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/the-us-government-wants-reddit-to-snitch-on-one-of/' | relative_url }}">the us government wants reddit to snitch on one of</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/the-final-1-of-every-github-project-sealing-it-pro/' | relative_url }}">the final 1 of every github project sealing it pro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/the-dangers-of-californias-legislation-to-censor-3/' | relative_url }}">the dangers of californias legislation to censor 3</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
@@ -185,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/missouri-town-council-approves-data-center-a-week/' | relative_url }}">missouri town council approves data center a week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/man-who-vandalized-sam-altmans-home-claimed-ai-wou/' | relative_url }}">man who vandalized sam altmans home claimed ai wou</a></h3>
 </div>
 <div class="article-row">
@@ -229,6 +241,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/hr8250-to-require-operating-system-providers-to-ve/' | relative_url }}">hr8250 to require operating system providers to ve</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/guideworld-a-compendium-of-travel-guides/' | relative_url }}">guideworld a compendium of travel guides</a></h3>
 </div>
 <div class="article-row">
@@ -241,11 +257,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/from-molotov-cocktails-to-data-center-shutdowns-th/' | relative_url }}">from molotov cocktails to data center shutdowns th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/franklins-bad-ads-for-apple-clones-and-the-beloved/' | relative_url }}">franklins bad ads for apple clones and the beloved</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/finding-a-duplicated-item-in-an-array-of-n-integer/' | relative_url }}">finding a duplicated item in an array of n integer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/facebook-and-instagram-tighten-censorship-rules-fo/' | relative_url }}">facebook and instagram tighten censorship rules fo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
@@ -297,6 +321,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/build-a-talking-robot-with-gemini-live-and-reachy/' | relative_url }}">build a talking robot with gemini live and reachy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/bosses-say-ai-boosts-productivity-workers-say-they/' | relative_url }}">bosses say ai boosts productivity workers say they</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/backblaze-has-stopped-backing-up-your-data/' | relative_url }}">backblaze has stopped backing up your data</a></h3>
 </div>
 <div class="article-row">
@@ -338,6 +370,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/40-of-lost-calories-globally-are-from-beef-needing/' | relative_url }}">40 of lost calories globally are from beef needing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/23-major-news-sites-have-blocked-the-wayback-machi/' | relative_url }}">23 major news sites have blocked the wayback machi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
