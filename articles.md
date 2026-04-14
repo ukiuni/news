@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/trusted-access-for-the-next-era-of-cyber-defense/' | relative_url }}">trusted access for the next era of cyber defense</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/the-us-government-wants-reddit-to-snitch-on-one-of/' | relative_url }}">the us government wants reddit to snitch on one of</a></h3>
 </div>
 <div class="article-row">
@@ -58,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/the-origins-of-gpu-computing/' | relative_url }}">the origins of gpu computing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/the-orange-pi-6-plus/' | relative_url }}">the orange pi 6 plus</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
