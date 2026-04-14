@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/introspective-diffusion-language-models/' | relative_url }}">introspective diffusion language models</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/ibm-folds-to-us-president-anti-dei-push-admits-no/' | relative_url }}">ibm folds to us president anti dei push admits no</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/grand-theft-auto-maker-rockstar-games-data-breach/' | relative_url }}">grand theft auto maker rockstar games data breach</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/effect-without-effect-ts-algebraic-thinking-in-pla/' | relative_url }}">effect without effect ts algebraic thinking in pla</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
@@ -105,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/an-ai-vibe-coding-horror-story/' | relative_url }}">an ai vibe coding horror story</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/amazon-is-still-paying-jeff-bezos-an-80000-yearly/' | relative_url }}">amazon is still paying jeff bezos an 80000 yearly</a></h3>
 </div>
 <div class="article-row">
@@ -114,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/a-new-spam-policy-for-back-button-hijacking/' | relative_url }}">a new spam policy for back button hijacking</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/5nf-and-database-design/' | relative_url }}">5nf and database design</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/13</span>
