@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/show-hn-plain-the-full-stack-python-framework-desi/' | relative_url }}">show hn plain the full stack python framework desi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/show-hn-langalpha-what-if-claude-code-was-built-fo/' | relative_url }}">show hn langalpha what if claude code was built fo</a></h3>
 </div>
 <div class="article-row">
@@ -201,6 +205,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/jemalloc-531-released/' | relative_url }}">jemalloc 531 released</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/introspective-diffusion-language-models/' | relative_url }}">introspective diffusion language models</a></h3>
 </div>
 <div class="article-row">
@@ -218,6 +226,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/i-shipped-a-transaction-bug-so-i-built-a-linter/' | relative_url }}">i shipped a transaction bug so i built a linter</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/guideworld-a-compendium-of-travel-guides/' | relative_url }}">guideworld a compendium of travel guides</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
