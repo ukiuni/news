@@ -61,6 +61,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/ransomware-is-growing-three-times-faster-than-the/' | relative_url }}">ransomware is growing three times faster than the</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/our-evaluation-of-claude-mythos-previews-cyber-cap/' | relative_url }}">our evaluation of claude mythos previews cyber cap</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/no-one-can-force-me-to-have-a-secure-website/' | relative_url }}">no one can force me to have a secure website</a></h3>
 </div>
 <div class="article-row">
@@ -86,6 +94,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/grand-theft-auto-maker-rockstar-games-data-breach/' | relative_url }}">grand theft auto maker rockstar games data breach</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/franklins-bad-ads-for-apple-clones-and-the-beloved/' | relative_url }}">franklins bad ads for apple clones and the beloved</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/finding-a-duplicated-item-in-an-array-of-n-integer/' | relative_url }}">finding a duplicated item in an array of n integer</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
