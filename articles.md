@@ -9,11 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/write-less-code-be-more-responsible/' | relative_url }}">write less code be more responsible</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/wiifin-jellyfin-client-for-nintendo-wii/' | relative_url }}">wiifin jellyfin client for nintendo wii</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/the-human-cost-of-10x-how-ai-is-physically-breakin/' | relative_url }}">the human cost of 10x how ai is physically breakin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/design-and-implementation-of-duckdb-internals/' | relative_url }}">design and implementation of duckdb internals</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
