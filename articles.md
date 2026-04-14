@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/youtube-now-worlds-largest-media-company-topping-d/' | relative_url }}">youtube now worlds largest media company topping d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/write-less-code-be-more-responsible/' | relative_url }}">write less code be more responsible</a></h3>
 </div>
 <div class="article-row">
@@ -149,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/object-oriented-programming-in-ada/' | relative_url }}">object oriented programming in ada</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/no-one-can-force-me-to-have-a-secure-website/' | relative_url }}">no one can force me to have a secure website</a></h3>
 </div>
 <div class="article-row">
@@ -262,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/can-claude-fly-a-plane/' | relative_url }}">can claude fly a plane</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/california-ghost-gun-bill-wants-3d-printers-to-pla/' | relative_url }}">california ghost gun bill wants 3d printers to pla</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
