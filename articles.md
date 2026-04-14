@@ -89,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/spain-to-expand-internet-blocks-to-tennis-golf-mov/' | relative_url }}">spain to expand internet blocks to tennis golf mov</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/sometimes-powerful-people-just-do-dumb-shit/' | relative_url }}">sometimes powerful people just do dumb shit</a></h3>
 </div>
 <div class="article-row">
@@ -153,6 +157,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/modifying-filezilla-to-workaround-bambu-3d-printer/' | relative_url }}">modifying filezilla to workaround bambu 3d printer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/man-who-vandalized-sam-altmans-home-claimed-ai-wou/' | relative_url }}">man who vandalized sam altmans home claimed ai wou</a></h3>
 </div>
 <div class="article-row">
@@ -169,6 +177,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/keepass-a-keepassxc-fork/' | relative_url }}">keepass a keepassxc fork</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/introspective-diffusion-language-models/' | relative_url }}">introspective diffusion language models</a></h3>
 </div>
 <div class="article-row">
@@ -178,6 +190,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/ibm-folds-to-us-president-anti-dei-push-admits-no/' | relative_url }}">ibm folds to us president anti dei push admits no</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/i-wrote-to-flocks-privacy-contact-to-opt-out-of-th/' | relative_url }}">i wrote to flocks privacy contact to opt out of th</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
@@ -234,6 +250,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/completion-is-a-substrate-not-a-ui/' | relative_url }}">completion is a substrate not a ui</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/claude-code-routines/' | relative_url }}">claude code routines</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
