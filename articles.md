@@ -9,11 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/zig-0160-release-notes/' | relative_url }}">zig 0160 release notes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/youtube-viewers-can-now-work-together-to-stop-ads/' | relative_url }}">youtube viewers can now work together to stop ads</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/write-less-code-be-more-responsible/' | relative_url }}">write less code be more responsible</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/wind-farms-provided-41-of-countrys-electricity-in/' | relative_url }}">wind farms provided 41 of countrys electricity in</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
@@ -85,7 +93,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/show-hn-langalpha-what-if-claude-code-was-built-fo/' | relative_url }}">show hn langalpha what if claude code was built fo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/show-hn-kontext-cli-credential-broker-for-ai-codin/' | relative_url }}">show hn kontext cli credential broker for ai codin</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/serialization-filtering/' | relative_url }}">serialization filtering</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
@@ -149,6 +165,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/lets-talk-space-toilets/' | relative_url }}">lets talk space toilets</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/introspective-diffusion-language-models/' | relative_url }}">introspective diffusion language models</a></h3>
 </div>
 <div class="article-row">
@@ -166,6 +186,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/grand-theft-auto-maker-rockstar-games-data-breach/' | relative_url }}">grand theft auto maker rockstar games data breach</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/google-will-begin-punishing-sites-for-back-button/' | relative_url }}">google will begin punishing sites for back button</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
