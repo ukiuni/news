@@ -37,6 +37,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/tanstack-start-now-support-react-server-components/' | relative_url }}">tanstack start now support react server components</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/sometimes-powerful-people-just-do-dumb-shit/' | relative_url }}">sometimes powerful people just do dumb shit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/rockstar-hackers-release-their-stolen-data-reveal/' | relative_url }}">rockstar hackers release their stolen data reveal</a></h3>
 </div>
 <div class="article-row">
@@ -70,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/davinci-resolve-releases-photo-editor/' | relative_url }}">davinci resolve releases photo editor</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/14</span>
+  <h3><a href="{{ '/2026/04/14/anastasia-1997-live-action-reference-material/' | relative_url }}">anastasia 1997 live action reference material</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/14</span>
