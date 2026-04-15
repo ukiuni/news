@@ -9,7 +9,15 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/truffleruby-34-full-ruby-34-compatibility-up-to-23/' | relative_url }}">truffleruby 34 full ruby 34 compatibility up to 23</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/the-fcc-just-saved-netgear-from-its-router-ban-for/' | relative_url }}">the fcc just saved netgear from its router ban for</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -18,6 +26,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/picassos-guernica-gigapixel/' | relative_url }}">picassos guernica gigapixel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/openais-852b-valuation-faces-investor-scrutiny-ami/' | relative_url }}">openais 852b valuation faces investor scrutiny ami</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -34,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/apple-chooses-amazon-satellites-for-iphone-years-a/' | relative_url }}">apple chooses amazon satellites for iphone years a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/a-guide-for-advanced-sql-joins-asof-semi-and-anti/' | relative_url }}">a guide for advanced sql joins asof semi and anti</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
