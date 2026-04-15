@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/testing-opengraph-on-localhost-from-the-cli-before/' | relative_url }}">testing opengraph on localhost from the cli before</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/stop-flock/' | relative_url }}">stop flock</a></h3>
 </div>
 <div class="article-row">
@@ -78,6 +82,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/openais-852-billion-valuation-is-facing-skepticism/' | relative_url }}">openais 852 billion valuation is facing skepticism</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/open-source-isnt-dead-calcom-just-learned-the-wron/' | relative_url }}">open source isnt dead calcom just learned the wron</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
