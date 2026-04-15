@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/installing-openbsd-on-the-pomera-dm250-writerdeck/' | relative_url }}">installing openbsd on the pomera dm250 writerdeck</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/fuck-the-cloud-2009/' | relative_url }}">fuck the cloud 2009</a></h3>
 </div>
 <div class="article-row">
