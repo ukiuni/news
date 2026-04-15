@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/my-ai-assisted-workflow/' | relative_url }}">my ai assisted workflow</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/my-adventure-in-designing-api-keys/' | relative_url }}">my adventure in designing api keys</a></h3>
 </div>
 <div class="article-row">
@@ -69,6 +73,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/i-dont-care-that-its-x-times-faster/' | relative_url }}">i dont care that its x times faster</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/fuck-the-cloud-2009/' | relative_url }}">fuck the cloud 2009</a></h3>
 </div>
 <div class="article-row">
@@ -82,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/apple-chooses-amazon-satellites-for-iphone-years-a/' | relative_url }}">apple chooses amazon satellites for iphone years a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/annas-archive-loses-322m-spotify-piracy-case-witho/' | relative_url }}">annas archive loses 322m spotify piracy case witho</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
