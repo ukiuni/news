@@ -29,11 +29,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/saying-goodbye-to-agile/' | relative_url }}">saying goodbye to agile</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/picassos-guernica-gigapixel/' | relative_url }}">picassos guernica gigapixel</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/openais-852b-valuation-faces-investor-scrutiny-ami/' | relative_url }}">openais 852b valuation faces investor scrutiny ami</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/not-all-elementary-functions-can-be-expressed-with/' | relative_url }}">not all elementary functions can be expressed with</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
