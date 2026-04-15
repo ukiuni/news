@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/want-to-write-a-compiler-just-read-these-two-paper/' | relative_url }}">want to write a compiler just read these two paper</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/understanding-clojures-persistent-vectors-pt-1-201/' | relative_url }}">understanding clojures persistent vectors pt 1 201</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/i-dont-care-that-its-x-times-faster/' | relative_url }}">i dont care that its x times faster</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/good-sleep-good-learning-2012/' | relative_url }}">good sleep good learning 2012</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
