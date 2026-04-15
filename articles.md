@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/google-gemma-4-runs-natively-on-iphone-with-full-o/' | relative_url }}">google gemma 4 runs natively on iphone with full o</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/good-sleep-good-learning-2012/' | relative_url }}">good sleep good learning 2012</a></h3>
 </div>
 <div class="article-row">
@@ -94,6 +98,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/fixing-a-20-year-old-bug-in-enlightenment-e16/' | relative_url }}">fixing a 20 year old bug in enlightenment e16</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/costasiella-kuroshimae-solar-powered-animals-that/' | relative_url }}">costasiella kuroshimae solar powered animals that</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/claude-may-require-identity-verification-in-some-c/' | relative_url }}">claude may require identity verification in some c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
