@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/the-fediverse-deserves-a-dumb-graphical-client/' | relative_url }}">the fediverse deserves a dumb graphical client</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/the-fcc-just-saved-netgear-from-its-router-ban-for/' | relative_url }}">the fcc just saved netgear from its router ban for</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/picassos-guernica-gigapixel/' | relative_url }}">picassos guernica gigapixel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/peter-steinberger-whatsapp-cli-sync-search-send/' | relative_url }}">peter steinberger whatsapp cli sync search send</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -62,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/fuck-the-cloud-2009/' | relative_url }}">fuck the cloud 2009</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/founders-need-to-be-ruthless-when-chasing-deals/' | relative_url }}">founders need to be ruthless when chasing deals</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
