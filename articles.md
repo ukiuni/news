@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/you-cannot-use-the-gnu-agpl-to-take-software-freed/' | relative_url }}">you cannot use the gnu agpl to take software freed</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/xata-open-source-postgres-platform-with-copy-on-wr/' | relative_url }}">xata open source postgres platform with copy on wr</a></h3>
 </div>
 <div class="article-row">
@@ -29,11 +33,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/ukraine-says-russians-are-surrendering-to-robots-u/' | relative_url }}">ukraine says russians are surrendering to robots u</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/truffleruby-34-full-ruby-34-compatibility-up-to-23/' | relative_url }}">truffleruby 34 full ruby 34 compatibility up to 23</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/ticketmaster-is-an-illegal-monopoly-jury-rules-thi/' | relative_url }}">ticketmaster is an illegal monopoly jury rules thi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -50,6 +62,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/the-fcc-just-saved-netgear-from-its-router-ban-for/' | relative_url }}">the fcc just saved netgear from its router ban for</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/the-emotional-terror-of-closing-a-browser-tab/' | relative_url }}">the emotional terror of closing a browser tab</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -74,6 +90,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/retrofitting-jit-compilers-into-c-interpreters/' | relative_url }}">retrofitting jit compilers into c interpreters</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/picore-raspberry-pi-port-of-tiny-core-linux/' | relative_url }}">picore raspberry pi port of tiny core linux</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -133,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/mark-ruffalo-blasts-paramount-warner-bros-merger-a/' | relative_url }}">mark ruffalo blasts paramount warner bros merger a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/live-nation-illegally-monopolized-ticketing-market/' | relative_url }}">live nation illegally monopolized ticketing market</a></h3>
 </div>
 <div class="article-row">
@@ -142,6 +166,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/johnny-somali-south-korea-jails-us-youtuber-for-pu/' | relative_url }}">johnny somali south korea jails us youtuber for pu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/jep-534-compact-object-headers-by-default/' | relative_url }}">jep 534 compact object headers by default</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -157,6 +185,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/i-miss-you-mother-speaks-to-ai-son-regularly-unawa/' | relative_url }}">i miss you mother speaks to ai son regularly unawa</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/i-implemented-ufcs-in-clang-why-it-is-cool-and-why/' | relative_url }}">i implemented ufcs in clang why it is cool and why</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/i-dont-care-that-its-x-times-faster/' | relative_url }}">i dont care that its x times faster</a></h3>
 </div>
 <div class="article-row">
@@ -169,6 +205,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/hardware-backdoors-in-x86-cpus-unlocking-god-mode/' | relative_url }}">hardware backdoors in x86 cpus unlocking god mode</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/google-gemma-4-runs-natively-on-iphone-with-full-o/' | relative_url }}">google gemma 4 runs natively on iphone with full o</a></h3>
 </div>
 <div class="article-row">
@@ -178,6 +218,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/good-sleep-good-learning-2012/' | relative_url }}">good sleep good learning 2012</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/golden-eagles-return-to-english-skies/' | relative_url }}">golden eagles return to english skies</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -221,6 +265,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/cybersecurity-looks-like-proof-of-work-now/' | relative_url }}">cybersecurity looks like proof of work now</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/cpus-arent-dead-gemma2b-out-scored-gpt-35-turbo-on/' | relative_url }}">cpus arent dead gemma2b out scored gpt 35 turbo on</a></h3>
 </div>
 <div class="article-row">
@@ -250,6 +298,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/allbirds-announces-stunning-pivot-from-shoes-to-ai/' | relative_url }}">allbirds announces stunning pivot from shoes to ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/algorithms-of-the-future-a-developers-survival-gui/' | relative_url }}">algorithms of the future a developers survival gui</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/ai-chatbots-misdiagnose-in-over-80-of-early-medica/' | relative_url }}">ai chatbots misdiagnose in over 80 of early medica</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
