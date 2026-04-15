@@ -57,6 +57,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/show-hn-libretto-making-ai-browser-automations-det/' | relative_url }}">show hn libretto making ai browser automations det</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/show-hn-every-ceo-and-cfo-change-at-us-public-comp/' | relative_url }}">show hn every ceo and cfo change at us public comp</a></h3>
 </div>
 <div class="article-row">
@@ -149,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/how-do-wake-on-lan-works/' | relative_url }}">how do wake on lan works</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/google-gemma-4-runs-natively-on-iphone-with-full-o/' | relative_url }}">google gemma 4 runs natively on iphone with full o</a></h3>
 </div>
 <div class="article-row">
@@ -170,6 +178,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/founders-need-to-be-ruthless-when-chasing-deals/' | relative_url }}">founders need to be ruthless when chasing deals</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/forcing-an-inversion-of-control-on-the-saas-stack/' | relative_url }}">forcing an inversion of control on the saas stack</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
