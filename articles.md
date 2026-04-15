@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/your-backpack-got-worse-on-purpose/' | relative_url }}">your backpack got worse on purpose</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/why-we-ended-up-building-a-unified-payment-integra/' | relative_url }}">why we ended up building a unified payment integra</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/want-to-write-a-compiler-just-read-these-two-paper/' | relative_url }}">want to write a compiler just read these two paper</a></h3>
 </div>
 <div class="article-row">
@@ -25,6 +33,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/things-you-didnt-know-about-postgres-indexes/' | relative_url }}">things you didnt know about postgres indexes</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/the-future-of-everything-is-lies-i-guess-new-jobs/' | relative_url }}">the future of everything is lies i guess new jobs</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/the-fediverse-deserves-a-dumb-graphical-client/' | relative_url }}">the fediverse deserves a dumb graphical client</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +50,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/stop-flock/' | relative_url }}">stop flock</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/show-hn-every-ceo-and-cfo-change-at-us-public-comp/' | relative_url }}">show hn every ceo and cfo change at us public comp</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -54,6 +74,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/openais-852b-valuation-faces-investor-scrutiny-ami/' | relative_url }}">openais 852b valuation faces investor scrutiny ami</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/openais-852-billion-valuation-is-facing-skepticism/' | relative_url }}">openais 852 billion valuation is facing skepticism</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -89,7 +113,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/mcp-as-observability-interface-connecting-ai-agent/' | relative_url }}">mcp as observability interface connecting ai agent</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/johnny-somali-south-korea-jails-us-youtuber-for-pu/' | relative_url }}">johnny somali south korea jails us youtuber for pu</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/its-not-ok-to-compare-floating-points-using-epsilo/' | relative_url }}">its not ok to compare floating points using epsilo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/iran-reportedly-bought-an-in-orbit-chinese-satelli/' | relative_url }}">iran reportedly bought an in orbit chinese satelli</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -101,11 +137,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/how-to-catch-n1-queries-in-ef-core-before-they-hit/' | relative_url }}">how to catch n1 queries in ef core before they hit</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/google-gemma-4-runs-natively-on-iphone-with-full-o/' | relative_url }}">google gemma 4 runs natively on iphone with full o</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/good-sleep-good-learning-2012/' | relative_url }}">good sleep good learning 2012</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/god-sleeps-in-the-minerals/' | relative_url }}">god sleeps in the minerals</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -118,6 +162,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/fixing-a-20-year-old-bug-in-enlightenment-e16/' | relative_url }}">fixing a 20 year old bug in enlightenment e16</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/drivers-sue-san-jose-over-nearly-500-flock-police/' | relative_url }}">drivers sue san jose over nearly 500 flock police</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/do-you-even-need-a-database/' | relative_url }}">do you even need a database</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -142,6 +194,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/amazon-to-acquire-globalstar-and-expand-amazon-leo/' | relative_url }}">amazon to acquire globalstar and expand amazon leo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/allbirds-announces-stunning-pivot-from-shoes-to-ai/' | relative_url }}">allbirds announces stunning pivot from shoes to ai</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
