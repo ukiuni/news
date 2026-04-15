@@ -161,6 +161,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/google-broke-its-promise-to-me-now-ice-has-my-data/' | relative_url }}">google broke its promise to me now ice has my data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/good-sleep-good-learning-2012/' | relative_url }}">good sleep good learning 2012</a></h3>
 </div>
 <div class="article-row">
@@ -189,6 +193,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/fix-monitor-that-goes-black-off-or-blinks-due-to-s/' | relative_url }}">fix monitor that goes black off or blinks due to s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/drivers-sue-san-jose-over-nearly-500-flock-police/' | relative_url }}">drivers sue san jose over nearly 500 flock police</a></h3>
 </div>
 <div class="article-row">
@@ -198,6 +206,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/direct-win32-api-weird-shaped-windows-and-why-they/' | relative_url }}">direct win32 api weird shaped windows and why they</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/cpus-arent-dead-gemma2b-out-scored-gpt-35-turbo-on/' | relative_url }}">cpus arent dead gemma2b out scored gpt 35 turbo on</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
@@ -222,6 +234,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/allbirds-announces-stunning-pivot-from-shoes-to-ai/' | relative_url }}">allbirds announces stunning pivot from shoes to ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/ai-assisted-cognition-endangers-human-development/' | relative_url }}">ai assisted cognition endangers human development</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
