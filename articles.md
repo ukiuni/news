@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/xata-open-source-postgres-platform-with-copy-on-wr/' | relative_url }}">xata open source postgres platform with copy on wr</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/why-we-ended-up-building-a-unified-payment-integra/' | relative_url }}">why we ended up building a unified payment integra</a></h3>
 </div>
 <div class="article-row">
@@ -129,6 +133,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/live-nation-illegally-monopolized-ticketing-market/' | relative_url }}">live nation illegally monopolized ticketing market</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/kalshi-ceo-expects-us-doj-to-prosecute-insider-tra/' | relative_url }}">kalshi ceo expects us doj to prosecute insider tra</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/johnny-somali-south-korea-jails-us-youtuber-for-pu/' | relative_url }}">johnny somali south korea jails us youtuber for pu</a></h3>
 </div>
 <div class="article-row">
@@ -218,6 +230,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/claude-may-require-identity-verification-in-some-c/' | relative_url }}">claude may require identity verification in some c</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/calcom-is-going-closed-source/' | relative_url }}">calcom is going closed source</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
