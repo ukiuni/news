@@ -65,6 +65,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/my-14-year-journey-away-from-orms-a-series-of-insi/' | relative_url }}">my 14 year journey away from orms a series of insi</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/mit-radiation-laboratory/' | relative_url }}">mit radiation laboratory</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/missouri-town-fires-half-its-city-council-over-dat/' | relative_url }}">missouri town fires half its city council over dat</a></h3>
 </div>
 <div class="article-row">
@@ -98,6 +106,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/fixing-a-20-year-old-bug-in-enlightenment-e16/' | relative_url }}">fixing a 20 year old bug in enlightenment e16</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/direct-win32-api-weird-shaped-windows-and-why-they/' | relative_url }}">direct win32 api weird shaped windows and why they</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
