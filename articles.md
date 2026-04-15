@@ -153,6 +153,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/gemini-robotics-er-16/' | relative_url }}">gemini robotics er 16</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/fuck-the-cloud-2009/' | relative_url }}">fuck the cloud 2009</a></h3>
 </div>
 <div class="article-row">
