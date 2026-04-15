@@ -8,6 +8,22 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/top-7-featured-dev-posts-of-the-week/' | relative_url }}">top 7 featured dev posts of the week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/picassos-guernica-gigapixel/' | relative_url }}">picassos guernica gigapixel</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/its-not-ok-to-compare-floating-points-using-epsilo/' | relative_url }}">its not ok to compare floating points using epsilo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/fuck-the-cloud-2009/' | relative_url }}">fuck the cloud 2009</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">04/14</span>
   <h3><a href="{{ '/2026/04/14/zig-0160-release-notes/' | relative_url }}">zig 0160 release notes</a></h3>
 </div>
