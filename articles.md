@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/understanding-clojures-persistent-vectors-pt-1-201/' | relative_url }}">understanding clojures persistent vectors pt 1 201</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/truffleruby-34-full-ruby-34-compatibility-up-to-23/' | relative_url }}">truffleruby 34 full ruby 34 compatibility up to 23</a></h3>
 </div>
 <div class="article-row">
