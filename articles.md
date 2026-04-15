@@ -45,6 +45,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/my-adventure-in-designing-api-keys/' | relative_url }}">my adventure in designing api keys</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/missouri-town-fires-half-its-city-council-over-dat/' | relative_url }}">missouri town fires half its city council over dat</a></h3>
 </div>
 <div class="article-row">
@@ -61,7 +65,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/fixing-a-20-year-old-bug-in-enlightenment-e16/' | relative_url }}">fixing a 20 year old bug in enlightenment e16</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/apple-chooses-amazon-satellites-for-iphone-years-a/' | relative_url }}">apple chooses amazon satellites for iphone years a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/amazon-to-acquire-globalstar-and-expand-amazon-leo/' | relative_url }}">amazon to acquire globalstar and expand amazon leo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
