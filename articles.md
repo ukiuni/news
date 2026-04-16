@@ -8,6 +8,10 @@ permalink: /articles/
 
 <div class="articles-list">
 <div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/hacker-news-cli/' | relative_url }}">hacker news cli</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/your-backpack-got-worse-on-purpose/' | relative_url }}">your backpack got worse on purpose</a></h3>
 </div>
@@ -122,6 +126,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/15</span>
   <h3><a href="{{ '/2026/04/15/open-source-isnt-dead-calcom-just-learned-the-wron/' | relative_url }}">open source isnt dead calcom just learned the wron</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/15</span>
+  <h3><a href="{{ '/2026/04/15/ohio-prison-inmates-built-computers-and-hid-them-i/' | relative_url }}">ohio prison inmates built computers and hid them i</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
