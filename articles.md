@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/where-the-doge-operatives-are-now/' | relative_url }}">where the doge operatives are now</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/we-gave-an-ai-a-3-year-retail-lease-and-asked-it-t/' | relative_url }}">we gave an ai a 3 year retail lease and asked it t</a></h3>
 </div>
 <div class="article-row">
@@ -61,11 +65,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/stop-using-jwts/' | relative_url }}">stop using jwts</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/stealth-signals-are-bypassing-irans-internet-black/' | relative_url }}">stealth signals are bypassing irans internet black</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/spacex-bought-18-of-tesla-cybertrucks-sold-in-us-d/' | relative_url }}">spacex bought 18 of tesla cybertrucks sold in us d</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/six-characters/' | relative_url }}">six characters</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
@@ -82,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/qwen36-35b-a3b-agentic-coding-power-now-open-to-al/' | relative_url }}">qwen36 35b a3b agentic coding power now open to al</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/pci-express-over-fiber-video/' | relative_url }}">pci express over fiber video</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
@@ -118,6 +134,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/kde-gear-2604/' | relative_url }}">kde gear 2604</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/join-the-openclaw-challenge-1200-prize-pool/' | relative_url }}">join the openclaw challenge 1200 prize pool</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
@@ -169,6 +189,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/europe-has-maybe-6-weeks-of-jet-fuel-left/' | relative_url }}">europe has maybe 6 weeks of jet fuel left</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/dennis-ritchie-on-the-double-roles-of-amp-and-in-e/' | relative_url }}">dennis ritchie on the double roles of amp and in e</a></h3>
 </div>
 <div class="article-row">
@@ -214,6 +238,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/atomic-operations-in-go/' | relative_url }}">atomic operations in go</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/artifacts-versioned-storage-that-speaks-git/' | relative_url }}">artifacts versioned storage that speaks git</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
