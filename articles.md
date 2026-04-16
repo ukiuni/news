@@ -89,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/show-hn-marky-a-lightweight-markdown-viewer-for-ag/' | relative_url }}">show hn marky a lightweight markdown viewer for ag</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/show-hn-macmind-a-transformer-neural-network-in-hy/' | relative_url }}">show hn macmind a transformer neural network in hy</a></h3>
 </div>
 <div class="article-row">
