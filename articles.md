@@ -13,11 +13,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/the-paper-computer/' | relative_url }}">the paper computer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/stealth-signals-are-bypassing-irans-internet-black/' | relative_url }}">stealth signals are bypassing irans internet black</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/meta-financially-enabling-settler-attacks-against/' | relative_url }}">meta financially enabling settler attacks against</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/keycard-inject-api-keys-into-subprocesses-never-to/' | relative_url }}">keycard inject api keys into subprocesses never to</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/introduction-to-spherical-harmonics-for-graphics-p/' | relative_url }}">introduction to spherical harmonics for graphics p</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/internet-protocol-version-8-ipv8/' | relative_url }}">internet protocol version 8 ipv8</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
