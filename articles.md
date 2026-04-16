@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/turning-the-raspberry-pi-zero-into-a-hacking-gadge/' | relative_url }}">turning the raspberry pi zero into a hacking gadge</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/too-much-discussion-of-the-xor-swap-trick/' | relative_url }}">too much discussion of the xor swap trick</a></h3>
 </div>
 <div class="article-row">
@@ -45,11 +49,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/show-hn-macmind-a-transformer-neural-network-in-hy/' | relative_url }}">show hn macmind a transformer neural network in hy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/redsun-system-user-access-on-win-1110-and-server-w/' | relative_url }}">redsun system user access on win 1110 and server w</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/qwen36-35b-a3b-agentic-coding-power-now-open-to-al/' | relative_url }}">qwen36 35b a3b agentic coding power now open to al</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/mozilla-thunderbolt/' | relative_url }}">mozilla thunderbolt</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
@@ -66,6 +78,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/let-sleeping-cpus-lie-s0ix/' | relative_url }}">let sleeping cpus lie s0ix</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/laravel-raised-money-and-now-injects-ads-directly/' | relative_url }}">laravel raised money and now injects ads directly</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
@@ -129,6 +145,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/claude-opus-47/' | relative_url }}">claude opus 47</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/atomic-operations-in-go/' | relative_url }}">atomic operations in go</a></h3>
 </div>
 <div class="article-row">
@@ -154,6 +174,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/adding-persistent-memory-to-claude-code-with-claud/' | relative_url }}">adding persistent memory to claude code with claud</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/a-time-travel-debugger-for-webassembly/' | relative_url }}">a time travel debugger for webassembly</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
