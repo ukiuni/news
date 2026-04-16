@@ -17,6 +17,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/we-gave-an-ai-a-3-year-retail-lease-and-asked-it-t/' | relative_url }}">we gave an ai a 3 year retail lease and asked it t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/turning-the-raspberry-pi-zero-into-a-hacking-gadge/' | relative_url }}">turning the raspberry pi zero into a hacking gadge</a></h3>
 </div>
 <div class="article-row">
@@ -50,6 +54,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/show-hn-macmind-a-transformer-neural-network-in-hy/' | relative_url }}">show hn macmind a transformer neural network in hy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/show-hn-codeburn-analyze-claude-code-token-usage-b/' | relative_url }}">show hn codeburn analyze claude code token usage b</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
