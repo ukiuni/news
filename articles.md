@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/why-sal-khans-ai-revolution-hasnt-happened-yet-acc/' | relative_url }}">why sal khans ai revolution hasnt happened yet acc</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/the-paper-computer/' | relative_url }}">the paper computer</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/amazon-ai-cancelling-webcomics/' | relative_url }}">amazon ai cancelling webcomics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/airbnb-discloses-a-billion-series-prometheus-metri/' | relative_url }}">airbnb discloses a billion series prometheus metri</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
