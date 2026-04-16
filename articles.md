@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/the-age-of-snarky-ui/' | relative_url }}">the age of snarky ui</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/switching-higher-order-streams-to-first-order-stre/' | relative_url }}">switching higher order streams to first order stre</a></h3>
 </div>
 <div class="article-row">
@@ -93,7 +97,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/codex-hacked-a-samsung-tv/' | relative_url }}">codex hacked a samsung tv</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/cltrace-dtrace-inspired-tracing-and-observability/' | relative_url }}">cltrace dtrace inspired tracing and observability</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/atomic-operations-in-go/' | relative_url }}">atomic operations in go</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/ancient-dna-reveals-pervasive-directional-selectio/' | relative_url }}">ancient dna reveals pervasive directional selectio</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
