@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/tigerbeetle-a-trillion-transactions-video/' | relative_url }}">tigerbeetle a trillion transactions video</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/the-paper-computer/' | relative_url }}">the paper computer</a></h3>
 </div>
 <div class="article-row">
@@ -90,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/redsun-system-user-access-on-win-1110-and-server-w/' | relative_url }}">redsun system user access on win 1110 and server w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/qwen36-35b-a3b-on-my-laptop-drew-me-a-better-pelic/' | relative_url }}">qwen36 35b a3b on my laptop drew me a better pelic</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
@@ -174,6 +182,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/google-just-patented-the-end-of-your-website/' | relative_url }}">google just patented the end of your website</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/german-dog-commands/' | relative_url }}">german dog commands</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
