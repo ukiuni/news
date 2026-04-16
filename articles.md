@@ -13,11 +13,35 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/keycard-inject-api-keys-into-subprocesses-never-to/' | relative_url }}">keycard inject api keys into subprocesses never to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/introduction-to-spherical-harmonics-for-graphics-p/' | relative_url }}">introduction to spherical harmonics for graphics p</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/hr8250-to-require-operating-system-providers-to-ve/' | relative_url }}">hr8250 to require operating system providers to ve</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/how-i-learned-unity-the-wrong-way/' | relative_url }}">how i learned unity the wrong way</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/hacker-news-cli/' | relative_url }}">hacker news cli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/atomic-operations-in-go/' | relative_url }}">atomic operations in go</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/amazon-ai-cancelling-webcomics/' | relative_url }}">amazon ai cancelling webcomics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/a-better-ludum-dare-or-how-to-ruin-a-legacy/' | relative_url }}">a better ludum dare or how to ruin a legacy</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
