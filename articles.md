@@ -53,6 +53,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/the-beginning-of-scarcity-in-ai/' | relative_url }}">the beginning of scarcity in ai</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/the-api-tooling-crisis-why-developers-are-abandoni/' | relative_url }}">the api tooling crisis why developers are abandoni</a></h3>
 </div>
 <div class="article-row">
@@ -110,6 +114,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/okay-what-actually-uses-rust/' | relative_url }}">okay what actually uses rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/official-clojure-documentary-page-with-video-shown/' | relative_url }}">official clojure documentary page with video shown</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
@@ -182,6 +190,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/hacker-news-cli/' | relative_url }}">hacker news cli</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/guy-builds-ai-driven-hardware-hacker-arm-from-duct/' | relative_url }}">guy builds ai driven hardware hacker arm from duct</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
@@ -302,6 +314,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/a-look-into-navidial-japans-legacy-phone-service/' | relative_url }}">a look into navidial japans legacy phone service</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/a-better-r-programming-experience-thanks-to-tree-s/' | relative_url }}">a better r programming experience thanks to tree s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
