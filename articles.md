@@ -81,6 +81,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/fast-and-easy-levenshtein-distance-using-a-trie-20/' | relative_url }}">fast and easy levenshtein distance using a trie 20</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/darkbloom-private-inference-on-idle-macs/' | relative_url }}">darkbloom private inference on idle macs</a></h3>
 </div>
 <div class="article-row">
