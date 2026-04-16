@@ -41,6 +41,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/modern-microprocessors-a-90-minute-guide/' | relative_url }}">modern microprocessors a 90 minute guide</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/meta-financially-enabling-settler-attacks-against/' | relative_url }}">meta financially enabling settler attacks against</a></h3>
 </div>
 <div class="article-row">
