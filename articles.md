@@ -17,7 +17,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/too-much-discussion-of-the-xor-swap-trick/' | relative_url }}">too much discussion of the xor swap trick</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/the-paper-computer/' | relative_url }}">the paper computer</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/switching-higher-order-streams-to-first-order-stre/' | relative_url }}">switching higher order streams to first order stre</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
@@ -34,6 +42,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/meta-financially-enabling-settler-attacks-against/' | relative_url }}">meta financially enabling settler attacks against</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/let-sleeping-cpus-lie-s0ix/' | relative_url }}">let sleeping cpus lie s0ix</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
