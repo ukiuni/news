@@ -53,11 +53,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/mastodon-dont-use-mastodon-or-mstdn-in-domain-name/' | relative_url }}">mastodon dont use mastodon or mstdn in domain name</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/let-sleeping-cpus-lie-s0ix/' | relative_url }}">let sleeping cpus lie s0ix</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/keycard-inject-api-keys-into-subprocesses-never-to/' | relative_url }}">keycard inject api keys into subprocesses never to</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/kde-gear-2604/' | relative_url }}">kde gear 2604</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
@@ -109,6 +117,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/apple-accelerates-eco-progress-with-highest-ever-r/' | relative_url }}">apple accelerates eco progress with highest ever r</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/ancient-dna-reveals-pervasive-directional-selectio/' | relative_url }}">ancient dna reveals pervasive directional selectio</a></h3>
 </div>
 <div class="article-row">
@@ -121,11 +133,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/adding-persistent-memory-to-claude-code-with-claud/' | relative_url }}">adding persistent memory to claude code with claud</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/a-look-into-navidial-japans-legacy-phone-service/' | relative_url }}">a look into navidial japans legacy phone service</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/a-better-ludum-dare-or-how-to-ruin-a-legacy/' | relative_url }}">a better ludum dare or how to ruin a legacy</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/54k-spike-in-13h-from-unrestricted-firebase-browse/' | relative_url }}">54k spike in 13h from unrestricted firebase browse</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/15</span>
