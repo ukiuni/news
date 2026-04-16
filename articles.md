@@ -109,6 +109,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/okay-what-actually-uses-rust/' | relative_url }}">okay what actually uses rust</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/mozilla-thunderbolt/' | relative_url }}">mozilla thunderbolt</a></h3>
 </div>
 <div class="article-row">
@@ -233,6 +237,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/clojure-the-documentary/' | relative_url }}">clojure the documentary</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/clicking-reject-cookies-might-not-actually-do-anyt/' | relative_url }}">clicking reject cookies might not actually do anyt</a></h3>
 </div>
 <div class="article-row">
@@ -262,6 +270,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/announcing-rust-1950/' | relative_url }}">announcing rust 1950</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/android-cli-build-android-apps-3x-faster-using-any/' | relative_url }}">android cli build android apps 3x faster using any</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
