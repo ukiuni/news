@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/the-future-of-everything-is-lies-i-guess-where-do/' | relative_url }}">the future of everything is lies i guess where do</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/the-age-of-snarky-ui/' | relative_url }}">the age of snarky ui</a></h3>
 </div>
 <div class="article-row">
@@ -42,6 +46,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/redsun-system-user-access-on-win-1110-and-server-w/' | relative_url }}">redsun system user access on win 1110 and server w</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/qwen36-35b-a3b-agentic-coding-power-now-open-to-al/' | relative_url }}">qwen36 35b a3b agentic coding power now open to al</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
@@ -113,6 +121,14 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/cloudflares-ai-platform-an-inference-layer-designe/' | relative_url }}">cloudflares ai platform an inference layer designe</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/cloudflare-email-service-now-in-public-beta-ready/' | relative_url }}">cloudflare email service now in public beta ready</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/atomic-operations-in-go/' | relative_url }}">atomic operations in go</a></h3>
 </div>
 <div class="article-row">
@@ -130,6 +146,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/airbnb-discloses-a-billion-series-prometheus-metri/' | relative_url }}">airbnb discloses a billion series prometheus metri</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/16</span>
+  <h3><a href="{{ '/2026/04/16/ai-cybersecurity-is-not-proof-of-work/' | relative_url }}">ai cybersecurity is not proof of work</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
