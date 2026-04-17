@@ -69,6 +69,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/a-python-interpreter-written-in-python/' | relative_url }}">a python interpreter written in python</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/288493-requests-how-i-spotted-an-xml-rpc-brute-for/' | relative_url }}">288493 requests how i spotted an xml rpc brute for</a></h3>
 </div>
 <div class="article-row">
