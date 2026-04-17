@@ -113,6 +113,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/im-spending-3-months-coding-the-old-way/' | relative_url }}">im spending 3 months coding the old way</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/ietf-draft-meow-mrrp-00/' | relative_url }}">ietf draft meow mrrp 00</a></h3>
 </div>
 <div class="article-row">
