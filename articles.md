@@ -136,6 +136,10 @@ permalink: /articles/
   <h3><a href="{{ '/2026/04/17/288493-requests-how-i-spotted-an-xml-rpc-brute-for/' | relative_url }}">288493 requests how i spotted an xml rpc brute for</a></h3>
 </div>
 <div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/-literacy-speedrun-ii-character-cyclotron/' | relative_url }}"> literacy speedrun ii character cyclotron</a></h3>
+</div>
+<div class="article-row">
   <span class="article-date">04/16</span>
   <h3><a href="{{ '/2026/04/16/youtube-now-lets-you-turn-off-shorts/' | relative_url }}">youtube now lets you turn off shorts</a></h3>
 </div>
