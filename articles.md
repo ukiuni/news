@@ -9,6 +9,14 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/what-brings-you-by-a-conference-booth/' | relative_url }}">what brings you by a conference booth</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/the-maths-behind-python-dictionary-probing/' | relative_url }}">the maths behind python dictionary probing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/the-claude-coding-vibes-are-getting-worse/' | relative_url }}">the claude coding vibes are getting worse</a></h3>
 </div>
 <div class="article-row">
@@ -25,11 +33,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/operating-system-verify-your-age-for-other-purpose/' | relative_url }}">operating system verify your age for other purpose</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/opendata-timeseries-prometheus-compatible-metrics/' | relative_url }}">opendata timeseries prometheus compatible metrics</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/new-unsealed-records-reveal-amazons-price-fixing-t/' | relative_url }}">new unsealed records reveal amazons price fixing t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/kafka-fundamentals-guide-to-distributed-messaging/' | relative_url }}">kafka fundamentals guide to distributed messaging</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/joaquin-phoenix-ben-stiller-kristen-stewart-and-10/' | relative_url }}">joaquin phoenix ben stiller kristen stewart and 10</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
@@ -65,6 +85,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/billionaire-netflix-cofounder-reed-hastings-is-lea/' | relative_url }}">billionaire netflix cofounder reed hastings is lea</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/allbirds-stock-tumbles-after-nearly-600-rally-as-t/' | relative_url }}">allbirds stock tumbles after nearly 600 rally as t</a></h3>
 </div>
 <div class="article-row">
@@ -74,6 +98,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/a-python-interpreter-written-in-python/' | relative_url }}">a python interpreter written in python</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/30-years-of-hpc-many-hardware-advances-little-adop/' | relative_url }}">30 years of hpc many hardware advances little adop</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
