@@ -9,7 +9,19 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/roblox-hit-with-125-million-settlement-that-bans-a/' | relative_url }}">roblox hit with 125 million settlement that bans a</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/opendata-timeseries-prometheus-compatible-metrics/' | relative_url }}">opendata timeseries prometheus compatible metrics</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/new-unsealed-records-reveal-amazons-price-fixing-t/' | relative_url }}">new unsealed records reveal amazons price fixing t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/how-silicon-valley-is-turning-scientists-into-expl/' | relative_url }}">how silicon valley is turning scientists into expl</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
@@ -17,7 +29,27 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/github-ceo-says-the-smartest-companies-will-hire-m/' | relative_url }}">github ceo says the smartest companies will hire m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/everything-we-like-is-a-psyop/' | relative_url }}">everything we like is a psyop</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/engineer-open-sources-diy-radar-system-thats-95-ch/' | relative_url }}">engineer open sources diy radar system thats 95 ch</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/china-has-nearly-erased-americas-lead-in-ai-and-th/' | relative_url }}">china has nearly erased americas lead in ai and th</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/cadquery-is-an-open-source-python-library-for-buil/' | relative_url }}">cadquery is an open source python library for buil</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/allbirds-stock-tumbles-after-nearly-600-rally-as-t/' | relative_url }}">allbirds stock tumbles after nearly 600 rally as t</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
