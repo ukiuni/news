@@ -49,6 +49,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/show-hn-smol-machines-subsecond-coldstart-portable/' | relative_url }}">show hn smol machines subsecond coldstart portable</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/roblox-hit-with-125-million-settlement-that-bans-a/' | relative_url }}">roblox hit with 125 million settlement that bans a</a></h3>
 </div>
 <div class="article-row">
@@ -157,6 +161,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/congrats-to-the-notion-mcp-challenge-winners/' | relative_url }}">congrats to the notion mcp challenge winners</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/congrats-to-the-2026-wecoded-challenge-winners/' | relative_url }}">congrats to the 2026 wecoded challenge winners</a></h3>
 </div>
 <div class="article-row">
@@ -190,6 +198,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/allbirds-stock-tumbles-after-nearly-600-rally-as-t/' | relative_url }}">allbirds stock tumbles after nearly 600 rally as t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/all-12-moonwalkers-had-lunar-hay-fever-from-dust-s/' | relative_url }}">all 12 moonwalkers had lunar hay fever from dust s</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
