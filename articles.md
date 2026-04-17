@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/your-job-isnt-going-away-but-someones-fundraise-de/' | relative_url }}">your job isnt going away but someones fundraise de</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/what-brings-you-by-a-conference-booth/' | relative_url }}">what brings you by a conference booth</a></h3>
 </div>
 <div class="article-row">
@@ -66,6 +70,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/github-ceo-says-the-smartest-companies-will-hire-m/' | relative_url }}">github ceo says the smartest companies will hire m</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/git-kv-key-value-store-attached-to-git-commits-usi/' | relative_url }}">git kv key value store attached to git commits usi</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
