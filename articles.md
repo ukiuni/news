@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/why-is-ipv6-so-complicated/' | relative_url }}">why is ipv6 so complicated</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
 </div>
 <div class="article-row">
@@ -226,6 +230,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/ada-its-design-and-the-language-that-built-the-lan/' | relative_url }}">ada its design and the language that built the lan</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/a-simplified-model-of-fil-c/' | relative_url }}">a simplified model of fil c</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
