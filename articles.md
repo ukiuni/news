@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/show-hn-spice-simulation-oscilloscope-verification/' | relative_url }}">show hn spice simulation oscilloscope verification</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/roblox-hit-with-125-million-settlement-that-bans-a/' | relative_url }}">roblox hit with 125 million settlement that bans a</a></h3>
 </div>
 <div class="article-row">
