@@ -9,6 +9,10 @@ permalink: /articles/
 <div class="articles-list">
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/the-claude-coding-vibes-are-getting-worse/' | relative_url }}">the claude coding vibes are getting worse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/show-hn-spice-simulation-oscilloscope-verification/' | relative_url }}">show hn spice simulation oscilloscope verification</a></h3>
 </div>
 <div class="article-row">
@@ -54,6 +58,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/allbirds-stock-tumbles-after-nearly-600-rally-as-t/' | relative_url }}">allbirds stock tumbles after nearly 600 rally as t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/288493-requests-how-i-spotted-an-xml-rpc-brute-for/' | relative_url }}">288493 requests how i spotted an xml rpc brute for</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/16</span>
