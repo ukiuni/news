@@ -21,6 +21,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/rebot-devarm-open-source-robotic-arm/' | relative_url }}">rebot devarm open source robotic arm</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/opendata-timeseries-prometheus-compatible-metrics/' | relative_url }}">opendata timeseries prometheus compatible metrics</a></h3>
 </div>
 <div class="article-row">
