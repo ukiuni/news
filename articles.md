@@ -25,6 +25,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/webloc-analysis-of-penlinks-ad-based-geolocation-s/' | relative_url }}">webloc analysis of penlinks ad based geolocation s</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/we-reproduced-anthropics-mythos-findings-with-publ/' | relative_url }}">we reproduced anthropics mythos findings with publ</a></h3>
 </div>
 <div class="article-row">
@@ -34,6 +38,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/the-maths-behind-python-dictionary-probing/' | relative_url }}">the maths behind python dictionary probing</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/the-lost-thesis-of-dennis-ritchie/' | relative_url }}">the lost thesis of dennis ritchie</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
@@ -110,6 +118,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/iceye-open-data/' | relative_url }}">iceye open data</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/i-built-a-3d-printing-business-and-ran-it-for-8-mo/' | relative_url }}">i built a 3d printing business and ran it for 8 mo</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
