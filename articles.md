@@ -89,6 +89,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/collaborative-autoresearch-on-a-peer-to-peer-netwo/' | relative_url }}">collaborative autoresearch on a peer to peer netwo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/china-has-nearly-erased-americas-lead-in-ai-and-th/' | relative_url }}">china has nearly erased americas lead in ai and th</a></h3>
 </div>
 <div class="article-row">
@@ -106,6 +110,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/ai-doesnt-fix-weak-engineering-it-just-speeds-it-u/' | relative_url }}">ai doesnt fix weak engineering it just speeds it u</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/ada-its-design-and-the-language-that-built-the-lan/' | relative_url }}">ada its design and the language that built the lan</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
