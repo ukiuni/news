@@ -13,6 +13,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/what-was-your-win-this-week/' | relative_url }}">what was your win this week</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/what-brings-you-by-a-conference-booth/' | relative_url }}">what brings you by a conference booth</a></h3>
 </div>
 <div class="article-row">
@@ -22,6 +26,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/we-reproduced-anthropics-mythos-findings-with-publ/' | relative_url }}">we reproduced anthropics mythos findings with publ</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/we-beat-googles-zero-knowledge-proof-of-quantum-cr/' | relative_url }}">we beat googles zero knowledge proof of quantum cr</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
@@ -57,7 +65,15 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/nist-gives-up-enriching-most-cves/' | relative_url }}">nist gives up enriching most cves</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/new-unsealed-records-reveal-amazons-price-fixing-t/' | relative_url }}">new unsealed records reveal amazons price fixing t</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/middle-schooler-finds-coin-from-troy-in-berlin/' | relative_url }}">middle schooler finds coin from troy in berlin</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
@@ -78,6 +94,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/isaac-asimov-the-last-question/' | relative_url }}">isaac asimov the last question</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/ietf-draft-meow-mrrp-00/' | relative_url }}">ietf draft meow mrrp 00</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/iceye-open-data/' | relative_url }}">iceye open data</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
@@ -134,6 +158,14 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/collaborative-autoresearch-on-a-peer-to-peer-netwo/' | relative_url }}">collaborative autoresearch on a peer to peer netwo</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/claude-opus-47-costs-2030-more-per-session/' | relative_url }}">claude opus 47 costs 2030 more per session</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/claude-design/' | relative_url }}">claude design</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
