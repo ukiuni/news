@@ -105,6 +105,10 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/congrats-to-the-2026-wecoded-challenge-winners/' | relative_url }}">congrats to the 2026 wecoded challenge winners</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/collaborative-autoresearch-on-a-peer-to-peer-netwo/' | relative_url }}">collaborative autoresearch on a peer to peer netwo</a></h3>
 </div>
 <div class="article-row">
