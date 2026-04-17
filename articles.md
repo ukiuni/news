@@ -21,11 +21,19 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/we-reproduced-anthropics-mythos-findings-with-publ/' | relative_url }}">we reproduced anthropics mythos findings with publ</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/the-maths-behind-python-dictionary-probing/' | relative_url }}">the maths behind python dictionary probing</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/the-claude-coding-vibes-are-getting-worse/' | relative_url }}">the claude coding vibes are getting worse</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/tangled-newsletter-01-hello/' | relative_url }}">tangled newsletter 01 hello</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
@@ -57,11 +65,23 @@ permalink: /articles/
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/join-our-dev-weekend-challenge-1000-in-prizes-acro/' | relative_url }}">join our dev weekend challenge 1000 in prizes acro</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/joaquin-phoenix-ben-stiller-kristen-stewart-and-10/' | relative_url }}">joaquin phoenix ben stiller kristen stewart and 10</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/it-is-time-to-ban-the-sale-of-precise-geolocation/' | relative_url }}">it is time to ban the sale of precise geolocation</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/isaac-asimov-the-last-question/' | relative_url }}">isaac asimov the last question</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/http-desync-in-discords-media-proxy-spying-on-a-wh/' | relative_url }}">http desync in discords media proxy spying on a wh</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
@@ -74,6 +94,10 @@ permalink: /articles/
 <div class="article-row">
   <span class="article-date">04/17</span>
   <h3><a href="{{ '/2026/04/17/hospital-at-centre-of-child-hiv-outbreak-caught-re/' | relative_url }}">hospital at centre of child hiv outbreak caught re</a></h3>
+</div>
+<div class="article-row">
+  <span class="article-date">04/17</span>
+  <h3><a href="{{ '/2026/04/17/healthchecksio-now-uses-self-hosted-object-storage/' | relative_url }}">healthchecksio now uses self hosted object storage</a></h3>
 </div>
 <div class="article-row">
   <span class="article-date">04/17</span>
